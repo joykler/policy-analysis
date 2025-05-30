@@ -1,0 +1,57 @@
+Onze referentie 
+Bij de performance-meters zijn nu 3 categorieën resultaten mogelijk. Groen bete-
+38988453 
+kent dat de norm wordt gehaald. Geel betekent dat de norm niet gehaald wordt, 
+maar dat dit geen risico oplevert voor de duur van een bekostigingsronde en dus 
+voor de tijdigheid van de bekostiging. Rood betekent dat de tijdigheid van de be-
+kostiging wel in gevaar komt. Zoals te zien valt in de plaat, vallen de resultaten 
+binnen de norm voor de sectoren die zijn getest. De tests geven geen aanleiding 
+tot zorg over de huidige en toekomstige performance bij de betrokken medewer-
+kers. 
+ 
+Belangrijkste resultaten programma DAB tot april 2022 (periode tot Kamerdebat) 
+• Oplevering basisapplicatie; ingezet voor bekostiging mbo, geschikt voor alle 
+sectoren. 
+• Oplevering basisapplicatie voor hoofdproces ‘verantwoorden’; oude applicatie 
+verantwoorden uitgefaseerd. 
+• Onderhoud gepleegd aan oude ICT-systemen voor gebruik tot einde pro-
+gramma (incl. inzet als terugvaloptie.) 
+ 
+Belangrijkste resultaten programma DAB periode april – oktober 2022 (eerste 
+voortgangsrapportage) 
+• Doorontwikkelen basisapplicatie bekostigen (functionaliteit én implementeren 
+regelingen) en basisapplicatie verantwoorden. 
+• Start implementatie vo-regelingen. 
+• Het totale aantal handmatige handelingen in het bekostigingsproces is terug-
+gedrongen door automatisering. 
+• Businesscase DAB geactualiseerd 
+• Verbeterplan (Transitieplan) opgesteld en in uitvoering binnen DUO (van be-
+lang voor DAB). 
+ 
+Belangrijkste resultaten programma DAB periode november 2022 – april 2023 
+(deze tweede rapportage) 
+• Eerste regelingen van de sector vo in productie genomen, 93% van het bud-
+get voor vo wordt nu uitbetaald via de nieuwe bekostigingsapplicatie. 
+• Toets uitgevoerd naar de mate waarin het nieuwe landschap voldoet aan de 
+gestelde architectuurkaders en waar nodig acties in gang gezet voor verbete-
+ring.  
+• Migratiestrategie opgeleverd voor het uitfaseren van de oude ICT-systemen 
+(ten behoeve van het ‘Plan uitfaseren oude applicaties’). 
+• Gestart met de bouw van de applicatie voor het proces Voorzieningenplan-
+ning. 
+• Het verantwoordingsproces wordt nu ondersteund door de nieuwe applicatie 
+en ondersteund met twee brieven die geautomatiseerd gemaakt, verzonden 
+en gearchiveerd worden. 
+• Eerste stappen gezet in de transitie van document- naar zaakgericht werken: 
+basisapplicatie voor eerste proces binnen document- en archiefmanagement 
+opgeleverd. 
+• 0-meting uitgevoerd door de Software Improvement Group (SIG) op de on-
+derhoudbaarheid en gebruiksvriendelijkheid van de nieuwe applicaties.  
+• Diverse verbeteringen doorgevoerd in de governance en samenwerking met 
+leverancier Blueriq (o.a. leveranciersmanagement, overleggen op operatio-
+neel, tactisch en strategisch niveau, gemeenschappelijke risicolog). 
+• Afspraken met leverancier RMG (regelmanagement) geborgd in overeen-
+komst (SLA) en ingebed in het leveranciersmanagement van DUO.  
+ 
+ 
+ Pagina 10 van 25

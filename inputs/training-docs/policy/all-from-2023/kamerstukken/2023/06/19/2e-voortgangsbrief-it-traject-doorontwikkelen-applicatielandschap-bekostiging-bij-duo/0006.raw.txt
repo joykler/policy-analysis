@@ -1,0 +1,46 @@
+Onze referentie 
+Bijlage 1: Programma DAB in detail 
+38988453 
+ 
+Achtergrondinformatie over het programma DAB 
+De huidige ICT-systemen (ook wel applicatielandschap genoemd) voor het bekos-
+6
+tigen van instellingen en uitvoeren van de voorzieningenplanning zijn verouderd. 
+De systemen zijn complex, lastig te onderhouden en onvoldoende aanpasbaar aan 
+de wensen van medewerkers en opdrachtgevers vanuit beleid. Documentatie is 
+beperkt bijgehouden en kennis schaars. Doorontwikkeling van het oude systeem 
+was geen reële optie. Interne onderzoeken, mede uitgevoerd door een externe 
+partij, lieten zien dat vervanging binnen afzienbare tijd noodzakelijk was om de 
+continuïteit van de dienstverlening te kunnen garanderen. Om die reden is in 
+2019 het programma DAB gestart voor het moderniseren van de ICT-systemen. 
+ 
+De primaire doelstellingen van het programma DAB zijn:  
+• Continuïteit en betrouwbaarheid van de dienstverlening garanderen. 
+• Toekomstbestendige, goed onderhoudbare en gebruikersvriendelijker ICT-
+systemen. 
+• Een flexibele en simpele opzet van de ICT-systemen, zodat veranderingen in 
+wet- en regelgeving snel en relatief makkelijk kunnen worden doorgevoerd. 
+• Verhogen van de efficiëntie van de uitvoering door het realiseren van proces-
+optimalisaties en handmatige stappen te beperken. 
+• Waarborgen van compliance voor de digitale veiligheid en naleving van Rijks-
+kaders en wet- en regelgeving. 
+ 
+Er is bewust gekozen om het nieuwe bekostigingssysteem niet helemaal zelf te 
+bouwen (zelf te programmeren), maar om gebruik te maken van het platform 
+Blueriq van de gelijknamige leverancier. Voordelen hiervan zijn: 
+• Platform biedt al veel functionaliteit die nodig is in het bekostigingsproces 
+• Gewenste functionaliteit die het platform moet uitvoeren, kan gemodelleerd 
+worden in plaats van het te programmeren. Er is dan geen diepgaande IT-
+kennis nodig bij de DUO Blueriq engineers 
+• Regelingen zijn snel te implementeren: in plaats van alles programmeren 
+wordt het platform ‘gevoed’ met bedrijfsregels  
+• DUO hoeft het Blueriq-platform niet zelf te onderhouden 
+Een dergelijk platform wordt ook wel ‘low code’ technologie genoemd, omdat er 
+minder zelf geprogrammeerd hoeft te worden. 
+ 
+  
+                                                 
+6
+ Werkzaamheden voor b.v. het oprichten van een school, fusies, etc. 
+ 
+ Pagina 6 van 25

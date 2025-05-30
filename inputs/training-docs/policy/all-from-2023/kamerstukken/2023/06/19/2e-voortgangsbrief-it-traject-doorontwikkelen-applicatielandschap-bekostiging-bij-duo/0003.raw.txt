@@ -1,0 +1,59 @@
+Onze referentie 
+bekostiging. Met deze basisapplicatie kunnen de belangrijkste stappen van het 
+38988453 
+bekostigingsproces worden uitgevoerd: het (verwerken van) aanvragen, plannen, 
+berekenen, beslissen, beschikken en uitbetalen. De specifieke bekostigingsrege-
+5
+lingen per sector worden vervolgens stapsgewijs toegevoegd aan deze basisap-
+plicatie. Dat gaat via een zorgvuldig proces: regeling voor regeling wordt gemo-
+delleerd, geïmplementeerd, getest en geëvalueerd en vervolgens in productie ge-
+nomen. Voor het middelbaar beroepsonderwijs (mbo) zijn alle bestaande regelin-
+gen toegevoegd aan de basisapplicatie en vindt de bekostiging inmiddels succes-
+vol plaats via de vernieuwde applicatie. Sinds eind 2022 worden ook diverse rege-
+lingen voor de sector vo met de vernieuwde applicatie uitbetaald (betreft circa 
+95% van de totale bekostiging van de vo-scholen). Alle betalingen, verricht door 
+het nieuwe systeem, worden tijdig en correct uitgevoerd. De implementatie heeft 
+niet geleid tot verstoringen voor de klant (de instellingen) en de medewerkers zijn 
+tevreden over de werking van het nieuwe systeem (o.a. door minder handmatige 
+stappen). 
+ 
+In januari 2023 is ook gestart met de realisatie van de applicatie voor Voorzienin-
+genplanning, het laatste hoofdproces binnen de scope van het programma. 
+ 
+De komende periode wordt doorgewerkt aan de verdere implementatie van de 
+nog resterende regelingen voor de sector vo. De voorbereiding van de implemen-
+tatie binnen de sector ho is gestart. Inmiddels wordt ook de implementatiestrate-
+gie en -planning voor de sector po verder uitgewerkt. Meer hierover is te lezen in 
+bijlage 1, onderdeel ‘voortgang per sector’. 
+ 
+Er wordt gewerkt aan een plan voor het uitfaseren (uitzetten) van het oude ICT-
+landschap in 2025. Voor o.a. het ophalen van gegevens maakt de vernieuwde ap-
+plicatie nu nog gebruik van onderdelen van het oude systeem. Dat zijn vaak on-
+derdelen die sectoroverstijgend werken en onderling ‘verknoopt’ zijn. Deze onder-
+delen worden daadwerkelijk uitgezet als ze zijn vervangen in de vernieuwde appli-
+catie. Tevens is een start gemaakt met een plan voor batenmanagement om te 
+monitoren of de in de businesscase voorziene kwantitatieve en kwalitatieve baten 
+van het vernieuwingsprogramma worden gerealiseerd.  
+ 
+Met de externe leveranciers waaronder Blueriq zijn heldere en zakelijke afspraken 
+vastgelegd over de governance en samenwerking. Tevens is in samenwerking met 
+andere uitvoeringsorganisaties en opleidingspartners binnen het Rijk een Aca-
+demy gestart voor het opleiden van Blueriq deskundigen en het onderling uitwis-
+selen van kennis. 
+ 
+Verwerkingssnelheid 
+Punt van zorg bij het Adviescollege ICT was de verwerkingssnelheid (de perfor-
+mance) van het systeem en dan met name voor de grote aantallen scholen in de 
+sector po. Metingen van de verwerkingssnelheid bij de bekostiging van het mbo 
+en vo laten zien dat de nieuwe applicatie (m.b.v. de nieuwe ICT-systemen) in de 
+productie-omgeving sneller is dan de door DUO gestelde norm. Voor de sector pri-
+mair onderwijs (po) is eind 2022, vooruitlopend op de start van de migratie van 
+die onderwijssector, een aparte performancetest uitgevoerd. Deze test toont aan 
+dat ook bij grote verwachte volumes de performance binnen de norm blijft. Meer 
+over de gehanteerde norm is te lezen in bijlage 1. 
+ 
+                                                 
+5
+ Zie bijlage 4 
+ 
+ Pagina 3 van 25

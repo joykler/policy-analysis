@@ -1,0 +1,42 @@
+Onze referentie 
+Transitie doel Resultaat Initiatief Voortgang (korte toelichting) 
+38988453 
+1. Gedegen stra- Strategisch Portfolio manage- 1A - Doorontwikkelen Opzet Lean Portfoliomanagement is grotendeels beschreven en er 
+tegische en tac- ment ingericht (agile) Portfolio-ma- wordt geëxperimenteerd met horizontale portefeuilles en syncs. 
+tische sturing nagement 
+Product management wordt 1B - Tactisch Product- DUO-breed wordt met Productmanagement geëxperimenteerd; voor 
+DUO- breed mee geëxperimen- management veel IV-ketens is een productmanager of equivalent actief en pro-
+teerd  ductmanager synchronisatiesessies worden structureel georgani-
+seerd op tactisch niveau. 
+Tactische team-overstijgende 1C - Scaled Agile en Grip op Portfolio implementatie is bij veel IV-ketens vergevorderd 
+sturing wat zorgt voor verticale hybride ways of work- (o.a. inrichten van Jira, opvoeren van business epics, koppelen van 
+afstemming en horizontale ver- ing epics, inrichten van een APMO) en vervolgstappen worden momen-
+binding teel gezet. Er wordt een Lean-Agile Competence Center opgezet. 
+Tactische (SAFe) rollen, gremia en events worden gedefinieerd. 
+Toename in voorspelbaarheid en 1C - Scaled Agile en Performance indicatoren op tactisch en teamniveau om dit vast te 
+wendbaarheid van de IV-ketens hybride ways of work- kunnen stellen, zijn in opzet gedefinieerd. Implementatie en door-
+ing ontwikkeling loopt. 
+BDO-organisatie registratiesys- 1D - Metrics ten be- De IV-structuur en onderliggende administraties zijn vastgesteld en 
+temen op orde hoeve van Sturing ingericht binnen TeamApp en SAP PPM, waardoor duidelijkheid en 
+ consistentie is in de registratie van de IV-organisatie binnen admi-
+nistraties. 
+Bruikbare informatieproducten 1D - Metrics ten be- Er is een basis set metrics afgesproken welke middels  experimen-
+en set met optelbare metrics in- hoeve van Sturing teren is doorontwikkeld. De doorontwikkeling en implementatie 
+gericht op team, tactische en  loopt. Tevens wordt op strategisch niveau bepaald op welke indica-
+strategisch niveau toren men wil kunnen sturen. 
+2. Professioneel Werkend IT financial control met 2A - Doorontwikkelen Een conceptueel model van het alloceren van IT-kosten is ontwik-
+financieel be- zuivere kostenallocatie op basis van de IT financial con- keld met een toerekeningsystematiek van IT-kosten, via 
+heer t.a.v. IT van een geïmplementeerd toere- trol (hulp)diensten, aan taken van DUO. Dit model wordt doorontwik-
+voorzieningen keningsmodel voor ICT-diensten keld om te komen tot een zuivere IT-kostenallocatie. 
+Verbeterd proces en de vastleg- 2B - Doorontwikkelen Een verbeterplan met de huidige problematiek m.b.t. besluitvor-
+ging t.b.v. besluitvorming ICT- strategische inkoop en ming inkoopkeuze en technologiekeuze is geïnventariseerd en op-
+inkoopkeuze en technologie- leveranciers-manage- gesteld. 
+keuze  ment 
+Professioneel contractmanage- 2B - Doorontwikkelen Analyse en enkele pilots zijn uitgevoerd t.a.v. het beter meenemen 
+ment op alle bedrijfskritische strategische inkoop en van alle SCOPAFIJTH-aspecten bij afsluiten ICT-contracten. De be-
+ICT-contracten met aandacht leveranciers-manage- nodigde verbeteringen worden in de lijn opgepakt. 
+voor alle SCOPAFIJTH-aspecten ment 
+ 
+  
+ 
+ Pagina 14 van 25

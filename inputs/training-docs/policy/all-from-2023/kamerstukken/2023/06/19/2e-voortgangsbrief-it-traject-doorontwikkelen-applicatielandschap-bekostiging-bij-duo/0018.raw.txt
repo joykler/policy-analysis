@@ -1,0 +1,50 @@
+Onze referentie 
+ 
+38988453 
+Belangrijkste risico’s (aandachtspunten) en maatregelen voor de realisatie van het 
+programma DAB – vervolg 
+ 
+4. Risico: zolang nog wordt gebouwd aan de nieuwe applicatie en het oude landschap nog 
+niet is uitgefaseerd, moet er zowel voldoende kennis van het oude als het nieuwe sys-
+teem beschikbaar zijn.  
+Maatregel: kennis van het oude systeem is nog in voldoende mate aanwezig, maar blijft 
+kwetsbaar. Voor het verwerven van Blueriq-kennis wordt ingezet op het opbouwen van 
+interne kennis, in samenwerking met leveranciers én collega-uitvoeringsorganisaties. De 
+Blueriq-academy is inmiddels gestart met drie uitvoeringsorganisaties. DUO kan daar nu 
+al opleidingen volgen of organiseren. Daarnaast wordt ook gesproken over resources, 
+beschikbaarheid en planningen. 
+Stand van zaken: DUO heeft een poule opgebouwd van 20 mensen, zowel intern als ex-
+tern, met kennis van Blueriq op verschillende specialismen. Deze poule staat los van de 
+organisatie Blueriq. Er is een opleidingsplan vastgesteld voor de betreffende functies.  
+Voor het huidige landschap, dat als fall-back dient, wordt geïnvesteerd in het beschik-
+baar houden van voldoende kennis zo lang als dat nodig is.  
+ 
+5. Risico: nieuwe collega’s worden geworven om bijvoorbeeld uitstroom door pensioen op 
+te vangen. De kwaliteit van de software kan mogelijk achteruit gaan, omdat nieuwko-
+mers bij het programma DAB de historie en originele uitgangspunten van de vernieu-
+wing onvoldoende kennen.  
+Maatregel: om dit te mitigeren wordt ‘conceptbewaking’ toegepast, waarbij regulier ge-
+toetst wordt of ontwerpbeslissingen en codekwaliteit voldoen aan de gestelde eisen en 
+voldoende vastliggen in documentatie. Ook wordt de kwaliteit van de code intern en ex-
+tern regulier getoetst. Daarnaast worden d.m.v. onboarding en kennisoverdracht nieuwe 
+collega’s voorbereid op hun werk.  
+Stand van zaken: eerste architectuurtoets heeft plaatsgevonden, evenals een 0-meting 
+op de onderhoudbaarheid en gebruiksvriendelijkheid van de nieuwe applicaties. Docu-
+mentatie is een belangrijk aandachtspunt om te voorkomen dat kennis afhankelijk is van 
+individuen.  
+ 
+6. Risico: als gevolg van hoge werkdruk bij teams, meer werk aan het traject ‘vereenvoudi-
+ging bekostiging po’ en voortschrijdend inzicht in gepland werk, kan de planning van de 
+migratie van de sectoren naar de nieuwe bekostigingsapplicatie uitlopen.   
+Maatregelen: het opstellen en actueel houden van een integrale mijlpalenplanning met 
+al het voorziene werk. Een heldere prioritering van het werk en het bewaken van de 
+scope.  
+Stand van zaken: er is druk ontstaan op de planning van bekostigen. Een herprioritering 
+is onder handen om de tijdslijnen van de migratie naar de nieuwe bekostigingsapplicatie 
+te waarborgen. Er wordt een versnelling in de realisatie voorbereid door tijdelijke team-
+uitbreiding, financieel op te vangen door de inzet van tolerantiebudget.  
+ 
+ 
+  
+ 
+ Pagina 18 van 25

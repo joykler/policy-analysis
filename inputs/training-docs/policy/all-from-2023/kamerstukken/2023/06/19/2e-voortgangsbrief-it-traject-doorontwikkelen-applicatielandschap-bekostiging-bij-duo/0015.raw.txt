@@ -1,0 +1,54 @@
+Onze referentie 
+3. Onder- Werken onder architectuur is inte- 3A - Werken onder ar- Er is een architectuur board opgezet en actief. Tevens zijn de archi-
+38988453 
+bouwde tech- graal onderdeel van portfoliomana- chitectuur tectuurproducten, -processen en –rollen helder inzichtelijk ge-
+nologiekeuzes gement, LCM, technologiekeuzen  maakt. Een IST en SOLL analyse is uitgevoerd en vervolgacties be-
+en voortbrengingsproces paald waar opvolging aan gegeven wordt, waaronder doorontwikke-
+len architectuurtoets en betere aansluiting van architectuur functie 
+bij scaled agile werken. 
+Integraal technologieplan, inclusief 3B - Technologieplan Technologieplan (versie 3) is inmiddels gereed. Overlegstructuren 
+governance, proces en MTHV’s en procesafspraken (MTHV’s) rondom technologiekeuzes binnen ICT 
+rondom technologie keuzen en CIO-office zijn vastgelegd. Uitwerking voor de bredere DUO or-
+ganisatie is onderhanden. 
+4. Professio- Verdere professionalisering in LCM 3C - Life Cycle ma- Een verbeterplan rondom LCM, zowel voor ILM, ALM als PLM, is op-
+nele ontwik- nagement doorontwik- geleverd, inclusief eigenaarschap. De daadwerkelijke verbeteracties 
+kel-, onder- kelen voor 2023 e.v. worden gepland en uitgevoerd. 
+houds- en be-
+Uniformering ITSM-processen en 3D - ITSM processen De IT-beheerprocessen incident-, probleem-, wijzigingen-, vulnera-
+heerprocessen 
+embedding binnen BDO-teams op orde bility- en security management zijn en worden opnieuw vastge-
+steld. Momenteel worden deze fasegewijs op consistente wijze 
+DUO-breed geïmplementeerd. Het business continuity plan is opge-
+leverd en disaster recovery plannen zijn momenteel onderhanden. 
+Basis CMDB op orde met belang- 3E - Basisadministratie Plan van aanpak om de CMDB op orde te stellen is vastgesteld. Eer-
+rijkste ICT-componenten (Applica- (CMDB) op orde ste fase van implementatie is afgerond t.a.v. bijwerken CMDB voor 
+ties, Middleware, OS) geregistreerd   fysieke en virtuele servers o.b.v. discovery tooling. Momenteel wor-
+den de middleware en applicatie administraties geactualiseerd. 
+5. Professio- MD-traject is ingericht conform op- 4A - (Agile) Leider- Een uitwerking van een MD-programma voor 2023 – 2024 is opge-
+nele en resul- gestelde leiderschapsvisie, waarin schapstraject leverd waarin ook voldoende aandacht is voor leiderschap binnen 
+taatgerichte kenmerken van agile leiderschap  een Agile omgeving. Het huidige MD-aanbod in het leerportaal is 
+cultuur zijn meegenomen uitgebreid incl. een inventarisatie van gewenste verdere uitbreiding 
+van aanbod. Het initiatief is afgerond en decharge is door de transi-
+tie stuurgroep verleend. 
+Beschikken over voldoende duur- 4B - Binden, boeien en Professionaliseren van o.a. beroepsinhoud en kennisontwikkeling 
+zaam en breed inzetbaar IV-perso- behouden BDO profes- van Product Owners en (business) analisten. Een plan van aanpak 
+neel ten behoeve van de BDO- sionals is opgesteld om IV-personeel te professionaliseren. 
+organisatie Het BDO-aanbod is verrijkt in Leer-Rijk (en elders), inclusief over-
+zetten in Plato. 
+Betere afstemming tussen werk- 4C - Personele capaci- Het Strategisch personeelsplanning (SPP) en Operationeel perso-
+aanbod en personele behoefte op teitsplanning neelsplanning (OPP) proces wordt momenteel uitgewerkt. 
+middellange en lange termijn (ver- (SPP/OPP) 
+houding intern/extern) 
+6. Goed gedo- Universele standaard met kaders, 5A – DUO-standaard De definitie van ‘traject’ is uitgewerkt. Daarnaast zijn de te hante-
+cumenteerde, spelregels, handreikingen, voorge- voor de (programmati- ren sturingsproducten en daarbij te hanteren formats gedefinieerd. 
+aantoonbare, schreven formats en best practices sche) aansturing van Procesbeschrijvingen en formats voor trajectbepaling en trajectstu-
+zakelijke trajecten ring zijn uitgewerkt. Momenteel wordt de werking ervan getoetst en 
+rechtvaardi- vastgesteld. 
+ging voor ICT- 
+Standaard en toepassing van busi- 5B - Standaard Busi- Een universele standaard dat handvaten, kaders, formats, proces-
+trajecten 
+nesscase management, inclusief ness Case Management beschrijvingen geeft om een businesscase op te stellen is ontwik-
+proces, businesscase template en keld en getoetst. De beheerorganisatie is ingericht. Het initiatief is 
+berekeningsmethodiek afgerond en decharge is door de transitie stuurgroep verleend.  
+ 
+ Pagina 15 van 25

@@ -1,0 +1,37 @@
+Onze referentie 
+Stresstesten 
+38988453 
+Performancetesten zijn testen die veelal worden uitgevoerd op het niveau van de 
+individuele regeling om te bepalen hoe lang deze regeling doet over het hele pro-
+ces. Stresstesten zijn bedoeld om het hele systeem te testen op belastbaarheid. 
+Om dit te toetsen wordt met grote testgroepen gewerkt, om het systeem te be-
+lasten op of boven de verwachte maximale benodigde capaciteit. Performancetes-
+ten voert DAB uit, stresstesten worden nog ingepland om uit te voeren. 
+ 
+Aanpak stresstesten 
+• Het testen van performance is geïntegreerd in de ontwikkelprocessen. Deze tes-
+ten worden elke sprint (een ontwikkel- en testcyclus van 2 weken) uitgevoerd.  
+• Naast testen per regeling wordt op een later moment ook getest hoe de applica-
+tie functioneert als er veel regelingen achter elkaar worden uitgevoerd en hoe be-
+lastbaar het systeem daarmee is. 
+• Hiermee wordt een productieronde gesimuleerd en de limieten verkend van wat 
+het systeem aankan.  
+• Voor de sector primair onderwijs (po) is eind 2022, vooruitlopend op de start van 
+de migratie van die onderwijssector, een aparte performancetest uitgevoerd. Dit 
+vanwege het grote volume aan verwachte berekeningen. Deze test toont aan dat 
+ook bij grote verwachte volumes de performance binnen de norm blijft.  
+ 
+Stand van zaken en verwachting 
+• De bekostigingsapplicatie is zo opgebouwd dat de gebruiker zelf kan bepalen 
+hoeveel regelingen er in één ronde worden opgepakt en hoeveel berekeningen 
+tegelijkertijd worden uitgevoerd.  
+• De belastbaarheid van het systeem is daarmee dermate stuurbaar dat overbelas-
+ting niet waarschijnlijk is.  
+• Er wordt gewerkt aan verdere verbetering van de performance om ook in de toe-
+komst complexe bekostigingsregelingen en grote doelgroepen goed te kunnen 
+blijven verwerken en indien wenselijk de procestijden te verkorten.  
+ 
+ 
+  
+ 
+ Pagina 23 van 25

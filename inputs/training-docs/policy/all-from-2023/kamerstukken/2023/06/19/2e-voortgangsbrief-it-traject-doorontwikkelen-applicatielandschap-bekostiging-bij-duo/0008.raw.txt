@@ -1,0 +1,47 @@
+Onze referentie 
+In het overzicht hieronder wordt de voortgang per sector beschreven. De bij reali-
+38988453 
+satie vermelde percentages drukken het percentage gereed en/of onderhanden 
+uit van de implementatie van de regelingen per sector. Resterende percentages  
+zijn nog niet gestart. 
+ 
+Voortgang per sector 
+ 
+Mbo (11 regelingen, ±60 scholen/instellingen, ±500.000 studenten, ±5 mld./jaar) 
+• Realisatie: 100% (conform planning) 
+• Alle elf regelingen geïmplementeerd (laatste twee regelingen zijn in  
+december 2022 geïmplementeerd)  
+• Bekostiging: 100% van de totale bekostiging mbo wordt nu via de nieuwe  
+applicatie uitbetaald aan de instellingen 
+• Performance (in productie): voldoet aan gestelde DUO-norm  
+• Productie: geïmplementeerde onderdelen draaien stabiel 
+ 
+Vo (40 regelingen, ±645 instellingen, ±1.000.000 leerlingen, ±10 mld./jaar) 
+• Realisatie : 35% gereed, 25% onder handen 
+• In december 2022 zijn de eerste zes regelingen in productie gegaan, 
+daarna nog zeven  
+• In 2023 en 2024 implementatie overige regelingen 
+• Bekostiging: 95% van de totale bekostiging vo wordt nu via de nieuwe applicatie 
+uitbetaald aan de scholen 
+• Performance (in productie): voldoet aan gestelde DUO-norm 
+• Productie: geïmplementeerde onderdelen draaien stabiel 
+ 
+Ho (10 regelingen, 57 instellingen, ±750.000 studenten, ±10 mld./jaar) 
+• Realisatie: 25% gereed, 50% onder handen (loopt iets achter op planning, mijl-
+palen nog haalbaar) 
+• Realisatiefase loopt en loopt door tot najaar 2024 
+• De eerste regeling is gereed, gaat later in productie 
+• Live-gang eerste regelingen in september/oktober 2023 
+ 
+Po (±40 regelingen, ±6.700 instellingen, ±1.500.000 leerlingen, ±13 mld./jaar) 
+• Realisatie: 3% (loopt achter op planning, planning heroverwegen) 
+• Start realisatie einde Q1 2023, na afronding van voortgang vereenvoudi-
+ging po in oude systeem  
+• Eind 2022 eerste regeling in testomgeving toegevoegd 
+• De eerste regeling is gereed, gaat later in productie 
+• Verwachte live-gang eerste regelingen Q4 (was Q2) 2023 
+• Performance (in testomgeving): voldoet aan gestelde DUO-norm 
+ 
+  
+ 
+ Pagina 8 van 25

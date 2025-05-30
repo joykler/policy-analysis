@@ -1,0 +1,43 @@
+Onze referentie 
+Incidenten 
+38988453 
+De bekostigingsapplicatie is voor het middelbaar beroepsonderwijs en voor een 
+aantal regelingen voor voortgezet onderwijs succesvol in gebruik. Bij elk nieuw 
+systeem zijn kinderziektes en gewenning aan de orde. Er hebben zich gedurende 
+de productie geen problemen of incidenten voorgedaan die effect hebben gehad 
+op de tijdigheid of juistheid van de bekostiging. De externe klant heeft hier niks 
+van gemerkt 
+ 
+Aantallen incidenten 
+Eind 2021 is de eerste regeling live gegaan. Vanaf dat moment tot eind 2022 hebben 
+zich 33 problemen voorgedaan in de applicatie voor bekostiging. In januari t/m maart 
+2023 zijn daar 12 problemen bij gekomen. De problemen van 2021 en 2022 vallen uit-
+een in de volgende categorieën: 
+• 1 onterecht (bleek geen incident) 
+• 1 productiefout (menselijk handelen) 
+• 5 fouten veroorzaakt in een ander systeem 
+• 3 fouten in de infrastructuur waarop het bekostigingssysteem draait 
+• 23 software-fouten, waaronder 
+• Een aantal fouten met het automatisch in gang zetten van processtappen 
+aan de hand van zogenaamde ‘timers.’ Deze zijn n.a.v. de incidenten 
+verbeterd. 
+• Fouten in de afhandeling van automatische controleregels. 
+• Fouten in data-uitwisselingen met andere systemen. 
+ 
+De problemen van januari t/m maart 2023 vallen uiteen in de volgende categorieën: 
+• 1 productiefout (menselijk handelen) 
+• 2 fouten veroorzaakt in andere systemen 
+• 1 fout in de infrastructuur waarop het bekostigingssysteem draait 
+• 1 fout in de uitvoering van een release 
+• 7 software-fouten 
+ 
+Trends 
+Er is nog geen duidelijk trend zichtbaar. Wel loopt het aantal software fouten iets op. Dit 
+is inherent aan het feit dat er nog druk wordt doorontwikkeld terwijl er ook al productie 
+wordt gedraaid. In de toekomstige halfjaarlijkse rapportages zal langzaam een trend in-
+zichtelijk kunnen worden. 
+ 
+ 
+  
+ 
+ Pagina 24 van 25
