@@ -192,7 +192,10 @@ function Export-RawTextFromSourceFile {
 
                 $TargetPageFile = Get-FileInfo $($TargetFile.Path -f $PageNr) -LoggedDir $TargetFile.LoggedDir
 
-                $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr)
+                $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr).Trim()
+                if ($TargetPageText.EndsWith("$PageNr")) {
+                    $TargetPageText = $TargetPageText.Substring(0, $TargetPageText.Length - "$PageNr".Length)
+                }
 
                 Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
 
