@@ -43,8 +43,4 @@ protocol.
 Kunt u een overzicht verschaffen van de stroom kapitaal vanuit de VS dat is geïnvesteerd in 
 Nederlandse mkb-bedrijven, met een onderscheid naar startups, snelle groeiers en overig, voor de 
 periode 2010 tot heden? Kunt u daarbij aangeven, per jaar, hoeveel bedrijven zijn ‘weggekocht’ (naar 
-de VS)? 
- 
- 
- 
-25
+de VS)?

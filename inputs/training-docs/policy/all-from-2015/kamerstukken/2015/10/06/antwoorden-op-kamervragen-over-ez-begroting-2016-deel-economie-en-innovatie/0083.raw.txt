@@ -42,5 +42,4 @@ Antwoord
 Voor alle gaswinningen op land moet op basis van de mijnbouwwet een meetplan ingediend worden, 
 waarin beschreven staat op welke wijze de bodembewegingen gemeten worden. Dit plan behoeft de 
 goedkeuring van Staatstoezicht op de Mijnen. Alle meetplannen en data zijn openbaar en terug te 
-vinden op http://www.nlog.nl/nl/hazards/registers/registers.html.  
-83
+vinden op http://www.nlog.nl/nl/hazards/registers/registers.html.

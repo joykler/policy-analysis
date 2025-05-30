@@ -43,5 +43,4 @@ Antwoord
 Het verplichtingenbedrag (de maximale subsidie) voor de gekozen uitrol kan pas na afronding van alle 
 tenders (eind 2019) worden berekend. In de tenders wordt flexibiliteit geboden voor het aantal MW en 
 het aantal vollasturen dat wordt gerealiseerd. Pas als bekend is hoeveel MW en hoeveel vollasturen de 
-winnaar van de tenders gaan realiseren kan het maximaal subsidiebedrag worden berekend. 
-92
+winnaar van de tenders gaan realiseren kan het maximaal subsidiebedrag worden berekend.

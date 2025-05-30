@@ -47,5 +47,4 @@ productiviteit in diverse definities. In de begroting van Economische Zaken is g
 arbeidsproductiviteit in volumes, dat wil zeggen het bruto binnenlands productie waarbij het prijspeil 
 constant is gehouden. Bovendien is gekozen voor de cijfers waarin prijspeilen tussen landen 
 vergelijkbaar zijn gemaakt (koopkrachtpariteit). Er zijn alternatieve manieren om de arbeids-
-productiviteit te bekijken. Daarom zijn twee cijfers van de OESO te zien in tabel 1. Tabel 1 laat de 
-11
+productiviteit te bekijken. Daarom zijn twee cijfers van de OESO te zien in tabel 1. Tabel 1 laat de

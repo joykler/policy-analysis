@@ -8,5 +8,4 @@ de crisis bereikt) is per abuis niet correct weergegeven.
  
 De correct weergave van deze grafiek is als volgt: 
  
-Bron: CPB (MEV 2016) 
-123
+Bron: CPB (MEV 2016)

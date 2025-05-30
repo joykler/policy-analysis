@@ -44,6 +44,4 @@ afgerond op 1 decimaal op 0,9 uitkomt. Die waarde heeft een bandbreedte van 0,85
 het getal 0,90. 
  
 151  
-Waarom is de raming wat betreft private sector uitgaven aan R&D vastgesteld op 1,1%? 
- 
-54
+Waarom is de raming wat betreft private sector uitgaven aan R&D vastgesteld op 1,1%?

@@ -42,5 +42,4 @@ Verhoging - - - - -200.000 -200.000 -
 energiebelasting 
 i.v.m. 
 energiebesparing 
-verhuurders 
-105
+verhuurders

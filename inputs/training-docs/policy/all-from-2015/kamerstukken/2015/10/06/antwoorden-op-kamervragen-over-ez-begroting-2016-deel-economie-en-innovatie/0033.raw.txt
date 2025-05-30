@@ -46,5 +46,4 @@ maar de diensten van die producten verhuren. Philips ontwerpt bijvoorbeeld zuini
 verlichtingssystemen speciaal voor een bepaald gebouw en verkoopt niet het systeem, maar het 
 verbruik van een bepaalde hoeveelheid licht. Belangrijke hobbel voor dit model is dat de wet 
 verlichtingssystemen vaak als integraal onderdeel van een gebouw ziet (het principe van “aard en 
-nagelvast”).  
-33
+nagelvast”).

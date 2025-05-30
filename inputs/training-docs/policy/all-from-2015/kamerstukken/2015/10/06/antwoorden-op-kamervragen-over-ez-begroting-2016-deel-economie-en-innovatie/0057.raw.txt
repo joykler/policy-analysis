@@ -44,5 +44,4 @@ Aantal bedrijven dat gebruik maakt van de
 22.220 22.640 22.970 
 1
 WBSO 
-Waarvan: klein (< 50 werkzame personen) 19.550   19.383   19.693 
-57
+Waarvan: klein (< 50 werkzame personen) 19.550   19.383   19.693
