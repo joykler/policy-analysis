@@ -1,0 +1,28 @@
+Op 1 januari 2023 bevatte de roadmap de volgende 40 maatregelen:
+1  Uitbreiding van het Uniform platform van 5 naar 9 parkeerplekken
+2  Coördinatie torenluchtverkeersleider en toren assistent
+3  Verbeteren van de benaming van de taxibanen
+4  Afwijkingen door grondpersoneel
+5  Convergent starten en landen
+6  Vaste aansluiting op het brandstofsysteem 
+7  Trajectory prediction (verbetering van de planningssystemen zodat de voorspelbaarheid van vliegroutes toeneemt)
+8  Navigatietechnologie
+9  Verbeterde toegang tot de Schiphol TMA
+10  Ophoging van de bovengrens van de Schiphol TMA
+11  Online pushback procedure raadplegen
+12  Follow the Greens (introductie van set van groene lampen in de taxibanen die piloten naar de juiste gate leiden)
+13  Digitale strippen (digitale vluchtvoortgangsstrippen voor torenluchtverkeersleiders)
+14  Runway Status Lights (Een serie rode lampen in het wegdek die automatisch aangaan om piloten en bestuurders te 
+waarschuwen voor andere vliegtuigen of voertuigen op de start- en landingsbanen.)
+15  Bouw van een nieuwe pier
+16  Voltooiing dubbel rijbaanstelsel
+17  Grondafhandeling tijdens slecht weer
+18  ‘Baan bezet’ strip
+19  Dubbele belijning naar de Bravo taxibaan
+20 Dubbele belijning naar de Alfa taxibaan
+21  Drie grondverkeersleiders
+22  Voertuigen en grondafhandelingsmaterieel delen
+23  Herinrichting werkplekken in de verkeerstoren
+24  Sleepcontrol en grondverkeersleiding in dezelfde ruimte
+25  Route tussen het Kilo platform en de Schiphol-Oostbaan
+Systeemmonitor luchtvaartveiligheid | 45

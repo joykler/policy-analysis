@@ -1,0 +1,25 @@
+Hieronder is gespecificeerd in welke fase een maatregel is. Hierbij is onderscheid gemaakt in ‘in uitvoering’, 
+‘geïmplementeerd’ en ‘geëvalueerd’. 
+In uitvoering:
+3  Verbeteren van de benaming van de taxibanen
+4  Afwijkingen door grondpersoneel
+7  Trajectory prediction (verbetering van de planningssystemen zodat de voorspelbaarheid van vliegroutes toeneemt)
+9  Verbeterde toegang tot de Schiphol TMA
+11  Online pushback procedure raadplegen
+12  Follow the Greens (introductie van set van groene lampen in de taxibanen die piloten naar de juiste gate leiden)
+14  Runway Status Lights (Een serie rode lampen in het wegdek die automatisch aangaan om piloten en bestuurders te 
+waarschuwen voor andere vliegtuigen of voertuigen op de start- en landingsbanen.)
+15  Bouw van een nieuwe pier
+16  Voltooiing dubbel rijbaanstelsel
+22  Voertuigen en grondafhandelingsmaterieel delen
+24  Sleepcontrol en grondverkeersleiding in dezelfde ruimte
+27  Last-minute baancombinatiewisselingen en complexiteit door baancombinatiewisselingen
+29  De Kaagbaan oversteken
+36  Navigatie- en surveillancesystemen in grondvoertuigen
+39  Risicovermindering bij docking van een vliegtuig
+40 License to operate (de mogelijkheden voor een vastgelegde kwaliteitsstandaard waar partijen die werkzaamheden 
+verrichten op de luchthaven (grondafhandeling) en daarmee een invloed hebben op de veiligheid, aantoonbaar moeten 
+voldoen)
+41  Verbeteren van de voetgangersveiligheid
+ 
+Systeemmonitor luchtvaartveiligheid | 47

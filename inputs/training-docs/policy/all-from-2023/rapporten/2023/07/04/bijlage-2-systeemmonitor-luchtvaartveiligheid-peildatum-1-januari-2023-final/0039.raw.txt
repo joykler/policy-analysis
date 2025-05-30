@@ -1,0 +1,24 @@
+Bijlage A: Continuous Monitoring Approach (ICAO)
+Bijlagen
+Onderdeel van de auditsystematiek van ICAO is de zoge- Critical Elements:
+naamde Continuous Monitoring Approach (CMA). In het CE-1. Primaire luchtvaartwetgeving 
+bijbehorende systeem legt Nederland de status van de ICAO CE-2. Specifieke operationele regelgeving 
+compliance vast. Dit is een continu proces. Van belang is CE-3. Luchtvaartsysteem en rollen 
+om daarbij rekening te houden met veranderingen in het CE-4. Kwalificaties technisch personeel 
+luchtvaartsysteem en ontwikkelingen in de luchtvaart. Op CE-5.  Technische leidraden, tools en verstrekking van 
+deze manier kan ICAO continu toezicht houden op veiligheidsinformatie
+Nederland en de werking van de overheid met betrekking CE-6.  Taken m.b.t. vergunningverlening, certificering, 
+tot de luchtvaartveiligheid en de naleving van de standaar- autorisatie en goedkeuring 
+den en aanbevelingen. Het ICAO CMA is een belangrijke CE-7. Toezichtstaken
+informatiebron voor de monitor. CE-8. Oplossen van veiligheidsissues
+Door middel van de Continuous Monitoring Approach Auditgebieden:
+(CMA) rapporteren ICAO-lidstaten over de status van het LEG   Primary aviation legislation and specific operating 
+beleid- en toezichtsysteem aan de hand van 790 protocol regulations
+questions (PQs). De informatie uit de beantwoording van de ORG  Civil aviation organisation
+protocal questions is als percentage effective implementa - PEL  Personnel licensing and training
+tion (EI) gegroepeerd in 8 critical elements (CE) en 8 auditge- OPS  Aircraft operations
+bieden. ICAO voert periodiek een audit uit op basis van het AIR  Airworthiness of aircraft
+door de lidstaten ingevulde self-assessment. AIG  Aircraft accident and incident investigation
+ANS  Air navigation services
+AGA  Aerodrome and ground aids
+Systeemmonitor luchtvaartveiligheid | 39
