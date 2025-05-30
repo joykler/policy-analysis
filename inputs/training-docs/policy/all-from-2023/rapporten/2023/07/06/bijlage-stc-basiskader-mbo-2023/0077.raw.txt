@@ -1,0 +1,55 @@
+informatie aanwezig is om indicatoren te berekenen, is het mogelijk dat het oordeel niet te bepalen 
+is.  
+Alle indicatoren worden op verschillende aggregatieniveaus berekend (bijv. branche of domein). Op 
+basis hiervan gaan we met de instelling in gesprek over de ontwikkeling en het niveau van de 
+onderwijsresultaten. De inspectie spreekt een oordeel uit op het aggregatieniveau ‘opleiding’ (i.e. 
+bc-code x opleidingsniveau), op basis van de drie genormeerde indicatoren. Dit leidt tot een van de 
+volgende oordelen en waardering: 
+ 
+Beoordeling standaard Studiesucces niveau 2, 3 en 4 
+Studiesucces Norm 
+Goed De opleiding voldoet aan de norm van alle drie de indicatoren én voor 
+het niveau van jaarresultaat of diplomaresultaat geldt dat het hoog is. 
+Voldoende De opleiding voldoet aan de norm als ten minste twee van de drie 
+indicatoren voldoen. 
+Onvoldoende De opleiding voldoet niet als minder dan twee van de drie indicatoren 
+aan de norm voldoen. 
+ 
+Bij de beschrijving van de onderwijsresultaten betrekken we de overige indicatoren Passende 
+plaatsing, Passend diploma en Opstroom.  
+ 
+5. Beschrijving resultaten niet-genormeerde indicatoren  
+De resultaten op de niet-genormeerde indicatoren kunnen in samenhang een beeld geven van de 
+inspanningen die de opleiding en instelling leveren. Dit kan input voor het gesprek over de doelen 
+en ambities van de opleiding en instelling zijn.  
+ 
+6. Studiesucces bij niet-bekostigde instellingen 
+De standaard Studiesucces wordt voor niet-bekostigde instellingen aan de hand van de indicator 
+Cohortrendement berekend. Voor de indicator Cohortrendement hanteren we een indeling per 
+doelgroep:  
+ Opleidingen die overwegend studenten jonger dan 23 jaar hebben (tot en met 22 jaar). 
+ Opleidingen die overwegend studenten ouder dan 22 jaar (23 jaar en ouder) hebben. 
+ Opleidingen van de derde leerweg (overig onderwijs, ovo).  
+ 
+De hoogte van de genormeerde indicator is voor een periode van twee jaar na overleg met het 
+53
+onderwijsveld vastgesteld. De norm dient fair te zijn. De norm zal voor de opleidingen met 
+overwegend studenten jonger dan 23 jaar beoordelend zijn. Voor de andere groepen gebruiken we 
+een benchmark, die we beschrijvend hanteren. 
+ 
+Indicator studiesucces 
+Indicator  Definitie  
+Cohortrendement  Het aandeel geslaagde 
+(opleidingsniveau)  studenten van startjaar Y van 
+het totaal aantal gestarte 
+studenten in startjaar Y.  
+ 
+De normen voor de drie verschillende doelgroepen  
+  < 23 jaar > 23 jaar  Derde leerweg  
+Toe te passen norm  63%  Geen Geen 
+opbrengstenbeoordeling  opbrengstenbeoordeling  
+                                                 
+53 
+De normen die worden vastgesteld gaan uit van de recentst bekende onderwijsresultaten op 1 augustus 
+2023. 
+Onderzoekskader 2021 middelbaar beroepsonderwijs – Versie per 1 augustus 2023 77
