@@ -1,0 +1,13 @@
+4.6 Forse vermindering administratieve lasten mogelijk bij de Rijksschoonmaakorganisatie
+De Rijksschoonmaakorganisatie (RSO) is onderdeel van SZW. RSO voert een baten-
+lastenadministratie in Exact, omdat de aard van de dienst van RSO overeenkomt met diensten die 
+zijn ondergebracht bij het Rijksonderdeel Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR) van het 
+ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het voeren van een vergelijkbare 
+administratie zou een eventuele overdracht van deze dienst naar UBR vereenvoudigen. Het is 
+onduidelijk of dit in de nabije toekomst ook zal worden doorgezet.
+Het voeren van een baten-lastenadministratie zou geen reëel doel meer dienen wanneer RSO 
+langere tijd aan SZW verbonden blijft. Aansluiten bij de geïntegreerde kas- verplichtingen -
+administratie van SZW zou het verantwoordingsproces vereenvoudigen.
+Wij adviseren RSO om een volledige kasadministratie te voeren in SAP, zodat er geen extra handelingen vereist zijn 
+om te kunnen komen tot de jaarverantwoording.
+ Auditrapport 2022 | Ministerie van Sociale Zaken en Werkgelegenheid (XV) | 21

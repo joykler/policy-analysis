@@ -1,0 +1,48 @@
+Wij adviseren BZK2 om de verbeteracties, inhoudelijk en voor wat betreft tempo van de voortgang proactief en 
+expliciet te agenderen en te bespreken binnen het MT BZK2 met als doel de verbeteringen in het financieel beheer 
+en IT-beheer in 2023 af te ronden.
+3.6 SSC-ICT: Beveiliging van componenten en monitoring van systemen behoeven nog aandacht
+In 2022 heeft SSC-ICT aantoonbare stappen gezet in het verbeteren van de informatiebeveiliging. 
+Dit blijkt onder meer uit de introductie van een Internal Control Framework (ICF). Dit ICF heeft tot 
+doel SSC-ICT inzicht te bieden in de effectiviteit van algemene beheersingsmaatregelen van 
+vooralsnog een viertal financiële systemen, te weten: RIVM, Leonardo, P-Direkt en SAP3F. 
+Verdere stappen in het verbeteren van de informatiebeveiliging zijn het versterken van de interne 
+auditfunctie, het verbeteren van de beveiliging van componenten en het centraal verzamelen en 
+analyseren van logging gegevens van de verschillende systemen (monitoring van systemen).
+SSC-ICT heeft een beleidsdocument voor Security Information & Event Monitoring (SIEM) 
+opgesteld. Dit beleidsdocument behoeft nadere uitwerking van de doelstellingen. We constateren 
+daarbij een aantal restpunten ten aanzien van de beveiliging van componenten dat nog opgelost 
+moet worden ter waarborging van een adequate beheersing van informatiebeveiliging. Ten aanzien 
+van de monitoring zien wij dat de aantoonbaarheid van het functioneren van de monitoring nog 
+tekortschiet en verbetering behoeft. Zo worden kwetsbaarheden niet aantoonbaar opgevolgd en is 
+de logging en monitoring alleen aantoonbaar gemaakt voor het netwerkverkeer. Voor 
+componenten is niet aangetoond dat hier monitoring op plaatsvindt. De volledigheid van het 
+netwerkverkeer monitoring is niet vast te stellen door een beperkte vastlegging van het proces.
+Daarnaast zijn in 2022 voor de door ons onderzochte SAP3F en P-Direkt databases geen recovery 
+testen uitgevoerd. Recovery testen zijn nodig om te blijven vaststellen dat de gegevens in de 
+back-up gebruikt kunnen worden om de databases bij verlies of beschadiging opnieuw op te 
+bouwen. Door recovery testen niet periodiek uit te voeren is het onzeker of de back-ups de juiste 
+gegevens bevatten en ook gebruikt kunnen worden om voldoende tijdig tot een werkbare omgeving 
+terug te keren. Momenteel ontbreken waarborgen voor het tijdig uitvoeren van recovery testen. 
+Hiermee kunnen risico’s in de continuïteit ontstaan.
+3.7 SSC-ICT: Inkoopbeheer inhuurkrachten kwetsbaar 
+We hebben in 2022 bij SSC-ICT kwetsbaarheden geconstateerd in het aangaan van inhuur-
+contracten externen. Onrechtmatige inhuurcontracten zijn ontstaan, doordat geselecteerde 
+kandidaten niet voldoen aan de gestelde eisen van de offerteaanvraag (knock-out criteria) of dat 
+dit niet toereikend uit het inkoopdossier bleek. Dit heeft geleid tot onrechtmatigheden met een 
+omvang van € 12,4 miljoen.
+Een andere bevinding is dat initieel verlengingsopties foutief zijn verwerkt, waardoor in eerste 
+instantie de verlengingen als onrechtmatig zijn aangemerkt. Naar aanleiding hiervan zijn na 
+omvangrijke administratief-juridische operatie deze verlengingen met een bedrag van 
+€ 48,2 miljoen. alsnog rechtmatig.
+Bovengenoemde geeft inzicht in de kwetsbaarheid in het rechtmatig en doelmatig inkoopbeheer.
+We geven ter overweging mee om de kennis en kunde binnen BZK nog meer samen te laten komen 
+door de O&P Rijk/inhuurdesk in te schakelen en dit soort inhuurcontracten via de inhuurdesk te 
+laten verlopen.
+3.8 RvIG: volledigheid van opbrengsten blijft onzek er
+Het agentschap Rijksdienst voor Identiteitsgegevens (RvIG) krijgt opbrengsten uit het berichten-
+verkeer. De opbrengsten zijn gekoppeld aan het aantal berichten. Dit aantal is niet aantoonbaar 
+vast te stellen, waardoor de opbrengsten in het berichtenverkeer een onzekerheid kennen in de 
+juistheid en volledigheid van de opbrengsten. Deze onzekerheid zou weggenomen kunnen worden 
+door van de providers van het berichtenverkeer een assurance rapportage te verlangen.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 18

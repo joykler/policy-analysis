@@ -1,0 +1,44 @@
+5 Aandachtspunten Rijksbrede bedrijfsvoering 
+5.1 CIO-Rijk: Rijksbreed risicomanagement voor IT-voorzieningen
+De Interdepartementale Commissie Bedrijfsvoering Rijksdienst (ICBR) heeft naar aanleiding van het 
+Rijksbrede beeld Informatiebeveiliging in 2022 besloten tot het opstellen en introduceren van een 
+rijksbreed kader en beleid voor risicomanagement om daarmee risicogerichte sturing op informatie-
+beveiliging te verbeteren. De focus ligt daarbij op het risicomanagement van IT-voorzieningen. 
+Het is echter wel van belang dat risico’s worden gerelateerd aan de organisatiedoelstellingen.  
+BZK heeft ondertussen een project opgestart om dit kader en beleid vorm te geven en heeft gewerkt 
+aan het nader bepalen van de scope en afbakening van dit project. De ambitie is om in het eerste 
+kwartaal van 2023 een projectbrief en plan van aanpak gereed te hebben.
+5.2 CIO-Rijk: Monitoring Rijksbreed IT-beheer blijft aandachtpunt 
+BZK/CIO-Rijk heeft in 2022 een plan van aanpak opgesteld dat nadere invulling geeft aan de opvolging 
+van de onvolkomenheid van de Algemene Rekenkamer met betrekking tot het monitoren van 
+Rijksbreed IT-beheer. Dit plan gaat in op de volgende onderdelen:
+• autorisatiebeheer, wijzigingsbeheer, beveiliging van componenten en back-up en recovery bij de 
+departementen;
+• het verkrijgen van inzicht in de effectiviteit van bestaande goedgekeurde kaders; 
+• het waar nodig vernieuwen of het maken van nieuwe kaders en afspraken en het inrichten 
+van monitoring op de status van Rijksbreed IT-beheer.
+In het laatste kwartaal is een projectleider gestart, die concrete aanpak heeft ontwikkeld voor 
+het project. Tevens is een start gemaakt met het uitvoeren van de noodzakelijke werkzaamheden. 
+In onze interim rapportage hebben wij onder meer geadviseerd om duidelijke criteria te definiëren 
+welke systemen wel of niet binnen de scope van het traject vallen. BZK heeft hier invulling aan 
+gegeven door te kiezen voor een iteratieve aanpak en daarbij te starten met een beperkt aantal 
+financiële systemen die in beheer zijn van SSC-ICT. BZK heeft met het project meer inzicht verkregen 
+waar het verbeterpotentieel ligt en welke handreikingen nog moeten worden opgesteld om te 
+komen tot een betere beheersing.
+Wij adviseren BZK om in de toekomst risico-gericht keuzes te maken over welke systemen vanuit BZK zullen worden 
+gemonitord. Voldoende management commitment vanuit de andere departementen is hierbij van cruciaal belang om 
+de benodigde informatie ook daadwerkelijk te ontvangen.
+5.3 CIO-Rijk: Implementatiekader cloud beleid opgesteld 
+Zoals reeds beschreven in onze interim rapportage is het rijksbrede cloud beleid 2022 
+geformaliseerd en uitgebracht. Dit cloud beleid bevat een uitwerking van de nieuwe visie op het 
+gebruik van publieke clouddiensten door de Rijksoverheid. Bij de aanbieding van dit beleid aan de 
+Tweede Kamer was toegezegd en implementatiekader op te stellen. In de tweede helft van 2022 
+heeft BZK, samen met diverse partijen gewerkt aan dit implementatiekader. Dit kader bevindt zich 
+nu in de afrondende fase en bevat een nadere uitwerking van het cloud beleid. Wij zijn positief over 
+het feit dat nu concrete eisen worden gesteld aan zaken als risico-afweging, exit-strategie en het 
+vooraf vragen van advies aan CIO-Rijk voor basisregistraties. Het eerder door ons beschreven 
+marktconcentratierisico van grote public cloud providers blijft een aandachtspunt. Op dit moment 
+is monitoring van dit risico geadresseerd in het concept implementatiekader als onderdeel van de 
+taak van de CIO-Rijk om stapelingsrisico’s op het gebied van cloud over departementen heen te 
+signaleren aan het CIO-beraad.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 26

@@ -1,0 +1,48 @@
+DG VBR heeft gekozen voor het uitvoeren van interne groenlicht metingen voor het borgen van een 
+beheerste start van de nieuwe organisaties en het verkrijgen van inzicht in aandachtspunten voor 
+deze nieuwe organisaties. Deze groenlichtmetingen zijn naar analogie van hoe dit gebruikelijk is bij 
+het oprichten van nieuwe agentschappen voor het verkrijgen van goedkeuring van het Ministerie 
+van Financiën.
+De aandachtspunten richten zich op het verder invullen van de governance structuur, de wijze van 
+aansluiting bij en samenwerking binnen Directoraat- generaal Vastgoed en Bedrijfsvoering Rijk 
+(DG VBR). Zo ook het verder uitwerken van de wijze van financiering en de controlfunctie.
+BZK heeft inmiddels directeuren aangesteld voor de organisaties O&P Rijk en RBL, RIS en OBF. 
+Voor de Rijksorganisatie ODI, loopt deze procedure nog. De invulling van deze directeuren en 
+daaronder liggende managementlaag op korte termijn achten wij van belang, omdat een groot 
+deel van deze aandachtspunten integraal bij de nieuwe bestuurders en management komt liggen.
+Verder vragen wij aandacht voor tijdige opvolging van de gemaakte afspraken met de 
+ondernemingsraad en het verder organiseren van medezeggenschap en het opbouwen van 
+medewerkersbetrokkenheid (-tevredenheid) bij de nieuwe organisaties.
+4.3 Elektronisch Contracten, Bestellen en Factureren (eCBF) levert nog geen volwaardige 
+applicatie en dienstverlening
+De migratie van het inkoopsysteem DigiInkoop naar eCBF is niet zonder risico. Vanwege vertraging 
+in dit traject hebben de risico’s zich niet gemanifesteerd in verantwoordingsjaar 2022. Voor 2023 
+blijft deze migratie een belangrijk aandachtspunt.
+We hebben kennisgenomen van scenarioanalyses en door de organisatie zelf onderkende 
+potentiële risico’s. Zo is het grootste operationele risico dat Cifas niet tijdig in volledige productie 
+kan worden genomen en dat door alle reeds genomen acties DigiInkoop niet meer kan worden 
+gebruikt. Er is nog geen inhoudelijke releaseplanning om van het Minimum Viable Product tot een 
+volwaardige applicatie en dienstverlening te komen.
+Tevens wijzen we op het risico van ondoelmatigheid als een migratie om veel ‘reparatiewerk’ gaat 
+vragen achteraf. Voor de deelnemende agentschappen is de afhankelijkheid van voormalig UBR 
+(huidig OBF) groot en de mate waarin zij invloed kunnen uitoefenen beperkt. Aandacht vanuit BZK 
+op dit traject blijft vereist.
+4.4 CIO BZK: Nadere analyse noodzakelijke awareness activiteiten ontbreekt nog altijd 
+De afgelopen periode hebben we bij drie organisaties van BZK een project uitgevoerd dat meer 
+inzicht biedt in de weerbaarheid tegen ransomwareaanvallen en in de mogelijke risico’s van 
+ransomware bij deze organisaties. Een nadere analyse moet nog plaatsvinden om te bepalen in 
+hoeverre de huidige maatregelen bestand zijn tegen de door het project geïnventariseerde risico’s.
+BZK heeft in 2022 een Awareness-strategie voor bewustwordingsactiviteiten op het gebied van 
+informatiebeveiliging en privacybescherming vastgesteld voor de periode 2022 en 2023. Hoewel 
+er diverse awareness activiteiten in 2022 zijn uitgevoerd, ontbreekt het momenteel nog aan een 
+nadere analyse van de noodzakelijke activiteiten vanuit de strategie met een daarbij behorende 
+uitwerking. Wij herhalen onze aanbeveling om hier invulling aan te geven gezien het belang van 
+de factor mens bij informatiebeveiliging.
+4.5 CIO BZK: Geen grote privacyrisico’s aangetroffen, verbeterpunten op 
+verwerkingsovereenkomsten 
+Op het gebied van privacy is er in 2022 een Rijksbreed AVG onderzoek uitgevoerd. Het betreft een 
+onderzoek naar de wijze waarop BZK en de dienstonderdelen Logius en RvIG de interne organisatie 
+heeft ingericht ten behoeve van een aantoonbare verantwoordingsverplichting, totstandkoming 
+van verwerkersovereenkomsten en -afspraken alsmede de regie en toezicht op de naleving hiervan 
+en welke privacycriteria er in de departementale cloudstrategie worden gehanteerd.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 23

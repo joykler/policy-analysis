@@ -1,0 +1,43 @@
+1.2 BZK heeft een systeem voor IT -beheersing in werking, tegelijk nog bevindingen 
+1
+Conform het Beleidskader Privacy-& Informatiebescherming BZK stellen de organisatieonderdelen 
+van BZK elke vier maanden een informatiebeveiliging en privacy (IB&P)-beeld op. De directies 
+bespreken (IB&P)-beelden en de Chief Information Security Officer (CISO) BZK ontvangt hiervan 
+een afschrift.
+Informatiebeveiliging en privacy krijgt zo op bestuurlijk niveau steeds meer aandacht en CISO BZK 
+krijgt een beter zicht op de status van informatiebeveiliging bij deze onderdelen.
+Tegelijkertijd constateren we uit ons financieel beheer onderzoek op onderdelen nog bevindingen. 
+Deze zijn deels onderkend in de (IB&P)-beelden van de betreffende organisatie. De uitdaging ligt in 
+een gezamenlijke analyse tussen het organisatie onderdeel en CIO BZK en het tijdig en adequaat 
+doorvoeren van noodzakelijke verbeteringen. Aan de hand van een paar voorbeelden lichten we 
+dit toe.
+O&P Rijk/P-Direkt neem tijdig mitigerende maatregelen
+Bij P-Direkt signaleren we naar aanleiding van een gevraagd onderzoek een verhoogd beveiligings-
+risico. O&P Rijk/P-Direkt neemt mitigerende maatregelen. Dit voorbeeld benadrukt het belang van 
+het tijdig uit (laten) voeren van dit type onderzoeken.
+SSO CN: breng IB-verbetertraject ten uitvoer
+Shared Service Organisatie Caribisch Nederland (SSO CN) heeft voor het IT-beheer in opzet een 
+deugdelijk en ambitieus plan neergezet om de langlopende problematiek in het IT-beheer aan 
+te pakken. Tegelijk zien we dat het in praktijk brengen van deze opzet nog de nodige aandacht 
+behoeft. De uitvoering van het plan vormt een uitdaging vanwege de hoge ambities en complexiteit.
+Blijvende gemotiveerdheid en betrokkenheid van het SSO CN personeel en het bestendig 
+aanhouden van het ingezette IB-verbetertraject zijn cruciale factoren in het succesvol behalen 
+van de gestelde IB-doelen.
+SSC-ICT: maak GITC onderdeel van het primaire proces
+Shared Service Center ICT (SSC-ICT) heeft belangrijke stappen gezet in het verbeteren van de 
+dienstverlening met behulp van het transitieplan. Het IT-beheerssysteem is in werking. 
+Het oplossen van de restpunten in de beveiliging van componenten en het op onderdelen aantonen 
+van de monitoring behoeft nog de nodige aandacht.
+OBF/ UBR: maak afspraken met externe partijen ten aanzien van de GITC
+De Organisatie voor Bedrijfsvoering en Financiën (OBF), voormalig Uitvoeringsorganisatie Bedrijfs-
+voering Rijk (UBR), heeft de hosting van de financiële omgeving uitbesteed aan een externe partij. 
+Het is van belang dat OBF als gebruiker afspraken maakt over de wijze waarop deze partij aantoont 
+dat het beheer voldoet aan de de door OBF/UBR gestelde eisen in lijn met de gangbare beleidskader 
+Privacy-& Informatiebeveiliging BZK.
+RVB verbeteringen GITC in 2022 nog niet zichtbaar
+Bij het Rijksvastgoedbedrijf (RVB) zien we onvoldoende verbetering in onder andere het autorisatie-
+beheer. Het RVB heeft hier een verbetertraject geformuleerd. In 2022 heeft dit nog niet geleid tot 
+significante verbeteringen.
+1 Het beleidskader Privacy en Informatiebescherming BZK is gebaseerd op de Baseline Informatievoorziening (BIO), 
+uitgebreid met een tiental richtlijnen. 
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 8

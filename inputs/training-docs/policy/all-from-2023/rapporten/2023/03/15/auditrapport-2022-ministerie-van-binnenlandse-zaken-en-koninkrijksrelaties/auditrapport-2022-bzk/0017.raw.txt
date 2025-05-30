@@ -1,0 +1,50 @@
+Wederzijdse eisen en wensen tussen RCN-diensten en SSO CN worden besproken
+Eind 2022 heeft SSO CN met RCN-diensten overlegd over de concrete invulling van specifieke eisen 
+en wensen (aanvullende behoeften) ten aanzien van de IT-security. De deelnemende departementen 
+(RCN-klantorganisaties) zijn zelf verantwoordelijk voor de informatiebeveiliging van hun eigen 
+specifieke IT-applicaties. Dit vormt een complicerende factor voor het treffen van noodzakelijke 
+IB-verbetermaatregelen binnen het gehele beveiligingsstelsel van SSO CN. Over 2022 was sprake 
+van verouderde software van specifieke klant IT applicaties verhinderen dat SSO-CN niet de 
+beveiligingsmaatregelen kan treffen die mogelijke dreigingen binnen de gehele IT omgeving 
+tegengaan. Het is van belang om in gezamenlijkheid met de RCN-diensten de eisen en wensen ten 
+aanzien van IT-security te blijven bespreken en de samenhang hiervan op het gehele 
+beveiligingsstelsel van SSO CN aan te geven.
+3.4 O&P Rijk/P-Direkt: Risico’s in geautomatiseerde gegevensverwerking personele uitgaven
+Beveiligingsonderzoeken (ook wel penetratietesten genoemd) geven organisaties inzicht in de 
+technische beveiliging van deze IT-systemen. Sinds 2022 heeft O&P-Rijk/P-Direkt (voorheen P-Direkt), 
+in lijn met de Richtlijnen Privacy en Informatiebescherming BZK, een ‘pentest’-kalender opgesteld die 
+beschrijft met welke periodiciteit de belangrijkste IT-systemen van O&P-Rijk/P-Direkt moeten worden 
+onderworpen aan een beveiligingsaudit, soms ook met behulp van ethische hackers. Wij hebben op 
+verzoek van O&P Rijk/P-Direkt een aantal van deze beveiligingsaudits uitgevoerd.
+Bij één van deze beveiligingsaudits is een aantal beveiligingsrisico’s geconstateerd waarvan wij een 
+deel classificeren als hoog risico bevindingen. O&P Rijk/P-Direkt geeft aan dat de bevindingen zijn 
+geanalyseerd en voor het merendeel inmiddels een oplossing gevonden. Voor de resterende 
+kwetsbaarheden brengt O&P Rijk/P-Direkt momenteel in kaart op welke wijze en binnen welke 
+termijn deze zullen worden weggenomen. O&P Rijk/P-Direkt zal daarbij ook een aantal handmatige 
+controles gaan vervangen door geautomatiseerde controles waardoor de interne beheersing verder 
+wordt versterkt.
+O&P Rijk/P-Direkt heeft inmiddels een projectleider aangesteld en in januari een projectorganisatie 
+ingericht om de geconstateerde risico’s op te lossen. Tevens is het afnemersoverleg geïnformeerd 
+waarin alle gebruikers van O&P Rijk/P-Direkt zijn vertegenwoordigd. Onze ervaring leert dat het 
+tonen van eigenaarschap en effectieve communicatie naar afnemers bij dergelijke kwetsbaarheden 
+goed ontvangen wordt.
+De ADR heeft aanvullende analyses uitgevoerd op personele uitgaven. Vanuit de accountants -
+controle ADR zijn geen signalen dat de risico’s zich ook daadwerkelijk hebben voorgedaan. 
+Daarnaast hebben we vastgesteld dat de risico’s geen materialiteitsgrenzen raken bij gebruikers 
+die P-uitgaven verantwoorden.
+We adviseren O&P-Rijk naar de toekomst toe om bij grote wijzigingen in het systeem een beveiligingsonderzoek 
+te laten doen om kwetsbaarheden te kunnen detecteren. O&P-Rijk/P-Direkt heeft daarbij initiatief genomen door 
+het vragen om een herhalingsonderzoek om te bevestigen of de verbeteracties succesvol zijn.
+3.5 BZK2: Verbeteringen financiële administratie en IT-beheer, maar het tempo blijft achter 
+op de planning
+In 2021 hebben we gerapporteerd over het tekortschieten van de interne controle van BZK2 op het 
+gebied van ordelijk- en controleerbaarheid van de financiële administratie en het beheer van het 
+financiële IT-systeem en de ICT-infrastructuur.
+BZK2 heeft in 2022 acties in gang gezet die op onderdelen leiden tot verbeteringen in het financieel 
+en IT-beheer. Deze verbeteracties zijn nog niet afgerond en lopen door in 2023. De interne controle 
+en de uitvoering van de beheerprocessen heeft daardoor over 2022 niet geheel voldaan aan de 
+gestelde eisen. Het is van belang om het tempo te verhogen van de verbeteracties op het gebied 
+van contractadministratie, gebruik van de spendanalyse, onderbouwing van de prestatieverklaring 
+en het IT-beheer van de informatiesystemen en ICT-infrastructuur. Verder vragen wij aandacht voor 
+het (verder) invullen van de tweedelijns interne controle.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 17

@@ -1,0 +1,46 @@
+Inhoud
+1 BZK toont eigenaarschap, naleven van informatiebeveiligingseisen is uitdagend   7
+1.1 BZK werkt structureel aan het verbeteren van het financieel beheer  7
+1.2 BZK heeft een systeem voor IT -beheersing in werking, tegelijk nog bevindingen  8
+1.3 Doel en doelgroepen 9
+1.4 Leeswijzer 9
+2 Uitk omsten onderzoek verantwoordingsinformatie jaarverslag 11
+2.1 Controleverklaring 11
+2.2 Overschrijding van rapporteringstoleranties 12
+2.3 Totstandkoming niet-financiële informatie 13
+3 Bevindingen over het financieel beheer 2022 15
+3.1 Overzicht van gewogen bevindingen 15
+3.2 BZK Kern: Voorschottenbeheer is van voldoende niveau, nog wel aandachtspunten  15
+3.3 SSO CN: Informatiebeveiliging in opzet verbeterd, de beproeving in de praktijk gestart  16
+3.4 O&P Rijk/P-Direkt: Risico’s in geautomatiseerde gegevensverwerking personele uitgaven 17
+3.5 BZK2: Verbeteringen financiële administratie en IT-beheer, maar het tempo blijft achter 
+op de planning 17
+3.6 SSC-ICT: Beveiliging van componenten en monitoring van systemen behoeven  
+nog aandacht 18
+3.7 SSC-ICT: Inkoopbeheer inhuurkrachten kwetsbaar  18
+3.8 RvIG: volledigheid van opbrengsten blijft onzek er 18
+3.9 Aandachtspunten 19
+3.9.1  BZK Kern: onnodige begrotingsonrechtmatigheden vanwege foutieve informatie bij 
+koppelvlakken met andere organisaties 19
+3.9.2 BZK Kern: Subsidies en bijdragen, overweeg meer guidance in controleprotocollen 19
+3.9.3 Gemeente- en Provinciefonds: Aandachtspunt voor interne beheersing  19
+3.9.4 OBF (voormalig UBR): Verkrijg inzicht in de mate van beheer en beveiliging van 
+uitbestede informatiesystemen  19
+3.9.5 RVB: General IT controls Rijksvastgoedbedrijf voldoet nog niet 20
+3.9.6 RVB: aandachtspunt ordelijkheid en controleerbaarheid projectadministratie  20
+3.9.7 SSC-ICT: Acties licentiebeleid opgestart, uitwerking moet nog geconcretiseerd worden  20
+4 Ontwikkelingen in bedrijfsvoering ministerie BZK  22
+4.1 BZK: Herstel en veerkrachtplan, verantwoording en controle vereist aandacht 
+in de voorbereiding 22
+4.2 Doorontwikkeling UBR uitdagend 22
+4.3 Elektronisch Contracten, Bestellen en Factureren (eCBF) levert nog geen volwaardige 
+applicatie en dienstverlening 23
+4.4 CIO BZK: Nadere analyse noodzakelijke awareness activiteiten ontbreekt nog altijd  23
+4.5 CIO BZK: Geen grote privacyrisico’s aangetroffen, verbeterpunten op 
+verwerkingsovereenkomsten  23
+5 Aandachtspunten Rijksbrede bedrijfsvoering  26
+5.1 CIO-Rijk: Rijksbreed risicomanagement voor IT-voorzieningen 26
+5.2 CIO-Rijk: Monitoring Rijksbreed IT-beheer blijft aandachtpunt  26
+5.3 CIO-Rijk: Implementatiekader cloud beleid opgesteld  26
+5.4 DGDOO: Sturing op orde drie uitdagingen bij de inrichting van de departementale 
+sturing op informatiehuishouding 27

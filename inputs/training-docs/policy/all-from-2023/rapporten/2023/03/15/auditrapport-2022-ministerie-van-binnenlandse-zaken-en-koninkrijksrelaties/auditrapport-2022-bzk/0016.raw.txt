@@ -1,0 +1,46 @@
+Wij adviseren FEZ:
+• voor de planning, de liquiditeitsbehoefte en het betaalschema de vorm en vereiste inhoud voor te schrijven zodat 
+door de agentschappen aangevraagde voorschotten aansluiten bij de voortgang van de opdracht.
+• om minimaal voor de grote opdrachten halverwege de looptijd een tussenrapportage te vragen en waar nodig 
+het betaalschema aan te passen aan de voortgang van de opdracht.
+De voorgenomen (overkoepelende) monitoring in het daarvoor bedoelde digitaal platform is 
+vertraagd. Daarin kan dan voorlopig worden volstaan met een tussentijdse Dossieronderzoek 
+en data-analyse.
+3.3 SSO CN: Informatiebeveiliging in opzet verbeterd, de beproeving in de praktijk gestart 
+Activiteitenplan IB op orde SSO CN biedt perspectief en vraagt om een bestendig vasthouden van het ingezette 
+IB-verbetertraject
+SSO CN werkt met het ‘Activiteitenplan IB op orde SSO CN’ gestaag aan het verbeteren en oplossen 
+van de IB-bevindingen. De inrichting van de PDCA-cyclus voor het proces van informatiebeveiliging 
+is gereed. Verder heeft SSO CN met de afronding van het meerjarenproject ‘Netwerk op Orde’ de 
+beschikking over een eigen datacenter. Hiermee zijn de primaire vereisten ten aanzien van de 
+basisinfrastructuur en de ICT-infrastructuur van SSO CN ten opzichte van de situatie van vier jaar 
+geleden aanzienlijk verbeterd.
+In opzet betekent dit dat SSO CN een belangrijke stap voorwaarts heeft gezet in het verbeteren van 
+de informatiebeveiliging. De uitvoering in de praktijk is echter complex, de beoogde effectiviteit 
+van de opzet is afhankelijk van het draagvlak en awareness binnen de organisatie. 
+Het ‘Activiteitenplan IB is omvangrijk en ambitieus en kent mede daardoor een lange doorlooptijd. 
+Van de in totaal 56 nieuw beschreven I-componenten hebben twee de eerste validatie 
+(de nulmeting) van de checkfase van de PDCA-cyclus bereikt.
+Besluitvorming in 2023 over veranderingen in de vitale gemeenschappelijke bedrijfsvoering en/of 
+voorziene personele wijzigingen in het management van SSO CN kunnen leiden tot aanzienlijke 
+veranderingen/verschuivingen van werk- en aandachtgebieden van de SSO CN organisatie. 
+Een mogelijk negatief gevolg is dat het IB-verbetertraject in 2023 niet in volle omvang zal worden 
+voltooid en de informatiebeveiliging daarmee alsnog onvoldoende verbetert. 
+Blijvende gemotiveerdheid en betrokkenheid van het SSO CN personeel en het bestendig 
+aanhouden van het ingezette IB-verbetertraject zijn cruciale factoren in het succesvol behalen van 
+de gestelde IB-doelen. Gezien het hoge ambitieniveau is het raadzaam om de gestelde doelen 
+tussentijds In dit kader noemen we het gevraagde onderzoek van BZK om onderzoek te doen naar 
+de oorzaken van deze langlopende problematiek bij SSO CN.
+Keuzes IT- strategieën en Cloudcomputing vragen blijvende aandacht vanwege toename dreigingsvlak
+De wijziging in IT-strategieën van deelnemende RCN-diensten (het publiceren van websites voor 
+burgers en bedrijven) en het opteren voor Cloudcomputing door SSO CN verhogen het dreigingsvlak 
+van het proces van informatiebeveiliging door toename van cyberrisico’s. Voor SSO CN is het 
+daarbij noodzakelijk dat zij over voldoende kennis en vaardigheden over IT-beveiliging blijven 
+beschikken. Parate kennis is van belang voor de blijvende betrouwbaarheid van 
+de informatievoorziening.
+In 2022 zijn door SSO CN overleggen gevoerd over aansluiting op het Security Operations Center 
+(SOC) van SSC-ICT in Nederland. Met het op korte termijn implementeren van detectieve 
+beveiligingsmaatregelen kunnen beveiligingsexperts van het SOC van het SSC-ICT mogelijke 
+beveiligingsincidenten ‘actief op afstand monitoren’. Deze aansluiting op het SOC is van cruciaal 
+belang voor SSO CN en vraagt daarmee blijvende aandacht van het management in 2023.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 16

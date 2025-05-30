@@ -1,0 +1,47 @@
+4.3 Basis is op orde: monitoring en evaluatie gericht op privacy kan wel beter
+4
+Privacy is een grondrecht. Volgens een enquête van de Autoriteit Persoonsgegevens maakt 94% van 
+de mensen zich zorgen over hun privacy. Mensen kunnen tot op zekere hoogte zelf maatregelen 
+nemen om hun privacy te beschermen, maar zijn ook afhankelijk van organisaties die hun persoons -
+gegevens verwerken. SZW verwerkt voor diverse doeleinden persoonsgegevens en dient hierbij te 
+voldoen aan de Algemene Verordening Gegevensbescherming (AVG). 
+De Auditdienst Rijk heeft in 2022 desgevraagd een rijksbreed onderzoek uitgevoerd naar elementen 
+van de AVG met als doel om privacymanagement binnen de Rijkoverheid verder te versterken. 
+Het deelrapport van SZW bevat de onderzoeksresultaten van het rijksbrede AVG-onderzoek 2022 
+inzake het ministerie van Sociale Zaken en Werkgelegenheid.
+Het onderzoek richtte zich op:
+• de inrichting van de privacygovernance voor de aantoonbare naleving van de AVG 
+(verantwoordingsverplichting);
+• de kwaliteit van de afspraken met verwerkers, alsmede de inrichting van de controle en 
+monitoringsactiviteiten die toezien op de naleving van deze afspraken 
+(verwerkersovereenkomsten);
+• de gehanteerde privacycriteria in de cloudstrategie. 
+Een rode draad uit het onderzoek is dat binnen SZW de basis voor privacy veelal goed is beschreven 
+en ingericht, maar niet wordt getoetst. Het ontbreekt in een aantal gevallen aan het monitoren, 
+beoordelen en vervolgens behandelen van de risico’s die samenhangen met bovenstaande 
+onderzoeks thema’s. 
+Hierdoor kan SZW niet aantonen dat het privacybeleid tijdig wordt geactualiseerd om aan te blijven 
+sluiten op de privacygovernance en -strategie binnen SZW. Ook weet SZW niet of andere partijen 
+die persoonsgegevens voor SZW verwerken dat volgens de privacy-afspraken doen en heeft SZW bij 
+5
+cloudgebruik geen informatiebeveiligingsmaatregelen (zie ook de volgende paragraaf) beschreven.
+Zaken die van groot belang zijn voor het vertrouwen van burgers in de juiste omgang met hun 
+persoonsgegevens door SZW.
+In het deelrapport AVG SZW, wordt specifiek ingegaan op de bevindingen uit het rijksbrede 
+onderzoek. Wij parafraseren de eerdere aanbevelingen uit dat deelrapport:
+• beschrijf het proces rond het actualiseren van het SZW-brede privacybeleid;
+• zorg voor tussentijds monitoring en bijsturing op de afspraken uit de verwerkersovereenkomsten;
+• breid het ICT-Sourcing Kader uit met de SZW-specifieke invulling van het rijksbrede Cloudbeleid en of analyseer 
+privacyrisico’s voorafgaand aan de verwerking van persoonsgegevens zodat toereikende beheersmaatregelen 
+kunnen worden getroffen om deze risico’s te beperken;
+• breid het overzicht clouddiensten uit met het type cloudgebruik (publiek, privaat, hybride) en andere 
+cloudaspecten, zoals het Basisbeveiligingsniveau.
+4.4 Verdere stappen gezet om de centrale sturing op informatiebeveiliging op niveau te 
+krijgen, maar aandacht blijft nodig
+De afgelopen jaren heeft de Auditdienst Rijk rijksbrede onderzoeken uitgevoerd naar de sturing en 
+beheersing van informatiebeveiliging op centraal niveau. Hierbij is de volwassenheid van de 
+ministeries op het gebied van informatiebeveiliging onderzocht voor de thema’s governance, 
+organisatie, incidentmanagement en risicomanagement.  
+4 https://www.autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/resultaten_enquete_privacyzorgen_jan_2019.pdf
+5 In termen van beschikbaarheid, betrouwbaarheid en vertrouwelijkheid van informatie.
+ Auditrapport 2022 | Ministerie van Sociale Zaken en Werkgelegenheid (XV) | 19

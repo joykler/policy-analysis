@@ -1,0 +1,49 @@
+Wij hebben over 2022 vastgesteld dat OBF nog geen volledig inzicht had in de benodigde 
+managementinformatie over en governance rondom de uitbestede werkzaamheden bij de 
+serviceorganisatie voor het financiële landschap en de mate waarin voldaan wordt aan de door OBF 
+gestelde eisen in lijn met het beleidskader privacy-& informatiebescherming BZK.
+Voor 2023 erkent en begrijpt OBF haar verantwoordelijkheid voor het verkrijgen van zekerheid over 
+deze uitbestede activiteiten en het verkrijgen van inzicht in de interne beheersing en informatie-
+beveiliging van die activiteiten. OBF zal deze in 2023 nader moeten concretiseren en moeten 
+afstemmen met de serviceorganisatie. 
+OBF neemt daartoe het advies over om formele afspraken te maken over de gewenste management-
+informatie en governance van de Cloud services bij deze serviceorganisatie. Hiermee wordt aan OBF 
+aangetoond dat de serviceorganisatie voldoet aan de door OBF gestelde eisen en het management 
+in staat is om de operationele risico’s verbonden aan alle uitbestede werkzaamheden op effectieve 
+wijze te beheersen. Verder pakt OBF het advies op om in gesprek te gaan met de serviceorganisatie  
+over het type assurance-verklaring dat het beste past bij de uitbestede activiteiten.
+3.9.5 RVB: General IT controls Rijksvastgoedbedrijf voldoet nog niet
+Uit onze controle bij het Rijksvastgoedbedrijf blijkt dat het autorisatie beheer en het toezicht op 
+systeemgebruikers verbetering behoeft. Het verbetertraject dat het RVB heeft gestart heeft nog 
+niet geleid tot substantiële verbeteringen. In het vierde kwartaal van 2022 is de stuurgroep voor 
+het project Identity en Access Management vervangen met als doel om eind 2023 de geplande 
+verbeteringen te realiseren. We benadrukken het belang om de onderliggende risico’s te onder-
+kennen om met die motivatie verbetering te boeken.
+3.9.6 RVB: aandachtspunt ordelijkheid en controleerbaarheid projectadministratie 
+Voor een adequaat projectbeheer is het van belang dat de RVB beschikt over juist en actuele stuur- 
+en verantwoordingsinformatie uit de projectadministratie. Voor de onderhoudsprojecten in deze 
+administratie is een opschoonactie uitgevoerd. Voor een groot deel van de projecten is deze gelukt, 
+maar verdere verbetering staat onder druk door beperkte personele bezetting, ontbreken van 
+informatie in projectdossiers en nog uit te voeren controles door de projectcontroller of 
+integraal projectverantwoordelijke.
+Daarmee is de projectinformatie voor dat onderdeel van de projectadministratie nog niet 
+voldoende op orde gebracht, met als gevolg dat niet alle onderhoudsprojecten de juiste status 
+hebben in de administratie.
+Wij vragen aandacht voor het verder opschonen van de projectadministratie voor de onderhouds-
+projecten en het in één keer tijdig, juist en volledig administreren van de projectgegevens voor een 
+effectief en doelmatig projectbeheer en de financiële verantwoording hierover.
+3.9.7 SSC-ICT: Acties licentiebeleid opgestart, uitwerking moet nog geconcretiseerd worden 
+In 2021 liet SSC-ICT een behoorlijke voortgang zien om het licentiebeheer steviger in de organisatie 
+te verankeren. Het ging daarbij om het aanstellen van een licentiecontroller en betere samenwerking 
+tussen de afdelingen Inkoop-, contract- en licentiemanagement en Financiën & Control. Ook zijn 
+de verantwoordelijkheden en processen in het kader van licentiebeheer duidelijker belegd 
+en verbeterd.
+In samenwerking met de Chief Technology Officer (CTO) en de Chief Financial Officer (CFO) is 
+SSC-ICT gestart met het opstellen van een specifiek licentiebeleid. Zo is er een projectleider ingezet 
+en een werkgroep gevormd, ondersteund door een externe partij die ervaring heeft met opstellen 
+van licentiebeleid. Het uitgevoerde baselineonderzoek geeft inzicht in de volwassenheid, hiaten 
+en risico’s van het huidige licentieproces. SSC-ICT beraadt zich over de verdere aanpak om het 
+licentiebeleid te concretiseren, met als ambitie vastgesteld beleid omstreeks april 2023. 
+We bevestigen het belang van goed uitgewerkt licentiebeleid om ook op de lange termijn 
+het licentiebeheer kwalitatief goed te verankeren.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 20

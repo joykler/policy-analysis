@@ -1,0 +1,43 @@
+In 2021 adviseerden wij SZW om centrale sturing op informatiebeveiliging te versterken. SZW heeft in 
+2022 de juiste stappen gezet in het vergroten van informatiebeveiligingsbewustzijn, zoals workshops 
+en trainingen. Daarnaast heeft SZW het afgelopen jaar stappen gezet in het implementeren van het 
+beeld Veiligheid en Privacy (vervanger zelfevaluatie) binnen alle dienstonderdelen. 
+Daarentegen is het SZW niet gelukt om een centraal overzicht met actuele en adequate informatie 
+uit het beeld Veiligheid en Privacy op te stellen, bijvoorbeeld door middel van tooling. Ten slotte 
+heeft SZW nog steeds geen inzicht weten te krijgen in uitgevoerde beveiligingsonderzoeken door de 
+IT-dienstverlener, SSC-ICT. 
+6
+In het Cybersecuritybeeld Nederland 2022 geeft de Nationaal Coördinator Terrorismebestrijding en 
+Veiligheid aan dat de digitale dreiging permanent is en eerder toeneemt dan afneemt, met alle 
+mogelijke gevolgen van dien. Niet voor niets ziet SZW dan ook discontinuïteit in ICT-dienstverlening 
+door een cyberaanval als toprisico.
+Om de centrale sturing op informatiebeveiliging bij SZW te versterken, adviseren wij haast te maken 
+met de opvolging van de eerdergenoemde bevindingen:
+• zorg met tooling voor een centraal overzicht met actuele en adequate informatie uit het beeld Veiligheid en 
+Privacy, zodat centraal gemonitord en geprioriteerd kan worden;
+• laat de eigenaar van het systeem binnen SZW, zo nodig door escalatie, inzicht verkrijgen in uitgevoerde 
+beveiligingsonderzoeken door de IT-dienstverlener, zodat eventuele gevolgen daarvan voor SZW kunnen 
+worden ingeschat.
+4.5 Frauderisico’s die wij vorig jaar schetsten zijn nog steeds niet beheerst
+4.5.1 Financieel Dienstencentrum
+Het wijzigen van bankrekeningnummers van crediteuren vraagt om een gedegen controle op de 
+identiteit en bevoegdheid van de aanvrager en op de echtheid van de aangeleverde 
+brondocumenten.
+In 2022 heeft het Financieel Dienstencentrum (FDC) deze -handmatige- controles onvoldoende 
+zichtbaar uitgevoerd, waardoor het hiermee samenhangende frauderisico onvoldoende is beperkt.
+Het FDC is sinds eind 2021 voornemens om de naam- nummercontrole te automatiseren, zoals bij 
+enkele andere departementen al gebeurt. Ondanks goede intenties van het FDC is er ruim een jaar 
+later nog geen zicht op een concrete implementatiedatum voor dit voornemen.
+Wij adviseren het FDC op korte termijn de naam- nummercontrole te automatiseren, dan wel andere maatregelen 
+te treffen om het frauderisico effectief en controleerbaar te beperken. Bij onze controle van het FDC, gericht op dit 
+risico, hebben wij overigens niet geconstateerd dat deze vorm van fraude zich heeft gemanifesteerd.
+4.5.2 RCN-unit SZW 
+De frauderisico’s in het betaalproces bij de RCN-unit van SZW zijn nog steeds aanwezig en er zijn 
+geen toereikende beheersmaatregelen getroffen ondanks dat wij hierover al in 2021 hebben 
+gerapporteerd. 
+De geautomatiseerde oplossing, implementatie van een koppeling voor het uitbetalen van 
+uitkeringen, is vertraagd. Hierdoor bestaat nog steeds een risico op het onrechtmatig verstrekken 
+van te hoge uitkeringen en/of uitkeringen aan onjuiste personen.
+Wij herhalen onze aanbeveling om extra interne controles op het betaalproces uit te voeren. 
+6 https://www.rijksoverheid.nl/documenten/rapporten/2022/07/04/cybersecuritybeeld-nederland-2022
+ Auditrapport 2022 | Ministerie van Sociale Zaken en Werkgelegenheid (XV) | 20

@@ -1,0 +1,48 @@
+De gevraagde assurance onderzoeken geven tot op heden niet de gewenste zekerheid. 
+RvIG onderzoekt momenteel de resultaten uit deze rapportages om de gepaste maatregelen 
+te kunnen treffen in de opbrengstenverantwoording en in de informatiebeveiliging.
+3.9 Aandachtspunten
+3.9.1  BZK Kern: onnodige begrotingsonrechtmatigheden vanwege foutieve informatie bij koppelvlakken 
+met andere organisaties
+Naar aanleiding van een budgetoverschrijding in 2021 heeft BZK in 2022 een plan van aanpak 
+opgesteld om budgetoverschrijdingen na de zogenaamde veegbrief te voorkomen. Na de veegbrief 
+is door BZK geconstateerd dat op de begrotingshoofdstukken IV en VII het verplichtingenbudget is 
+overschreden met ruim € 20 miljoen.
+Evenals vorig jaar vond dit plaats op de koppelvlakken met andere organisaties waar BZK van 
+afhankelijk is. Wij adviseren om een risicoanalyse op te stellen met een juiste inschatting van de 
+foutrisico’s op de koppelvlakken en daar extra maatregelen te treffen waar onder (tijdige) controles 
+om fouten in de toekomst te voorkomen.
+3.9.2 BZK Kern: Subsidies en bijdragen, overweeg meer guidance in controleprotocollen
+Wij hebben de administratieve organisatie en interne beheersing in het proces rond de subsidies en 
+bijdragen onderzocht. Er zijn voldoende beheersingsmaatregelen getroffen om de rechtmatigheid 
+en getrouwheid van de verplichtingen, uitgaven en vaststellingen te waarborgen. De vastlegging 
+van uitgevoerde processtappen zoals de staatssteuntoets en de beoordeling van begrotingen en 
+verantwoordingen, zijn vaak te summier. Dit bemoeilijkt de controleerbaarheid van beslissingen 
+in het proces. Wij hebben ook goede voorbeelden gezien en adviseren om die als norm te hanteren 
+voor de vastleggingen.
+Verder komt uit onze reguliere subsidiecontrole en uit de gevraagde reviews van accountants-
+controles op verantwoordingsinformatie subsidie BZK naar voren dat BZK geen specifieke eisen 
+stelt aan de besteding van de subsidie en de controle daarop. Momenteel wordt in de subsidie-
+beschikkingen verwezen naar de Kaderwet overige BZK-subsidies en het Kaderbesluit BZK 
+subsidies. Die bevatten geen specifieke eisen maar algemene normen.
+Voor subsidies met een substantieel risico op oneigenlijk gebruik kan BZK informatie- en 
+controleprotocollen opstellen met eisen aan de besteding van de subsidie en de controle daarop. 
+In het controleprotocol kan ook een specifiek model controleverklaring worden opgenomen.
+3.9.3 Gemeente- en Provinciefonds: Aandachtspunt voor interne beheersing 
+BZK heeft een adequaat proces voor het voeren van de administratie van het Gemeentefonds en 
+het Provinciefonds. Bij het Gemeentefonds en het Provinciefonds is de administratieve organisatie 
+en de interne beheersing vastgelegd in procesbeschrijvingen en werkinstructies. De samenhang 
+tussen de procesbeschrijvingen en de werkinstructies onderling en met een risicoanalyse in relatie 
+tot de doelstellingen van de fondsen is echter niet altijd duidelijk. Bij het doen van navraag is 
+gebleken dat de betrokken medewerkers wel het benodigde inzicht hebben in hoe risico’s beheerst 
+worden. Wij hebben de volgende aanbevelingen:
+• structureer de procesbeschrijvingen en werkinstructies, zodat duidelijk is op welk fonds een 
+document betrekking heeft en zodat daarnaast ook duidelijk is dat er geen risico’s of 
+processtappen in de beheersing gemist zijn;
+• maak expliciet of de geïmplementeerde beheersingsmaatregelen de geïdentificeerde risico’s 
+adequaat afdekken.
+3.9.4 OBF (voormalig UBR): V erkrijg inzicht in de mate van beheer en beveiliging van uitbestede informatiesystemen 
+Het financiële landschap Exact en de daaraan verwante applicaties van het agentschap UBR was 
+voorheen bij SSC-ICT gehost. Agentschap UBR heeft in 2021 besloten de hosting van het financiële 
+landschap uit te besteden aan een commerciële serviceorganisatie.
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 19
