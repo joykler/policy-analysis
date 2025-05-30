@@ -1,0 +1,28 @@
+Bijlage 
+Ongewogen en gewogen data 
+Kenmerken Ongewogen Gewogen 
+N % N % 
+Leeftijd 
+16 t/m 24 jaar 
+66 7,9 100 12,0 
+25 t/m 34 jaar 
+87 10,4 152 18,2 
+35 t/m 44 jaar 
+134 16,0 156 18,7 
+45 t/m 54 jaar 
+177 21,1 180 21,5 
+55 t/m 70 jaar 
+373 44,6 249 29,7 
+Opleidingsniveau 
+Hoog (wo/hbo) 
+233 27,8 219 26,2 
+Middel (havo/vwo/mbo/mavo) 
+421 50,3 432 51,6 
+Laag (ibo/basisschool/geen opleiding 
+183 21,9 185 22,1 
+Geslacht 
+Mannen 
+439 52,4 424 50,6 
+Vrouwen 
+398 47,6 413 49,4 
+Publieksmonitor BZK, 2-meting| Ministerie van BZK| Project Z6988 17-12-2015 67
