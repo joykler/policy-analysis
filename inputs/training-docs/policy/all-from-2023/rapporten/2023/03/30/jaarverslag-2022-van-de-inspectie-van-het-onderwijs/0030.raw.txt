@@ -30,4 +30,3 @@ medewerkers bezetting in fte
 5,5% 
 ziekteverzuim
 3 HR staat voor Human Resources.
-30

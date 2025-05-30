@@ -29,4 +29,3 @@ voor het ondersteunen van het toezicht. Verder realiseerden we een datastrategie
 met het vervangen van de rapportagetool, waarmee inspectiemedewerkers werken aan de 
 rapporten van onze onderzoeken.
 4 EIK staat voor Experts In Kwaliteit.
-32

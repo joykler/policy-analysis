@@ -46,4 +46,3 @@ Bonaire  Sint Eustatius
 en Caribisch Nederland 
 0 1.000 km
 Colombia Venezuela
-6
