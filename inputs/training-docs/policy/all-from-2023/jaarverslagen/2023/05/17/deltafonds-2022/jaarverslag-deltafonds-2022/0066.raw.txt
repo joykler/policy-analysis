@@ -1,0 +1,67 @@
+Prestaties
+De prestaties van de infrastructuur worden gemeten en uitgedrukt in 
+prestatie-indicatoren. De indicatoren leggen de verbinding tussen de 
+sturing op en verantwoording over de gewenste prestaties waarvoor RWS 
+budget heeft gekregen. Met RWS is een tweejarig Service Level Agreement 
+gesloten (looptijd 2022-2023), waarin afspraken zijn gemaakt over de uit te 
+voeren werkzaamheden en prestaties.
+Tabel 38 Prestatie indicatoren RWS
+Streefwaarde 
+Prestatie-indicator Realisatie 2019 Realisatie 2020 Realisatie 2021 Realisatie 2022 Toelichting
+2022-2023
+Hoofdwegennet 1
+Beschikbaarheid
+Technische beschikbaarheid van 
+90% 99% 99% 99% 98%
+de weg
+Files door Werk in Uitvoering als 
+gevolg van aanleg en gepland 
+onderhoud in:
+Voertuigverliesuren (vanaf 2018) 10% 3% 6% 7% 3%
+Levering verkeersgegevens:
+– Beschikbaarheid data voor 
+90% 93% 93% 94% 93%
+derden
+– Actualiteit data voor derden 95% 97% 100% 96% 100%
+Veiligheid
+– Voldoen aan norm voor 
+99,7% 99,8% 99,7% 99,8% 99,7%
+verhardingen
+– Voldoen aan norm voor 
+95% 97% Voldoende 99% 99%
+gladheidbestrijding
+Hoofdvaarwegennet 2
+Beschikbaarheid / 
+Betrouwbaarheid
+Stremmingen gepland 
+0,8% ‒ 0,3% 2,0% 0,9%
+onderhoud
+Stremmingen ongepland 
+0,2% ‒ 0,4% 1,0% 2,4%
+onderhoud
+Tijdig melden ongeplande 
+97% 98% 98% 98% 98%
+stremmingen
+Vaargeul op orde (% oppervlakte 
+op orde)
+– Toegangsgeulen 99% 100% 100% 100% 100%
+– Hoofdtransportassen 90% 92% 92% 92% 93%
+– Hoofdvaarwegen 85% 83% 80% 80% 82%
+– Overige vaarwegen 85% 87% 83% 83% 83%
+Veiligheid
+Vaarwegmarkering op orde 95% 93% 91% 92% 89%
+Hoofdwatersysteem 3
+Waterveiligheid
+Handhaving kustlijn 90% 92% 91% 90% 91%
+Beschikbaarheid 
+100% 83% 83% 83% 83%
+stormvloedkeringen
+Waterhuishouding op orde in 
+100% 75% 50% 100% 75%
+alle peilgereguleerde gebieden
+Betrouwbaarheid 
+95% 99% 100% 96% 100%
+informatievoorziening
+Bron: RWS, 2022
+1. Toelichting prestaties Hoofdwegennet
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 J, nr. 1 66

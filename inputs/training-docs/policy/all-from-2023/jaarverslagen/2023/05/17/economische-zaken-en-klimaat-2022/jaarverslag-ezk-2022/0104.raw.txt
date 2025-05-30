@@ -1,0 +1,52 @@
+Vastgestelde 
+Realisatie
+1,2
+begroting Verschil
+Lening EBN 3.000 4.000 5.000 61.400 61.400 0
+Lening EBN voor vullen Bergermeer 1.000.000 0 1.000.000
+Garanties 1.019 0 4.475 0 0 0 0
+Verliesdeclaratie aardwarmte 1.019 4.475 0 0
+Opdrachten 9.053 6.718 20.845 10.570 16.236 36.953 ‒ 20.717
+Onderzoek mijnbouwbodembeweging 2.410 1.937 1.938 2.515 2.552 1.986 566
+SodM onderzoek 879 1.059 1.193 1.153 2.425 ‒ 1.272
+Joint Implementation 1.368 0 0
+Uitvoeringsagenda Klimaat 373 288 203 163 320 623 ‒ 303
+Klimaat mondiaal 92 120 275 156 139 335 ‒ 196
+Onderzoek en opdrachten 5.299 3.005 17.370 6.543 12.072 31.584 ‒ 19.512
+Bijdrage aan agentschappen 65.341 75.957 84.148 89.683 106.102 81.435 24.667
+Bijdrage RVO.nl 56.675 66.634 71.171 77.196 90.998 64.746 26.252
+Bijdrage Agentschap Telecom 397 882 4.002 4.103 ‒ 101
+Bijdrage NEa 5.594 5.962 8.766 7.117 7.197 7.536 ‒ 339
+Bijdrage KNMI 1.147 1.419 1.437 2.047 1.424 1.264 160
+Bijdrage NVWA 721 703 703 841 846 886 ‒ 40
+Bijdrage RIVM 1.600 ‒ 1.600
+Bijdrage RWS 1.204 1.239 1.674 1.600 1.635 1.300 335
+Bijdrage aan ZBO's/RWT's 150.348 142.831 128.307 125.186 134.579 142.417 ‒ 7.838
+Doorsluis COVA-heffing 110.760 110.088 94.845 89.426 96.233 111.000 ‒ 14.767
+TNO kerndepartement 37.809 31.637 32.547 34.688 36.965 29.690 7.275
+TNO-SodM 1.779 1.106 915 1.072 1.381 1.727 ‒ 346
+Bijdrage aan medeoverheden 20.988 15.978 8.971 19.020 13.236 1.340 11.896
+Uitkoopregeling 20.988 15.978 8.971 19.020 2.454 1.340 1.114
+Regeling toezicht energiebesparingsplicht 10.732 0 10.732
+Uitvoeringskosten klimaat medeoverheden 50 0 50
+Bijdragen aan (inter)nationale organisaties 158.686 10.800 10.446 33.578 9.110 10.893 ‒ 1.783
+Nuclear Research Group (NRG) 158.040 9.008 9.207 32.094 7.789 8.259 ‒ 470
+Internationale contributies 646 1.792 1.239 1.484 1.321 1.624 ‒ 303
+PBL Rekenmeesterfunctie 1.010 ‒ 1.010
+ILT handhaving F-gassen 0 0
+Stortingen begrotingsreserves 1.037.740 1.005.102 1.253.716 66.890 2.626.555 66.333 2.560.222
+Storting in begrotingsreserve duurzame 537.740 993.682 1.253.716 66.333 2.626.555 66.333 2.560.222
+energie en klimaattransitie
+Storting begrotingsreserve maatregelen 500.000 11.000 0 0
+voor CO -reductie
+2
+Storting in begrotingsreserve aardwarmte 420 557 0 0
+Ontvangsten 3.201.275 2.390.399 3.738.266 4.346.787 6.819.604 3.720.277 3.099.326
+Ontvangsten COVA 110.760 110.088 94.845 89.426 96.233 111.000 ‒ 14.767
+Opbrengst heffing ODE (SDE++) 1.033.046 1.631.970 2.542.250 3.077.606 2.825.906 2.692.000 133.906
+Aardgasbaten 1.461.955 0
+Ontvangsten zoutwinning 2.599 2.399 2.391 2.412 3.288 2.511 777
+Onttrekking reserve duurzame energie en 73.000 78.000 236.020 259.886 1.576.186 4.186 1.572.000
+klimaattransitie
+ETS-ontvangsten 504.215 440.136 441.408 893.987 1.135.862 900.000 235.862
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 104

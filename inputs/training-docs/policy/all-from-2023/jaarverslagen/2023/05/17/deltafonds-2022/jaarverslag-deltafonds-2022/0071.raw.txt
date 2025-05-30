@@ -1,0 +1,56 @@
+Tabel 40 Budgetten exploitatie en onderhoud Hoofdwegennet, Hoofdvaarwegennet en Hoofdwatersysteem 
+(bedragen x € 1.000)
+Realisatie Begroting Verschil
+Artikelonderdeel 2022 2022 2022 Toelichting
+Hoofdwegen
+MF 12.01 Exploitatie 9.298 3.959 5.339
+MF 12.02.01 Onderhoud 1.021.510 905.185 116.325 1
+Overige 
+MF 12.06.02 netwerkgebonden 251.992 108.115 143.877 2
+kosten
+Totaal realisatie Exploitatie en Onderhoud Hoofdwegen 1.282.800 1.017.259 265.541
+Hoofdvaarwegen
+MF 15.01 Exploitatie 10.972 10.433 539
+MF 15.02.01 Onderhoud 461.832 368.020 93.812 3
+Overige 
+MF 15.06.02 netwerkgebonden 58.964 30.782 28.182 4
+kosten
+Totaal realisatie Exploitatie en Onderhoud Hoofdvaarwegen 531.768 409.235 122.533
+Hoofdwatersysteem
+DF 3.01.01 Watermanagement 8.028 7.634 394
+Onderhoud 
+DF 3.02.01 144.350 111.076 33.274 5
+Waterveiligheid
+Onderhoud 
+DF 3.02.02 99.251 97.102 2.149 6
+Zoetwatervoorziening
+Overige 
+DF 5.02.01 netwerkgebonden 103.854 68.829 35.025 7
+uitgaven
+Totaal realisatie Watermanagement en Onderhoud Hoofdwatersysteem 355.483 284.641 70.842
+Totaal realisatie exploitatie, watermanagement en Onderhoud RWS 2.170.051 1.711.135 458.916
+Toelichting
+Onderstaand wordt een toelichting gegeven op de verschillen tussen de 
+begroting en de realisatie, zie voor de gehanteerde norm de toelichting 
+‘normering jaarverslag’ zoals opgenomen in de leeswijzer.
+Hoofdwegennet
+1. De hogere realisatie op Onderhoud Hoofdwegennet van € 116,3 miljoen 
+wordt veroorzaakt door:
+– Vanuit de afrekening van de SLA 2018-2021, is het budget verhoogd met 
+€ 140,7 miljoen. De afrekening betreft budgettoevoeging voor saldo mee 
+en tegenvallers SLA en extra opgedragen (onderhouds)werkzaam­
+heden.
+– Toevoegen van extra budget vanuit de jaarlijkse prijsbijstelling (IBOI) 
+(€ 48,6 miljoen).
+– Om de tekorten op beheer en onderhoud tot en met 2023 op te lossen is 
+er in de begroting 2022 € 300 miljoen van de jaren 2031-2033 naar 2023 
+e
+geschoven. Met een aanvullende schuif is dit in de 1 suppletoire 2022 
+verdeeld over de netwerken. Voor het hoofdwegennet gaat het om 
+€ 32,4 miljoen.
+– Overboeking van budget naar de post overige netwerk gebonden 
+uitgaven ten behoeve van de uitvoering van werkzaamheden die gecen­
+traliseerd worden opgepakt (Landelijke Taken ‒ € 115,2 miljoen).
+– Tot slot leiden diversie kleine mutaties < 5 miljoen per saldo tot een 
+hogere realisatie (€ 9,8 miljoen).
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 J, nr. 1 71

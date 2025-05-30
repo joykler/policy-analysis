@@ -1,0 +1,62 @@
+Om - aanvullend op het jaarverslag – de Kamer te informeren over de 
+voortgang en effecten van beleid treft u op de website https://
+www.cbs.nl/nl-nl/publicatieplanning de planning aan van de CBS-
+publicaties. Actuele en gedetailleerde informatie over de specifieke beleids­
+gebieden kunt u vinden op de websites van PIANOo, de ACM  (o.a. over 
+de telecommunicatiemarkt), Rijksinspectie Digitale Infrastructuur (Staat van 
+de Ether, jaarberichten), TNO (Monitor Draadloze Technologie) het CBS 
+(Cybersecuritymonitor en DAB+ ontvangers), NCSC (cybersecurity 
+dreigingen, incidenten en maatregelen) en het Digital Trust Center (DTC).
+Voor de hierna benoemde beleidsconclusies zijn data en kengetallen te 
+vinden op de website Bedrijvenbeleid in beeld.
+Tabel 7 Prestatie-indicatoren
+Ambitie 
+Kengetallen 2016 2017 2018 2019 2020 2021 2022 Bron
+2022
+1. Penetratiegraad van digitale radio ontvangers in 
+6% 10% 12% 15% 18% 22% 24% 35%
+1
+huishoudens CBS
+2
+2. Ranglijst digitale economie en maatschappij (DESI) 4 4 4 4 4 4 3 Koploper DESI
+DESI/
+3a. Connectiviteit – beschikbaarheid vast breedband 98% 98% 98% 97% 99% >99% >99% >99%
+3
+EZK
+4
+3b. Connectiviteit – beschikbaarheid mobiel breedband via 4G 99+% - 99+% 99+% 99+% 99+% 99+% n.v.t. n.v.t. DESI
+5
+3c. Connectiviteit – beschikbaarheid mobiel breedband via 5G n.v.t. n.v.t. n.v.t. n.v.t. n.v.t. 80% 97% 99+% DESI
+1 In eerdere jaarverslagen is ten onrechte het percentage van personen vanaf 12 jaar gebruikt in plaats van het percentage van huishoudens om de penetratiegraad van 
+digitale radio ontvangers weer te geven. Deze tabel corrigeert dit voor de jaren 2019, 2020 en 2021.
+2 Deze ranglijst geeft de rang van Nederland op het moment van het opstellen van het jaarverslag van het betreffende jaar.
+3 Beschikbaarheid op basis van DESI-indicator 1b1 (30 Mbps) voor de jaren 2014-2018 en beschikbaarheid op basis van EZK breedbandkaart (100Mbps) vanaf jaar 2019.
+4 Beschikbaarheid op basis van DESI-indicator 1c1(4G)
+5 Beschikbaarheid op basis van DESI-indicator 5G.
+In bovenstaande tabel staan de kengetallen uit de meest recente Index 
+Digitale Economie en Samenleving van de Europese Commissie (DESI, juli 
+2022) en de meest recente CBS-statistiek (september 2022). De DESI cijfers 
+hebben steeds betrekking op het voorgaande jaar. Omdat de DESI vanaf 
+2021 alleen nog de beschikbaarheid van mobiel breedband via 5G dekking 
+opneemt en niet langer via 4G dekking, is er een extra indicator (3c) 
+toegevoegd aan tabel 13 en is oorspronkelijke indicator (3b) verduidelijkt. 
+De kengetallen voor de beschikbaarheid van vast breedband (ten minste 100 
+Mbps) vanaf 2019 zijn afkomstig van de inventarisatie van EZK naar breed­
+30
+banddekking in Nederland. De cijfers tonen de beschikbaarheid voor het 
+betreffende jaar. In de kolom ambitie 2022 staan de streefwaarden van EZK 
+aan voor genoemde activiteiten, in lijn met de ambitie uit het Regeerakkoord 
+(2017) dat Nederland op sociaal, economisch en digitaal vlak Europees 
+koploper is. In het Actieplan Digitale Connectiviteit (2018) heeft het kabinet 
+concreet de volgende connectiviteitsdoelstelling vastgelegd: de overheid 
+streeft naar kwalitatief hoogwaardige connectiviteit die een grote diversiteit 
+aan vraag kan bedienen en altijd en overal beschikbaar is tegen concurre­
+rende tarieven. Met mobiele netwerken moeten daarnaast in elk geval 
+basisdiensten altijd en overal kunnen worden geraadpleegd.
+Aansluitend de ranglijst digitale economie en maatschappij, waarin 
+Nederland in 2022 na 3 jaar teruggekeerd is in de top 3 van de jaarlijkse, 
+toonaangevende Digital Economy and Society Index (DESI) van de 
+Europese Unie. De DESI rangschikt Europese landen als het gaat om de 
+30
+ https://www.overalsnelinternet.nl/breedbandkaart
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 52

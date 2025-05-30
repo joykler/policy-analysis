@@ -1,0 +1,50 @@
+3. Het voorzien in maatschappelijke behoeften aan statistieken
+Evaluatie CBS
+In juni 2022 is de evaluatie naar het CBS afgerond. De conclusie van de 
+evaluatie is dat het CBS in de periode 2016-2020 doeltreffend, doelmatig en 
+onafhankelijk is geweest (Kamerstuk 25 268, nr. 209).
+D. Budgettaire gevolgen van beleid
+Tabel 8 Budgettaire gevolgen van beleidsartikel 1 (bedragen x € 1.000)
+Vastgestelde 
+Realisatie
+1
+begroting Verschil
+2018 2019 2020 2021 2022 2022 2022
+Verplichtingen 200.563 265.347 226.206 258.215 362.214 267.372 94.842
+Uitgaven 201.785 251.493 230.938 260.228 291.380 249.968 41.412
+Subsidies 236 517 2.769 3.625 16.262 10.000 6.262
+Cyber security 236 517 926 677 966 966
+Telecom Caribisch Nederland 1.843 2.890 3.629 3.629
+EU-cofinanciering Digital Europe 10.000 ‒ 10.000
+Beter aanbesteden 58 488 488
+NGF project AiNed 5.719 5.719
+NGF project Nationaal onderwijslab 5.460 5.460
+Opdrachten 6.156 54.511 20.025 28.978 20.008 23.950 ‒ 3.942
+Onderzoek en Opdrachten 2.197 1.710 1.842 2.040 1.571 2.474 ‒ 903
+Beleidsvoorbereiding en evaluaties 
+3.795 6.204 7.528 5.413 6.112 4.408 1.704
+Frequenties en Veiligheid
+Digital trust centre 164 125 196 356 227 1.432 ‒ 1.205
+Cyber security 901 1.387 689 2.180 5.741 ‒ 3.561
+ICT beleid 6.296 5.673 7.031 7.378 ‒ 347
+Terugbetaling boetes ACM 45.571 2.733 14.228 1.633 1.633
+CSIRT-DSP 3 1.017 ‒ 1.014
+Nationaal Groeifonds 43 579 1.251 1.251
+Vervolgprogramma beter aanbesteden 0 1.500 ‒ 1.500
+Bijdragen aan agentschappen 39.124 34.814 39.503 47.694 51.255 41.199 10.056
+Agentschap Telecom 27.195 23.576 28.698 33.068 36.089 30.824 5.265
+Rijksdienst voor Ondernemend Nederland 11.929 11.238 10.805 14.626 15.166 10.375 4.791
+Bijdragen aan ZBO’s /RWT’s 152.738 157.720 164.884 176.185 200.228 170.763 29.465
+Metrologie 9.335 9.480 10.706 15.980 11.524 11.146 378
+Raad voor Accreditatie 209 235 263 274 1.099 277 822
+ACM 737 614 632 670 712 779 ‒ 67
+CBS 142.457 147.391 153.283 159.261 186.893 158.561 28.332
+Bijdragen aan (inter)nationale organisaties 3.531 3.931 3.757 3.746 3.625 4.056 ‒ 431
+Nederlands Normalisatie Instituut (NEN) 1.124 1.157 1.186 1.187 1.245 1.194 51
+Internationale organisaties 2.407 2.774 2.571 2.559 2.380 2.862 ‒ 482
+Ontvangsten 16.599 19.558 933.838 428.676 120.881 31.934 88.947
+Ontvangsten ACM 162 162 162 163 162 162 0
+High Trust 15.194 17.486 106.954 6.846 117.969 30.200 87.769
+Diverse ontvangsten 1.243 1.910 826.722 421.667 2.750 1.572 1.178
+1 Stand inclusief amendementen, moties en NvW.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 59

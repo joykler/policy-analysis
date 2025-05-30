@@ -1,0 +1,79 @@
+Ambitie 
+1
+2015 2016 2017 2018 2019 2020 2021 2022 Bron
+2022
+Gerealiseerde vermogen 357 957 957 957 957 2.460 2.460 3.160 2023: Monitor 
+windenergie op zee in MW 4.450 MW Klimaatbeleid 2021, 
+2030: Dashboard 
+11.000 Klimaatbeleid en 
+3
+MW Klimaatnota 2022
+Gerealiseerd vermogen wind op 4.560 5.435 6.156 8.044 10.753 15.109 22.051 30.622 2020: Monitor 
+land en zon-PV in MW 6000 MW klimaatbeleid 2021 en 
+voor Dashboard 
+3
+Wind op Klimaatbeleid
+Land 
+(voor 
+Zon-PV is 
+er geen 
+doelstelling)
+Gerealiseerd vermogen in 1,1 1,1 2 2,0 3,0 n.v.t. Monitor 
+waterstofprojecten uit elektrolyse Klimaatbeleid 2021 
+in MW en Dashboard 
+4
+Klimaatbeleid
+Concentratiegraad in de 2.152 1.992 1.822 1.951 2.021 1.918 2.026 n.n.b. n.v.t. ACM
+retailsector elektriciteit - HHI
+Concentratiegraad in de 79% 75% 72% 74% 75% 72% 72% n.n.b. n.v.t. ACM
+retailsector elektriciteit -C3
+Concentratiegraad in de 2.052 1.895 1.821 1.949 1.949 1.941 2.048 n.n.b. n.v.t. ACM
+retailsector gas - HHI
+Concentratiegraad in de 77% 74% 72% 74% 72% 73% 73% n.n.b. n.v.t. ACM
+retailsector gas - C3
+Elektriciteitsstoringen in minuten 33 21 24 27 20 21 20 22 n.v.t. Netbeheer Nederland
+per jaar
+Ontwikkeling kostprijs 91 86 79 67 68 51 50 51 59 Monitor 
+hernieuwbare Wind op Land Klimaatbeleid 2021 
+EUR/MWh en Dashboard 
+5
+Klimaatbeleid
+Ontwikkeling kostprijs Zon-PV 141 128 125 110 95 80 66 63 83 Monitor 
+EUR/MWh Klimaatbeleid 2021 
+en Dashboard 
+5
+Klimaatbeleid
+Prestatie-indicatoren Industrie
+6 6
+Cumulatieve vermeden CO₂ vanaf 605.983 1.007.183 1.830.466 2.560.195 3.215.997 3.688.000 n.v.t. Dashboard 
+7
+2015 door procesefficientie- Klimaatbeleid
+maatregelen uit MJA/MEE in 
+kton)
+6 6 6
+Gerealiseerde cumulatieve 9,8 18,0 31,9 45,5 57,0 n.v.t. Dashboard 
+7
+energiebesparing van EIA en Klimaatbeleid
+MJA/MEE (in PJ)
+Toegekende duurzame 387.821 224.746 275.438 421.000 400.000 348.000 358.000 n.n.b. n.v.t. Dashboard 
+7
+investeringen in de industrie via Klimaatbeleid
+EIA en MIA-Vamil (bedragen in 
+€ 1.000)
+Groengasproductie in relatie tot 2,52 2,62 3,10 3,38 4,50 6,35 n.n.b. n.n.b. n.v.t. Dashboard 
+7
+de productie van elektriciteit en Klimaatbeleid
+warmte uit biomassa (in PJ)
+1 De realisatie over 2021 is gebaseerd op de Monitor Klimaatbeleid 2021 en het Dashboard Klimaatbeleid.
+2 Vastgestelde cijfers september 2022.
+3 CBS (2021) Hernieuwbare elektriciteit: productie en vermogen (Statline). Het gaat hier om (nader) voorlopige cijfers.
+4 CBS, Waterstofbalans in relatie tot energiestatistiek.
+5 PBL (2022) Eindadvies basisbedragen SDE++ 2022.
+6 De convenanten MJA/MEE zijn stopgezet. Er zijn dus geen gegevens meer beschikbaar.
+7 RVO.nl (2021) interne cijfers MIA/VAMIL/EIA/SDE+ en ISDE regelingen.
+Kengetal HHI en C3
+De C3 is het gezamenlijk marktaandeel van de drie grootste leveranciers. 
+De mate van concentratie op de kleinverbruikersmarkt voor elektriciteit en 
+gas vormt een indicatie voor de concurrentie op die markten. Een indicator 
+hiervoor is de Herfindahl-Hirschman Index (HHI). Een markt met een HHI 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 96
