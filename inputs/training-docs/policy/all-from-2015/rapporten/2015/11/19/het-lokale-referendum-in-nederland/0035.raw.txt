@@ -44,5 +44,4 @@ het aantal kiesgerechtigden te achterhalen. De rekensom is: (3.923.464/9.515.842
 de blanco en ongeldige stemmen bedraagt 40,56%. De rekensom is: (3.859.536/9.48.877)*100.  
 126
  Zie voor een overzicht van de opkomst van verkiezingen in Nederland de website www.verkiezingsuitslagen.nl. De 
-databank verkiezingsuitslagen is samengesteld door de Kiesraad.  
-35
+databank verkiezingsuitslagen is samengesteld door de Kiesraad.

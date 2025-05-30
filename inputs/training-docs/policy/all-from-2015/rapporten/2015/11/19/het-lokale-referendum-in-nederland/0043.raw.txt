@@ -40,5 +40,4 @@ in euro’s door het guldenbedrag te delen door 2,20371.
 141
  Zie voor het aantal inwoners per gemeente sinds 1988 de volgende weblink: 
 http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=03759ned&D1=0&D2=129-132&D3=101-
-911&D4=a&HDR=T&STB=G2%2cG3%2cG1&VW=D  
-43
+911&D4=a&HDR=T&STB=G2%2cG3%2cG1&VW=D
