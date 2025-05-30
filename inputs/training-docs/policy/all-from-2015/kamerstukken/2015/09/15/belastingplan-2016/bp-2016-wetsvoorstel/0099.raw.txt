@@ -1,0 +1,50 @@
+stand. De facto leidt de voorgenomen maatregel in alle gevallen tot inning van de conserverende 
+belastingaanslag en/of belastingheffing ter hoogte van 25% van de winstuitdeling. 
+Met de termen ‘uitgedeelde reserves’ of ‘winstuitdeling’ wordt beoogd iedere vorm van 
+winstuitkering, dus ook verkapte winstuitkeringen (bijvoorbeeld door middel van onttrekkingen 
+door de aanmerkelijkbelanghouder via de rekening-courant), onder de werking van deze bepaling 
+te laten vallen. 
+ 
+Onderstaande cijfermatige voorbeelden dienen ter illustratie van de voorgenomen 
+wijzigingen in de artikelen 25 en 26 van de IW 1990: 
+ 
+Alle voorbeelden: 
+Verkrijgingsprijs aandelen:   € 0 
+Waarde aandelen bij emigratie (jaar t):  € 10 miljoen 
+Conserverende aanslag (CA) bij emigratie: € 2,5 miljoen (25% van € 10 miljoen) 
+Dividend jaar t+1:    € 5 miljoen 
+Waarde aandelen bij vervreemding in jaar t+20: € 20 miljoen 
+Na de dividenduitkering in jaar t+1 worden geen dividenduitkeringen meer gedaan. 
+ 
+Voorbeeld 1: 
+Emigratie aanmerkelijkbelanghouder naar EU-lidstaat met belastingverdrag zonder 
+aanmerkelijkbelangvoorbehoud ten aanzien van dividenden, besloten vennootschap (bv) blijft feitelijk gevestigd 
+in Nederland 
+ 
+  Nu: Straks: 
+Dividendbelasting in NL (t+1): 15% € 750.000 € 750.000 
+Belasting in buitenland (t+1): 7,5% € 375.000 € 375.000 
+Kwijtschelding CA (t+1):  € 750.000 € 750.000 
+4
+Intrekken uitstel en innen CA (t+1):  0 € 125.000 
+Restant CA waarvoor uitstel (t+1):  € 1.750.000 € 1.625.000 
+Kwijtschelding CA (t+10):  € 1.750.000 0 
+Intrekken uitstel en innen CA (t+20):  0 € 1.625.000 
+Totale belastingopbrengst NL:   € 750.000 € 2.500.000 
+ 
+Voorbeeld 2: 
+Emigratie aanmerkelijkbelanghouder en zetelverplaatsing bv naar EU-lidstaat met belastingverdrag zonder 
+aanmerkelijkbelangvoorbehoud ten aanzien van dividenden 
+ 
+  Nu: Straks: 
+Dividendbelasting in NL (t+1):  0 0 
+Belasting in buitenland (t+1): 7,5% € 375.000 € 375.000 
+Kwijtschelding CA (t+1):  0 0 
+Intrekken uitstel en innen CA (t+1):  0 € 875.000 
+Restant CA waarvoor uitstel (t+1):  € 2.500.000 € 1.625.000 
+Kwijtschelding CA (t+10):  € 2.500.000 0 
+                                                
+4
+ Namelijk: 25% van € 5 miljoen (winstuitdeling) minus € 750.000 (Nederlandse dividendbelasting) minus € 375.000 (buitenlandse 
+belasting). 
+72

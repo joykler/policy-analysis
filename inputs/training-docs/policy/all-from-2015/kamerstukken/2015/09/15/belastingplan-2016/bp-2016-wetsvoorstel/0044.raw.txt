@@ -1,0 +1,59 @@
+Voorbeeld: 
+X en Y zijn fiscaal partner. Hun gezamenlijke box 3-vermogen bedraagt € 200.000. Het heffingvrije vermogen 
+bedraagt € 25.000 per persoon. X en Y passen een 50:50-verdeling toe. 
+ 
+In het nieuwe systeem kan de te betalen belasting als volgt worden berekend: 
+ 
+Huishoudelijk vermogen:       € 200.000 
+12
+Vermogen per partner :       € 100.000 
+Grondslag sparen en beleggen per partner verdeeld over de rendementsklassen: 
+ 
+Per partner R I (spaardeel) R II (beleggingsdeel) 
+e
+1 schijf 67% x (100.000 – 25.000) =         €  50.250 33% x (100.000 – 25.000) =       € 24.750 
+e
+2 schijf 20% x 0 =                                             € 0  80% x 0 =                                          € 0 
+e
+3 schijf 0% x 0 =                                               € 0 100% x 0 =                                        € 0 
+Grondslag                                                      € 50.250                                                  € 24.750 
+sparen en 
+beleggen  
+ 
+Voordeel sparen en beleggen per partner: 1,63% x € 50.250 + 5,5% x € 24.750 = € 2180 
+De te betalen belasting per partner bedraagt 30% x € 2180 = € 654 
+De te betalen belasting voor de partners gezamenlijk bedraagt twee maal € 654 = € 1308. 
+ 
+In het huidige systeem met een vast forfaitair rendement van 4% wordt de belasting als volgt berekend: 
+Huishoudelijk vermogen:     € 200.000 
+Vermogen per partner:     € 100.000 
+Heffingvrij vermogen per partner    € 21.330 
+Grondslag sparen en beleggen per partner   € 78.670 
+Voordeel sparen en beleggen per partner 4% x € 78.670 € 3146 
+Te betalen belasting per partner 30% x € 3146  € 944 
+De te betalen belasting voor de partners gezamenlijk bedraagt twee maal € 944 = € 1888. 
+ 
+4.5. Gevolgen voor buitenlandse belastingplichtigen 
+Buitenlandse belastingplichtigen worden in Nederland in box 3 belast voor het (forfaitair bepaalde) 
+13
+inkomen uit in Nederland gelegen onroerende zaken en rechten die daarop betrekking hebben. 
+Voor buitenlandse belastingplichtigen behoren spaartegoeden, aandelen en obligaties dus niet tot 
+het box 3-vermogen. Deze (beperkte) grondslag voor buitenlandse belastingplichtigen blijft ook in 
+de nieuwe systematiek van toepassing, maar in de nieuwe systematiek wordt het forfaitaire 
+rendement voor buitenlandse belastingplichtigen, net als voor binnenlandse belastingplichtigen, 
+vastgesteld op basis van een gemiddelde vermogensmix die al die vermogenstitels bevat, inclusief 
+vermogenstitels die geen deel uitmaken van de grondslag. Indien voor buitenlandse 
+belastingplichtigen de onderliggende vermogensmix zou worden aangepast, zou een buitenlandse 
+belastingplichtige namelijk kunnen worden benadeeld ten opzichte van een binnenlandse 
+belastingplichtige die zich in een vergelijkbare situatie bevindt. Zo zou een niet-inwoner die alleen 
+een vakantiehuis in Nederland bezit met een nettowaarde van € 100.000, afhankelijk van de 
+rendementen op de vermogenstitels in de vermogensmix, een hoger forfaitair rendement 
+                                                      
+12
+ In de wettelijke systematiek wordt het vermogen tussen partners verdeeld na aftrek van twee maal het heffingvrije vermogen. Dit 
+geldt ook voor het voorbeeld onder het huidige systeem. 
+13
+ Evenals voor bepaalde, tot de inkomsten uit sparen en beleggen te rekenen, rechten op aandelen in de winst van een Nederlandse 
+onderneming. Deze laatste categorie is in de praktijk te verwaarlozen. 
+ 
+18

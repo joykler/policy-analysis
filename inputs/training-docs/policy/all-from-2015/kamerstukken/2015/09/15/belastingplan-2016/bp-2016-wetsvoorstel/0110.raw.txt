@@ -1,0 +1,49 @@
+Grafiek 2: Koersontwikkeling MSCI-index (Europa, bruto, lokale valuta) 
+8.000 
+7.000 
+MSCI-index 
+6.000 
+5.000 
+8 1/4% groei per jaar 
+4.000 
+3.000 
+2.000 
+1.000 
+0 
+1969 1974 1979 1984 1989 1994 1999 2004 2009 2014 
+ 
+Bron: MSCI 
+ 
+Uit de grafiek blijkt dat de beleggingsindex in de periode 1994-2008 een paar zeer hoge pieken 
+heeft laten zien, gevolgd door sterke correcties. Voor de bepaling van het langetermijnrendement 
+werken dergelijke tussentijdse pieken en dalen verstorend. Voor een analyse is het gekozen start- 
+en eindjaar daarom van grote invloed. Los van die keuze kan niet met exactheid worden 
+aangegeven hoeveel jaar in ogenschouw moet worden genomen om het langetermijnrendement te 
+bepalen. Als een langetermijnrendement wordt berekend met als startjaar een willekeurig jaar in 
+de periode 1984-1994 en als eindjaar een willekeurig jaar in de periode 2008-2014 dan levert dat 
+77 verschillende resultaten op van een gemiddeld langetermijnrendement. Door de keuzes van 
+deze range voor het beginjaar en het eindjaar worden de resultaten niet beïnvloed door de pieken 
+en dalen in de periode 1994-2008. De resultaten variëren van een rendement tussen 6% en 10%, 
+3
+met als gemiddelde, afgerond op ¼%, een langetermijnrendement van 8¼%. In de grafiek is 
+naast de feitelijke ontwikkeling van de beleggingsindex een lijn opgenomen van een denkbeeldige 
+index die elk jaar met 8¼% groeit. Daarmee wordt zichtbaar dat met dit groeipercentage de 
+feitelijke ontwikkeling op lange termijn goed wordt beschreven.  
+De MSCI-index voor Europa zal ook worden gebruikt voor de jaarlijkse aanpassing van het 
+rendement op aandelen in de toekomst volgens de systematiek zoals uiteengezet in het algemeen 
+deel van de memorie van toelichting. 
+ 
+Onroerende zaken 
+Evenals voor aandelen is niet bekend in welk type onroerende zaken het gemiddelde box 3-
+vermogen is belegd. Het kan gaan om tweede huizen, winkel- of bedrijfspanden, bospercelen en 
+dergelijke. De beschikbare cijfers geven wel een indicatie dat onroerende zaken vooral bestaat uit 
+tweede woningen. Om het behaalde rendement op onroerende zaken te benaderen is daarom 
+gekozen voor de ontwikkeling van de huizenprijzen. Daarmee wordt dus impliciet aangenomen dat 
+de huizenprijsstijging indicatief is voor de waardeontwikkeling van onroerende zaken in box 3 
+                                                
+3
+ Bij een kortere termijn, een later instapmoment dan 1994, kan niet langer gesproken worden over een gemiddeld rendement voor de 
+lange termijn.  
+6 
+ 
+Astitel

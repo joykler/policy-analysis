@@ -1,0 +1,41 @@
+Artikel 10.6bis - Herijking percentage 
+Het voorgestelde artikel 10.6bis van de Wet IB 2001 voorziet erin dat het percentage dat 
+geldt voor rendementsklasse I en het percentage dat geldt voor rendementsklasse II in de 
+vermogensrendementsheffing elk jaar worden herijkt. 
+Het eerste lid bepaalt op welke manier het percentage dat geldt voor rendementsklasse I 
+jaarlijks wordt herijkt. Dit percentage is samengesteld uit het gewogen gemiddelde 
+rentepercentage op spaargeld verminderd met het gewogen gemiddelde rentepercentage op 
+schulden. Het gemiddelde rentepercentage op spaargeld wordt gesteld op het gemiddelde van de 
+rentestand op deposito’s van huishoudens met een opzegtermijn van minder dan drie maanden, 
+zoals gepubliceerd door De Nederlandsche Bank, waarbij de vijf kalenderjaren in aanmerking 
+worden genomen die volgen op het kalenderjaar dat zeven jaar voorafgaat aan het kalenderjaar. 
+Hierdoor worden de vijf meest actuele jaren gebruikt waarvan de gegevens beschikbaar zijn. Het 
+gemiddelde rentepercentage op schulden wordt gesteld op het gemiddelde rentepercentage op 
+spaargeld met een opslag van 0,1 procentpunt. 
+Bij het bepalen van het rendement van het nettospaargeld weegt het gemiddelde 
+rentepercentage op spaargeld voor 131% mee en het gemiddelde rentepercentage op schulden 
+voor 31%. De onderlinge weging komt voort uit de omvang van het spaargeld en de omvang van 
+de schulden binnen de veronderstelde gemiddelde vermogensmix. 
+Het tweede lid bepaalt op welke manier het percentage dat geldt voor rendementsklasse II 
+jaarlijks wordt herijkt. Dit percentage bestaat uit het gewogen gemiddelde van het 
+langetermijnrendement op onroerende zaken, het langetermijnrendement op aandelen en het 
+langetermijnrendement op obligaties. Hierbij weegt het langetermijnrendement op onroerende 
+zaken voor 53%, op aandelen voor 33% en op obligaties voor 14% mee. Deze percentages zijn 
+afgeleid van het relatieve gewicht van onroerende zaken, aandelen, obligaties en andere 
+vermogenstitels binnen de categorieën die vallen onder rendementsklasse II. Voor onroerende 
+zaken is dit 45%, voor aandelen 28%, voor obligaties 12% en voor andere vermogenstitels 15%. 
+Voor de andere vermogenstitels is bij het bepalen van het rendement het gewogen gemiddelde 
+genomen van onroerende zaken, aandelen en obligaties in dezelfde verhouding als hiervoor 
+beschreven. Daarom is de weging van deze categorie meegenomen in de weging voor de andere 
+categorieën. 
+De langetermijnrendementen op onroerende zaken, aandelen en obligaties worden bepaald 
+aan de hand van het derde, vierde en vijfde lid.  
+Van alle drie de vermogenstitels wordt jaarlijks het nieuwe langetermijnrendement 
+vastgesteld op het meetkundige gemiddelde van het langetermijnrendement zoals dat geldt voor 
+het voorafgaande kalenderjaar, waarbij dit langetermijnrendement veertienmaal wordt ingewogen, 
+en het rendement van het jaar dat twee jaar voorafgaat aan het kalenderjaar, waarbij dit 
+rendement eenmaal wordt ingewogen. Het jaar dat twee jaar voorafgaat aan het kalenderjaar is 
+het recentste jaar waarvan de gegevens beschikbaar zijn. In formulevorm luidt de berekening als 
+volgt: 
+  
+50

@@ -1,0 +1,61 @@
+Tabel 9: marginale verdeling vermogensmix en rendement naar twee rendementsklassen 
+Schijf Box 3- Heffingvrij RI (sparen) RII (beleggen) 
+11
+vermogen (€) vermogen (€) 1,63%* 5,5%* 
+e
+1  0 - 100.000 -/- 25.000 67% 33% 
+e
+2  100.000 - 1 mln   21% 79% 
+e
+3  >  1 mln  0% 100% 
+*Raming 2017 
+ 
+e e
+In de 1 schijf bedraagt het spaardeel 67%. In de 2 schijf bedraagt het marginale spaardeel 21%. 
+In de derde schijf is het marginale spaardeel nihil omdat het marginale aandeel bank- en 
+spaartegoed en schuld in deze schijf even groot zijn, zodat het saldo nihil is. Daarom valt vanaf de 
+e
+3 schijf het gehele vermogen in rendementsklasse II voor beleggen.  
+De vermogensverdeling in de tabel is bepaald aan de hand van de vermogensverdeling van 
+personen. De schijven worden dus toegepast op individueel niveau. Dit is in overeenstemming met 
+het uitgangspunt van de individuele inkomenstoerekening in partnerrelaties in de Wet 
+inkomstenbelasting 2001 (Wet IB 2001). De schijven betreffen, anders dan de vermogensklassen 
+in grafiek 5 en tabel 6 waarbij iemand met zijn volledige vermogen in een bepaalde klasse valt, de 
+marginale verdeling van de vermogensmix. Dus voor een box 3-vermogen van een 
+belastingplichtige van bijvoorbeeld € 150.000 geldt tot € 100.000 de vermogensmix volgens de 
+eerste schijf en voor € 50.000 de vermogensmix volgens de tweede schijf. Veruit de meeste 
+belastingplichtigen in box 3 blijven met hun volledige vermogen binnen de eerste schijf (zie tabel 
+6). Omdat het heffingvrije vermogen wordt verrekend in de eerste schijf, worden de percentages 
+van de eerste schijf per saldo toegepast over het box 3-vermogen tot € 100.000 minus het 
+heffingvrije vermogen van € 25.000. De schijfgrenzen worden jaarlijks geïndexeerd met de 
+tabelcorrectiefactor. 
+ 
+Voorbeeld:  
+Het box 3-vermogen van X bedraagt € 120.000. Het heffingvrije vermogen bedraagt € 25.000. 
+ 
+nieuwe systeem kan de te betalen belasting als volgt worden berekend: 
+In het 
+ R I (spaardeel) R II (beleggingsdeel) 
+e
+1 schijf 67% x (100.000 – 25.000) =         €  50.250 33% x (100.000 – 25.000) =       € 24.750 
+e
+2 schijf 21% x 20.000 =                               € 4200 79% x 20.000 =                         € 15.800 
+e
+3 schijf 0% x 0 =                                               € 0 100% x 0 =                                        € 0 
+                                                     € 54.450                                                  € 40.550 
+Grondslag sparen 
+en beleggen  
+ 
+Het voordeel sparen en beleggen bedraagt 1,63% x € 54.450 + 5,5% x € 40.550 = € 3118 
+De te betalen belasting bedraagt 30% x € 3118 = € 935 
+  
+                                                      
+11
+ Wetstechnisch worden de schijven niet vormgegeven naar het box 3-vermogen van de belastingplichtige, maar naar de grondslag 
+sparen en beleggen, dus na aftrek van het heffingvrije vermogen. Omdat het heffingvrije vermogen wordt verrekend in de eerste schijf, 
+komt dat neer op een eerste schijf voor de grondslag sparen en beleggen tot € 75.000. De tweede schijf begint dan bij een grondslag 
+sparen en beleggen van € 75.000, hetgeen overeenkomt met een box 3-vermogen van € 100.000. De tweede schijflengte is € 900.000, 
+waardoor de derde schijf dan begint bij een grondslag sparen en beleggen van € 975.000, hetgeen overeenkomt met een box 3-
+vermogen van € 1 miljoen. 
+ 
+16

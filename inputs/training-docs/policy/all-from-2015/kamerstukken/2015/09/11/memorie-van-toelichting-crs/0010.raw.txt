@@ -1,0 +1,46 @@
+C. De gegevensverstrekking van de Belastingdienst aan de Competent Authority’s van andere 
+landen (CA’s) 
+D. De gegevensverstrekking van de CA’s aan de Belastingdienst 
+ 
+In de gegevensstromen A en B zijn de financiële instellingen de verantwoordelijken in de zin van de 
+Wbp. In de gegevensstromen C en D is dit de Belastingdienst. 
+ 
+A. Rekeninghouders  Financiële instellingen 
+Op grond van de in dit wetsvoorstel opgenomen bepalingen, moeten financiële instellingen van hun 
+rekeninghouders vaststellen in welk land zij fiscaal woonachtig zijn om te kunnen vaststellen over 
+welke rekeningen gegevens moeten worden gerapporteerd. In het geval de rekening wordt 
+gehouden door een passieve NFE, moeten de financiële instellingen vaststellen wat de fiscale 
+woonstaat van de uiteindelijk belanghebbende(n) van die passieve NFE is. Om deze identificatie te 
+kunnen uitvoeren, is het nodig dat de financiële instelling gegevens verzamelt en verwerkt ten 
+14
+aanzien van de rekeninghouder.  
+De identificatie vindt plaats volgens de eerder genoemde identificatie- en rapportagevoorschriften. 
+Deze voorschriften zullen bij algemene maatregel van bestuur worden vastgesteld. Echter, voor het 
+totaalbeeld van de verplichtingen die worden opgeroepen door het wetsvoorstel, wordt hier alvast 
+toegelicht welke verplichtingen uit deze voorschriften voor de financiële instellingen voortvloeien. 
+Er wordt in deze voorschriften onderscheid gemaakt tussen bestaande en nieuwe rekeningen. Zoals 
+hiervoor reeds is aangegeven, wordt met een ‘bestaande rekening’ onder meer een rekening 
+bedoeld die al op 31 december 2015 werd aangehouden door een financiële instelling. Nieuwe 
+rekeningen zijn in beginsel de rekeningen die op of na 1 januari 2016 worden geopend.  
+Voor bestaande rekeningen moet een financiële instelling van al haar rekeninghouders vaststellen 
+of zij woonachtig of gevestigd zijn in een andere lidstaat of in een land dat gaat uitwisselen onder 
+de CRS (hierna samen: CRS-landen). Deze vaststelling vindt plaats op basis van de in de dossiers 
+van de financiële instelling aanwezige informatie (bijvoorbeeld in het kader van de Wwft) of, in 
+sommige gevallen, mede aan de hand van kennis die bij de relatiemanager aanwezig is. De 
+identificatieprocedures maken onderscheid tussen lage- en hogewaarderekeningen. Voor 
+lagewaarderekeningen gelden minder uitgebreide identificatieprocedures dan voor 
+hogewaarderekeningen. Zo moeten voor hogewaarderekeningen naast de elektronische dossiers 
+ook de papieren dossiers worden onderzocht als de elektronische dossiers niet afdoende informatie 
+bevatten. Als een financiële instelling op basis van haar onderzoek met betrekking tot een 
+bestaande rekening bepaalde (in Richtlijn 2014/107/EU en de CRS genoemde) indicatoren aantreft 
+(denk daarbij aan actuele post- of woonadressen, telefoonnummers of een adres van een persoon 
+aan wie een volmacht is verleend) die duiden op een woonplaats in een ander CRS-land, dan wordt 
+de rekeninghouder van die rekening echter toch niet aangemerkt als inwoner van het land waarop 
+de indicatoren betrekking hebben, als de financiële instelling een eigen verklaring van de 
+rekeninghouder en (in een enkel geval: of) bewijsstukken heeft waaruit blijkt dat de 
+rekeninghouder niet een te rapporteren persoon is.  
+                                                
+14
+ Onder rekeninghouder wordt in het vervolg tevens verstaan: de uiteindelijk belanghebbende(n) van een passieve NFE die 
+rekeninghouder is. 
+10

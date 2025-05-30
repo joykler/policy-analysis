@@ -1,0 +1,45 @@
+toegerekend kunnen krijgen dan een inwoner met alleen een vakantiehuis in Nederland met een 
+nettowaarde van € 100.000 (en geen ander box 3-vermogen). Ondanks het feit dat dit verschil 
+vanuit de ratio van de vermogensklassen en de onderliggende vermogensmix wellicht te 
+verdedigen is, bestaat het reële risico dat dit Europeesrechtelijk niet houdbaar is. Daarom zal voor 
+buitenlandse belastingplichtigen met een bepaald box 3-vermogen in Nederland hetzelfde 
+forfaitaire rendement worden toegepast als voor binnenlandse belastingplichtigen met een even 
+groot box 3-vermogen. Dit forfaitaire rendement is dus mede gebaseerd op de aanwezigheid van 
+spaartegoeden, aandelen en obligaties, die niet tot het box 3-vermogen van buitenlandse 
+belastingplichtigen behoren. 
+ 
+4.6. Complexiteit 
+Het voorgestelde systeem is voor de Belastingdienst, vanwege het forfaitaire karakter, nog steeds 
+goed uitvoerbaar. Wel wordt de berekening van de in box 3 verschuldigde belasting 
+ontegenzeggelijk complexer. Immers, in plaats van een constante voet van 1,2%, komt er een 
+schijvensysteem met verschillende, ieder jaar te herijken tarieven. Voor de computer is het  
+sommetje geen probleem. Voor de Belastingdienst is wezenlijk dat de vaststelling van de 
+verschuldigde belasting nog steeds voor een belangrijk deel blijft gebaseerd op gegevens die de 
+Belastingdienst al heeft, dat geen wezenlijk nieuwe informatiestromen op gang hoeven te worden 
+gebracht en dat geen aanvullende persoonlijke omstandigheden hoeven te worden meegewogen. 
+Ook de verwerking in de VIA vraagt weliswaar meer cijferopstellingen, maar blijft goed 
+uitvoerbaar. Voor belastingplichtigen verandert er praktisch gezien niet veel. Tot slot blijft sprake 
+van slechts een beperkt risico op arbitrage en grondslagerosie. Dit neemt niet weg dat 
+belastingontwijkend gedrag, waarbij de randen van het stelsel worden opgezocht, ook na deze 
+wetswijziging permanent wordt gemonitord. 
+ 
+4.7. Onderzochte alternatieven 
+Behalve naar een belastingheffing over het werkelijk door de belastingplichtige behaalde 
+rendement, waar de bijlage uitgebreid op ingaat, is ook gekeken naar een systeem met een 
+forfaitair rendement per vermogenstitel die de belastingplichtige daadwerkelijk bezit. Dit zou in 
+beginsel beter aansluiten op de individuele situatie dan de gemiddelde vermogensmix. Hiervoor is 
+echter niet gekozen, omdat het zou leiden tot arbitrage. Door vlak voor de peildatum (1 januari) 
+vermogenstitels met een hoog rendement tijdelijk om te zetten in vermogenstitels met een laag 
+rendement, zou de verschuldigde belasting (fors) worden beperkt. Het (her)introduceren van 
+meerdere peildata per jaar om dit te bestrijden zou deze problematiek niet kunnen voorkomen en 
+is bovendien onwenselijk. Bij meerdere peildata zouden de banken en andere financiële instellingen 
+evenzoveel keren extra gegevens moeten verzamelen en aanreiken en kan de Belastingdienst de 
+gegevens bovendien niet tijdig voorinvullen in de aangiften. Om laatstgenoemde reden is in 2011 
+ook overgestapt op één peildatum (1 januari) en is de tot dan toe gehanteerde 
+tweepeildatumsystematiek (1 januari en 31 december) verlaten. Ook zou het introduceren van 
+meerdere peildata per jaar geen oplossing bieden voor het te verwachten effect dat 
+belastingplichtigen de grenzen gaan opzoeken van de verschillende vermogenstitels met speciaal 
+daarop afgestemde hybride (financiële) producten. Voorts zouden de verschillende vermogenstitels 
+wettelijk moeten worden afgebakend en door de Belastingdienst worden onderscheiden, hetgeen 
+ 
+19

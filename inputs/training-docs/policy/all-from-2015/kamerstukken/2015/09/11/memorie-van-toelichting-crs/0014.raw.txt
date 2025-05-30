@@ -1,0 +1,43 @@
+om rapportage te vermijden door hun activa te verplaatsen naar financiële instellingen die niet 
+rapportageplichtig zijn of door te investeren in financiële producten die buiten het 
+toepassingsgebied van de CRS vallen. Om dezelfde reden zijn er ook nauwelijks drempels in de 
+CRS opgenomen, nu deze gemakkelijk zouden kunnen worden omzeild door rekeningen bij 
+verschillende financiële instellingen aan te houden. Bepaalde financiële instellingen en rekeningen 
+met een laag risico om voor belastingontduiking te worden gebruikt, zijn evenwel van het 
+toepassingsgebied van de CRS uitgesloten. Van rapportage uitgezonderde instellingen zijn 
+bijvoorbeeld overheidsinstanties, internationale organisaties en bepaalde pensioenfondsen, mits 
+aan de daarvoor gestelde voorwaarden is voldaan. Een voorbeeld van een uitgezonderde rekening 
+is een pensioenrekening die aan bepaalde voorwaarden voldoet. Met deze uitzonderingen wordt 
+mede voorkomen dat het met de CRS te dienen doel onevenredig is in verhouding tot de inbreuk 
+op de belangen van de bij de verwerking van persoonsgegevens betrokkene 
+(proportionaliteitsbeginsel). 
+ 
+Naast financiële inlichtingen moeten, zoals ook in paragraaf 5.2 is uiteengezet, inlichtingen over de 
+betreffende rekeninghouder worden gerapporteerd. Deze informatie is noodzakelijk om de 
+betreffende rekening te kunnen koppelen aan de rekeninghouder, die (waarschijnlijk) 
+belastingplichtig is met betrekking tot (inkomsten gegenereerd met) die rekening.  
+ 
+De verwerking en uitwisseling van de hierboven genoemde gegevens en inlichtingen is noodzakelijk 
+en toereikend om de belastingdiensten van de landen waarmee gegevens en inlichtingen worden 
+uitgewisseld in staat te stellen correct en ondubbelzinnig te bepalen om welke belastingplichtigen 
+het gaat en hun belastingwetgeving in grensoverschrijdende situaties toe te passen en te 
+handhaven. Deze gegevensuitwisseling maakt het voorts voor de belastingdienst mogelijk te 
+beoordelen hoe waarschijnlijk het is dat in een bepaald geval sprake is van belastingontduiking en 
+aldus onnodig verder onderzoek te vermijden. Met minder gegevens kunnen de fiscaal relevante 
+gegevens niet (goed) worden gekoppeld aan de betrokken belastingplichtige, en is het niet 
+mogelijk om de omvang van de fiscale relevantie zo correct mogelijk vast te stellen. Aan de hand 
+van de te verwerken gegevens kan met een zo gering mogelijke foutenmarge worden vastgesteld 
+of de financiële rekening daadwerkelijk van de betrokken belastingplichtige is en of deze aan zijn 
+wettelijke belastingverplichtingen heeft voldaan (subsidiariteitsbeginsel).  
+ 
+5.3.3.2 Gegevensstroom A 
+Extra aandacht vraagt de verwerking van persoonsgegevens in de stroom rekeninghouders -> 
+financiële instellingen (stroom A). Financiële instellingen hoeven alleen aan de Belastingdienst te 
+rapporteren over rekeninghouders die (fiscaal) woonachtig zijn in een CRS-land. Om aan deze 
+wettelijke rapportageverplichting te voldoen, moeten financiële instellingen van al hun 
+rekeninghouders de (fiscale) woonstaat onderzoeken. Ten aanzien van bestaande rekeninghouders 
+betekent dit dat, kort gezegd, aan de hand van een onderzoek van de bij de financiële instelling 
+beschikbare gegevens moet worden vastgesteld of de rekeninghouder (fiscaal) woonachtig is in een 
+CRS-land. Bij het nakomen van de wettelijke rapportageverplichting kunnen financiële instellingen 
+er daarbij uit het oogpunt van efficiency voor kiezen om ook van bestaande rekeninghouders die 
+14

@@ -1,0 +1,50 @@
+15
+14
+�( ) ( )
+𝑟𝑙𝑡 = � 1 + 0,01 ∗ 𝑟𝑙𝑡 ∗ 1 + 0,01 ∗ 𝑟 − 1 �∗ 100% 
+𝑡 𝑡 −1 𝑡 −2
+ 
+waarbij wordt verstaan onder: 
+𝑟𝑙𝑡 : het langetermijnrendement op de betreffende vermogenstitel voor het 
+𝑡
+betreffende kalenderjaar (t); 
+𝑟𝑙𝑡 : het langetermijnrendement op de betreffende vermogenstitel voor het 
+𝑡 −1 
+kalenderjaar voorafgaand aan het betreffende kalenderjaar (t-1); 
+ 𝑟 : het rendement op de betreffende vermogenstitel voor het kalenderjaar dat 
+𝑡 −2
+twee jaar voorafgaat aan het betreffende kalenderjaar (t-2). 
+ 
+Het rendement op onroerende zaken over het jaar t-2 wordt gesteld op de procentuele 
+verandering van het CBS-prijsindexcijfer voor Bestaande Koopwoningen (2010 = 100) in het 
+betreffende jaar. Daartoe wordt de mutatie genomen van deze index in het jaar t-2 in procenten 
+ten opzichte van de index in het jaar t-3. Dit wordt geregeld in het derde lid. 
+Het rendement op aandelen over het jaar t-2 wordt gesteld op de procentuele verandering 
+van de beleggingsindex voor Europa (bruto in lokale valuta), zoals gepubliceerd door Morgan 
+Stanley Capital International, in het betreffende kalenderjaar. Daartoe wordt de mutatie 
+opgenomen van deze index aan het einde van het jaar t-2 in procenten ten opzichte van de index 
+aan het einde van het jaar t-3. Dit wordt geregeld in het vierde lid. 
+Het rendement op obligaties wordt gesteld op het jaarcijfer van het jaar t-2 voor de 
+kapitaalmarktrentevoet van de jongste Nederlandse 10-jarige staatsobligatie, zoals gepubliceerd 
+door De Nederlandsche Bank. Dit wordt geregeld in het vijfde lid. 
+Het langetermijnrendement wordt aan het begin van het kalenderjaar 2017 voor het eerst 
+vastgesteld. Daarom wordt in artikel XLIX geregeld dat voor de definitieve vaststelling van het 
+langetermijnrendement voor 2017 het langetermijnrendement in het voorafgaande jaar, te weten 
+het jaar 2016, wordt gesteld op 4,25% voor onroerende zaken, op 8,25% voor aandelen en op 4% 
+voor obligaties.  
+ 
+Artikel II, onderdeel D (artikel 5.3 van de Wet inkomstenbelasting 2001) 
+ 
+Zoals in het algemeen deel van deze memorie is toegelicht, wordt in artikel 5.3, derde lid, 
+van de Wet IB 2001 een nieuw onderdeel ingevoegd op basis waarvan verplichtingen tot het doen 
+van periodieke uitkeringen of verstrekkingen die ingevolge artikel 3.101, eerste lid, onderdelen b 
+en c, van de Wet IB 2001 voor de genieter daarvan geen aangewezen periodieke uitkeringen en 
+verstrekkingen als bedoeld in artikel 3.100, eerste lid, onderdeel a, van de Wet IB 2001 zijn, 
+worden uitgezonderd van de in box 3 als schuld in aanmerking te nemen verplichtingen. Het 
+betreft: 
+- verplichtingen tot het doen van uitkeringen of verstrekkingen aan bloed- of aanverwanten in de 
+rechte lijn of in de tweede graad van de zijlijn die rechtstreeks uit het familierecht voortvloeien, en  
+- verplichtingen tot het doen van uitkeringen of verstrekkingen aan bloed- of aanverwanten in de 
+rechte lijn of in de tweede graad van de zijlijn en aan personen die behoren tot het huishouden van 
+de schuldenaar, die in rechte vorderbaar zijn en niet de tegenwaarde voor een prestatie vormen.  
+51

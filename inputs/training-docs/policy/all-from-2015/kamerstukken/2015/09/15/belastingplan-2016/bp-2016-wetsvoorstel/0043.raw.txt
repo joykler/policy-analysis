@@ -1,0 +1,49 @@
+In het huidige systeem met een vast forfaitair rendement van 4% wordt de belasting als volgt berekend: 
+Rendementsgrondslag     € 120.000 
+Heffingvrij vermogen     € 21.330 - 
+Grondslag sparen en beleggen     € 98.670 
+Voordeel sparen en beleggen 4% x € 98.670  € 3946 
+Te betalen belasting 30% x € 4146   € 1184 
+ 
+Omdat wordt uitgegaan van een gemiddelde vermogensmix en gemiddelde rendementen, wijzigt er 
+voor de belastingplichtige niets bij het doen van aangifte. Net als nu, hoeft hij alleen zijn relevante 
+vermogensbestanddelen aan te geven in box 3 (dan wel controleert hij of deze correct zijn ingevuld 
+in de VIA). De hiervoor opgenomen berekening wordt vervolgens automatisch gegenereerd. 
+ 
+In de voorgestelde systematiek zijn er geen vaste forfaitaire rendementen per schijf. Deze kunnen 
+jaarlijks wijzigen als gevolg van de herijking. Ter illustratie is volgens de huidige raming van de 
+rendementen, het forfaitaire rendement per schijf als resultante van de vermogensmix en een 
+rendement op sparen van 1,63% en op beleggen van 5,5% weergegeven in de onderstaande tabel. 
+Het rendement per schijf is in het voorbeeld afgerond op 1 decimaal. 
+ 
+Voorbeeld van rendement per schijf (marginaal en per persoon) 
+conform raming 2017 
+Schijf Box 3-vermogen (€) Heffingvrij vermogen (€) Rendement per schijf 
+e
+1  0 - 100.000 -/- 25.000 2,9 %¹ 
+e
+2  100.000 - 1 mln   4,7 %²  
+e
+3  >  1 mln  5,5 %³ 
+¹ 67%*1,63%+33%*5,5% 
+² 21%*1,63%+79%*5,5% 
+³ 0%*1,63%+100%*5,5% 
+ 
+Na vermenigvuldiging met het tarief van 30%, is de te betalen belasting bij deze rendementen 
+uitgedrukt als percentage van het vermogen in box 3 (na aftrek heffingvrij vermogen) in de eerste 
+schijf 0,87%, in de tweede schijf 1,41% en in de derde schijf 1,65%. 
+ 
+4.4. Gevolgen voor partners 
+De systematiek voor fiscale partners verandert niet. Fiscale partners mogen net als nu kiezen hoe 
+zij de gezamenlijke grondslag sparen en beleggen, dus het gezamenlijke box 3-vermogen na aftrek 
+van tweemaal het heffingvrije vermogen, onderling verdelen. Indien zij geen keuze maken, wordt 
+bij beide partners automatisch de helft van de grondslag in aanmerking genomen (50:50-
+toerekening). Anders dan nu, kan de verdeling van de grondslag invloed hebben op de 
+belastingdruk in box 3, namelijk wanneer een schijfgrens wordt overschreden. De eenvoudige 
+stelregel is dat, indien partners met de gezamenlijke grondslag sparen en beleggen een schijfgrens 
+overschrijden, een 50:50-toerekening altijd voordelig is voor de belastingdruk in box 3. Net als nu 
+kan het overigens onder omstandigheden in verband met de doorwerking naar andere regelingen 
+wel voordeliger zijn om te kiezen voor een andere verdeling dan een 50:50-verdeling. 
+ 
+ 
+17

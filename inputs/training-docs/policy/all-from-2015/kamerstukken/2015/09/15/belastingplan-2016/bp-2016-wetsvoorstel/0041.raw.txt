@@ -1,0 +1,42 @@
+Het gemiddelde langetermijnrendement op beleggingen is voor dit moment berekend op 5,5% en 
+zal ook jaarlijks worden herijkt, afhankelijk van de recent gemiddeld in de markt behaalde 
+beleggingsrendementen. Net als voor spaargeld zal het percentage voor 2017 volgend jaar 
+definitief worden vastgesteld. Vanwege het langetermijnkarakter van deze beleggingen zal de 
+e
+herijking plaatsvinden met een methode waarin het meest recente jaar voor een 15 deel van 
+invloed is. Daarmee wordt het te belasten rendement jaarlijks aangepast op basis van 
+daadwerkelijk gemiddeld in de markt gerealiseerde rendementen. Het nieuwe 
+langetermijnrendement in jaar t (het belastingjaar) wordt vastgesteld op het meetkundig 
+gemiddelde van het langetermijnrendement van voorgaand jaar t-1 en het rendement van het 
+meest recente beschikbare jaar t-2, waarbij het meest recente beschikbare jaar voor een vijftiende 
+deel wordt ingewogen. De herijking van het langetermijnrendement gebeurt voor aandelen, 
+obligaties en onroerende zaken afzonderlijk. Vervolgens wordt met het wegingsschema van tabel 7 
+het nieuwe langetermijnrendement voor het totaal van de beleggingen bepaald. De rendementen 
+worden jaarlijks voor aandelen ontleend aan de MSCI-index voor Europa, voor onroerende zaken 
+aan het CBS-prijsindexcijfer voor bestaande koopwoningen en voor obligaties aan de DNB-
+statistiek voor het rendement op de meest recente 10-jarige staatsobligatie. Voor een nadere 
+onderbouwing van het rendement op deze beleggingen wordt verwezen naar de bijlage. 
+ 
+Tabel 8: Rendementen voor de onderscheiden vermogenstitels in de vermogensmix 
+Vermogenstitel Wijze van jaarlijkse herijking Raming 2017  
+Spaargeld Vijfjaars voortschrijdend gemiddelde 1,63% 
+   
+Beleggingen Meetkundig gemiddelde met laatste jaar voor een vijftiende deel 5,5% 
+ 
+De belasting wordt dus bepaald aan de hand van drie stappen, namelijk:  
+1) de gemiddelde verdeling van het vermogen per schijf over spaargeld en beleggingen (de  
+vermogensmix), 
+2) een voortschrijdend rendement voor spaargeld en voor beleggingen, 
+3) een vlak tarief van 30%. 
+ 
+Het heffingvrije vermogen wordt verhoogd naar € 25.000. Het heffingvrije vermogen wordt 
+verrekend in de eerste schijf, zodat het voordeel, net als nu, voor iedereen met een vermogen 
+gelijk aan of groter dan het heffingvrije vermogen in absolute bedragen even groot is. Als het 
+vermogen lager is dan het heffingvrije vermogen is, net als nu, geen box 3-heffing verschuldigd. 
+Aan de hand van de onderstaande tabel (met de rendementen volgens raming 2017) en het totale 
+vermogen van de belastingplichtige kan de box 3-heffing worden berekend. In de tabel wordt het 
+spaardeel aangeduid als rendementsklasse I (RI) en het beleggingsdeel als rendementsklasse II 
+(RII). 
+  
+ 
+15

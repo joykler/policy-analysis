@@ -1,0 +1,26 @@
+Tabel 12: Tariefwijzigingen energiebelasting ter dekking vrijstelling kolenbelasting  
+Verbruik Tarief 2015 in Verhoging Verhoging ter Tarief 2016 in 
+centen ter dekking dekking  in centen inclusief 
+in centen procenten inflatiecorrectie 
+Aardgas     
+0-170.000 m³ 19,11 0,858 4,49% 20,064 
+170.000-1.000.000 m³ 6,77 0,150 2,21% 6,954 
+1.000.000-10 mln. m³ 2,47 0,055 2,21% 2,537 
+>10 mln. m³ 1,18 0,026 2,21% 1,212 
+     
+Aardgas glastuinbouw     
+0-170.000 m³ 3,069 0,138 4,49% 3,222 
+170.000-1.000.000 m³ 2,278 0,050 2,21% 2,339 
+1.000.000-10 mln. m³ 2,47 0,055 2,21% 2,537 
+>10 mln. m³ 1,18 0,026 2,21% 1,212 
+     
+Elektriciteit     
+0-10.000 kWh 11,96 0,000 0,00% 12,020 
+10.000-50.000 kWh 4,69 0,283 6,04% 4,996 
+50.000 – 10 mln. kWh 1,25 0,075 6,04% 1,331 
+> 10 mln. kWh niet-zakelijk 0,10 0,006 6,04% 0,107 
+> 10 mln. kWh zakelijk 0,05 0,003 6,04% 0,053 
+ 
+  
+ 
+35
