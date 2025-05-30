@@ -1,0 +1,51 @@
+14. Jaarverantwoording agentschap Shared Service Centrum ICT (SSC-ICT) 
+per 31 december 2022
+Inleiding
+SSC-ICT is partner van en voor het Rijk. Samen met zeven ministeries werkt 
+SSC-ICT aan een eigentijdse en compacte Rijksdienst. Naast de werkple­
+kautomatisering wordt gewerkt aan de ontwikkeling en het beheer van 
+applicaties, housing en hosting, en ICT-infrastructuren voor rijksgebouwen 
+en tijdens evenementen. 40.000 ambtenaren werken via de ICT-omgeving. 
+SSC-ICT beheert verder ruim 2.000 applicaties en ondersteunt interna­
+tionale missies.
+Het transitieprogramma SSC-ICT is in 2022 beëindigd. Hiermee is de 
+organisatie beter toegerust op het leveren van standaard- en maatwerk­
+dienstverlening aan de afnemers binnen het verzorgingsgebied. De 
+resultaten zijn zichtbaar in de vorm van meer transparantie, positieve 
+financiële resultaten, een afname van de technische schuld en het oplossen 
+van onvolkomenheden.
+Na beëindiging van het transitieprogramma is gestart met de transformatie. 
+Het doel is te werken aan het verhogen van de klantgerichtheid, het optima­
+liseren en moderniseren van de dienstverlening, het versterken van de 
+digitale weerbaarheid en het verder ontwikkelen van talent en organisatie.
+In 2022 is SSC-ICT verder gegaan met het faciliteren van het hybride werken 
+in de vorm van het verstevigen van netwerkverbindingen en het uitrollen 
+van vergadervoorzieningen over de vergaderzalen in het verzorgings­
+gebied. Hiermee is het tijd-, plaats- en apparaat onafhankelijk kunnen 
+werken verder verbeterd. Daarbij heeft SSC-ICT last van krapte op de 
+arbeidsmarkt in het algemeen en die op het gebied van ICT in het bijzonder.
+Staat van baten en lasten
+Tabel 61 Staat van baten en lasten van het baten-lastenagentschap SSC-ICT 2022 (bedragen x € 1.000)
+(1) vastgestelde (2) Realisatie 2022 (3)=(2)-(1) Verschil (4)
+begroting realisatie en Realisatie 2021
+2022 vastgestelde 
+Omschrijving begroting
+Baten
+- Omzet 311.821 323.685 11.864 298.515
+waarvan omzet moederdepartement 74.003 92.410 18.407 82.566
+waarvan omzet overige departementen 237.203 230.479 ‒ 6.724 215.090
+waarvan omzet derden 615 796 181 859
+Rentebaten 0 0 0 0
+Vrijval voorzieningen 0 107 107 0
+Bijzondere baten 0 0 0 0
+Totaal baten 311.821 323.792 11.971 298.515
+Lasten
+Apparaatskosten 260.857 273.377 12.520 248.162
+- Personele kosten 137.888 143.392 5.504 133.503
+waarvan eigen personeel 93.888 89.398 ‒ 4.490 87.787
+waarvan inhuur externen 37.881 51.988 14.107 44.217
+waarvan overige personele kosten 6.119 2.006 ‒ 4.113 1.499
+- Materiële kosten 122.969 129.985 7.016 114.659
+waarvan apparaat ICT 97.849 107.291 9.442 93.613
+waarvan bijdrage aan SSO's 19.245 21.190 1.945 19.313
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 200

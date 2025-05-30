@@ -1,0 +1,58 @@
+(1) vastgestelde (2) Realisatie 2022 (3)=(2)-(1) Verschil (4)
+begroting realisatie en Realisatie 2021
+2022 vastgestelde 
+Omschrijving begroting
+waarvan overige materiële kosten 5.875 1.504 ‒ 4.371 1.733
+Rentelasten 0 441 441 0
+Afschrijvingskosten 57.764 42.294 ‒ 15.470 44.653
+- Materieel 54.539 37.496 ‒ 17.043 36.733
+waarvan apparaat ICT 54.539 37.496 ‒ 17.043 36.733
+waarvan overige materiële afschrijvingskostenkosten 0 0 0 0
+- Immaterieel 3.225 4.798 1.573 7.920
+Overige lasten 0 5.496 5.496 2.620
+waarvan dotaties voorzieningen 0 4.735 4.735 327
+waarvan bijzondere lasten 0 761 761 2.293
+Totaal lasten 318.621 321.608 2.987 295.435
+1
+Saldo van baten en lasten uit alle activiteiten ‒ 6.800 2.184 8.984 3.080
+Agentschapsdeel Vpb-lasten 0 3 3 4
+2
+Saldo van baten en lasten na belastingen ‒ 6.800 2.181 8.981 3.076
+3
+Programmakosten transitie SSC-ICT 0 6.984 6.984 15.270
+Programmakosten transformatie SSC-ICT 0 2.837 2.837 0
+4
+Saldo van baten en lasten uit reguliere activiteiten ‒ 6.800 12.002 18.802 18.346
+1 Deze voorgestelde opstelling van de Staat van baten en lasten geldt voor de duur van het transitieprogramma alsmede voor de aansluitende transformatie. Hierna zal 
+het format uit de Rijksbegrotingsvoorschriften weer worden gevolgd.
+2 In dit saldo zijn ook de Programmakosten Transitie en transformatie SSC-ICT meegenomen. De term 'Saldo van baten en lasten uit gewone bedrijfsvoering', die te doen 
+gebruikelijk is op deze plek, voldoet daarom niet. Het onderdeel 'uit gewone bedrijfsvoering is daarom uit de beschrijving gehaald en is «uit alle activiteiten» toegevoegd;
+3 De Programmakosten Transitie en transformatie SSC-ICT worden gefinancierd uit de balanspost Bestemmingsfonds. Deze boeking zal ieder jaar plaatsvinden op 1 januari, 
+te beginnen op 1 januari 2021.
+4 Dit bedrag is het resultaat over het boekjaar indien er geen transitie- en transformatieprogramma SSC-ICT was geweest. Omdat in dit bedrag al de Vpb is verwerkt kan 
+hetgeen 'Saldo van baten uit reguliere activiteiten’ genoemd worden.
+Toelichting
+In de jaarrekening worden, naast de reguliere activiteiten ook de kosten voor 
+het Programma transitie alsmede voor de doorontwikkeling middels het 
+transformatieprogramma verantwoord terwijl de dekking hiervan via het 
+bestemmingsfonds op de balans verloopt (in jaar t+1). De kosten voor het 
+programma transitie zijn meegenomen in de kostenbegroting van 2022. Ook 
+kosten voor de doorontwikkeling met de transformatie SSC-ICT worden 
+verantwoord. Deze zijn niet meegenomen in de begroting omdat deze op 
+dat moment nog niet bekend waren. Het financiële resultaat, inclusief de 
+realisatie van de kosten voor de transitie en de transformatie komt uit op 
+€ 2,2 mln. positief. Na verrekening van de, via het bestemmingsfonds 
+gedekte, transitie- en transformatiekosten á € 9,8 mln. komt het resultaat 
+van de reguliere activiteiten over 2022 uit op € 12,0 mln. positief.
+Baten
+Omzet
+Tabel 62 Omzet 2022 (bedragen x € 1.000)
+Omschrijving Vastge­
+stelde 
+begroting Realisatie Realisatie 
+2022 2022 2021
+Generiek 9.355 8.839 10.835
+Gemeenschappelijk 268.166 280.823 259.830
+Klantspecifiek 34.300 34.023 27.850
+Totaal 311.821 323.685 298.515
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 201

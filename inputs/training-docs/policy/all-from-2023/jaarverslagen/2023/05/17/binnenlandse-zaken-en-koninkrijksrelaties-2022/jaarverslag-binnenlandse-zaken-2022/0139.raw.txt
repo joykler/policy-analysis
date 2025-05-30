@@ -1,0 +1,53 @@
+uitgesteld, omdat eerst de analyse wordt afgerond. Dit zal in 2023 leiden tot 
+vervolgstappen, die ervoor zorgen dat ook voor de tweede partij de verant­
+woordingsrapportage kan worden opgeleverd.
+Voorschottenbeheer agentschappen
+Om voorschotten van BZK aan de agentschappen binnen het Rijk voldoende 
+te onderbouwen en monitoren, waren in 2021 verbeteringen doorgevoerd 
+in de processen, de werkinstructies en de monitoring. Daarmee waren de 
+verbetermaatregelen naast opgezet ook geïmplementeerd. In 2022 is 
+opnieuw dossieronderzoek door de directie Financieel Economische Zaken 
+(FEZ) en de Auditdienst Rijk (ADR) gedaan om inzicht te krijgen in de werking 
+van de verbeteringen, met een aanvullend dossieronderzoek later in het 
+jaar. Hieruit blijkt dat de aangescherpte werkinstructies effect hebben en er 
+geen sprake is van parkeren van begrotingsgeld in de geanalyseerde 
+periode.
+Om een kwaliteitsslag te maken zodat het proces van het verstrekken van 
+voorschotten aan de agentschappen nog beter gemonitord en beheerst kan 
+worden, wordt vanaf 2022 een nieuwe tool ontwikkeld. Dit zorgt voor meer 
+inzicht in de voorwaarden en afspraken over de voorschotverlening aan 
+agentschappen. Deze automatiseringsslag loopt door vertraging in de 
+implementatie nog door in 2023. Om in de tussentijd, totdat de tool geïmple­
+menteerd is, onder andere de voorschotten goed te kunnen monitoren, 
+werkt Financieel Beheer in 2023 tijdelijk met een checklist.
+1d - Overige aspecten van de bedrijfsvoering
+Onvolkomenheden 2021 op overige aspecten van de bedrijfsvoering
+SSC-ICT Beveiliging van componenten
+De IT-systemen die SSC-ICT beheert kennen onderliggende componenten, 
+zoals databases, die beveiligd moeten zijn tegen ongeautoriseerde toegang, 
+wijzigingen of dataverlies. In 2022 zijn de nog openstaande bevindingen van 
+de Auditdienst Rijk opgelost en een aantal specifieke maatregelen vanuit 
+het verbeterproject ‘Hardening’ voltooid. Het doel van ‘hardening’ is om zo 
+veel mogelijk veiligheidsrisico’s te elimineren. In 2022 is verder gewerkt aan 
+het systematisch versterken van het stelsel van interne controle en 
+beheersing door de implementatie van het In Control Framework en is 
+tweewekelijks de voortgang gerapporteerd aan het management van SSC-
+ICT. De werking van het In Control Framework wordt in 2023 geëvalueerd 
+en doorontwikkeld.
+Rijksbreed IT-beheer
+Eind 2022 is een projectleider aangesteld die zich volledig richt op het 
+oplossen van deze onvolkomenheid, in lijn met het eerder gemaakte plan 
+van aanpak. De focus van het project ligt op de vier beheerdomeinen autori­
+satiebeheer, wijzigingsbeheer, beveiliging van componenten en back-up & 
+recovery. Het doel van het project is een (herhaalbaar) proces in te richten 
+dat inzicht geeft in de mate waarin de rijksbrede kaders waar CIO-Rijk 
+eigenaar van is, zijn geïmplementeerd binnen het Rijksbreed IT-Beheer. Dit 
+inzicht zal vervolgens gebruikt worden om in samenwerking met de depar­
+tementen verbeterplannen op te stellen met betrekking tot IT-Beheer of 
+aanpassingen door te voeren in kaders en handreikingen.
+In 2022 is de inventarisatie gestart bij SSC-ICT als grote ICT dienstverlener 
+van het Rijk. Er is vastgesteld dat SSC-ICT voor de genoemde beheerdo­
+meinen een set richtlijnen en processen heeft ingericht die voldoende inzicht 
+verschaffen. Daarnaast is geïnventariseerd wat de status is van de 
+bestaande kaders en processen welke gerelateerd zijn aan de 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 139

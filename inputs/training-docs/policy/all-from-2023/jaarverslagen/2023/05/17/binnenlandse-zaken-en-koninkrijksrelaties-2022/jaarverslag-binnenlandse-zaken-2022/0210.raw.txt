@@ -1,0 +1,33 @@
+Grote incidenten
+Dit betreft het totaal aantal grote incidenten vanaf het begin van het kalen­
+derjaar. Een groot incident wordt als zodanig gedefinieerd als de urgentie 
+(intolerantie van uitstel), de impact (hoeveel gebruikers zijn geraakt) en 
+het escalatierisico (verspreiding) hoog zijn. De norm voor 2022 is 75 grote 
+incidenten per jaar. De score kwam uit op 56.
+Gemiddelde hersteltijd storingen
+Hierop heeft in 2022 geen meting plaatsgevonden.
+Geleverd binnen gestelde termijn
+Dit betreft de doorlooptijd van aanvragen van item uit de Producten en 
+Diensten catalogus (PDC – Servicegroep Werkomgeving) met een 
+afgesproken maximale levertijd. De meeste gebruikers werken al vanaf 
+2020 thuis. In 2021 kwam de score uit op 95,9% t.o.v. de norm van 90%. In 
+2021 was dit 95,4%.
+LCM hardware
+De norm is dat 80% van de gedefinieerde en geregistreerde hardware in 
+support is bij de leverancier. Meting vindt plaats voor netwerkcompo­
+nenten, servers en storage. De realisatie komt uit op 90,0%. De server 
+hardware in support is 94% en blijft hiermee boven de afgesproken norm. 
+Netwerkcomponenten (79%) blijft achter vanwege het buiten ondersteuning 
+(«out of support») raken van enkele klantcomponenten. Belangrijkste 
+oorzaak is dat Buitenlandse Zaken componenten in de datacentra (65%) en 
+op de buitenlandse posten (50%) niet voldoende in support zijn. Storage 
+(100%) blijft onveranderd ruim boven de afgesproken norm van 80%.
+LCM software
+Dit betreft het percentage softwarecomponenten waarvoor de leverancier 
+beveiliging updates (support) levert. De software-componenten worden 
+hier bepaald als operating-systems (Windows, Linux), runtimes (Java, .net) 
+en applicatie-componenten (incl. databases). Per applicatielandschap is 
+gedefinieerd welke servers daaraan gekoppeld zijn. Per server is inzichtelijk 
+welke softwarecomponenten daarop draaien en tot wanneer zij in support 
+zijn. De norm is 80%. Over 2022 is de realisatie 90,7%.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 210

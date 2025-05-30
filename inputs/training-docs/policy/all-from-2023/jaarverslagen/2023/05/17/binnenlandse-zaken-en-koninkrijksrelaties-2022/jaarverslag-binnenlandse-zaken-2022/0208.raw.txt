@@ -1,0 +1,48 @@
+Omschrijving generiek deel Realisatie 2018 Realisatie 2019 Realisatie 2020 Realisatie 2021 Realisatie 2022 Vastgestelde 
+begroting 2022
+Gebruikerstevredenheid 
+beleving n.b. n.b. 6,5 7,3 7,2 7,0
+Medewerkertevrededenheid 
+(MTO) 6,2 n.b. 6,5 6,7 n.b 7,0
+Kostprijs
+Digitale werkomgeving basis n.v.t. n.v.t. 720 570 850 759
+Digitale werkomgeving on-line n.v.t. n.v.t. 710 730 595 593
+Digitale werkomgeving light n.v.t. n.v.t. 260 255 270 265
+Basis inrichting kantoorpand 73 66 n.v.t.
+Fatclient DWR special 810 845 842
+Kiosk PC incl monitor 325 340 520 720 750 749
+Omzet per productgroep (PxQ) 
+(bedragen x € 1.000)
+Generiek 10.646 8.067 8.649 10.835 8.839 9.355
+Gemeenschappelijk 215.767 251.868 246.141 259.830 280.823 268.166
+Klantspecifiek 31.899 32.530 26.259 27.850 34.023 34.300
+Totaal 258.312 292.465 281.049 298.515 323.685 311.821
+Omschrijving specifiek deel
+Beschikbaarheid kernsystemen n.b n.b. 99,7% 99,8% 99,6% 99,5%
+Major Incidents n.b n.b n.b 63 56 75
+Gemiddelde hersteltijd 
+storingen n.b n.b n.b n.b n.b 90,0%
+Geleverd binnen gestelde 
+termijn n.b n.b n.b 95,4% 95,8% 90,0%
+Life Cycle Management hard- en 
+software (hardware) n.b n.b n.b 98,7% 90,0% 80,0%
+Life Cycle Management hard- en 
+software (software) n.b n.b n.b 89,4% 90,7% 80,0%
+Toelichting
+Generiek deel
+Fte in- en extern totaal
+De gemiddelde bezetting van intern personeel over 2022 is 980,5 fte en voor 
+externe inhuur 274,8 fte. Het aantal externen ten opzichte van de totale 
+personele bezetting komt uit op een gemiddelde van 23,4%. Dit is hoger dan 
+18,0% welke in de begroting was vastgelegd. Dit wordt enerzijds 
+veroorzaakt door de lage bezetting van ambtelijk personeel ten opzichte van 
+de verwachting (1.081,0 fte) en de knelpunten op de ICT-arbeidsmarkt. 
+Anderzijds is extra inzet van externen nodig geweest voor het Transitiepro­
+gramma alsmede voor de transformatie omdat specifieke kennis en 
+ervaring niet beschikbaar was binnen de eigen organisatie. De gemiddelde 
+externe inhuur in 2022 exclusief transitie en transformatie is 21,3%.
+Saldo van baten en lasten
+De realisatie van de baten over 2022 is € 323,8 mln. De lasten over 2022 voor 
+de reguliere activiteiten komen uit op € 311,8 mln. Het verschil is € 12,0 mln. 
+positief.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 208

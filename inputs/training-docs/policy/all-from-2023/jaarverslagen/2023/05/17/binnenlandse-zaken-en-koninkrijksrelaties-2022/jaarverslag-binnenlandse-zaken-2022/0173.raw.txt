@@ -1,0 +1,43 @@
+Balans 2022 Balans 2021
+Overige schulden en overlopende passiva 16.456 19.169
+Totaal passiva 29.806 31.432
+Toelichting
+Activa
+Vaste activa
+Materiële vaste activa
+Overige materiële vaste activa
+De hardware en software van de kantoorautomatisering worden via het 
+standaardpakket van SSC-ICT afgenomen. Specifieke zaken die niet in het 
+standaardpakket zitten schaft P-Direkt zelf aan. De investering in Hardware 
+betreft onder andere Webex schermen in vergaderzalen en speciale laptops 
+voor de App-ontwikkeling en data-analyse.
+Immateriële vaste activa
+De immateriële vaste activa betreffen de aanschaf van systeemlicenties en 
+de bouw van de P-Direkt systemen zoals het P-Direkt portaal en de Payrol-
+applicatie.
+De kosten van de samenwerking met SSC-ICT in het kader van de overgang 
+naar SAP-HANA zijn geactiveerd onder de post immateriële vaste activa in 
+ontwikkeling. Eind 2021 is de decharge verleend waarna het actief primo 
+2022 is overgeboekt naar de post Immateriele vaste activa en in 5 jaar wordt 
+afgeschreven.
+Vlottende activa
+Debiteuren en Overige vorderingen en overlopende activa
+P-Direkt heeft in 2021 een voorziening getroffen ter dekking van 
+waarschijnlijk oninbare vorderingen. In 2022 heeft een afboeking van 
+€ 144.000 plaatsgevonden ten laste van de voorziening: een bedrag van 
+€ 29.000 is alsnog binnengekomen en dat deel van de voorziening kon 
+derhalve vrijvallen ten gunste van het resultaat 2022. Daartegenover staat 
+een dotatie aan de voorziening van € 110.000.
+Tabel 43 Voorziening dubieuze debiteuren 2022 (bedragen x € 1.000)
+Voorziening Dubieuze Debiteuren 31-12-2022 31-12-2021
+Stand per 31-12-2021 ‒ 173 ‒ 202
+Dotatie 2022 ‒ 110
+Dotatie 2021 ‒ 173
+Afboeking 2022 144
+Afboeking 2021 59
+Vrijval 2022 29
+Vrijval 2021 143
+Stand per 31-12-2022 ‒ 110 ‒ 173
+De post debiteuren betreft de gefactureerde en nog te ontvangen bedragen 
+voor verrichte diensten en leveringen.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 173

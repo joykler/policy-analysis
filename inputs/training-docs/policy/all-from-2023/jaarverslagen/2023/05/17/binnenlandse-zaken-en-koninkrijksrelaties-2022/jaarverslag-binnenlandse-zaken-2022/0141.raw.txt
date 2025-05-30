@@ -1,0 +1,46 @@
+pas toe of leg uit -lijst van het Forum Standaardisatie. BZK stimuleert ook 
+rijksbreed het gebruik en publicatie van open source software met inacht­
+neming van de wetten en beleidsregels omtrent privacy, informatiebevei­
+liging en informatiehuishouding. Daarnaast is binnen BZK ook in 2022 
+verder gewerkt aan het bevorderen en op orde brengen van de open 
+standaarden voor beveiliging van domeinen en email. Daarnaast zijn er 
+inmiddels meerdere broncodes gepubliceerd op de BZK Github.
+Betaalgedrag
+De rijksbrede norm voor betalingen is dat 95% van alle handelsfacturen 
+binnen dertig dagen na ontvangst van de facturen zijn betaald. Over 2022 
+bedraagt het percentage tijdig betaalde facturen van het BZK-kerndepar­
+tement 98%. Dit is een stijging ten opzichte van 2021.
+De AIVD is qua op tijd betaalde facturen met 89,3% onder de norm van 95% 
+gebleven. Dit is een daling ten opzichte van het jaar ervoor. Dit komt door 
+langdurige onderbezetting bij de financiële administratie wat een drukkend 
+effect heeft gehad op de snelle verwerking van de facturen.
+Onderstaande tabel bevat de betaalcijfers van de SSO's en agentschappen. 
+Deze cijfers zijn gedaald ten opzichte van 2021 en meer organisaties dan 
+vorig jaar halen de norm niet. Na de tabel volgt een toelichting op de betaal­
+cijfers die lager zijn dan de norm.
+Tabel 26 Betaalgedrag SSO's en Agentschappen
+Organisaties Betaalpercentage
+SSC-ICT 93,70%
+UBR 94,70%
+FMH 91,00%
+P-Direkt 92,00%
+RVB 94,40%
+Logius 96,30%
+DHC 91,80%
+RvIG 95,00%
+SSC-ICT heeft met 93,7% niet voldaan aan de norm, dat is voor het eerst 
+sinds 2019. Hoofdoorzaak van het niet halen van de norm zijn de problemen 
+in de communicatie en dienstverlening door de uitvoerder van de 
+betalingen. Om hier grip op te krijgen heeft een specifieke afdeling van SSC-
+ICT de leiding genomen in het contact met de uitvoerder.
+UBR heeft met 94,7% de norm niet gehaald, maar ten opzichte van 2021 is 
+dit een grote verbetering. In 2022 is vanuit programma Vernieuwing UBR 
+gewerkt aan de vervanging van het inkoopsysteem. Deze inkoop module is 
+in december live gegaan, daarmee zijn de beoogde voordelen voor het 
+betaalgedrag voor 2022 nog beperkt gebleken.
+Met 91% valt het betaalgedrag van FMH over 2022 onder de norm. Dit komt 
+doordat voor relatief veel facturen geen automatische match kon worden 
+gemaakt met de inkooporder. Er zijn extra controles uitgevoerd op geblok­
+keerde inkooporders en medewerkers zijn erop gewezen om dit zo snel 
+mogelijk af te handelen.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 141

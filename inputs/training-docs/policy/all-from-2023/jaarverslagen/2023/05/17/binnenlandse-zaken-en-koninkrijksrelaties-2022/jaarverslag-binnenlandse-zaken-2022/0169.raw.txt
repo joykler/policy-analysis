@@ -1,0 +1,50 @@
+Klanten vragen in toenemende mate om aantoonbare beheersing van 
+security- en privacyaspecten. We hebben een traject ingezet waarbij we voor 
+al onze (kern)systemen en processen een specifiek Base Informatiebevei­
+liging Overheid (BIO) overeenstemmings verklaring en een Privacy Impact 
+Assessment (PIA) hebben. Dit traject is meerjarig.
+Externe ontwikkelingen
+De oorlog in Oekraine heeft in 2022 gezorgd voor onverwachte kosten­
+stijging. In 2022 heeft P-Direkt daar nog niet heel veel last van gehad omdat 
+veel dienstverlening vooraf wordt ingekocht en afgesproken. Bij de inhuur 
+van externe ICT-deskundigen was dit prijseffect in 2022 al wel merkbaar 
+maar heeft niet geleid tot een negatieve exploitatie.
+Staat van baten en lasten
+Tabel 40 Staat van baten en lasten van het baten-lastenagentschap P-direkt 2022 (bedragen x € 1.000)
+Vastgestelde Realisatie (2) Verschil (3) = (2) - Realisatie 2021 (4)
+begroting (1) (1)
+Baten
+- Omzet 108.986 108.295 ‒ 691 107.288
+waarvan omzet moederdepartement 99.620 98.623 ‒ 997 97.784
+waarvan omzet overige departementen 8.981 9.095 114 9.028
+waarvan omzet derden 385 577 192 476
+Rentebaten 0 96 96 0
+Vrijval voorzieningen 0 29 29 188
+Bijzondere baten 0 1.219 1.219 463
+Totaal baten 108.986 109.639 653 107.939
+Lasten
+Apparaatskosten 106.454 104.183 ‒ 2.271 101.835
+- Personele kosten 64.307 64.539 232 60.635
+waarvan eigen personeel 53.910 51.537 ‒ 2.373 50.835
+waarvan inhuur externen 9.052 10.968 1.916 9.303
+waarvan overige personele kosten 1.345 2.034 689 497
+- Materiële kosten 42.147 39.644 ‒ 2.503 41.200
+waarvan apparaat ICT 10.423 11.016 593 10.693
+waarvan bijdrage aan SSO's 29.249 27.038 ‒ 2.211 27.876
+waarvan overige materiële kosten 2.475 1.590 ‒ 885 2.631
+Rentelasten 0 0 0 47
+Afschrijvingskosten 2.532 2.248 ‒ 284 3.500
+- Materieel 200 102 ‒ 98 201
+waarvan apparaat ICT 150 102 ‒ 48 144
+waarvan overige materiële afschrijvingskosten 50 0 ‒ 50 57
+- Immaterieel 2.332 2.146 ‒ 186 3.299
+Overige lasten 0 294 294 1.860
+waarvan dotaties voorzieningen 0 294 294 768
+waarvan bijzondere lasten 0 0 0 1.092
+Totaal lasten 108.986 106.725 ‒ 2.261 107.242
+Saldo van baten en lasten gewone bedrijfsuitoefening 0 2.914 2.914 697
+Agentschapsdeel Vpb-lasten 0 0 0 0
+Saldo van baten en lasten 0 2.914 2.914 697
+Mutatie POK/WaU gelden* 0 0 0 0
+Saldo van baten en lasten na resultaatbestemming * 0 2.914 2.914 0
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 169

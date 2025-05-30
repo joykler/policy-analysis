@@ -1,0 +1,47 @@
+Klanttevredenheid- en Medewerkerstevredenheid
+De klanttevredenheidsmeting is in 2022 weer opgepakt. Er is op dit moment 
+nog geen realisatie over 2022 beschikbaar.
+Het medewerkerstevredenheidsonderzoek wordt eens in de twee jaar 
+gehouden. In het voorjaar van 2021 is een BZK-breed MTO uitgevoerd. De 
+gemiddelde score bij SSC-ICT kwam uit op 6,7. Thema’s m.b.t. het individu 
+zoals werkdruk, herstelbehoefte en betrokkenheid, kenden een lagere score 
+dan thema’s op gebied van de inhoud van het werk.
+Gebruikerstevredenheid
+Het gemiddelde cijfer in zaken gebruikerstevredenheid voor de gehele 
+dienstverlening van SSC-ICT is uitgekomen op een 7,2. Het meest tevreden 
+zijn alle departementen over de klanttevredenheid van de baliemede­
+werkers en de telefonische Servicedesk. Het minst tevreden zijn alle depar­
+tementen over de Video vergaderfaciliteiten en de presentatiehulpmiddelen 
+in de vergaderzalen. Echter is er wel stijging te zien in de tevredenheid over 
+de vergaderfaciliteiten en de snelheid van de werking van de werkplek.
+Kostprijzen
+De Rijkswerkplekdiensten en de locatie gebonden services vallen onder 
+de standaard dienstverlening. Deze producten worden geleverd als een 
+nutsvoorziening met een jaarlijkse gebruikersvergoeding. Op basis van 
+een inschatting c.q. planning van het gebruik wordt hier vooraf met de 
+klanten een inschatting gemaakt van de jaarkosten die op basis van het 
+feitelijk gebruik worden afgerekend. Als gevolg van het invoeren van een 
+nieuw kostprijsmodel, waarmee beter inzicht wordt verkregen in de 
+daadwerkelijke kosten van de producten en diensten van SSC-ICT, is de 
+kostprijs voor de backend werkomgeving is vanaf 2021 gedifferentieerd 
+naar kostprijzen voor de digitale werkomgeving basis, -online en –light. 
+Deze differentiatie geeft meer inzicht in de mogelijkheden die beschikbaar 
+zijn voor het plaats- en tijd onafhankelijk werken. Via meerdere apparaten 
+is toegang mogelijk tot applicaties en bedrijfsdata.
+Omzet
+De realisatie van de totale baten voor 2022 komt uit op € 323,8 mln. In de 
+begroting is de raming € 311,8 mln. Het verschil van € 12,0 mln. ten opzichte 
+van de begroting wort veroorzaakt door een hogere omzet in de afname van 
+mobiele apparatuur, accounts en. De omzet betreft uitsluitend generiek, 
+gemeenschappelijk en klant specifiek. Vrijval voorzieningen betreft een 
+dispuutfactuur. De bijzondere baten waren in 2021 nihil.
+Specifiek deel
+Beschikbaarheid kernsystemen
+De beschikbaarheid van de basisinfra wordt gemeten over een vaste set aan 
+kernsystemen, diensten en -platforms. Dit betreft de beschikbaarheid van 
+de Rijks Werkomgeving (RWO) 99,7%, Kritische panden 100,0%, Applicatie­
+omgeving 98,7%en Datacenter Netwerk Diensten 99,8%. Het niet 
+beschikbaar zijn van een kernsysteem leidt altijd tot een Major Incident 
+waarbij wordt vastgelegd hoe lang een systeem niet beschikbaar is. 
+Gemiddeld kwam de beschikbaarheid uit op 99,6%.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 209

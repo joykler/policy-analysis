@@ -1,0 +1,61 @@
+Verschil realisatie 
+Vastgestelde Omzet moederde­ Omzet overige 
+Opdrachten Omzet derden Realisatie omzet en vastgestelde 
+begroting partement departementen
+begroting
+DigiD 48.933 2.189 30.045 11.232 43.466 ‒ 5.467
+DigiD Machtigen 16.008 16.004 61 16.065 57
+DigiInkoop 4.950 243 4.519 4.762 ‒ 188
+Wet- en regelgeving 1.500 ‒ ‒ 1.500
+Diginetwerk 895 94 469 326 890 ‒ 5
+Digipoort FS 2.370 2.275 315 2.590 220
+Digipoort SBR 30.872 1.150 28.199 2.626 31.975 1.103
+Digitoegankelijk 624 97 432 528 ‒ 96
+Digipoort Sociaal 1.781 1.704 1.704 ‒ 77
+Digipoort e-Factureren 4.731 252 4.697 4.949 218
+Rijksoverheid Accespoint 
+900 24 451 476 ‒ 424
+(ROAP)
+Peppol Autoriteit 880 887 887 7
+eHerkennning 4.474 4.406 4.406 ‒ 68
+Haagse Ring 8.167 4.622 7.312 30 11.964 3.797
+Netwerkvoorzieningen 3.798 ‒ ‒ 3.798
+Standaardplatform (inclusief 
+5.994 1.549 4.645 539 6.733 739
+CA)
+MijnOverheid-Gegevens 12.800 2.311 10.247 12.559 ‒ 241
+MijnOverheid-Berichten 
+26.885 1.277 17.204 7.699 26.180 ‒ 705
+(Berichtenbox)
+Bekendmakingen 830 ‒ ‒ 830
+PKIOverheid 2.142 410 1.817 2.226 84
+Programma eID (BSNK, 
+10.881 10.554 10.554 ‒ 327
+Routering)
+Samenwerkende Catalogi 439 57 250 306 ‒ 133
+Stelselvoorzieningen 15.904 2.968 13.155 16.122 218
+Bureau Forum & 
+2.642 2.504 ‒ 138
+Standaardisatie 1.590 913
+E-Procurementdiensten 1.147 1.147 1.147
+Totaal beheer en exploitatie 210.015 36.203 142.633 24.533 203.369 ‒ 6.646
+Doorontwikkkeling beleidsgeld 
+1.596 711 711 ‒ 885
+BZK
+Doorontwikkeling 
+37.781 39.204 351 39.556 1.775
+Investeringspost
+Totaal doorontwikkeling 39.377 39.916 351 ‒ 40.267 890
+TOTAAL 249.392 76.119 142.984 24.533 243.636 ‒ 5.756
+ 
+Beheer en exploitatie
+DIGID
+Bij DigiD zijn de totale kosten van € 43,5 mln. voor € 5,5 mln. onder de 
+begroting uitgekomen (-11,2%). Er is met name minder gebruik gemaakt van 
+SMS dan begroot hetgeen significante besparingen in de kosten heeft 
+opgeleverd. Daarnaast zijn door procesveranderingen het aantal uit te 
+sturen brieven afgenomen. Het aantal authenticaties is gedaald ten opzichte 
+van 2021, maar dat jaar was sterk beïnvloed door de Covid-19 effecten. 
+Het aantal authenticaties is uitgekomen op 514 mln., wat hoger is dan 
+voorzien.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 161

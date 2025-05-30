@@ -1,0 +1,49 @@
+10. Jaarverantwoording agentschap Logius per 31 december 2022
+Inleiding
+Logius levert producten en diensten voor de digitale overheid. Daarnaast 
+beheren we digitale standaarden die alle overheidsorganisaties gebruiken 
+in hun digitale dienstverlening en zijn we actief betrokken bij meerdere 
+afsprakenstelsels. We leveren onze diensten aan publieke dienstverleners 
+zodat zij onder meer veilig digitaal post kunnen versturen, meldingen uit 
+basisregistraties kunnen ontvangen en publieke dienstverleners hun 
+digitale toegankelijkheid kunnen toetsen. We werken in het hart van de 
+digitale overheid. Dankzij onze diensten kunnen burgers bijvoorbeeld online 
+hun aangifte inkomstenbelasting doen door met DigiD in te loggen en hun 
+gegevens bekijken in MijnOverheid. Ook kunnen bedrijven bijvoorbeeld 
+gestandaardiseerd gegevens uitwisselen met de overheid en organisaties 
+met een publieke taak. Logius werkt hiervoor nauw samen met deze 
+publieke dienstverleners. Daarbij zetten we met elkaar de behoefte van 
+burgers en bedrijven centraal. Onze werkwijze is dan ook gericht op het 
+flexibel en wendbaar kunnen inspelen op deze behoeften om onze dienst­
+verlening continue te verbeteren. Zo zorgen we samen voor een digitale 
+overheid die werkt voor iedereen.
+Wat is er bereikt in 2022
+Burgers, bedrijven en publieke dienstverleners mogen erop vertrouwen dat 
+Logius zorgt voor een beschikbare, veilige en toegankelijke digitale overheid 
+die werkt voor iedereen.
+Logius bevindt zich in een dynamische omgeving en heeft in 2022 op het 
+niveau van de organisatie, de dienstverlening en de bedrijfsvoering diverse 
+veranderingen doorgevoerd. Ook is er geïnvesteerd in de continuïteit, 
+veiligheid en doorontwikkeling van de dienstverlening.
+Continuïteit en veiligheid dienstverlening
+Logius heeft er in 2022 weer voor gezorgd dat de dienstverlening voor 
+iedereen beschikbaar, veilig en toegankelijk was. De beschikbaarheid van 
+alle Logius diensten was boven de afgesproken norm. Op verschillende 
+vlakken is gewerkt aan het verhogen van de veiligheid. Logius heeft bijvoor­
+beeld een ketenbrede crisisoefening georganiseerd om haar ketenpartners 
+voor te bereiden op de samenwerking en onderlinge afstemming als 
+diensten niet beschikbaar zijn. Het Logius Security Operations Center (SOC) 
+heeft in 2022 alle Logius-voorzieningen aangesloten op het Security 
+Information Event Management, dat is nodig om security-incidenten snel 
+en effectief af te kunnen handelen. Ook zijn in 2022 meer dan 1800 valse 
+websites en apps offline gehaald of nooit online zichtbaar geweest. Hierdoor 
+is de kans dat criminelen toegang krijgen tot gevoelige gegevens een stuk 
+kleiner geworden.
+Om de gegevens van burgers veilig te houden is het minder vaak mogelijk 
+om bij DigiD met alleen gebruikersnaam en wachtwoord in te loggen. 
+Steeds vaker moet hierbij een code worden ingevoerd die via SMS wordt 
+ontvangen, of moet de DigiD-app worden gebruikt. Om deze overgang 
+duidelijk en makkelijker te maken heeft Logius gebruikers van DigiD geïnfor­
+meerd hoe zij deze extra controlestap voor het inloggen met DigiD kunnen 
+aanzetten.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 158

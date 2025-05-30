@@ -1,0 +1,51 @@
+6. Bedrijfsvoeringsparagraaf
+Paragraaf 1 - uitzonderingsrapportage voor vier verplichte onderwerpen
+1a - Rechtmatigheid
+Tabel 24 Overzicht overschrijdingen rapporteringstoleranties fouten en onzekerheden
+(1) Rapporterings-tolerantie (2) Verantwoord (3) Rapporterings- (4) Bedrag aan (5) Bedrag aan (6) Bedrag aan (7) Percentage aan 
+bedrag in tolerantie voor fouten in € onzekerheden in € fouten en onzeker­ fouten en onzeker­
+€ (omvangsbasis) fouten en onzeker­ heden in € heden t.o.v. 
+heden in € verantwoord 
+bedrag = (6)/
+(2)*100%
+Samenvattende staat baten-
+€ 2.728.002.476 € 54.560.050 € 81.899.502 € 14.242.854 € 96.142.356 3,5%
+lastenagentschappen
+Samenvattende staat batenlasten agentschappen
+De rapporteringstolerantie van de samenvattende staat baten-lasten agent­
+schappen is overschreden. Het totaalbedrag aan fouten en onzekerheden 
+bedraagt € 96,1 mln. en is als volgt opgebouwd.
+Tabel 25 Samenvattende staat baten-lasten agentschappen
+waarvan fouten als 
+Financiële fouten per gevolg van rijksbrede Financiële onzeker­ Som fouten en 
+BLA raamovereenkomsten heden per BLA onzekerheden per BLA
+Totaal € 81.899.502 € 20.107.846 € 14.242.854 € 96.142.356
+Rijksdienst voor Identiteitsgegevens (RvIG) € 6.410.114 € 6.398.752 € 6.410.114
+Logius € 56.779.922 € 1.899.122 € 56.779.922
+P-Direkt € 795.772 € 772.128 € 795.772
+Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR) € 8.773.732 € 5.479.598 € 490.843 € 9.264.575
+FMHaaglanden (FMH) € 1.338.577 € 458.889 € 1.338.577
+Shared Service Centrum ICT (SSC-ICT) € 2.212.037 € 195.149 € 13.752.011 € 15.964.048
+Rijksvastgoedbedrijf (RVB) € 5.528.848 € 4.904.208 € 5.528.848
+Dienst van de Huurcommissie (DHC) € 60.500 € 60.500
+Een onrechtmatigheid van circa € 20,1 mln. wordt voor de agentschappen 
+veroorzaakt door rijksbrede overbruggingsovereenkomsten van categorie­
+management. Dit betreft onder meer overbruggingsovereenkomsten voor 
+Interim Management & Organisatieadvies (IMOA), Inkoopadvies en 
+Auditdiensten, hotel- en vergaderaccommodaties (HVA) en enkele commu­
+nicatiediensten. Voor inkoopadvies, auditdiensten en HVA zijn in 2022 
+nieuwe overeenkomsten in werking getreden. Dit vermindert de onrecht­
+matigheid. Voor andere diensten worden in 2023 nieuwe overeenkomsten 
+verwacht. Gelet op de verplichting tot gebruik van deze raamovereen­
+komsten, leidt dit tot onrechtmatigheid voor BZK bij het afsluiten van 
+verplichtingen onder deze raamovereenkomsten.
+De grootste onrechtmatigheden, die niet het gevolg zijn van rijksbrede 
+raamovereenkomsten, worden hierna toegelicht.
+Logius continueert onrechtmatig de dienstverlening voor de komende jaren 
+uit een oude overeenkomst die eind 2022 afliep. Dit leidde tot een onrecht­
+matigheid van € 54,3 mln. in 2022. Voortzetting en afname van de dienst­
+verlening is noodzakelijk voor de continuïteit van belangrijke voorzieningen 
+als MijnOverheid, Berichtenbox en Digipoort. Momenteel wordt gewerkt 
+aan een vernieuwde en herbouwde MijnOverheid en Digipoort zodat onder 
+andere de onrechtmatigheid beëindigd kan worden. In de 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 136

@@ -1,0 +1,53 @@
+bovengenoemde beheerdomeinen. In 2023 zal deze informatie opgehaald 
+worden bij de andere grote interne dienstverleners en departementen. Deze 
+eenmalige uitvraag zal tot een proces moeten leiden wat bestendig inzicht 
+geeft in de status van rijksbreed IT-beheer.
+IT-beheer SSO-CN
+SSO-CN heeft eind 2021 een projectleider aangesteld om het lopende traject 
+te intensiveren om het IT-beheer op orde te brengen, te borgen door imple­
+mentatie van de PDCA (Plan-Do-Check-Act)-cyclus en verbeteringen op 
+het vlak van informatiebeveiliging door te voeren. Hierin zijn significante 
+stappen gezet in 2022, zoals de beschrijving van de IT-beheer processen, 
+de uitwerking van de beheercyclus per «I-component» en het verbeteren 
+van de (keten)samenwerking tussen SSO-CN en haar afnemende departe­
+menten en diensten. Naast voorgaande is er veel tijd en aandacht besteed 
+aan awareness op het gebied van informatietechnologie en -beveiliging 
+voor medewerkers en management van SSO CN en haar afnemers. Deze 
+stevige veranderopgave voor SSO-CN loopt door in 2023.
+Coördinatie SiSa-controle
+SiSa staat voor Single information, Single audit (eenmalige informatie-
+verstrekking, eenmalige accountantscontrole). Deze verantwoording over 
+de besteding van specifieke uitkeringen maakt onderdeel uit van de jaarre­
+keningen van gemeenten, provincies en gemeenschappelijke regelingen. 
+De minister van BZK geeft jaarlijks opdracht aan de Auditdienst Rijk (ADR) 
+om een indruk te krijgen van de kwaliteit van de accountantscontroles die 
+uitgevoerd zijn. De onvolkomenheid hield primair verband met het aantal 
+deelwaarnemingen en de mate waarin rekening gehouden werd met het 
+risico op onrechtmatigheden, op het niveau van de regelingen voor de 
+specifieke uitkeringen.
+In 2021 is de visie vastgelegd voor de verantwoordelijkheid van BZK voor 
+de coördinatie van het rijksbreed functioneren van het SiSa-systeem. In 
+2022 zijn de coördinerende taken uitgevoerd volgens dit visiedocument. 
+Hierbij is extra aandacht besteed aan het zichtbaar maken hiervan, onder 
+andere door vastlegging van de risico’s en afwegingen die zijn gemaakt. Ook 
+heeft de ADR de opdracht gekregen om over 2021, net als afgelopen jaar, 
+25 reviews uit te voeren. Dit is een relatief omvangrijk aantal deelwaarne­
+mingen, mede vanwege het stijgende aantal en de financiële omvang van 
+de specifieke uitkeringen.
+2 - Rijksbrede bedrijfsvoeringsonderwerpen
+Grote lopende ICT-projecten
+Het Ministerie van BZK publiceert ICT-projecten groter dan € 5 mln. op het 
+Rijks ICT Dashboard. De CIO BZK monitort deze projecten volgens de 
+afspraken in het rijksbrede CIO-stelsel en het Handboek Portfoliomana­
+gement Rijk. Eind 2022 waren dit in totaal 14 actieve programma’s en 
+projecten. De Strategische Portfolioboard (onder voorzitterschap van de SG) 
+wordt door CIO BZK geadviseerd over: de samenstelling van het portfolio 
+van BZK, de uitvoering van individuele projecten en de ontwikkeling van 
+portfoliomanagement binnen BZK. Bij aanleiding is er advies gegeven 
+gericht op een bepaald organisatiedeel of project, vaak in de vorm van 
+een CIO-oordeel.
+Open standaarden en open source software
+Het Ministerie van BZK handelt in overeenstemming met artikel 3, eerste lid 
+van de Instructie rijksdienst bij aanschaf ICT-diensten of ICT-producten. BZK 
+ziet er op toe zoveel mogelijk te voldoen aan de open standaarden op de 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 140
