@@ -1,0 +1,54 @@
+428 VW / Rijksluchtvaartdienst 2.16.5240
+4534 Frankrijk; luchtlijn Lille-Amsterdam,1972
+2440 Hongarije; luchtvaartovereenkomst; vergunningen; Hungarian Air 
+Transport (MALEV), ,1959
+4538 Ierland,1972-1979
+5382 Italië; Aviolinee; luchtdienst Milaan-Frankfurt-Amsterdam,1949
+499 Malawi; Air Malawi,1976-1979
+500 Malta; Air Malta Company Limited,1974-1979
+4408 Nederlandse Antillen; Aerovias Nacionales Quisqueyana,1964-1966
+4409 Nederlandse Antillen; vergunningen; Air France,1971-1973
+4411 Nederlandse Antillen; vergunningen; Caribische Lucht Transport 
+Maatschappij (CLTM),1963-1966
+4412 Nederlandse Antillen; vergunningen; Compania Dominicana de 
+Aviacion,1962-1965
+4413 Nederlandse Antillen; vergunningen; luchtdienst Curaçao-
+Aruba,1960-1966
+4410 Nederlandse Antillen; vergunningen; Windward Island Airways,1962-
+1971
+4416 Noorwegen,1960-1970
+4506 Noorwegen; Braathens Safe,1951-1959
+4505 Noorwegen; Det Norske Luftfartselskab,1959
+4467 Oost-Duitsland,1951-1958
+4378 Oost-Duitsland,1960-1971
+4466 Oost-Duitsland; verbinding Berlijn,1952-1959
+4509 Panama,1953-1954
+4421 Saudi-Arabië,1960-1971
+4564 Suriname; Surinaamse Luchtvracht Onderneming,1971
+4438 Verenigde Staten; Modern Air,1971
+447 Verenigde Staten; Pan American World Airways; luchtdienst tussen 
+West-Berlijn en Amsterdam,1972-1978
+446 West-Duitsland; Air Berlin; luchtdienst tussen Amsterdam en West-
+Berlijn,1979
+4470 West-Duitsland; Deutsche Lufthansa,1955-1956
+4757 West-Duitsland; Inter City Flug Düsseldorf,1974-1975
+4523 Zweden; Aktiebolaget Aerotransport,1959
+div.nrs. Binnenlandse luchtvaartmaatschappijen.
+1936-1980
+Niet nader onder te verdelen
+5737 Algemeen,1950-1963
+10179 Algemeen,1966-1976
+13130 Algemeen,1966-1976
+3699 Algemeen, rondvluchten,1977-1979
+2625 Algemeen; samenstelling aandelenkapitaal,1965-1969
+12338 Algemeen; samenstelling aandelenkapitaal,1968-1971
+3716 Aero Contractors,1950-1959
+3717 Aero Holland,1948-1959
+3718 Aero Limburg,1957-1959
+5159 Aero Limburg,1972-1979
+5157 Aero Service,1977-1979
+5103 Aero-Ypenburg,1962-1966
+3669 Air Advertising Holland,1967-1971
+5155 Air Benelux,1972-1975
+3676 Air Service Holland,1971
+4723 Air Service Holland,1972-1979

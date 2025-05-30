@@ -1,0 +1,55 @@
+346 VW / Rijksluchtvaartdienst 2.16.5240
+luchtverkeersbeveiligingstations; Berichtendienst; dienstuitvoering, 
+voorschriften.
+8436 1932 - 1950, B05B3 - B05B4; Berichtendienst; Luchtvaartuigdienst; 
+verbindingen tussen grondstations onderling.
+8437 1932 - 1950, B05B3; Berichtendienst; Verkeersdienst; telex 
+verbindingen buitenlandse stations.
+6417 1932 - 1950, B05B3; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; verbinding tussen 
+grondstations onderling; verkeersdienst.
+8433 1932 - 1950, B05B4; Berichtendienst, Luchtvaartdienst; Commissie 
+van Onderzoek in de zaak Linschoten.
+8434 1932 - 1950, B05B4; Berichtendienst; Luchtvaartuigdienst; 
+onregelmatigheden dienstuitvoering.
+8435 1932 - 1950, B05B4; Berichtendienst; Luchtvaartuigdienst; 
+voorkoming bijna botsingen.
+6418 1932 - 1950, B05B4; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; 
+Luchtvaartuigdienst; algemeen.
+6420 1932 - 1950, B05B4A; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; 
+Luchtvaartuigdienst; proeven met de Peildienst.
+6419 1932 - 1950, B05B4A; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; 
+Luchtvaartuigdienst; Radiopeildienst.
+6422 1932 - 1950, B05B4B; dienstuitvoering der Luchtverkeersbeveiliging-
+stations; Berichtendienst; Luchtvaartuigdienst; particuliere 
+telegrammen.
+6421 1932 - 1950, B05B4B; dienstuitvoering der Luchtverkeersbeveiliging-
+stations; Berichtendienst; Luchtvaartuigdienst; Radiobakendienst.
+6424 1932 - 1950, B05B4D; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; 
+Luchtvaartuigdienst; dienstuitvoering Luchtvaartuigdienst; 
+verkeersregeling.
+6423 1932 - 1950, B05B4D; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; 
+Luchtvaartuigdienst; lijn Amsterdam-Batavia.
+6425 1932 - 1950, B05B4E; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Berichtendienst; 
+Luchtvaartuigdienst; werkwijze luchtvaartstations.
+8439 1932 - 1950, B05B5; Berichtendienst; Weerberichtendienst; 
+technische voorzieningen benodigd voor het uitoefenen van de 
+Weerberichtendienst.
+8441 1932 - 1950, B05B5; Berichtendienst; Weerberichtendienst; 
+voorschriften betreffende samenstelling en inhoud van 
+weerberichten.
+8440 1932 - 1950, B05B5; Berichtendienst; Weerberichtendienst; 
+waarneming en doorzending van weerberichten.
+8438 1932 - 1950, B05B5; Berichtendienst; Weerberichtendienst; 
+weerberichtenvoorziening.
+6431 1932 - 1950, B05B5A; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Weerberichtendienst; 
+hulpwaarnemingsposten.
+6430 1932 - 1950, B05B5B; dienstuitvoering der 
+luchtverkeersbeveiligingstations; Weerberichtendienst;

@@ -1,0 +1,53 @@
+318 VW / Rijksluchtvaartdienst 2.16.5240
+7155 106.445; evaluatie inspectiemethoden very hig frequency 
+omnidirectional radio range-radiobakens,1974-1975
+7182 106.504/106.604/106.904 systeem vernieuwing 
+verkeersleiding,1975-1979
+689 106.517; controle van navigatie en landingshulpmiddelen,1975-1976
+690, 12146 106.617 en 106.717; controle van navigatie en 
+landingshulpmiddelen.1976-1977
+Niet nader onder te verdelen
+690 1976-1977
+12146 1976-1977
+7115 106.630; capaciteitsonderzoek Schiphol,1975-1977
+7117 106.805; windschering,1977-1979
+7118 106.806; microgolf-landingssystemen (MLS),1977-1979
+7119 106.808/106.908; Obstacle Clearance Panel,1978-1979
+7120 106.809; geluidsbelasting rondom Schiphol; 106.909; tellingen 
+geluidsgevoelige elementen binnen 
+geluidsbelastingcontouren,1978-1979
+7121 106.811/106.812; geluidmetingen vliegbanen: 106.911; assistentie 
+vervanging/upgrading radarsysteem (SARP),1978-1979
+7122 106.813/106.814; geluidshinder rondom Schiphol, Zestienhoven, 
+Beek en eventuele kleine vliegvelden; 106.913; berekeningen 
+geluidsbelastingen rondom Eelde, Schiphol, Rotterdam en Zuid-
+Limburg,1977-1979
+7123 106.816; vluchtnabootseronderzoek moderne 
+besturingssystemen,1978-1979
+691 106.817 en 106.917; controle van navigatie en 
+landingshulpmiddelen,1978-1979
+7124 106.820; windscheringsonderzoek op basis van Aircraft Integrated 
+Data Systems-gegevens; 106.920; verzamelen/analyseren 
+windschering/Aircraft Integrated Data Systems-gegevens,1978-1979
+7126 106.821; geluidshinder toekomstige generatie vliegtuigen; 106.921; 
+vervolg opdracht,1977-1979
+7125 106.824; Flight Track and Aircraft Noise Monitoring System 
+(FANOMOS),1978-1979
+7226 106.825/106.925; analyse voorschriften vliegeigenschappen en 
+vervolgopdracht,1978-1979
+7127 106.829/106.929; onderzoek samenhangende met de 
+zoneringswetgeving; berekening geluidsbelasting door 
+vliegtuigen,1977-1979
+7128 106.832; analyse Aircraft Integrated Data Systems-fatique-gegevens;
+106.932; onderzoek belastingservaring in de omgeving van 
+vliegvelden tijdens begin- en eindfase van de vlucht,1978-1979
+7129 106.834; uitvoeren van een marktonderzoek, aanschaf en 
+installatie,1978-1979
+7131 106.840/106.842; verwerking van de met het Rijksluchtvaartdienst-
+geluidmeetnet geregistreerde meetgegevens; 106940/106.942; 
+vervolg opdracht,1978-1979
+7021 106.918; onderzoek verbetering naderings- en baanverlichting,1979
+7130 106.922; ijsafzetting-certificatie,1979
+7132 106.926; vermoeiingslevensduur van helikopterdelen,1979
+7133 106.930; analyseren van laterale afwijkingen van B-747 en DC-10 
+vliegtuigen tijdens landingen op Schiphol,1979

@@ -1,0 +1,55 @@
+358 VW / Rijksluchtvaartdienst 2.16.5240
+6508 1932 - 1950, L03D; Luchtvaartdienst; personeel; algemeen.
+6606 1932 - 1950, L03D; Rijksluchtvaartdienst; personeel.
+7622 1932 - 1950, L03E5; Luchtvaartdienst; personeel 
+Luchtverkeersbeveiliging; jurist H.J. Spanjaard.
+8547 1932 - 1950, L03E; Luchtvaartdienst; aanschaffing luchtvaartuigen.
+7621 1932 - 1950, L03E; Luchtvaartdienst; personeel 
+Luchtverkeersbeveiliging.
+6608 1932 - 1950, L03E; Rijksluchtvaartdienst; luchtvaartuigen.
+6609 1932 - 1950, L04A1; luchtwaardigheid; algemeen; 
+grondwerktuigkundigen.
+8548 1932 - 1950, L04A1; luchtwaardigheid; grondwerktuigkundige; bewijs
+van bevoegdheid.
+8549 1932 - 1950, L04A2; luchtwaardigheid; bevoegdheid compenseren 
+kompassen.
+8550 1932 - 1950, L04A3; luchtwaardigheid; bevoegdheid als 
+vliegtuiglasser.
+8553 1932 - 1950, L04B2; luchtwaardigheid; voorschriften.
+8640 1932 - 1950, L04B2; luchtwaardigheid; voorschriften 
+luchtwaardigheid.
+8554 1932 - 1950, L04B2A; luchtwaardigheid; voorschriften 
+zweefvliegtuigen.
+8525 1932 - 1950, L04B; luchtwaardigheid; organisatie en reglementering; 
+voorschriften.
+8551 1932 - 1950, L04B; luchtwaardigheid; voorschriften.
+8555 1932 - 1950, L04C1; luchtwaardigheid; verkeersvliegtuigen; 
+inschrijving.
+8556 1932 - 1950, L04C2A2; luchtwaardigheid; bewijs van 
+luchtwaardigheid voor nieuwe toestellen; Fokkervliegtuigen.
+8557 1932 - 1950, L04C2C; luchtwaardigheid; gelijkstelling buitenlandse 
+bewijzen van luchtwaardigheid.
+8641 1932 - 1950, L04C3; luchtwaardigheid; verkeersvliegtuigen; keuring 
+en inspectie.
+8642 1932 - 1950, L04C4A1; luchtwaardigheid; verkeersvliegtuigen; stelsel 
+en type; totaalgewicht; Koninklijke Luchtvaartmaatschappij-
+vliegtuigen.
+8558 1932 - 1950, L04C4A; luchtwaardigheid; verkeersvliegtuigen; stelsel 
+en type; totaalgewicht.
+8559 1932 - 1950, L04C5; luchtwaardigheid; vliegtuigen; onderdelen en 
+uitrusting; normalisatie.
+7624 1932 - 1950, L04C6; luchtwaardigheid verkeersvliegtuigen in/uit het 
+buitenland.
+8643 1932 - 1950, L04C6; luchtwaardigheid verkeersvliegtuigen in/uit het 
+buitenland.
+7625 1932 - 1950, L04C6A; luchtwaardigheid verkeersvliegtuigen; C54J-
+vliegtuigen.
+7626 1932 - 1950, L04C6B; luchtwaardigheid verkeersvliegtuigen; De 
+Havilland 83A.
+7627 1932 - 1950, L04C6C/D; luchtwaardigheid verkeersvliegtuigen; 
+Douglas DC-3.
+8644 1932 - 1950, L04C6C/D; luchtwaardigheid; verkeersvliegtuigen in/uit 
+het buitenland; Douglas DC-3.
+7628 1932 - 1950, L04C6E; luchtwaardigheid verkeersvliegtuigen; 
+Lockheed Constellation.
+7629 1932 - 1950, L04C6F; luchtwaardigheid verkeersvliegtuigen; Douglas

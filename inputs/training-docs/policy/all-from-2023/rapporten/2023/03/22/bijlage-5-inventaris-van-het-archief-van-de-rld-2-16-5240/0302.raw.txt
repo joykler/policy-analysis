@@ -1,0 +1,58 @@
+302 VW / Rijksluchtvaartdienst 2.16.5240
+2934 Duitsland; Frankfurt; Douglas DC-6 Koningin Juliana 
+(PH-TPJ); 22-03-1952,1952-1953
+Openbaarheid beperkt tot 01-01-2029
+5238 Duitsland; Gillenfeld; Bölkow 208 (HP-KAS); 13-12-
+1972,1972-1973
+Openbaarheid beperkt tot 01-01-2049
+3775 Duitsland; München; Lockheed Constellation PH-
+LKH; 04-02-1960,1960
+Openbaarheid beperkt tot 01-01-2036
+2883 Duitsland; Rheine; Jodel D-112 (PH-GHE); 21-09-
+1963,1963-1964
+Openbaarheid beperkt tot 01-01-2040
+2892 Duitsland, Rhein-Main; De Havilland PD (PH-VLA); 
+01-05-1963,1963
+7399 Duitsland, Russische zone; sportvliegtuig (PH-NCP); 
+25-09-1948,1948
+Openbaarheid beperkt tot 01-01-2024
+2881 Duitsland; Wesermünde; Morane Saulnier MS-880 B 
+(PH-AAE); 08-10-1963,1962-1964
+Openbaarheid beperkt tot 01-01-2040
+2854 Egypte; Caïro; Douglas DC-6 De Vliegende Hollander 
+(PH-DFK); 19-02-1958,1958-1959
+Openbaarheid beperkt tot 01-01-2035
+2865 Egypte; Caïro; Lockheed Electra (PH-LLM); 12-06-
+1961,1961-1963
+Openbaarheid beperkt tot 01-01-2039
+6366 Engeland; algemeen; ongevallenonderzoek,1948
+Openbaarheid beperkt tot 01-01-2024
+7379 Engeland; Croydon; Douglas DC-2; Lijster (PH-AKL); 
+09-19-1936,1936-1938
+3785 Engeland; Het Kanaal; Fokker S-11 (PH-SIK); 22-01-
+1960,1960
+Openbaarheid beperkt tot 01-01-2036
+2930 Engeland; Holbeam Farm, Stalisfield; Piper Cub (PH-
+NCU); 22-07-1951,1951-1952
+Openbaarheid beperkt tot 01-01-2028
+2940 Engeland; London Airport; Vickers Viscount (PH-VIH); 
+13-01-1959,1959
+Openbaarheid beperkt tot 01-01-2035
+7400 Engeland; Prestwick; Lockheed Constellation 
+Nijmegen (PH-TEN); 21-10-1948,1948-1949
+Openbaarheid beperkt tot 01-01-2025
+2939 Ethiopië; Addis Abeba; Fokker F-27 (PH-NVF); 09-03-
+1959,1959
+Openbaarheid beperkt tot 01-01-2035
+2923 Frankrijk; Audresselles; Jodel 140B (PH-SBA); 14-08-
+1965,1965
+Openbaarheid beperkt tot 01-01-2041
+7386 Frankrijk; Senlis; Waco (PH-MAG); 19-01-1937,1937
+7387 Griekenland; Athene; Douglas DC-2; (PH-AKI); 05-05-
+1937,1937
+4807 Ierland; Shannon; Super Constellation Triton (PH-
+LKY); 05-09-1954,1954-1961
+Openbaarheid beperkt tot 01-01-2037
+8208 Ierland; Super Constellation Hugo de Groot (PH-
+LKM); 14-08-1958,1958-1961
+Openbaarheid beperkt tot 01-01-2037

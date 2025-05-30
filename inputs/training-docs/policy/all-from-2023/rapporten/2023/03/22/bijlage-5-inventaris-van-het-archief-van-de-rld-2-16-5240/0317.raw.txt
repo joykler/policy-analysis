@@ -1,0 +1,44 @@
+2.16.5240 VW / Rijksluchtvaartdienst 317
+13239 Ordernummer 106.904 - 125.502.
+13238 Ordernummer 106.904 - 125.502.
+11984 Ordernummer 206.010 - 524.109.
+13236 Ordernummer 206.010 - 524.109.
+11985 Ordernummer 524.522 - 642.603.
+13237 Ordernummer 524.522 - 642.603.
+11986 Nationaal Luchtvaartlaboratorium rapport 1535; Airflow through helicopter rotors 
+in vertical flight.
+1949
+4789 Motorvliegtuigen; type Tiger Moth.
+1950-1955
+4788 Motorvliegtuigen; type Piper Cub Grunau Baby Sleep.
+1951
+10275, 13133
+Opdrachten van de Afdeling Luchtvaartinspectie.
+1951-1965
+Niet nader onder te verdelen
+10275 1951-1965
+13133 1951-1965
+10405 Overzichten opdrachten; algemeen.
+1951-1965
+2860 Onderzoek invloed stijfheid en massaverdeling op de bij de landing in 
+vliegtuigconstructies optredende krachten S. 369.
+1952
+2858 Aanwijzingsverschil barometers van Koninklijke Luchtvaartmaatschappij en 
+Koninklijk Nederlands Meteorologisch Instituut (KNMI).
+1955
+7767 Testen van vliegtuigen ter beoordeling van de geschiktheid voor de 
+Rijksluchtvaartschool.
+1956-1960
+10406 Onderzoek naar faalveiligheid in de stuurhut (fail safe).
+1962-1965
+3893, 12489 Inschakelen van het Nationaal Lucht- en Ruimtevaartlaboratorium bij het ruimte-
+onderzoek.
+1962-1966
+12489 Bestanddeel 1
+3893 Bestanddeel 2
+div.nrs. Opdrachten, op nummer geordend.
+1962-1979
+7768 106.101; gevaren bij start en landing van lichte vliegtuigen,1962
+7227 106.315; onderzoek tipwervels,1973-1979
+5448 106.404; systeemvernieuwing verkeersleiding,1974-1975
+688 106.417; controle van navigatie en landingshulpmiddelen,1974-1975

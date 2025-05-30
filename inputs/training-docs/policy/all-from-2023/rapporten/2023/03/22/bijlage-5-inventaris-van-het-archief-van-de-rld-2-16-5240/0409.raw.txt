@@ -1,0 +1,55 @@
+2.16.5240 VW / Rijksluchtvaartdienst 409
+4432 Turkije,1970-1971
+430 Turkije,1972-1979
+1503 Uruguay,1946-1949
+2416 Uruguay,1969-1970
+432 Uruguay,1972-1979
+4519 Venezuela,1935-1959
+2417 Venezuela,1960-1970
+34 Venezuela,1967-1972
+4434 Venezuela,1968-1971
+35 Venezuela,1973
+433 Venezuela,1973-1978
+36 Venezuela,1974
+2003 Venezuela,1974
+6163 Venezuela,1975
+12666 Venezuela,1976-1979
+434 Verenigde Arabische Emiraten,1973-1979
+6279 Verenigde Staten,1929-1932
+12680 Verenigde Staten,1933-1937
+6280 Verenigde Staten,1946-1947
+12681 Verenigde Staten,1948-1950
+2481 Verenigde Staten,1951-1953
+12557 Verenigde Staten,1950-1959
+4520 Verenigde Staten,1952-1959
+12555 Verenigde Staten,1950-1971
+4439 Verenigde Staten,1961-1968
+5000 Verenigde Staten,1954-1956
+12593 Verenigde Staten,1954-1956
+5001 Verenigde Staten,1957-1958
+5002 Verenigde Staten,1959
+12130 Verenigde Staten,1959-1960
+12131 Verenigde Staten,1960
+511 Verenigde Staten,1960
+12132 Verenigde Staten,1961-1966
+512 Verenigde Staten,1960-1961
+12133 Verenigde Staten,1968
+513 Verenigde Staten,1967-1968
+12134 Verenigde Staten,1969
+514 Verenigde Staten,1969
+515 Verenigde Staten,1970-1971
+12135 Verenigde Staten,1972
+12136 Verenigde Staten,1974
+516 Verenigde Staten,1973-1974
+6162 Verenigde Staten,1975-1976
+12235 Verenigde Staten,1978
+1464 Verenigde Staten,1976-1979
+12665 Verenigde Staten,1977-1978
+443 Verenigde Staten.
+12117 Verenigde Staten.
+4521 Vietnam,1953-1959
+4442 Vietnam,1960-1970
+4468 West-Duitsland,1950-1954
+12556 West-Duitsland,1955
+4469 West-Duitsland,1956-1959
+12548 West-Duitsland,1963-1966

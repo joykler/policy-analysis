@@ -1,0 +1,55 @@
+374 VW / Rijksluchtvaartdienst 2.16.5240
+8623 1932 - 1950, W1A; West-Indië; luchtverbindingen West-Indië.
+7777 1932 - 1950, W1A; West-Indië; luchtverbindingen West-Indië.
+8624 1932 - 1950, W1B; West-Indië; luchtverbinding Amsterdam-Curaçao.
+8625 1932 - 1950, W2 (W2B/W2B1); wetten en reglementering binnenland;
+(Regeling Toezicht Luchtvaart/Luchtvaartwet.
+8626 1932 - 1950, W2A1; wetten en reglementering binnenland; wijziging 
+Luchtvaartwet.
+7438 1932 - 1950, W2B1B1; wetten en reglementering binnenland; 
+wijziging artikel 45 en 51 Luchtvaartwet.
+8628 1932 - 1950, W2B1C; wetten en reglementering binnenland; 
+regelingen betreffende laag vliegen.
+7734 1932 - 1950, W2B1D; wetten en reglementering binnenland; Regeling
+Toezicht Zweefvliegtuigen.
+8630 1932 - 1950, W2B2; wetgeving; herziening Regeling Toezicht 
+Luchtvaart.
+8629 1932 - 1950, W2B2; wetgeving; reglementering en regelingen 
+buitenland.
+7733 1932 - 1950, W2B2; wetten en reglementering binnenland; 
+herziening Regeling Toezicht Luchtvaart.
+8627 1932 - 1950, W2B; wetten en reglementering binnenland; Regeling 
+Toezicht Luchtvaart.
+7735 1932 - 1950, W2C1; wetten en reglementering; internationale 
+overeenkomsten; Nederland-buitenland.
+7736 1932 - 1950, W2C1A; wetten en reglementering; internationale 
+overeenkomsten; Nederland-buitenland; landen in Europa.
+7737 1932 - 1950, W2C1B; wetten en reglementering; internationale 
+overeenkomsten; Nederland-buitenland; landen buiten Europa.
+7738 1932 - 1950, W2C2; wetten en reglementering; internationale 
+overeenkomsten; multilateraal.
+7745 1932 - 1950, W2C2; wetten en reglementering; 
+Luchtverkeersreglement; uitwijken van taxiënde vliegtuigen.
+7739 1932 - 1950, W2C2A; wetten en reglementering; internationale 
+overeenkomsten; multilateraal; International Air Transport 
+Association.
+7741 1932 - 1950, W2C2B1; wetten en reglementering; internationale 
+overeenkomsten; multilateraal; Internationaal Sanitair Verdrag voor 
+de Luchtvaart; inwerkingtreding.
+7740 1932 - 1950, W2C2B; wetten en reglementering; internationale 
+overeenkomsten; multilateraal; Internationaal Sanitair Verdrag voor 
+de Luchtvaart.
+7742 1932 - 1950, W2C2C; wetten en reglementering; internationale 
+overeenkomsten; multilateraal; Verdrag van Warschau.
+7744 1932 - 1950, W2C2D; wetten en reglementering; internationale 
+overeenkomsten; multilateraal; Verdrag van Rome.
+7747 1932 - 1950, W2C2E; wetten en reglementering; internationale 
+overeenkomsten; multilateraal; conventie regeling positie 
+vliegtuigbestuurders.
+7746 1932 - 1950, W2C3; wetten en reglementering; 
+Luchtverkeersreglement; wijziging.
+7743 1932 - 1950, W2C; wetten en reglementering; 
+Luchtverkeersreglement.
+7748 1932 - 1950, W2D; wetten en reglementering; aansprakelijkheid 
+luchtvervoerders in binnenlands luchtverkeer.
+7749 1932 - 1950, W3; wetten en reglementering buitenland.
