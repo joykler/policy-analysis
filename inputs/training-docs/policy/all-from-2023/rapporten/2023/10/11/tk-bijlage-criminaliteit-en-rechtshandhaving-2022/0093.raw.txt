@@ -1,0 +1,44 @@
+vroeghulp, advies, plaatsingen forensische zorg, gedragsinterventies, toezicht en 
+werkstraffen. 
+Periodiciteit van de dataverzameling 
+De registratie in IRIS is continu. 
+Relaties met andere systemen 
+IRIS heeft een geautomatiseerde koppeling met de centrale Strafrechtsketendatabase, 
+kortweg SKDB. De SKDB bevat gegevens die noodzakelijk zijn voor de vaststelling van 
+de identiteit van een verdachte of veroordeelde, in het kader van de Wet Identiteits-
+vaststelling verdachten, veroordeelden en getuigen (WIVVG). Via deze koppeling 
+worden cliëntgegevens en detentiegegevens uit SKDB automatisch overgenomen en 
+geactualiseerd in IRIS. De gegevens uit SKDB zijn hierbij leidend. Via DJI (INJUS) 
+koppeling wordt de aard van de detentie opgehaald. De 3RO leveren aan SKDB 
+gegevens aan over opdrachten / programma’s die voor een cliënt worden uitgevoerd 
+met daarbij ook de uitvoerende unit. 
+Voor de opdrachtverstrekking met betrekking tot werkstraffen en toezichten is een 
+geautomatiseerde koppeling met het AICE, dat is ingericht bij het CJIB, gerealiseerd. 
+Voor werkstraf en toezicht wordt via een geautomatiseerde koppeling over het verdere 
+verloop van de opdracht gecommuniceerd. De berichten over afloop van toezicht en 
+werkstraffen worden handmatig geüpload naar Justid (JD-online), alsmede de defini-
+tieve versie van de uitgebrachte adviezen aan ketenpartners (eveneens JD-online). 
+Plaatsingen forensische zorg gaan via een gegevenskoppeling met IFZO. Voor het 
+ontvangen van aanvragen voor reclasseringsadvies en het versturen van advies-
+rapporten is een koppeling met Justid (JDS).  
+Beperkingen 
+De AVG regelt dat persoonsgegevens niet langer bewaard mogen worden dan nood-
+zakelijk is voor de doeleinden waarvoor zij zijn verzameld of worden gebruikt. Voor de 
+3RO is de bewaartermijn op zeven jaar bepaald. De gegevens in IRIS worden jaarlijks 
+in het najaar opgeschoond. Hierbij worden de gegevens van cliënten verwijderd 
+zeven jaar na afsluiting van de reclasseringsbemoeienis met de cliënt. Dit betekent dat 
+IRIS geen gegevens van cliënten bevat voor wie zeven jaar of langer geen reclasse-
+ringswerkzaamheden zijn verricht. 
+Eigendom en beheer 
+Het intellectueel eigendom van IRIS ligt bij de 3RO. Het beheer en onderhoud worden 
+door Reclassering Nederland namens de 3RO uitgevoerd. 
+4.6 Registratie Raad voor de Kinderbescherming 
+Sinds 2006 is KBPS (kinderbescherming processysteem) het registratiesysteem voor 
+het primaire proces van de Raad voor de Kinderbescherming. Hierin worden alle zaken 
+die in onderzoek genomen worden (instroom) en de zaken die worden afgerond 
+(uitstroom) vastgelegd, voorzien van relevante (proces)kenmerken. 
+Het betreft beschermingsonderzoeken, onderzoeken in het kader van gezag en 
+omgang, adoptiegerelateerde activiteiten, strafonderzoeken, de coördinatie van 
+taakstraffen met betrekking tot minderjarigen en de vastlegging van activiteiten in  
+het kader van casusregie. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  93

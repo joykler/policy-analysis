@@ -1,0 +1,46 @@
+De executie van strafrechtelijke vonnissen met een financiële sanctie (boetes, 
+schadevergoedingsmaatregelen en ontnemingen) wordt zelfstandig door het CJIB 
+afgewikkeld, onder verantwoordelijkheid van het OM. 
+Ook bij de tenuitvoerlegging van andere soorten vonnissen als taakstraffen en 
+bepaalde gevangenisstraffen speelt het CJIB een belangrijke rol. Bij die vonnissen 
+neemt het CJIB een groot deel van het administratieve proces voor zijn rekening, zorgt 
+voor doorgeleiding aan de met tenuitvoerlegging belaste instantie en bewaakt de 
+voortgang. 
+Sinds het CJIB werd ingesteld als bureau belast met de inning van administratieve 
+sancties bij verkeersovertredingen, is het takenpakket in de loop der jaren onder 
+andere uitgebreid met de bovengenoemde processen. Daardoor zijn niet van alle 
+processen gegevens over dezelfde jaren beschikbaar. De inning van strafrechtelijke 
+boetes verzorgt het CJIB vanaf 1994. De gegevens over strafrechtelijke boetes zijn 
+vanaf 1995 volledig. Over inning van schadevergoedingsmaatregelen is vanaf 1996 
+informatie beschikbaar. Inning van ontnemingsmaatregelen is sinds 1996 aan het  
+CJIB opgedragen. Overigens geschiedde incassering van ontnemingsmaatregelen  
+ook door het OM, vooral in de overgangsperiode na 1996. Het TRIAS-systeem 
+(Transactie Registratie Inning en Informatie AfhandelingsSysteem) voor de registratie 
+van (politie)transacties is sinds 2000 operationeel. De eerste gegevens zijn sinds 
+november 1999 geregistreerd, maar niet alle instanties waren toen aangesloten. Vanaf 
+het jaar 2001 waren alle instanties aangesloten. 
+Sinds 2008 beschikt het CJIB over gegevens over strafbeschikkingen (OM-
+afdoeningen). 
+Informatiegebied 
+In deze publicatie betreft de gebruikte informatie de afwikkeling van (politie)trans-
+acties, strafbeschikkingen, dwangsommen en bestuurlijke boetes, en executie van  
+de strafrechtelijke vonnissen waarmee het CJIB is belast: geldboetes, opgelegde 
+maatregelen ter ontneming van wederrechtelijk verkregen voordeel en schade-
+vergoedingsmaatregelen. 
+Periodiciteit van de dataverzameling 
+De registratie is continu. Gegevens ten behoeve van de statistiek worden per jaar en 
+incidenteel bij het CBS aangeleverd. 
+Relaties met andere informatiesystemen 
+Het CJIB ontvangt langs elektronische weg gegevens over aan te bieden transacties 
+van de arrondissementsparketten (COMPAS: Communicatiesysteem Openbaar Minis-
+terie Parket AdminiStratie en GPS: Geïntegreerd Processysteem Strafrecht). Deze 
+worden vastgelegd in het TRIAS-systeem en in het Executie Informatie Systeem (EIS). 
+Het EIS is het systeem waarin OM-afdoeningen zijn vastgelegd. TRIAS en EIS melden 
+de afloop weer terug aan deze systemen. 
+Gegevens van de arrondissementsparketten over te executeren strafrechtelijke 
+vonnissen ontvangt het CJIB eveneens uit COMPAS en van de vijf ressortparketten. 
+Deze gegevens worden afhankelijk van de soort sanctie vastgelegd in verschillende 
+registratiesystemen bij het CJIB. Zo worden boetevonnissen bijvoorbeeld vastgelegd in 
+Strabis. Verder bestaan koppelingen met systemen van diverse andere ketenpartners 
+van het CJIB (DJI, reclassering). Voor statistiek en onderzoek is de informatie van het 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  89

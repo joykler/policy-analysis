@@ -1,0 +1,48 @@
+4.3 Registratie Justitiële Jeugdinrichtingen (JVS) 
+33
+JeugdVolgSysteem (JVS; voorheen TULP/JJI) is een landelijk geïmplementeerd 
+informatiesysteem waarop alle rijks- en particuliere Justitiële Jeugdinrichtingen zijn 
+aangesloten, alsmede het hoofdkantoor DJI. Het systeem wordt door de inrichtingen 
+gebruikt voor de administratie en het registreren en onderhouden van gegevens 
+betreffende de inrichting zelf. Daarnaast genereert het systeem onder meer capaci-
+teits- en bezettingsgegevens, bevolkingsgegevens en gegevens over de orde en 
+veiligheid (incidenten en maatregelen) binnen de inrichting. JVS speelt een belangrijke 
+rol bij de centrale selectie en plaatsing van jeugdigen in Justitiële Jeugdinrichtingen. 
+Verder levert JVS stuur- en beleidsinformatie. 
+Iedere jeugdige die bij een Justitiële Jeugdinrichting wordt aangemeld, zal of op de 
+wachtlijst worden geplaatst of wordt in de inrichting opgenomen, wordt geregistreerd 
+in JVS en krijgt een eigen, uniek registratienummer. Dit nummer wordt bij iedere 
+(nieuwe) opname binnen de divisie Forzo/Justitiële Jeugdinrichtingen gebruikt.  
+Informatiegebied 
+De gegevens die in JVS worden opgenomen, zijn onder andere persoonskenmerken 
+van de jeugdigen, gegevens over de huidige en eventueel vorige en volgende 
+verblijfslocatie(s), verblijfstitel(s), opleggende instantie, gepleegde feiten en reden van 
+uitschrijving. Met behulp van de speciale beleidsinformatiemodule kunnen peildatum-
+bestanden, locatie-historische bestanden (plaatsingen, uitplaatsingen, trajecten van 
+jeugdigen) en titel-historische bestanden (titels/titelwijzigingen) worden samen-
+gesteld. Voorts bevat JVS informatie over onder andere de beschikbare capaciteit, 
+bezetting, wachtlijstplaatsingen, enzovoort. 
+Periodiciteit van de dataverzameling 
+JVS is een betrekkelijk nieuw registratiesysteem. In juni 1997 is de laatste Justitiële 
+Jeugdinrichting aangesloten op het toen beschikbare Tulp Jeugd, zodat vanaf dat 
+moment gesproken kan worden van een landelijke dekking. Er is sprake van een 
+continue registratie. 
+Relaties met andere informatiesystemen 
+Een aantal basisgegevens van JVS is tevens opgeslagen in de nieuwe DJI-brede 
+Basisregistratie. Deze Basisregistratie ontvangt en levert onder meer gegevens aan 
+het SKDB (Strafketendatabase) en verzendt de registratie van wijzigingen in verblijf en 
+de vonnisgegevens binnen de strafketen. 
+Eigendom en beheer 
+Houder van de informatie in JVS is het ministerie van Justitie en Veiligheid, divisie 
+Forzo/JJI. De informatie is opgeslagen bij de individuele inrichtingen en centraal op het 
+Hoofdkantoor DJI. Het beheer van de informatie berust bij de inrichtingsdirecteuren en 
+bij het Hoofdkantoor DJI. Het systeem voldoet aan de eisen van de AVG.  
+ 
+33 
+Vanaf november 2011 is TULP JJI stapsgewijs uitgefaseerd en vervangen door JVS (Jeugd Volg Systeem). 
+Dit systeem is te zien als de opvolger van TULP JJI en bevat in principe dezelfde eigenschappen. Het bevat 
+vooral informatie over het verblijf. Daarnaast is sinds 2012 IFM ‘in de lucht’ (IFM=intelligente formulieren 
+module). Dit systeem bevat vooral informatie over de behandeling van de jeugdigen en is een keten-
+systeem: uitgangspunt is eenmalige invoer, meervoudig gebruik. In eerste instantie is TULP JJI lokaal 
+uitgezet, in mei 2014 is ook TULP JJI centraal uitgezet Sindsdien leidend en volledig operationeel. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  91

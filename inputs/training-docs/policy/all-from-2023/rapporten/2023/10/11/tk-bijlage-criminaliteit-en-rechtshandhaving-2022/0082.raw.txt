@@ -1,0 +1,53 @@
+tredingen (hoofdstuk 6) wordt een ander selectiecriterium en andere teleenheid 
+gehanteerd. Dat wordt onder een apart kopje hieronder nader toegelicht. Merk op dat 
+het aantal misdrijfzaken dat in een bepaald jaar is afgedaan niet gelijk is aan het 
+aantal misdrijfzaken dat in dat jaar is ingeschreven. Een zaak die in een bepaald jaar 
+instroomt, hoeft niet per se ook in datzelfde jaar te worden afgedaan. Vooral als zaken 
+later in het kalenderjaar worden ingeschreven, is het aannemelijk dat de afhandeling 
+over de jaargrens heen valt. De instroom OM en de beslissingen OM in een bepaald 
+jaar betreffen daarom (deels) andere zaken. 
+Instroom OM 
+De instroom van misdrijven bij het OM wordt bepaald door alle rechtbankzaken te 
+selecteren uit het DWH waarvan de datum van instroom in het betreffende jaar ligt. 
+COMPAS-zaken die zijn overgedragen naar een ander parket of instantie, worden 
+daarbij niet meegeteld. Hetzelfde geldt voor zaken die worden overgeheveld vanuit 
+GPS naar COMPAS of visa versa. Een overheveling van GPS naar COMPAS komt 
+bijvoorbeeld voor wanneer in het verleden een zaak te complex bleek te zijn om te 
+verwerken in GPS. Inmiddels verwerkt GPS ook complexe zaken. Andersom zijn 
+bijvoorbeeld vanwege de COMPAS-uitfasering in de afgelopen jaren zaken vanuit 
+COMPAS overgeheveld naar GPS. De overhevelingen en overdrachten worden 
+eveneens niet meegeteld bij de beslissingen OM, zodat de instroom en uitstroom 
+zoveel als mogelijk vergelijkbaar zijn. 
+ 
+Naast nieuwe misdrijfzaken stromen er bij het OM ook zaken in die het OM al eerder 
+heeft behandeld. Het gaat vooral om zaken die eerder door het OM zijn afgedaan met 
+een strafbeschikking. Als de bestrafte in verzet gaat of als het executeren van de 
+strafbeschikking mislukt, moet het OM de zaak opnieuw beoordelen. Dit noemen we 
+24
+herinstroom. Deze herinstroom wordt niet meegenomen in de instroom OM. Ook bij 
+de beslissingen OM wordt de herinstroom niet meegenomen. 
+Beslissingen OM 
+Het OM kan verschillende beslissingen in een zaak nemen: het OM kan besluiten te 
+dagvaarden, (voorwaardelijk of onvoorwaardelijk) seponeren, een transactie aan-
+bieden, een zaak bij een andere zaak voegen, administratief beëindigen of een 
+strafbeschikking opleggen. Bij het bepalen van de beslissingen genomen in misdrijf-
+zaken door het OM worden net als bij de instroom, alle rechtbankzaken uit het DWH 
+geselecteerd met een datum van een beslissing in het betreffende jaar. Het soort 
+beslissing wordt bepaald door te kijken naar de geregistreerde afdoening door het OM. 
+Overdrachten naar andere parketten en overhevelingen van GPS naar COMPAS of van 
+COMPAS naar GPS worden daarbij buiten beschouwing gelaten om de tellingen in lijn 
+te houden met de instroom en omdat het niet om definitieve beslissingen in een zaak 
+gaat. Voor elke zaak wordt de laatst bekende beslissing van het OM in het daarbij 
+behorende jaar geteld. Dit betekent dat als er meerdere beslissingen in een zaak zijn 
+genomen alleen de laatste beslissing wordt geteld. Eerdere beslissingen uit eerdere 
+jaren worden in de tellingen vervangen door vervolgbeslissingen uit latere jaren. Dit 
+heeft tot gevolg dat er op verschillende peilmomenten mogelijk verschuivingen in de 
+tellingen voorkomen: de totalen van eerdere jaren worden naar beneden aangepast 
+als er vervolgbeslissingen zijn genomen in een later jaar. In de tellingen over de 
+laatste paar jaren kunnen hierdoor nog wijzigingen optreden. 
+ 
+ 
+24
+ Volgens het jaarbericht van het OM bedraagt de herinstroom ongeveer 8.000 misdrijfzaken (Bron: OM 
+Jaarbericht 2022). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  82

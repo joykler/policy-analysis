@@ -1,0 +1,45 @@
+graaf 3 van deze bijlage), waarin gegevens van kantonovertredingen en strafzaken 
+zijn opgenomen. 
+Het totale aantal afdoeningen van kantonovertredingen is gehaald uit de jaarverslagen 
+van de Rechtspraak. Deze productieaantallen bevatten zowel uitspraken/vonnissen 
+alsook andere afdoeningen (intrekkingen enz.) en zijn conform de begrotingsafspraken 
+tussen de Rechtspraak en het ministerie van Veiligheid en Justitie. De nadere 
+detaillering naar wijze van afdoening en wet is afkomstig uit het DWH (voor GPS-
+zaken) en het gegevenssysteem GPS-MI (voor COMPAS-zaken). 
+Het aantal eindarresten van kantonovertredingen is gehaald uit de jaarverantwoor-
+dingsgegevens zoals de Rechtspraak deze jaarlijks opstelt voor het ministerie van 
+Veiligheid en Justitie. Het aantal WAHV-beschikkingen bij het Gerechtshof Leeuwarden 
+is gebaseerd op een opgave van het hof. De nadere detaillering (de wijze van 
+afdoening) is gebaseerd op data uit het lokale gegevenssysteem ReIS van het hof. 
+Periodiciteit 
+De jaarverantwoordingsgegevens vanuit de P&V-cyclus, zoals gepresenteerd in het 
+jaarverslag van de Raad voor de rechtspraak en opgesteld voor het ministerie van 
+Veiligheid en Justitie, worden jaarlijks verzameld en geaggregeerd. Het DWH wordt 
+wekelijks (in het weekend) gevuld. GPS-MI en ReIS (van hof Arnhem-Leeuwarden) 
+worden continu, dynamisch gevuld. 
+Relaties met andere systemen 
+In GPS-MI zijn ook OM-gegevens opgenomen. 
+Beperkingen 
+Vanwege verschillende uitvraagmomenten en dynamiek in de gegevenssystemen, 
+sluiten detailgegevens niet altijd aan op geaggregeerde jaarverantwoordingsgegevens. 
+Daarom is ervoor gekozen de detailgegevens alleen weer te geven als percentage van 
+het totaal, en niet hun afzonderlijke niveaus te presenteren. 
+Eigendom en beheer 
+De Rechtspraak is eigenaar van de gegevenssystemen en de Raad voor de rechtspraak 
+is beheerder daarvan. 
+6 Uitgaven aan sociale veiligheid 
+De uitgaven aan sociale veiligheid hebben tot doel een samenhangende, consistente 
+en geïntegreerde statistische beschrijving te geven van de geldstromen op het terrein 
+van sociale veiligheid. Het gaat daarbij om het aanbod en gebruik van goederen en 
+diensten die enerzijds tot doel hebben criminaliteit, overlast en verloedering te 
+voorkomen, te bestraffen of de schade ervan te beperken, en anderzijds om onveilig-
+heidsgevoelens weg te nemen. Daarbij de volgende definitie van sociale (on)veiligheid 
+gehanteerd: ‘de aan- of afwezigheid van bedreigingen als gevolg van criminaliteit, 
+overlast en verloedering tussen (groepen) burgers, bedrijven en/of de overheid’. 
+ 
+Activiteiten, aanbieders en ketenfases 
+De uitgaven aan sociale veiligheid worden opgebouwd rondom twee centrale 
+elementen: activiteiten en aanbieders. De activiteiten die verricht worden op het 
+terrein van sociale veiligheid zijn gegroepeerd. We onderscheiden de ketenfases 
+preventie, opsporing, vervolging, berechting, tenuitvoerlegging, rechtsbijstand en 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  95

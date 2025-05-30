@@ -1,0 +1,55 @@
+Bijlage 3 Bronnen en methoden 
+In deze bijlage wordt een overzicht gegeven van de informatiebronnen die voor deze 
+publicatie zijn gebruikt. Hierbij komen kenmerken en beperkingen, het informatie-
+gebied, de periodiciteit en het eigendom en beheer van de informatiebronnen aan  
+bod. Daarnaast wordt een nadere toelichting gegeven op de wijze van tellen en 
+gehanteerde berekeningswijzen. 
+De gebruikte informatiebronnen betreffen steeds een gedeelte van de strafrechts-
+keten: slachtofferenquêtes onder de bevolking, de CBS Politiestatistiek (geregistreerde 
+misdrijven en verdachten en opgehelderde misdrijven), de vervolging- en berechtings-
+gegevens vanuit de systemen van het OM (de zaken die uiteindelijk naar het OM gaan 
+en daar ingeschreven worden), en de systemen die de tenuitvoerlegging van straffen 
+en maatregelen registreren. Deze informatiebronnen kunnen niet zonder meer met 
+elkaar worden vergeleken. Bij het bekijken van de samenhang tussen de verschillende 
+onderdelen van de strafrechtsketen dient rekening te worden gehouden met de 
+hieronder beschreven vertekeningen en beperkingen. 
+De gehanteerde definities en de eenheden waarin de aantallen zijn uitgedrukt, kunnen 
+verschillen. Zo komen de definities van misdrijftypen die in de Politiestatistiek en in de 
+slachtofferenquêtes gebruikt worden, niet geheel overeen.  
+Verder registreert de politie misdrijven (processen­verbaal van aangifte), terwijl de 
+rechtbankstatistieken uitgaan van zaken. Een misdrijf kan door meer dan één persoon 
+zijn gepleegd, terwijl een zaak één persoon betreft, maar daarentegen verschillende 
+misdrijven kan omvatten. Bij de verdere afhandeling kunnen verschillende zaken via 
+15
+zogenoemde ‘voegingen’ in elkaar worden geschoven. In tabel 6.5 is te zien dat het 
+aantal door de rechter opgelegde onvoorwaardelijke sancties groter is dan het aantal 
+door de rechter afgedane zaken. Dit is het logische gevolg van het feit dat meerdere 
+sancties per zaak kunnen worden opgelegd. 
+De criteria voor het indelen naar delicttype kunnen verschillen. Een slachtoffer kan een 
+delict anders rubriceren dan de politie, en de politie anders dan het OM. Zo kan de 
+politie een tasjesroof als geweldsdelict bestempelen, terwijl het OM besluit het als 
+00vermogensmisdrijf in te schrijven. Omdat een zaak verschillende misdrijven kan 
+omvatten, waarbij het zwaarste misdrijf het indelingscriterium vormt, kunnen minder 
+zware misdrijven in de rechtbankstatistiek buiten beeld raken. Zo zal een inbraak niet 
+in de cijfers terug te vinden zijn wanneer deze gepaard gaat met moord. 
+Er verstrijkt tijd tussen de behandeling van een misdrijf of zaak in de verschillende 
+onderdelen van de keten. Dit betekent bijvoorbeeld dat een in 2009 aangegeven en 
+geregistreerd misdrijf mogelijk pas in 2010 bij het OM wordt ingeschreven en in 2011 
+wordt afgehandeld. Dit ‘over de jaargrens heen vallen’ zal de verhouding tussen cijfers 
+beïnvloeden, vooral daar waar sterke en abrupte stijgingen of dalingen optreden. 
+Gebreken in registraties kunnen eveneens een rol spelen. Zo is onduidelijk in welke 
+mate de vervanging van de oude bedrijfsprocessensystemen BPS en Xpol door de 
+Basisvoorziening Handhaving (BVH) bij de politie de registratie van misdrijven heeft 
+16
+beïnvloed. Veranderingen in beleid (bijvoorbeeld het feit dat de politie de lichtere 
+artikel 8 WVW-zaken sinds een aantal jaren naar het CJIB brengt in plaats van naar de 
+OM-parketten) kunnen eveneens hun invloed hebben op de statistische informatie. De 
+kwaliteit van de statistieken en de onderlinge consistentie is lang niet altijd optimaal. 
+ 
+15
+ Zie voor de tabellen de website van het WODC. 
+16
+ De Algemene Rekenkamer schrijft hierover dat er aanwijzingen zijn dat agenten BVH mijden of incidenten 
+‘lichter’ classificeren, zodat ze met een boete afgedaan kunnen worden en op die manier niet geregistreerd 
+hoeven te worden (zie Algemene Rekenkamer, 2011, p. 16). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  65

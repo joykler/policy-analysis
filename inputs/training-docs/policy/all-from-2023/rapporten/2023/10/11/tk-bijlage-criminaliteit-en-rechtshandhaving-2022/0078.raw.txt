@@ -1,0 +1,52 @@
+verdachten groter is dan 0 en bij de incidentcode is aangegeven dat een aangifte 
+niet verplicht is, en alle registraties met de incidentcode/maatschappelijke klasse 
+‘Doorrijden na ongeval’ of ‘Verlaten plaats ongeval’ en ‘Rijden onder invloed’. 
+Trendbreuk 
+• De nieuwe wijze van tellen (aanpassing van de CBS-telwijze aan GIDS/BVI) geeft 
+een trendbreuk in de cijferreeksen. Globaal bezien ligt het niveau van de geregis-
+treerde misdrijven binnen GIDS/BVI iets hoger. De trend in de ontwikkeling van de 
+geregistreerde criminaliteit blijft echter nagenoeg gelijk. Omdat het repareren van 
+de geconstateerde trendbreuk veel inspanning en tijd kost, is besloten om te 
+starten met een nieuwe reeks over de geregistreerde misdrijven, vanaf 2005.  
+Met behulp van statistische technieken zijn door het CBS de methodebreuken 
+onderzocht, geschat en vervolgens zijn hiermee gerepareerde reeksen gemaakt. 
+Het resultaat is gepubliceerd in StatLine, de statistische databank van het CBS.  
+Met de overgang van GIDS naar BVI is geen verschil ontstaan in de geregistreerde 
+misdrijven. Het aantal geregistreerde verdachten wordt wel op een andere manier 
+geteld waardoor van 2009 op 2010 een lichte trendbreuk optreedt. GIDS telde 
+alleen verdachten die gekoppeld waren aan het hoofdincident van een registratie. 
+BVI levert alle verdachten aan die aan incidenten zitten die een misdrijf zijn. 
+• Misdrijven die gemeld zijn in regionale eenheid ‘A’, maar gepleegd zijn in regionale 
+eenheid ‘B’, worden overgedragen aan regio ‘B’ en zodoende in beide regio’s 
+geregistreerd. Voor de verslagjaren 2005 t/m 2009 werd de registratie in regio ‘A’ 
+altijd verwijderd. Voor de verslagjaren na 2009 is het door nieuwe gedetailleerde 
+data mogelijk te controleren of de registratie voorkomt in regio ‘B’ alvorens de 
+registratie te verwijderen in regio ‘A’. Dit levert een trendbreuk op van 2009 ten 
+opzichte van 2010 en voor de jaren 2005 t/m 2009 een lichte onderschatting van 
+het werkelijke aantal geregistreerde misdrijven. 
+• Sinds halverwege 2015 is het mogelijk om alle misdrijven die gemeld worden bij 
+het Landelijk Meldpunt Internet Oplichting (LMIO) mee te tellen in de categorie 
+vermogensmisdrijven. Het gaat in 2015 om 25.000 misdrijven (fraude met online 
+handel). In 2016 42.000 misdrijven en in 2017 37.000 misdrijven. In voorgaande 
+jaren werden alleen opgehelderde misdrijven van het Landelijk Meldpunt Internet 
+Oplichting opgenomen in de BVI-cijfers. Hierdoor is er van 2014 op 2015 sprake 
+van een trendbreuk in de categorie vermogensmisdrijven en daarmee ook in het 
+totaal van de geregistreerde misdrijven. 
+• Sinds juli 2018 is het voor de politie niet meer mogelijk om meerdere delicten, die 
+verband met elkaar houden (samenloop), in één registratie vast te leggen. Een 
+voorbeeld hiervan is een straatroof waarbij een vuurwapen wordt gebruikt. Indien 
+in één registratie meerdere delicten voorkomen, werd vóór juli 2018 alleen het 
+zwaarste delict geteld. Als gevolg van deze aanpassing is bij een aantal delicten, 
+zoals wapenhandel en huisvredebreuk een toename zichtbaar ten opzichte van 
+2017. Voor 2018 veroorzaakt dit een stijging van circa 0,5%. Tevens kan dit een 
+opwaarts effect hebben op het ophelderingspercentage omdat het hier vaak gaat 
+om reeds opgehelderde delicten. 
+• Het ophelderingspercentage werd tot en met C&R 2014 berekend door van alle 
+geregistreerde misdrijven die gemeld werden in het verslagjaar, het deel van die 
+misdrijven te tellen dat werd opgehelderd (de zogenoemde cohortmethode). Omdat 
+opsporing tijd kost, komt het voor dat een misdrijf pas in een later verslagjaar 
+wordt opgelost. Het voorlopige ophelderingspercentage is hierdoor moeilijk te 
+vergelijken met het definitieve ophelderingspercentage, aangezien de misdrijven  
+bij het definitieve ophelderingspercentage langer de tijd hebben gehad om opgehel-
+derd te raken. Voor de verslagjaren vanaf verslagjaar 2012 is ervoor gekozen alle 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  78

@@ -1,0 +1,42 @@
+CJIB aanvullend ten opzichte van andere informatiebronnen die onder meer op 
+COMPAS zijn gebaseerd). 
+Eigendom en beheer 
+Houder en gegevensbeheerder is het CJIB. Het systeembeheer COMPAS is deels in 
+handen van Spir-it, een gemeenschappelijke ondersteunende organisatie van OM en 
+gerechten. De gegevens in de systemen van het CJIB zijn niet rechtstreeks toeganke- 
+lijk voor derden. Het CJIB is bij het beheer en het gebruik van de gegevens waarvan 
+het houder is, gebonden aan de privacywetgeving. 
+4.2 Registratie gevangeniswezen (TULP/GW, TULP/MIR, TULP/SI) 
+TULP/GW dient om het primaire proces in de inrichtingen van het gevangeniswezen te 
+ondersteunen.  
+Dagelijks wordt een deel van de gegevens die in TULP/GW worden geregistreerd, 
+‘overgeseind’ naar TULP/MIR (MIR=Management Informatie Reservoir). De afdeling 
+Beleid, cluster Analyse van DJI kan TULP/MIR bevragen met de module TULP/SI 
+(SI=Stuurinformatie). Deze module voorziet in de aanmaak van databestanden die 
+voor managementinformatie worden gebruikt. Een selectie uit deze databestanden 
+wordt vanaf 2004 door de afdeling Beleid/cluster Analyse ook aan het CBS geleverd op 
+grond van de Wet op de CBS. 
+Informatiegebied 
+De gegevens hebben betrekking op de gedetineerden en op de inrichtingen waarin zij 
+verblijven: personen, zaken, cellen, bestemmingen, doorlooptijden en aantal dagen 
+straf. Variabelen zijn onder andere: gegevens gedetineerden zoals insluitingstitel, 
+geslacht, geboortedatum; zaakgegevens zoals parketnummer, datum uitspraak, 
+opgelegde straf, parket van uitspraak; en inrichtingsgegevens zoals soort inrichting, 
+bestemming binnen de inrichting. Binnen TULP/GW is er een continue registratie. 
+Relaties met andere systemen 
+Een aantal basisgegevens van TULP/GW is opgeslagen in de DJI-brede Basisregistratie. 
+Deze Basisregistratie ontvangt en levert onder meer gegevens aan de SKDB (Straf-
+ketendatabase) en verzendt de registratie van wijzigingen in verblijf en de vonnis-
+gegevens binnen de strafketen. 
+Beperkingen 
+Het systeem TULP/GW is verouderd en daarmee voor verbetering vatbaar. In com-
+plexe gevallen moeten soms kunstgrepen worden toegepast, om het verblijf van 
+gedetineerden administratief te kunnen verwerken en de detentietermijnen te kunnen 
+bewaken. Er wordt gewerkt aan de opvolger van TULP/GW: BVJ (Basis Voorziening 
+Justitiabelen). 
+Eigendom en beheer 
+Houder van de informatie is het ministerie van Justitie en Veiligheid, divisie GW/VB. 
+Per inrichting of vestiging vindt de opslag van de gegevens plaats. Het beheer van het 
+systeem is in handen van de Justitiële ICT Organisatie te Gouda. Het systeem voldoet 
+aan de eisen van de Algemene verordening Gegevensbescherming (AVG).   
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  90

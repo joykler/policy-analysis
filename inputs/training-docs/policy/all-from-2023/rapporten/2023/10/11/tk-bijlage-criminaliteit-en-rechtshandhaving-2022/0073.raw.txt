@@ -1,0 +1,55 @@
+19
+respondenten (toentertijd waren er 25 politieregio’s). Het aantal respondenten voor 
+20
+de lokale onderzoeken varieert per jaar. 
+In de IVM worden vier verschillende interviewmodes gehanteerd. De benaderde 
+persoon wordt allereerst verzocht om de vragenlijst via internet te beantwoorden 
+(CAWI). De steekproefpersonen kunnen ook een schriftelijke vragenlijst opvragen en 
+invullen (PAPI). Steekproefpersonen die niet reageren, worden telefonisch benaderd 
+(CATI) als het telefoonnummer bij het CBS (of bij de lokale uitvoerenden) bekend is. 
+Als dat niet bekend is of als telefonische benadering niet lukt, worden die personen 
+alsnog persoonlijk benaderd (CAPI). In het landelijke/regionale deel worden alle 
+interviewmodes gebruikt; in de lokale onderzoeken zijn de (relatief dure) mondelinge 
+interviews met een bezoek door een enquêteur niet verplicht. Deze waarnemings-
+methode wordt daarom lokaal slechts op beperkte schaal toegepast. 
+Periodiciteit van de dataverzameling 
+De IVM is in deze opzet vanaf 2008 tot en met 2011 jaarlijks in het najaar uitgevoerd. 
+Vanaf het kalenderjaar 2012 zijn de opzet en de vraagstelling van de IVM ingrijpend 
+herzien (de beschrijving hiervan valt buiten het kader van de huidige publicatie). 
+Beperkingen 
+Door verschillen in onderzoeksdesign, waarnemingsmethode en vraagstelling zijn de 
+resultaten niet zonder meer vergelijkbaar met eerdere en andere slachtofferenquêtes 
+(PMB, POLS, ELV, VMR) en met de ICVS. Daarnaast kan er sprake zijn van steekproef-
+fouten, meetfouten en non-responsfouten. 
+Uit nadere analyses is gebleken dat de IVM-niveauschattingen over slachtofferschap en 
+ondervonden delicten (waaronder autodelicten) voor verbetering vatbaar zijn. Daarom 
+is de presentatie van alle IVM-cijfers over autodelicten voor alle jaren aangepast, is 
+aan alle IVM-cijfers over de omvang van slachtofferschap en ondervonden delicten  
+de status ‘voorlopig’ toegekend, en zijn de schattingen over absolute aantallen onder-
+vonden delicten (voorlopig) vervallen. Op basis van de herziening vanaf 2012 kunnen 
+eerdere niveauschattingen mogelijk alsnog worden aangepast. 
+Onderlinge vergelijking van relatieve IVM-cijfers naar plaats en tijd blijft wel mogelijk; 
+het onderzoeksinstrument is in de periode 2008-2011 immers niet veranderd. 
+Eigendom en beheer 
+Opdrachtgevers voor de IVM zijn het toenmalig ministerie van Veiligheid en Justitie en 
+het ministerie van BZK en het CBS. Het CBS draagt zorg voor de landelijke uitvoering 
+van de IVM; de uitvoering van de lokale enquêtes is ondergebracht bij de lokale 
+statistische onderzoeksbureaus of bij externe veldwerkbureaus. 
+De standaardrapportages (door het CBS) zijn gebaseerd op alle (landelijke/regionale 
+plus regionale) enquêtes samen. De lokale deelnemers krijgen hun eigen microdata 
+(waaronder de gevraagde achtergrondkenmerken), aangevuld met de door het CBS 
+verzamelde onderzoeksgegevens voor die regio/gemeente. Omdat alle indicatoren zijn 
+gestandaardiseerd, kunnen lokale instanties daarmee hun eigen rapportages hierop 
+afstemmen. 
+ 
+19
+ In het vierde kwartaal van 2008 bedroeg dit aantal netto 670 respondenten per politieregio. In totaal telde 
+deze landelijke/regionale uitvoering bijna 17.000 respondenten. 
+20 
+In de IVM 2008 participeerden zeven politieregio’s en (grotendeels in combinatie daarmee) rond tachtig 
+gemeenten in de lokale uitvoering, met in totaal bijna 46.000 respondenten. In de IVM-2009 lagen deze 
+aantallen met in totaal bijna 180.000 respondenten in 239 gemeenten verdeeld over 21 politieregio’s veel 
+hoger. In 2010 ging het om 21 participerende gemeenten in 7 regio’s, met in totaal bijna 20.000 respon-
+denten. In 2011, het laatste IVM-jaar met dit design, betrof het 225 gemeenten in 23 regio’s, met in totaal 
+ruim 200.000 respondenten. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  73

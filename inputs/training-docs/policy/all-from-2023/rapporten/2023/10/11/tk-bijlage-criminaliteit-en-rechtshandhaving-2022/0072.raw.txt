@@ -1,0 +1,50 @@
+WSA). Ook via het Centrum voor Beleidsstatistiek (CvB) van het CBS kunnen externe 
+onderzoekers (onder strikte voorwaarden) onderzoek verrichten op microdata van het 
+CBS. Daarnaast kunnen op aanvraag data beschikbaar worden gesteld (maatwerk). 
+De bestanden zijn niet herleidbaar tot personen. Daarom zijn er geen speciale 
+privacyreglementen van toepassing. 
+1.3 De Integrale Veiligheidsmonitor (2008-2011) 
+Informatiegebied 
+De doelpopulatie van de Integrale Veiligheidsmonitor bestaat uit de bevolking van 
+15 jaar en ouder in particuliere huishoudens in Nederland als geheel, in afzonderlijke 
+regio’s of in afzonderlijke gemeenten of delen, of combinaties daarvan. De IVM bestaat 
+uit een landelijke/regionale steekproef en lokale steekproeven, die tegelijkertijd 
+worden uitgevoerd. De landelijke/regionale uitvoering is gericht op betrouwbare 
+gegevens voor Nederland als geheel en voor de toenmalige25 afzonderlijke politie-
+regio’s; de lokale onderzoeken zijn daarnaast gericht op het verkrijgen van (extra) 
+informatie voor afzonderlijke politieregio’s of gemeenten, of onderdelen of combinaties 
+daarvan. 
+De vragenlijst van de IVM is modulair opgebouwd, met verplichte en facultatieve 
+vragenblokken. In het landelijke/regionale deel worden alle vragen opgenomen; op 
+lokaal niveau kunnen facultatieve blokken desgewenst worden weggelaten. Ook kan 
+lokaal een ‘vrij blok’ worden toegevoegd. 
+Verplichte blokken in de IVM zijn: de leefbaarheid van de woonomgeving, buurt-
+problemen, onveiligheidsgevoelens in verband met criminaliteit, slachtofferschap van 
+criminaliteit, en – indien nodig – achtergrondkenmerken. Vragen over aangifte bij de 
+politie van het meest recente voorval zijn facultatief, evenals vragen over algemene 
+contacten tussen burgers en politie, over het functioneren van de politie in de woon-
+buurt, over preventiemaatregelen tegen criminaliteit, en over respectloos gedrag en  
+de inzet van de gemeente voor de leefbaarheid en veiligheid. Van verschillende 
+soorten delicten en delictgroepen wordt vastgesteld hoeveel personen daarvan slacht-
+offer zijn geworden in de twaalf voorgaande maanden. Ook kan een schatting worden 
+gemaakt van het aantal delicten dat de inwoners in Nederland hebben ondervonden. 
+De volgende delicten worden onderscheiden: geweldsdelicten (seksuele delicten, 
+mishandeling, bedreiging); vermogensdelicten, zoals inbraak of een poging daartoe, 
+fietsdiefstal, autodiefstal, diefstal uit auto, zakkenrollerij met of zonder geweld en 
+overige diefstal; vandalisme (beschadiging aan/diefstal vanaf auto en overige ver-
+nielingen); overige delicten. 
+Kenmerken van respondenten of hun huishouden (zoals leeftijd, geslacht, opleidings-
+niveau, burgerlijke staat, huishoudensamenstelling, inkomen) worden voor het 
+landelijke/regionale deel zo veel mogelijk verkregen via koppeling met registerdata die 
+bij het CBS via het SSB beschikbaar zijn. Ook geografische achtergrondkenmerken 
+(zoals stedelijkheid van de woonomgeving en van de woongemeente) worden via een 
+dergelijke koppeling verkregen. Hierdoor ontstaan niet alleen uitgebreide mogelijk-
+heden tot nadere analyse, maar kan de beperkte beschikbare interviewtijd maximaal 
+worden benut voor relevante onderwerpgerichte vragen. Achtergrondgegevens voor 
+lokale enquêtes worden verkregen via additionele vragen en worden – indien nodig – 
+aangevuld met gegevens uit het SSB. 
+De IVM is gebaseerd op personensteekproeven, die zowel voor het landelijke/regionale 
+deel als voor de lokale enquêtes door het CBS worden getrokken uit de GBA. Jaarlijks 
+worden voor het landelijke/regionale deel in het vierde kwartaal per politieregio netto 
+ten minste 750 respondenten ondervraagd, wat resulteert in ten minste 18.750 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  72

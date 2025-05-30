@@ -1,0 +1,50 @@
+Er zijn verschillen in de reikwijdte van informatiesystemen. De CBS-slachtoffer-
+enquêtes gaan over misdrijven met individuele personen of huishoudens als 
+slachtoffer. Hiermee wordt dus niet het slachtofferschap gemeten onder rechts-
+personen. Ook de zogenoemde slachtofferloze delicten (bijvoorbeeld drugshandel) 
+blijven bij deze meting buiten beeld. 
+In tegenstelling tot de eerdergenoemde enquête bevat de registratie van de politie wel 
+de zogenoemde slachtofferloze misdrijven en delicten tegen rechtspersonen. 
+Anderzijds blijven veel misdrijven buiten de politieregistratie, meestal doordat ze niet 
+worden aangegeven of worden opgespoord. Daarnaast is het zo dat niet alle 
+opgespoorde delicten door de politie zijn opgespoord. Er zijn vier zogenoemde 
+‘bijzondere opsporingsdiensten’, elk met een eigen specifieke opsporingstaak: de 
+Fiscale Inlichtingen- en Opsporingsdienst/Economische Controledienst, de Sociale 
+Inlichtingen- en Opsporingsdienst, de Algemene Inspectiedienst en de Inspectie 
+Leefomgeving en Transport (ILT-IOD), voorheen VROM Inlichtingen- en Opsporings-
+dienst. 
+ 
+In de volgende paragrafen wordt ingegaan op de gebruikte gegevensbronnen, zoals 
+kenmerken van de bron, informatiegebied, de periodiciteit van de dataverzameling, de 
+relaties met andere informatiesystemen, privacyaspecten, beperkingen, eigendom en 
+beheer van de databron. 
+1 De slachtofferenquêtes 
+Er worden veel delicten gepleegd die niet in de officiële registraties worden opgeno-
+men: het slachtoffer heeft besloten om geen aangifte te doen, de politie kan alleen 
+maar een waarschuwing hebben gegeven, of het incident komt nooit aan het licht.  
+Om een beter beeld te krijgen van alle delicten, dus ook van het hierboven bedoelde 
+‘dark number’, kan aan een steekproef uit de bevolking of uit het bedrijfsleven worden 
+gevraagd naar slachtofferschap van criminaliteit. Ook onveiligheidsgevoelens en 
+andere aspecten in verband met criminaliteit kunnen via enquêtes in kaart worden 
+gebracht. 
+De eerste slachtofferenquête onder de bevolking in Nederland werd in 1973 gehouden 
+(Fiselier, 1978). In de periode 1973-1979 werd deze jaarlijks door het WODC uit-
+gevoerd (Van Dijk & Steinmetz, 1979). Sinds 1980 heeft het CBS – tot 1985 in overleg 
+met het WODC – dergelijke enquêtes regelmatig gehouden: in de periode 1981-1985 
+gebeurde dit jaarlijks, na 1985 telkens in de oneven jaren, via de Enquête Slachtoffers 
+Misdrijven (ESM). Met ingang van 1992 is de Enquête Rechtsbescherming en Veiligheid 
+(ERV) de opvolger van de ESM. Deze continue enquête is in 1997 als module Recht 
+opgenomen in het Permanent Onderzoek Leefsituatie (POLS), een continu CBS-onder-
+zoek naar verschillende aspecten van de leefsituatie van de Nederlandse bevolking. 
+Vanaf 2005 is deze module Recht binnen POLS vervallen. De belangrijkste onder-
+werpen zijn vanaf 2005 geïntegreerd in de Veiligheidsmonitor Rijk (VMR), die sinds 
+eind 2008 is overgegaan in de Integrale Veiligheidsmonitor (IVM, 2012; zie hieronder), 
+en die vervolgens in 2012 is opgevolgd door de Veiligheidsmonitor (VM, 2013, 2014, 
+2015, 2016, 2017, 2019; zie ook hieronder). 
+Sinds 1993 is in opdracht van de ministeries van Justitie en Binnenlandse Zaken en 
+Koninkrijksrelaties (BZK) de Politiemonitor Bevolking (PMB) uitgevoerd. Tot en met 
+2001 was de PMB een tweejaarlijks onderzoek. Van 2002 tot en met 2005 is de PMB 
+jaarlijks uitgevoerd. Ook de PMB is vanaf 2005 geïntegreerd in de VMR. 
+Vanaf 2005 zijn de belangrijkste onderwerpen uit de POLS-module Recht en uit de 
+PMB, samen met elementen uit de Enquête Leefbaarheid en Veiligheid (ELV; een 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  66

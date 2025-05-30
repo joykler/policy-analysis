@@ -1,0 +1,53 @@
+GIDS Geïntegreerde Interactieve Databank voor Strategische bedrijfsinformatie 
+GPS Geïntegreerd Processysteem 
+GPS-MI Geïntegreerd Processysteem Management Informatie 
+GW Gevangeniswezen 
+Halt Het Alternatief 
+HGK Herziening Gerechtelijke Kaart 
+HR Hoge Raad 
+ICVS International Crime Victims Survey 
+IFZO Informatiesysteem Forensische Zorg 
+ILT_IOD Inspectie Leefomgeving en Transport 
+IRIS Integraal Reclassering Informatiesysteem 
+IVBPR Internationaal Verdrag inzake Burgerrechten en Politieke Rechten 
+IVM Integrale Veiligheidsmonitor 
+JJI Justitiële Jeugdinrichtingen 
+JenV ministerie van Justitie en Veiligheid 
+JVS Jeugd Volg Systeem 
+KBPS kinderbescherming processysteem 
+KLPD Korps Landelijke Politiediensten 
+KMar Koninklijke Marechaussee 
+LIJ Landelijk Instrumentarium Jeugdstrafketen 
+LMIO Landelijk Meldpunt Internet Oplichting 
+LOVS Landelijk Overleg Vakinhoud Strafrecht 
+LPTV Landelijk Parket Team Verkeer 
+MCB Monitor Criminaliteit Bedrijfsleven 
+MIR Management Informatie Reservoir 
+MITS Management Informatie TBS 
+MvT memorie van toelichting 
+NFI Nederlands Forensisch Instituut 
+NIFP Nederlands Instituut voor Forensische Psychiatrie en Psychologie 
+NRGD Nederlands Register Gerechtelijk Deskundigen 
+OBJD Onderzoek- en Beleidsdatabase Justitiële Documentatie 
+OM Openbaar Ministerie 
+OMDATA Beleidsinformatiesysteem van het OM 
+OvJ officier van justitie 
+OW Opiumwet 
+P&V Plannings- & Verantwoordingscyclus 
+PaG Parket-Generaal van het Openbaar Ministerie 
+PI penitentiaire inrichting 
+PIJ plaatsing in een inrichting voor jeugdigen 
+PMB Politiemonitor Bevolking 
+POLS Permanent Onderzoek Leefsituatie 
+PP penitentiair programma 
+RAC Rapsody Centraal 
+RAC-min Rapsody Centraal Management Informatiesysteem 
+Rapsody Mangament Informatie Systeem op COMPAS 
+r-c rechter-commissaris 
+RDW Rijksdienst voor het Wegverkeer 
+ReIS Rechtspraak Informatie Systeem (primair processysteem van het 
+gerechtshof Arnhem-Leeuwarden) 
+RSJ Raad voor Strafrechtstoepassing en Jeugdbescherming 
+RvdK Raad voor de Kinderbescherming 
+Rvdr Raad voor de rechtspraak 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  131

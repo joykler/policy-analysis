@@ -1,0 +1,56 @@
+3.1 Verschillen met voorgaande edities van C&R en tussen organisaties 
+De gegevens in de huidige editie van C&R over vervolging en berechting zijn samen-
+gesteld door het WODC. Voorheen (tot en met de editie C&R 2016) werden deze cijfers 
+28,29
+door het CBS vervaardigd. Cijfers over vervolging en berechting worden daarnaast 
+ook gepubliceerd door het Parket-Generaal (PaG) van het Openbaar Ministerie, terwijl 
+de Raad voor de rechtspraak (Rvdr) ook gegevens over berechting publiceert. Alle vier 
+de organisaties maken hiervoor gebruik van COMPAS en GPS, maar de cijfers van deze 
+vier organisaties verschillen toch op onderdelen. Dat komt deels door definitieverschil-
+len, maar ook deels door verschillen in registraties en meetmomenten. Een aantal 
+(mogelijke) oorzaken voor de verschillen is duidelijk; deze worden hieronder toe-
+gelicht. Ook wordt beschreven wat de belangrijkste verschillen zijn ten opzichte van 
+C&R 2016 en eerder. 
+ 
+Allereerst verschilt de manier waarop de gegevens vanuit IVOM worden verkregen en 
+geleverd. Het CBS put met een interface direct uit GPS en COMPAS, terwijl de andere 
+organisaties gebruikmaken van beleidsinformatiesystemen. Zo gebruikt het PaG 
+Phoenix en het WODC een deelverzameling daaruit, genaamd RAC-min (zie ook 
+hierboven onder het kopje datawarehouse WODC). De Rvdr gebruikt de COMPAS-
+gegevens uit GPS-MI en heeft daarnaast een eigen waarneming uit GPS (InForm).  
+De CBS-statistiek, die de basis vormde voor alle voorgaande edities van C&R, was 
+gebaseerd op berichten die COMPAS en GPS van iedere zaak leveren op strikt gedefi-
+nieerde momenten bij inschrijving en afdoening. RAC-min, de bron van de cijfers in de 
+huidige editie, wordt op gezette tijden geactualiseerd vanuit COMPAS en GPS, en 
+weerspiegelt daardoor steeds de laatste stand van zaken. 
+ 
+Ten tweede verschillen de doelen van de organisaties, wat ook invloed op de cijfers 
+heeft. De Rvdr beoogt het beschrijven van de productie van de rechtspraak en telt 
+daarom alle vonnissen, dus ook bijvoorbeeld nietigverklaringen van de dagvaarding. 
+De overige drie organisaties richten zich op het (eind)resultaat van de berechting van 
+verdachten en gaan daarom uit van het laatste vonnis in een periode. Vergelijkbaar 
+hieraan rapporteert het PaG in het jaarbericht ook over de totale productie. Het PaG 
+telt in de cijfers daarom ook herinstroom mee (zaken die al eerder door het OM zijn 
+behandeld en opnieuw instromen omdat een herbeoordeling nodig is). Het WODC en 
+CBS gaan alleen uit van nieuwe instroom (in eerste aanleg) en tellen herinstroom niet 
+mee. Bij het tellen van de beslissingen van het OM gaan zij voor strafbeschikkingen uit 
+van de eerste beoordeling in een zaak. Vervolgbeslissingen na herinstroom worden 
+niet meegenomen. 
+ 
+Ten derde verschillen de meetmomenten en selectiedatums tussen de organisaties. 
+Het WODC en CBS tellen de afdoeningen rechter op de datum van het eindvonnis van 
+de (laatste) zitting, terwijl de Rvdr telt op de datum waarop de rechterlijke macht voor 
+de eerste maal akkoord is met de registratie van het vonnis. Het WODC en PaG tellen 
+de beslissingen OM op de datum afgehandeld (met uitzondering van de strafbeschik-
+kingen die worden geteld op de datum eerste beoordeling), terwijl het CBS verschil-
+lende soorten beslissingen op verschillende momenten telt (waaronder ook datum 
+ 
+28
+ Het CBS rapporteert nog wel over vervolging en berechting op Statline, zij het op minder gedetailleerd 
+niveau en gerelateerd aan achtergrondkenmerken van de betrokken verdachten Waar hieronder over 
+verschillen tussen de cijfers van het CBS en het WODC gesproken wordt, worden zowel de cijfers in de 
+vorige edities van C&R (C&R 2016 en eerder) als de cijfers die het CBS tot op heden op StatLine publiceert 
+bedoeld. 
+29
+ Zie voor de telwijze van het CBS bijlage 3 in C&R 2016 (Kalidien, 2017). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  86

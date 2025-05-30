@@ -1,0 +1,51 @@
+Correctie voor inflatie 
+De uitgaven aan sociale veiligheid worden gecorrigeerd voor inflatie. De publieke 
+uitgaven worden gecorrigeerd door ze te delen door de ontwikkeling van de collectieve 
+overheidsbestedingen ten opzichte van 2015. De publieke uitgaven worden gecorri-
+geerd door ze te delen door de ontwikkeling van de Consumenten Prijs Index ten 
+opzichte van 2015. Beide reeksen zijn op het open data portal van het CBS te vinden. 
+Data 
+Om tot een overzicht van de uitgaven aan criminaliteit te komen, zijn voor de belang-
+rijkste aanbieders op het gebied van sociale veiligheid gegevens over uitgaven, omzet, 
+productie, prijzen en werklast over de periode 2002-2019 verzameld. Er is gekozen om 
+alleen die aanbieders mee te nemen waarvoor sociale veiligheid een hoofdtaak is. De 
+financiële gegevens van aanbieders die sociale veiligheid niet als hoofdtaak hebben, 
+maar die wel bevoegd zijn om bestuurlijke boetes uit te delen, zijn niet meegenomen 
+in deze analyse. Indien aanbieders sociale veiligheid als één van de hoofdtaken hebben 
+en ook bevoegd zijn bestuurlijke boetes op te leggen, worden ook de uitgaven aan 
+bestuurlijke boetes meegeteld als uitgaven aan sociale veiligheid.  
+ 
+Als totale uitgaven worden in principe de totale lasten genomen zoals vermeld staat in 
+de jaarrekening/jaarverslag/jaarbericht/jaarstukken van de desbetreffende aanbieder. 
+Voor de baten-lastendiensten gaan we uit van de lasten zoals vermeld in de agent-
+schapsparagraaf in het jaarverslag van het moederdepartment. Indien geen lasten 
+bekend zijn, wordt uitgegaan van de bijdrage die het moederdepartment volgens haar 
+jaarverslag aan desbetreffende aanbieder heeft verstrekt. Soms zijn slechts over een 
+beperkte periode de lasten bekend. Indien de bijdrage van het moederdepartement 
+wel bekend is voor de jaren waarvoor de lasten niet bekend zijn, worden de lasten 
+geschat op basis van deze bijdrage. 
+ 
+Methodiek 
+Op basis van omzetgegevens wordt bepaald welk deel van de omzet sociale veiligheid 
+betreft of iets anders (bv. civiel of administratief recht, fysieke veiligheid). Vervolgens 
+wordt bekeken in welke ketenfases van de veiligheidsketen deze aanbieders actief zijn. 
+Voor aanbieders die in meerdere ketenfases actief zijn, wordt getracht de uitgaven  
+toe te rekenen naar ketenfase op basis van omzetgegevens per product(groep) of, 
+indien deze ontbreken, productiegegevens. Soms kan een deel van de omzet niet 
+toegerekend worden naar een specifieke ketenfase. Dit deel blijft dan buiten 
+beschouwing bij het berekenen van de aandelen. Impliciet betekent dit dat niet toe  
+te rekenen delen recht evenredig worden omgeslagen over de ketenfases waarin de 
+desbetreffende aanbieder actief is.  
+ 
+Tot slot wordt gekeken in hoeverre de uitgaven toegeschreven kunnen worden aan 
+bepaalde delicttypen (voor de indeling zie bijlage 2). Het aandeel per delicttype wordt 
+bepaald op basis van gewogen productiegegevens per delict en de bijbehorende 
+wegingsfactoren. De wegingsfactoren zijn meestal gebaseerd op kostprijzen of werk-
+lastmetingen. Indien geen delictgegevens beschikbaar zijn, wordt gebruikgemaakt van 
+algemene criminaliteitsgegegevens die het soort product of diens van de betreffende 
+aanbieder het best benaderen. De werkwijze is verder hetzelfde als bij de verdeling 
+over ketenfases.  
+ 
+Periodiciteit en meer informatie 
+De uitgaven aan sociale veiligheid betreffen gegevens over gehele verslagjaren.   
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  97

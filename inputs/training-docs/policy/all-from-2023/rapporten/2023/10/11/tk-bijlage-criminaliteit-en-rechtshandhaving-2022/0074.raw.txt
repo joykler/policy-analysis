@@ -1,0 +1,50 @@
+Bestanden zijn in principe voor gebruik door de opdrachtgevers. Het gebruik van deze 
+microdata vindt plaats conform de voorwaarden die hiervoor door het CvB worden 
+gehanteerd. 
+Gebruik door derden is na enige tijd mogelijk via DANS (voorheen WSA). Ook via het 
+CvB kunnen externe onderzoekers (onder strikte voorwaarden) onderzoek verrichten 
+op microdata van het CBS. Daarnaast kunnen op aanvraag data beschikbaar worden 
+gesteld (maatwerk). 
+De bestanden zijn niet direct herleidbaar tot personen. Daarom zijn er geen speciale 
+privacyreglementen van toepassing. 
+1.4 De Veiligheidsmonitor (vanaf 2012) 
+Informatiegebied 
+De doelpopulatie van de Veiligheidsmonitor vormt de bevolking van 15 jaar en ouder 
+in particuliere huishoudens in Nederland als geheel, in afzonderlijke regio’s of in 
+afzonderlijke gemeenten of delen of combinaties daarvan. De VM bestaat uit een 
+landelijke steekproef die voor een deel door het CBS en voor een deel door het externe 
+onderzoeksbureau I&O Research wordt uitgevoerd. Dit wordt aangevuld met jaarlijks 
+wisselende lokale steekproeven die door I&O Research in opdracht van lokale en 
+regionale overheden worden uitgevoerd. Het totaal aantal respondenten bedroeg 
+77.989 in 2012, 145.277 in 2013, 86.382 in 2014, 111.252 in 2015, 80.860 in 2016, 
+149.461 in 2017 en 135.481. Het aantal respondenten hiervan dat behoorde tot de 
+jaarlijks wisselende lokale steekproeven was 18.656 in 2012, 79.740 in 2013, 19.079 
+in 2014, 47.460 in 2015, 13.631 in 2016, 80.187 in 2017, en 63.486 in 2019.  
+De landelijke uitvoering was in 2012 gericht op betrouwbare gegevens voor Nederland 
+als geheel en voor de toenmalige 25 afzonderlijke politieregio’s. Naar aanleiding van 
+de inrichting van de Nationale politie per 1 januari 2013 met een nieuwe regionale 
+indeling in 10 Regionale eenheden, 43 Districten en 167 Basisteams is het steekproef-
+ontwerp van de VM in 2013 zodanig aangepast dat betrouwbare uitspraken op deze 
+nieuwe regionale niveaus kunnen worden gedaan. Ook voor gemeenten met meer dan 
+70.000 inwoners zijn betrouwbare uitspraken mogelijk. De lokale uitvoering van de VM 
+is gericht op het verkrijgen van (extra) informatie voor afzonderlijke regio’s van de 
+politie of gemeenten, of onderdelen of combinaties daarvan. 
+De vragenlijst van de VM is modulair opgebouwd. De vragenblokken zijn: leefbaarheid 
+van de woonbuurt, beleving overlast in de buurt, veiligheidsbeleving, slachtofferschap 
+(inclusief cybercrime) en aangiftegedrag, politiecontacten, functioneren politie in 
+buurt, functioneren politie in algemeen, functioneren gemeente, preventie, onveilige 
+plekken, respectloos gedrag, en achtergrondkenmerken. Voor lokale deelnemers aan 
+de Veiligheidsmonitor is aan het einde van de vragenlijst enige vrije ruimte beschik-
+baar voor eigen vragen. 
+Van verschillende soorten delicten en delictgroepen wordt vastgesteld hoeveel per-
+sonen daarvan slachtoffer zijn geworden in de twaalf voorgaande maanden. Ook kan 
+een schatting worden gemaakt van het aantal delicten dat de inwoners in Nederland 
+hebben ondervonden. Deze schatting van het aantal delicten is in de loop van 2013 
+beschikbaar gekomen. De volgende delicten worden onderscheiden: geweldsdelicten 
+(mishandeling, bedreiging, geweld met seksuele bedoelingen); vermogensdelicten, 
+zoals inbraak of een poging daartoe, fietsdiefstal, autodiefstal, diefstal uit of vanaf de 
+auto, diefstal van andere voertuigen, zakkenrollerij/­beroving of een poging daartoe, 
+en overige diefstal; vandalisme (vernielingen aan voertuigen en overige vernielingen, 
+bijvoorbeeld aan huis of tuin). Daarnaast worden in de VM ook voor het eerst delicten 
+op het gebied van computercriminaliteit of cybercrime onderzocht. Het gaat dan om 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  74

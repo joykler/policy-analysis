@@ -1,0 +1,59 @@
+Voor het tellen van alle beslissingen in een jaar, wordt gekeken naar de datum waarop 
+de beslissing is genomen. Voor bijna alle beslissingen (waaronder dagvaarden, sepo-
+neren en aanbieden transactie) is dit de datum van afdoening door het OM. Voor 
+strafbeschikkingen die worden opgelegd door het OM geldt dat niet de afdoenings-
+datum, maar de datum van de eerste beoordeling wordt gebruikt. Er worden hier dus 
+opgelegde strafbeschikkingen OM geteld, waarvan nog niet in alle gevallen bekend is 
+of ze al succesvol zijn afgerond. Deze zaken kunnen na verzet of mislukte executie 
+weer opnieuw instromen bij het OM. Eventuele vervolgbeslissingen na herinstroom 
+25
+worden niet meegenomen bij de beslissingen OM. Er worden dus alleen opgelegde 
+strafbeschikkingen OM geteld en geen beslissingen volgend op het mislukken of het 
+aangetekende verzet. Elke zaak komt als gevolg hiervan in de tellingen maar één keer 
+voor. Bijvoorbeeld: het OM legt een strafbeschikking op; de executie mislukt, waar-
+door de zaak opnieuw bij het OM terechtkomt; vervolgens zet het OM de strafbeschik-
+king om naar een voorwaardelijk sepot. De opgelegde strafbeschikking wordt 
+meegeteld in de beslissingen OM; het voorwaardelijk sepot wordt niet meegeteld. 
+ 
+Niet alleen het OM kan strafbeschikkingen opleggen. Ook het CJIB kan namens het OM 
+26
+strafbeschikkingen opleggen. Ook tegen deze door het CJIB opgelegde strafbeschik-
+kingen, kan verzet worden aangetekend of de executie kan mislukken. In dergelijke 
+gevallen wordt de zaak naar het OM gestuurd. Het OM beoordeelt de zaak opnieuw en 
+kan elke mogelijke beslissing nemen. Deze beslissingen worden wel meegeteld in de 
+beslissingen OM. Het gaat hier namelijk niet om herinstroom, maar om een eerste 
+(primaire) instroom bij het OM: het OM heeft nog niet eerder een beslissingen in de 
+zaak genomen. Voor het tellen van de vervolgbeslissing wordt gekeken naar de 
+afdoeningsdatum. Ook als de vervolgbeslissing een strafbeschikking OM is, wordt deze 
+geteld op de datum afdoening, en niet zoals de strafbeschikkingen OM waaraan geen 
+andere strafbeschikking vooraf is gegaan, op de datum eerste beoordeling. Een voor-
+beeld: het CJIB legt namens het OM een strafbeschikking op; de verdachte gaat 
+hiertegen in verzet bij het OM; het OM beoordeelt de zaak opnieuw en besluit om in  
+de zaak een strafbeschikking op te leggen; de strafbeschikking wordt meegeteld in  
+de beslissingen OM op de afdoeningsdatum. Een ander voorbeeld: het OM legt een 
+strafbeschikking op; de verdachte gaat daartegen in verzet, waardoor de zaak opnieuw 
+bij het OM terechtkomt; het OM roept de verdachte op ter terechtzitting; de opgelegde 
+strafbeschikking wordt meegeteld in de beslissingen OM op de beoordelingsdatum; de 
+oproeping ter terechtzitting wordt niet meegeteld. 
+ 
+Bij het tellen van de beslissingen wordt verondersteld dat GPS en COMPAS steeds de 
+laatste beslissing van het OM wordt geregistreerd, maar dit blijkt niet altijd het geval 
+te zijn. Vooral bij strafbeschikkingen opgelegd door het CJIB die instromen bij het OM 
+na verzet of mislukte executie, blijft de tussenbeslissing (die van de oorspronkelijke 
+strafbeschikking) staan terwijl het OM in dergelijke gevallen altijd een nieuwe vervolg-
+beslissing neemt. Deze vervolgbeslissing wordt niet altijd goed geregistreerd. In deze 
+gevallen is de laatst geregistreerde beslissing niet per definitie de laatst genomen 
+beslissing in de zaak. Deze zaken worden als gevolg hiervan geteld met een afdoening 
+onbekend. Met behulp van aanvullende velden uit het DWH is het meestal mogelijk om 
+de uiteindelijke eindbeslissing van het OM af te leiden, maar er is voor gekozen om, 
+conform de werkwijze van het PaG, geen correctie toe te passen op de geregistreerde 
+beslissing. Aangezien de door het OM genomen vervolgbeslissing vaak dagvaarden is, 
+ 
+25
+ Wordt wel rekening gehouden met deze herinstroom dan valt onder andere het aantal oproepingen ter 
+terechtzitting naar aanleiding van een verzet tegen een OM-strafbeschikking hoger uit. 
+26
+ Het CJIB legt voornamelijk strafbeschikkingen op voor dronken rijden, waarvoor vaste tarieven gelden. Bij 
+deze strafbeschikkingen wordt ook een kleinere groep strafbeschikkingen geteld die door andere instanties 
+worden opgelegd en die het CJIB executeert, zoals politiestrafbeschikkingen. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  83

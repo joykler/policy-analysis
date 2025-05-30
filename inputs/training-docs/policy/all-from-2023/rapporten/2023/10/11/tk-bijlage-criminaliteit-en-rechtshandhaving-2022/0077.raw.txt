@@ -1,0 +1,51 @@
+Wijze van aanleveren 
+Het Politiedienstcentrum verstrekt gegevens uit de registraties van de tien regionale 
+eenheden en de Landelijke Eenheid via de landelijke politiedatabank BVI. In de periode 
+tussen juni 2008 en december 2009 zijn alle eenheden overgegaan op het systeem 
+Basisvoorziening Handhaving (BVH), waaraan de gegevens voor GIDS en BVI worden 
+onttrokken. Voorheen waren de gegevens afkomstig uit de basisprocessensystemen 
+BPS, Xpol en Genesys. Het BPS-systeem werd in negentien regiokorpsen gebruikt, het 
+Xpol-systeem in vijf korpsen. Het regiokorps Haaglanden gebruikte het 
+registratiesysteem Genesys. 
+De KMar gebruikt nog steeds het registratiesysteem BPS en levert het CBS per kwar-
+taal een bestand met daarin gegevens van alle in BPS gemelde incidenten (misdrijven 
+en overige incidenten). 
+Voordelen nieuwe wijze van aanleveren 
+De levering van gegevens uit GIDS en BVI kent een aantal voordelen: 
+• De uitkomsten zijn vollediger en op regioniveau beter vergelijkbaar, omdat bijna 
+alle berichtgevers de informatie nu op dezelfde wijze en op hetzelfde tijdstip 
+leveren. 
+• Dubbeltellingen worden voorkomen. Misdrijven die ter kennis komen in regio A, 
+maar gepleegd zijn in een andere regio, worden in beide regio’s geregistreerd. 
+Voorheen leidde dit tot dubbeltellingen. Binnen GIDS en BVI is dit probleem 
+opgelost en wordt het misdrijf geteld in de regio van plegen. 
+• Door de telwijze van GIDS en BVI over te nemen, zijn de CBS- en politiecijfers van 
+de geregistreerde misdrijven nu onderling vergelijkbaar. Strafbare feiten waarvan 
+geen aangifte was gedaan, maar die wel een verdachte en/of slachtoffer kenden, 
+telde het CBS voorheen niet mee als geregistreerd misdrijf. Binnen GIDS en BVI 
+worden deze feiten echter wel als misdrijf geregistreerd. 
+• De indeling van misdrijven in hoofd- en subcategorieën is aangepast, verbeterd en 
+uitgebreid doordat van alle regio’s gegevens per feitcode worden ontvangen. 
+Wijze van tellen 
+In het onderzoek tellen de volgende gegevens mee: 
+• Regionale eenheden en de Landelijke Eenheid: alle misdrijven volgens de definitie 
+van GIDS/BVI met een incidentcode/maatschappelijke klasseaanduiding die voor-
+komt in de ‘Standaardclassificatie misdrijven (Politie) 2010’ (SCM2010) van het 
+CBS; plus alle incidenten volgens GIDS/BVI (misdrijven en overige incidenten) met 
+de incidentcode/maatschappelijke klasseaanduiding ‘Verlaten plaats ongeval’ of 
+‘Rijden onder invloed’. Misdrijven die gemeld zijn in een regio maar gepleegd zijn in 
+een andere regio, worden overgedragen aan de regio van plegen en zodoende in 
+beide regio’s geregistreerd. Als misdrijven zijn overgedragen aan een andere regio 
+wordt alleen de registratie in de regio van plegen in het onderzoek meegenomen. 
+Misdrijven waarvan de gemeente van plegen onbekend is, worden toegedeeld aan 
+de regio van melden en krijgen de indicatie ‘gemeente van plegen onbekend’. 
+• Regiokorps Haaglanden: regiokorps Haaglanden heeft tot de invoering van BVH 
+eind 2009 de gegevens ten behoeve van het CBS ontleend aan Genesys met behulp 
+van het programma ‘CBS Tellen’. Dit programma produceerde geaggregeerde 
+gegevens per gemeente, die ongewijzigd werden meegeteld. Inmiddels zijn van 
+Haaglanden gegevens over de periode 2005-2009 ontvangen en verwerkt die beter 
+aansluiten bij de gehanteerde meetwaarde. 
+• KMar (BPS): alle registraties met ten minste één incident dat voorkomt in de 
+SCM2010, waarbij het veld ‘aangifte’ de waarde ‘J’ heeft en bij de incidentcode is 
+aangegeven dat een aangifte verplicht is, en de registraties waarbij het aantal 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  77

@@ -1,0 +1,50 @@
+ligt het geregistreerde, en daarmee gerapporteerde, aantal dagvaardingen lager dan 
+het werkelijke aantal. 
+Instroom OM en beslissingen OM voor overtredingen 
+De instroom OM en beslissingen OM voor overtredingen in hoofdstuk 6 worden in 
+principe geteld op feitniveau en niet op zaaksniveau (zoals de instroom en uitstroom 
+bij de misdrijven). Voor overtredingen worden alle kantonfeiten uit het DWH geselec-
+teerd waarvan de datum van registratie in het betreffende jaar ligt. De kantonfeiten 
+van zaken die zijn overgeheveld vanuit GPS naar COMPAS en kantonfeiten van zaken 
+die zijn overgedragen naar een ander parket worden, net als bij de misdrijfzaken, niet 
+meegeteld bij de instroom OM en beslissingen OM. Het soort beslissing van het OM 
+wordt bepaald op basis van de afdoening van het feit, en de beslissing wordt geteld op 
+de datum afdoening van het feit. Een uitzondering hierop zijn de strafbeschikkingen 
+OM. Net zoals bij de misdrijfzaken wordt er alleen gekeken naar opgelegde straf-
+beschikkingen OM op basis van de geregistreerde eerste beoordeling. Deze wordt 
+echter niet op feitniveau geregistreerd. Daarom wordt er naar de eerste beoordeling 
+van de zaak gekeken. Oproepen tot verzet worden ook niet op feitniveau geregistreerd 
+en worden daarom ook op basis van zaaksgegevens vastgesteld. 
+Afdoeningen rechter 
+Het OM kan een zaak voor de rechter brengen. Deze neemt een beslissing in de zaak, 
+bijvoorbeeld een schuldigverklaring met strafoplegging of ontslag van (alle) rechts-
+vervolging. Als een verdachte schuldig is bevonden, kan de rechter besluiten één 
+enkele straf of maatregel op te leggen of een combinatie van straffen en maatregelen. 
+Daardoor komt het aantal opgelegde sancties (straffen en maatregelen) hoger uit dan 
+het aantal schuldigverklaringen. In sommige tabellen in hoofdstuk 5 is de teleenheid 
+eindvonnis per zaak, maar in andere tabellen straf of maatregel (daarin komen zaken 
+met meerdere straffen vaker voor). Merk op dat in tabel 6.5 (en 6.16) niet alle 
+mogelijke maatregelen zijn opgenomen, en deze tabel dus geen compleet beeld geeft 
+van het totaal aantal opgelegde sancties. Het soort beslissing wordt bepaald door te 
+kijken naar het eindvonnis door de rechter. Dit eindvonnis wordt in het DWH afgeleid 
+uit de informatie die beschikbaar is over de zittingen in een zaak. Bij het tellen van de 
+afdoeningen door de rechter worden alle rechtbankzaken uit het DWH geselecteerd, 
+waarvan de datum eindvonnis in het betreffende jaar ligt. 
+ 
+Het gaat om alle zaken die bij de rechter worden aangebracht en waarin een eind-
+beslissing wordt genomen door de rechter. Dit betekent dat zaken waarin de rechter 
+besluit om de zaak naar een ander forum te verwijzen of de dagvaarding nietig te 
+verklaren, niet worden meegenomen. Voor elke zaak wordt alleen het laatste eind-
+vonnis in een zaak geteld. In sommige gevallen, bijvoorbeeld bij een uitspraak OM  
+niet ontvankelijk, kan het zijn dat er op een eerste eindvonnis later nog een ander 
+eindvonnis volgt. In dat geval wordt alleen het laatste vonnis geteld. Net zoals bij  
+de beslissingen OM kunnen hierdoor verschuivingen in de tellingen over de jaren 
+optreden. Ook zaken waarbij op de beslissing van de rechter nog een afdoening door 
+het OM volgt, bijvoorbeeld als de rechter het OM niet ontvankelijk verklaart en het OM 
+vervolgens besluit de zaak te seponeren, worden niet meegeteld in de afdoeningen 
+rechter. Zaken die ter zitting door de rechter worden samengevoegd met een andere 
+zaak (de beslissing in deze eerste zaak is dan ‘voeging ter zitting’, terwijl de beslissing 
+in de andere zaak iets anders is) worden niet meegenomen in de afdoeningen rechter. 
+De uitspraak in de zaak waarbij gevoegd is, wordt wel meegenomen. Bij deze manier 
+van tellen worden er ook zaken in de afdoeningen rechter geteld die ook al geteld zijn 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  84

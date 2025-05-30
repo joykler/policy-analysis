@@ -1,0 +1,50 @@
+geregistreerd in GPS. COMPAS wordt op dit moment voornamelijk alleen nog gebruikt 
+om oudere zaken af te ronden. 
+ 
+RAC-min bevat een deelverzameling van de gegevens in Phoenix; het bevat minder 
+informatiegebieden dan Phoenix. Het doel van RAC-min is te voorzien in de landelijke 
+informatiebehoefte en te voldoen aan de gegevensvraag vanuit het wetenschappelijk 
+onderzoek op het gebied van vervolging en berechting.  
+ 
+Het WODC pleegt voortdurend onderhoud op het DWH en voert indien nodig kleine en 
+grotere verbeteringen door. Zo kunnen binnen de delictindeling op sommige plekken 
+kleine verschuivingen optreden, omdat door het WODC actief onderhoud wordt 
+gepleegd op de indeling van zaken op basis van geregistreerde wetsartikelen, ook met 
+terugwerkende kracht voor zaken uit eerdere jaren. 
+Informatiegebied  
+RAC-min biedt informatie over de instroom van zaken bij het OM en over de afhan-
+deling van die zaken door het OM en door de rechter in eerste aanleg. Per zaak is 
+uitgebreide informatie beschikbaar over de aard van de gepleegde feiten, de ver-
+schillende handelingen en beslissingen in de zaak door het OM en de rechter, en de 
+opgelegde straffen en maatregelen. 
+Periodiciteit van de dataverzameling 
+De voorloper van Phoenix, Rapsody, is in de loop van 1993 ingevoerd, waarbij alle op 
+dat moment nog lopende zaken zijn opgenomen. RAC-min geeft daarmee een volledig 
+beeld van alle afdoeningen sinds 1994. Doordat het onderliggende systeem Rapsody in 
+de loop van de jaren steeds verder is ontwikkeld, is de informatie in RAC-min over 
+recente zaken gedetailleerder dan die over de zaken die in de eerste jaren zijn 
+geregistreerd. 
+ 
+RAC-min wordt viermaal per jaar door de dienstverleningsorganisatie van het OM 
+(DVOM) beschikbaar gesteld aan het WODC. De leveringen vinden in de regel plaats in 
+januari, april, juli en oktober. Bij iedere datalevering worden de eerdere data als ook 
+de bijbehorende afleidingen in het DWH in zijn geheel ververst. Deze keuze is gemaakt 
+omdat GPS en COMPAS levende registratiesystemen zijn. Dit betekent dat bepaalde 
+velden worden overschreven omdat er nieuwe beslissingen zijn genomen in een zaak 
+of doordat de eerdere invoer niet correct was. Eerdere beslissingen in een zaak worden 
+daarbij niet bewaard en situaties uit oudere jaren worden niet bevroren. De gepubli-
+ceerde gegevens in deze uitgave zijn hiermee dus een weergave van de stand van 
+zaken op het moment van levering door DVOM. Voor deze publicatie is dat april 2023. 
+ 
+In het verlengde hiervan zijn alle reeksen in hoofdstuk 4 en 5 compleet voor alle jaren 
+ververst. Er kunnen daardoor kleine verschuivingen optreden ten opzichte van de 
+reeksen in C&R 2021, onder andere doordat in de primaire bronsystemen beslissingen 
+in een eerder jaar zijn overschreven door een recentere beslissing. Deze beslissingen 
+worden daardoor geteld in een ander (later) jaar. 
+Wijze van tellen 
+Voor de misdrijfzaken (hoofdstukken 4 en 5) geldt dat alleen zaken uit het DWH van 
+het WODC worden geselecteerd die als rechtbankzaak zijn geregistreerd. Deze zaken 
+hebben de indicatie R voor rechtbank (is ten minste één feit een Rechtbankfeit dan is 
+de indicator R; gaat het alleen om Kantonfeiten dan is de indicator K). De teleenheid is 
+over het algemeen zaak, maar in bepaalde gevallen beslissing of sanctie. Voor over-
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  81

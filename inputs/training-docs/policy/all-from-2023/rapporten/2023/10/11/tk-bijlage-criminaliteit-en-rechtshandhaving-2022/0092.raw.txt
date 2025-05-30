@@ -1,0 +1,45 @@
+4.4 Registratie tbs-gestelden 
+MITS (Management Informatie TBS) dient om het primaire proces ’van alle tbs-
+aanbieders de afdeling Plaatsing van DIZ te ondersteunen. MITS is een landelijke 
+applicatie bestaande uit een centrale database en lokale databases, die middels 
+datacommunicatie aan elkaar zijn gekoppeld. 
+De landelijke applicatie wordt beheerd door de Justitiële ICT Organisatie (JIO) te 
+Gouda. Via een dump worden dagelijks gegevens ingelezen in het EPD van DJI (de 
+applicaties USER en MicroHIS). Eén keer per week worden gegevens ingelezen in de 
+applicatie MIP TBS. 
+Informatiegebied 
+De gegevens hebben betrekking op tbs-gestelden en de tbs-aanbieders waar zij ver-
+blijven. Het betreft onder andere het vonnis, de uitspraak, de insluitingstitel van de 
+terbeschikkingstelling, het administratief verblijf en het fysieke verblijf. Kenmerken 
+zijn onder andere: tbs-maatregel, geslacht, geboortedatum, vonnisgegevens zoals  
+het parketnummer, datum uitspraak, het aantal verlengingsprocedures, opgelegde 
+straf en maatregel, verblijfsgegevens, verlofmachtigingen, incidenten en opgelegde 
+maatregelen. 
+Relaties met andere systemen 
+Een aantal basisgegevens van MITS is opgeslagen in de nieuwe DJI-brede Basisregis-
+tratie. Deze Basisregistratie ontvangt en levert onder meer gegevens aan SKDB 
+(Strafketendatabase) en verzendt de registratie van wijzigingen in verblijf en de 
+vonnisgegevens binnen de strafketen. 
+MITS, IFZO en FCS 
+MITS is een applicatie die uitsluitend is bedoeld voor de tenuitvoerlegging van een  
+tbs-maatregel. 
+De (particuliere) FPC’s hebben naast MITS hun eigen EPD-systemen (zoals USER) om 
+de DBBC’s in te registreren en te factureren. DForZo ontvangt deze facturen in FCS 
+(Facturale Controle Systeem), controleert deze onder andere met de indicatie en 
+plaatsing uit IFZO (Informatiesysteem Forensische Zorg) en stelt deze via Leonardo 
+(financieel systeem DJI) betaalbaar aan de FPC. 
+Eigendom en beheer 
+Houder van de informatie is het ministerie van Justitie en Veiligheid, Directie Foren-
+sische Zorg. Per FPC-complex vindt de opslag van de gegevens in de lokale database 
+en de centrale database plaats. Het beheer van het systeem is in handen van SSC-I 
+DJI te Gouda. Het systeem voldoet aan de eisen van de AVG. 
+4.5 Registratie 3RO (CVS/IRIS) 
+IRIS, het Integraal Reclassering Informatiesysteem, is het ondersteunend systeem 
+voor het primaire proces van de drie reclasseringsorganisaties (3RO). De verstrekte 
+gegevens worden uit IRIS gehaald door middel van een aantal standaardoverzichten 
+en ad hoc bevragingen. IRIS is sinds 28 november 2011 de vervanger van het 
+primaire processysteem CVS (ClientVolgSysteem) van de 3RO. 
+Informatiegebied 
+In IRIS worden de opdrachten aan de 3RO geregistreerd met cliëntgegevens en de 
+(geplande) reclasseringsactiviteiten. Dit geldt voor alle reclasseringsproducten: 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  92

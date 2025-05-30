@@ -1,0 +1,48 @@
+Vanaf 2008 is ook een DWH beschikbaar dat dagelijks (i.c. elke nacht na een werkdag) 
+een groot aantal gegevens aan KBPS onttrekt en bewerkt tot een eenvoudiger te 
+bevragen dataset. Bij deze bewerking vindt geen inhoudelijke aanpassing plaats. 
+Aan de implementatie van KBPS is een conversieslag voorafgegaan uit het toenmalige 
+primaire processysteem (KIS). Hierbij is voor alle zaken een beperkte set gegevens 
+overgezet, waardoor KBPS en daarmee DWH ook van zaken van voor 2006 de meest 
+essentiële gegevens bevat. 
+KBPS, en DWH als afgeleide, voldoen aan de eisen van de AVG. 
+4.7 Registratie Halt 
+Halt registreert alle ontvangen verwijzingen in JOIN. Voorheen was er een ander 
+zakensysteem genaamd AuraH (Automatische Uniforme Registratie Applicatie Halt).  
+In deze systemen werd en wordt de uitvoering van elke Halt-straf geregistreerd en 
+gevolgd. Belangrijkste doel van het systeem is het ondersteunen en volgen van het 
+proces van uitvoering van de straf. Uit de registratie van alle gegevens is het mogelijk 
+data te verzamelen en te verwerken voor analyse. 
+In JOIN wordt per verwijzing geregistreerd welke acties wanneer zijn uitgevoerd en 
+met welk resultaat. De bron voor de registratie is het proces-verbaal dat wordt 
+toegestuurd door de verwijzende instantie. Hieruit worden de persoons- en delict-
+gegevens handmatig overgenomen. 
+De registratie start met het inschrijven van een zaak; Halt hanteert de datum 
+inschrijving voor het verzamelen van gegevens. De datum van het delict, het eerste 
+verhoor en de datum ontvangst bij Halt worden wel geregistreerd en gebruikt bij het 
+bepalen van de gerealiseerde doorlooptijden. Het systeem controleert op basis van de 
+ingevoerde gegevens of de verwijzing aan de Halt-criteria voldoet en in behandeling 
+genomen kan worden. De registratie volgt vanaf dat moment de processtappen bij de 
+uitvoering van de straf, alle relevante data worden geregistreerd. De zaak wordt 
+afgerond met het administratief afsluiten en verzenden van het afloopbericht aan de 
+verwijzer. Zaken die niet in behandeling worden genomen, worden direct afgesloten. 
+De verwijzer wordt hiervan op de hoogte gesteld. Deze zaken worden niet meegeteld 
+bij rapportages. Indien relevant wordt alleen het aantal vermeld. 
+JOIN is alleen toegankelijk voor medewerkers van Halt die daarvoor geautoriseerd zijn 
+en heeft geen automatische koppelingen met andere registratiesystemen. 
+5 Gegevens van de Raad voor de rechtspraak 
+De gegevens over de strafrechtelijke afdoening van kantonstrafzaken zijn afkomstig 
+uit de primaire systemen van de gerechten in Nederland. In hun lokale gegevens-
+systemen wordt informatie bijgehouden voor de procedurele afhandeling van de zaak, 
+bijvoorbeeld welke partijen erbij zijn betrokken, welke stukken zijn ingediend, maar 
+ook of en wanneer bepaalde ‘statusovergangen’ (zitting, comparitie enz.) of acties zijn 
+genomen. De belangrijkste gegevens uit de lokale gegevenssystemen worden perio-
+diek verzameld en geaggregeerd tot landelijke totalen. Dit gebeurt in het kader van de 
+Plannings- & Verantwoordingscyclus (P&V) en wordt gepresenteerd in publicaties zoals 
+het Jaarverslag van de Rechtspraak en de rapportage Kengetallen gerechten. Zoals 
+gezegd, zijn deze P&V-gegevens geaggregeerd. De gegevens uit de lokale systemen 
+worden tegenwoordig ook afgeslagen naar een zogenoemd DataWareHouse (DWH). 
+Voor sommige tabellen is gebruikgemaakt van detailinformatie die afkomstig is uit  
+dit DWH, het primaire processysteem ReIS (Rechtspraak Informatie Systeem) van 
+gerechtshof Arnhem-Leeuwarden, en het gegevenssysteem GPS-MI (zie ook para-
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  94

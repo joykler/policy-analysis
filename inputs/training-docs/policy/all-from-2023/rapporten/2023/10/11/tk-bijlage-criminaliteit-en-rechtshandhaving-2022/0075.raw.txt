@@ -1,0 +1,49 @@
+identiteitsfraude, koop- en verkoopfraude, hacken, en pesten via het internet, ook wel 
+cyberpesten genoemd. 
+Kenmerken van respondenten of hun huishouden (zoals leeftijd, geslacht, opleidings-
+niveau, burgerlijke staat, huishoudensamenstelling, inkomen) worden voor het 
+landelijke/regionale deel zo veel mogelijk verkregen via koppeling met (geanonimi-
+seerde) registerdata die bij het CBS via het SSB beschikbaar zijn. Ook geografische 
+achtergrondkenmerken (zoals stedelijkheid van de woonomgeving en van de woon-
+gemeente) worden via een dergelijke koppeling verkregen. Hierdoor ontstaan niet 
+alleen uitgebreide mogelijkheden voor nadere analyse, maar kan de beperkte 
+beschikbare interviewtijd maximaal worden benut voor relevante onderwerpgerichte 
+vragen. Achtergrondgegevens voor lokale enquêtes worden verkregen via additionele 
+vragen en worden – indien nodig – aangevuld met gegevens uit het SSB. 
+De VM is gebaseerd op personensteekproeven, die zowel voor het landelijke deel als 
+voor de lokale enquêtes door het CBS worden getrokken uit de Basisregistratie 
+Personen. 
+In de VM worden twee verschillende interviewmodes gehanteerd, namelijk internet en 
+papier. De benaderde persoon wordt allereerst per aanschrijfbrief verzocht om de 
+vragenlijst via internet te beantwoorden. Twee weken na verzending van de aan-
+schrijfbrief worden de non-respondenten gerappelleerd en wordt tevens een schrifte-
+lijke vragenlijst toegevoegd. Twee weken na de eerste rappelbrief wordt een tweede 
+rappelbrief verzonden met het verzoek de vragenlijst alsnog via internet of op papier 
+in te vullen. Anderhalve week na deze tweede brief volgt nog een telefonisch rappel 
+onder personen van wie een telefoonnummer beschikbaar is. Verder heeft alleen het 
+CBS nog een beperkt aantal non-respondenten, waarvan geen telefoonnummer 
+beschikbaar was, na het tweede rappel aan huis bezocht. Dit gebeurde bij wijze van 
+experiment alleen in 2012, waarbij van ruim 1.200 personen onderzoeksgegevens zijn 
+verzameld. 
+Periodiciteit van de dataverzameling 
+De VM wordt in deze opzet vanaf 2012 jaarlijks in het najaar (periode augustus t/m 
+november) uitgevoerd. In 2017 is besloten de VM voortaan tweejaarlijks uit te voeren. 
+De VM 2019 is het eerste onderzoek in deze nieuwe uitvoeringsfrequentie. 
+Beperkingen 
+Door verschillen in onderzoeksdesign, waarnemingsmethode en vraagstelling zijn de 
+resultaten niet zonder meer vergelijkbaar met eerdere en andere slachtofferenquêtes 
+(PMB, POLS, ELV, VMR, IVM) en met de ICVS. Daarnaast kan er sprake zijn van 
+steekproeffouten, meetfouten en non-responsfouten. 
+Eigendom en beheer 
+Opdrachtgevers voor de VM zijn het ministerie van Justitie en Veiligheid (JenV) en het 
+CBS. Het CBS draagt zorg voor de landelijke uitvoering van de VM; de uitvoering van 
+de lokale enquêtes is ondergebracht bij het externe onderzoeksbureau I&O Research. 
+De eerstgenoemde opdrachtgevers hebben een Raad voor de Veiligheidsmonitor 
+ingesteld, die in algemene zin toezicht uitoefent op de uitvoering van de VM. In deze 
+raad zijn behalve de opdrachtgevers ook instanties vertegenwoordigd als de G4, de 
+G32, Politie en het WODC. Het CBS verzorgt sinds 2016 de coördinatie en facilitering 
+van de regionale en lokale onderzoeken. 
+De standaardrapportages (door het CBS) zijn gebaseerd op alle (landelijke plus lokale) 
+enquêtes samen. De lokale deelnemers krijgen hun eigen microdata (waaronder de 
+gevraagde achtergrondkenmerken), aangevuld met de landelijk verzamelde onder- 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  75

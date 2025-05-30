@@ -1,0 +1,53 @@
+bij de beslissingen OM, namelijk de dagvaardingen en de strafbeschikkingen OM die 
+voor de rechter komen. 
+ 
+Met betrekking tot sancties, worden alleen sancties die door de rechter in eerste 
+aanleg zijn opgelegd geteld. Hierin verschillen de cijfers tussen hoofdstuk 5 en 
+hoofdstuk 7, waar het gaat om tenuitvoergelegde sancties (dit kunnen ook sancties 
+zijn die na een hoger beroep zijn opgelegd). 
+De getelde detentieduur is het deel van een door de rechter opgelegde onvoorwaarde-
+lijke vrijheidsstraf dat ook daadwerkelijk moet worden uitgezeten. De detentieduur van 
+een onvoorwaardelijke vrijheidsstraf wordt berekend door van de opgelegde strafduur 
+de tijd af te trekken die op grond van de vervroegde of voorwaardelijke invrijheidstel-
+ling mogelijk niet zal worden uitgezeten. Zo wordt (een benadering van) de werkelijk 
+uit te zitten tijd verkregen. Per jaar kan de totale detentieduur van alle in dat jaar 
+opgelegde onvoorwaardelijke vrijheidsstraffen worden berekend door alle detentie-
+duren bij elkaar op te tellen: de detentiejaren. Het aantal detentiejaren geeft een 
+indicatie van de minimaal uit te zitten hoeveelheid straf die in dat jaar is opgelegd. 
+Delictindeling 
+Voor het bepalen van het soort misdrijf ten behoeve van de delictcategorie van een 
+misdrijfzaak, wordt de ‘zwaarste artikel’ methode toegepast. Dit houdt in dat er wordt 
+gekeken naar het zwaarste artikel binnen een zaak. Het zwaarste artikel is het artikel 
+waarop in de wet de hoogste straf staat. Bij gelijke straffen wordt een sortering op 
+hoofddelictgroep toegepast (eerste niveau in de delictindeling van bijlage 2; de 
+volgorde van sortering is: Misdrijven Wetboek van Strafrecht, Verkeersmisdrijven, 
+Drugsmisdrijven, (Vuur)wapenmisdrijven en Overig) en als dat geen uitsluitsel geeft 
+wordt gekozen voor het eerste artikel binnen de zaak. De toepassing van de ‘zwaarste 
+artikel’ methode gebeurt voor de instroom en beslissingen OM op een andere manier 
+dan voor de afdoeningen rechter. Om zo goed mogelijk aan te sluiten bij de keten-
+momenten is het uitgangspunt bij de instroom en beslissingen OM (hoofdstuk 4),  
+dat wordt gekeken naar alle artikelen waarmee het OM de feiten van de zaak heeft 
+gekwalificeerd. Bij de afdoeningen rechter (hoofdstuk 5) is het uitgangspunt dat wordt 
+gekeken naar alle artikelen die de beoordeling van de rechter in de misdrijfzaak 
+representeren. In het geval van een vrijspraak zijn dit de artikelen van alle door het 
+27
+OM ten laste gelegde feiten in de zaak, in andere gevallen alleen de artikelen van de 
+feiten waarvoor niet is vrijgesproken. Er wordt dan gekeken naar de kwalificatie van 
+het door de rechter gekozen primair of subsidiair ten laste gelegde feit. Op basis van 
+het zwaarste artikel wordt bepaald in welke delictgroep een misdrijfzaak valt. De 
+daarbij gehanteerde classificatie staat in bijlage 2 van deze publicatie. 
+ 
+Bij de overtredingen wordt voor het bepalen van de delictcategorie de politiefeitcode 
+gebruikt, volgens Tekstenbundel voor misdrijven, overtredingen en Muldergedragingen 
+van het Openbaar Ministerie. Dit is dus een andere indeling dan bij de misdrijfzaken. 
+Bij de instroom OM en beslissingen OM wordt gekeken naar feitniveau, en wordt 
+rechtstreeks de politiefeitcode gebruikt van het betreffende feit. Bij de afdoeningen 
+rechter wordt gekeken naar zaaksniveau, en kan er sprake zijn van meerdere feiten. 
+In dat geval wordt net als bij de misdrijven de zwaarste artikelmethode gebruikt. Van 
+het bijbehorende feit wordt de politiefeitcode gebruikt. Zie voor de classificatie van de 
+delictindeling bijlage 2. 
+ 
+27 
+ Als de kwalificatie van de feiten waarover de rechter een uitspraak heeft gedaan ontbreekt in de registratie, 
+wordt gekeken naar de kwalificatie van de feiten door het OM. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  85

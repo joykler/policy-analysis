@@ -1,0 +1,59 @@
+3 De vervolgings- en berechtingsgegevens 
+Net als in de voorgaande edities zijn de cijfers over vervolging en berechting dit jaar 
+samengesteld door het WODC. Het betreft de gegevens voor de hoofdstukken 4 
+(Vervolging van misdrijven), 5 (Berechting van misdrijven) en deels ook hoofdstuk 6 
+(Overtredingen).  
+ 
+Doordat het WODC een andere werkwijze hanteert bij het samenstellen van de cijfers 
+en op onderdelen ook andere definities en keuzes maakt dan het CBS voorheen deed, 
+wijken de cijferreeksen in deze publicatie op onderdelen af van de reeksen in C&R 
+21,22
+2016 en eerder. De opgenomen reeksen in deze editie vertonen geen 
+trendbreuken met de reeksen in de voorgaande edities (vanaf C&R 2017) en vertonen 
+ook in zichzelf geen trendbreuken doordat alle reeksen in zijn geheel zijn vernieuwd en 
+hierbij dezelfde werkwijze is aangehouden als voor de voorgaande editie.  
+In paragraaf 3.1 van deze bijlage worden de voornaamste verschillen ten aanzien van 
+C&R 2016 weergegeven, alsook verschillen met de cijfers van het Parket-Generaal 
+(PaG) en de Raad voor de rechtspraak (Rvdr). 
+Datawarehouse WODC 
+De gegevens over vervolging en berechting komen uit het datawarehouse (DWH)  
+van het WODC. Dit DWH is bedoeld voor het leveren van gegevens voor rapportage, 
+analyse en onderzoek. De gegevens in het DWH zijn afkomstig uit verschillende 
+bronbestanden die weer afkomstig zijn uit registratiesystemen van ketenpartners in  
+de strafrechtsketen, waaronder het Openbaar Ministerie (OM). 
+ 
+De aangeleverde bronbestanden aan het WODC worden op een geautomatiseerde 
+wijze in een aantal stappen geïntegreerd in een centrale gegevensverzameling (het 
+DWH), waarin onder andere schrijfwijzen en coderingen zijn afgestemd zodat 
+gegevens uit verschillende bronnen overeenkomen, en definities zijn vastgelegd 
+conform de informatiebehoefte van de gebruikers. Om dit te kunnen doen, moeten de 
+gegevens uit de bronbestanden eerst geëxtraheerd, opgeschoond en getransformeerd 
+worden. Het DWH bestaat hierna uit een set van (afgeleide) betekenisvolle variabelen, 
+waarmee verdere analyses gedaan kunnen worden. 
+Het DWH bevat, onder andere, data afkomstig uit het bronbestand RAC-min (RApsody 
+Centraal Management Informatiesysteem). RAC-min is een (beperkte) afslag van het 
+23
+Phoenix-systeem. 
+ 
+Phoenix (ook wel PSK, Phoenix StrafrechtKeten genoemd) is een datawarehouse 
+waarin gegevens uit de registratiesystemen COMPAS en GPS verzameld worden. 
+COMPAS (Communicatiesysteem Openbaar Ministerie-Parket AdminiStratie) is een 
+case-managementsysteem dat de processtappen van proces-verbaal en dagvaarding 
+tot vonnis ondersteunt en het mogelijk maakt deze te registreren. GPS (Geïntegreerd 
+Processysteem Strafrecht) is een nieuwer digitaal systeem (geleidelijk ingevoerd sinds 
+2008) ter ondersteuning van de administratie en behandeling van strafzaken en ter 
+vervanging van papieren strafdossiers. GPS is de opvolger van COMPAS, maar 
+momenteel zijn beide systemen nog in gebruik. Het merendeel van de zaken wordt 
+ 
+21
+ Daarnaast is de datalevering die het WODC van het OM ontvangt niet hetzelfde als de levering aan het CBS 
+(zowel in bron, inhoud als in periodiciteit). Ook hierdoor kunnen verschillen in de cijfers ontstaan. 
+22
+ Om de reeksen zo veel mogelijk consistent te houden ten opzichte van voorgaande edities, hanteert het 
+WODC zo veel als mogelijk de definities en telwijze van het CBS, zoals die zijn beschreven in bijlage 3 van 
+C&R 2016 (Kalidien, 2017). 
+23
+  Tot eind 2019 werd RAC-min samengesteld vanuit GPS-MI. Zie voor een toelichting bijlage 3 in C&R 2018 
+(Choenni, Van den Braak & Platenburg, 2019). De overgang van GPS-MI naar Phoenix kan veranderingen in 
+de cijfers veroorzaakt hebben. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  80

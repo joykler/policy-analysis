@@ -1,0 +1,49 @@
+zoeksgegevens voor die regio/gemeente. Omdat alle indicatoren zijn gestandaar-
+diseerd, kunnen lokale instanties hier hun eigen rapportages op afstemmen. 
+Bestanden zijn in principe voor gebruik door de opdrachtgevers. Er is een tool ont-
+wikkeld waarmee voor lokale beleidsmakers gestandaardiseerde rapportages kunnen 
+worden gegenereerd op basis van onderzoeksbestand(en) met output-gerelateerde 
+programmasources die door het CBS via het CvB ter beschikking worden gesteld. Het 
+gebruik van deze microdata vindt plaats conform de voorwaarden die hiervoor door 
+het CvB worden gehanteerd. 
+Gebruik door derden is na enige tijd mogelijk via DANS (voorheen WSA). Ook via het 
+CvB kunnen externe onderzoekers (onder strikte voorwaarden) onderzoek verrichten 
+op microdata van het CBS. Daarnaast kunnen op aanvraag data beschikbaar worden 
+gesteld (maatwerk). 
+De bestanden zijn niet direct herleidbaar tot personen. Daarom zijn er geen speciale 
+privacyreglementen van toepassing. 
+Methodebreuken VMR, IVM en VM 2012-2019 
+De verschillen in onderzoeksdesign, waarnemingsmethode en vraagstellingen tussen 
+VMR, IVM en VM 2021 hebben tot gevolg dat er systematische effecten optreden in de 
+uitkomsten. Dit fenomeen wordt aangeduid met de term methodebreuken. Om de 
+continuïteit en vergelijkbaarheid van de belangrijkste variabelen zoals slachtoffer-
+schap, aantal ondervonden delicten, en onveiligheidsgevoelens zo goed mogelijk te 
+waarborgen, is in 2021 parallel aan de ‘nieuwe’ VM 2021 nogmaals de ‘oude’ IVM 
+2012-2019 met een steekproefomvang van 8.656 personen uitgevoerd. Om dezelfde 
+reden is in 2008, 2009 en 2010 parallel aan de toen ‘nieuwe’ IVM de ‘oude’ VMR in een 
+beperkte omvang uitgevoerd, en in 2012 parallel aan de toen ‘nieuwe’ VM’ de ‘oude’ 
+IVM in een beperkte omvang uitgevoerd. 
+Door de parallelle uitvoering van de oude en nieuwe ontwerpen is het mogelijk om de 
+verschillen in uitkomsten te kwantificeren, en daarmee via omrekenfactoren correcties 
+toe te passen op de VMR-, IVM-, en VM 2012-2019-cijfers om ze naar het VM 2021-
+niveau te brengen. Op die manier worden uitkomsten van de VMR, IVM, en VM 2012-
+2019 vergelijkbaar met die van de VM 2021 (zie ook onderzoeksverantwoording 
+Veiligheidsmonitor 2021; www.cbs.nl/nl-nl/longread/rapportages/2022/ 
+veiligheidsmonitor-2021/onderzoeksverantwoording). Gevolg van het corrigeren van 
+methodebreuken is dat de cijfers van 2019 en eerdere jaren afwijken van de eerder 
+gepubliceerde cijfers voor deze jaren. 
+2 De Politiestatistiek 
+De Politiestatistiek, gestart in 1948, beoogt inzicht te geven in de omvang, aard en 
+ontwikkeling van de geregistreerde criminaliteit en de inspanning van de politie ter 
+bestrijding hiervan. Tot en met het verslagjaar 2007 gebruikte het CBS gegevens die 
+rechtstreeks en decentraal werden onttrokken aan de basisprocessensystemen van de 
+toenmalige 25 regiokorpsen, het Korps Landelijke Politiediensten (KLPD) en de 
+Koninklijke Marechaussee (KMar). Met terugwerkende kracht tot het verslagjaar 2005 
+werden de gegevens tot 2011 uit de basisprocessensystemen centraal geleverd via de 
+landelijke politiedatabank ‘Geïntegreerde Interactieve Databank voor Strategische 
+bedrijfsinformatie’ (GIDS). De gegevens over 2012 tot en met 2014 worden sinds 
+2015 geleverd via ‘Basisvoorziening Informatie’ (BVI). Sinds 2017 zijn de gegevens 
+ook over de verslagjaren 2010 tot en met 2016 geleverd via BVI. De gegevens worden 
+geleverd volgens de definities en de telwijze van BVI. Alleen de KMar levert haar 
+informatie nog rechtstreeks aan het CBS. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  76

@@ -1,0 +1,57 @@
+30
+akkoord). Transacties tellen het WODC en PaG op de datum afgehandeld. Het CBS 
+telt voor GPS ook afgehandelde transacties, maar voor COMPAS opgelegde transacties 
+op de datum beslissing genomen. 
+Ook op een aantal andere punten worden er door de organisaties verschillende keuzes 
+gemaakt. Zo tellen het WODC en het PaG bij de instroom OM overdrachten (in 
+COMPAS naar een ander parket) en overhevelingen (vanuit GPS naar COMPAS) niet 
+mee. Het CBS telt beide zaken mee in de instroomcijfers en neemt ze daarom ook mee 
+bij de beslissingen OM. Het WODC telt overdrachten en overhevelingen niet als 
+beslissingen OM. 
+ 
+Bij het tellen van sancties zijn er ook een aantal verschillen aan te wijzen. Bij de 
+indeling van schuldigverklaringen in hoofdstraffen worden door het CBS combinaties 
+van maximaal twee straffen geteld. Als er in een zaak drie straffen worden opgelegd 
+(zowel een gevangenisstraf, taakstraf als geldboete) wordt deze zaak door het CBS bij 
+de categorie geldboete plus taakstraf geteld. Het WODC heeft een aparte categorie 
+opgenomen voor de combinatie van deze drie hoofdstraffen (zie tabel 6.5 en 6.16).  
+Bij de indeling naar sancties telt het CBS in een zaak waarin zowel een werkstraf als 
+een leerstraf is opgelegd, alleen de werkstraf. Het WODC telt beide straffen apart, dus 
+zowel de werkstraf als de leerstraf. 
+ 
+Ook het bepalen van de delictindeling gebeurt door het CBS en het WODC op een  
+net wat andere manier. Dit komt doordat een deel van de gegevens (die betrekking 
+hebben op het bepalen van de strafmaat en het toewijzen van delictgroepen aan 
+wetsartikelen) handmatig moet worden bijgehouden. Verschillende keuzes hierin 
+hebben invloed op de uiteindelijke delictindeling per zaak. Het CBS en het WODC 
+hanteren niet altijd dezelfde toewijzing van delictgroepen aan wetsartikelen. Bijvoor-
+beeld: het WODC rekent SR 138b tot Overige misdrijven tegen de openbare orde en 
+31
+niet tot computervredebreuk. Ook bij het bepalen van de strafmaat kunnen verschil-
+lende keuzes gemaakt worden, bijvoorbeeld als in de wet meerdere strafbepalingen 
+per artikel gelden. Zo staat op het telen van softdrugs (artikel 3 Opiumwet (OW)) 
+standaard een maand hechtenis (OW 11/1), maar wordt het een misdrijf met een 
+gevangenisstraf van ten hoogste twee jaar (OW 11/2) als dit opzettelijk gebeurt. 
+WODC kiest als de registratie geen uitsluitsel biedt over de opzet de laagste strafmaat. 
+Als er binnen een zaak meerdere artikelen voorkomen met dezelfde (hoogste) straf-
+maat, dan moet er een keuze worden gemaakt. In dit geval kijkt het WODC eerst naar 
+de volgorde van de hoofddelictgroep (Misdrijven Wetboek van Strafrecht boven Ver-
+keersmisdrijven boven Drugsmisdrijven, enz.) en daarna naar de registratievolgorde 
+binnen de zaak. 
+ 
+Wat betreft de beslissingen OM en afdoeningen rechter, telt het WODC alleen de laatst 
+genomen beslissing in een zaak (met uitzondering van de strafbeschikkingen; zie 
+hierboven). Iedere zaak wordt altijd (ook over de jaren heen) maar één keer geteld. 
+Bijvoorbeeld: in een zaak wordt in 2013 besloten tot dagvaarden, in 2014 wordt deze 
+beslissing ingetrokken en biedt het OM een transactie aan. Later in 2014 wordt de 
+transactie omgezet in een voorwaardelijk sepot. Het WODC telt in dit voorbeeld alleen 
+het voorwaardelijk sepot in 2014. Het CBS telt de laatst bekende beslissing in de zaak 
+binnen ieder jaar. Hierdoor wordt binnen een jaar slechts één beslissing bij een zaak 
+geteld, maar vervolgbeslissingen in nieuwe jaren worden ook geteld. In het hierboven 
+gegeven voorbeeld wordt door het CBS het dagvaarden in 2013 geteld en het voor-
+ 
+30
+ Zie voor een overzicht van de telwijze van het CBS bijlage 3 in C&R 2016 (Kalidien, 2017). 
+31
+ Zie voor de delictindeling van het CBS bijlage 2 in C&R 2016 (Kalidien, 2017). 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  87
