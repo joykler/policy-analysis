@@ -51,5 +51,4 @@ project ’Deployment of the Atrako Team’. The Atrako Team consisted of staff 
 and the KMar. The aim of the team was to fight the violent robberies in Curaçao. The number of 
                                             
 7
- PVNA changed its name to Plan Veiligheid (Plan Safety) by 10-10-’10. 
-  19
+ PVNA changed its name to Plan Veiligheid (Plan Safety) by 10-10-’10.

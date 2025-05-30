@@ -53,5 +53,4 @@ gevolg van onvoldoende middelen voor toekomstig beheer.
 Opmerkingen 
 Er is een beheersorganisatie nodig om onderhoud te plegen. Een dergelijke organisatie bestaat o.a. uit helpdesk, 
 leveranciers (onderhoud aan applicaties), specialisten (opzet en controle van verbindingen van en naar centrale 
-server), etc.. Deze beheerorganisatie is ten tijde van de laatste rapportage (27 mei 2014) nog steeds niet opgericht.  
-146
+server), etc.. Deze beheerorganisatie is ten tijde van de laatste rapportage (27 mei 2014) nog steeds niet opgericht.

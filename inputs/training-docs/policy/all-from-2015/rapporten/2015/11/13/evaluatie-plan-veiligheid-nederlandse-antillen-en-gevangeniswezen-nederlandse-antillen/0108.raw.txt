@@ -51,5 +51,4 @@ tie.
  
 1.2.9.3 Ondersteuning vanuit BZK en SONA 
 BZK stelt videoconference faciliteiten beschikbaar voor vergaderingen van de Begeleidings-
-commissie en zal ondersteuning bieden (onder meer via de Vertegenwoordiging) bij het vinden 
-  108
+commissie en zal ondersteuning bieden (onder meer via de Vertegenwoordiging) bij het vinden

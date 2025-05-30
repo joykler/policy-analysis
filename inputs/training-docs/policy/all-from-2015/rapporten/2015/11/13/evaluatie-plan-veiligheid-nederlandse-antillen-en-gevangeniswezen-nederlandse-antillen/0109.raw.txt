@@ -20,6 +20,4 @@ rapportage:
 - presentatie van het inceptierapport aan de begeleidingscommissie; 
 - presentatie van de tussenrapportage aan de begeleidingscommissie; 
 - presentatie van het concepteindrapport aan de Opdrachtgever; 
-- eventueel een presentatie van het eindrapport aan het ministerie van BZK|KR. 
-  
-  109
+- eventueel een presentatie van het eindrapport aan het ministerie van BZK|KR.

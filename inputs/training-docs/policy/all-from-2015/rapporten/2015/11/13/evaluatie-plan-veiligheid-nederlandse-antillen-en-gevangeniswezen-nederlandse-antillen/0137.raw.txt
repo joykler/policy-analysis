@@ -79,5 +79,4 @@ langrijk.
 teerd. 
 - De standaard kantoorautomatisering is sterk 
 verbeterd. 
-- Er zijn forse verbeteringen opgetreden, de 
-137
+- Er zijn forse verbeteringen opgetreden, de

@@ -49,7 +49,4 @@ Infrastructuur automatisering Hof van Justitie en Openbaar Ministerie
 De beoogde resultaten bij het Gemeenschappelijk Hof NA en het Openbaar Ministerie NA zijn 
 behaald. De implementatie van ICT-infrastructuur bij het Hof van Aruba is niet voltooid. Reden 
 hiervoor was naar verluidt dat Aruba geen samenwerking op het gebied van data-uitwisseling 
-wenste. 
- 
- 
-  84
+wenste.

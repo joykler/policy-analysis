@@ -49,5 +49,4 @@ SONA - Stichting Ontwikkelingsgelden Nederlandse Antillen
 SXM  - Sint Maarten 
 TO  - Toelatingsorganisatie 
 USONA - Uitvoeringsorganisatie van de stichting SONA 
-VNA  - Veiligheidsdienst Nederlandse Antillen 
-  5
+VNA  - Veiligheidsdienst Nederlandse Antillen

@@ -47,6 +47,4 @@ Projectnum- Projectbureau Plan Veiligheid Uitgegeven in
 mer NAF  
 2007028 Uitbreiding projectunit DJZ   3.863.494 
 2010071 Projectbureau Plan Veiligheid   8.611.032 
-Totaal  12.474.527 
- 
-  87
+Totaal  12.474.527

@@ -51,5 +51,4 @@ improved and internal management is now accepted as an integral part of the mana
 KPC. Achieving reasonable levels for implementation in the other areas have failed. This is 
 caused by lack of resources, the  stalling of projects between 2010 and 2013, the country's 
 financial problems after 10-10-‘10 up to the end of 2013 and the limited support for change 
-within KPC.  
-  22
+within KPC.
