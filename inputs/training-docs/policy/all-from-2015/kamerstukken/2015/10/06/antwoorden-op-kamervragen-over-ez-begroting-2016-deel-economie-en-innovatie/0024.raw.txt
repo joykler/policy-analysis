@@ -1,0 +1,50 @@
+goede privacyverklaring genereren en worden zij in een aantal stappen geïnformeerd over de 
+wettelijke eisen waaraan ze moeten voldoen. Dat geldt eveneens voor het cookieprotocol dat de vrij 
+abstracte wettelijke regels beoogt te concretiseren en duidelijk maakt hoe aan wettelijke 
+verplichtingen kan worden voldaan. In 2015 is er een expertgroep big data gestart. De uitkomsten van 
+deze expertgroep zullen aan bedrijven een handreiking geven hoe effectief met privacyregels om te 
+gaan en hoe technologie in te zetten ten behoeve van privacybescherming. Ik verwacht dat bedrijven 
+een zorgvuldige omgang met data steeds meer als concurrentiemiddel kunnen inzetten naarmate het 
+bewustzijn van de burger toeneemt.  
+ 
+60  
+Wat zijn de eenmalige en structurele kosten voor het keurmerk voor veilig internet voor het mkb? Wie 
+ontwikkelt dit keurmerk? Wie houdt toezicht op juist toepassing van dit keurmerk? Is het keurmerk 
+een privaat of publiek initiatief? En is het een nationaal of Europees initiatief? 
+ 
+Antwoord 
+Voor het antwoord op deze vraag verwijs ik naar het antwoord op vraag 46. 
+ 
+61 
+Ziet u de versterking van de cybersecurity als een private of publieke taak, of is het een 
+samenwerking tussen privaat en publiek? Ligt volgens u de verantwoordelijkheid van veilig 
+internetgebruik bij de gebruiker, de aanbieder van de website of bij de netwerkaanbieder? In hoeverre 
+gaat u zich op nationaal beleid richten om de cybersecurity te verbeteren en in hoeverre vergt dit een 
+internationale aanpak? 
+ 
+Antwoord 
+Het digitale domein is verweven in alle facetten van onze samenleving. In de tweede Nationale Cyber 
+Security Strategie (NCSS2; Kamerstuk 2013-2014, 26643, nr. 291) geeft het kabinet aan dat 
+cybersecurity een integrale aanpak vereist en in samenhang moet worden gezien met vrijheid en de 
+economische kansen die het digitale domein biedt. Dit maakt dat de versterking van de cybersecurity 
+een gezamenlijk belang is waarin overheid, bedrijfsleven en burgers, ieder vanuit zijn eigen 
+verantwoordelijkheid, moeten samenwerken. Een voorbeeld is de website veiliginternetten.nl, een 
+initiatief van overheid en bedrijfsleven waarmee burgers en mkb’ers in staat worden gesteld veilig 
+gebruik te maken van internet. Abuse Hub, een initiatief opgezet door Internet Service Providers en 
+de overheid, zorgt ervoor dat PC’s van abonnees die onderdeel vormen van botnets (netwerken van 
+geïnfecteerde PC’s) sneller ontdekt en ontsmet worden. Ook internationale samenwerking is 
+essentieel, omdat het internet per definitie grensoverschrijdend is.  
+Het belang van internationale samenwerking kwam ook nadrukkelijk naar voren in april dit jaar tijdens 
+de Global Conference on Cyberspace (GCCS) waarvan Nederland de gastheer was. Cybersecurity 
+wordt daarom door de Nederlandse overheid actief geagendeerd tijdens het EU-voorzitterschap. 
+ 
+62  
+Verwacht u dat de overheid een blijvende taak heeft in het borgen van de Universele Postdienst? 
+ 
+Antwoord 
+Met de Universele Postdienst (UPD) wordt beoogd een kwalitatief goede, betaalbare en toegankelijke 
+basispostvoorziening te waarborgen voor burgers en klein zakelijke gebruikers. De eisen die worden 
+gesteld aan de UPD vloeien onder andere voort uit de (Europese) Postrichtlijn en zijn vastgelegd in 
+nationale wet- en regelgeving. Binnen de kaders van de Postrichtlijn worden de eisen aan de UPD in 
+sterke mate beïnvloed door de behoeften en het gedrag van gebruikers van de UPD. Afhankelijk van 
+24
