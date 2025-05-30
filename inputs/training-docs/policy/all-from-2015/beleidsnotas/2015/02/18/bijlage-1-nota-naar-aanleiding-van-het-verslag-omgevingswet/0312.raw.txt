@@ -63,5 +63,4 @@ Locatie Een door geometrische plaatsbepaling begrensd deel van het grondgebied
 van een gemeente, waterschap, provincie of van Nederland. 
 Locatiespecifiek Niet voor het hele grondgebied van een bestuursorgaan gelijk, dat wil 
 zeggen verschillend van locatie tot locatie. 
-Maatregel Besluit of te verrichten andere handeling om doelstellingen te bereiken. 
-312
+Maatregel Besluit of te verrichten andere handeling om doelstellingen te bereiken.

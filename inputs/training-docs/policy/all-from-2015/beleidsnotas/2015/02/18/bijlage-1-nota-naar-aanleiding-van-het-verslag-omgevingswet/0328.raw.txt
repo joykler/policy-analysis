@@ -68,5 +68,4 @@ oplevertoets bij nodig om zeker te stellen dat de norm na de 4.2.4
 tijdelijke periode daadwerkelijk wordt gehaald. Het is in de ogen van 4.2.7 
 deze leden lastig dat als er minder decibel geproduceerd wordt, dit 
 wel kan worden ‘opgevuld’ door meer geureenheden. Dit zou immers 
-appels met peren vergelijken betekenen en bovendien voor geur tot 
-328
+appels met peren vergelijken betekenen en bovendien voor geur tot
