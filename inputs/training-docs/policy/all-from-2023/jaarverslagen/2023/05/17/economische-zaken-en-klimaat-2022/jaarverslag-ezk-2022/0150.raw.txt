@@ -1,0 +1,58 @@
+Tabel 64 Overzicht doelmatigheidsindicatoren per 31 december 2022
+Realisatie Vastgestelde 
+begroting
+2019 2020 2021 2022 2022
+Omschrijving generiek deel
+Kostprijzen per product (groep)
+a. Basistarief werkplek VKA
+b. Basistarief werkplek CW 3.746 3.746 3.516 3.126 3.360
+1
+Tarieven/uur
+a. Senior medewerker (ontwikkeling) 101 137 136 135 135
+b. Medior medewerker (bouw) 80 114 112 111 111
+c. Junior medewerker (test en beheer) 69 102 100 99 99
+Indicatoren
+Aantal werkplekken VKA
+2
+Aantal werkplekken CW 13.343 14.929 16.027 18.042 15.000
+3
+FTE-totaal (excl. externe inhuur) 775 828 905 927 930
+Aantal interne FTE’s in percentage van het totale 54% 54% 55% 54% 62,5%
+aantal FTE’s
+4
+Saldo van baten en lasten (%) 1,75% 1,04% 6,02% 5,24% 0,00%
+Ziekteverzuim 4,4% 3,7% 4,8% 6,3% 4,0%
+Klanttevredenheid 7,2 7,0 7,8 7,7 7,0
+Beschikbaarheid applicaties 98,4% 99,8% 99,7% 99,5% 98,0%
+5
+Aantal grote verstoringen 4 Max. 5
+Eindgebruikerstevredenheid afhandeling 8,4 7,0 ‒ 7,5
+5
+incidenten
+Oplospercentage 1ste lijn helpdesk 67% 71% 70% 81% 75%
+1 DICTU hanteert met ingang van 2020 een nieuw kostprijsmodel. In dit model wordt overgegaan van directe kostprijzen naar integrale kostprijzen, met als gevolg een 
+(financieel-technische) stijging van de tarieven.
+2 Aantal werkplekken ultimo jaar.
+3 Gemiddeld aantal FTE over het jaar.
+4 Saldo als percentage van de baten.
+5 Deze indicator is in 2022 toegevoegd.
+Basistarief werkplek CW 
+Middels de tarievennota is het basistarief werkplek CW vastgesteld op 
+€ 3.360. Door een hogere vraag naar werkplek services en de hierbij horende 
+schaalvoordelen is het mogelijk gebleken een lager tarief te hanteren. 
+Middels het addendum op de tarievennota is het tarief met € 234 per jaar 
+verlaagd naar € 3.126.
+Aantal werkplekken CW 
+Ten tijde van de ontwerpbegroting is gerekend met een gemiddeld aantal 
+van 15.000 werkplekken CW. Vanwege de genoemde hogere vraag door 
+verdere groei bij onze klanten is de realisatie eind 2022 van het aantal 
+geleverde werkplekken 18.042 (gemiddeld 16.968).
+Aantal interne FTE in % van het totale aantal FTE
+In de realisatie is het aantal interne fte als percentage van het totale aantal 
+fte lager dan ten opzichte van de begroting. Dit is het gevolg van de gestegen 
+vraag naar ICT dienstverlening ten opzichten van de begroting en de krapte 
+op de arbeidsmarkt waardoor de benodigde extra capaciteit is verkregen via 
+externe inhuur.
+Saldo van baten en lasten 
+DICTU heeft in 2022 een positief resultaat geboekt van € 18,5 mln.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 150

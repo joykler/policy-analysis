@@ -1,0 +1,22 @@
+Ziekteverzuim
+Het gemiddelde ziekteverzuimpercentage kent een zorgelijke trend, die 
+nauw wordt gemonitord en waar veel aandacht voor is. Het ziekteverzuim 
+overall DICTU is 6,3% en ligt daarmee ondanks de versterkte zorg en 
+aandacht ruim boven het streefgemiddelde van 4%. Een kleine positieve 
+ontwikkeling is dat de stijging van het ziekteverzuim is afgevlakt en in het 
+laatste kwartaal een daling toonde. Terugbrengen van het ziekteverzuim 
+naar het streefgemiddelde van 4% blijft een aandachtspunt en is daarom 
+ook expliciet opgenomen in het jaarplan 2023.
+Klanttevredenheid
+Ten opzichte van het in de begroting opgenomen doel is de gemeten klant­
+tevredenheid hoger. In alle maanden is de realisatie hoger, waarbij 7.55 
+(oktober 2022) de laagste score is en 7.84 (augustus 2022) de hoogste.
+Beschikbaarheid Applicaties 
+De beschikbaarheid van frontend-applicaties wordt gemeten door middel 
+van tooling (BSM). Deze meting is per applicatie per maand over de beschik­
+baarstellingsperiode, exclusief de overeengekomen onderhoudsperioden.
+Oplospercentage 1e lijn helpdesk 
+e
+Dit percentage geeft weer hoeveel procent van de calls door de 1 lijn kan 
+worden opgelost.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 151

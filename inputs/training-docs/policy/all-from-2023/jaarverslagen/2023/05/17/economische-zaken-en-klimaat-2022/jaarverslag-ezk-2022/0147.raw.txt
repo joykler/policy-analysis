@@ -1,0 +1,49 @@
+Tabel 60 Balans per 31 december 2022 (bedragen x € 1.000)
+Balans 2022 Balans 2021
+Activa
+Vaste activa 42.565 40.490
+Immateriële vaste activa 7.178 10.273
+Materiële vaste activa 35.387 30.217
+waarvan grond en gebouwen 0 0
+waarvan installaties en inventarissen 33.591 27.668
+waarvan projecten in uitvoering 0 0
+waarvan overige materiële vaste activa 1.796 2.549
+Vlottende activa 78.725 81.013
+Voorraden en onderhanden projecten 0 0
+Debiteuren 26.283 19.436
+Overige vorderingen en overlopende activa 23.222 30.354
+Liquide middelen 29.220 31.223
+Totaal activa 121.290 121.503
+Passiva
+Eigen Vermogen 34.290 31.207
+Exploitatiereserve 15.813 10.307
+Onverdeeld resultaat 18.477 20.900
+Voorzieningen 348 2.523
+Langlopende schulden 28.830 26.543
+Leningen bij het Ministerie van Financiën 28.830 26.543
+Kortlopende schulden 57.822 61.230
+Crediteuren 3.035 867
+Belastingen en premies sociale lasten 0 0
+Kortlopend deel leningen bij het Ministerie van Financiën 16.128 20.156
+Overige schulden en overlopende passiva 38.659 40.207
+Totaal passiva 121.290 121.503
+Activa
+Vaste activa
+De materiele vaste activa zijn door de groeiende vraag naar werkplek 
+gerelateerde hardware en de investeringen in laptops met € 4,0 mln 
+gestegen. Ook zijn er voor infrastructurele hardware twee grote vervan­
+gingsinvesteringen gedaan van Oracle Exadata (€ 4,3 mln) en HP servers 
+(€ 1,6 mln). Door een levensduurverlenging van één specifiek type laptop, 
+monitoren en replicators heeft een correctie plaatsgevonden op de afschrij­
+vingskosten (€ 2,5 mln). Voor monitoren en replicators wordt de levensduur 
+verlengd van 5 naar 8 jaar. Voor het specifieke type laptop (Yoga) van 3 naar 
+4 jaar. Dit is het gevolg van een langere levensduur en invulling van verduur­
+zaming van de bedrijfsvoering.
+Vlottende activa
+De debiteuren positie is ten opzichte van 2021 toegenomen als gevolg van 
+een lagere stand van de nog te factureren positie. Dit is het gevolg van 
+een verbetering in het facturatieproces waardoor de facturatie snelheid is 
+verbeterd.
+De overige vorderingen en overlopende activa nemen met name af door 
+de hierboven vermelde lagere stand van de nog te factureren positie.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 147

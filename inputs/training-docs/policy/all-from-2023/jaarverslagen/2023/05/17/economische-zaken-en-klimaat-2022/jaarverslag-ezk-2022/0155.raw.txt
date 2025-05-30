@@ -1,0 +1,51 @@
+Tabel 68 Balans per 31 december 2022 (bedragen x € 1.000)
+Balans 2022 Balans 2021
+Activa
+Vaste activa 4.909 3.325
+Immateriële vaste activa 4.909 3.325
+Materiële vaste activa 0 0
+waarvan grond en gebouwen 0 0
+waarvan installaties en inventarissen 0 0
+waarvan projecten in uitvoering 0 0
+waarvan overige materiële vaste activa 0 0
+Vlottende activa 3.270 4.696
+Voorraden en onderhanden projecten 0 0
+Debiteuren 0 74
+Overige vorderingen en overlopende activa 44 187
+Liquide middelen 3.226 4.435
+Totaal activa 8.179 8.021
+Passiva
+Eigen Vermogen 1.426 1.331
+Exploitatiereserve 354 533
+Bestemmingsreserve 245 0
+Onverdeeld resultaat 827 798
+Voorzieningen 0 0
+Langlopende schulden 1.680 2.240
+Leningen bij het Ministerie van Financiën 1.680 2.240
+Kortlopende schulden 5.073 4.450
+Crediteuren 208 23
+Belastingen en premies sociale lasten 0 0
+Kortlopend deel leningen bij het Ministerie van Financiën 560 560
+Overige schulden en overlopende passiva 4.305 3.867
+Totaal passiva 8.179 8.021
+Toelichting op de Balans
+Immateriële vaste activa 
+De immateriële vaste activa betreffen het zelfontwikkelde Register Energie 
+voor Vervoer (REV 3), het vernieuwde Register Energie voor Vervoer (REV 
+4, eind 2022 in gebruik genomen), het CO heffingsregister (CHeR, medio 
+2
+2022 in gebruik genomen) en het zelfontwikkelde Emissie Handels Portaal 
+(EHP). Het EHP is gedurende 2022 per fase steeds meer in gebruik genomen 
+maar is nog in ontwikkeling. In 2022 is € 0,3 mln afgeschreven en € 1,89 mln 
+geïnvesteerd.
+Vlottende activa
+De overige vorderingen en overlopende activa betreffen facturen voor 
+uitgaven met betrekking tot 2023, die in 2023 geactiveerd gaan worden als 
+immateriële vaste activa.
+Langlopende schulden
+De lening bij het Ministerie van Financiën betreft de lening voor de zelfont­
+wikkelde immateriële vaste activa.
+Kortlopende schulden
+De crediteuren (€ 0,2 mln) betreffen overige ministeries (€ 0,11 mln) en 
+derden (€ 0,09 mln) en zijn allemaal begin 2023 betaald.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 155
