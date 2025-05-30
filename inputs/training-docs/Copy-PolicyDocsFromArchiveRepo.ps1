@@ -43,7 +43,7 @@ $global:Logging = [PSCustomObject]::new()
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + 'Started copying policy-docs from all pdf files...' + $R)
+        Write-Information $($S + 'Started copying policy-docs from archive-repo...' + $R)
     }
 
     Add-LoggingMethod 'Info_CopyingPolicyDocFromArchiveRepo' -Method {
