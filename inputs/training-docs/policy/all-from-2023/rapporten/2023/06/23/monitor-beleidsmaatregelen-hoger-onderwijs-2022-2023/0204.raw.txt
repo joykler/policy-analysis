@@ -1,0 +1,56 @@
+Als in dit rapport melding wordt gemaakt van ‘Recht op studiefinanciering’, wordt altijd deze groep 
+77
+bedoeld. Deze indeling behoeft een korte toelichting. Allereerst hebben EER-studenten onder bepaalde 
+voorwaarden ook recht op studiefinanciering. Deze groep kon niet goed worden geïdentificeerd en is 
+achterwege gelaten, tenzij deze studenten daadwerkelijk een studiefinancieringsproduct bij DUO afnemen. 
+Omdat sommige EER-studenten recht hebben op studiefinanciering maar deze niet aanvragen, zijn 
+percentages dus soms een lichte overschatting (de referentiegroep is in werkelijkheid iets groter dan de 
+referentiegroep die nu getoond wordt). Ten tweede hebben EER-studenten altijd recht op collegegeld-
+krediet. Ook deze groep is niet als studiefinancieringsgerechtigd geclassificeerd, tenzij men daadwerkelijk 
+collegegeldkrediet ontvangt. Ten derde zijn studenten die acht jaar of langer studeren (ongeveer 8% van 
+alle studenten) niet als studiefinancieringsgerechtigd gekwalificeerd (tenzij zij een studiefinancierings-
+product afnemen). Deze groep studenten die meer dan acht jaar studeren én het laatste jaar een 
+studiefinancieringsproduct hebben afgenomen, omvat ongeveer 2,5 procent van alle studenten met recht 
+op studiefinanciering. 
+ 
+Voor de analyse van het leengedrag van studenten zijn alle hoofdinschrijvingen in het domein hoger onder-
+wijs uit het 1cHO meegenomen. Dat is in de tabellen doorgaans de groep die wordt aangeduid met ‘Alle 
+studenten’. Daarmee wordt de percenteringsbasis gevormd door voltijd, deeltijd en duale studenten aan 
+alle bekostigde instellingen, tenzij anders is aangegeven. Met de selectie van de hoofdinschrijvingen (soort 
+inschrijving hoger onderwijs= ‘1’ of ‘A’) worden alle studenten per studiejaar éénmaal meegeteld. Het 
+laatste studiejaar waarvan de volledige studiefinancieringshistorie bekend is, is het jaar 2021-2022. Als in 
+dit hoofdstuk over ‘lenen’ wordt gerapporteerd, zijn altijd het collegegeldkrediet en de reguliere 
+studielening samengenomen, tenzij anders is vermeld. In nagenoeg alle tabellen is het aantal lenende 
+studenten afgezet tegen de totale studentenpopulatie (‘Alle studenten’), ongeacht de geregistreerde 
+opleidingsvorm (voltijd, deeltijd of duaal), leeftijd, of hun recht op studiefinanciering. Indien een andere 
+percenteringsbasis is gebruikt (bijvoorbeeld ten opzichte van alleen de ‘studiefinancieringsgerechtigden’), 
+is bij desbetreffende tabel of figuur aangegeven en uitgelegd hoe dit is berekend.  
+ 
+Tabel 8.1 toont, vanuit de hiervoor beschreven definitie, de aantallen studenten die rechthebbend zijn en 
+die binnen deze groep wel of geen studiefinancieringsproduct afnemen (basisbeurs, aanvullende beurs, 
+lening, ov-kaart). Hieruit komt naar voren dat het niet-gebruik van studiefinanciering tussen 2016-2017 en 
+2020-2021 in het hbo steeg (tot 4,7%) en in het wo redelijk stabiel bleef (3,8% in 2020-2021). Het laatste 
+jaar is dit niet-gebruik gedaald (naar 4% in het hbo en 2,4% in het wo). Er is binnen deze monitor geen 
+onderzoek gedaan naar de redenen van het niet-gebruik van studiefinanciering door rechthebbenden.  
+Tabel 8.1: Hoofdinschrijvingen in analyses (bron: DUO-1cHO-SFS 2010-2021); studenten die wel en geen 
+studiefinancieringsproduct afnemen 
+ SF-recht Gebruik 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22 
+Nee Geen gebruik 80.216 81.554 78.903 79.368 80.552 83.657 86.947 92.448 98.159 103.493 
+Geen gebruik 7.265 9.663 10.283 14.775 15.091 16.036 17.375 16.643 18.414 15.290 
+Hbo Ja 
+Gebruik 333.496 348.462 356.605 347.782 350.416 352.399 350.842 353.676 371.740 371.684 
+Geen gebruik t.o.v. recht 2,1% 2,7% 2,8% 4,1% 4,1% 4,4% 4,7% 4,5% 4,7% 4,0% 
+Nee Geen gebruik 41.195 47.390 48.443 51.889 56.752 62.415 68.950 74.639 83.392 92.084 
+Geen gebruik 3.334 5.964 5.808 8.650 8.382 8.424 8.813 8.833 9.324 5.964 
+Wo Ja 
+Gebruik 195.192 195.005 199.300 197.609 199.688 205.963 213.657 220.053 234.738 242.413 
+Geen gebruik t.o.v. recht 1,7% 3,0% 2,8% 4,2% 4,0% 3,9% 4,0% 3,9% 3,8% 2,4% 
+Bron: 1cHO-SFS 
+De gegevens zijn gebaseerd op twee leveringen van DUO. Tot en met 2014-2015 is gebruikgemaakt van een 
+data-extract uit het ‘oude’ systeem van DUO. De jaren erna zijn data-extracten uit het ‘nieuwe’ systeem 
+gebruikt. Voor de periode na invoering van het studievoorschot heeft DUO een code meegeleverd die 
+aanduidt of desbetreffende student onder het studievoorschot of het oude stelsel valt.  
+ 
+77 Als bijvoorbeeld wordt uitgesplitst naar geslacht binnen de sf-gerechtigden, dan worden de gegevens van vrouwen vergeleken met 
+alle sf-gerechtigde vrouwen en die van mannen met alle sf-gerechtigde mannen.  
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 204

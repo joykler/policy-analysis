@@ -1,0 +1,51 @@
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+14 15 16 17 18 19 20 21 14 15 16 17 18 19 20 21 14 15 16 17 18 19 20 21
+Hbo Wo Ho
+Geen studiekeuzeactiviteiten Wel studiekeuzeactiviteiten
+ 
+Figuur 7.40: Percentage eerstejaars dat deelgenomen heeft aan studiekeuzeactiviteiten naar eerstejaars studieuitval 
+(bron: Startmonitor 2014-2021) 
+In de Startmonitor wordt ook gevraagd naar het type advies dat is verkregen na het doorlopen van 
+matchingsactiviteiten. Eerstejaars die een negatief of twijfel-advies hebben gekregen, vallen vaker uit dan 
+studenten die een positief of geen concreet advies kregen (figuur 7.41). Van de hbo-studenten die geen 
+concreet studieadvies kregen valt 36 procent uit, in het wo is dat 24 procent. De groep studenten die na 
+een positief advies toch uitvalt, is in het wo kleiner dan in het hbo (resp. 17 en 30%).  
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+14 15 16 17 18 19 20 21 14 15 16 17 18 19 20 21 14 15 16 17 18 19 20 21
+Hbo Wo Ho
+Positief Twijfel/negatief Geen concreet advies
+ 
+Figuur 7.41: Eerstejaars studieuitval (%) naar studiekeuzeadvies (bron: Startmonitor 2014-2021) 
+Welke factoren in de oriëntatie zijn het meest bepalend voor de uitval of switch? Om hier zicht op te 
+krijgen, zijn verschillende factoren in het studiekeuzeproces van eerstejaarsstudenten in samenhang geana-
+lyseerd door middel van een (logistische) regressieanalyse. Er is op basis van de Startmonitor gekeken naar 
+de verhouding tussen (de kans op) factoren die bepalen of een groep zal uitvallen of niet zal uitvallen. Ook 
+wordt nagegaan of de ervaren match of binding van de student met de opleiding samenhangt met het 
+uitvalgedrag.  
+ 
+Studenten hebben hiervoor in de Startmonitor aangegeven van welke voorlichting zij gebruik hebben 
+gemaakt bij het kiezen voor hun studie (studiekeuzebronnen) en of zij hebben meegedaan aan 
+studiekeuzeactiviteiten. Daarnaast zijn voor deze analyse de studiekeuzemotieven gebruikt (zie ook 
+hoofdstuk 3). Om deze samenhang goed te onderzoeken houden we rekening met de invloed van bepaalde 
+achtergrondkenmerken van studenten op deze relaties zoals geslacht, vooropleiding en het opleidingsniveau 
+van hun ouders. 
+ 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 195

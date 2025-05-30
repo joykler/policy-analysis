@@ -1,0 +1,72 @@
+II II III
+Jaaroverzicht FIU-Nederland 2022 24
+1 2 3
+BijlageBijlage Bijlage Bijlage
+Tabel 4: Aantal melders per meldergroep in 2022 
+Meldergroep 2020 2021 2022
+Meldergroep 2020 2021 2022
+Notaris 295 318 331
+Aanbieder kansspelen op afstand A 7 18
+Overheid- overig 0 0 1
+Aanbieder van bewaarportemonnees 2 5 5
+Pandhuis 5 4 3
+Accountant 372 346 397
+Speelcasino 1 1 1
+Advocaat 16 9 12
+Taxateur 3 7 1
+Bank 54 59 55
+Toezichthouder 4 3 3
+Belastingadviseur 80 76 77
+Trustkantoor 30 30 28
+Belastingdienst 2 0 1
+Verhuurder van safes 1 1 1
+Beleggingsinstelling 13 14 12
+Wisseldienst virtuele valuta 12 23 24
+Beleggingsonderneming 7 12 12
+Wisselinstelling 3 2 2
+Bemiddelaar in levensverzekeringen 0 2 0
+TOTAAL 1.913 1.997 1.953
+Betaaldienstverlener 18 17 16
+Betaaldienstverlener - PSP 23 32 31
+A  Was in dit jaar nog geen (separate) meldingsplichtige groep.
+Domicilieverlener 6 4 3
+B  Foreign Intelligence zijn spontane verstrekkingen en cross border disseminations die we ontvangen vanuit andere FIU’s. Door investeringen 
+Douane 1 1 1
+in technologie kunnen we deze informatie nu sneller en beter verwerken. In 2021 werden reeds de spontane verstrekkingen separaat  
+Elektronischgeldinstelling 6 8 8
+gemonitord en in 2022 hebben we daarbij volledig zicht gerealiseerd op de ontvangen cross border disseminations.
+B C  I.v.m. wijziging in de Wwft in 2020 is de meldergroep “Kopers/verkopers van kunst en antiek” gewijzigd in twee meldergroepen, 
+Foreign Intelligence - 1 2
+ te weten “kopers/verkopers van kunst” en “kopers/verkopers van antiek”.
+Handelaar - Antiquiteiten A 1 2
+Handelaar - Edelstenen 34 40 36
+Handelaar - Goederen overig 75 80 87
+Tabel 5: Aantal verdachte transacties* per meldergroep in 2022*
+Handelaar - Kunst en antiek 4 C C
+ 2020 2021 2022 
+Handelaar - Kunstvoorwerpen A 5 10
+Meldergroep Aantal Waarvan Aantal Waarvan Aantal Waarvan 
+Handelaar - Vaartuigen 26 24 12
+MT MT MT
+Handelaar - Voertuigen 693 744 630
+Aanbieder kansspelen op A 63 1.993 
+Instelling voor Collectieve Belegging en Effecten 2 3 2
+afstand
+Juridisch dienstverlener 2 1 1
+Aanbieder van 0 2.610 2.631 
+Levensverzekeraar 3 6 4
+bewaarportemonnees
+Makelaar onroerend goed 98 91 99
+Accountant 573 1.107 461 
+Meldingsplichtig op grond van Verordening 1 0 0
+Advocaat 6 9 4 
+Niet Bank - Bedrijfsadvisering 1 0 0
+Bank 40.382 526 47.325 78 51.939 41
+Niet Bank - Creditcards 5 3 3
+Belastingadviseur 96 125 60 
+Niet Bank - Interbankmarkten 1 1 1
+Belastingdienst 5 2 1 
+Niet Bank - Leasing 1 6 5
+Beleggingsinstelling 17 11 18 
+Niet Bank - Verstrekken leningen 13 10 16
+Beleggingsonderneming 3 5 6

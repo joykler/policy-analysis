@@ -1,0 +1,56 @@
+Op basis van deze codering zijn studenten ingedeeld in studievoorschot (studenten met de codering ‘leen-
+stelsel’ in het SFS-bestand), nominale fase (oude stelsel, studenten met basisbeurs en/of aanvullende 
+beurs) of leenfase (studenten in het oude stelsel zonder basisbeurs en met een lening). Tabel 8.2 laat zien 
+dat in de loop der jaren het aandeel studenten onder het studievoorschotstelsel logischerwijs is toegeno-
+men naar 94 procent in het hbo en 97 procent in het wo. In het hoger onderwijs ontvangt het laatste jaar 
+95 procent studiefinanciering op basis van het studievoorschot. De groep met studiefinancieringsstelsel 
+‘onbekend’, zijn studenten die (theoretisch) recht hebben op studiefinanciering maar waarvan uit de SFS-
+bestanden niet duidelijk is onder welk stelsel zij vallen. In het hbo heeft 0,5 procent een basisbeurs, in het 
+wo 0,2 procent. Een kleine groep heeft nog een lening onder het oude stelsel (2% in hbo en 1% in wo). 
+Tabel 8.2: Verdeling studenten naar stelsel waar zij onder vallen in percentages (alleen studenten met recht op 
+studiefinanciering) (bron: DUO-1cHO-SFS 2010-2021) 
+   12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22 
+Studievoorschot 0% 0% 0% 19% 38% 56% 73% 84% 90% 94% 
+Basisbeurs (nom) 86% 85% 85% 64% 46% 28% 10% 3% 1% 1% 
+Hbo 
+Basisbeurs (leenfase) 12% 13% 13% 13% 13% 14% 14% 10% 5% 2% 
+Onbekend 2% 2% 2% 3% 3% 3% 3% 3% 4% 3% 
+Studievoorschot 0% 0% 0% 27% 55% 79% 89% 93% 94% 97% 
+Basisbeurs (nom) 73% 75% 75% 47% 27% 9% 2% 1% 0% 0% 
+Wo 
+Basisbeurs (leenfase) 25% 23% 23% 23% 16% 10% 6% 4% 2% 1% 
+Onbekend 2% 2% 2% 3% 2% 2% 2% 3% 3% 2% 
+Studievoorschot 0% 0% 0% 22% 44% 64% 79% 87% 92% 95% 
+Basisbeurs (nom) 81% 82% 81% 58% 39% 21% 7% 2% 1% 0% 
+Ho 
+Basisbeurs (leenfase) 17% 16% 17% 17% 15% 12% 11% 7% 4% 2% 
+Onbekend 2% 2% 2% 3% 3% 3% 3% 3% 4% 3% 
+Bron: 1cHO-SFS 
+Leenmotieven, bestedingsdoelen, de relatie tussen lenen en werken en het oordeel over de financiële 
+situatie zijn gebaseerd op de Studentenmonitor hoger onderwijs van 2010-2011 tot en met 2021-2022 (zie 
+voor een volledige beschrijving ook de inleiding). Het gaat om de geënquêteerde hbo- en wo-bachelor-
+studenten en wo-masterstudenten die recht hebben op studiefinanciering en van wie het leengedrag 
+bekend is. Het veldwerk vond in alle jaren plaats aan het eind van het studiejaar in de periode eind mei 
+t/m begin juli. Tabel 8.3 toont de aantallen die in de analyses zijn meegenomen. Over alle jaren 
+samengenomen, zijn de gegevens geanalyseerd van 165.181 studenten. Kleine verschillen met voorgaande 
+jaren kunnen veroorzaakt zijn door actualisatie van het weegschema of wijzigingen in de vraagstelling. 
+Indien dit het geval is, wordt dat vermeld. Steeds is het laatste jaar als uitgangspunt genomen voor het 
+bepalen van de achterwaartse compatibiliteit. 
+Tabel 8.3: Aantal records gebruikt voor analyses studiefinanciering (Studentenmonitor) – ongewogen 
+ 
+Hbo-bachelor Wo-bachelor Ho-bachelor Wo-master 
+ 
+n % lening n % lening n % lening n % lening 
+12-13 7.010 24% 5.748 26% 12.758 24% 2.838 37% 
+13-14 5.803 25% 4.419 27% 10.222 26% 2.257 38% 
+14-15 5.597 27% 5.705 33% 11.302 30% 2.965 42% 
+15-16 4.871 36% 3.664 50% 8.535 42% 2.155 49% 
+16-17 6.777 40% 4.543 56% 11.320 46% 2.412 54% 
+17-18 6.080 48% 4.742 64% 10.822 55% 3.093 57% 
+18-19 6.697 50% 4.484 62% 11.181 55% 2.502 57% 
+19-20 3.923 43% 5.947 56% 9.870 51% 4.721 45% 
+20-21 4.007 46% 7.549 54% 11.556 51% 3.906 56% 
+21-22 2.186 37% 4.040 53% 6.226 47% 2.498 58% 
+Selectie uit de Studentenmonitor (voltijd hbo-bachelor en wo-bachelor en wo-master, met recht op studiefinanciering en waarvan 
+bekend is of men leent). 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 205

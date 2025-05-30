@@ -1,0 +1,38 @@
+I II III
+Jaaroverzicht FIU-Nederland 2022 7
+11 2 3
+Bijlage Bijlage Bijlage
+1.1 Complexiteit in de cijfers
+Kijkend naar de cijfers in bijlage I dan valt allereerst op dat het aantal ongebruikelijke transacties 
+(OT’s) ten opzichte van vorig jaar wederom gestegen is. Er zijn echter grote verschillen tussen en 
+binnen meldergroepen. Zo valt bijvoorbeeld op dat de cryptosector in 2022 aanzienlijk minder 
+meldde dan een jaar eerder, ongeveer 120.000 minder OT’s. Gedeeltelijk zal dit te maken heb-
+ben met de dalende koersen waardoor minder meldingen op basis van de objectieve indicator 
+1
+zijn gemeld . Maar wat ook meespeelt is dat 2021 een piek kende omdat een aantal instellingen 
+begin dat jaar begon te melden met terugwerkende kracht vanaf mei 2020 nadat ze de registratie 
+bij De Nederlandsche Bank (DNB) voltooid hadden. We zouden dus kunnen stellen dat 2022 het 
+eerste genormaliseerde jaar had kunnen zijn voor deze meldergroep, ware het niet dat het een 
+heel dynamisch jaar was voor deze sector gezien de koersen en het faillissement van één van de 
+grootste exchanges ter wereld. De komende jaren zullen daarom meer inzicht geven in wat voor 
+deze sector normaal is. Wat wel opvalt is dat in 2022 meer transacties verdacht zijn verklaard 
+vanuit deze sector, een stijging van ongeveer 50%. Een reden hiervoor is dat onze kennis en 
+kunde over deze sector steeds verder toeneemt en met het groter worden van onze database op 
+deze sector onze informatiepositie ook beter is ten opzichte van een jaar eerder.  
+Binnen de meldergroep banken groeide het aantal gemelde OT’s juist flink, zo’n 300.000 extra 
+meldingen. In deze sector zitten echter zeer grote verschillen tussen instellingen. De banken-
+sector kende in 2022 ruim vijftig instellingen die tenminste één melding deden. Er is echter één 
+instelling die bijna 80% van alle meldingen voor zijn rekening neemt en individueel verantwoor-
+delijk is voor de volledige groei in OT’s binnen deze sector. Hier zijn meerdere oorzaken voor. 
+Sommige van deze oorzaken zijn bedrijfseconomisch van aard, zoals groei van die organisatie. 
+Wat daarnaast de groei versterkt is dat deze instelling geen samengestelde transacties meldt. 
+Stel, een oplichter licht een persoon op voor in totaal honderd transacties van 1.000 euro. Wat 
+deze instelling dan meldt zijn honderd losse transacties. De meeste instellingen melden dit 
+echter als één samengestelde transactie van 100.000 euro met telkens dezelfde van en naar 
+rekening. Beide manieren zijn toegestaan. Het zorgt er alleen voor dat de aantallen OT’s lastig te 
+vergelijken zijn en dat één instelling een onevenredig groot aandeel in deze meldergroep heeft. 
+Deze onevenredigheid is ook van toepassing op het aantal verdachte transacties (VT’s) voort-
+komend vanuit ongebruikelijke transacties uit de bankensector. Wederom dezelfde instelling is 
+verantwoordelijk voor bijna 50% van alle VT’s in 2022 vanuit deze meldergroep.  
+1 Deze sector kent de indicator Objectief13 die stelt dat ‘’Een transactie van een bedrag van €15.000,- of meer’’ gemeld 
+dient te worden.

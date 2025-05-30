@@ -1,0 +1,40 @@
+II II III
+Jaaroverzicht FIU-Nederland 2022 23
+1 2 3
+BijlageBijlage Bijlage Bijlage
+Aantal meldingen per meldersgroep (Exclusief Caribisch Nederland)
+2020 2021 2022
+Meldergroep Aantal Waarvan MT Aantal Waarvan MT Aantal Waarvan MT Waarvan subjectief
+Handelaar - Goederen overig 477 594 678 66%
+Handelaar - Kunst en antiek 18 C  C  nvt
+ 
+Handelaar - Kunstvoorwerpen A 45 173 45%
+Handelaar - Vaartuigen 52 36 20 5%
+Handelaar - Voertuigen 4.153 3.780 3.230 20%
+Instelling voor Collectieve Belegging en Effecten 3 9 7 100%
+Juridisch dienstverlener 2 1 1 0%
+Levensverzekeraar 9 38 17 42 100%
+Makelaar onroerend goed 246 212 218 85%
+Meldingsplichtig op grond van Verordening 1 0 0 nvt
+Niet Bank - Bedrijfsadvisering 2 0 0 nvt
+Niet Bank - Beheer effecten 0 0 0 nvt
+Niet Bank - Creditcards 27.656 6.288 9.985 5%
+Niet Bank - Interbankmarkten 29 20 19 100%
+Niet Bank - Leasing 1 29 321 98%
+Niet Bank - Verstrekken leningen 233 153 406 98%
+Notaris 1.060 1.100 1.213 95%
+Overheid - Overig 0 0 2 0%
+Pandhuis 167 122 139 63%
+Speelcasino 3.764 3.310 9.284 15%
+Taxateur 3 9 1 100%
+Toezichthouder 76 39 40 100%
+Trustkantoor 146 87 89 96%
+Verhuurder van safes 52 32 41 98%
+Wisseldienst virtuele valuta 7.066 190.345 131.702 26%
+Wisselinstelling 491 417 830 44%
+        
+TOTAAL 722.247 186.576 1.230.411 264.167 1.896.176 229.843 
+A  Was in dit jaar nog geen (separate) meldingsplichtige groep.
+B  Foreign Intelligence zijn spontane verstrekkingen en cross border disseminations die we ontvangen vanuit andere FIU’s. Door investeringen in technologie kunnen we deze informatie nu sneller en beter verwerken. 
+ In 2021 werden reeds de spontane verstrekkingen separaat gemonitord en in 2022 hebben we daarbij volledig zicht gerealiseerd op de ontvangen cross border disseminations
+C  I.v.m. wijziging in de Wwft in 2020 is de meldergroep “Kopers/verkopers van kunst en antiek” gewijzigd in twee meldergroepen, te weten “kopers/verkopers van kunst” en “kopers/verkopers van antiek”

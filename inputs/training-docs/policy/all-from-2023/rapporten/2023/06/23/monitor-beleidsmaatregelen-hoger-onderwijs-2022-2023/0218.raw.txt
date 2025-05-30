@@ -1,0 +1,92 @@
+Figuur 8.22 toont de verschillen in leen- en werkstatus van studenten, gerelateerd aan het opleidingsniveau 
+van de ouders (wederom op basis van de Studentenmonitor). Het gaat hier om studenten die in het laatste 
+meetjaar (2021-2022) onder het studievoorschotstelsel vallen (de groepen die nog een basisbeurs ontvangen 
+zijn in de Studentenmonitor verwaarloosbaar klein). Het eerste dat opvalt is dat het aandeel studenten dat 
+uitsluitend werkt (gele balk) in het hbo een stuk groter is dan in het wo (ongeacht het opleidingsniveau van 
+de ouders). In het wo wordt door relatief veel studenten geleend (al dan niet in combinatie met betaalde 
+arbeid; groene en blauwe balk). Daarnaast zien we dat het percentage studenten dat uitsluitend betaalde 
+arbeid verricht in alle groepen kleiner is wanneer men hoger opgeleide ouders heeft. Deze verschillen zijn 
+significant. In zowel hbo als wo is het aandeel studenten dat uitsluitend leent iets groter in de groep met 
+hoger opgeleide ouders dan in de groep met lager opgeleide ouders. Het deel dat helemaal niet leent en 
+ook niet werkt is in het wo eveneens iets groter in de groep met hoger opgeleide ouders. 
+100%
+10% 9%
+11% 11% 11%
+13%
+90%
+80%
+37%
+33%
+70%
+42%
+52%
+51%
+60% 58%
+50%
+14% 17%
+13%
+40%
+9% 11%
+30%
+9%
+20% 39%
+38%
+34%
+29%
+27%
+22%
+10%
+0%
+Eerste Ouder(s) ho Eerste Ouder(s) ho Eerste Ouder(s) ho
+generatie ho generatie ho generatie ho
+Hbo Wo Ho
+Lenen en werken Alleen lenen Alleen werken Niet lenen en niet werken
+ 
+Figuur 8.22: Status lenen en werken naar opleidingsniveau van de ouders (alleen studenten met studievoorschot) 
+(bron: Studentenmonitor 2021-2022) 
+Figuur 8.23 laat dezelfde gegevens zien, maar dan uitgesplitst naar inkomensniveau van de ouders. Deze 
+indicator is door studenten gerapporteerd en is zo samengesteld dat ouders die volgens studenten (onder)-
+gemiddeld verdienen tot de categorie ‘Laag’ worden gerekend. Ouders die volgens studenten bovengemid-
+deld verdienen behoren tot de categorie ‘Hoog’. De verdeling tussen lenen en werken over het zo 
+berekende inkomen van ouders laat significante verschillen zien, met name in het wo. Studenten waarvan 
+de ouders een lager inkomen hebben combineren (in het wo) vaker lenen en werken dan studenten uit 
+hogere inkomensgroepen en lenen ook vaker uitsluitend. Het uitsluitend werken zien we juist vaker bij 
+studenten met ouders uit de hogere inkomensgroepen, evenals (in het wo) het niet lenen én niet werken. In 
+het hbo zijn de verschillen tussen het ouderlijk inkomen en het leen- en werkgedrag kleiner dan in het wo. 
+100%
+9% 10%
+11% 11% 12%
+14%
+90%
+80%
+29%
+70%
+37% 43%
+46%
+52%
+56%
+60%
+19%
+50%
+14%
+40% 14%
+11%
+11%
+30%
+7%
+43%
+20%
+35%
+33%
+31%
+26% 26%
+10%
+0%
+Inkomen Inkomen Inkomen Inkomen Inkomen Inkomen
+laag hoog laag hoog laag hoog
+Hbo Wo Ho
+Lenen en werken Alleen lenen Alleen werken Niet lenen en niet werken
+ 
+Figuur 8.23: Status lenen en werken naar inkomensniveau van de ouders (alleen studenten met studievoorschot) (bron: 
+Studentenmonitor 2021-2022) 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 218

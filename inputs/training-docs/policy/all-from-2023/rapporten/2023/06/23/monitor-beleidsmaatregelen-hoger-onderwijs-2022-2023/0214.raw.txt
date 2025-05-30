@@ -1,0 +1,128 @@
+Studenten waarvan de bedragen in de grafieken zijn verwerkt, zijn dus in sommige gevallen al afgestu-
+deerd; anderen studeren nog of zijn gestopt. Wat de studenten in de cohorten gemeenschappelijk hebben is 
+dat zij allemaal in hetzelfde jaar zijn gestart in het hoger onderwijs. Er is dus géén selectie gemaakt op 
+gediplomeerden en er is géén rekening gehouden met eventueel reeds afgeloste bedragen of dat studenten 
+wellicht in de aflossingsfase zitten. Vanuit die optiek zijn ze vergelijkbaar. Het gaat om de totaal opge-
+bouwde studieschuld tot en met peildatum augustus 2022. Voor degenen die nog studeren kan de schuld nog 
+toenemen de komende jaren; voor anderen kan dit het eindpunt zijn. De gegevens zijn getoond tot en met 
+cohort 2017; studenten in latere cohorten studeren relatief kort (max. 5 jaar) en zijn daardoor minder 
+vergelijkbaar, en dus niet weergegeven. Figuur 8.16 laat de opgebouwde studieschuld zien per eerste jaar 
+van inschrijving in het hoger onderwijs. Vanaf cohort 2015 valt het merendeel van de studenten onder het 
+stelsel van het studievoorschot. Ook een deel van de studenten die eerder zijn ingestroomd kan later onder 
+het studievoorschotstelsel vallen, bijvoorbeeld bij het starten van een masteropleiding.  
+100%
+4%
+5% 5% 5%
+6% 7%
+7% 8%
+9%
+3% 11% 11%
+4% 13% 13%
+4% 14% 13%
+15%
+7% 5%
+5%
+90% 5% 5%
+22%
+6%
+6% 8%
+7% 26%
+7%
+7% 7%
+7%
+8% 9% 7%
+8% 9%
+9% 9%
+9% 12% 8%
+80%
+9% 10%
+9%
+9%
+10%
+10%
+10%
+11% 10% 10%
+12%
+11%
+11% 10%
+13%
+70% 13% 11%
+11%
+11% 13% 12%
+14%
+13%
+14%
+14% 11%
+13%
+11%
+15% 12%
+60% 12%
+11%
+22% 15%
+14% 14% 15%
+22%
+22%
+17% 14%
+50%
+22% 13%
+13%
+16%
+15% 12% 22%
+21%
+24%
+40% 14%
+21%
+19%
+21%
+12%
+12% 19%
+17%
+22%
+30%
+21% 20%
+15%
+12%
+45% 11%
+42%
+41%
+20%
+38%
+35% 35%
+30%
+29%
+28%
+27%
+25% 25%
+10% 21%
+19% 19% 19%
+17% 17%
+0%
+12 13 14 15 16 17 12 13 14 15 16 17 12 13 14 15 16 17
+Hbo Wo Ho
+Geen studieschuld €1-10k €10-20k €20-30k €30-40k €40-50k >€50k
+ 
+Figuur 8.16: Verdeling van studieschuldbedragen (in categorieën) van studenten met sf-recht, peildatum 31-8-2022 
+(gecategoriseerde leensom) naar het eerste jaar van inschrijving in het hoger onderwijs (bron: DUO-1cHO-SFS 2012-
+2017) 
+We vergelijken allereerst cohort 2015 (het eerste studievoorschotcohort) met cohort 2014 (het laatste pré-
+studievoorschotcohort). Van cohort 2015 heeft op dit moment 25 procent geen studieschuld (29% hbo en 
+17% wo); van cohort 2014 is dit 35 procent (41% hbo en 19% wo). Onder het leenstelsel is de groep zonder 
+schuld kleiner geworden, met name in het hbo. De groep met een schuld hoger dan €40.000 is juist groter 
+geworden sinds 2015: voor cohort 2014 is dit (afgerond) dertien procent (9% hbo en 22% wo); voor cohort 
+2015 is dit 23 procent (18% hbo en 37% wo). Studenten met een studieschuld meer dan €50.000 vinden we 
+met name in het wo: in cohort 2014 besloeg deze groep veertien procent; in cohort 2015 26 procent. Vooral 
+in de groepen met de laagste en hoogste studieschuld (geen schuld en > €50.000) zijn verschillen tussen 
+twee cohorten groot. In de hoogste categorie (>50.000 schuld) is het verschil twaalf procentpunt; in de 
+groep zonder schuld tien procentpunt (die grotendeels voor rekening komt van het hbo). Overigens zijn er 
+ook verschillen tussen cohort 16 en cohort 17 te zien; deze worden ook veroorzaakt door het feit dat cohort 
+17 tot op de peildatum een jaar korter studeert dan cohort 16 (5 jaar vs. 6 jaar). De studieschuld van 
+cohort 17 zal naar verwachting nog oplopen. Wat betekent dat voor de gemiddelde opgebouwde studie-
+schuld? Figuur 8.17 toont de totale leensom van studiefinancieringsgerechtigde studenten die hebben 
+geleend tot en met peildatum augustus 2022; de grafiek eronder (figuur 8.18) laat de opgebouwde schuld 
+zien van alle studiefinancieringsgerechtigden (degenen zonder lening kregen de waarde ‘0’). Van alle 
+studenten die lenen is de totale leensom berekend tot en met augustus 2022. Ook hier worden de cohorten 
+2012 tot en met 2017 weergegeven. Het betreft ook hier alle studenten die zijn gestart met een studie, 
+ongeacht of zij zijn afgestudeerd, uitgevallen, geswitcht of nog studeren. Er is geen rekening gehouden met 
+aflossingen. Dit houdt in dat voor alle cohorten wordt gekeken naar de schuld op 31-8-2022, waardoor de 
+studieschuld van een cohort (t) ten opzichte van het cohort een jaar later (t+1) altijd een jaar 'achterloopt'.  
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 214

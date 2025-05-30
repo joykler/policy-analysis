@@ -1,0 +1,59 @@
+II II III
+Jaaroverzicht FIU-Nederland 2022 26
+1 2 3
+BijlageBijlage Bijlage Bijlage
+Tabel 7: Aantal verdachte transacties per soort transactie in 2022 Tabel 10: Aantallen meldingen per meldergroep op Caribisch Nederland in 2022
+Soort transactie Aantal Aandeel (%) Meldersgroep Aantal ongebruikelijke transacties
+Contante transactie 10.519 11%
+Bank 7337
+Girale transactie 47.041 51%
+Belastingadviseur 8
+Money transfer 18.081 20%
+Bemiddelaar Levensverzekeringen 5
+Overig 16.252 18%
+Douane 59
+Totaal 91.893 100%
+Handelaar - Voertuigen 3
+Notaris 5
+Tabel 8: Aantal* en aandeel** bedrag verdacht verklaarde (uitgevoerde) transacties in 2022
+Speelcasino 39
+Totaal 7456
+Aantal Aandeel Bedrag in € Aandeel 
+(%) bedrag (%)
+< €10.000 60.866 68% 75.652.321 <1%
+Tabel 11: Aantal verdachte transacties en dossiers per doormeldreden op Caribisch Nederland in 2022
+€10.000 tot €100.000 22.641 25% 727.669.336 2%
+€100.000 tot €1.000.000 4.818 5% 1.275.855.382 4% Doormeldreden Aantal Aandeel Aantal Aandeel 
+(%) dossiers (%)
+€1.000.000 tot €10.000.000 871 1% 2.478.754.659 8%
+Eigen onderzoek 132 18% 6 10%
+€10.000.000 tot 192 <1% 4.770.530.853 16%
+€100.000.000 VROS 554 77% 51 85%
+> €100.000.000 37 <1% 20.664.049.171 69%
+LOvJ 34 5% 3 5%
+Eindtotaal 89.425 100% 29.992.511.724 100%
+Totaal 728 100% 60 100%
+*Voorgenomen transacties (2.468 transacties) zijn buiten beschouwing gelaten.
+**Door afrondingsverschillen tellen de percentages in de tabel niet exact op tot 100%.
+Tabel 12: Top 5 van het aantal ontvangen informatieverzoeken (Request for Information, RFI’s) van  
+Tabel 9: Dossiers die waren gestart op aanwijzing van terrorisme/terrorisme fina nciering in 2022 buitenlandse FIU’s in 2022
+Aantal Aandeel (%) Aantal Aandeel (%) Land Aantal RFI’s
+dossiers transacties
+1 Italië 69
+1
+T/TF 149 50% 1.614 28%
+2 Duitsland 61
+2
+TF+anders 86 29% 3.294 57%
+3 Luxemburg 43
+3
+Anders 64 21% 919 16%
+4 België 32
+Eindtotaal 299 100% 5.827 100%
+5 Frankrijk 30
+1  Dit zijn dossiers die gestart zijn op basis van een indicatie van terrorisme(financiering) en waarbij, na analyses van de FIU-Nederland,  
+bleek dat deze daar inderdaad mogelijk aan gerelateerd zijn. 
+2  Dit zijn dossiers die gestart zijn op basis van een indicatie van terrorisme(financiering) maar waar, na analyses van FIU-Nederland,  
+ook een link met een mogelijk ander delict aan het licht kwam. 
+3  Dit zijn dossiers die gestart zijn op basis van een indicatie van terrorisme(financiering) maar waar, na analyses van FIU-Nederland,  
+alleen een link met een mogelijk ander delict aan het licht kwam.

@@ -1,0 +1,61 @@
+Figuur 6.23: Percentage studenten dat (zeer) tevreden, neutraal of (zeer) ontevreden is over informatie beschikbare voorzieningen 
+voor studeren met bijzondere omstandigheden (bron: Studentenmonitor 2018-2021) ....................................................... 161 
+Figuur 6.24: Percentage studenten dat (zeer) tevreden, neutraal of (zeer) ontevreden is over omgang instelling met bijzondere 
+omstandigheden (bron: Studentenmonitor 2018-2021) ........................................................................................... 161 
+Figuur 6.25: Percentage studenten dat (zeer) tevreden is over studiefaciliteiten naar aandachtsgroepen (bron: Studentenmonitor  
+2015-2021) ............................................................................................................................................. 162 
+Figuur 6.26: Percentage studenten dat (zeer) tevreden is over overige faciliteiten en studieomgeving naar aandachtsgroepen  
+(bron: Studentenmonitor 2015-2021) ............................................................................................................... 162 
+Figuur 6.27: Percentage studenten dat (zeer) tevreden is over studiebegeleiding naar aandachtsgroepen (bron: Studentenmonitor 2015-
+2021) ................................................................................................................................................... 163 
+Figuur 6.28: Bekendheid met en oordeel over het profileringsfonds (%) (bron: Studentenmonitor 2021) .................................. 165 
+Figuur 6.29: Gebruik profileringsfonds (%) (bron: Studentenmonitor 2021) .................................................................... 166 
+Figuur 7.1: Eerstejaars uitval/switch (%) t.o.v. alle eerstejaars (bron: 1cHO, eerstejaarscohorten 2011-2021) .......................... 172 
+Figuur 7.2: Type eerstejaars uitval en switch (%) t.o.v. alle eerstejaars (bron: 1cHO, eerstejaarscohorten 2011-2021) ................. 172 
+Figuur 7.3: Uitvalstatus na 2 jaar naar soort hoger onderwijs (1cHO, berekening ResearchNed)............................................ 173 
+Figuur 7.4: Uitvalstatus na 2 jaar naar vooropleiding (1cHO, berekening ResearchNed) ..................................................... 173 
+Figuur 7.5: Bestemming van studenten die op t+1 niet meer in het bekostigd ho zijn ingeschreven (bron: 1cHO, eerstejaarscohorten 
+2011-2021) ............................................................................................................................................. 174 
+Figuur 7.6: Eerstejaars uitval en switch (%) naar vooropleiding (bron: 1cHO, eerstejaarscohorten 2011-2021) ........................... 174 
+Figuur 7.7: Type uitval en switch van eerstejaars hbo-studenten naar vooropleiding (%) t.o.v. alle eerstejaars in het hbo naar 
+bestemming in jaar 2 (bron: 1cHO, eerstejaarscohorten 2011-2021) ........................................................................... 175 
+Figuur 7.8: Type uitval en switch van eerstejaars vwo-gediplomeerden binnen of tussen hbo en wo (%) t.o.v. alle vwo-uitval/switch 
+(bron: 1cHO, eerstejaarscohorten 2011-2021) ..................................................................................................... 175 
+Figuur 7.9: Type uitval en switch van eerstejaars uit het hbo naar sector (bron: 1cHO, eerstejaarscohorten 2006-2021) ............... 176 
+Figuur 7.10: Type uitval en switch van eerstejaars uit wo naar sector (bron: 1cHO, eerstejaarscohorten 2017-2021) ................... 176 
+Figuur 7.11: Type uitval switch van eerstejaars mbo-hbo (%) naar sector mbo-diploma (bron: 1cHO, eerstejaarscohorten 2015-2021) 177 
+Figuur 7.12: Type uitval en switch van eerstejaars havo-hbo (%) naar profiel havo-diploma (bron: 1cHO, eerstejaarscohorten  
+2015-2021) ............................................................................................................................................. 178 
+Figuur 7.13: Type uitval en switch van eerstejaars vwo-hbo (%) naar profiel vwo-diploma (bron: 1cHO, eerstejaarscohorten  
+2015-2021) ............................................................................................................................................. 179 
+Figuur 7.14: Type uitval en switch van eerstejaars vwo-wo (%) naar profiel vwo-diploma (bron: 1cHO, eerstejaarscohorten  
+2015-2021) ............................................................................................................................................. 179 
+Figuur 7.15: Eerstejaars uitval en switch (%) naar eindexamencijfers vo (bron: 1cHO, eerstejaarscohorten 2011-2021) ................ 180 
+Figuur 7.16: Eerstejaars uitval en switch in hbo en wo naar type selectie (%) (bron: 1cHO/CROHO 2021-2022) .......................... 180 
+Figuur 7.17: Eerstejaars uitval en switch (%) naar geslacht en soort ho (bron: 1cHO, eerstejaarscohorten 2011-2021) .................. 181 
+Figuur 7.18: Eerstejaars uitval en switch (%) uit bètatechniek en soort ho (bron: 1cHO, eerstejaarscohorten 2011-2021) .............. 181 
+Figuur 7.19: Bètatechniekkeuze in t+1 van uitsluitend eerstejaars uitval en switch uit bètatechnische studies (%) naar soort hoger 
+onderwijs in eerste jaar (bron: 1cHO, eerstejaarscohorten 2011-2021) ........................................................................ 182 
+Figuur 7.20: Eerstejaars uitval/switch (%) van hbo-studenten met een niet-westerse migratieachtergrond versus geen 
+migratieachtergrond naar vooropleiding (bron: 1cHO, eerstejaarscohorten 2011-2021) ..................................................... 182 
+Figuur 7.21: Eerstejaars uitval/switch hbo-studenten naar migratieachtergrond en vooropleiding (%) (bron: 1cHO, eerstejaarscohorten 
+2011-2021) ............................................................................................................................................. 183 
+Figuur 7.22: Eerstejaars uitval/switch (%) van wo-studenten met een niet-westerse migratieachtergrond tegenover studenten  
+met een Nederlandse achtergrond (alleen vwo) (bron: 1cHO, eerstejaarscohorten 2011-2021) ............................................. 184 
+Figuur 7.23: Eerstejaars uitval en switch (%) van wo-studenten naar migratieachtergrond (bron: 1cHO, eerstejaarscohorten 2011-2021)
+ .......................................................................................................................................................... 185 
+Figuur 7.24: Type eerstejaars uitval en switch (%) in hbo en wo naar opleiding ouders en migratieachtergrond (bron: CBS microdata; 
+van 65% van de records was het opleidingsniveau van de ouders bekend) ..................................................................... 185 
+Figuur 7.25: Type eerstejaars uitval en switch (%) in hbo en wo naar opleiding ouders en vooropleiding (mbo en hbo) (bron: CBS 
+microdata; van 65% van de records was het opleidingsniveau van de ouders bekend) ........................................................ 186 
+Figuur 7.26: Type eerstejaars uitval en switch (%) in hbo en wo naar opleiding ouders en vooropleiding (alleen vwo) (bron: CBS 
+microdata; van 65% van de records was het opleidingsniveau van de ouders bekend) ........................................................ 187 
+Figuur 7.27: Eerstejaars uitval en switch (%) van voltijd bachelor instroom naar inkomen ouders (85% bekend) (Bron: CBS microdata)187 
+Figuur 7.28: Eerstejaars uitval/switch (%) van internationale studenten in het wo, vergeleken met Nederlandse studenten met een 
+vwo-achtergrond (bron: 1cHO, eerstejaarscohorten 2011-2021) ................................................................................ 188 
+Figuur 7.29: Eerstejaars uitval en switch (%) van internationale studenten in het wo in vergelijking met Nederlandse studenten met een 
+vwo-achtergrond (bron: 1cHO, eerstejaarscohorten 2011-2021) ................................................................................ 188 
+Figuur 7.30: Percentage eerstejaars uitval/switch naar wel/geen tussenjaar: alleen studenten die direct zijn doorgestroomd 
+vergeleken met degenen die één tussenjaar hadden (bron: 1cHO, eerstejaarscohorten 2011-2021) ....................................... 189 
+Figuur 7.31: Percentage studenten dat in eerste jaar uitvalt/switcht naar functiebeperking (bron: Startmonitor 2011-2021) .......... 189 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 233

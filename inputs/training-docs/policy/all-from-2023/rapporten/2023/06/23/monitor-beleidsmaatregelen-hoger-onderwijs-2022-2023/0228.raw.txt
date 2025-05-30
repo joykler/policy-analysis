@@ -1,0 +1,61 @@
+Figuur 2.12: Gediplomeerden havo/vwo/mbo (%) die direct zijn ingestroomd in het ho naar opleiding ouders t.o.v. alle 
+gediplomeerden: betreft alle diplomacohorten vanaf eindexamenjaar 2011-2012 (bron: CBS microdata) ................................... 34 
+Figuur 2.13: Gediplomeerden mbo (%) die zowel direct als indirect zijn ingestroomd in het hoger onderwijs t.o.v. alle gediplomeerden 
+naar opleidingsniveau van de ouders: betreft alle diplomacohorten vanaf eindexamenjaar 2011-2012 (bron: CBS microdata) ........... 35 
+Figuur 2.14: Percentage gediplomeerden met bètatechnisch profiel dat direct doorstroomt naar ho én kiest voor bètatechniek naar 
+geslacht t.o.v. alle gediplomeerden met bètatechnisch profiel die naar het ho gaan: betreft alle diplomacohorten vanaf 
+eindexamenjaar 2011-2012 (bron: DUO stroomdata) ............................................................................................... 35 
+Figuur 2.15: Bestemming van gediplomeerden die niet doorstromen naar het hoger onderwijs: betreft alle diplomacohorten vanaf 
+eindexamenjaar 2011-2012 (bron: DUO stroomdata) ............................................................................................... 36 
+Figuur 2.16: Instroom van studenten uit de Caribische delen van het Koninkrijk deel van het Koninkrijk (bron: CBS microdata) ......... 36 
+Figuur 2.17: Instroom van studenten uit de Caribische delen van het Koninkrijk in het hbo naar eiland van herkomst (bron: CBS 
+microdata) ............................................................................................................................................... 37 
+Figuur 2.18: Instroom van studenten uit de Caribische delen van het Koninkrijk in het wo naar eiland van herkomst (exclusief BES-
+eilanden) (bron: CBS microdata) ...................................................................................................................... 37 
+Figuur 2.19: Instroom in de bachelor (absolute aantallen, eerstejaars hoger onderwijs, voltijd, deeltijd en duaal, excl. associate 
+degrees) (bron: 1cHO 2012-2022) ..................................................................................................................... 38 
+Figuur 2.20: Instroom in de associate degree (absolute aantallen, eerstejaars hoger onderwijs, voltijd, deeltijd en duaal) (bron: 1cHO 
+2012-2022) ............................................................................................................................................... 38 
+Figuur 2.21: Verdeling van de instroom in de bachelor en associate degree naar opleidingsvorm (eerstejaars hoger onderwijs, voltijd, 
+deeltijd en duaal, excl. associate degrees) (bron: 1cHO 2012-2022) ............................................................................. 39 
+Figuur 2.22: Instroom (absolute aantallen) in deeltijdopleidingen en/of studenten ouder dan 30 (excl. februari-instroom en excl. ad; 
+alleen hoofdinschrijvingen ho) (bron: 1cHO 2012-2022) ............................................................................................ 39 
+Figuur 2.23: Verdeling van de instroom in de voltijd bachelor naar geslacht (eerstejaars hoger onderwijs) (bron: 1cHO 2012-2022) .... 40 
+Figuur 2.24: Verdeling van de instroom in de voltijd bachelor naar selectie (eerstejaars hoger onderwijs) (bron: 1cHO 2017-2022) .... 42 
+Figuur 2.25: Instroom in selecterende opleidingen als % van de totale instroom in de voltijd bachelor naar geslacht en 
+migratieachtergrond (eerstejaars hoger onderwijs) (bron: 1cHO 2017-2022) .................................................................... 42 
+Figuur 2.26: Instroom in numerusfixusopleidingen als % van de totale instroom (excl. overige selecterende opleidingen) in de voltijd 
+bachelor naar geslacht en migratieachtergrond (eerstejaars hoger onderwijs) (bron: 1cHO 2017-2022) ..................................... 43 
+Figuur 2.27: Eerstejaars ho-instroom selecterende opleidingen in de voltijd bachelor naar opleidings- en inkomensniveau van de ouders 
+(eerstejaars hoger onderwijs) (bron: CBS microdata) .............................................................................................. 43 
+Figuur 2.28: Verdeling van de instroom in de voltijd hbo-bachelor en associate degree naar leeftijd (eerstejaars hoger onderwijs) 
+(bron: 1cHO 2012-2022) ................................................................................................................................ 44 
+Figuur 2.29: Verdeling van de instroom in de voltijd wo-bachelor naar leeftijd (eerstejaars hoger onderwijs) (bron: 1cHO 2012-2022) 44 
+Figuur 2.30: Verdeling van de instroom in de voltijd hbo-bachelor en associate degree naar vooropleiding (eerstejaars hoger onderwijs) 
+(bron: 1cHO 2012-2022) ................................................................................................................................ 45 
+Figuur 2.31: Verdeling van de instroom in de voltijd wo-bachelor naar vooropleiding vóór het ho (eerstejaars hoger onderwijs) (bron: 
+1cHO 2012-2022) ........................................................................................................................................ 45 
+Figuur 2.32: Percentage nieuwe bachelor- en associate degree-studenten met een (niet-westerse) migratieachtergrond (voltijd) (bron: 
+1cHO 2012-2022) ........................................................................................................................................ 46 
+Figuur 2.33: Verdeling van de instroom in de hbo-bachelor en associate degree naar sector (%) (bron: 1cHO 2012-2022) ................. 46 
+Figuur 2.34: Verdeling van de voltijd bachelorinstroom in het wo naar sector (%) (bron: 1cHO 2012-2022) ................................. 47 
+Figuur 2.35: Gemiddelde vo-eindexamencijfers van de voltijd bachelorinstroom met een vwo-achtergrond naar soort hoger onderwijs 
+en geslacht (bron: 1cHO 2012-2022) .................................................................................................................. 47 
+Figuur 2.36: Ontwikkeling van de bachelorinstroom (eerstejaars ho en eerstejaars opleiding) in de pabo (absolute aantallen, voltijd, 
+deeltijd en duaal) (bron: 1cHO 2012-2022) .......................................................................................................... 48 
+Figuur 2.37: Ontwikkeling van de bachelorinstroom in de pabo (eerstejaars opleiding) naar vooropleiding (absolute aantallen, voltijd, 
+deeltijd en duaal) (bron: 1cHO 2012-2022) .......................................................................................................... 49 
+Figuur 2.38: Ontwikkeling van de bachelorinstroom (eerstejaars opleiding) in de pabo naar geslacht (absolute aantallen, voltijd, 
+deeltijd en duaal) (bron: 1cHO 2012-2022) .......................................................................................................... 49 
+Figuur 2.39: Gemiddelde havo en vwo-eindexamencijfers van de voltijd bachelorinstroom in de pabo (alleen voltijd) (bron: 1cHO 2012-
+2022) ..................................................................................................................................................... 50 
+Figuur 2.40: Instroom in tweedegraads hbo-lerarenopleidingen in de permanente tekortvakken in absolute aantallen (alle eerstejaars 
+in de opleiding, ongeacht vooropleidingsgeschiedenis), voltijd, deeltijd en duaal samengenomen (bron: 1cHO 2011-2022) .............. 50 
+Figuur 2.41: Instroom in tweedegraads hbo-lerarenopleidingen in de permanente tekortvakken (eerstejaars opleiding) onderscheiden 
+naar totaal, bèta en talen: aantallen, alleen hbo-bachelor, voltijd, deeltijd en duaal samengenomen (bron: 1cHO 2012-2022) ......... 51 
+Figuur 2.42: Instroom in hbo-verpleegkunde (eerstejaars in de opleiding) in absolute aantallen naar geslacht, voltijd, deeltijd en duaal 
+samengenomen (bron: 1cHO 2012-2022) ............................................................................................................. 51 
+Figuur 2.43: Percentage deelname bètatechnische opleidingen (voltijd) in de bachelor naar geslacht (% t.o.v. totale instroom) (bron: 
+1cHO 2012-2022) ........................................................................................................................................ 52 
+Figuur 2.44: Aantal internationale studenten (instroom) voltijd bachelor (%, excl. ad) (bron: 1cHO 2012-2022) ........................... 52 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 228
