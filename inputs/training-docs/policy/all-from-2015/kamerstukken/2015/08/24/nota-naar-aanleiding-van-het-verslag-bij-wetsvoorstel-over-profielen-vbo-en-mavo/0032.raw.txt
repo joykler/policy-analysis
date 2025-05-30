@@ -44,5 +44,4 @@ termijn voor vmbo-scholen met dalende leerlingaantallen niet houdbaar zijn. Een
 belangrijke reden om deze vernieuwing te starten was dat het huidige palet aan 
 beroepsgerichte keuzevakken voor een groeiend aantal scholen niet langer 
 organiseerbaar is. 
- W10336.NAV 
-32
+ W10336.NAV

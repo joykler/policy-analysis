@@ -42,5 +42,4 @@ In het communicatieplan voor de implementatie van de profielen zal ruimte worden
 ingebouwd voor de communicatie met mbo-instellingen over de nieuwe profielen en de 
 overgangsperiode waarin er twee systemen naast elkaar functioneren.  
  
- W10336.NAV 
-40
+ W10336.NAV

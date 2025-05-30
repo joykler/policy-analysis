@@ -36,5 +36,4 @@ wijzigingen vloeit voort uit het overnemen van de CRS in het kader van de automa
 uitwisseling van financiële rekeninggegevens. Richtlijn 2014/107/EU bevat twee bijlagen die 
 onderdeel zijn van Richtlijn 2014/107/EU en die aan Richtlijn 2011/16/EU worden toegevoegd. De 
 eerste bijlage komt nagenoeg overeen met de tekst van de CRS. De tweede bijlage bevat een 
-zestal voorschriften die zijn overgenomen uit het OESO- commentaar. Deze voorschriften uit het 
-5
+zestal voorschriften die zijn overgenomen uit het OESO- commentaar. Deze voorschriften uit het

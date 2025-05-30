@@ -52,7 +52,4 @@ verzekeringsbank. De Sociale verzekeringsbank voert de AKW uit in het Europese d
 van Nederland. De Minister van Sociale Zaken en Werkgelegenheid kan al op basis van 
 de Wet basisadministratie persoonsgegevens BES gegevens uit een basisadministratie 
 opvragen, om zo te achterhalen waar iemand zijn woonplaats heeft. Dat is van belang 
-voor het vaststellen van het recht op kinderbijslag BES en de uitbetaling daarvan. 
- 
- 
-  23
+voor het vaststellen van het recht op kinderbijslag BES en de uitbetaling daarvan.

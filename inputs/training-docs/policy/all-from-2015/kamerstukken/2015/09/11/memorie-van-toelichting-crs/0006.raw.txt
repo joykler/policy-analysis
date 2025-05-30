@@ -40,5 +40,4 @@ rapportageregels van de CRS toe te passen. Financiële instellingen moeten de ge
                                                 
 9
  Zie voor een compleet overzicht van deze opties het ‘CRS Implementation Handbook’: http://www.oecd.org/ctp/exchange-of-tax-
-information/implementation-handbook-standard-for-automatic-exchange-of-financial-information-in-tax-matters.pdf, p. 12 e.v. 
-6
+information/implementation-handbook-standard-for-automatic-exchange-of-financial-information-in-tax-matters.pdf, p. 12 e.v.

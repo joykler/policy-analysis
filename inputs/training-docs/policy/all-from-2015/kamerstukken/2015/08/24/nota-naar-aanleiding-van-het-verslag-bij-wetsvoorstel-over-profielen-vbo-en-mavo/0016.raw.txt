@@ -44,5 +44,4 @@ procedure wordt zo ingericht dat nieuwe beroepsgerichte keuzevakken binnen een j
 kunnen worden aangemeld, ontwikkeld, getoetst aan kwaliteitscriteria en geregistreerd, 
 om vervolgens aan leerlingen aangeboden te kunnen worden. Scholen kunnen jaarlijks 
 starten met nieuw aanbod van beroepsgerichte keuzevakken. 
- W10336.NAV 
-16
+ W10336.NAV

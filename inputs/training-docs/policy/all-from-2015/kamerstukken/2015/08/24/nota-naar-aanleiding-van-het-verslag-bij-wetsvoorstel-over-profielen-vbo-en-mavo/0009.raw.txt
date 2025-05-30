@@ -51,5 +51,4 @@ vmbo-tl: voorbereidend middelbaar beroepsonderwijs - theoretische leerweg.
  MBO Raad, Het mbo in 2025. Manifest voor de toekomst van het middelbaar beroepsonderwijs. Agenda van de 
 mbo-scholen, verenigd in de MBO Raad (Woerden, april 2015); JOB, NRTO en MBO Raad, Tien bouwstenen voor 
 een toekomstbestendig beroepsonderwijs (april 2015). 
- W10336.NAV 
-9
+ W10336.NAV

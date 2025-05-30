@@ -46,5 +46,4 @@ expliciete feedback van het georganiseerde bedrijfsleven.
 6
  Leerlingen in de beroepsgerichte leerwegen volgen alle vier de modules van één profielvak, leerlingen in de 
 gemengde leerweg volgen twee (in het examenprogramma aangewezen) modules. 
- W10336.NAV 
-11
+ W10336.NAV

@@ -44,5 +44,4 @@ met verdiepende beroepsgerichte keuzevakken. Ook is het mogelijk om het
 beroepsgerichte examenprogramma juist te verbreden door voor verbredende 
 beroepsgerichte keuzevakken te kiezen. 
  
- W10336.NAV 
-20
+ W10336.NAV

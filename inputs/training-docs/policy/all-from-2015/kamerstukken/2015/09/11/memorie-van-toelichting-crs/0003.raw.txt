@@ -47,5 +47,4 @@ Het begrip passieve NFE wordt gedefinieerd in bijlage I, sectie VIII, onderdeel 
 entiteit die niet een financiële instelling is. Een passieve NFE is (i) een NFE die niet een actieve niet-financiële entiteit (actieve NFE) is, en 
 (ii) een beleggingsentiteit die niet een financiële instelling in een zogenaamd ‘deelnemend rechtsgebied’ is, zijnde een rechtsgebied 
 waarmee het land Nederland gegevens zal uitwisselen op basis van de CRS. Afhankelijk van het type inkomen of de activiteiten kan een 
-NFE passief of actief zijn. 
-3
+NFE passief of actief zijn.
