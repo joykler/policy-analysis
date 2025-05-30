@@ -1,0 +1,14 @@
+bertje_policy/**/*.*
+bertje_slavery/**/*.*
+bertje-finetuned-final/**/*.*
+bertje-Slavery/**/*.*
+
+**/*.pt
+**/*.zip
+**/*.safetensors
+bertje_policy_predictions_with_embeddings_2015.csv
+bertje_policy_predictions_with_embeddings.csv
+bertje_slavery_predictions_with_embeddings.csv
+policy-bertje-matched_results-2015.*
+slavery-bertje-matched_results-2015.*
+\~$*.xlsx

@@ -1,0 +1,406 @@
+
+    Directory: C:\Users\Home\Policyproject\.ipynb_checkpoints
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/19/2025  8:42 PM        8563052 bertje_policy_predictions-checkpoint.csv
+-a---           5/20/2025  6:58 PM       10289094 bertje_slavery_predictions-checkpoint.csv
+-a---           5/20/2025  4:02 PM       10289094 bertje_topic_predictions-checkpoint.csv
+-a---           5/26/2025  8:45 PM            215 matched_results-checkpoint.csv
+-a---           5/19/2025 10:04 PM          32495 matched_sentences-checkpoint.csv
+-a---           5/19/2025  2:58 PM             72 topic modeling-checkpoint.ipynb
+-a---           5/23/2025  1:37 PM       10713661 topic_counts_per_document-checkpoint.csv
+-a---           5/19/2025  6:42 PM             72 Untitled-checkpoint.ipynb
+-a---           5/20/2025  2:19 PM             72 Untitled1-checkpoint.ipynb
+-a---           5/26/2025  4:04 PM             72 Untitled2-checkpoint.ipynb
+-a---           5/19/2025  9:43 PM             72 Visualisatie-checkpoint.ipynb
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-102
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025 12:37 PM           1333 config.json
+-a---           5/23/2025 12:37 PM      436616224 model.safetensors
+-a---           5/23/2025 12:37 PM      873353466 optimizer.pt
+-a---           5/23/2025 12:37 PM          14244 rng_state.pth
+-a---           5/23/2025 12:37 PM           1064 scheduler.pt
+-a---           5/23/2025 12:37 PM           1137 trainer_state.json
+-a---           5/23/2025 12:37 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-147
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025  4:18 PM           1377 config.json
+-a---           5/23/2025  4:18 PM      436619300 model.safetensors
+-a---           5/23/2025  4:18 PM      873359610 optimizer.pt
+-a---           5/23/2025  4:18 PM          14244 rng_state.pth
+-a---           5/23/2025  4:18 PM           1064 scheduler.pt
+-a---           5/23/2025  4:18 PM           1136 trainer_state.json
+-a---           5/23/2025  4:18 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-204
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025 12:37 PM           1333 config.json
+-a---           5/23/2025 12:37 PM      436616224 model.safetensors
+-a---           5/23/2025 12:37 PM      873353466 optimizer.pt
+-a---           5/23/2025 12:37 PM          14244 rng_state.pth
+-a---           5/23/2025 12:37 PM           1064 scheduler.pt
+-a---           5/23/2025 12:37 PM           1428 trainer_state.json
+-a---           5/23/2025 12:37 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-21
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025 12:47 PM           1421 config.json
+-a---           5/30/2025 12:47 PM      436622376 model.safetensors
+-a---           5/30/2025 12:47 PM      873365882 optimizer.pt
+-a---           5/30/2025 12:47 PM          14244 rng_state.pth
+-a---           5/30/2025 12:47 PM           1064 scheduler.pt
+-a---           5/30/2025 12:47 PM           1130 trainer_state.json
+-a---           5/30/2025 12:47 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-294
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025  4:19 PM           1377 config.json
+-a---           5/23/2025  4:19 PM      436619300 model.safetensors
+-a---           5/23/2025  4:19 PM      873359610 optimizer.pt
+-a---           5/23/2025  4:19 PM          14244 rng_state.pth
+-a---           5/23/2025  4:19 PM           1064 scheduler.pt
+-a---           5/23/2025  4:19 PM           1427 trainer_state.json
+-a---           5/23/2025  4:19 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-306
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025 12:38 PM           1333 config.json
+-a---           5/23/2025 12:38 PM      436616224 model.safetensors
+-a---           5/23/2025 12:38 PM      873353466 optimizer.pt
+-a---           5/23/2025 12:38 PM          14244 rng_state.pth
+-a---           5/23/2025 12:38 PM           1064 scheduler.pt
+-a---           5/23/2025 12:38 PM           1718 trainer_state.json
+-a---           5/23/2025 12:38 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-42
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025 12:47 PM           1421 config.json
+-a---           5/30/2025 12:47 PM      436622376 model.safetensors
+-a---           5/30/2025 12:47 PM      873365882 optimizer.pt
+-a---           5/30/2025 12:47 PM          14244 rng_state.pth
+-a---           5/30/2025 12:47 PM           1064 scheduler.pt
+-a---           5/30/2025 12:47 PM           1419 trainer_state.json
+-a---           5/30/2025 12:47 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-441
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025  4:20 PM           1377 config.json
+-a---           5/23/2025  4:20 PM      436619300 model.safetensors
+-a---           5/23/2025  4:20 PM      873359610 optimizer.pt
+-a---           5/23/2025  4:20 PM          14244 rng_state.pth
+-a---           5/23/2025  4:20 PM           1064 scheduler.pt
+-a---           5/23/2025  4:20 PM           1716 trainer_state.json
+-a---           5/23/2025  4:20 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_policy\checkpoint-63
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025 12:47 PM           1421 config.json
+-a---           5/30/2025 12:47 PM      436622376 model.safetensors
+-a---           5/30/2025 12:47 PM      873365882 optimizer.pt
+-a---           5/30/2025 12:47 PM          14244 rng_state.pth
+-a---           5/30/2025 12:47 PM           1064 scheduler.pt
+-a---           5/30/2025 12:47 PM           1707 trainer_state.json
+-a---           5/30/2025 12:47 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-12
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/29/2025  7:19 PM            877 config.json
+-a---           5/29/2025  7:19 PM      436582388 model.safetensors
+-a---           5/29/2025  7:19 PM      873285882 optimizer.pt
+-a---           5/29/2025  7:19 PM          14244 rng_state.pth
+-a---           5/29/2025  7:19 PM           1064 scheduler.pt
+-a---           5/29/2025  7:19 PM           1132 trainer_state.json
+-a---           5/29/2025  7:19 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-1278
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/29/2025 10:13 PM            917 config.json
+-a---           5/29/2025 10:13 PM      436585464 model.safetensors
+-a---           5/29/2025 10:13 PM      873292026 optimizer.pt
+-a---           5/29/2025 10:13 PM          14244 rng_state.pth
+-a---           5/29/2025 10:13 PM           1064 scheduler.pt
+-a---           5/29/2025 10:13 PM           2089 trainer_state.json
+-a---           5/29/2025 10:13 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-16
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/26/2025  2:10 PM            917 config.json
+-a---           5/26/2025  2:10 PM      436585464 model.safetensors
+-a---           5/26/2025  2:10 PM      873292026 optimizer.pt
+-a---           5/26/2025  2:10 PM          14244 rng_state.pth
+-a---           5/26/2025  2:10 PM           1064 scheduler.pt
+-a---           5/26/2025  2:10 PM           1418 trainer_state.json
+-a---           5/26/2025  2:10 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-23
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025 12:52 PM            917 config.json
+-a---           5/30/2025 12:52 PM      436585464 model.safetensors
+-a---           5/30/2025 12:52 PM      873292026 optimizer.pt
+-a---           5/30/2025 12:52 PM          14244 rng_state.pth
+-a---           5/30/2025 12:52 PM           1064 scheduler.pt
+-a---           5/30/2025 12:52 PM           1131 trainer_state.json
+-a---           5/30/2025 12:52 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-24
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/29/2025  7:19 PM            877 config.json
+-a---           5/29/2025  7:19 PM      436582388 model.safetensors
+-a---           5/29/2025  7:19 PM      873285882 optimizer.pt
+-a---           5/29/2025  7:19 PM          14244 rng_state.pth
+-a---           5/29/2025  7:19 PM           1064 scheduler.pt
+-a---           5/29/2025  7:19 PM           1421 trainer_state.json
+-a---           5/29/2025  7:19 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-36
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/29/2025  7:19 PM            877 config.json
+-a---           5/29/2025  7:19 PM      436582388 model.safetensors
+-a---           5/29/2025  7:19 PM      873285882 optimizer.pt
+-a---           5/29/2025  7:19 PM          14244 rng_state.pth
+-a---           5/29/2025  7:19 PM           1064 scheduler.pt
+-a---           5/29/2025  7:19 PM           1710 trainer_state.json
+-a---           5/29/2025  7:19 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-426
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/29/2025 10:09 PM            917 config.json
+-a---           5/29/2025 10:09 PM      436585464 model.safetensors
+-a---           5/29/2025 10:09 PM      873292026 optimizer.pt
+-a---           5/29/2025 10:09 PM          14244 rng_state.pth
+-a---           5/29/2025 10:09 PM           1064 scheduler.pt
+-a---           5/29/2025 10:09 PM           1141 trainer_state.json
+-a---           5/29/2025 10:09 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-46
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025 12:52 PM            917 config.json
+-a---           5/30/2025 12:52 PM      436585464 model.safetensors
+-a---           5/30/2025 12:52 PM      873292026 optimizer.pt
+-a---           5/30/2025 12:52 PM          14244 rng_state.pth
+-a---           5/30/2025 12:52 PM           1064 scheduler.pt
+-a---           5/30/2025 12:52 PM           1417 trainer_state.json
+-a---           5/30/2025 12:52 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-69
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025 12:52 PM            917 config.json
+-a---           5/30/2025 12:52 PM      436585464 model.safetensors
+-a---           5/30/2025 12:52 PM      873292026 optimizer.pt
+-a---           5/30/2025 12:52 PM          14244 rng_state.pth
+-a---           5/30/2025 12:52 PM           1064 scheduler.pt
+-a---           5/30/2025 12:52 PM           1708 trainer_state.json
+-a---           5/30/2025 12:52 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-8
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/26/2025  2:09 PM            917 config.json
+-a---           5/26/2025  2:09 PM      436585464 model.safetensors
+-a---           5/26/2025  2:09 PM      873292026 optimizer.pt
+-a---           5/26/2025  2:09 PM          14244 rng_state.pth
+-a---           5/26/2025  2:09 PM           1064 scheduler.pt
+-a---           5/26/2025  2:09 PM           1126 trainer_state.json
+-a---           5/26/2025  2:09 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje_slavery\checkpoint-852
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/29/2025 10:11 PM            917 config.json
+-a---           5/29/2025 10:11 PM      436585464 model.safetensors
+-a---           5/29/2025 10:11 PM      873292026 optimizer.pt
+-a---           5/29/2025 10:11 PM          14244 rng_state.pth
+-a---           5/29/2025 10:11 PM           1064 scheduler.pt
+-a---           5/29/2025 10:11 PM           1613 trainer_state.json
+-a---           5/29/2025 10:11 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje-finetuned-final
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/19/2025  7:07 PM           1275 config.json
+-a---           5/19/2025  7:07 PM      436616224 model.safetensors
+-a---           5/19/2025  7:07 PM            125 special_tokens_map.json
+-a---           5/19/2025  7:06 PM           1265 tokenizer_config.json
+-a---           5/19/2025  7:06 PM         714470 tokenizer.json
+-a---           5/19/2025  7:07 PM           5304 training_args.bin
+-a---           5/19/2025  7:07 PM         241681 vocab.txt
+
+    Directory: C:\Users\Home\Policyproject\bertje-Slavery\checkpoint-102
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025 12:29 PM           1333 config.json
+-a---           5/23/2025 12:29 PM      436616224 model.safetensors
+-a---           5/23/2025 12:29 PM      873353466 optimizer.pt
+-a---           5/23/2025 12:29 PM          14244 rng_state.pth
+-a---           5/23/2025 12:29 PM           1064 scheduler.pt
+-a---           5/23/2025 12:29 PM           1138 trainer_state.json
+-a---           5/23/2025 12:29 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje-Slavery\checkpoint-12
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/20/2025  3:40 PM            917 config.json
+-a---           5/20/2025  3:40 PM      436585464 model.safetensors
+-a---           5/20/2025  3:40 PM      873292026 optimizer.pt
+-a---           5/20/2025  3:40 PM          14244 rng_state.pth
+-a---           5/20/2025  3:40 PM           1064 scheduler.pt
+-a---           5/20/2025  3:40 PM           1420 trainer_state.json
+-a---           5/20/2025  3:40 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje-Slavery\checkpoint-18
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/20/2025  3:40 PM            917 config.json
+-a---           5/20/2025  3:40 PM      436585464 model.safetensors
+-a---           5/20/2025  3:40 PM      873292026 optimizer.pt
+-a---           5/20/2025  3:40 PM          14244 rng_state.pth
+-a---           5/20/2025  3:40 PM           1064 scheduler.pt
+-a---           5/20/2025  3:40 PM           1708 trainer_state.json
+-a---           5/20/2025  3:40 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje-Slavery\checkpoint-204
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025 12:30 PM           1333 config.json
+-a---           5/23/2025 12:30 PM      436616224 model.safetensors
+-a---           5/23/2025 12:30 PM      873353466 optimizer.pt
+-a---           5/23/2025 12:30 PM          14244 rng_state.pth
+-a---           5/23/2025 12:30 PM           1064 scheduler.pt
+-a---           5/23/2025 12:30 PM           1430 trainer_state.json
+-a---           5/23/2025 12:30 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje-Slavery\checkpoint-306
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/23/2025 12:31 PM           1333 config.json
+-a---           5/23/2025 12:31 PM      436616224 model.safetensors
+-a---           5/23/2025 12:31 PM      873353466 optimizer.pt
+-a---           5/23/2025 12:31 PM          14244 rng_state.pth
+-a---           5/23/2025 12:31 PM           1064 scheduler.pt
+-a---           5/23/2025 12:31 PM           1720 trainer_state.json
+-a---           5/23/2025 12:31 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\bertje-Slavery\checkpoint-6
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/20/2025  3:40 PM            917 config.json
+-a---           5/20/2025  3:40 PM      436585464 model.safetensors
+-a---           5/20/2025  3:40 PM      873292026 optimizer.pt
+-a---           5/20/2025  3:40 PM          14244 rng_state.pth
+-a---           5/20/2025  3:40 PM           1064 scheduler.pt
+-a---           5/20/2025  3:40 PM           1127 trainer_state.json
+-a---           5/20/2025  3:40 PM           5304 training_args.bin
+
+    Directory: C:\Users\Home\Policyproject\Policy-documents
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/19/2025  6:42 PM        2036046 2015_selectedtypes_cleaned (1).xlsx
+-a---           5/23/2025  6:11 PM        2092666 2015_selectedtypes_cleaned (2).xlsx
+-a---           5/23/2025 12:41 PM        2172407 2018_selectedtypes_cleaned (1).xlsx
+
+    Directory: C:\Users\Home\Policyproject\sources\.ipynb_checkpoints
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/26/2025  8:03 PM         647959 ketenen-checkpoint.txt
+-a---           5/26/2025  8:08 PM         999331 Staat_slavernij-checkpoint.txt
+
+    Directory: C:\Users\Home\Policyproject\sources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/26/2025  8:03 PM         647959 ketenen.txt
+-a---           5/26/2025  8:08 PM         999331 Staat_slavernij.txt
+
+    Directory: C:\Users\Home\Policyproject
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/20/2025  3:36 PM           6677 0.26.0
+-a---           5/23/2025 12:58 PM        2566848 2023_selectedtypes_cleaned (1).xlsx
+-a---           5/26/2025  4:06 PM        5099000 Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.pdf
+-a---           5/24/2025  2:32 PM      953113237 bertje_policy_predictions_with_embeddings_2015.csv
+-a---           5/22/2025  7:45 PM      952995591 bertje_policy_predictions_with_embeddings.csv
+-a---           5/20/2025  5:29 PM        9258632 bertje_policy_predictions.csv
+-a---           5/20/2025  7:38 PM      954026053 bertje_slavery_predictions_with_embeddings.csv
+-a---           5/20/2025  6:58 PM       10289094 bertje_slavery_predictions.csv
+-a---           5/20/2025  5:29 PM        8783273 bertje_topic_predictions.csv
+-a---           5/19/2025  3:50 PM      405537425 bertje-finetuned-final.zip
+-a---           5/26/2025  4:06 PM        6263265 Ketenen van het verleden.pdf
+-a---           5/30/2025 12:52 PM            350 label_encoder.pkl
+-a---           5/26/2025  9:07 PM        1619942 matched_results.csv
+-a---           5/29/2025  6:45 PM          56501 matched_sentences_slavery.csv
+-a---           5/23/2025  1:37 PM         693881 matched_sentences.csv
+-a---           5/19/2025  9:16 PM          30408 Policy_dictionairy.xlsx
+-a---           5/30/2025  1:40 PM      953288805 policy-bertje-matched_results-2015.csv
+-a---           5/30/2025  1:40 PM      409324886 policy-bertje-matched_results-2015.pickle
+-a---           5/30/2025 12:47 PM            655 Policy-label2topic.pickle
+-a---           5/30/2025 11:39 AM       10707396 policy-regex-matched_results.csv
+-a---           5/30/2025  2:45 PM        4120409 policy-regex-matched_sentences.csv
+-a---           5/30/2025 12:47 PM            655 Policy-topic2label.pickle
+-a---           5/30/2025  2:44 PM         124383 regex-precoding#2.ipynb
+-a---           5/19/2025  9:17 PM          12419 Slavery_dictionairy.xlsx
+-a---           5/29/2025 10:46 PM      952917172 slavery-bertje-matched_results-2015.csv
+-a---           5/29/2025 10:46 PM      409324795 slavery-bertje-matched_results-2015.pickle
+-a---           5/30/2025 12:52 PM            285 slavery-label2topic.pickle
+-a---           5/29/2025 10:06 PM        1619942 slavery-regex-matched_results.csv
+-a---           5/30/2025 12:50 PM        1100361 slavery-regex-matched_sentences.csv
+-a---           5/30/2025 12:52 PM            285 slavery-topic2label.pickle
+-a---           5/30/2025  1:28 PM          47088 topic modelling-application.ipynb
+-a---           5/19/2025  6:42 PM        9936964 topic_counts_per_document (3).csv
+-a---           5/29/2025  4:21 PM        2869235 topic_counts_per_document.csv
+-a---           5/30/2025  2:43 PM       10707396 train-regex-matched_results.csv
+-a---           5/19/2025  6:44 PM          24081 Untitled.ipynb
+-a---           5/20/2025  2:35 PM           1874 Untitled1.ipynb
+-a---           5/29/2025  2:48 PM           3467 Untitled2.ipynb
+-a---           5/29/2025  1:01 PM        4621822 Visualisatie.ipynb
+
