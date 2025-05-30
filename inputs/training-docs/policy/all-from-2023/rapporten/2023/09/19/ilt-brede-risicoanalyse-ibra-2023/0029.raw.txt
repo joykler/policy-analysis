@@ -1,0 +1,57 @@
+ILT-brede risicoanalyse (IBRA) 2023
+Figuur 14: Overzicht Milieuprijzen en kentallen, CE Delft, 2023, KIM 2022
+Milieuprijzen CE Delft 2023 2022
+CO (Koolstofdioxide) 0,130 €/kg 0,0566 €/kg
+2
+CO (Koolstofmonoxide) 0,08 €/kg 0,0958 €/kg
+PM (Fijnstof^) 69,3 €/kg 44,6 €/kg
+10
+NO (Stikstofoxiden) 29,9 €/kg 34,7 €/kg
+x
+SO (Zwaveldioxide) 57,5 €/kg 24,9 €/kg
+2
+NMVOS (vluchtige organische stoffen behalve methaan) 2,71 €/kg 2,10 €/kg
+Tolueen 0,43 €/kg 3,66 €/kg
+Benzeen 0,365 €/kg n.v.t.
+Kentallen CE Delft / KIM* 2023 2022
+DALY (verloren jaren in gezondheid) € 85.000 € 70.000
+VSL (value of statistical life) € 4,1 mln € 2,8 mln
+7
+Zwaargewonde (10% van VSL) € 408.000 € 336.000
+8
+Lichtgewonde (0,7% van VSL) € 29.000 € 28.000
+* Kentallen zijn door ILT afgerond op 1.000 of 100.000 euro
+Verzekerbare schade
+De IBRA-methodiek berekent de jaarlijkse maatschappelijke schade voor mens en milieu die uitkomt boven de norm in 
+wet- en regelgeving waarop de ILT toezicht houdt. In voorgaande jaren werd daarbij verzekerde of verzekerbare schade 
+voor een persoon of bedrijf niet als maatschappelijke schade gezien. Mede op advies van de Raad van Advies heeft de ILT 
+het externe bureau Ecorys gevraagd de IBRA-definitie van maatschappelijke schade op dit punt te onderzoeken en de 
+impact van het meenemen van verzekerbare schade op de rangschikking van onderwerpen binnen de IBRA in beeld te 
+brengen. Het opgeleverde onderzoek laat zien dat elke schade die door handhaving en toezicht is te voorkomen 
+uiteindelijk een maatschappelijke baat oplevert. Het maakt daarvoor niet uit of de schade verzekerbaar is of niet. 
+Daarmee kan het toezicht van de ILT ook bij de beperking van verzekerbare schade een rol hebben. In bijlage E ‘IBRA-
+methodiek’ past de ILT daarom de definitie van maatschappelijke schade als volgt aan:
+De maatschappelijke schade in de IBRA is de schade voor mens en milieu die het gevolg is van niet naleving van 
+een norm, waarop de ILT toeziet. 
+Voor de feitelijke inschatting van de maatschappelijke schade in de IBRA-versie 2023 heeft deze aanpassing van deze 
+definitie vooralsnog geen gevolg. Het rapport van Ecorys geeft op basis van aannames een globale indicatie van de 
+omvang van de verzekerbare schade in het leefomgevings- en transportdomein. De ILT kan die indicatie met de 
+beschikbare informatie echter niet volledig of accuraat herleiden tot een IBRA-onderwerp of een ongewenste gebeurte-
+nis. In de meeste factsheets is bij de schadeberekening verzekerbare schade niet nadrukkelijk uitgesloten. De verzekerde 
+schade kan dan al deels impliciet zijn meegenomen. Een deel van de verzekerbare schade betreft schade die veroorzaakt 
+is door legale gedragingen onder of zonder een norm waarop ILT toezicht houdt. De ILT heeft onvoldoende informatie 
+voor een berekening van verzekerde schade die het gevolg is van overschrijding van ILT-normen en niet al impliciet in de 
+maatschappelijke schade per onderwerp is meegenomen. Voor een volgende IBRA gaat de ILT onderzoeken of en hoe we 
+de informatiepositie kunnen verbeteren. 
+9
+Het rapport van Ecorys bevat een vierkwadrantenmodel waarmee de rol die verzekeraars kunnen hebben bij het 
+beheersen van de maatschappelijke risico’s op de toezichtterreinen van de ILT inzichtelijk gemaakt kan worden. De ILT 
+kan dit vierkwadrantenmodel gebruiken bij de keuzes die zij maakt in de uitvoering van het toezicht. 
+7 
+We nemen voor licht- en zwaargewonden dezelfde percentages van de VSL als in de KiM studie “Maatschappelijke kosten van verkeers-
+ongevallen in Nederland: actualisatie 2020 - W. Wijnen, feb 2022, p15” 
+8 
+idem
+9 
+IBRA-onderzoek naar verzekerbare schade, Ecorys, Rotterdam 15 december 2022 
+Inspectie Leefomgeving en Transport | 29

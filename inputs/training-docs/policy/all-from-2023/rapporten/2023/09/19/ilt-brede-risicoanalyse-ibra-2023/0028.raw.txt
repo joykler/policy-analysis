@@ -1,0 +1,49 @@
+ILT-brede risicoanalyse (IBRA) 2023
+3 Ontwikkeling van de IBRA-methodiek
+De ILT berekent de maatschappelijke schade op basis van de IBRA-methodiek. Een uitgebreide beschrijving van deze 
+methodiek is opgenomen in bijlage E ‘Toelichting op de IBRA-methodiek’. De IBRA-methodiek kent onzekerheden. Zo 
+zijn er niet altijd exacte cijfers voor de berekening bekend, bijvoorbeeld bij naleefcijfers. In deze gevallen maakt de ILT 
+een schatting. De onzekerheden zijn toegelicht in bijlage E ‘Toelichting op de IBRA-methodiek’. Om het maatschappelijk 
+schadebeeld te verbeteren, ontwikkelt de ILT de IBRA de komende jaren door. Dit doet de ILT om de onzekerheden van 
+de methodiek te verkleinen. In dit hoofdstuk worden enkele ontwikkelingen toegelicht. 
+Voor de ontwikkeling van de IBRA heeft de inspectie sinds 2020 een Raad van Advies, die ongeveer 3 keer per jaar 
+gevraagd en ongevraagd adviseert over de IBRA en zo bijdraagt aan kwaliteitsborging.
+Doorontwikkeling in 2023 en verder
+Herschikking IBRA-onderwerpen
+In de IBRA 2023 zijn enkele factsheets samengevoegd. De analyse op het onderwerp Ongeval Kabelbaan is nu als 
+ongewenste gebeurtenis ondergebracht in de factsheet op het onderwerp Ongeval railvervoer. Het onderwerp Trillingen 
+houdt nauw verband met de ongewenste gebeurtenissen op het onderwerp Geluid. Omdat de ILT geen bevoegdheden 
+heeft op dit onderwerp is de ongewenste gebeurtenis van trilling door spoor als schade zonder norm opgenomen in de 
+factsheet Geluid. 
+Nieuwe milieuprijzen en kengetallen voor verloren levensjaren 
+De schadelijke gevolgen van de beschreven ongewenste gebeurtenissen worden berekend in euro’s. Waar de ILT 
+niet-financiële zaken in geld uitdrukt, gebruikt zij zoveel mogelijk openbare standaardwerken. Voor de categorie 
+4
+gezondheidsschade gebruikt de ILT de DALY (Disability adjusted Life Year) kengetallen zoals aangereikt door CE Delft. De 
+waarde van een DALY is licht gestegen ten opzichte van de vorige IBRA. 
+Om voor de categorie fysiek letsel het verlies van levensjaren en kwaliteit van leven in euro’s uit te kunnen drukken, 
+gebruikt de IBRA het kengetal “value of a statistical life” (VSL), en een percentage hiervan voor zwaar- en lichtgewon-
+5
+den. De VSL-waarde is onlangs opnieuw bepaald via onderzoek onder Nederlandse respondenten en valt ongeveer twee 
+maal hoger uit dan de waarde die tot nu toe in de IBRA is gebruikt (en is bepaald in 2009). We gebruiken voor nu alleen 
+de immateriële schadecomponent van de VSL (€ 4,2 miljoen) en niet de componenten verzekerbare schades en indirecte 
+schades zoals die zijn berekend voor het Kennis Instituut Mobiliteit (KIM). Met deze twee componenten erbij zou de VSL 
+uitkomen op ruim € 6 miljoen. Dit doen we omdat we op dit moment niet voor alle IBRA-onderwerpen de verzekerbare 
+en vervolgschade kunnen inschatten en we IBRA-onderwerpen niet verschillend willen benaderen op deze schades. Zo 
+willen we grote inconsistenties zoveel mogelijk voorkomen wanneer IBRA-onderwerpen onderling vergeleken worden. 
+Voor de milieuschade gebruikt de ILT de milieuprijzen van het Handboek Milieuprijzen CE Delft, editie 2023 en de 
+6
+afvalprijzen van CE Delft, editie 2022. Ten opzichte van de IBRA-editie van vorig jaar zijn de meeste milieu- en afvalprij-
+zen gestegen. Een uitzondering die we hier willen noemen is de afvalprijs van chemisch afval. Deze is gehalveerd. Dit 
+heeft merkbare gevolgen in de factsheet Afvalstromen en circulaire materiaalketens. Zowel in de tekst als in de bereke-
+ningen worden afgeronde waarden gebruikt volgens onderstaande tabel.
+4 
+De Bruyn, S., De Vries, J., Juijn, D., Bijleveld, M., Van der Giesen, C., Korteland, M., Van Santen, W. & Pápai, S. (2023). Handboek Milieuprijzen 
+2023: Methodische onderbouwing van kengetallen gebruikt voor waardering van emissies en milieu-impacts (Nr. 23.220175.034). CE Delft. Geraadpleegd 
+op 3 maart 2023, van https://ce.nl/wp-content/uploads/2023/03/CE_Delft_220175_Handboek_Milieuprijzen_2023_DEF.pdf
+5 
+Wijnen, W.(2022), Maatschappelijke kosten van verkeersongevallen in Nederland: actualisatie 2020, Kennisinstituut voor Mobiliteitsbeleid.
+6 
+Sander de Bruyn, Geert Warringa, Martijn Broeren, Daan Juijn, Maarten Bruinsma, Joukje de Vries Delft, Milieuprijzen afval, CE Delft, februari 
+2022. Geraadpleegd van https://ce.nl/wp-content/uploads/2022/06/CE_Delft_190390_Milieuprijzen_afval_Def.pdf
+Inspectie Leefomgeving en Transport | 28

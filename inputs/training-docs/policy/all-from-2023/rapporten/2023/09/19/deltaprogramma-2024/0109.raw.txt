@@ -1,0 +1,19 @@
+Tabel B1.4 Voorfinancieringen
+Code Beheerder Projectnaam 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037
+03AA HH Hollands Noorderkwartier Katwoude
+03AB HH Hollands Noorderkwartier Volendam (Zuideinde)
+03AC HH Hollands Noorderkwartier Monnickendam Binnenstedelijk
+03AD HH Hollands Noorderkwartier Monnickendam Zeedijk
+03AE HH Hollands Noorderkwartier Schellingwoude
+14A WS Brabantse Delta Geertruidenberg en Amertak
+14D WS Brabantse Delta Willemstad - Noordschans
+60AE WS Limburg Lob van Gennep
+60AF WS Limburg Venlo 't Bat
+21I WS Rijn en IJssel IJsselpaviljoen Zutphen
+21A WS Rijn en IJssel Rijnkade Arnhem 
+21E WS Rijn en IJssel Industrieterrein Grutbroek
+24AK WS Scheldestromen Sint Annaland
+24AX WS Scheldestromen Kop van Ossenisse
+ 
+Legenda:   Voorverkenning   Planuitwerking   Realisatie   Fastlane  
+Deltaprogramma 2024 | Nu voor later 109

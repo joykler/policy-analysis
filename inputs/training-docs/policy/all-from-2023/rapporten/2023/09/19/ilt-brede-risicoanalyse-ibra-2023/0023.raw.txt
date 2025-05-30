@@ -1,0 +1,50 @@
+ILT-brede risicoanalyse (IBRA) 2023
+norm). In de IBRA worden deze schades ‘schade (z)onder de norm’ of signaalschade genoemd. De ILT heeft voor deze 
+schades geen (formele) instrumenten om op te treden. Voor de rangschikking van de IBRA- onderwerpen is in de 
+berekening van de maatschappelijke schade de signaalschade daarom niet meegenomen. 
+Het inzicht in de signaalschade is echter wel van belang voor de reflectieve functie van het toezicht. De ILT kan risico’s 
+signaleren die (momenteel) binnen de wettelijke norm vallen maar wel omvangrijke schade kunnen veroorzaken of als 
+maatschappelijk ongewenst worden gezien, nu of in de nabije toekomst. Hieronder vallen ook risico’s die momenteel 
+nog geen wettelijke norm hebben.
+In de IBRA 2023 berekent de ILT in totaal 13 signaalschades op de onderwerpen Chemische stoffen en biociden, 
+Duurzame producten, Transport gevaarlijke stoffen, Aanslag met explosieven, Vuurwerk en de onderwerpen over 
+uitstoot op de modaliteiten wegverkeer, scheepvaart en luchtvaart. De signaalschade per ongewenste gebeurtenis is 
+terug te vinden in Figuur 12. Dit gaat vooral om schade die ontstaat door gedragingen binnen de gestelde normen. De 
+totale signaalschade voor deze 8 onderwerpen samen bedraagt  circa € 14 miljard. De grootste bijdragers zijn Uitstoot 
+scheepvaart (circa € 5 miljard) en Chemische stoffen en biociden (circa € 7 miljard). Bij Chemische stoffen en biociden 
+wordt de signaalschade met name veroorzaakt door blootstelling van werknemers aan chemische stoffen. Vele stoffen 
+vallen onder chemische stoffen, waaronder PFAS. 
+Figuur 12: Signaalschade per onderwerp
+Schade in 
+Onderwerp Ongewenste gebeurtenis miljoen €
+Chemische stoffen en biociden Werkgebonden ziektelast 7300
+Uitstoot scheepvaart Uitstoot van CO2 door scheepvaart 975
+Uitstoot scheepvaart Uitstoot van fijnstof door scheepvaart 243
+Uitstoot scheepvaart Uitstoot van NOx door scheepvaart 3.977
+Uitstoot luchtvaart Uitstoot van CO2 door luchtvaart 521
+Uitstoot luchtvaart Uitstoot van NOx door luchtvaart 326
+Uitstoot luchtvaart Uitstoot van SO2 door luchtvaart 121
+Duurzame producten Uitstoot van CO2 (ecodesign) 353
+Duurzame producten Uitstoot van fijnstof (ecodesign) 3
+Transport gevaarlijke stoffen Incident bij transport van gevaarlijke stoffen (wegvervoer) 351
+Uitstoot wegverkeer Uitstoot van fijnstof door wegverkeer 243
+Aanslag met explosieven Aanslag in Nederland met explosieven - plofkraak 0
+Vuurwerk Uitstoot van fijnstof bij afsteken vuurwerk #
+Eindtotaal 14.413
+Schadeontwikkeling op onderwerpen
+Daling maatschappelijke schade: casus uitstoot scheepvaart 
+De IBRA-schade voor het onderwerp Uitstoot scheepvaart werd in de vorige edities van de IBRA voor een groot deel 
+bepaald door niet-naleving van de regels voor uitstoot van SO door zeevaart. Met het onlangs beschikbaar komen van 
+2
+3
+een ILT-effectmeting over de resultaten van toezicht op de zeevaart hebben we de schade voor dit onderwerp kunnen 
+actualiseren. Gegevens van inspecties en van metingen op afstand met een ‘snuffelpaal’ geven een betrouwbaar beeld 
+van de niet-naleving voor SO -uitstoot in de afgelopen jaren (zie figuur 13). Het niet-nalevingspercentage is mede door 
+2
+toezicht gedaald van 9-10% naar de huidige waarde van circa 2 procent. De in de IBRA berekende schade, en nog 
+belangrijker, de maatschappelijke schade voor deze ongewenste gebeurtenis is afgenomen van € 11 miljoen naar 
+€ 4 miljoen. De totale maatschappelijke schade van het onderwerp Uitstoot scheepvaart is daarmee gedaald van 
+€ 14 miljoen naar € 8 miljoen.
+3 
+A. Bosker, M. van der Woude, effectbepaling rapportage Schoon Schip, 2022, ILT.
+Inspectie Leefomgeving en Transport | 23

@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2023
+Figuur 13: Niet naleving van SO -uitstoot (zwavel) op basis van ILT-inspecties en metingen op afstand
+2
+Monstername: punten opgenomen met minimaal 300 metingen per jaar, snuffelpaal minimaal 2500 metingen per jaar 
+10%
+8%
+6%
+4%
+2%
+0%
+2015 2016 2017 2018 2019 2020 2021
+Snuffelpaal Monstername aan boord
+Schadeontwikkeling bij onderwerpen laag in de IBRA rangschikking 
+In de voorgaande versies van de IBRA scoorden een aantal onderwerpen steeds een score van 0 of een niet te berekenen 
+schade. Daarmee stonden deze onderwerpen onderaan in de rangschikking. Het gaat om Ongeval kabelbaan (nu onder-
+deel van Rail), Ongeval met onbemande luchtvaart (drones), Overige pyrotechnische artikelen (ROPA), Trilling (nu onder-
+deel van Geluid), Uitstoot luchtvaart, Vluchtige organische stoffen, Caribisch Nederland specifiek, Energielabels, Wonen 
+en Verkeersproducten en mobiele machines.
+De belangrijkste reden voor deze positionering is dat voor deze onderwerpen al enkele jaren geen schade is vastgesteld 
+(0-schade) of dat de schade niet kon worden berekend (#-schade). Voor de IBRA 2023 heeft de ILT door een extern bureau 
+Impuls Economen onderzoek laten verrichten naar de gevolgen van de ongewenste gebeurtenissen. Ook bekeek het bureau 
+Impuls Economen de verwachte ontwikkeling van die gevolgen. De uitkomsten daarvan zijn in de factsheets verwerkt. 
+1
+Het onderzoek van Impuls Economen bevestigt het in de IBRA bestaande schadebeeld bij deze onderwerpen. Voor de 
+onderzochte gebeurtenissen met 0-schade kan geen schade door overtreding van wet- en regelgeving worden vast-
+gesteld. Bij de onderwerpen met een #-schade is een kwalitatieve beschrijving van de mogelijke schade gegeven, maar 
+kan de schade zelf niet worden berekend. De kwalitatieve analyse geeft wel een basis om in de rangorde de onderzochte 
+onderwerpen met een # hoger te positioneren dan onderwerpen met (alleen) een 0-schade. 
+Het onderzoek laat verder zien dat de schade op het onderwerp Vluchtige organische stoffen al jaren een zeer beperkte 
+omvang kent. De ILT verwacht dat deze schade verder afneemt. 
+Ontwikkeling IBRA-schade in perspectief van maatschappelijke opgaven
+Toekomstige schades kunnen in de huidige IBRA-methodiek niet berekend worden. Om toch vooruit te kunnen kijken 
+heeft de ILT geïnventariseerd hoe verwachte toekomstige ontwikkelingen de maatschappelijke schades kunnen 
+beïnvloeden. Onderstaande inventarisatie is een eerste aanzet, die in volgende versies van de IBRA wordt 
+doorontwikkeld. 
+Klimaat en energie 
+Bij klimaatverandering staat het terugdringen van broeikasgassen zoals kooldioxide (CO) centraal. Het verminderen van 
+2
+energieverbruik is daarbij een belangrijke stap. De energietransitie leidt tot veranderende risico’s in de samenleving. 
+Zo worden er vaker lithium-accu’s vervoerd en zullen meer transporten van waterstof en methaan plaatsvinden. Voor 
+het transport van waterstof wordt onderzoek gedaan naar de mogelijke inzet van ammoniak als drager, wat een 
+gevaarlijke stof is. Dit zou vragen om een nieuwe benadering voor het grootschalig transport van ammoniak via weg, 
+spoor, binnenvaart en via pijpleidingen. Ook ontwikkelt zich een markt voor decentrale productie en decentraal gebruik 
+van waterstof en methaan, wat nieuwe risico’s oplevert op deze locaties.
+Inspectie Leefomgeving en Transport | 24

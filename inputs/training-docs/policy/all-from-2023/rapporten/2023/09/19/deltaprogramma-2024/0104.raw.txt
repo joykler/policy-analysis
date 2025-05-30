@@ -1,0 +1,35 @@
+Tabel B1.2 Programmering maatregelen HWBP 2023-2028/2034
+Code Beheerder Projectnaam 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037
+02C HH De Stichtse Rijnlanden Versterking voormalige  
+C-kering HDSR (GHIJ)
+02D HH De Stichtse Rijnlanden Wijk bij Duurstede  
+Amerongen (WAM)
+02E HH De Stichtse Rijnlanden Salmsteke
+02F HH De Stichtse Rijnlanden Culemborgse Veer-Beatrix Sluis 
+(CUB)
+02G HH De Stichtse Rijnlanden Salmsteke Schoonhoven (SAS)
+02H + 02J HH De Stichtse Rijnlanden Jaarsveld - Vreeswijk
+02I HH De Stichtse Rijnlanden Irenesluis - Culemborgse Veer
+02B HH De Stichtse Rijnlanden Waaiersluis te Gouda
+03I HH Hollands Noorderkwartier Noordzeekanaal
+03O HH Hollands Noorderkwartier Den Oever - Den Helder DODH
+03S HH Hollands Noorderkwartier Koppelstuk Markermeerdijk
+03Y HH Hollands Noorderkwartier Koppelstuk Durgerdam
+03E HH Hollands Noorderkwartier Wieringermeer C kering
+03V HH Hollands Noorderkwartier Aanpak Kunstwerken
+03L HH Hollands Noorderkwartier Helderse Zeewering
+03Z HH Hollands Noorderkwartier Nieuwe Diep
+05C HH van Rijnland Verbetering IJsseldijk Gouda 
+Stadsfront Voorlanden spoor 3
+05E HH van Rijnland IJsseldijk Gouda (VIJG) spoor 2
+05F HH van Rijnland Kunstwerken Spaarndammerdijk
+05G HH van Rijnland IJsseldijk Gouda (VIJG) spoor 4 
+(GHIJ)
+06K HH van Schieland en de Krachtige IJsseldijken  
+Krimpenerwaard Krimpenerwaard (KIJK)
+06D HH van Schieland en de Capelle-Zuidplas
+Krimpenerwaard
+13D WS Aa en Maas Ravenstein - Lith
+ 
+Legenda:   Voorverkenning   Planuitwerking   Realisatie   Fastlane   Fase buiten programmering geplaatst 
+104 Deltaprogramma 2024 | Nu voor later

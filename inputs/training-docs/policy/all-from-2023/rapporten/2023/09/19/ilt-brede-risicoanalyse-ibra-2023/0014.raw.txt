@@ -1,0 +1,83 @@
+ILT-brede risicoanalyse (IBRA) 2023
+Figuur 2: IBRA 2023 Top 15 onderwerpen met hoogste schades
+De IBRA rangschikt onderwerpen en/of ongewenste gebeurtenissen op basis van de maatschappelijke schade. Waar vol-
+doende informatie ontbreekt om het relatieve belang van de schade te berekenen, maakt de ILT gebruik van aannames 
+(of schattingen). 
+Voor de IBRA 2023 is voor de meeste onderwerpen gekeken of nieuwe informatie beschikbaar is. Zo is nieuwe regel-
+geving en actuele marktinformatie verwerkt. Alleen voor het onderwerp ‘Lozingen Scheepvaart’ geldt dat de berekening 
+Top 15 onderwerpen met hoogste schade
+van de schade uit 2021 is gehandhaafd omdat nieuwe informatie ontbreekt. De toelichting in die factsheet kan dus 
+(afgerond) 
+verouderd zijn.
+Bij de berekening heeft de ILT gebruik gemaakt van geactualiseerde milieuprijzen en een kengetal voor gezondheids-
+596 220 5.002 1.297
+schade, zoals opgenomen in de handboeken Milieuprijzen 2023 en Afvalprijzen 2022, van CE Delft. Ook zijn kentallen 
+1. Afvalstromen en circulaire materiaalketens 3402 0 # 3.402 # 0
+opgenomen voor de waardering van het vermijden verlies van leven en verwondingen, zoals ontwikkeld door het 
+Kennisinstituut voor Mobiliteitsbeleid (zie hoofdstuk 3 ‘Ontwikkelingen IBRA-methodiek’ voor een nadere toelichting). 
+2. Chemische stoffen en biociden # 1032 # 1.032 # +1
+Waar actuele ontwikkelingen een impact hebben op het maatschappelijk schadebeeld is dit zo veel mogelijk mee-
+3. Bodem en grondwater kwaliteit 960 # # 960 # -1
+genomen in het risicobeeld per onderwerp.
+4. Uitstoot ozonlaag afbrekende stoffen en F-gassen 273 0 273 +3
+Top 15 van IBRA onderwerpen 5. Legionella 265 265 +1
+6. Duurzame producten # 223 # 223 # -1
+De IBRA berekent de maatschappelijke schade in euro’s om de onderlinge verhouding van de schade op de verschillende 
+IBRA-onderwerpen in beeld te brengen. Dit helpt de ILT om risicogericht keuzes te maken in de uitvoering van het 
+7. Onveilig goederenvervoer weg 218 # 3 # # 221 # -3
+toezicht. De ILT benadrukt dat de berekeningsmethodiek van de IBRA een onzekerheidsmarge kent. Dit betekent dat de 
+8. Ongeval taxivervoer 127 13 139 0
+maatschappelijke schades in de IBRA niet gezien moeten worden als absolute waardes en dat terughoudendheid 
+9. Ongeval busvervoer 133 133 0
+geboden is bij het gebruik van de uitkomsten van de IBRA voor andere doeleinden. 
+10. Infrastructuur weg 90 90 0
+De tabel op de volgende pagina geeft de top 15 van IBRA-onderwerpen weer, gerangschikt op basis van de grootste 
+11. Ongeval scheepvaart 44 40 # 0 # 0 84 # +1
+totale schade per onderwerp in euro’s. De tabel geeft ook inzicht in de aanwezigheid van (nog) niet bepaalbare schade 
+en de ontwikkeling van het schadebeeld ten opzichte van de IBRA versie 2022.
+12. Bouwproduct # 75 # 75 # +1
+13. Wabo 0 74 74 +6
+De nieuwe berekeningen op de maatschappelijke schades in de IBRA 2023 geven een vergelijkbaar beeld met dat van de 
+IBRA 2022. De ILT ziet een stabiele kopgroep van onderwerpen Afvalstromen en circulaire materiaalketens, Chemische 
+14. Asbest 74 0 0 74 +2
+stoffen en biociden en Bodem en grondwaterkwaliteit met schades van ongeveer €1 miljard of meer. Er is een midden-
+groep van onderwerpen met schades tussen de €100 en €300 miljoen en een derde groep van onderwerpen met schades 15. Uitstoot wegverkeer 69 69 -4
+van minder dan €100 miljoen. Wel zijn er veel kleine positiewisselingen. Ter toelichting op de wijzigingen in de rang-
+Legenda
+schikking merkt de ILT het volgende op:  
+# = de ILT kan een deel van de schade niet berekenen; niet ‘0’  positie in IBRA 2022 is gelijk aan die in 2021
+• De wijzigingen worden vooral veroorzaakt doordat de geactualiseerde kentallen voor fysiek letsel en gezondheids-
+ positie in IBRA 2022 is hoger dan die in 2021  positie in IBRA 2022 is lager dan die in 2021
+schade relatief meer zijn gestegen dan de prijzen rondom milieuschade. 
+• Afvalstromen en circulaire materiaalketens: het schadebedrag is lager. Dit komt met name doordat in de berekening voor de 
+categorie chemisch afval een actuelere, lagere milieuprijs is gehanteerd. Daarnaast is de hoeveelheid afval in de 
+categorie chemisch licht gedaald.
+• Bodem en grondwaterkwaliteit en Chemische stoffen en biociden : deze 2 onderwerpen zijn van plek veranderd. Voor Bodem en 
+grondwaterkwaliteit blijft het schadebedrag ongeveer gelijk doordat volumes, schattingen van niet-naleving en 
+milieuprijzen voor dit onderwerp niet of nauwelijks zijn veranderd. Voor Chemische stoffen en biociden is het aantal 
+DALY’s ook gelijk gebleven. Maar door de hogere waardering voor gezondheidsschade (zie ook het eerste punt) komt 
+het schadebedrag hoger uit. Hierdoor komt Bodem en grondwaterkwaliteit op plek 3 te staan (op plek 2 in 2022) en 
+Chemische stoffen en biociden op plek 2 (op plek 3 in 2022). 
+• Legionella: kende in de IBRA 2021 een opmerkelijke stijging van gezondheidsschade in DALY’s ten opzichte van de IBRA 
+2020. Deze stijging was ook relatief hoog ten opzichte van de IBRA 2019. Dit werkt voor de berekening van de schade 
+in IBRA 2023 door in een hoger schadebedrag, mede door een hogere waardering per DALY. 
+• Uitstoot Ozonlaag afbrekende stoffen & gefluoreerde broeikasgassen (OAS & F-gassen): de schade op het onderwerp Uitstoot 
+OAS & F-gassen kent een stijging van de schade die deels ontstaat doordat een accuratere rekenmethode is gebruikt. 
+• Onveilig goederenvervoer over de weg: Het schadebedrag is ten opzichte van IBRA 2022 gedaald door een daling van het 
+aantal slachtoffers en een andere, door de Stichting Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV) gehan-
+teerde definitie van het aantal zwaargewonden. De IBRA 2023 gaat uit van circa 26 doden (in IBRA 2022: 37) en 215 
+zwaargewonden (in IBRA 2022: 1187).
+• Asbest: het schadebedrag voor Asbest is hoger door een groter aantal doden en de hogere kentallen voor fysieke 
+letselschade. Het onderwerp gaat van positie 16 naar 13 ten opzichte van 2022.
+Inspectie Leefomgeving en Transport | 14
+Fysiek Letsel
+Economisch
+Milieu
+Gezondheids-
+schade
+Totale schade in  
+€ miljoen/jaar
+#
+Rangorde ten 
+opzichte van IBRA 
+2022

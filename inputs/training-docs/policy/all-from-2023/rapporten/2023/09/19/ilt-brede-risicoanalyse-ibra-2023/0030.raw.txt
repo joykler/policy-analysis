@@ -1,0 +1,47 @@
+ILT-brede risicoanalyse (IBRA) 2023
+Indirecte schade bij transportonderwerpen
+In de berekening van de maatschappelijks schade bij transportonderwerpen neemt de IBRA-methodiek geen indirecte 
+schade mee, zoals bijvoorbeeld reistijdverlies bij ongevallen. Daartoe is op dit moment onvoldoende informatie 
+beschikbaar. Ecorys adviseert om een algemene opslag op de maatschappelijke schadebedrag te hanteren (i) als er een 
+logisch causaal verband is met het incident en (ii) als het aannemelijk is dat de effecten substantieel zijn. Naar analogie 
+met een opslag voor niet te berekenen externe effecten bij maatschappelijke kosten-batenanalyses van infrastructurele 
+projecten zou een opslag van 0 – 30% opslag kunnen worden gehanteerd. 
+Vooralsnog nemen we de suggestie om een generieke opslag te hanteren bij niet berekenbare indirecte schade bij 
+transportonderwerpen niet mee in de schade berekening van de IBRA-methodiek. De eisen van (i) aannemelijkheid 
+causaal verband en (ii) omvang van effecten, alsmede de hoogte van generieke opslag zijn met de beschikbare informa-
+tie moeilijk te bepalen. Toevoeging van een algemene opslag op basis van deze aannames zou meer onzekerheden aan 
+de IBRA-methodiek toe voegen en leidt daarmee niet tot verbetering van de IBRA-methodiek. Voor een volgende IBRA 
+gaat de ILT onderzoeken of en hoe de informatiepositie verbeterd kan worden.
+De ILT heeft enkele scenarioanalyses uitgevoerd om inzicht te krijgen in de mogelijke effecten van een generieke 
+procentuele opslag op de rangschikking van IBRA -transport onderwerpen. Er is gebruik gemaakt van meerdere percenta-
+ges in de door de Ecorys voorgestelde 0-30% range. De scenarioanalyses laten zien dat het hanteren van een opslag niet 
+leidt tot een wezenlijk ander beeld van de maatschappelijke schade op deze onderwerpen. Alleen ‘Onveilig goederen 
+vervoer over de weg’ en ‘Ongeval railvervoer’ zouden wellicht 1 of 2 plekken stijgen. De reden daarvoor is dat deze 
+onderwerpen op de rangschikking naast een aantal onderwerpen staan met ongeveer dezelfde schadeomvang. De ILT 
+benadrukt nogmaals dat de maatschappelijke schades in de IBRA niet gezien moeten worden als absolute waardes maar 
+alleen de onderlinge verhouding tussen onderwerpen in beeld brengt om bij het maken van keuzes in de uitvoering van 
+toezicht te kunnen prioriteren. Het hanteren van een niet goed onderbouwde opslag voor indirecte schade heeft 
+daarvoor geen toegevoegde waarde. 
+Reactie van de Raad van Advies op de IBRA versie 2023
+Sinds september 2020 adviseert de Raad van Advies de ILT - gevraagd en ongevraagd – over alle mogelijke aangelegen-
+heden die verband houden met de IBRA. 
+De Raad bestaat uit de volgende personen: 
+• De heer dr. F.J.H. (Henk) Don, adviseur en toezichthouder (voorzitter). 
+• Mevrouw prof. mr. dr. F. (Femke) de Vries, bijzonder hoogleraar Toezicht Rijksuniversiteit Groningen en consultant.
+• De heer dr. A.C.A.P. (André) van Lammeren, onderdirecteur Planbureau voor de Leefomgeving. 
+Alle leden hebben op persoonlijke titel zitting in de Raad van Advies. 
+Voor de definitieve totstandkoming van de IBRA 2023 is de Raad van Advies bij elkaar gekomen om tot een advies ter 
+verbetering van het rapport te komen. Dit advies is opgenomen in bijlage G en bevat 3 hoofdpunten voor de lange 
+termijn en 3 hoofdpunten voor het huidige IBRA rapport. De ILT vindt de adviezen waardevol en zal ze voor het meren-
+deel overnemen, zoals hieronder beschreven. Naast deze hoofdpunten heeft de Raad enkele onduidelijkheden, vergis-
+singen en omissies in  de tekst van de IBRA gesignaleerd. De ILT heeft deze punten in de redactie van de definitieve tekst 
+van de IBRA zo veel mogelijk meegenomen.
+Lange termijn:
+1. De Raad waardeert het feit dat de berekeningen van de maatschappelijke schade op verschillende manieren meer in 
+perspectief worden geplaatst, onder andere in perspectief van de maatschappelijke opgaven waarvoor Nederland 
+staat, waarbij relaties tussen schades en maatschappelijke opgaven worden geschetst. De Raad beveelt de ILT aan 
+om deze relaties nader uit te diepen en te concretiseren.
+- De ILT neemt dit advies over in de volgende editie van de IBRA.
+2. De Raad beveelt aan om in het verlengde van de nieuwe definitie van maatschappelijke schade ook de gebruikte 
+schadecategorieën te heroverwegen, zoals mogelijke overlap tussen milieu en economische schade.
+Inspectie Leefomgeving en Transport | 30

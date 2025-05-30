@@ -1,0 +1,12 @@
+Scenario’s 
+Er zijn drie hoofdscenario’s te onderscheiden voor schoolmaaltijden in een structurele 
+vorm, met daarbinnen weer keuzemogelijkheden (subscenario’s). De scenario’s 
+verschillen van elkaar met betrekking tot de variabelen, zoals de doelstelling, de 
+doelgroep en het aanbod. De uitwerking hiervan is te vinden in de tabellen en de 
+toelichting verderop in dit stuk. 
+De drie hoofdscenario’s zijn: 
+ Scenario A: schoolmaaltijden voor een afgebakende doelgroep 
+ Scenario B: schoolmaaltijden en/of -fruit voor alle leerlingen  
+ Scenario C: schoolmaaltijden voor een afgebakende doelgroep als onderdeel van 
+integrale aanpak (zoals voedseleducatie of bewegen)  
+5

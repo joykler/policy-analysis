@@ -1,0 +1,36 @@
+Tabel B1.2 Programmering maatregelen HWBP 2023-2028/2034
+Code Beheerder Projectnaam 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037
+17D WS Hunze en Aa's Kerkhovenpolder - Duitsland 
+LRT3
+23B WS Limburg Alexanderhaven AB
+60AJ WS Limburg Roermond Traject 76-1 
+deeltraject Zuid
+18D WS Noorderzijlvest Lauwersmeer - Vierhuizergat
+21AT WS Rijn en IJssel Westervoort - Pannerdense 
+Waard
+21AU WS Rijn en IJssel Tolkamer - Pannerdense Waard
+21AV WS Rijn en IJssel Tolkamer - Spijk
+21AW+21AX WS Rijn en IJssel Den Elterweg – Zutphen
+21AM WS Rijn en IJssel Westervoort - Doesburg
+WS Rijn en IJssel Bingerden-Doesburg
+WS Rijn en IJssel Lathumsedijk
+WS Rijn en IJssel Zuidzijde Oude IJssel
+WS Rijn en IJssel Doesburg-Bevermeer
+21AQ WS Rijn en IJssel Deelproject II Doesburg Rha
+22BV WS Rivierenland Wolferen-Sprok - De Stelt
+22L WS Rivierenland Wolferen-Sprok incl. DTO
+22X WS Rivierenland Gorinchem-Waardenburg 
+(GoWa)
+22Y WS Rivierenland Tiel - Waardenburg (TiWa)
+22D WS Rivierenland Neder-Betuwe
+22AW+AU WS Rivierenland Sprok-Sterreschans-Heteren
+22BX WS Rivierenland Sprok-Sterreschans-Heteren 
+Kruising A15
+22AR en WS Rivierenland Streefkerk Ameide Fort 
+22AK Everdingen (SAFE)
+22K WS Rivierenland Stad Tiel excl Fluvia
+24AG WS Scheldestromen Zuid-Beveland West, 
+(24AV-24AM) Westerschelde Hansweert
+ 
+Legenda:   Voorverkenning   Planuitwerking   Realisatie   Fastlane   Fase buiten programmering geplaatst
+106 Deltaprogramma 2024 | Nu voor later
