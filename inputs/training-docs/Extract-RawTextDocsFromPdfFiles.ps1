@@ -57,7 +57,7 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + " * Exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
-    Add-LoggingMethod 'Warn_TargetFileAllreadyExists' -Method {
+    Add-LoggingMethod 'Warn_TargetFolderAllreadyExists' -Method {
 
         param($file)
 
@@ -65,7 +65,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Warning $($S + " ! Target-file allready exists: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+        Write-Warning $($S + " ! Target-folder allready exists: $F[ $($file.LoggedDir) ]" + $R)
     }
 
     Add-LoggingMethod 'Warn_ExportRawTextFailed' -Method {
@@ -130,15 +130,17 @@ function Get-TargetInfoFromSourceFile {
     param(
         [Alias('FullName')]
         [Parameter(Mandatory, ValueFromPipelineByPropertyName)]
-        [string] $SourcePath
+        [string] $SourcePath,
+
+        [Parameter(Mandatory, Position = 1)]
+        [string] $SourceRootPath
     )
 
     begin {
-        $RootPath = Resolve-Path "$PSScriptRoot\Archive"
-
         function Get-FileInfo([string] $FilePath, [string] $LoggedDir) {
             return [PSCustomObject] @{
                 Name      = [System.IO.Path]::GetFileName($FilePath)
+                Folder    = [System.IO.Path]::GetDirectoryName($FilePath)
                 Path      = $FilePath
                 LoggedDir = $LoggedDir
             }
@@ -146,15 +148,14 @@ function Get-TargetInfoFromSourceFile {
     }
 
     process {
-        $Dir_AbsPath = [System.IO.Path]::GetDirectoryName($SourcePath)
-        $Dir_RelPath = [System.IO.Path]::GetRelativePath($RootPath, $Dir_AbsPath)
+        $RelFilePath = [System.IO.Path]::GetRelativePath($SourceRootPath, $SourcePath)
 
-        $Target_Name = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath) + '.raw.txt'
-        $TargetPath = Join-Path $Dir_AbsPath -ChildPath $Target_Name
+        $TargetDir = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath)
+        $TargetPath = Join-Path $Dir_AbsPath -ChildPath $TargetDir -AdditionalChildPath '{0:4D}.raw.txt'
 
         [PSCustomObject] @{
-            SourceFile = Get-FileInfo $SourcePath -LoggedDir $Dir_RelPath
-            TargetFile = Get-FileInfo $TargetPath -LoggedDir $Dir_RelPath
+            SourceFile = Get-FileInfo $SourcePath -LoggedDir $RelFilePath
+            TargetFile = Get-FileInfo $TargetPath -LoggedDir $RelFilePath
         }
     }
 }
@@ -198,8 +199,8 @@ function Export-RawTextFromSourceFile {
     }
 
     process {
-        if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
-            # $Logging.Warn_TargetFileAllreadyExists($TargetFile)
+        if ($(Test-Path $TargetFile.Folder -PathType Container)) {
+            $Logging.Warn_TargetFolderAllreadyExists($TargetFile)
 
         } else {
             $Logging.Info_ExportingRawTextFromFile($SourceFile)
@@ -226,41 +227,33 @@ function Export-RawTextFromSourceFile {
 
 
 try {
-    Push-Location "$PSScriptRoot\.." # Set to repo root
+    Push-Location "$PSScriptRoot\..\.." # Set to repo root
 
     $BatchProc = Initialize-BatchProcess -Size 300 -OnProcess {
 
         param([int] $BatchNr, [object[]] $BatchedItems)
 
         git add --all
-        git commit -m "Added batch #$BatchNr of raw text extracted policy-docs (total: $($BatchedItems.Count)"
+        git commit -m "Added batch of copyied policy-docs from archive-repo #$BatchNr"
         git push
     }
 
 
 
-    Add-Type -Path "$PSScriptRoot\lib\BouncyCastle.Cryptography\lib\net6.0\BouncyCastle.Cryptography.dll"
-    Add-Type -Path "$PSScriptRoot\lib\iTextSharp\itextsharp.dll"
+    Add-Type -Path "$PSScriptRoot\.lib\BouncyCastle.Cryptography\lib\net6.0\BouncyCastle.Cryptography.dll"
+    Add-Type -Path "$PSScriptRoot\.lib\iTextSharp\itextsharp.dll"
 
 
 
     $Logging.Info_StartedExportingRawTexts()
-    Get-ChildItem -Path "$PSScriptRoot\Archive" -Directory |
-        Where-Object Name -In @(
-            'kamerstukken',
-            'rapporten',
-            'publicaties',
-            'jaarverslagen',
-            'beleidsnotas'
-        ) |
-        Get-ChildItem -Filter *.pdf -File -Recurse |
-        Get-TargetInfoFromSourceFile |
+    Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
+        Get-TargetInfoFromSourceFile $SourceRootPath |
         Export-RawTextFromSourceFile |
         ForEach-Object {
-            $BatchProc.ForEachItem($PSItem)
+            # $BatchProc.ForEachItem($PSItem)
         }
 
-    $BatchProc.FlushItems()
+    # $BatchProc.FlushItems()
 
 } finally {
     Pop-Location
