@@ -1,0 +1,53 @@
+Luchtgebonden migratie  
+ 
+ 
+In de afgelopen rapportageperiode is de migratie van de Cougar voltooid. 
+ 
+Daarmee zijn alle helikoptertypes binnen het Defensie Helikopter Commando 
+(DHC) gemigreerd. De migratie van de F-16’s vertraagt omdat het met de huidige 
+ 
+operationele inzet, in het bijzonder de inzet boven Noord-Irak, niet mogelijk is om 
+de F 16’s gelijktijdig te migreren. Om de F-16 toch te migreren naar ERP wordt er 
+gekozen voor een gefaseerde aanpak. De migratie van het Logistiek Centrum 
+Woensdrecht voor warehouse management zal plaatsvinden in 2015, na oplevering 
+van het nieuwe magazijn en de bijbehorende robottechniek. Het budget voor de 
+luchtgebonden migratieprojecten bedraagt € 13,210 miljoen. Hiervan is tot nu toe € 
+12,850 miljoen besteed. 
+ 
+Migratie bij ondersteunende eenheden 
+Eind 2014 is het Defensie Brand- en Bedrijfsstoffen Bedrijf (DBBB), dat deel uit 
+maakt van de DMO, deels gemigreerd. Dat is voor het merendeel van het 
+artikelenpakket gebeurd. Daarvan maakt ook de gevaarlijke stoffen-indicator deel 
+uit. De migratie van de brandstoffen volgt dit jaar. In het najaar heeft de migratie 
+van het basispakket bij het CDC plaatsgevonden.  
+ 
+Mijlpalenoverzicht 
+In de rapportageperiode juli tot en met december 2014 zijn de volgende migraties 
+voltooid (voor de migraties in de periode 2008–medio 2014 verwijs ik naar de 
+voorgaande rapportages): 
+07-2014 Transportmanagement/goederenvervoer op de weg 
+08-2014 Zr.Ms. Johan de Witt 
+09-2014  Foreign Military Sales, financiële deel 
+10-2014 Directie Materiële Instandhouding  CZSK/Logistiek 
+10-2014 CDC Basis 
+11-2014 Directie Materiële Instandhouding  CZSK/Orderbesturing 
+11-2014 Defensie Grondgebonden Luchtverdedigingscommando (in Nederland 
+en Turkije) 
+12-2014 Defensie Brand- en Bedrijfsstoffen Bedrijf, exclusief brandstoffen 
+12-2014 Zr.Ms. Friesland 
+12-2014 Cougar   
+12-2014 Strategische verplaatsing materieel als eerste bij CDS in gebruik 
+genomen 
+   
+Op dit moment beschikken ruim 5800 medewerkers over ERP. Binnen de 
+materieellogistieke informatievoorziening zijn inmiddels meer ERP dan legacy-
+gebruikers. Tabel 5 bevat een overzicht van de resterende twee mijlpalen van het 
+programma. De planning van zowel de maritieme als de luchtgebonden migratie is 
+aangepast ten opzichte van de planning zoals deze is beschreven in de vorige 
+voortgangsrapportage van 16 oktober 2014 (zoals vermeld tussen haakjes). De 
+vertraging van de luchtgebonden migratie wordt veroorzaakt door de gewijzigde 
+opzet van de migratie F-16, zoals eerder beschreven in deze rapportage. De 
+vertraging van de maritieme integratie hangt samen met enkele resterende 
+migraties in de tweede helft van 2015, zoals eerder beschreven in deze rapportage. 
+ 
+ Voortgangsrapportage basisimplementatie ERP Pagina 7 van 11

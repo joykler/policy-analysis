@@ -1,0 +1,52 @@
+Bijlage 2: Vervolgstappen ERP 
+ 
+  
+Werkwijze 
+ 
+ 
+Bij het optimaliseren van ERP en de bedrijfsvoering hanteer ik, in lijn met de  
+IT-visie (Kamerstuk 31 125, nr. 45), de volgende uitgangspunten: 
+ 
+ Verbetertrajecten zullen kortdurend zijn, beperkt in reikwijdte, en bovenal 
+haalbaar. Daarbij worden doelstellingen en prioriteiten periodiek herijkt, zodat 
+veranderingen in de omgeving kunnen worden meegewogen. 
+ 
+ Om kosten te besparen, risico’s te vermijden en kortdurende verbetertrajecten 
+mogelijk te maken, wordt maatwerk in IT zoveel mogelijk vermeden.  
+ 
+ ERP is niet de oplossing voor alles. De IT zal op het niveau van de 
+informatiesystemen een hybride stelsel van verschillende oplossingen zijn als 
+aanvulling op grote proces ondersteunende systemen zoals ERP worden op 
+elkaar afgestemde standaardpakketten en services gebruikt. Kortom, de 
+geïntegreerde bedrijfsvoering wordt ondersteund door een stelsel van goed 
+samenwerkende IT-modulen.  
+ 
+ ERP-achtige oplossingen die met wapensystemen worden meegeleverd, worden 
+niet nagebouwd in ERP. Wanneer dat nodig is zullen wel koppelingen met ERP 
+worden gerealiseerd.  
+ 
+Een deel van de inspanningen om ERP blijvend goed te laten functioneren, heeft een 
+terugkerend karakter. Deze taken komen bovenop de reguliere beheertaken zoals 
+het bewaken van de juiste werking van het systeem, het beheren van autorisaties, 
+het verhelpen van incidenten, enzovoorts. Zo is er, om optimaal van ERP gebruik te 
+kunnen maken, bijvoorbeeld doorlopende ondersteuning nodig.  
+ 
+Daarnaast moeten geconstateerde fouten worden opgelost en kunnen gewenste 
+functionele verbeteringen worden aangebracht. Die functionele verbeteringen worden 
+door kleine projecten gerealiseerd. Het is overigens niet uitgesloten dat in het licht 
+van de snelle ontwikkelingen binnen de IT de gewenste functionaliteiten niet in ERP, 
+maar in andere technische oplossingen worden gerealiseerd. 
+ 
+Doorlopende activiteiten  
+ 
+Data op orde houden 
+Het project Stay Clean is erop gericht dat geen verstoringen in de bedrijfsvoering 
+optreden door verkeerde gegevens. Een voortdurende aandacht voor 
+gegevensbeheer blijft nodig. 
+ 
+Kennis en kunde op peil houden 
+ERP vraagt inzicht van individuele medewerkers in de totale keten. Er zijn 
+sleutelfunctionarissen aangewezen die vraagbaak zijn voor medewerkers. Er wordt 
+voortdurend geïnvesteerd in opleidingen en kennisdeling.  
+ 
+ Vervolgstappen ERP Pagina 1 van 4

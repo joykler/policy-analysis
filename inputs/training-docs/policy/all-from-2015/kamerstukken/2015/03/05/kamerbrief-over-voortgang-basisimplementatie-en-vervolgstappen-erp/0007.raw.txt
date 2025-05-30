@@ -1,0 +1,56 @@
+Actuele budgetten en ramingen  
+ 
+ 
+Tabel 2 geeft inzicht in de omvang van de drie budgetten volgens de 
+ 
+defensiebegroting, de raming volgens de vorige rapportage, de actuele raming, de 
+realisatie tot 1 januari 2015 en de prognose voor de voltooiing van de 
+ 
+basisimplementatie. 
+ 
+Tabel 2: Actuele budgetten en ramingen basisimplementatie ERP (in € miljoen) 
+Omschrijving Budget Raming Actuele Realisatie Prognose tot einde 
+vorige raming t/m eind basisimplementatie 
+rapportage 2014 
+ERP/M&F (SPEER) 276,468 276,468 276,468 275,398 1,070 
+PALS 31,600 29,000 29,000 27,359 1,641 
+Exploitatievoorbereiding 125,200 125,201 125,201 122,557 2,644 
+Totaal 433,268 430,669 430,669 425,314 5,355 
+ 
+Toelichting budget ERP/M&F (SPEER)  
+Dit budget is bestemd voor de kosten van het ontwerp, de bouw en de invoering van 
+het nieuwe informatiesysteem en de daarbij horende activiteiten. Dit betreft vooral 
+uitbesteed werk. Het budget bestaat uit vier kostencategorieën plus een reserve voor 
+tegenvallers:  
+1. Programmakosten: de kosten van regievoering, de inhuur van deskundigheid 
+onder andere voor second opinions en reviews, de aanschaf van software en 
+licenties en de ontwikkeling van opleidingen en gebruikersinstructies.  
+2. Ontwerp- en bouwkosten: de kosten van het ontwerpen van financiële en 
+materieellogistieke processen en het ontwikkelen van nieuwe functies van het 
+ERP-systeem.  
+3. Migratiekosten: de kosten van de technische en organisatorische invoering van 
+het ERP-systeem.  
+4. Overige kosten: de kosten die niet tot de eerste drie kostencategorieën worden 
+gerekend.  
+5. De reserve is een voorziening om tegenvallers tijdens de uitvoering op te vangen 
+binnen het huidige budget voor ERP/M&F SPEER.  
+ 
+Van het ERP/M&F (SPEER)-budget is voor € 275,399 miljoen besteed. Tabel 3 geeft 
+per kostencategorie inzicht in de uitgavenraming volgens de vorige rapportage, de 
+actuele raming, de uitgaven tot 1 januari 2015 en de prognose voor het einde van de 
+basisimplementatie. 
+ 
+ 
+Tabel 3: budget ERP/M&F (in € miljoen) 
+  
+Raming vorige Actuele Realisatie Prognose tot einde 
+Omschrijving 
+rapportage raming t/m  2014 basisimplementatie 
+Programmakosten 77,166 77,166 77,418 - 0,252 
+Ontwerp- en bouwkosten 93,853 93,853 95,080 - 1,227 
+Migratiekosten 96,639 96,639 94,699 1,940 
+Overige kosten 8,201 8,201 8,201 - 
+Reserve 0,609 0,609 - 0,609 
+Totaal 276,468 276,468 275,398 1,070 
+ 
+ Voortgangsrapportage basisimplementatie ERP Pagina 4 van 11

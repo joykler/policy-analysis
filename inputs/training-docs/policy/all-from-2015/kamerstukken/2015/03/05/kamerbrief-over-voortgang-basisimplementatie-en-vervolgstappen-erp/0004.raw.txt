@@ -1,0 +1,52 @@
+Bijlage 1: Voortgangsrapportage basisimplementatie ERP  
+ 
+ 
+Opzet  
+  
+In deze rapportage komen achtereenvolgens aan de orde: 
+I. samenvattend oordeel;  
+II. doelen en reikwijdte;  
+III. financiën;  
+IV. stand van zaken, planning en mijlpalen;  
+V. risico’s;  
+VI. sturing en beheersing;  
+VII. overzicht voortgang basisimplementatie ERP. 
+ 
+ 
+I – Samenvattend oordeel  
+ 
+ERP is in deze rapportageperiode verder uitgebreid met de volgende 
+functionaliteiten: 
+ aanvullende managementinformatie; 
+ integratie van digitaal inkopen in ERP; 
+ de ondersteuning van het afstotingsproces; 
+ een verdere optimalisering van vraagvoorspelling; 
+ de eerste functionaliteiten voor het operationeel optreden. 
+Hiermee is de met de Tussenbalans 2010 beoogde functionaliteit bereikt. 
+ 
+De uitrol van ERP is voortgezet. De migratie van de Cougar-helikopters is voltooid. 
+Zr. Ms. Johan de Witt en Zr. Ms. Friesland zijn de afgelopen periode gemigreerd. Met 
+de voltooiing van de projecten Logistiek en Orderbesturing is de Directie Materiële 
+Instandhouding van CZSK volledig overgegaan op ERP. Dat is ook het geval bij het 
+Defensie Grondgebonden Luchtverdedigingscommando, inclusief de Patriot-eenheden 
+in Turkije. Tot slot is het Defensie Brand- en Bedrijfsstoffen Bedrijf gemigreerd, met 
+uitzondering van het onderdeel brandstoffen.  
+ 
+Het grootste risico voor de migraties blijft de dataschoning. Schone data is van groot 
+belang voor een goede migratie naar ERP. Vervuiling kan stagnaties in de migratie 
+en onbetrouwbare resultaten opleveren. Om dit risico te beheersen zijn de projecten 
+Get Clean en Stay Clean in het leven geroepen. Met Get Clean, dat in het najaar van 
+2014 is voltooid, werd de data geschoond die voor de migratie noodzakelijk was. De 
+aandacht is nu gericht op het bijhouden van de gerealiseerde datakwaliteit. Dat 
+gebeurt in het project Stay Clean. 
+ 
+Het beschikbare budget voor de voltooiing van de basisimplementatie (totaal € 433 
+miljoen projectbudget exclusief toegerekende interne kosten) is toereikend. Er is 
+echter geen ruimte om nieuwe tegenslagen op te vangen. Door strak financieel 
+management wordt gezorgd voor een verdere beheersing van de financiën.  
+ 
+Met uitzondering van de migratie van de F-16 en enkele resterende kleine migraties 
+bij het CZSK verloopt de basisimplementatie grotendeels volgens planning. Dit laat 
+onverlet dat de migraties een aanzienlijke inspanning vergen. De dataschoning, het 
+vullen van het systeem met de juiste gegevens en het aanpassen van de 
+ Voortgangsrapportage basisimplementatie ERP Pagina 1 van 11

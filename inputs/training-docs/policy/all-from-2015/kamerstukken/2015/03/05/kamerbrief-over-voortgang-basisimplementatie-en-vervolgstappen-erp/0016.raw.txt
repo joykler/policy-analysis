@@ -1,0 +1,52 @@
+Materieelprojecten 
+ 
+ 
+Bij Defensie zijn verwerving, ingebruikname en afstoting van materieel aan de 
+orde van de dag. Bij de ingebruikname van nieuw materieel moeten het beheer en  
+onderhoud in ERP worden ingericht en moeten nieuwe configuraties en artikelen 
+ 
+(zoals reservedelen) in ERP worden ingevoerd. Bij afstoting moeten moet een 
+soortgelijk proces in omgekeerde volgorde worden doorlopen. De kosten hiervan 
+worden gefinancierd uit het budget van het desbetreffende materieelproject. 
+ 
+Uitzetten legacy-systemen 
+Na het voltooien van de basisimplementatie worden legacy-systemen zo veel 
+mogelijk en zo snel mogelijk uitgezet. Daar waar ontbrekende functionaliteiten dit 
+tegenhouden, zal het toevoegen van die functionaliteit aan ERP of een alternatieve 
+oplossing worden overwogen.  
+ 
+Projectmatige activiteiten 2015 
+ 
+Het jaar 2015 is een tussenjaar, waarin de basisimplementatie wordt voltooid. De 
+nadruk ligt daarom op consolidatie van de basisimplementatie boven de toevoeging 
+van nieuwe functionaliteiten. 
+ 
+Verbeterde ondersteuning operationeel optreden  
+Uit de evaluatie van de ontplooiing in Mali zijn waardevolle lessen getrokken. Zo is 
+gebleken dat het gebruik van ERP bij missies nog enige tijd extra ondersteuning 
+nodig heeft. Het gebruik van ERP bij het plannen, voorbereiden, ontplooien en 
+uitvoeren van missies moet worden geoptimaliseerd. Het toewijzen van materieel 
+aan de missie is behoorlijk arbeidsintensief gebleken. Er zijn diverse mogelijkheden 
+deze werklast terug te brengen, en daarmee de doorlooptijd te verkorten. Zo zullen 
+onder andere onderdelen die logischerwijs bij elkaar horen worden samengebundeld 
+in onderdelenpakketten, en zal de mogelijkheid worden geboden bestaande 
+autorisatielijsten voor missies te kunnen hergebruiken. Voor de komende twee jaar 
+is er capaciteit nodig om deze verbeteringen mogelijk te maken. 
+ 
+Stroomlijning rijksbreed categoriemanagement  
+Bepaalde goederen en diensten kunnen rijksbreed worden afgeroepen. Het proces 
+dat dit mogelijk maakt wordt categoriemanagement genoemd. De basisfunctionaliteit 
+voor rijksbreed categoriemanagement is in ERP geïntegreerd, maar wordt verbeterd. 
+ 
+Verbeteringen ketenlogistiek 
+Het volgen van goederen (Tracking en Tracing) tijdens operationeel optreden wordt 
+naar aanleiding van de ervaringen in Mali verbeterd. Na oplevering en inrichting van 
+het magazijn op LCW zal de aansturing van het warehouse door ERP worden 
+geïmplementeerd. Ook de planningsfunctie voor transport wordt verbeterd. 
+ 
+Verbeteringen financiën 
+Er worden verbeteringen doorgevoerd in de ondersteuning voor de 
+werkkostenregeling, de bestedingsplannen van de defensieonderdelen en het proces 
+van behoeftestellingen tot en met betalingen. 
+ 
+ Vervolgstappen ERP Pagina 2 van 4

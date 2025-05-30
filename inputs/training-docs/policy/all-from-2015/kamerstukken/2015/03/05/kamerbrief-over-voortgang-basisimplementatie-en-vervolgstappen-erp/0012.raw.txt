@@ -1,0 +1,41 @@
+VI – Sturing en beheersing 
+ 
+ 
+ 
+In de rapportageperiode heeft de Auditdienst Rijk (ADR) de volgende onderzoeken  
+verricht:  
+ 
+ 
+De datakwaliteit wordt verbeterd via Get Clean en Stay Clean. De ADR stelde vast 
+dat de uitgangspunten van het inrichten van de gegevensbeheer valide zijn. De 
+aanbevelingen richtten zich op het actief communiceren met en het betrekken van 
+alle actoren in de keten. Ik onderschrijf dit en neem deze aandachtspunten mee in 
+de uitvoering van Stay Clean. 
+ 
+De ADR onderzoekt periodiek de beheersing van de inrichting en de functiescheiding 
+in en rond ERP M&F. Er is een integrale aanpak ontwikkeld voor de inrichting van 
+autorisaties van eindgebruikers, beheerdersrollen en het beheer hiervan. De kern is 
+het koppelen van rollen en rechten aan een functie in plaats van aan een persoon. 
+Dit is nader uitgewerkt in een actieplan en in 2014 is begonnen met voorbereidende 
+activiteiten. Geadviseerd is om met prioriteit aandacht te besteden aan 
+beheerdersautorisaties. Dit advies is ter harte genomen, het project is in uitvoering.  
+ 
+De afgelopen rapportageperiode is door de ADR aandacht besteed aan de stand van 
+zaken rond de geautomatiseerde factuurcontrole. Deze nieuwe functionaliteit is 
+recent in gebruik genomen, en zal verder worden geoptimaliseerd. De invoering 
+verloopt beheerst. Alle bevindingen zijn met de ADR besproken en waar nodig zijn 
+maatregelen genomen.  
+ 
+ 
+VII – Overzicht voortgang basisimplementatie ERP 
+ 
+Deze paragraaf bevat overzichten van de beoogde functionaliteiten van ERP en de 
+voortgang van de migratie. De onderstaande tabel bevat een overzicht van de 
+beoogde functionaliteiten volgens de reikwijdte van de Tussenbalans 2010. De groen 
+gemarkeerde functionaliteiten zijn volledig gerealiseerd, de oranje functionaliteiten 
+nog niet helemaal. Voor een overzicht van de functionaliteiten die vanaf 2003 
+werden beoogd, maar geen onderdeel meer zijn van de reikwijdte van de 
+Tussenbalans 2010, verwijs ik naar mijn brieven van 12 maart jl. (Kamerstuk 31 
+460, nr. 41) en 13 maart jl. (Kamerstuk 31 460, nr. 42). 
+ 
+ Voortgangsrapportage basisimplementatie ERP Pagina 9 van 11

@@ -1,0 +1,53 @@
+bedrijfsvoering zijn tijdrovende en arbeidsintensieve processen. Deze 
+ 
+ 
+werkzaamheden worden met hoge prioriteit uitgevoerd. Dit kan tijdelijk reguliere 
+ 
+werkzaamheden verdringen en achterstanden veroorzaken in het logistieke 
+proces, zoals bestellingen van reservedelen. Het doel van ERP is evenwel om deze 
+ 
+problematiek uiteindelijk te verminderen. De gebruikerservaringen worden via 
+gestructureerd overleg opgepakt, zodat hierop zoveel als mogelijk kan worden 
+ingespeeld. 
+ 
+De migratie van de F-16’s vertraagt omdat de huidige operationele inzet boven 
+Noord-Irak het onmogelijk maakt de F-16’s allemaal tegelijk te migreren. Daarom is 
+gekozen voor een gefaseerde aanpak. In de eerste helft van 2015 worden de 
+processen met betrekking tot bevoorrading en componentonderhoud gemigreerd. 
+Vanaf de zomer van 2015, dus vóór de verhuizing van het centrale magazijn op het 
+Logistiek Centrum Woensdrecht, zullen alle F-16-voorraden in ERP worden beheerd. 
+De migratie van de F-16-vliegtuigen volgt direct daarna, in groepen van gemiddeld 
+vijf vliegtuigen per keer. De daadwerkelijke groepsgrootte hangt steeds af van het 
+aantal vliegtuigen dat op dat moment nodig is voor de operationele inzet, en de 
+bijbehorende onderhoudsprogramma’s. Bij ongewijzigde inzet in het Midden-Oosten 
+zal de migratie van de F16’s duren tot eind 2016. De hiermee gepaard gaande extra 
+kosten kunnen binnen de begroting van CLSK worden opgevangen. 
+ 
+ 
+II – Doelen en reikwijdte  
+ 
+De doelstellingen van de basisimplementatie ERP, zoals weergegeven in tabel 1, zijn 
+ongewijzigd ten opzichte van de vorige voortgangsrapportage.  
+  
+Tabel 1: Doelstellingen, normen, streefwaarden/indicatoren en stand van zaken 
+Doelstelling Norm Streefwaarde/ Stand van zaken 
+Indicator 
+Ondersteuning van de Volledige ERP-technologie Gereed. ERP-
+defensiebrede bevoorradingsketen volledig in bedrijf technologie is in bedrijf 
+bedrijfsvoering en het voorzien van uniforme gesteld in de in het financiële en het 
+joint operationeel IV-ondersteuning (één functiegebieden materieellogistieke 
+optreden. ERP-systeem voor de financiën, transport, functiegebied.  
+gehele keten), inclusief bevoorrading en 
+de daartoe verwerving. 
+noodzakelijke 
+koppeling met de 
+financiële 
+administraties. 
+ Onderhoudsketen ERP-technologie Gereed. De 
+gedeeltelijk voorzien uitgerold in het onderhoudsbedrijven 
+van uniforme functiegebied van CLAS, CZSK en 
+ondersteuning (één onderhoud (OPCO’s CLSK zijn gemigreerd.  
+ERP-systeem voor alle inclusief hun 
+operationele onderhouds-
+commando’s). bedrijven). 
+ Voortgangsrapportage basisimplementatie ERP Pagina 2 van 11

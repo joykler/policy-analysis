@@ -1,0 +1,55 @@
+waren al bekend en in de begroting afgedekt, maar conform de nieuwe wijze van 
+ 
+ 
+rapporteren worden deze kosten aan het project toegerekend. In de vorige 
+ 
+rapportage van 16 oktober 2014 (Kamerstuk 31 460, nr. 49) heb ik de wijze van 
+berekening van deze kosten toegelicht. Het grootste deel ervan betreft de kosten 
+ 
+van defensiepersoneel dat werkzaam is voor de in deze rapportage genoemde 
+projecten. 
+ 
+Financiële gevolgen vertraging migratie F-16 
+Een voorlopige schatting is dat met de vertraging een bedrag is gemoeid van 
+maximaal € 2 miljoen. Deze kosten worden betaald uit het reguliere 
+exploitatiebudget van CLSK, en leiden dus niet tot een ophoging van het 
+projectbudget. 
+ 
+ 
+IV – Stand van zaken, planning en mijlpalen 
+ 
+Ontwerp en bouw  
+In het najaar van 2014 is release 2.3.0 gerealiseerd. Daarin zijn nieuwe 
+functionaliteiten opgenomen voor o.a. managementinformatie, integratie van digitaal 
+inkopen in ERP, de ondersteuning van het afstotingsproces, de verdere 
+optimalisering van vraagvoorspelling bij met name de luchtprojecten, alsmede de 
+eerste functionaliteiten voor het operationeel optreden. Het budget voor nieuwe 
+functionaliteiten bedraagt € 26,623 miljoen, dit bedrag is volledig uitgegeven.  
+ 
+Maritieme migratie  
+In de rapportageperiode zijn Zr.Ms. Johan de Witt (eerste van de LPD-klasse) en 
+Zr.Ms. Friesland (eerste OPV) gemigreerd. De overige schepen worden stapsgewijs 
+gemigreerd. De Nederlandse schepen worden vóór medio 2015 gemigreerd, behalve 
+wellicht Zr.Ms. Zeeland. De Belgische M-Fregatten volgen vlak daarna, in juli en 
+augustus 2015. Het is afhankelijk van het vaarschema of de Zeeland nog in de 
+eerste helft van 2015 of pas in oktober 2015 wordt gemigreerd. In respectievelijk 
+oktober en november 2014 zijn de projecten Logistiek en Orderbesturing 
+gerealiseerd. Hiermee is de Directie Materiële Instandhouding volledig gemigreerd. 
+In 2015 worden de walinstellingen en de CZSK-eenheden in het Caribisch gebied 
+gemigreerd. De migratie van de CZSK-organisatie in het Caribisch gebied loopt uit 
+tot in de tweede helft van 2015. Het budget voor de maritieme migratieprojecten 
+bedraagt € 16,266 miljoen. Hiervan is inmiddels € 15,540 miljoen besteed. De 
+genoemde uitloop kan binnen het budget worden opgevangen. 
+ 
+Grondgebonden migratie  
+Transportation Management zal stap voor stap het gehele transportnetwerk (lucht, 
+weg, spoor, zee) van Defensie gaan ondersteunen. Het deelproject voor 
+goederenvervoer over de weg is in de zomer opgeleverd. De migratie van het 
+Defensie Grondgebonden Luchtverdedigingscommando (DGLC) is gerealiseerd in 
+november 2014, inclusief de Patriot-eenheden die in Turkije waren ingezet. Ook is 
+nog een aantal achterstallige eenheden gemigreerd. Het budget voor de 
+grondgebonden migratie bedraagt € 36,303 miljoen. Hiervan is tot nu toe € 35,870 
+miljoen besteed. 
+ 
+  
+ Voortgangsrapportage basisimplementatie ERP Pagina 6 van 11

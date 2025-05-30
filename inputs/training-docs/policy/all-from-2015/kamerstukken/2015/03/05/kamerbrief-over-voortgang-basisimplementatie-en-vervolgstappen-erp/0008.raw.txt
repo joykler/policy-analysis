@@ -1,0 +1,58 @@
+Toelichting budget PALS  
+ 
+ 
+Dit budget is bestemd voor de kosten van het maken van tijdelijke en permanente 
+ 
+koppelingen tussen bestaande informatiesystemen (legacy) en het nieuwe 
+informatiesysteem. Van het PALS-budget is tot nu toe € 27,359 miljoen 
+ 
+uitgegeven. Naar verwachting is nog een bedrag van € 1,641 miljoen nodig voor 
+voltooiing van de PALS-activiteiten.  
+ 
+Toelichting budget exploitatievoorbereiding  
+De interne dienstverlening door het JIVC wordt vanuit dit budget betaald. Er zijn zes 
+kostencategorieën:  
+1. Kennisoverdracht over de kernel en over het gebruik van infrastructuur voor het 
+ERP-systeem en het toekomstige beheer. 
+2. Migratieondersteuning, waarbij het JIVC de defensieonderdelen ondersteunt bij 
+vraagstukken over legacy-systemen en de technische infrastructuur.  
+3. Datamigratie en -onderhoud, voor de ondersteuning door het JIVC bij 
+dataconversie en datasynchronisatie.  
+4. Het gebruik van testfaciliteiten bij het JIVC.  
+5. Landschapsbeheer, waarbij het JIVC wordt ingezet voor het gebruik van 
+techniek, voor de ontwikkeling en testen van nieuwe versies en voor de 
+verwerking van wijzigingsverzoeken.  
+6. Een voorziening voor de ontwikkeling van IT-infrastructuur.  
+ 
+Van het budget voor exploitatievoorbereiding is tot nu toe €122,557 miljoen 
+uitgegeven. Tabel 4 geeft per kostencategorie inzicht in de raming volgens de vorige 
+rapportage, de actuele raming, de uitgaven tot 1 januari 2015 en de prognose voor 
+het einde van de basisimplementatie. De realisatie in de afgelopen 
+rapportageperiode was beperkt.  
+ 
+Tabel 4: budget exploitatievoorbereiding (in € miljoen) 
+Vorige Actuele Realisatie Prognose tot einde 
+Omschrijving 
+Rapportage raming t/m 2014 basisimplementatie  
+Kennisoverdracht 11,407 11,407 11,151 0,256 
+Migratieondersteuning 13,737 13,737 14,526 - 0,789 
+Datamigratie 
+14,998 14,998 15,233 - 0,235 
+en -onderhoud 
+Testfaciliteiten 24,743 24,743 22,986 1,757 
+Landschapsbeheer 55,148 55,148 53,965 1,183 
+ICT infrastructuur 5,168 5,168 4,696 0,472 
+Totaal 125,201 125,201 122,557 2,644 
+ 
+Inzet externe medewerkers  
+In de rapportageperiode waren 32 externe medewerkers betrokken bij de 
+basisimplementatie ERP, evenveel als in de vorige voortgangsrapportage. De 
+uitgaven voor de inzet van deze externe medewerkers komen ten laste van het 
+ERP/M&F (SPEER)-budget. 
+ 
+Interne kosten 
+De toepassing van het rapportagemodel voor grote ICT-projecten over de periode 
+van 2010 (Tussenbalans) tot en met eind 2014 leidt tot het toerekenen van 
+geschatte interne kosten ter hoogte van ongeveer € 146 miljoen over de gehele 
+periode, waarvan ongeveer € 15 miljoen voor de tweede helft van 2014. Deze kosten 
+ Voortgangsrapportage basisimplementatie ERP Pagina 5 van 11
