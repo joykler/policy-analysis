@@ -1,0 +1,55 @@
+voorgestelde termijnen te kort zijn om alle noodzakelijke vereisten uit te voeren en dat een 
+termijn van respectievelijk 18 en 24 maanden wenselijk is om instant payments in euro te kunnen 
+ontvangen en verzenden. 
+ 
+Daarnaast heeft het kabinet in het BNC-fiche aangegeven dat aan de Commissie gevraagd zal 
+worden welke additionele waarborgen er worden genomen om bulkbetalingen via instant payments 
+in euro te verwerken. Een voorbeeld hiervan zijn waarborgen om eventuele capaciteitsproblemen 
+bij het verwerken van bulkbetalingsbestanden via instant payments in euro te voorkomen.  
+ 
+De leden van de VVD-fractie delen de opvatting dat het voorstel ruimte moet laten voor snellere 
+betalingen, zoals die in Nederland al zijn afgesproken. Welke stappen heeft het kabinet tot nog toe 
+gezet om deze mogelijkheid in de nieuwe voorstellen te laten opnemen? In het verlengde hiervan 
+is het deze leden niet geheel duidelijk wat het standpunt van het kabinet is ten aanzien van een 
+mogelijke limiet van 100.000 euro voor grensoverschrijdende instant payments. Is het kabinet 
+tegen een dergelijke limiet, aangezien deze in Nederland nu ook niet bestaat, of niet? Ook vragen 
+deze leden een nadere toelichting of het doorgaan van het commissievoorstel betekent dat instant 
+payment verplicht is tot 100.000 euro of dat dit mogelijk moet zijn tot 100.000 euro. 
+Op dit moment is in de SEPA Credit Transfer (SCT) Instant Scheme, een Europese standaard, een 
+maximale limiet van 100.000 euro voor grensoverschrijdende instant payments in euro 
+opgenomen. In het BNC-fiche heeft het kabinet aangegeven dat het niet duidelijk is of de 
+Commissie een maximale limiet voor instant payments in euro in wil stellen, omdat hier niets over 
+is opgenomen in het voorstel. In Nederland is er geen maximale limiet voor uitgaande en 
+inkomende betalingen specifiek voor instant payments in euro. Het kabinet is daarom ook geen 
+voorstander van een limiet voor instant payments in euro. Zoals aangegeven in het BNC-fiche 
+vraagt Nederland de Commissie in de onderhandelingen in de Raad hoe zij hiermee wil omgaan.  
+ 
+Ook heeft het kabinet in het BNC-fiche aangegeven dat het belangrijk is dat de mogelijkheid blijft 
+bestaan om op nationaal niveau afspraken te maken om instant payment in euro sneller te 
+versturen. De Commissie heeft aangegeven dat in het voorstel is opgenomen dat instant payments 
+in euro binnen 10 seconden moeten worden verstuurd. Dit zou betekenen dat instant payments in 
+euro ook sneller verstuurd mogen worden.   
+ 
+De leden van de VVD-fractie delen de opvatting van het kabinet dat het wenselijk is om de IBAN-
+naam-check net als in Nederland zonder aanvullende kosten en automatisch beschikbaar te 
+stellen. Welke stappen heeft het kabinet, al dan niet met andere lidstaten, gezet om ervoor te 
+zorgen dat deze bestaande Nederlandse praktijk in de nieuwe verordening de standaard wordt? 
+Zoals aangegeven in het BNC-fiche zet Nederland zich tijdens de Raadswerkgroepen in voor 
+aansluiting van de IBAN-naam controle op de huidige functionaliteit hiervan in Nederland. Dit 
+betekent dat de IBAN-naam controle automatisch en zonder aanvullende kosten wordt 
+aangeboden. Het kabinet verwacht dat hiermee het gebruik van een dergelijke service 
+gestimuleerd wordt en fraude en het overmaken van betalingen richting onbedoelde begunstigden 
+zoveel mogelijk wordt voorkomen. Nederland heeft onder andere toelichting gegeven in één van 
+de Raadswerkgroepen over de werkwijze van de IBAN-naam controle in Nederland.  
+ 
+De leden van de VVD-fractie lezen tot slot dat het kabinet zorgen heeft over de voorgestelde 
+implementatieperiodes, omdat deze voor sommige Payment Service Providers (PSP’s) te kort zou 
+zijn. Welke termijnen acht het kabinet wel werkbaar voor de uitvoerende partijen? 
+Zoals hierboven aangegeven is er met de Betaalvereniging Nederland gesproken over welke 
+implementatietermijnen in Nederland wel haalbaar zouden zijn. Zij hebben aangegeven dat op 
+basis van de ervaringen met de implementatie in Nederland de voorgestelde termijnen te kort zijn 
+om alle noodzakelijke vereisten uit te voeren, ook wanneer de infrastructuur voor instant payment 
+in euro al aanwezig is. Volgens de Betaalvereniging Nederland is een termijn van 18 maanden 
+wenselijk voor PSP’s om instant payments in euro te kunnen ontvangen en 24 maanden voor het 
+verzenden van instant payments in euro. Daarnaast moeten PSP’s die nog geen dienst aanbieden 
+om te zorgen dat een betaler kan nagaan of het rekeningnummer overeenkomt met de naam van

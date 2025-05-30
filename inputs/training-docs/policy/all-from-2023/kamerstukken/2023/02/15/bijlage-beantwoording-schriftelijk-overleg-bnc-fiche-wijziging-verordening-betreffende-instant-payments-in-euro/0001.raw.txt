@@ -1,0 +1,55 @@
+VERSLAG VAN EEN SCHRIFTELIJK OVERLEG INZAKE HET BNC-FICHE WIJZIGING 
+VERORDENINGEN BETREFFENDE INSTANT PAYMENTS IN EURO 
+ 
+II  Reactie van de minister 
+ 
+Ik heb met belangstelling kennisgenomen van de vragen en opmerkingen van de leden van de 
+fracties van de VVD, D66, PVV en ChristenUnie inzake het BNC-fiche Wijziging verordeningen 
+betreffende instant payments in euro. Bij de volgorde van de beantwoording is de volgorde van de 
+inbreng van het schriftelijk overleg aangehouden, waarbij indien gepast vragen gezamenlijk zijn 
+beantwoord.  
+ 
+Vragen en opmerkingen van de leden van de VVD-fractie 
+ 
+De leden van de VVD-fractie lezen dat mensen onterecht werden aangemerkt als een persoon op 
+een sanctielijst en dat het voorstel dit moet oplossen. Uit het fiche wordt volgens de leden echter 
+niet duidelijk waarom dit probleem bij de nieuw voorgestelde werkwijze niet meer speelt. Ook 
+blijkt hieruit volgens de leden niet of in het bestaande systeem mensen die juist wél op 
+sanctielijsten staan voldoende worden gedetecteerd en of dit in het nieuwe systeem zo blijft of (bij 
+voorkeur) verbetert. De leden van de VVD-fractie vragen het kabinet om deze aspecten nader toe 
+te lichten. 
+Het voorstel van de Europese Commissie zorgt ervoor dat de sanctiescreening verschuift van 
+transactiescreening naar klantscreening. Bij de huidige werkwijze passen betaaldienstverleners 
+(Payment Service Providers, oftewel PSP’s) transactie gebaseerde sanctiescreening toe bij instant 
+payments in euro op zowel de betaler als de begunstigde. Wanneer bij een transactie een 
+gesanctioneerde wordt gesignaleerd door het transactiescreeningsmechanisme, moet handmatig 
+gecontroleerd worden of bij een transactie daadwerkelijk een persoon of entiteit op de EU-
+sanctielijst betrokken is. Omdat het niet mogelijk is om dit binnen 10 seconden te verifiëren, wordt 
+een transactie automatisch afgewezen terwijl dit niet altijd terecht is. Het kan bijvoorbeeld zo zijn 
+dat iemand dezelfde naam heeft als iemand op een sanctielijst, waardoor de transactie als risicovol 
+wordt bestempeld, terwijl uit verder onderzoek blijkt dat het om een andere (onschuldige) persoon 
+gaat. Volgens de Commissie wordt 99,8% van deze transacties onterecht afgewezen, de 
+zogenoemde ‘false positives’.  
+ 
+Met het voorstel van de Europese Commissie worden PSP’s die instant payments in euro aanbieden 
+verplicht een geharmoniseerde sanctiescreeningsprocedure te volgen en wordt overgegaan van 
+transactiescreening naar klantscreening. In het voorstel is opgenomen dat PSP’s worden verplicht 
+om dagelijks te controleren of hun eigen klanten met een betaalrekening die instant payments in 
+euro kan ontvangen of versturen op een EU-sanctielijst staan. Dit betekent dat de PSP van de 
+betalende klant enkel de betaler controleert en de begunstigde PSP de begunstigde klant, in plaats 
+van zowel de betaler als de begunstigde bij elke afzonderlijke transactie. Het controleren van 
+alleen eigen klanten voorkomt dat PSP’s een screening moeten uitvoeren waarbij ze over weinig 
+informatie beschikken en hiervoor beperkt nader onderzoek kunnen doen. PSP’s beschikken over 
+voldoende gegevens om ervoor te zorgen dat minder klanten onterecht worden aangemerkt als 
+gesanctioneerd. Deze klantscreening stelt PSP’s ook in staat om met meer gegevens 
+gesanctioneerden wel te detecteren. Dit zou ertoe kunnen leiden dat er mogelijk een ‘restrisico’ is, 
+maar de verwachting is dat dit wordt gecompenseerd door een betere screening. 
+ 
+De leden van de VVD-fractie lezen verder dat het kabinet nog zorgen heeft over de voorgestelde 
+implementatietermijnen voor bulkbetalingen. Welke termijnen en overige voorwaarden zijn 
+hiervoor volgens het kabinet noodzakelijk? 
+In het BNC-fiche heeft het kabinet aangegeven het belangrijk te vinden dat PSP’s die zakelijke 
+partijen de mogelijkheid aanbieden tot het aanleveren van bulkbetalingsbestanden voldoende tijd 
+krijgen om hun systemen aan te passen om deze overschrijvingsopdrachten als instant payments 
+in euro te (laten) verwerken. Van de Betaalvereniging Nederland heeft het kabinet begrepen dat, 
+op basis van de ervaringen met de implementatie van instant payments in Nederland, de

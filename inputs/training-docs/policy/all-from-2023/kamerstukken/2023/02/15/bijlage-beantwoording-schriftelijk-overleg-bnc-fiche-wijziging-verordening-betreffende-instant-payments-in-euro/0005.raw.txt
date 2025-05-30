@@ -1,0 +1,55 @@
+Het voorstel kan een bijdrage leveren aan het bestaande betalingssysteem in Nederland, omdat er 
+in Nederland een aantal kleinere PSP’s zijn die op dit moment nog geen instant betalingen in euro 
+aanbieden. Om instant payments in euro te kunnen verzenden en ontvangen moet zowel de bank 
+van de betaler als de begunstigde deze dienst aanbieden. Indien een klant bij een bank die instant 
+payments in euro aanbiedt een overschrijving doet naar een bank die geen instant payment in 
+euro kan ontvangen, dan wordt deze betaling in Nederland nu als een reguliere overschrijving 
+verwerkt. 
+ 
+Tevens vragen de leden van de PVV-fractie op welke punten het betalingssysteem in Nederland 
+eventuele beperkingen opgelegd kan krijgen als gevolg van het voorstel, bijvoorbeeld een 
+maximale limiet van 100.000 euro voor grensoverschrijdende instant payments, terwijl er in 
+Nederland momenteel geen limiet is.  
+De inzet van het kabinet is dat het voorstel aansluit bij de situatie hoe het in Nederland geregeld 
+is. Graag verwijs ik hiervoor naar de beantwoording van vraag drie van de VVD-fractie. 
+ 
+De leden van de PVV-fractie vragen naar een nadere toelichting van de wijze waarop non-bancaire 
+instellingen instant payments zullen aanbieden. Krijgen zij ook een limiet opgelegd als het gaat om 
+de transactiekosten die zij in rekening mogen brengen?  
+Indien een non-bancaire instelling vrijwillig besluit om instant payment in euro aan te bieden, dan 
+is de verwachting van het kabinet dat ze aan dezelfde verplichtingen moeten voldoen als de PSP’s 
+die onder dit voorstel vallen.  
+ 
+Voorts vragen de leden van de PVV-fractie ten aanzien van de financiële consequenties naar een 
+inschatting van de toenemende toezichtskosten van DNB en/of de AFM als gevolg van het 
+onderhavige voorstel. 
+Het is nog niet bekend hoe het toezicht op de verordening vormgegeven zal worden en ook niet 
+welke autoriteit toezicht zal houden op de naleving hiervan. Zowel De Nederlandsche Bank (DNB) 
+als de Autoriteit Financiële Markten (AFM) kunnen om die reden nog geen inschatting geven van 
+de financiële consequenties. 
+ 
+Tevens willen de leden van de PVV-fractie weten hoe hoog de implementatiekosten van de 
+Nederlandse PSP’s die nog geen instant payments hebben geïntroduceerd zullen zijn.  
+Zoals opgenomen in het BNC-fiche moeten Nederlandse PSP’s die nog geen instant payments in 
+euro hebben geïmplementeerd, hiervoor implementatiekosten maken. Volgens de Betaalvereniging 
+Nederland is de implementatie van instant payments in euro voor deze partijen een kostbaar 
+proces. De Betaalvereniging Nederland heeft aangegeven dat het niet mogelijk is om een 
+inschatting te maken van de implementatiekosten van instant payments in euro. Het zijn op dit 
+moment de grotere PSP’s die instant payment in euro in Nederland al hebben geïntroduceerd. 
+Deze kosten zijn naar verwachting niet representatief voor de kleinere partijen. De hoogte van de 
+implementatiekosten zal ook afhangen van of partijen deze verplichting uit zullen besteden of zelf 
+implementeren. 
+ 
+De leden van de PVV-fractie willen daarnaast weten hoe hoog de “beperkte” doorlopende kosten 
+zullen zijn. Hoe hoog zijn de totale besparingen op sanctiescreening, minder inspanningen van de 
+PSP voor opvolging van fraude?  
+De Commissie geeft in haar impact assessment aan dat de implementatie voor PSP’s die nog geen 
+instant payments in euro of IBAN-naam controle aanbieden in de loop van de tijd in evenwicht 
+zullen komen vanwege besparingen. Volgens de Commissie zullen PSP’s onder andere besparen op 
+de nieuwe aanpak voor sanctiescreening en omdat zij minder tijd besteden aan fraude vanwege de 
+IBAN-naam controle.   
+ 
+Het kabinet kan op dit moment geen inschatting geven van hoe hoog de ‘beperkte’ doorlopende 
+kosten en de totale besparingen zullen zijn op sanctiescreening en inspanningen vanwege fraude. 
+Zoals het kabinet heeft aangegeven in het BNC-fiche wil Nederland de Commissie vragen om een 
+verdere onderbouwing van de kosten en opbrengsten voor PSP’s.

@@ -1,0 +1,57 @@
+daarop momenteel innovaties in de weg zitten. Eerder heeft het kabinet onderzoek laten doen naar 
+innovatie in de financiële sector. Hierbij is gekeken naar de aard en omvang van de FinTech sector 
+en naar de kansen en belemmeringen om innovatie in de financiële sector op een verantwoorde 
+wijze verder te bevorderen. Zoals eerder toegezegd aan uw Kamer laat het kabinet momenteel 
+opnieuw onderzoek doen naar innovatie in de financiële sector om de positie van Nederland te 
+2
+monitoren . De resultaten van dit onderzoek worden voor de zomer aan uw Kamer aangeboden.   
+ 
+Vragen en opmerkingen van de leden van de PVV-fractie 
+ 
+De leden van de PVV-fractie vragen waarom er niet voor gekozen is om de dienst waarbij kan 
+worden gecontroleerd of het ingevoerde rekeningnummer en de naam van de begunstigde van de 
+betaling overeenkomt met de naam zoals die bij de PSP bekend is in alle gevallen kosteloos aan te 
+bieden. Ook vragen de leden van de PVV-fractie of alle PSP’s in Nederland die instant payments in 
+euro aanbieden, gebruikmaken van deze dienst en daar tevens een vergoeding voor vragen.   
+In het BNC-fiche heeft het kabinet aangegeven dat in Nederland het merendeel van de banken de 
+IBAN-naam controle gebruikt om fraude en transacties richting onbedoelde begunstigden te 
+voorkomen. In de meeste andere EU-landen bestaat er nog geen IBAN-naam controle die door het 
+merendeel van de PSP’s is geïmplementeerd. Dit betekent dat PSP’s in die landen kosten moeten 
+maken voor het implementeren van de functionaliteit. De Commissie heeft in het voorstel 
+opgenomen dat PSP’s hiervoor een vergoeding mogen vragen. Zoals aangegeven in het BNC-fiche 
+vindt Nederland het belangrijk dat de functionaliteit aansluit bij het in Nederland al bestaande 
+initiatief en daarmee zonder extra tarifering moet worden aangeboden om het gebruik ervan te 
+stimuleren.  
+ 
+Voorts vragen de leden van de PVV-fractie waarom ervoor gekozen is dat PSP’s die instant 
+payments in euro aanbieden, verplicht worden om eenmaal per dag hun klanten te controleren aan 
+de hand van EU-sanctielijsten en direct na de binnenkomst van eventuele nieuwe of gewijzigde 
+namen op de sanctielijst in plaats van bij elke afzonderlijke transactie. Deze leden vragen tevens 
+in hoeverre deze besparing fraude juist in de hand werkt. 
+EU-wetgeving verplicht elke PSP die betaalrekeningen aanhoudt, te allen tijde op de hoogte te zijn 
+van alle sancties die van toepassing zijn op grond van EU-verordeningen, met inbegrip van alle 
+personen en entiteiten die onderworpen zijn aan sancties van bevriezing van tegoeden en verbod 
+om geld ter beschikking te stellen. Momenteel schrijft de EU-wetgeving niet voor hoe 
+betalingsdienstaanbieders hun verplichtingen moeten nakomen om EU-sancties toe te passen 
+tegen aangewezen personen en entiteiten. Dit voorstel verduidelijkt de manier waarop PSP’s aan 
+deze verplichting moeten voldoen. Daarnaast wordt in dit voorstel gekozen voor klantscreening in 
+plaats van transactiescreening. Zoals ook aangegeven in het antwoord op vraag 1 van de VVD-
+fractie, wordt hiermee tegemoet gekomen aan het probleem van ‘false positives’, waarbij 
+transacties onterecht worden afgekeurd. Uiteraard is het belangrijk dat deze werkwijze geen 
+fraude in de hand werkt en hier rekening mee gehouden wordt bij de vormgeving. 
+ 
+In het verlengde hiervan merken de leden van de PVV-fractie op dat PSP’s zullen besparen op 
+onder andere de nieuwe aanpak voor sanctiescreening en minder tijd zullen besteden aan fraude 
+vanwege de IBAN-controle. De leden van de PVV-fractie vragen in hoeverre dit eventueel wringt 
+met de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft).  
+Het feit dat de sanctiescreening in dit voorstel duidelijker wordt ingeregeld doet niet af aan de 
+verplichtingen voor PSP’s die voortvloeien uit de Wet ter voorkoming van witwassen en 
+financiering van terrorisme (Wwft). Zowel in het kader van sancties als in het kader van de Wwft 
+moeten instellingen cliëntenonderzoek doen. 
+ 
+De leden van de PVV-fractie vragen in hoeverre het onderhavige voorstel een bijdrage levert aan 
+het bestaande betalingssysteem in Nederland, anders dan meer efficiënte grensoverschrijdende 
+overschrijvingen.  
+ 
+2
+ Kamerstukken II, 2019-2020, 32013, nr. 242
