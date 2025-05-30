@@ -50,5 +50,4 @@ per HAS-student t.o.v. hbo techniek.
 16
  Dit is dus inclusief het bedrag aan ‘vaste voeten’ van de betrokken hogescholen, naar rato van het aandeel 
 techniekstudenten. De interne verdeelsystematiek binnen de hogescholen is onbekend, dus het is zeker denk-
-baar dat de technische opleidingen meer of juist minder ontvangen dan op grond van hun aandeel studenten. 
- 41
+baar dat de technische opleidingen meer of juist minder ontvangen dan op grond van hun aandeel studenten.

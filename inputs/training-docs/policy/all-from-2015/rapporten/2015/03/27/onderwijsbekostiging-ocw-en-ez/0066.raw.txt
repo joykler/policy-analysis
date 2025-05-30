@@ -19,7 +19,4 @@ subsidies vakdepartementaal
 (+) 
 Aanvullende bekostiging EZ Nb 5 12 12 6 13 16 11 9 12 9 
 Totaal EZ (*) (in €) 228 250 269 272 292 294 289 275 276 294 298 
-Index 100 110 118 119 128 129 128 122 121 129 131 
- 
-  
-66
+Index 100 110 118 119 128 129 128 122 121 129 131

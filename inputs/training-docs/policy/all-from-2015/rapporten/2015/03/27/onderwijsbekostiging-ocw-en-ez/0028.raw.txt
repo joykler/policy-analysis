@@ -52,5 +52,4 @@ den bekostigd, die bij OCW onder de hoofdbekostiging vallen.
  Hierbij is ook gewogen voor de verhouding bol (1), bbl (0,6) en bol deeltijd (0,5). Deze methodiek maakt het 
 mogelijk om een redelijk zuivere schatting te maken. Per regeling/jaar zal het daadwerkelijke bedrag of aandeel 
 door EZ bekostigd mbo verschillen. Om dat volledig in kaart te brengen vraagt veel inspanningen, terwijl het 
-resultaat waarschijnlijk dicht bij deze berekening zal uitkomen. 
-28
+resultaat waarschijnlijk dicht bij deze berekening zal uitkomen.

@@ -41,5 +41,4 @@ B Voeding en Gezondheid 374 385 techniek
 M Animal Sciences 280 312 techniek 
 M Bioinformatics 23 25 techniek 
 M Biosystems Engineering 37 53 techniek 
-M Biotechnology 152 187 techniek 
- 69
+M Biotechnology 152 187 techniek

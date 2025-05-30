@@ -49,5 +49,4 @@ uitsplitsing naar domein gemaakt.
 vangen op basis van het aantal studenten op niveau 1 en 2 (de ‘onderkant van het mbo’).  
 10
  In incidentele gevallen worden specifieke subsidies wel aan een onderwijsinstelling verstrekt. De omvang van 
-dit bedrag is zeer gering en wordt dan ook niet meegenomen in de verdere analyses.  
- 27
+dit bedrag is zeer gering en wordt dan ook niet meegenomen in de verdere analyses.

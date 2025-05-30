@@ -47,6 +47,4 @@ gaat daarbij om verschillen in drie factoren:
 Voor deze factor kunnen we corrigeren. Daartoe delen we de uitgaven door een gewo-
 gen studentenaantal. Bbl-studenten tellen we hierbij in beide domeinen voor 0,6 mee, 
 en deeltijd bol studenten voor 0,5, conform de berekening van het macrobudget door 
-OCW en EZ. 
- 
- 31
+OCW en EZ.

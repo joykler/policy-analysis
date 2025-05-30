@@ -47,5 +47,4 @@ leidingen worden gegeven.
 De volgende tabel laat de uitkomsten zien voor 2011 en 2012. Vanaf 2011 zijn de 
 rijksbijdragen (excl. subsidies) van door OCW bekostigd én door EZ bekostigd wo in 
 een gezamenlijke bekostigingsspreadsheet opgenomen, en het gebruikte 1cijferHO-
-bestand liep tot en met 2012.   
- 49
+bestand liep tot en met 2012.

@@ -47,7 +47,4 @@ In het vo hangt het budget voor een school af van drie elementen:
  Daarbinnen het aantal praktijkonderwijs- en lwoo-leerlingen 
  De schooltypen die de school aanbiedt 
 Dit variabele deel is het leeuwendeel van het budget (95-96%). Dit geldt onverkort 
-voor OCW- en EZ-bekostigd vo. 
- 
- 
-8
+voor OCW- en EZ-bekostigd vo.

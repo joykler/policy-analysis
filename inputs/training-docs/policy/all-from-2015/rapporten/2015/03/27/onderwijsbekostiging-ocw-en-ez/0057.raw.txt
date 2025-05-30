@@ -44,5 +44,4 @@ Zoals gezegd worden leerling-/studentenaantallen van door EZ bekostigd en door O
 bekostigd onderwijs apart aangegeven (sinds 1990) in de ramingen. Er is sprake van 
 één model, met wel verschillende doorstroomcoëfficiënten voor door EZ bekostigd en 
 door OCW bekostigd onderwijs. Dus op basis van bevolkingsprognoses en stroomge-
-gevens kan worden bepaald dat x% van de y leerlingen in groep 8 volgend jaar naar 
- 57
+gevens kan worden bepaald dat x% van de y leerlingen in groep 8 volgend jaar naar

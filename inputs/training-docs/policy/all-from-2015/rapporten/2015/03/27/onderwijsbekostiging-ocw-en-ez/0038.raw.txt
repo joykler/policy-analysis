@@ -38,5 +38,4 @@ studenten .
                                                  
 14
  Bijlage 5 geeft een overzicht van aantallen niet-EER studenten voor het door EZ bekostigd en door OCW 
-bekostigd hbo en wo. 
-38
+bekostigd hbo en wo.
