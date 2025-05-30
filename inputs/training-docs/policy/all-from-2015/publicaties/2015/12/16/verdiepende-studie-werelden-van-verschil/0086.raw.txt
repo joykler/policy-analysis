@@ -1,0 +1,37 @@
+De latenteklassenanalyses per migrantengroep laten zien dat het aantal categorieën van
+sociaal-culturele afstand voor de afzonderlijke groepen kleiner is (zie bijlage B4.5 op
+www.scp.nl). De variatie in sociaal-culturele patronen tussen migrantengroepen is groter
+dan de variatie binnen die groepen. Voor de Turkse en Antilliaanse groep kunnen vier cate-
+gorieën van sociaal-culturele afstand worden onderscheiden, bij de Surinaamse en
+Marokkaanse groep zijn dit er drie. Het is niet onverwacht dat er minder categorieën per
+migrantengroep naar voren komen dan in totaal over alle migrantengroepen heen.
+Uit tabel 4.2 bleek al dat bepaalde sociaal-culturele categorieën bij sommige migranten-
+groepen niet of nauwelijks voorkomen, zoals de categorie ‘assimilatie’ bij Turkse
+Nederlanders.
+Het beeld van de latenteklassenanalyse per migrantengroep komt grotendeels overeen
+met de bevindingen uit tabel 4.2. Bij de Marokkaanse en Turkse Nederlanders heeft onge-
+veer een kwart (zeer) weinig sociale of emotionele banden met Nederland. Binnen deze
+groepen heeft een deel wel dubbele banden, maar het accent daarvan ligt hoofdzakelijk bij
+de herkomstgroep en de culturele afstand is relatief groot. De sociaal-culturele categorieën
+waarbij de nadruk van de banden op Nederland ligt, komen bij hen niet voor. Bij de
+Antilliaanse en Surinaamse groep is dit wel zo. Bij hen komt uit de aparte analyse niet een
+groep naar voren die op grote afstand van de Nederlandse samenleving staat.
+4.3 Sociaal-culturele categorieën naar achtergrondkenmerken
+In deze paragraaf analyseren we welke (individuele) factoren samenhangen met de diverse
+sociaal-culturele categorieën. Eerst beschrijven we hoe de diverse categorieën zijn samen-
+gesteld. In tabellen 4.3 tot en met 4.5 zijn de gemiddelde scores op de achterliggende ken-
+merken voor de zeven sociaal-culturele categorieën gepresenteerd. Dit geeft aan hoe een
+bepaalde categorie is samengesteld; zo is bij de segregatiegroep 60% vrouw (en dus 40%
+man) en is 10% van de tweede generatie (en dus 90% van de eerste generatie). In bijlage
+B4.6 op www.scp.nl staat uiteengezet hoe deze concepten zijn bevraagd en wat de ant-
+woordcategorieën zijn.
+In tabellen 4.3 tot en met 4.5 staan de ongecontroleerde percentages; er is (nog) geen reke-
+ning met de onderlinge samenhang van de achterliggende kenmerken gehouden. Op basis
+van logistische multivariate regressies (zie bijlagen B4.8 en B4.9 op www.scp.nl) krijgen we
+meer zicht op de relatieve sterkte van de gevonden samenhangen. In zo’n analyse wordt
+een dichotome variabele gerelateerd aan meerdere achterliggende kenmerken. Deze ana-
+lyses hebben alleen zin voor de categorieën aan de uitersten van het spectrum, omdat voor
+de hybride (midden)categorieën de referentiegroep te diffuus is. Voor bijvoorbeeld de
+categorie ‘dubbele bindingen’ bestaat de referentiegroep uit zowel migranten uit de groep
+‘assimilatie’ als ‘segregatie’.
+85 sociaal -culturele categorieën : migranten op afstand

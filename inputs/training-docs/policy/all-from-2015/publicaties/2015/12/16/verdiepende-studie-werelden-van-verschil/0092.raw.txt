@@ -1,0 +1,48 @@
+Tabel 4.5
+Gemiddelden op achterliggende kenmerken van de sociaal-culturele categorieën ‘gematigde segregatie’,
+‘geïsoleerd en georiënteerd op Nederland’ en ‘dubbele bindingen’, 2011 (in procenten)
+ geïsoleerd en 
+ gematigde georiënteerd dubbele 
+segregatie op Nederland bindingen gemiddeld 
+ 
+vrouw 0,44 0,58 0,48 0,50
+tweede generatie 0,29 0,28 0,31 0,33
+15-24 jaar 0,24 0,14 0,25 0,23
+25-44 jaar 0,47 0,45 0,47 0,45
+45-64 jaar 0,25 0,31 0,23 0,25
+≥ 65 jaar 0,05 0,09 0,05 0,07
+maximaal bao 0,28 0,20 0,15 0,24
+vbo/mavo 0,22 0,24 0,20 0,21
+mbo/havo/vwo 0,36 0,37 0,38 0,35
+hbo/wo 0,15 0,19 0,28 0,20
+geen sterke religieuze oriëntatie 0,28 0,59 0,55 0,44
+a
+sterke religieuze oriëntatie 0,72 0,42 0,45 0,56
+partner 0,55 0,46 0,50 0,54
+kinderen 0,63 0,66 0,54 0,60
+betaalde baan 0,50 0,54 0,60 0,50
+lage status baan 0,41 0,26 0,28 0,34
+schoolgaand 0,15 0,09 0,16 0,16
+a
+verblijfsduur 25,0 29,3 24,1 25,7
+b
+inkomen (1-8) 3,83 4,00 4,13 4,00
+b
+Nederlandse taalbeheersing (1-3) 2,48 2,83 2,78 2,57
+autochtonen in de wijk (%) 0,57 0,55 0,63 0,59
+a Verblijfsduur is alleen van toepassing voor de eerste generatie.
+b Achter de indicator staat de bijbehorende range (minimum en maximum waarde).
+Bron: scp (sim’11)
+4.4 De relatie van sociaal-culturele categorieën met andere domeinen
+In deze paragraaf richten we ons op het verband tussen de sociaal-culturele categorieën en
+diverse terreinen zoals gezondheid en welbevinden, beeldvorming en ervaren acceptatie
+en discriminatie, politieke participatie en sociaal vertrouwen. De beschikbare gegevens
+maken het niet mogelijk om de relatie met deviant gedrag (zoals criminaliteit of extre-
+misme) te onderzoeken.
+We beschrijven de verschillen in deze posities voor de zeven sociaal-culturele categorieën.
+Daarnaast kijken we naar de relatieve sterkte van de verbanden en naar wat er overblijft
+van de verschillen nadat rekening wordt gehouden met achterliggende kenmerken zoals
+leeftijd, taalbeheersing en opleidingsniveau. Leeftijd en gezondheid hangen bijvoorbeeld
+sterk samen. De gemiddelde leeftijd varieert tussen de verschillende sociaal-culturele cate-
+gorieën: voor de interpretatie van de gezondheidsverschillen is het dan ook belangrijk om
+91 sociaal -culturele categorieën : migranten op afstand

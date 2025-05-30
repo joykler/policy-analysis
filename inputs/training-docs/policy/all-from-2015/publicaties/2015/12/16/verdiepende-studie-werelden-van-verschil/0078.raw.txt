@@ -1,0 +1,39 @@
+Kader 4.2 De latenteklassenanalyse van de sociaal-culturele categorieën
+De lca-analyses voor dit onderzoek zijn uitgevoerd met Mplus. De kwaliteit van de classificatie
+(de entropy-waarde) is 0,91 (zie bijlage B4.3 op www.scp.nl). Dat is hoog: een entropy van 0,80
+wordt over het algemeen beschouwd als goed. De maximum score is 1,00. Een belangrijke vraag
+bij de lca is uit hoeveel verschillende klassen de typologie bestaat. Op basis van de principes van
+eenvoudigheid en zuinigheid heeft het de voorkeur om zo min mogelijk homogene groepen te
+onderscheiden. Maar hoe meer individuen in een groep worden samengenomen, hoe groter de
+onderlinge verschillen en de variatie zijn. Wanneer die onderlinge verschillen binnen een groep te
+groot zijn, is het niet zinvol meer om ze te beschouwen als een bij elkaar behorende groep van
+individuen. De Vuong-Lo-Mendell-Rubin-likelihood-ratiotest en de Lo-Mendell-Rubin-adjusted-
+lrt-test laten zien dat een oplossing met acht klassen niet significant beter is dan een oplossing
+met zeven klassen. Een oplossing met zeven clusters is daarentegen wel significant beter dan een
+oplossing met zes klassen. We komen daarom tot een indeling in zeven klassen. Voor meer aan-
+vullende informatie over de lca is in bijlage B4.2 t/m B4.4 op www.scp.nl informatie opgenomen
+over de wijze hoe we tot deze uitkomst gekomen zijn en over de kwaliteit van de oplossing.
+4.2 Een typologie van sociaal-culturele integratie
+In tabel 4.1 zijn de zeven categorieën die we op basis van de latenteklassenanalyse hebben
+vastgesteld en de gemiddelde scores op de verschillende items weergegeven. Een hogere
+score verwijst bij de items die de sociale en de emotionele dimensie representeren naar
+een sterkere emotionele of sociale band. Bij de culturele items verwijst een hogere score
+naar progressieve waarden. In de laatste kolom is het gemiddelde over alle categorieën
+weergegeven. Dit biedt een referentiekader om te bepalen in hoeverre een bepaalde groep
+op een bepaald item op grote dan wel kleinere afstand staat. Aan de hand van de uitkom-
+sten van tabel 4.1 bespreken we het signatuur van de diverse sociaal-culturele categorieën.
+De scores op de afzonderlijke items schetsen een beeld van de kenmerken die bij een
+bepaalde groep horen.
+Gesegregeerd: veel bonding en weinig bridging
+De categorie ‘segregatie’ bestaat uit migranten die hechte banden met de herkomstgroep
+onderhouden, zich in beperkte mate met Nederland identificeren en weinig sociale contac-
+ten met autochtone Nederlanders hebben. Ze participeren niet veel in organisaties en als
+ze dat wel doen, is daar nauwelijks contact met autochtone Nederlanders. Ook gaan
+migranten uit deze categorie weinig om met migranten uit andere groepen en is de
+culturele afstand relatief groot. Ten opzichte van de andere onderscheiden categorieën is
+er weinig steun voor de gelijkheid van lhbt’s en voor zaken als abortus en euthanasie.
+Scheiding van kerk en staat, en de gelijkheid tussen mannen en vrouwen, worden echter
+niet massaal afgewezen. De emotionele band met de herkomstgroep is sterk en er is veel
+sociale interactie met de leden daarvan. Dit is de categorie die in het profiel van ‘een groep
+op afstand’ past.
+77 sociaal -culturele categorieën : migranten op afstand
