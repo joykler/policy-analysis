@@ -35,7 +35,4 @@ W.B. Hoekstra
  
  
  
-[Ondertekenaar 3] [Ondertekenaar 4] 
- 
- 
-3
+[Ondertekenaar 3] [Ondertekenaar 4]

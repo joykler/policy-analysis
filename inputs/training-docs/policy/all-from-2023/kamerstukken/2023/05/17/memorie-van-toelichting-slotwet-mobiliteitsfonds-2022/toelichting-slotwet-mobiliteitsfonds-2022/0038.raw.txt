@@ -53,4 +53,4 @@ A4 Delft - Schiedam 0 0 642 642 2015 2015
 A4 Vlietland / N14 0 0 16 16 2020 2020
 N57/N59 EuroRAP (verkeersveiligheid) 2 3 18 18 2024 n.t.b.
 N61 Hoek-Schoondijke 1 1 111 111 2015 2015
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 A, nr. 4 38
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 A, nr. 4
