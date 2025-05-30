@@ -1,0 +1,60 @@
+railverkeerstechnisch ontwerp (RVTO) in het kader van de planstudie voor het baanvak Kijfhoek-
+Belgische grens staat nu gepland voor het tweede kwartaal van 2023, een half jaar later dan de 
+planning. Wel is een eerste, voorlopige versie van het RVTO opgeleverd. Het definitieve RVTO zal 
+gebruikt worden voor de openbare aanbesteding waarmee het project uiteindelijk zal worden 
+gerealiseerd. 
+ 
+In het kader van de planstudie voor de spoorwegtrajecten in Noord-Nederland wordt gewerkt aan een 
+functioneel integraal systeemontwerp (FIS) en een railverkeer technisch ontwerp (RVTO). 
+Oorspronkelijk stond voltooiing van beide onderdelen gepland voor het tweede kwartaal dit jaar, maar 
+door wijzigingen van de reikwijdte van de planstudie is er vertraging opgetreden. Het FIS wordt naar 
+verwachting nog de eerste helft van dit jaar opgeleverd, terwijl het RVTO voor het einde van het jaar 
+wordt verwacht. Hierna zal de planningsfase voltooid zijn. 
+ 
+Ook zijn er per eind 2022 65 basistransceiver stations (GSM-Rail masten) operationeel voor ERMTS, 
+waarmee Nederland op koers ligt om voor het eerste kwartaal van 2024 een totaal te bereiken van 
+130 basistransceiver stations die operationeel zijn onder het ERMTS-systeem. 
+Voorts wordt er gewerkt aan aanpassing van de logistieke IT-systemen binnen Prorail, opdat deze de 
+juiste informatie over spoorwegveiligheid en -interoperabiliteit (informatie van het ERMTS/Central 
+Safety System (CSS)) kan ontvangen en verwerken. Hiervoor werkt de IT-afdeling van Prorail 
+momenteel aan de levering van de aangepaste systemen aan de gebruikers van IT-applicaties in 
+andere afdelingen van Prorail. 
+ 
+Het HVP bevat een meerjarige investering die is bedoeld om bestaande wegkantstations (WKS), dat 
+wil zeggen apparaten naast de rijbaan die kunnen communiceren met elektronische verkeersborden, 
+te vervangen door intelligente wegkantstations (iWKS) met meer functies. iWKS moeten de congestie 
+verminderen en de verkeersdoorstroming verbeteren door sneller te waarschuwen voor incidenten en 
+files en door het wegverkeer beter en sneller te spreiden over alternatieve routes. Bovendien wordt 
+verwacht dat intelligente wegkantstations efficiënter en duurzamer zijn en minder onderhoud vergen 
+dan bestaande wegkantstations. Echter, door een combinatie van factoren, zoals tekorten aan 
+grondstoffen en gespecialiseerd personeel, is de aanvang van de productiefase vertraagd en wordt 
+momenteel de business case herijkt. Aan de hand van deze herijking zal een nieuw tijdspad voor 
+implementatie worden vastgesteld. 
+ 
+Daarnaast wordt er als onderdeel van het HVP geïnvesteerd in infrastructuur voor 
+gezondheidsonderzoek. Het doel van deze investering is innovatie in de life sciences 
+(biowetenschappen) en de gezondheidszorg te stimuleren door data van het Health-RI-consortium te 
+standaardiseren en met elkaar te verbinden. Eind 2022 is een ondersteuningssysteem voor 
+42
+onderzoekers ontwikkeld dat momenteel operationeel is. Eind 2023 worden de volgende stappen 
+gezet: ten eerste wordt een routekaart vastgesteld voor secundair gebruik van gezondheidsdata 
+waarin wordt gespecificeerd welke stappen universitaire medische centra moeten ondernemen om 
+ervoor te zorgen dat hun gezondheidsdata kan worden gevonden, geraadpleegd, uitgewisseld en 
+hergebruikt. Daarnaast zal een eerste versie van het dataportaal voor het opzoeken van 
+gezondheidsdata en toegang tot gezondheidsdata operationeel zijn. 
+ 
+ 
+Beleidsmaatregelen buiten het HVP 
+Het kabinet heeft in maart 2022 een brief naar het parlement gestuurd met daarin de hoofdlijnen van 
+43
+het beleid voor digitalisering. Deze hoofdlijnen, aan de hand van de thema’s Digitaal Fundament, 
+Digitale Overheid, Digitale Samenleving en Digitale Economie, komen voort uit het coalitieakkoord en 
+vormden het startpunt voor de kabinetsbrede werkagenda Digitalisering. Deze werkagenda heeft het 
+kabinet voor de thema’s Digitaal Fundament, Digitale Overheid en Digitale Economie nader 
+geconcretiseerd in afstemming met een breed palet aan belanghebbenden uit samenleving, 
+wetenschap en bedrijfsleven. Dit heeft geleid tot de publicatie van de ‘Werkagenda Waardengedreven 
+ 
+42
+ https://www.health-ri.nl/health-ri-service-desk 
+43 Kamerbrief hoofdlijnen beleid voor digitalisering | Kamerstuk | Rijksoverheid.nl 
+19

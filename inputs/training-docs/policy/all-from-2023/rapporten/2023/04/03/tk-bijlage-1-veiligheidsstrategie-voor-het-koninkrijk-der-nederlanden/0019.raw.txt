@@ -1,0 +1,42 @@
+Deel 1  →  Dreigingen
+65
+ICT-systemen en OT (operationele technologie) - continu in Cyberdreigingen tegen het Koninkrijk
+beweging is en dat zorgt ook weer voor nieuwe, onverwachte 
+afhankelijkheidsrelaties en effecten. Een dynamiek die niet Digitale systemen raken steeds meer verweven in onze samenleving en een duidelijk onderscheid tussen het fysieke 
+62
+zal verminderen. Door bijvoorbeeld de inzet van of digitale domein is inmiddels niet meer te maken. Cyberdreigingen kunnen dan ook uiteenlopende gevolgen hebben 
+technologieën zoals artifical intelligence (AI) en quantum voor onze sociale en politieke stabiliteit, en onze fysieke en economische veiligheid. Zo kan de fysieke veiligheid in  
+63
+computing kunnen kwaadwillenden met grote rekenkracht het geding zijn wanneer artsen door een cyberaanval op een ziekenhuis geen accurate zorg meer kunnen leveren aan 
+geautomatis eerde aanvallen uitvoeren waarmee crypto- patiënten. Verder zou een cyberaanval op bijvoorbeeld een bank directe financiële gevolgen kunnen hebben, en zou 
+grafische beveiliging gekraakt kan worden. Technologisch de sociale en politieke stabiliteit in het geding kunnen komen wanneer een cyberaanval op een elektriciteits centrale 
+leiderschap en dominantie op sleutel technologieën zullen de leidt tot langdurige stroomuitval, met maatschappelijke onrust tot gevolg.
+geopolitieke en militaire machtsverhoudingen van de 
+toekomst bepalen (zie ook doorsnijdend thema 1). In juni 2017 werd de wereld opgeschrikt door de snelle verspreiding van de malware NotPetya die bestanden leek te 
+gijzelen. De bestanden bleken echter niet meer terug te krijgen, waardoor de malware een vernietigende uitwerking 
+Tegelijkertijd bieden technologische ontwikkelingen ook had. De aanval was gericht op gebruikers van een softwarepakket dat gebruikt werd in Oekraïne, maar had effecten 
+kansen voor de bevordering van de nationale veiligheid. tot ver buiten Oekraïne. In Nederland werd de vestiging van Maersk in de Rotterdamse haven geraakt, wat leidde tot 
+Technologieën kunnen bijdragen aan het versterken van 200 tot 300 miljoen dollar financiële schade.
+capaciteiten om onze samenleving weerbaarder te maken 
+64
+tegen dreigingen. En daarmee ook het versterken van de Nederland werd in december 2021 geconfronteerd met een kwetsbaarheid in Log4J. Dat is een veelvuldig gebruikte 
+weerbaarheid tegen maatschappelijke ontwrichting. softwaremodule in ICT-systemen en is breed in gebruik bij grote en kleine organisaties in binnen- en buitenland.  
+Digitalisering, data science en AI bieden bijvoorbeeld de Elk systeem dat gebruik maakte van Log4j bleek kwetsbaar te zijn: een kwaadwillende kon op afstand een willekeurige 
+mogelijkheid om dreigingen sneller te identificeren, de code uitvoeren. Omdat Log4j wereldwijd in zeer veel systemen wordt gebruikt, ontstond er veel onrust rondom deze 
+afhankelijkheid van menselijke waarneming te verminderen, kwetsbaarheid. Uiteindelijk werd er in Nederland misbruik van deze kwetsbaarheid geconstateerd  
+grote hoeveelheden data te analyseren en de communicatie door zowel statelijke actoren als cybercriminelen.
+tussen betrokkenen te verbeteren. Dit draagt bij aan een 
+verbeterde inlichtingenpositie, de ondersteuning van Ook het Caribisch deel van het Koninkrijk kent voorbeelden van cyberaanvallen waarbij de gevolgen maatschappij- 
+besluitvorming en het verhogen van de efficiëntie van ontwrichtend kunnen zijn. Een voorbeeld hiervan is de grote ransomware aanval in 2022 op het (enige) water- en 
+operaties. Quantum technologie maakt encryptie sterker elektriciteitsbedrijf van Sint Maarten. Door de aanval verloor het bedrijf de toegang tot de financiële data, terwijl  
+waardoor de gegevens en communicatie beter beveiligd zijn. er geen recente back-up beschikbaar was. Dit vormde een bedreiging voor de bedrijfsvoering en de continuïteit van 
+Nieuwe technologieën bieden ook mogelijkheden voor de twee vitale processen: water en elektriciteit. Een andere casus is de ransomware-aanval in 2019 op een ziekenhuis op 
+ontwikkeling van arbeidsextensieve systemen en Aruba. De aanval verstoorde de bedrijfsvoering en de operationele uitvoering van werkzaamheden van het zieken-
+capaciteiten. Robotica bijvoorbeeld kan worden ingezet voor huis, met een impact op de dienstverlening en de patiënten.
+het automatiseren van repetitieve taken of in situaties waar 
+het voor mensen gevaarlijk opereren is. Denk aan het 
+ontmantelen van explosieven of het inspecteren van 
+gebouwen na een aanslag. Arbeidsextensieve oplossingen 
+bieden ook kansen voor het adresseren van de toenemende 
+krapte op de arbeidsmarkt.
+19
