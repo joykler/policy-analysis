@@ -1,0 +1,62 @@
+8
+belangrijkste risico’s in acht deelsectoren in kaart gebracht. Daarnaast heeft het ministerie van VWS, samen 
+9
+met de NZa, I-SZW, FIOD en het OM, diverse risicoanalyses gemaakt van verschillende deelsectoren. Ook zijn 
+diverse meer specifieke onderzoeken uitgevoerd naar aspecten die met het fenomeen samenhangen, zoals 
+ 10, 11
+normnaleving en upcoding. In aanloop naar dit programmaplan is daarnaast gesproken met een groot 
+aantal experts, (vertegenwoordigers van) zorgaanbieders, zorgverzekeraars en toezicht- en 
+opsporingsmedewerkers over de belangrijkste risico’s op onrechtmatigheden en mogelijke belemmeringen die 
+een effectieve aanpak in de weg staan. Deze paragraaf geeft een overzicht van de opgedane kennis en 
+inzichten op basis van het onderzoek en de gesprekken. De analyse heeft nog voornamelijk betrekking op de 
+zorgdomeinen Zvw en Wlz (voorheen AWBZ) omdat hier al de meeste kennis over is opgedaan. 
+2.4.1 Mogelijke verschijningsvormen 
+De NZa geeft in haar onderzoek naar kwetsbaarheden en financiële onregelmatigheden in de zorg een 
+12
+beschrijving van mogelijke risico’s op onrechtmatigheden in de zorg. Aangevuld met kennis uit risicoanalyses, 
+ervaringen vanuit toezicht en opsporing ontstaat een globaal beeld van de belangrijkste verschijningsvormen 
+van onrechtmatigheden. Onderstaande tabel geeft een overzicht. Bij de meeste vormen kan er zowel sprake 
+zijn van een onbedoelde fout als van fraude. Er kunnen zich (in specifieke deelsectoren) nog andere vormen 
+van onrechtmatigheden voordoen. 
+Vorm Omschrijving 
+Spookzorg Zorg wordt gedeclareerd, terwijl deze niet is geleverd. Dit kan bijvoorbeeld als fictieve 
+patiënten worden opgevoerd, ten onrechte instellingstoeslagen in rekening worden gebracht 
+of behandelingen worden gedeclareerd die niet hebben plaatsgevonden bij bestaande 
+patiënten (valselijk opgemaakte medische verklaringen). 
+Onverzekerde zorg  Onverzekerde zorg wordt als verzekerde zorg gedeclareerd. Dit is vooral een risico wanneer 
+(pakketfraude) zorg alleen onder bepaalde voorwaarden onder het basispakket valt. 
+Dubbele bekostiging Geleverde zorg wordt dubbel geclaimd: 
+1) bij de patiënt en bij de zorgverzekeraar. 2) op basis van meerdere bekostigingssystemen. 3) 
+bij aanbieders met een vaste en een variabele component doordat iets dat al in de behandeling 
+zit via de toeslag nog een keer extra wordt gedeclareerd. 4) door het openen van meerdere 
+DBC’s voor één zorgvraag, terwijl geen sprake is van multidisciplinaire behandeling. 
+Foutieve declaraties  
+Opknippen Onderdelen van een bundel zorgactiviteiten worden apart gedeclareerd met hogere kosten. 
+Upcoding Er wordt een duurdere behandeling gedeclareerd dan is geleverd.  
+Tegen/om de patiënt  
+Verwijsvergoeding Onrechtmatige werving van patiënten, bijvoorbeeld door een verwijsvergoeding te betalen aan 
+ huisartsen. 
+U-bochtconstructie Het ontvangen van een dubbele vergoeding door een onderdeel van een bundel zorg-
+ activiteiten apart in rekening te brengen. Het gaat dus om een combinatie van dubbel 
+ declareren en opknippen. 
+Onterechte bijbetalingen Patiënten moeten ten onrechte bijbetalen voor zorg die in de geleverde prestatie hoort.  
+Te hoge indicatie De zorgbehoefte van een patiënt of cliënt kan ernstiger worden voorgesteld dan deze in de 
+realiteit is. 
+Pgb-fraude Frauderen met het persoonsgebonden budget doordat: 
+1) het budget aan iets anders wordt besteed dan zorg, 2) de hoogte van de declaratie niet 
+overeen komt met de ingekochte of geleverde zorg, 3) de cliënt een onnodige of te hoge 
+indicatie krijgt. 
+ 
+                                                           
+8
+ NZa (2014). Onderzoek naar kwetsbaarheden en financiële onregelmatigheden in de zorg 
+9
+ VWS (2012). Risicoanalyse Fraude in de AWBZ zorg in natura; NZa (2013). Risico’s voor ongepast en oneigenlijk gebruik 
+Generalistische basis GGZ ; NZa (2014). Tussenrapportage Thematisch onderzoek Persoonsgebonden budget 
+10
+ Panteia (2013). Correct declareren in de extramurale AWBZ zorg 
+11
+ CIZ (2013). Onderzoek omvang upcoding gemandateerde indicatiestelling en aanbevelingen 
+12
+ NZa (2014). Onderzoek zorgfraude. Tussenrapport (update) 
+7

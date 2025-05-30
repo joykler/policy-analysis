@@ -1,0 +1,52 @@
+bekostigd mbo zijn de leerlingaantallen vooral tussen 2008 en 2012 relatief sterker 
+gestegen. Voor de toekomst wordt voor beide domeinen een krimp van het aantal 
+studenten voorzien, die grotendeels parallel verloopt.  
+ 
+3.3 Uitgaven per student 
+Als we de uitgaven delen door het aantal studenten komen we voor het mbo op de 
+uitgaven per student. Die presenteren we hieronder in verschillende varianten. 
+3.3.1 Uitgaven EZ en OCW als geheel 
+Als we de totale uitgaven zoals die in tabel 3.1 zijn opgenomen delen door het totaal 
+aantal studenten per domein (3.2) komen we voor het mbo op een bruto vergelijking 
+van uitgaven per student.  
+ 
+Tabel 3.3  Totale uitgaven per mbo-student, EZ en OCW, 2007-2014, in euro’s en index  
+Jaar 
+2007 2008 2009 2010 2011 2012 2013 2014 
+                                                                
+Basis OCW (in €) 5.483  5.623  5.872  5.746  5.871  6.161  6.367  6.529  
+Aanvullend OCW (in €) 302 355 289 473 352 345 335 327 
+                                                       
+Totaal OCW (in €) 5.785  5.977  6.161  6.220  6.222  6.506  6.702  6.855  
+Index OCW 100 103 106 108 108 112 116 118 
+                                                                                                                                                                                          
+Basis EZ (in €) 4.874  5.322  5.417  5.397  5.440  5.665  6.198  6.235  
+Aanvullende subsidies EZ                                                                                                                                                                                                                             
+OCW-conform (in €) 66  82  97  129  152  189  269  348  
+Aanvullende bekostiging                                                                                                                                                                                                                      
+OCW voor groen mbo (in €) 91  124  206  374  220  293  290  289  
+Aanvullende subsidies EZ                                                                                                                                                                                                               
+vakdepartementaal (in €) 627  704  732  733  906  1.028  956  975  
+                                                                                                                                                                                          
+Totaal EZ (in €) 5.659  6.233  6.477  6.697  6.780  7.190  7.718  7.846  
+Index EZ 100 110 114 118 120 127 136 139 
+ 
+De totale uitgaven per student in het door EZ bekostigde mbo lagen in 2007 lager dan 
+in het door OCW bekostigde mbo, maar de totale uitgaven per student in de jaren 
+daarna liggen tot 1.000 euro per leerling hoger.  
+De omvang van de basisbekostiging per student in het mbo ligt voor EZ over de hele 
+periode lager dan bij OCW. Daar tegenover staat een aanzienlijk groter en groeiend 
+bedrag per leerling waarmee EZ de mbo-instellingen aanvullend bekostigt.  
+3.3.2 Vergelijking relevante uitgaven naar gewogen studenten  
+Het door EZ bekostigde mbo is echter niet zonder meer vergelijkbaar met het door 
+OCW bekostigde mbo. Er zijn onderliggende verschillen tussen de twee domeinen die 
+verschillen in uitgavenniveaus en ontwikkeling verklaren dan wel rechtvaardigen. Het 
+gaat daarbij om verschillen in drie factoren: 
+ 
+1. deelname aan opleidingstypes (bol, bbl, deeltijd bol) 
+Voor deze factor kunnen we corrigeren. Daartoe delen we de uitgaven door een gewo-
+gen studentenaantal. Bbl-studenten tellen we hierbij in beide domeinen voor 0,6 mee, 
+en deeltijd bol studenten voor 0,5, conform de berekening van het macrobudget door 
+OCW en EZ. 
+ 
+ 31

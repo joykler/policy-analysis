@@ -1,0 +1,53 @@
+mbo: 
+De verdeling in het mbo geschiedt voor OCW volledig (direct of indirect) op basis van 
+het aantal studenten en diploma’s. Voor studenten geldt een ‘deelnemerswaarde’ die 
+afhangt van de prijsfactor voor een specifieke opleiding, en de vraag of het een BOL- 
+of BBL-student betreft. OCW gebruikt dit rekenmodel om het (vastgestelde) macro-
+budget te verdelen, en EZ gebruikt de prijzen uit dit model om het macrobudget mede 
+te bepalen voor niveau 1 en 2 (VOA-middelen).  
+Voor het overige hanteert EZ een eigen berekeningswijze; EZ gaat bij wijzigingen uit 
+van de prijs per student in het jaar daarvoor, waardoor niet zozeer de prijs per stu-
+dent gelijk is, als wel de ontwikkeling daarin. Beide departementen hanteren een an-
+der historisch prijsniveau als uitgangspunt.  
+ 
+hbo en wo: 
+Sinds 2010 worden instellingen bekostigd op basis van aantallen studenten en diplo-
+ma’s (graden), en een ‘vaste voet’ in de vorm van onderwijsopslag in bedragen en 
+percentages. En daarnaast in het wo een onderzoeksdeel op basis van aantallen pro-
+moties, graden en een vast deel (percentages en bedragen). De bekostiging in hbo en 
+wo is hiermee wat minder variabel dan in vo en mbo.   
+Niet alle studenten en promoties tellen gelijk mee. In het hbo zijn er laag- en hoogbe-
+kostigde studenten (die resp. als 1 en 1,28 tellen), en in het wo laag-, hoog- en top-
+bekostigde (resp. 1, 1,5 en 3). Promoties kennen sinds 2009 één prijs en waren daar-
+voor ook laag- of hoogbekostigd. 
+EZ volgt OCW in de variabele bekostiging van het hbo en wo; de prijzen per (hoogbe-
+kostigde) student, diploma en promotie worden overgenomen. Een belangrijk verschil 
+is dat de prijs per student voor OCW een uitkomst is van het feitelijke macrobudget 
+gedeeld door het aantal te bekostigen studenten, terwijl voor EZ die prijs een input is, 
+die vermenigvuldigd wordt met het aantal studenten om het macrobudget (mede) te 
+bepalen. Dit is vergelijkbaar met de situatie in het mbo.  
+De vaste voet blijkt voor EZ-instellingen in hbo en wo wat groter dan voor (gemiddel-
+de) OCW-instellingen.  
+NB de bekostiging is een verdeelmodel, en heeft in die zin voor EZ in het wo geen 
+betekenis. Er is immers maar één EZ-bekostigde wo-instelling. 
+ 
+Ramingen  
+5a. Wat zijn de leerling- en studentenramingen voor OCW- en EZ-bekostigd onderwijs 
+ tot 2030?  
+Tabellen 2.2, 3.2, 4.2 en 5.2 in dit rapport geven de exacte ontwikkelingen van gerea-
+liseerde en geraamde aantallen leerlingen en studenten. De grote lijnen zijn per sector 
+als volgt. 
+ 
+ VO OCW: het aantal leerlingen is gestegen met 7% tussen 2004 en 2015, daalt 
+daarna geleidelijk met 13% tussen 2015 en 2030. 
+ VO EZ: een daling met 10% tussen 2004 en 2011, gevolgd door een ongeveer even 
+grote stijging (tot 2016), waarna een forse daling inzet tot 2030 (ruim 20%). 
+ 
+ MBO OCW: 8% stijging tussen 2004 en 2011, gevolgd door 19% daling tot 2030 
+ MBO EZ: een sterke stijging met 22% tussen 2004 en 2011; sindsdien een daling, 
+van 27% tot 2030. 
+ Het aandeel bbl in het mbo daalt in OCW-domein van 34% in 2004 tot 23% in 
+2014. In het groen mbo daalt het aandeel bbl van 37% in 2004 tot 29% in 2014. 
+ 
+ 
+ 9

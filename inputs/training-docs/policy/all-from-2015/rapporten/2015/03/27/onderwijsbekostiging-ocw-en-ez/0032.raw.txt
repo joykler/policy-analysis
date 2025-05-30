@@ -1,0 +1,75 @@
+2. deelname aan opleidingen op niveau 1 en 2 (op basis waarvan de VOA-middelen in 
+de lumpsum worden verdeeld) 
+Met deze factor kunnen we rekening houden door de VOA-middelen buiten de vergelij-
+king te houden.  
+ 
+3. prijsfactoren van opleidingen  
+Het is niet goed mogelijk om de uitgaven per leerling over de onderzochte periode te 
+corrigeren voor het relatieve belang van prijsfactoren. Prijsfactoren van opleidingen 
+wegen voor verschillen in onderliggende kostenstructuren van opleidingen binnen de 
+bekostiging van instellingen. Tot aan 2015 waren de prijsfactoren binnen de twee do-
+meinen niet vergelijkbaar. De prijsfactorenrange van EZ liep van 1,0 tot en met 1,16, 
+bij OCW van 1,0 tot en met 1,7. Hierdoor is een onderling historisch vergelijk tussen 
+de sectoren op dit punt niet mogelijk.  
+Na de recente harmonisatie van de prijsfactoren, die bepalend is voor de bekostiging 
+vanaf 2015, zijn de ranges van de prijsfactoren in beide domeinen wel gelijk. De door 
+EZ bekostigde opleidingen zijn daarbij ‘ingedeeld’ in prijsfactoren die bij OCW in ge-
+bruik zijn, met als doel voor EZ om de groene opleidingen vergelijkbaar te maken met 
+de andere opleidingen.  
+De methodiek van het toedelen van prijsfactoren aan specifieke opleidingen is daar-
+12
+mee niet hetzelfde voor de twee domeinen .   
+  
+Tabel 3.4 corrigeert voor de eerste factor (deelname aan opleidingstypes). Tabel 3.4a 
+corrigeert voor factor 1 én 2, door naast de correctie van tabel 3.4 ook de VOA-
+middelen buiten beschouwing te laten.   
+ 
+Tabel 3.4 Uitgaven per student, gewogen voor deelname bol/bbl/deeltijdbol - naar jaar in euro’s 
+en index 
+ 2007 2008 2009 2010 2011 2012 2013 2014 
+                                                                                                                                                                                            
+Basis OCW (in €) 
+6.293  6.514  6.824  6.650  6.761  7.032  7.170  7.216  
+                                                                                                        
+Totaal OCW (in €) 
+6.640  6.925  7.160  7.198  7.166  7.426  7.548  7.577  
+                                                                                                                                                                                                       
+Index 
+100                 104   108  108  108  112  114  114  
+                                                                                                                                                                                         
+Basis EZ (in €) 
+5.674  6.236  6.415  6.423  6.442  6.688  7.202  7.059  
+                                                                                                        
+Totaal EZ (in €) 
+6.587  7.303  7.671  7.970  8.030  8.488  8.969  8.883  
+                                                                                                                                                                                                                            
+Index 
+100  111  116  121  122  129  136  135  
+ Bron: data OCW en EZ, berekening Panteia 
+Tabel 3.4a Uitgaven per student, gewogen voor deelname bol/bbl/deeltijdbol, VOA-middelen buiten 
+beschouwing - naar jaar in euro’s en index 
+ 2007 2008 2009 2010 2011 2012 2013 2014 
+                                                                
+Basis OCW (in €) 
+5.985  6.199  6.502  6.333  6.442  6.706  6.842  6.883  
+                                                                
+Totaal OCW (in €) 
+6.332  6.610  6.837  6.880  6.847  7.100  7.220  7.244  
+                                                                                        
+Index 
+100  104  108  109  108  112  114  114  
+                                                                
+Basis EZ (in €) 
+5.301  5.836  6.000  5.974  5.921  6.203  6.630  6.532  
+                                                                
+Totaal EZ (in €) 
+6.214  6.902  7.227  7.444  7.434  7.986  8.390  8.357  
+                                                                                        
+Index 
+100  111  116  120  120  129  135  134  
+                                                 
+12
+ Overigens constateerde de commissie herziening prijsfactoren mbo in 2014 dat ook binnen het OCW-domein 
+niet goed kan worden vastgesteld in hoeverre de prijsfactoren aansluiten bij de huidige kostprijs van opleidingen 
+(“Prijsfactoren onder de loep, Op weg naar een robuust prijsfactorenmodel in het mbo”, p.4). 
+32

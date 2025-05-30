@@ -1,0 +1,54 @@
+In deze paragraaf maken we daarom een vergelijking van het door EZ bekostigd on-
+derwijs (oftewel een ‘gemiddelde HAS’) met het techniekonderwijs (een fictieve ‘ge-
+middelde HTS’). Zo kunnen we ‘hoogbekostigd’ met ‘hoogbekostigd’ vergelijken, en 
+bezien in hoeverre de uitgaven voor ‘hbo groen’ en ‘hbo techniek’ een vergelijkbare 
+ontwikkeling kennen. 
+  
+De uitgaven voor de ‘gemiddelde HAS’ zijn gelijk aan de som van alle instellingsbij-
+dragen aan HASsen gedeeld door alle studenten aan de HASsen.  
+Een obstakel voor het vergelijken is dat het door EZ bekostigd onderwijs wél aan mo-
+nosectorale hogescholen worden gegeven, maar techniekonderwijs in multisectorale 
+hogescholen. De uitgaven voor een fictieve ‘gemiddelde HTS’ zijn daarom als volgt 
+berekend. Van alle OCW-bekostigde hogescholen is het aandeel techniekstudenten van 
+het totaal aantal studenten per jaar in kaart gebracht. De som van de aandelen tech-
+niekstudenten maal de totale rijksbijdrage van de instelling voor al deze hogescholen 
+16
+geeft de uitgaven voor de ‘totale HTS’ . Delen we dit bedrag door het totaal aantal 
+techniekstudenten, dan krijgen we de uitgaven per student voor een fictieve ‘gemid-
+delde HTS’. Zowel techniekstudenten als HAS-studenten tellen als hoogbekostigd 
+(1,28 student) mee in het verdelen van het macrobudget. Bij HAS hoeven we hier niet 
+voor te corrigeren, maar bij de overige hogescholen laten we deze studenten dus als 
+1,28 student meetellen.   
+ 
+Aangezien de specificatie van instellingsbijdragen in hbo en wo voor door EZ bekostigd 
+én door OCW bekostigd alleen beschikbaar is vanaf 2010, en het 1cijferHO-bestand 
+dat we voor studentenaantallen gebruiken tot 2012 gaat, maken we de vergelijking 
+voor de periode 2010-2012.  
+De resultaten staan in de volgende tabel. 
+ 
+Tabel 4.4 Rijksbekostiging per student, ‘gemiddelde HAS’ en ‘gemiddelde HTS’, 2010-2012 
+NB het gaat hier uitsluitend om de bekostiging voor zover deze is meegenomen in de bekosti-
+gingstabellen, en om studentenaantallen uit 1cijferHO (tellingen 1 oktober van jaar t, niet gecor-
+rigeerd voor kalenderjaar). Dat verklaart dat de bedragen voor de ‘gemiddelde HAS’ afwijken van 
+de uitgaven per student uit tabel 4.3. En het zorgt voor een breuk tussen 2010 en 2011, vanwe-
+ge een andere berekeningswijze. Het gaat hier om een indicatieve vergelijking tussen HAS en 
+hbo-techniek.   
+ Jaar  2010 2011 2012 
+Aantal studenten techniek  66.225 62.771 64.215 
+rijksbekostiging per student techniek €  6.088   6.819   6.898  
+Aantal studenten HAS  8.513 8.839 9.029 
+rijksbekostiging per student HAS €  7.149   7.729   7.950  
+Bron: Panteia, op basis van gegevens OCW (bekostiging en 1cijferHO) 
+ 
+De afstand tussen HAS en techniekopleidingen is (vooral omdat beide hoogbekostigd 
+zijn) kleiner dan tussen HAS en OCW-hbo gemiddeld. Wel zien we dat ook hier de EZ-
+rijksbijdrage hoger is dan de OCW-rijksbijdrage aan een ‘gemiddelde HTS’. Een grote-
+re ‘vaste voet’ (zie paragraaf 4.5) is een mogelijke verklaring voor het hogere bedrag 
+per HAS-student t.o.v. hbo techniek. 
+ 
+                                                 
+16
+ Dit is dus inclusief het bedrag aan ‘vaste voeten’ van de betrokken hogescholen, naar rato van het aandeel 
+techniekstudenten. De interne verdeelsystematiek binnen de hogescholen is onbekend, dus het is zeker denk-
+baar dat de technische opleidingen meer of juist minder ontvangen dan op grond van hun aandeel studenten. 
+ 41

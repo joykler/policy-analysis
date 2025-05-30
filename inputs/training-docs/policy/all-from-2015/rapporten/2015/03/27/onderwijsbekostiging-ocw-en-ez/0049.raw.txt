@@ -1,0 +1,51 @@
+Tabel 5.3 Uitgaven per student, door OCW bekostigd en door EZ bekostigd wo, 2004-2013 
+Jaar 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 
+Basis onderwijs OCW 
+(in €)  6.554 6.646  6.935  7.052 6.642  6.876 6.867  6.794  7.001 7.302  7.327 
+Index 100 101  106  108  101  105  105  104  107  111  112  
+Onderzoek OCW (in €) 
+ 7.680  7.435  7.159  7.293  7.766  7.560  7.129  7.252  7.255  7.271  7.165 
+Index 100 97 93 95 101 98 93 94 94 95 93 
+Onderwijs+on-               
+derzoek+subs. OCW             
+(in €)  14.338  14.140  14.159  14.377  14.451  14.496  14.047  14.082  14.293  14.603  14.507 
+Index   100 100 102 102 103 99 100 101 103 103 
+Basis onderwijs EZ          
+(in €)  8.586  9.174  9.627  10.225  8.788  8.060  7.713  7.523 7.644  7.631  7.276 
+Index 100  107  112  119  102  94  90  88  89  89  85  
+   
+Onderzoek EZ (in €)  22.026  22.044  21.766  22.164  23.207  21.850 18.738  16.817 15.298 14.030 12.593 
+Index 
+100 100 99 101 105 99 85 76 69 64 57 
+Ondewijs+onder-
+zoek+ subs. EZ (in €) onbekend  31.510  31.464 32.632  32.434  30.904  26.965  24.767  23.322  22.111  20.216 
+Index   100 100 104 103 98 86 79 74 70 64 
+Bron: Panteia, op basis van gegevens OCW en EZ 
+ 
+De tabel laat zien dat de totale rijksbijdrage (incl. onderzoek) per student voor door 
+OCW bekostigd wo ongeveer gelijk gebleven is over de afgelopen tien jaar: rond de 
+14.000 euro. Het onderwijsdeel laat een lichte stijging daarbinnen zien, het onder-
+zoeksdeel een lichte daling.  
+Voor door EZ bekostigd wo is er een daling van de onderwijsrijksbijdrage per student, 
+met name sinds de sterke stijging van de studentenaantallen van Wageningen. De 
+basisbekostiging per student is nu voor door EZ bekostigd en door OCW bekostigd wo 
+vrijwel gelijk.  
+Het onderzoeksbudget van Wageningen is relatief hoog; daarom is het totaalbedrag 
+(onderwijs + onderzoek + subsidies) per wo-student voor EZ hoger dan voor OCW, 
+wel zien we aan EZ-zijde een forse daling tussen 2009 en 2014, waardoor het verschil 
+in 2014 beduidend kleiner is dan in 2004. 
+5.3.2 Vergelijking door EZ bekostigd wo met deel OCW-opleidingen 
+Hierboven is het totale door OCW bekostigd wo met het totale door EZ bekostigd wo 
+vergeleken. Om de vergelijking van uitgaven per student nauwkeuriger te maken, 
+kunnen we ‘inzoomen’ op delen van het door OCW bekostigd wo. 
+ 
+Vergelijking 1: Wageningen en de 3 TU’s 
+Een eerste mogelijke vergelijking is tussen Wageningen en de technische universitei-
+ten. Immers, voor al deze universiteiten geldt dat ze uitsluitend hoogbekostigde stu-
+denten tellen. Twente is een uitzondering omdat daar ook andere dan technische op-
+leidingen worden gegeven. 
+De volgende tabel laat de uitkomsten zien voor 2011 en 2012. Vanaf 2011 zijn de 
+rijksbijdragen (excl. subsidies) van door OCW bekostigd én door EZ bekostigd wo in 
+een gezamenlijke bekostigingsspreadsheet opgenomen, en het gebruikte 1cijferHO-
+bestand liep tot en met 2012.   
+ 49
