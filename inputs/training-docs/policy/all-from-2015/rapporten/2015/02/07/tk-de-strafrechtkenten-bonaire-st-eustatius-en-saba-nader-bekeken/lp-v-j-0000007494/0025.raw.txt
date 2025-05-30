@@ -1,0 +1,46 @@
+4.2 Uitvoering vonnissen: het proces 
+ 
+Rechtszitting, vonnis en uitvoering gevangenis- en werkstraffen 
+Het proces executie verloopt volgens een aantal vaste stappen. Als een verdachte in verzekering 
+wordt gesteld, dan krijgt de SRCN een melding van de politie. Het OM vraagt vervolgens aan het 
+SRCN een reclasseringsadvies op te stellen. In een advies van de SRCN wordt ingegaan op de 
+achtergrond van de verdachte;  welke criminogene factoren er verder meespelen en welke 
+strafmodaliteit het best passend zou zijn. Het OM neemt onder andere naar aanleiding van de 
+rapportage van de SRCN een besluit met betrekking tot het vervolg. Die kan dan kiezen een straf te 
+eisen, of een voorwaardelijk sepot met bijzondere voorwaarden (bijvoorbeeld het volgen van een 
+agressietraining of deelname aan een gedragsinterventie). 
+  
+Vervolgens komt de zaak voor bij de rechter alwaar het vonnis wordt uitgesproken. Het vonnis wordt 
+door de rechtbank schriftelijk vastgelegd en doorgestuurd naar het OM. Het schriftelijke vonnis van 
+de rechtbank wordt afgeleverd bij de administratieve medewerker van het OM. Deze registreert 
+handmatig het vonnis in een Excel-bestand. Vervolgens komt dit bij de officier van justitie op de lijst 
+van uit te voeren vonnissen. Als een veroordeelde al in preventieve hechtenis zat, dan gaat de 
+uitvoering van de straf gewoon door. Als een veroordeelde in afwachting van zijn vonnis op vrije 
+voeten was (lopende vonnissen), wordt deze opgeroepen. De veroordeelden krijgen  een 
+schriftelijke oproep om zich te melden bij de Justitiële Inrichting (JICN) of SRCN  alwaar het vonnis 
+wordt uitgevoerd. Hiertoe neemt de OvJ contact op met JCIN en/of reclassering om informatie op te 
+vragen over de mogelijkheden van de uitvoering van het vonnis. 
+ 
+JICN verzorgt feitelijk de gevangenisstraffen. De JICN krijgt van het OM een lijst met namen van 
+personen die zich op bepaalde datum en tijdstip moeten melden. Het OM krijgt van de JCIN 
+terugkoppeling of betreffende persoon zich heeft gemeld of niet. Bij niet melden wordt de politie en 
+de KMar ingeschakeld. Omdat de BES-eilanden zo klein zijn, is een gezocht persoon die zich op de 
+eilanden bevindt vrij snel opgepakt. De SRCN rapporteert aan het OM over de voortgang van de 
+uitvoering van de vonnissen. Als iemand zich niet houdt aan de bijzondere voorwaarden die in het 
+vonnis zijn gesteld, dan wordt dit meteen aan het OM gemeld. Aan het eind van het toezicht door de 
+SCRN krijgt het OM een afloopbericht. 
+ 
+Uitvoering geldboetes 
+Het OM is zelf verantwoordelijk voor de administratieve afhandeling en inning van de geldboetes. Er 
+is geen centraal incassobureau. Personen die veroordeeld zijn tot het betalen van een boete krijgen 
+van het OM een zogenaamde ‘boetebrief’. Daarin wordt veroordeelde gesommeerd een geldbedrag 
+voor een bepaalde datum te betalen. Bij niet betalen wordt de boete verhoogd, bij twee 
+verhogingen volgt een gevangenisstraf. In een (door het OM) zelfgemaakte Excel-programma 
+worden de boetes, de termijnen en de automatische verhogingen bijgehouden.  Het OM geeft aan 
+dat dit systeem op dit moment nog niet vlekkeloos werkt. 
+ 
+De Belastingdienst voert (puur logistiek) de inning van de boetes uit. Voorheen ging een functionaris 
+van het OM met een medewerker van de Belastingdienst en de politie aan huis om de geldboete te 
+innen. Nu moet de veroordeelde zijn boetebrief aan de baliemedewerker van de Belastingdienst 
+laten zien en het bedrag daar betalen.  
+25
