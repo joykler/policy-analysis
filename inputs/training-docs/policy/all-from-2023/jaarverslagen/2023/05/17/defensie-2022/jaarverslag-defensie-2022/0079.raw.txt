@@ -1,0 +1,50 @@
+Defensie wil informatiegericht sturen op haar vastgoed. Om die reden is in 
+2022 gestart met het ontwikkelen van een informatieplan, dat inzicht moet 
+geven in de informatie die nodig is om op portefeuille, object en gebouw 
+niveau te kunnen sturen. Het OMS, als bron van informatie, zal een 
+belangrijke plaats krijgen in dit informatieplan.
+In de tussentijd werken het RVB en Defensie met interim-oplossingen om 
+inzicht te hebben en te houden in het vastgoed. Dit heeft als voordeel dat 
+geleerde lessen gebruikt kunnen worden bij de implementatie van het OMS. 
+Daarnaast heeft de TaskForce Nova in 2022 periodiek rapportages 
+opgeleverd, waardoor het inzicht in de bezetting en benutting van kazernes 
+groeit. De rapportages leveren input voor het Programma Transformatie 
+Vastgoed. Ook worden de rapportages gebruikt voor actualisatie van de 
+gegevens in het vastgoedinformatiepresentatiesysteem (beheerd door het 
+RVB), waarin alle gebouwen van Defensie zijn opgenomen. Momenteel zijn 
+36 rapporten opgeleverd (peildatum 1/1/23).
+Balans budget en vastgoedportefeuille
+Om te komen tot een balans tussen budget en vastgoedportefeuille heeft 
+Defensie in 2022 de mogelijkheden verder verkend om de vastgoedporte­
+feuille door middel van concentreren, verduurzamen en vernieuwen (Trans­
+formatie van de Vastgoedportefeuille) aan te passen. Het doel is een 
+vastgoedportefeuille die de taakuitvoering optimaal ondersteunt, toekomst­
+bestendig is, bijdraagt aan werkbeleving en trots, duurzaam is en die waar 
+mogelijk nog meer met de samenleving en de regio verbonden is dan 
+voorheen. De doelstelling en aanpak van de Transformatie Vastgoed zijn 
+gebaseerd op diverse onderzoeken en aanbevelingen, zoals het Interdepar­
+tementaal Beleidsonderzoek naar een toekomstbestendige vastgoedporte­
+feuille voor Defensie en de verantwoordingsonderzoeken 2020 en 2021.
+Ambtelijke verkenningen hebben geleid tot een vertrekpunt, gebaseerd op 
+de lange-termijndoelstellingen en financiële kaderstelling, gebaseerd op 
+het eerder genoemde rekenmodel. Onderlinge afhankelijkheden en externe 
+ontwikkelingen vragen om een gefaseerde realisatie van dit ambtelijke 
+vertrekpunt, waarbij grote strategische stappen eerst worden gezet. Op 
+het moment dat Defensie van plan is een object op te pakken, wordt dat als 
+bestuurlijk voornemen gecommuniceerd. Voor het strategisch 
+vastgoedplan heeft dit geleid tot zes projecten.
+Onvolkomenheid Autorisatiebeheer
+In 2022 is verder gewerkt aan maatregelen om de onvolkomenheid autori­
+satiebeheer weg te werken voor het materieel-logistieke domein. De activi­
+teiten uit het plan van aanpak worden stapsgewijs gerealiseerd met 
+beperkte personele capaciteit. Het aantal functiescheidingsconflicten is op 
+een vergelijkbaar niveau als vorig jaar. Een aantal veel voorkomende 
+conflicten is mogelijk vals door een te scherpe afstelling, het herijken van 
+deze conflicten maakt onderdeel uit van het plan van aanpak. Aanpassing 
+van de huidige autorisatieopzet vindt beperkt plaats, ingezet wordt op een 
+geactualiseerde autorisatieopzet in verband met de transitie naar SAP4/
+HANA.
+Risico's MIVD
+In navolging van aanbevelingen van de AR wordt ingegaan op de risico’s in 
+de bedrijfsvoering van de MIVD.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 X, nr. 1 79
