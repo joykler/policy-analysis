@@ -1,0 +1,35 @@
+Vraag 129 
+Kunt u een overzicht geven van de bedragen die departementen in de VJN2015 hebben ontvangen 
+of hebben ingeleverd als gevolg van de eindejaarsmarge? 
+ 
+Antwoord op vraag 129  
+In onderstaande tabel vindt u een overzicht van de eindejaarsmarge die departementen bij 
+Voorjaarsnota 2015 hebben ontvangen. Een positief getal duidt op een toevoeging van middelen 
+aan een begrotingshoofdstuk, een negatief getal op onttrekking van middelen. Een negatieve 
+eindejaarsmarge in 2015 wordt veroorzaakt door een overschrijding in 2014. Op sommige 
+begrotingshoofdstukken is sprake van een fonds of een fondsconstructie waardoor alle 
+overgebleven middelen in 2014 worden doorgeschoven naar 2015. Dit kan leiden tot een hoge 
+eindejaarsmarge (bijvoorbeeld bij Economische Zaken). 
+ 
+Eindejaarsmarge 2015 (in miljoenen euro)  
+ Hfst. Begroting EJM 2015 
+2A Staten Generaal                             4,1  
+2B Hoge Colleges van Staat                             1,2  
+3 Algemene Zaken                             1,1  
+4 Koninkrijksrelaties                             8,0  
+6 Veiligheid en Justitie 78,8 
+7 Binnenlandse Zaken en Koninkrijksrelaties                             5,6  
+8 Onderwijs, Cultuur en Wetenschap -57,1 
+9 Financiën                           84,5  
+10 Defensie 40,5 
+12 Infrastructuur en Milieu 25,6 
+13 Economische Zaken 215,5 
+15 Sociale Zaken en Werkgelegenheid (kader Rbg-eng)                           52,3  
+15 Sociale Zaken en Werkgelegenheid (kader SZA) 48,5 
+16 Volksgezondheid, Welzijn en Sport (kader Rbg-eng)                            39,2  
+18 Wonen en Rijksdienst 109,9 
+  Gemeentefonds 22,2 
+  Provinciefonds 0,0 
+  Infrastructuurfonds 24,2 
+  Deltafonds -37,9 
+  Homogene Groep Internationale Samenwerking 263,8
