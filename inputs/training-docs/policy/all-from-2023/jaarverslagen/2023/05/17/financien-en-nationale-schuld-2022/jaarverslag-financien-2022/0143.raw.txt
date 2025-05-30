@@ -1,0 +1,49 @@
+inmiddels ook gedeeltelijk gekregen. De Douane zoekt nadrukkelijk de 
+samenwerking met het bedrijfsleven om in gezamenlijkheid de planning en 
+implementatie van IV-verbeteringen vorm te geven.
+Scriptgebruik Belastingdienst en Douane 
+80
+Belastingdienst en Douane moeten voor scripts die rechtstreeks ingrijpen 
+op de productieomgeving aantonen in control te zijn. De Belastingdienst 
+heeft een procedure ingesteld en deels werkend gekregen voor controle op 
+deze scripts. Ieder script krijgt een registratie met verwijzing naar testrap­
+porten, verwerkingsverslagen en logboeken. De Douane werkt in 2023 ook 
+aan beheersing van de scripts.
+d.5 Informatiehuishouding
+De informatievoorziening aan de Tweede Kamer en aan burgers liet te 
+wensen over, mede doordat de informatiehuishouding van de overheid niet 
+op orde was. Om tot verbetering te komen is het rijksbrede generieke 
+actieplan Open op Orde opgesteld. Het ministerie van Financiën heeft 
+hiervoor het programma Informatie op Orde ingericht. De uitvoeringsorga­
+nisaties hebben ook programmaorganisaties ingericht en actieplannen 
+opgesteld. Personele versterking is gerealiseerd door bijvoorbeeld de 
+komst van informatiemanagers binnen alle dienstonderdelen. Zie ook de 
+openbaarheidsparagraaf van dit jaarverslag.
+d.6 Wet banenafspraak en quotum arbeidsbeperkten
+Als werkgever heeft het ministerie van Financiën een quotum voor het 
+aantal medewerkers banenafspraak (MBA). Het quotumpercentage wordt 
+ondanks alle inspanningen niet behaald. Mede met behulp van het bureau 
+Binnenwerk is het de ambitie om in 2023 het wettelijk quotum te realiseren. 
+81
+Deze aanpak is in een Kamerbrief met rijksbrede maatregelen opgenomen 
+en wordt aangevuld met maatregelen per dienstonderdeel.
+6.2 Rijksbrede bedrijfsvoeringsonderwerpen
+6.2.1 Grote lopende ICT-projecten 
+In 2022 voerde het ministerie van Financiën een aantal projecten uit met 
+een ICT-component van meer dan € 5 mln. Over de status van deze projecten 
+per 31 december 2022 wordt in het Rijks ICT-dashboard (RID) gerapporteerd. 
+Deze informatie wordt vervolgens in de Jaarrapportage Bedrijfsvoering Rijk 
+opgenomen die de Tweede Kamer elk jaar op 1 mei ontvangt. De Belasting­
+dienst heeft in 2022 3 nieuwe projecten op het RID opgenomen. 
+Voorgenomen nieuwe ICT-activiteiten van meer dan € 5 mln. zijn voor een 
+toets aangemeld bij het Adviescollege ICT-toetsing.
+6.2.2 Audit Committee 
+Het Audit Committee (AC) is in 2022 vijf keer bijeengekomen. Naast de vaste 
+agendapunten werden in het AC strategische onderwerpen als informatie­
+beveiliging, het werven en behouden van personeel en grensover­
+schrijdend gedrag behandeld. Daarnaast werden in verdiepende sessies 
+80
+ Scripts zijn kleine stukjes programmatuur die een taak uitvoeren.
+81
+ Kamerstukken II 2021-2022, 34 352, nr. 255
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 143

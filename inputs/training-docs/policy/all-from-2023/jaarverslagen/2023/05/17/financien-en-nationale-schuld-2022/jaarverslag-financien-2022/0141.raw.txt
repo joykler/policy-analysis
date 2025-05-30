@@ -1,0 +1,51 @@
+d. Overige aspecten van de bedrijfsvoering
+d.1 Algemene verordening gegevensbescherming (AVG)
+Er is een werkgroep gestart om de organisatie van de gegevensbe­
+scherming voor alle onderdelen van het ministerie van Financiën te 
+versterken. Het plan van de werkgroep is mede gebaseerd op aanbeve­
+lingen van de ADR en door externe experts en de Autoriteit Persoonsge­
+gevens (AP) van nadere aanbevelingen voorzien. Het actieplan ‘Privacy op 
+orde’ streeft naar bewustwording door evenementen zoals de Dag en de 
+Week van de privacy en naar deskundigheidsbevordering via onder andere 
+de rol van datacoördinator. Instrumenten als het verwerkingenregister 
+worden verder gevuld en verbeterd. Processen waarin gegevens worden 
+verwerkt worden met behulp van data protection impact analyse (DPIA of 
+gegevensbeschermingseffectbeoordeling) systematisch in kaart gebracht 
+en verbeterd. Deze processen worden aan de AVG, de Wpg, de Baseline 
+Informatiebeveiliging Overheid en de Archiefwet getoetst. De privacy-
+organisatie wordt versterkt met een departementale Chief Privacy Officer 
+(dCPO). De AP heeft in 2022 de Belastingdienst een boete opgelegd van € 3,7 
+mln. voor het niet AVG-conform verwerken van persoonsgegevens in de 
+FSV.
+d.2 Wet politiegegevens (Wpg)
+Bijzondere opsporingsdiensten moesten in 2022 een verplichte externe 
+privacy audit uitvoeren op grond van de Wet Politiegegevens (Wpg). Deze 
+verplichting geldt voor verschillende onderdelen van het ministerie. De ADR 
+heeft begin 2022 de audit opgeleverd voor de FIOD. In vervolg op de contro­
+leresultaten zal in 2023 een hercontrole worden uitgevoerd. Voor de Douane 
+is in 2022 een afkeurend oordeel gegeven. De Douane neemt de aanbeve­
+lingen over en werkt in 2023 aan verbetering.
+Onderdelen van de Belastingdienst met bijzondere opsporingsambtenaren 
+(BOA's) die politiegegevens gebruiken vallen ook onder de Wpg. De ADR 
+heeft eind 2022 de audit opgeleverd voor het Bureau Economische 
+Handhaving bij Grote Ondernemingen. Hierop is een afkeurend oordeel 
+gegeven. De Belastingdienst zal de aanbevelingen uit het rapport in 2023 
+oppakken. Het is de Belastingdienst niet gelukt om in 2022 voor de organi­
+satieonderdelen Midden- en Kleinbedrijf, Particulieren en een ander deel 
+van Grote Ondernemingen de audit uit te laten voeren. Dit is gemeld bij 
+de AP. De audits worden begin 2023 uitgevoerd.
+d.3 Informatiebeveiliging (IB) 
+Jaarlijks wordt, conform rijksbrede afspraken, een informatiebeveiligings­
+beeld (IB-beeld) opgesteld dat dient als een «In Control Verklaring Informa­
+tiebeveiliging». Het IB-beeld is opgebouwd op basis van de rapportages van 
+de afzonderlijke onderdelen van het ministerie van Financiën over informa­
+tiebeveiliging.
+Het ministerie werkt aan aanbevelingen van de ADR om de IB op een hoger 
+niveau te brengen. Een departementale Chief Security Officer is als kwartier­
+maker gestart om met alle onderdelen van het ministerie de IB-organi­
+satie(s) verder vorm te geven. Zo is de methode Red Teaming omarmd door 
+alle organisatieonderdelen om door beveiliging te testen beter inzicht te 
+krijgen in zwakke plekken. Er wordt gewerkt aan de inzet van tooling 
+waarmee (IB-) risico’s en compliance kunnen worden vastgelegd en 
+gemonitord. Voor de Belastingdienst geldt dat er de basis van een 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 141

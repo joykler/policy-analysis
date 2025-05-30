@@ -1,0 +1,52 @@
+8. Kas-transverschillen
+Op deze rekening zijn de bedragen opgenomen welke zijn verantwoord in 
+de uitgaven en ontvangsten, maar nog niet daadwerkelijk in de kas zijn 
+uitgegeven of ontvangen. Deze verschillen ontstaan doordat rentebaten en 
+rentelasten worden verantwoord op transactiebasis. Hierdoor worden 
+transacties administratief verwerkt op het moment dat ze zich voordoen. Bij 
+het kasstelsel is het moment van betaling en ontvangst leidend. Het verschil 
+dat ontstaat tussen beide verantwoordingsmethoden wordt op deze 
+rekening opgenomen. Met de registratie van rente op transactiebasis wordt 
+aangesloten bij Europese voorschriften van het Europees Stelsel van 
+Rekeningen (ESR) 2010. Sinds 2002 wordt deze werkwijze toegepast. Dit 
+bedrag is het saldo van alle posten in de tabellen ‘Vorderingen buiten 
+begrotingsverband’ en ‘Schulden buiten begrotingsverband’ van het 
+voorgaande jaar, behalve het gestalde onderpand dat in de post Derden van 
+het Agentschap is opgenomen. De onderpanden worden niet meegenomen 
+in het kas-transverschil omdat voor deze post alle boekingen op kasbasis 
+zijn waardoor geen kas-transverschillen ontstaan.
+Tabel 61 Kas-transverschillen (bedragen x € 1 mln.)
+Vorderingen buiten begrotingsverband ultimo 2021 329
+Te ontvangen rente op swaps 338
+Vooruitbetaalde disconto ‒ 32
+Te ontvangen rente vlottende schuld ‒ 15
+Te ontvangen rente m.b.t. GMB 38
+1
+Schulden buiten begrotingsverband ultimo 2021 20.717
+Te realiseren agio 16.283
+Te betalen rente onderhandse leningen 4
+Te betalen rente openbare schuld 4.428
+Te betalen rente op swaps 28
+Te betalen rente vlottende schuld ‒ 32
+Te betalen rente m.b.t. GMB 6
+Totaal kas-transverschillen 2022 20.388
+1 dit is exclusief het gestalde onderpand in de post Derden van het Agentschap
+10. Vorderingen
+Deze post kan als volgt worden gespecificeerd.
+Tabel 62 Vorderingen (bedragen x € 1.000)
+Ultimo 2022 Ultimo 2021
+Loans 450.000 450.000
+Deposit Lend 100.000 0
+Verstrekte leningen Agentschappen 8.119.233 7.595.456
+Verstrekte leningen RWT’s en derden 5.600.959 4.874.532
+Totaal 14.270.192 12.919.988
+De grootste vorderingen zijn verstrekte leningen aan Agentschappen, RWT’s 
+en derden: instellingen die deelnemen aan het geïntegreerd middelen­
+beheer. De afgesloten leningen zijn vorderingen van de Staat op de 
+deelnemers. Deze vorderingen bedragen ultimo 2022 € 14,3 mld. Aan de 
+Agentschappen is € 8,1 mld. uitgeleend, een stijging van € 0,5 mld. ten 
+opzichte van de stand ultimo 2021. Aan RWT’s en derden is € 5,6 mld. 
+uitgeleend, een stijging van € 0,7 mld. ten opzichte van 2021. De gewogen 
+gemiddelde looptijd van de leningen bedraagt bij de Agentschappen circa 
+21 jaar en bij RWT’s circa 18 jaar. Daarnaast zijn er nog enkele kleinere 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 148

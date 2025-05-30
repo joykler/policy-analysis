@@ -1,0 +1,51 @@
+Information Security Management System (ISMS) is opgezet. Verder is in 
+2022 bij alle organisatieonderdelen de security awareness bij medewerkers 
+verhoogd, onder andere door phishing-oefeningen en een online security 
+awareness game. De status, risico’s en maatregelen op het gebied van IB 
+worden periodiek binnen de onderdelen en viermaandelijks departements­
+breed aan de departementale Chief Information Officer (CIO) gerapporteerd.
+d.4 IT-beheer 
+IV-portfoliomanagement
+Het doel van het IV-portfoliomanagement is het afwegen, selecteren en 
+prioriteren van de meest waardevolle activiteiten dan wel projecten die 
+bijdragen aan de strategische doelen van de uitvoeringsorganisaties en de 
+(politieke) opdrachtgever en eigenaar. Er is altijd meer vraag dan 
+beschikbare middelen. Dit betekent keuzes tussen verschillende maatschap­
+pelijke en politieke wensen voor dienstverlening en wetswijzigingen.
+Het IV-portfoliomanagementproces is verbeterd door onder andere het 
+portfolio te herijken en door het realiseren van een meerjarenportfolio IV 
+2023-2027. De meerjarenplanning is in de overkoepelende driehoek 
+vastgesteld. De ICT-capaciteit is in het meerjarenportfolio de komende jaren 
+79
+volledig ingepland. Dit betekent dat eventuele grote beleidswijzigingen 
+invloed hebben op de planning. Naast Belastingdienst, Toeslagen en 
+Douane zijn de eigenaar en de opdrachtgever deelnemers van de driehoek. 
+De CIO van Financiën adviseert en neemt deel aan werkgroepen. De coördi­
+nerend opdrachtgever, het directoraat-generaal Fiscale Zaken, levert een 
+bijdrage door te werken met een meerjarige wetgevingskalender.
+Het portfolioproces wordt verder verstevigd, waardoor sneller inzicht 
+ontstaat in de balans tussen vraag en aanbod en de knelpunten hierin, zowel 
+voor wijzigingen als voor beheer en onderhoud. In 2023 wordt met 
+roadmaps en langetermijnplanningen de grip op en voorspelbaarheid van 
+ontwikkelingen verbeterd. Tegelijkertijd wordt gewerkt aan uitfasering en 
+vervanging van verouderde of incourante ICT-systemen. Dit is een meerjarig 
+traject omdat de modernisering complex is en hierdoor in kleine stappen 
+wordt uitgevoerd. Dit heeft effect op de wendbaarheid van de systemen en 
+aanvullende maatregelen blijven noodzakelijk om de continuïteit te 
+waarborgen. Met behulp van configuratiemanagement wordt binnen de 
+Belastingdienst bijgehouden uit welke componenten het IT-landschap 
+bestaat en wat de onderlinge afhankelijkheden hierbij zijn. Over 2022 is 
+vastgesteld dat het beheer van de configuratiemanagementprocessen bij 
+de Belastingdienst nog tekortschiet. De Belastingdienst treft in 2023 
+maatregelen om dit te verbeteren.
+Voor de Douane was er een noodzaak om te prioriteren door de 
+(onverwachte) externe factoren zoals de sanctiemaatregelen tegen Rusland 
+en Belarus en de koopkrachtmaatregelen, die effect hebben op accijnsap­
+plicaties. Daardoor zijn verbeteringen en oplossingen voor andere 
+problemen uitgesteld. De continuïteit, ondersteuning van nieuwe 
+wetgeving of beleid en de doorontwikkeling van IV staat hierdoor onder 
+druk. Nederland heeft, net als andere lidstaten, voor een aantal Europese 
+trajecten derogatie en uitstel aangevraagd bij de Europese Commissie en 
+79
+ Kamerstukken II 2022-2023, 31 066, nr. 1174 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 142

@@ -1,0 +1,50 @@
+1
+Tabel 42 Schulduitgifte op de geldmarkt in 2022
+Dutch Treasury Certificate (DTC) Aantal Totaal Gemiddelde Gemiddelde 
+keren volume resterende effectieve 
+uitgegeven (in € mld.) looptijd op rente
+uitgiftedatum (in %)
+(in jaren)
+DTC 2022-04-28 3 2,9 0,2 ‒ 0,66%
+DTC 2022-05-30 3 4,1 0,3 ‒ 0,66%
+DTC 2022-06-29 4 4,3 0,3 ‒ 0,65%
+DTC 2022-07-28 4 5,7 0,3 ‒ 0,64%
+DTC 2022-08-30 6 5,7 0,4 ‒ 0,58%
+DTC 2022-09-29 5 5,2 0,4 ‒ 0,47%
+DTC 2022-10-28 4 5,2 0,4 ‒ 0,27%
+DTC 2022-11-23 5 6,2 0,0 0,01%
+DTC 2023-01-30 6 6,9 0,4 0,59%
+DTC 2023-02-27 6 7,6 0,3 1,17%
+DTC 2023-03-30 5 5,6 0,4 1,35%
+DTC 2023-04-27 2 1,8 0,5 1,73%
+DTC 2023-05-30 2 1,8 0,5 1,97%
+DTC 2023-06-29 1 1,6 0,6 2,03%
+Totaal 64,4
+1 Als gevolg van afrondingen kan de som der delen afwijken van het totaal.
+Verantwoording over de risico-indicatoren: gemiddelde looptijd en renteri­
+sicobedrag
+Zoals aangegeven hanteert het Agentschap voor het beheersen van de 
+renterisico’s twee risicomaatstaven, één voor de middellange termijn, de 
+gemiddelde looptijd, en één voor de korte termijn, het renterisicobedrag 
+(RRB).
+De looptijd streefwaarde voor eind 2022 was minimaal 7,9 jaar. Eind 2022 is 
+een gemiddelde looptijd van 8,1 jaar gerealiseerd. De verlenging van de 
+looptijd is tot standgekomen door uitgifte van nieuwe staatsobligaties op 
+de kapitaalmarkt. Het gemiddelde RRB is over heel 2022 uitgekomen op 
+61
+16%, ruim onder de grens van 25% . Daarmee is het Agentschap, net als 
+de afgelopen jaren, er in geslaagd om de indicatoren te laten voldoen aan 
+de waarden die door het renterisicokader worden voorgeschreven.
+Tabel 43 Streefwaarde/maximale waarde en realisatie van gemiddelde 
+looptijd en RRB – periode 2018-2022
+2018 2019 2020 2021 2022
+Gemiddelde looptijd (in jaren)
+Streefwaarde 6,3 6,4 6,0-8,0 6,0-8,0 ≥7,9
+Realisatie 6,4 6,6 6,9 7,9 8,1
+RRB (in %)
+Maximale waarde RRB 18,0% 18,0% 30,0% 30,0% 25,0%
+Realisatie 13,7% 13,4% 18,8% 22,6% 16,0%
+Bron: Agentschap
+61
+ De grens voor het renterisicobedrag (RRB) in het beleidskader was voorheen 30%
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 108

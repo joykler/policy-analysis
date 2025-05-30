@@ -1,0 +1,47 @@
+6. Vorderingen buiten begrotingsverband
+Deze post kan als volgt worden gespecificeerd.
+Tabel 59 Vorderingen buiten begrotingsverband (bedragen x € 1.000)
+Ultimo 2022 Ultimo 2021
+Te ontvangen rente op swaps 168.444 337.974
+Vooruitbetaalde disconto 98.341 ‒ 31.797
+Te ontvangen rente vlottende schuld 60.774 ‒ 14.989
+Te ontvangen rente m.b.t. GMB 41.344 38.082
+Totaal 368.903 329.270
+Te ontvangen rente op swaps
+Deze post betreft de opgelopen rente die de Staat nog tegoed heeft van de 
+tegenpartijen. Als gevolg van de huidige samenstelling van de swapporte­
+feuille ontvangt de Staat per saldo rente op de swapportefeuille. Doordat 
+een deel van de renteswaps in 2022 voortijdig is beëindigd, is de portefeuille 
+van renteswaps per ultimo 2022 gedaald en is de post te ontvangen 
+renteswaps afgenomen.
+7. Schulden buiten begrotingsverband
+Deze post kan als volgt worden gespecificeerd.
+Tabel 60 Schulden buiten begrotingsverband (bedragen x € 1.000)
+Ultimo 2022 Ultimo 2021
+Te realiseren agio 11.457.509 16.283.477
+Te betalen rente onderhandse leningen 2.867 4.272
+Te betalen rente openbare schuld 4.355.990 4.427.711
+Te betalen rente op swaps 44.432 27.619
+Te betalen rente vlottende schuld 51.256 ‒ 31.870
+Derden van het Agentschap 398.466 3.228.253
+Te betalen rente m.b.t. GMB 127.599 6.311
+Totaal 16.438.119 23.945.773
+Te realiseren agio
+Het uitstaande saldo (€ 11,5 mld.) heeft betrekking op in het verleden gerea­
+liseerde agio bij uitgifte vaste schuld. In 2022 lag bij het merendeel van de 
+nieuwe uitgiftes het effectieve rendement boven de couponrente van 
+leningen, waardoor de Staat leningen met disagio heeft uitgegeven. De post 
+‘Te realiseren agio’ is hierdoor afgenomen.
+Te betalen rente op swaps
+Deze post betreft de opgelopen rente die de Staat nog moet betalen aan 
+de tegenpartijen. De te betalen rente op swaps is toegenomen doordat de 
+korte rente, die over de variabele delen van de receiverswaps betaald moet 
+worden, in 2022 sterk is gestegen.
+Derden van het Agentschap
+De post derden van het Agentschap bestaat voor het grootste deel uit het 
+onderpand in contanten dat uit hoofde van derivatencontracten is gestald 
+bij het Agentschap. Het gestalde onderpand is in 2022 afgenomen met name 
+als gevolg van de voortijdige beëindiging van derivatencontracten. Door 
+deze voortijdige beëindiging is de totale swapportefeuille afgenomen 
+waardoor er minder onderpand gestort is.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 147

@@ -1,0 +1,44 @@
+3. Liquide middelen
+De liquide middelen bestaan uit de saldi op bankrekeningen en de bij 
+kasbeheerders aanwezige kasgelden.
+4. Rekening-courant Rijkshoofdboekhouding
+Deze post geeft de financiële verhouding met de Rijkshoofdboekhouding 
+weer. Het bedrag is per 31 december 2022 in overeenstemming met de 
+opgave van de Rijkshoofdboekhouding.
+5. en 5a. Begrotingsreserves
+In de praktijk worden dit ook wel interne begrotingsreserves oftewel risico­
+voorzieningen genoemd. Een begrotingsreserve is een meerjarige 
+budgettaire voorziening die op een afzonderlijke rekening-courant wordt 
+aangehouden. Het gaat om een interne budgettaire voorziening of reserve 
+binnen de Rijksbegroting. De reserve blijft meerjarig beschikbaar voor het 
+doen van uitgaven in latere jaren. Voor elke begrotingsreserve wordt in de 
+administratie van de Rijkshoofdboekhouding een afzonderlijke rekening-
+courant aangehouden.
+Tabel 67 Begrotingsreserves (bedragen x € 1 mln.)
+Saldo Saldo
+Toevoegingen Onttrekkingen Verwijzing naar 
+Naam Begrotingsreserve
+2022 2022 begrotings-artikel
+1-1-2022 31-12-2022
+Garantie BES 5,0 1,0 6,0 2
+Ekv 465,3 140,3 19,8 585,9 5
+NHT 2,1 0,6 2,7 2
+Totaal 472,4 141,9 19,8 594,6
+Garantie BES
+In 2017 heeft de Staat een garantie voor het DGS voor de BES-eilanden 
+ingesteld. Jaarlijks wordt voor deze garantie € 1 mln. toegevoegd aan de 
+begrotingsreserve.
+Ekv
+In overeenstemming met het garantiekader voor risicoregelingen is er een 
+risicovoorziening voor de Exportkredietverzekering opgericht. Deze risico­
+voorziening werkt als een buffer om meerjarig grote budgettaire schomme­
+lingen in de uitgaven binnen het uitgavenplafond van de begroting van 
+het ministerie van Financiën op te kunnen vangen. De opgehaalde, kosten­
+dekkende, premies in enig jaar vloeien in deze reserve en schades op 
+afgesloten dossiers, uitvoeringskosten en overige structurele uitgaven 
+vloeien uit de reserve.
+NHT
+De Staat heft een jaarlijkse premie (€ 625.000 over 2022) over het afgegeven 
+garantiebedrag van € 50 mln. Deze middelen worden gestort in een per 
+1 juni 2018 opgerichte begrotingsreserve.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 152
