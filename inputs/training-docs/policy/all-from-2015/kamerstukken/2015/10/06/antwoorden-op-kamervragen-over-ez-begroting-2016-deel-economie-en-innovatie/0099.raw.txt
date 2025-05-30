@@ -1,0 +1,48 @@
+Antwoord 
+In eerdere begrotingen is voor 2012 bij het aantal productieboringen in dat jaar de categorie ‘overige’ 
+boringen (o.a. boringen voor gasopslag) opgeteld. Dit is later gecorrigeerd door de 10 ‘overige’ 
+boringen van het totaal af te trekken. Een gedetailleerd overzicht van alle boringen en categorieën is 
+terug te vinden in het jaarverslag ‘Delfstoffen en Aardwarmte in Nederland’ (Kamerstuk 34 000-XIII, 
+nr. 145).  
+ 
+305  
+Hoe kan de waarde van de euro/dollarkoers (onder voetnoot 4) anders zijn dan die in de 
+Rijksbegroting 2012? Werd er toen niet gewerkt met raming door CBS/CPB? 
+ 
+Antwoord 
+De raming van de euro/dollar koers die gehanteerd wordt in de EZ begroting 2016 is gebaseerd op het 
+meest recente scenario van het CPB uit de Macro Economische Verkenning (MEV). In de EZ-begroting 
+2016 zijn cijfers uit het de MEV van september 2015 gehanteerd, terwijl in de Rijksbegroting 2012 
+cijfers zijn gehanteerd uit de MEV van september 2012. 
+ 
+306  
+Kan er meer uitleg komen over de afwijkende waarden onder 5; in hoeverre is de correctiefactor 
+afwijkend gebleken? 
+ 
+Antwoord 
+De beursprijs van TTF-gas is het rekenkundig gemiddelde van de referentieprijzen van op de ICE 
+Endex verhandelde month-ahead contracten die gedurende een jaar in de laatste maand voor aanvang 
+van de maand van levering tot stand zijn gekomen.  
+De beursprijs van TTF-gas in 2012 is dus het rekenkundige gemiddelde van alle referentieprijzen voor 
+month-ahead contracten in de periode die loopt van 30 november 2011 tot en met 29 november 
+2012. Deze prijs wordt uitgedrukt in Euro/MWh. Om deze prijs om te rekenen naar Eurocent per m³ 
+dient een correctiefactor te worden toegepast. Bij het berekenen van de beursprijs van TTF-gas voor 
+2011 en 2012 in de EZ begroting 2014 is een onjuiste correctiefactor toegepast waardoor de 
+gepresenteerde waarden circa 3% te hoog waren. 
+ 
+307  
+Waarom is het pas in de begroting van 2016 duidelijk geworden dat er over 2011 en 2012 een 
+onjuiste correctiefactor is gebruikt? En wat zijn hier de effecten van? 
+ 
+Antwoord 
+De gemiddelde beursprijs van TTF-gas wordt als een kengetal gebruikt in de begroting en is een 
+vereenvoudiging van prijsgegevens op de beurs. Omdat de afwijking beperkt is (<3%), is deze niet 
+eerder opgemerkt. Behalve dat de waarden in deze tabel in eerdere begrotingen niet geheel juist zijn 
+gepresenteerd zijn er geen andere effecten. Voor de raming van de gasbaten wordt met meerdere 
+prijsgegevens gewerkt.  
+ 
+308 
+Kan er een lijstje komen van de beursprijs van TTF -gas van 2000 tot en met 2011? 
+ 
+ 
+99

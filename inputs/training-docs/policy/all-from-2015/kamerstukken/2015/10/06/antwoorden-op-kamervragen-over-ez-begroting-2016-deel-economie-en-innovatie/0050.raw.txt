@@ -1,0 +1,50 @@
+afschakeldatum voor de analoge FM bepaald kan worden. In mijn brief over de toekomst van de 
+commerciële radiofrequenties van 26 juni 2015 (Tweede Kamer, vergaderjaar 2014-2015, 24095, 
+nr. 384) heb ik aangegeven dat het niet waarschijnlijk is dat die 50% al in 2016 gehaald zal worden 
+en dat het bepalen van een afschakeldatum daarom nog niet opportuun is. Wanneer die 50% wel 
+bereikt zal worden, is op dit moment lastig te zeggen. In mijn brief over het voorgenomen besluit om 
+de commerciële radiovergunningen te verlengen voor een periode van vijf jaar (2017-2022; Tweede 
+Kamer, vergaderjaar 2014-2015, 24095, nr. 391) heb ik aangegeven dat er een robuust plan van de 
+sector nodig is om de digitalisering van de radio te versnellen. Onafhankelijke experts zullen dit plan 
+toetsen om zeker te stellen dat die versnelling bij een verlenging deugdelijk is onderbouwd. Er is op 
+dit moment nog geen alternatieve bestemming voor de analoge FM-band. 
+ 
+ 
+137  
+Door hoeveel storingen is TenderNed in 2014 getroffen en hoe lang was de totale downtime van 
+TenderNed op werkdagen tussen 9 uur ’s ochtends en 5 uur ’s middags? Hoe groot was dit aantal en 
+hoe lang was deze downtime in de eerste helft van 2015? 
+ 
+Antwoord 
+In 2014 werd TenderNed getroffen door 12 storingen die tot gevolg hadden dat TenderNed in totaal 
+25,95 uur niet bereikbaar was op werkdagen tussen 9 uur ’s ochtends en 5 uur ’s middags. In 2015 is 
+TenderNed tot 1 oktober getroffen door 21 storingen waardoor TenderNed op werkdagen tussen 9 uur 
+’s ochtends en 5 uur ’s middags in totaal 22,42 uur onbereikbaar was. Dit betrof 20,25 uur in het 
+eerste half jaar (90,4%) en 2,17 uur in de maanden juli tot en met september (9,6%). Deze cijfers 
+betreffen zowel storingen op de TenderNed applicatie als storingen door externe factoren, zoals een 
+stroomstoring. Op 30 juni heb ik in antwoord op Kamervragen van het lid Gesthuizen aangegeven dat 
+naar aanleiding van de storingen een gedeelte van de infrastructuur van TenderNed op maandag 
+22 juni jl. is aangepast. Dat heeft mogelijk geleid tot de oplossing van een belangrijk knelpunt. In de 
+laatste maanden is de storingstijd significant afgenomen.  
+ 
+138  
+Hoe groot zal de veilingopbrengst van de 700 Mhz-band zijn na herbestemming, de opbrengsten van 
+de veiling van de Duitse 700 Mhz-band in acht genomen? 
+ 
+Antwoord 
+Over de te verwachten veilingopbrengst van de 700 MHz frequenties in Nederland is nog niets te 
+zeggen. In het algemeen geldt dat internationale vergelijkingen lastig, zo niet onmogelijk te maken 
+zijn. Specifieke nationale factoren en het moment van veilen bepalen de veilingopbrengst. Zo heeft 
+Duitsland de betreffende vergunningen reeds geveild en zal de veiling in Nederland nog een aantal 
+jaar op zich laten wachten. Voorts verschillen de specifieke marktcondities (bijvoorbeeld ten aanzien 
+van dekkingsvereisten, reeds aanwezige netwerken, rurale of urbane kenmerken). 
+ 
+139  
+Hoe verklaart u de afname van de uitgaven aan het Agentschap Telecom (AT) terwijl volgens dit 
+Agentschap de komende jaren de werkdruk toeneemt wegens intensivering van Internet of Things, 
+wat onder het toezicht van AT valt? 
+ 
+Antwoord 
+De afname van de uitgaven aan het Agentschap Telecom (AT) komen voort uit het feit dat AT 
+meedeelt in de taakstelling die op het ministerie van Economische Zaken is gelegd in het kader van de 
+50
