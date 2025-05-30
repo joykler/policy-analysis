@@ -32,4 +32,3 @@ Vereenvoudiging Wajong
 Totaal 5503,2 6802,6 5944,46 858,14
 * Uitzonderingen organisatieomvang: exclusief wapensystemen.
 Bron: Rijks-ICT Dashboard.
-132

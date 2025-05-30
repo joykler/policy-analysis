@@ -46,4 +46,3 @@ Vangstregistratie
 119 OCW Moderniseren BAP 2019-01-01 2024-01-01 2023-12-31 11,85 11,58 12,39 -0,81 9,61 7,81 3,77 In uitvoering
 120 OCW Moderniseren Examens 2017-01-01 2023-12-31 2026-08-31 26,79 44,01 30,62 13,39 22,94 17,91 26,1 In uitvoering
 121 OCW Nieuw Digitaal Magazijn 2017-01-01 2022-01-01 2023-07-01 11,51 13,59 13,59 0 9,27 5,63 7,96 In uitvoering
-131

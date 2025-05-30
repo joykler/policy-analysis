@@ -29,4 +29,3 @@ Aantal overschrijdingen max. uurtarief
 Bij de berekening van dit percentage is externe inhuur op programma-artikelen buiten beschouwing gelaten.
 * Uitzonderingen organisatieomvang: OM, de Hoge Raad en de zbo's zonder rechtspersoonlijkheid (NRGD, SGM en CRM) zijn meegenomen. Bron: Bijlagen bij de Departementale 
 Jaarverslagen.
-124

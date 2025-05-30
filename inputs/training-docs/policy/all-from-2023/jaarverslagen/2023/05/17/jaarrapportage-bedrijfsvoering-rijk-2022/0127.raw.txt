@@ -54,5 +54,4 @@ is echter beëindigd per 30 augustus 2022, voor de aanvang van de realisatie
 van Plateau 2.
 Doorontwikkelen Applicatielandschap Bekostiging (OCW): Een nieuwe 
 versie van de businesscase is Q4 2022 opgeleverd. De gewijzigde kosten 
-komen met name voort uit het toevoegen van een tolerantiebudget o.v.v. 
-127
+komen met name voort uit het toevoegen van een tolerantiebudget o.v.v.
