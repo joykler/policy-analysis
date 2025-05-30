@@ -1,0 +1,54 @@
+met de aangestelde CDO van JenV. De CDO hanteert een data-agenda en 
+samen met het programma wordt gekeken waar de taskforce datakwaliteit 
+invulling kan geven aan onderdelen van die agenda. Inhoudelijk kijkt de 
+taskforce samen met de uitvoeringsorganisaties naar de inrichting van het 
+data management en naar het oplossen van problemen met betrekking tot 
+datakwaliteit. Het opzetten van het data management en de data 
+governance gebeurt aan de hand van de richtlijnen van de CDO, gezamenlijk 
+met de uitvoeringsorganisaties. Methodes die gebruikt worden zijn o.a. 
+DAMA-DMBOK en wetsanalyse voor de data waarop de wetten betrekking 
+hebben. In combinatie met de taskforce digitalisering worden processen 
+waar nodig opnieuw gedefinieerd.
+Doordat de taskforce datakwaliteit kijkt naar de hele keten, waarbij getracht 
+wordt om sub-optimalisatie te voorkomen, heeft dit impact op de snelheid 
+van implementatie. Niet alleen heeft elke organisatie in de keten haar eigen 
+bedrijfsvoering maar sluiten zij aan op voor- en achterliggende partijen in 
+de keten die in het kader van wetgeving op gebied van bijvoorbeeld privacy 
+en security te maken hebben met wat men wel en niet mag delen. Ten 
+aanzien van datakwaliteit zijn de volgende resultaten behaald:
+• analyse uitgevoerd bij de Justitiële Informatie Organisatie (JIO) en is 
+een plan van aanpak opgesteld;
+• logisch gegevensmodel en datakwaliteit dashboard ontwikkeld voor 
+DI&I;
+• opdrachtformulering afgerond voor verbeteren datakwaliteit in de 
+migratieketen;
+• gestart met analyse-vraagstukken m.b.t. executiedashboard;
+• aanpak uitgewerkt voor de CDO JenV over samenwerking in het kader 
+van het federatief datastelsel/data boekhouding voor 2023 en volgende 
+jaren.
+Uitvoeringsorganisatie specifieke initiatieven, veelal als onderdeel van 
+passieve openbaarmaking
+Daar waar de taskforces zich kenmerken door een gemeenschappelijk 
+inhoudelijk karakter en herhaalbaarheid, kent JenV ook middelen toe ter 
+verbetering van uitvoeringsorganisatie specifieke verbetertrajecten. In 2022 
+is hiervoor onder meer bijgedragen aan:
+• de ontwikkeling AI-data trainingsets in overleg met en onder verant­
+woording van de CDO;
+• het onderzoek naar en verbetering van de datakwaliteit Justitiabelen bij 
+DJI;
+• het actualiseren van het CJIB visiedocument;
+• het opnemen van IHH in hun jaarplannen en P&C cycli bij verschillende 
+organisaties;
+• het opstellen van project- en programmaplannen bij meerdere organi­
+saties;
+• de programma start van P&O m.b.t. het op orde brengen van de IHH;
+• de oprichting van het Landelijk Expertise Bureau Informatiebeheer (LEBI) 
+van de Rechtspraak.
+Actielijn 3: Informatiesystemen
+Randvoorwaardelijk voor het ontplooien van activiteiten binnen deze 
+actielijn is een solide (informatie)architectuur. Hier is in 2021 reeds gestart 
+met het vervolmaken van de (informatie-) architecturen om goed 
+onderbouwd te kunnen starten wanneer aanpassingen nodig blijken te zijn. 
+Behalve de centraal te ontwikkelen platformen kent JenV eigen reeds 
+bestaande systemen waarbij aansluiting gezocht kan worden.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 34

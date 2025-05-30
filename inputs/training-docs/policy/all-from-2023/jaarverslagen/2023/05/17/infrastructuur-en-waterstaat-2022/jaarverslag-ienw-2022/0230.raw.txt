@@ -1,0 +1,63 @@
+10. Saldibalans
+Tabel 110 Saldibalans per 31 december 2022 van het Ministerie van IenW (bedragen x € 1.000)
+Activa 31-12-2022 31-12-2021 Passiva 31-12-2022 31-12-2021
+Intra-comptabele posten Intra-comptabele posten
+1) Uitgaven ten 2) Ontvangsten 
+laste van de ten gunste 
+12.078.472 11.761.303 64.057 35.444
+begroting van de 
+begroting
+3) Liquide 
+0 0 0 0
+middelen
+4) Rekening- 4a) Rekening-
+courant RHB 0 0 courant RHB 12.006.847 11.737.378
+(Rijkshoofdboekhouding)
+5) Rekening- 5a) Begrotingsreserves
+courant RHB 0 0 0 0
+Begrotingsreserve
+6) Vorderingen 7) Schulden 
+buiten 4.199 21.116 buiten 11.767 9.597
+begrotingsverband begrotingsverband
+8) Kas-
+0 0 0 0
+transverschillen
+Afrondingsverschil 0 0 Afrondingsverschil 0 0
+Subtotaal intra-comptabel 12.082.671 11.782.419 Subtotaal intra-comptabel 12.082.671 11.782.419
+Extra-comptabele posten
+9) Openstaande 9a) Tegenrekening 
+rechten 0 0 openstaande 0 0
+rechten
+10) Vorderingen 10a) Tegenrekening 
+10.858 12.501 10.858 12.501
+vorderingen
+11a) Tegenrekening 11) Schulden
+0 0 0 0
+schulden
+12) Voorschotten 12a) Tegenrekening 
+4.185.122 4.752.201 4.185.122 4.752.201
+voorschotten
+13a) Tegenrekening 13) Garantieverplichtingen
+713.334 663.845 713.334 663.845
+garantieverplichtingen
+14a) Tegenrekening 14) Andere 
+andere 2.059.227 2.108.266 verplichtingen 2.059.227 2.108.266
+verplichtingen
+15) Deelnemingen 15a) Tegenrekening 
+0 0 0 0
+deelnemingen
+Subtotaal extra-comptabele 6.968.541 7.536.813 Subtotaal extra comptabel 6.968.541 7.536.813
+Totaal 19.051.212 19.319.232 Totaal 19.051.212 19.319.232
+Toelichting samenstelling saldibalans
+Als een minister meer dan één begroting beheert, in dit geval Infrastructuur 
+en Waterstaat (XII), het Infrastructuurfonds en het Deltafonds, wordt per 
+begroting een saldibalans opgesteld. Voor de begroting van Hoofdstuk XII, 
+het Infrastructuurfonds en het Deltafonds worden geen gescheiden admini­
+straties gevoerd waardoor posten die niet zonder meer toewijsbaar zijn aan 
+een bepaalde begroting, zijn opgenomen in de saldibalans van het 
+ministerie van Infrastructuur en Waterstaat (XII).
+Wat betreft de toelichtingen zijn de volgende uitgangspunten toegepast. 
+Een post, welke in verhouding tot de totale omvang van de balansregel 
+een grote omvang heeft of de grens van € 25 miljoen overschrijdt, is 
+tekstueel toegelicht.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 230
