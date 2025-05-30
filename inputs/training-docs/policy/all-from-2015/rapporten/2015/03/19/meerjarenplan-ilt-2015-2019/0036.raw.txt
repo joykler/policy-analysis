@@ -1,0 +1,42 @@
+de veiligheidsnormen
+regelgeving huidig % naleving 
+asbest <70
+biociden* <70
+REACH <70-90
+3
+luchtverontreinigende stoffen <70
+* inschatting op basis van extrapolatie van bekende informatie
+vergunningverlening
+In het werkveld risicovolle stoffen verleent de inspectie geen vergunningen. In veel gevallen is sprake van 
+Europese regelgeving met een directe werking.
+handhaving
+dienstverlening
+dienstverlening risicovolle stoffen 2014 2015 2016 2017 2018 2019
+afhandeling vragen 1.635 1.900 1.900 1.900 1.900 1.900
+afhandeling meldingen 1.162 2.900 2.900 2.900 2.900 2.900
+Meldingen worden geïnventariseerd, geanalyseerd en behandeld; hiermee worden zaken aangepakt en 
+wordt tevens de informatie over de keten verbeterd. Veel van deze meldingen krijgen een vervolg in de 
+vorm van een objectinspectie of administratiecontrole.
+toezicht
+toezicht risicovolle stoffen 2014 2015 2016 2017 2018 2019
+convenanten* 0 3 6 9 12 15
+objectinspecties:
+asbest 170 340 300 180 180 180
+biociden** 481 750 700 700 700 700
+luchtverontreinigende stoffen 809 500 510 510 520 520
+administratiecontroles:
+asbest 189 80 80 175 175 175
+REACH CLP 262 350 365 390 425 460
+luchtverontreinigende stoffen 70 60 60 60 60 60
+audits (Luvo en biociden) 9 6 5 5 5 5
+handhavingscommunicatie 5 5 5 5 5
+aantal geïnspecteerde bedrijven/OTS: 1.109
+asbest 420
+REACH CLP 350
+biociden 750
+luchtverontreinigende stoffen 560
+* totaal aantal vigerende convenanten aan het einde van het jaar
+** waaronder 150 objectinspecties op basis van internetinspecties waarbij een interventie aan de orde is
+3 Luchtverontreinigende stoffen bestaan uit de onderdelen ozonlaagafbrekende stoffen/broeikasgassen, 
+brandstoffen en vluchtige organische stoffen
+34 | Inspectie Leefomgeving en Transport

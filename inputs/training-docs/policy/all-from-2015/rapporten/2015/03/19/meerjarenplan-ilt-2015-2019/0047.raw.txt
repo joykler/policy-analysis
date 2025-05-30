@@ -1,0 +1,43 @@
+vergunningverlening 
+vergunningen en erkenningen transport 2014 2015 2016 2017 2018 2019
+gevaarlijke stoffen
+aantal vergunningen 157 290 280 275 270 270
+%< behandelnorm 90 92 95 95 95
+handhaving
+dienstverlening 
+dienstverlening transport gevaarlijke stoffen 2014 2015 2016 2017 2018 2019
+afhandeling vragen 1.498 1.800 1.800 1.800 1.800 1.800
+afhandeling meldingen 215 100 100 100 100 100
+toezicht
+toezichtgevaarlijke stoffen 2014 2015 2016 2017 2018 2019
+convenanten* 6 6 7 8 9 10
+administratiecontroles: (keten-/stofgericht) 545
+- brandstofketen (*) 65 65 65 65 65
+- gevaarlijk afval (*) 10 10 10 10 10
+- scheepsafval (*) 10 10 10 10 10
+- risicovolle bedrijven (*) 90 90 90 90 90
+-  integrale (concern)controles risicovolle 10 10 10 10 10
+bedrijven
+- zelfstandige klinieken 50 50 50 50 50
+- wegvervoer ADR 20 20 20 20 20
+- spoorvervoerders 20 20 20 20 20
+- UN-kenmerken 40 40 40 40 40
+objectinspecties: 5.628
+- ladingcontroles Rotterdamse haven 1.100 1.100 1.100 1.100 1.100
+-  ladingcontroles Schiphol en nationale luchthavens 550 550 550 550 550
+- spoorcontroles 600 600 600 600 600
+- wegcontroles 2.000 2.000 2.000 2.000 2.000
+- zeeschepen 100 100 100 100 100
+- binnenvaartschepen 300 300 300 300 300
+audits erkende instantie en (beoogde) 33
+convenanthouders:
+- GS erk enninghouders conform Wet Luchtvaart 24 30 40 50 60
+- erkenninghouders luchtvaart BES 6 8 10 10 10
+- erk enninghouders vervoer gevaarlijke stoffen 2 2 2 2 2
+(weg, spoor, binnenvaart)
+-  (potentiële) convenanthouders 10 10 10 10 10
+handhavingscommunicatie 1 0 0 1 1
+aantal geïnspecteerde bedrijven/OTS 633 315
+* totaal aantal vigerende convenanten aan het einde van het jaar
+(*) deze controles vinden integraal plaats i.s.m. het domein Risicovolle Stoffen
+ Meerjarenplan 2015-2019 | 45

@@ -1,0 +1,30 @@
+producten 2015
+afval/EVOA 2015 realisatie 2014 aantal 2015
+signalen 29 30
+preweegdocumenten 7 6
+TCI-pv’s 9 15
+analyses 0 0
+pv’s (eindopsporingsonderzoeken) 1 3
+criminele inlichtingen rapporten 30
+bodem 2015 realisatie 2014 aantal 2015
+signalen 25 26
+preweegdocumenten 4 6
+TCI-pv’s 10 15
+analyses 0 0
+pv’s (eindopsporingsonderzoeken) 2 2
+criminele inlichtingen rapporten 30
+gevaarlijke stoffen 2015 realisatie 2014 aantal 2015
+signalen 12 30
+preweegdocumenten 2 5
+TCI-pv’s 3 15
+analyses 0 1
+pv’s (eindopsporingsonderzoeken) 0 2
+criminele inlichtingen rapporten 30
+woningcorporaties 2015 realisatie 2014 aantal 2015
+signalen 7 14
+preweegdocumenten 4 3
+TCI-pv’s 1 10
+analyses 0 0
+pv’s (eindopsporingsonderzoeken) 2 2
+criminele inlichtingen rapporten 20
+ Meerjarenplan 2015-2019 | 41
