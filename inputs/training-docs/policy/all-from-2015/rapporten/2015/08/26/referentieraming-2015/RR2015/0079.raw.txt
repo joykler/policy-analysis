@@ -1,0 +1,59 @@
+hbogm  hbo sector gedrag en maatschappij, voltijds 
+hbogz  hbo sector gezondheid, voltijds 
+hboo-M  hbo sector lerarenopleiding in de master-fase, voltijds 
+   (incl. hbo sector gezondheid in de master-fase, voltijds) 
+hbot  hbo sector techniek, voltijds 
+hbotc  hbo sector taal en cultuur, voltijds 
+hbotc-M  hbo sector opleidingen taal en cultuur in de master-fase, voltijds 
+ho   hoger onderwijs (hbo + wo) 
+ 
+ivbo  individueel voorbereidend beroepsonderwijs (oude naam voor lwoo) 
+ 
+ 
+Kennis/PSB directie Kennis, afdeling Prognoses, Scenario’s en Beleidsstatistiek 
+ 
+LGF  Leerling-gebonden financiering (voor leerlingen die onderwijs volgen in het 
+basisonderwijs i.p.v. in het speciaal onderwijs)  
+lj   leerjaar 
+lwoo  leerwegondersteunend onderwijs: onderdeel van het vmbo, kan beschouwd 
+worden als de voorzetting van ivbo en vso-lom 
+lwooa  leerwegondersteunend onderwijs, sector groen; bekostigd door EZ 
+lwoo-t  leerwegondersteunend onderwijs, sector techniek 
+lwoo-v  leerwegondersteunend onderwijs, sector economie+verzorging 
+ 
+mavo  middelbaar algemeen voortgezet onderwijs 
+   (oude naam voor vmbo-TL + vmbo-GL) 
+mbo  middelbaar beroepsonderwijs, vanaf 1997 bestaat deze uit bol + bbl 
+ 
+OCW  Ministerie van Onderwijs, Cultuur en Wetenschap 
+ow  onderwijs 
+ 
+OLS  Ordinary Least Squares (kleinste kwadraten) 
+ 
+phao  deeltijd hoger agrarisch onderwijs (hbo-groen); bekostigd door EZ 
+phavo  deeltijd havo 
+phbo  deeltijd hoger beroepsonderwijs 
+phbobo  deeltijd hbo sector opleiding leerkrachten bo 
+phbovo  deeltijd hbo sector opleiding leerkrachten vo 
+phboe  deeltijd hbo sector economie 
+phbogm  deeltijd hbo sector gedrag en maatschappij 
+phbogz  deeltijd hbo sector gezondheid 
+phbot  deeltijd hbo sector techniek 
+phbotc  deeltijd hbo sector taal en cultuur 
+phvwo  deeltijd havo en vwo (onderdeel van vavo) 
+pmavo  deeltijd mavo (onderdeel van vavo) 
+po   primair onderwijs (bao + sbao + (v)so) 
+pro  praktijkonderwijs: onderdeel van het vmbo, kan beschouwd worden als de 
+voorzetting van vso-mlk 
+proa  praktijkonderwijs, bekostigd door EZ 
+pvwo  deeltijd vwo (onderdeel van vavo) 
+ 
+RPA  regionaal platform arbeidsmarkt 
+RR..  referentieraming met .. het betreffende jaar 
+ 
+sbao  speciaal basisonderwijs, kan beschouwd worden als de voortzetting van de 
+schoolsoorten so-lom en so-mlk  
+SCP  Sociaal Cultureel Planbureau 
+so   speciaal onderwijs 
+ 
+Referentieraming 2015 206

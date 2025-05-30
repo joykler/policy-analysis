@@ -1,0 +1,53 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+ 
+2.2.2. Documentair Structuurplan (DSP)  
+De AIVD maakt gebruikt van een procesmoduleerapplicatie waarin alle sturende, primaire en 
+ondersteunende processen van de AIVD beschreven door de unit-, en afdelingshoofden, in de rol van 
+proceseigenaar.  
+ 
+De afdeling Registratie- en Archiefdiensten (RAD) gebruikt de procesmoduleer applicatie als 
+beheeromgeving van het documentair structuurplan (DSP) van de AIVD. De sturende, primaire en 
+ondersteunende processen van de AIVD zijn in het ordeningsplan in het DSP uitgewerkt volgens een 
+model gebaseerd op het Toepassingsprofiel Metagegevens Rijk. Dit model wordt binnen de AIVD het 
+‘Model ordeningsstructuur’ genoemd. 
+Het model is verdeeld over 5 niveaus, waarbij op elk niveau een specifieke set metagegevens 
+toegekend is. Elk niveau kan als een aggregatie gezien worden van het onderliggende niveau. De 
+eerste 3 niveaus volgen de ordening van het ordeningsplan. De laatste 2 niveaus betreffen de 
+dossiermap en het lagere aggregatieniveau record. Op het derde niveau (3), het dossier, is er een 
+koppeling met de selectielijst. Hierdoor krijgt elk dossier een waarderingstermijn 
+(vernietigingstermijn).  
+ 
+In het DSP heeft de AIVD op basis van de GWR-methodiek per proces in het ordeningsplan, de selectie 
+en waardering, volgens een vast stramien, onderzocht, beschreven, en/of gekoppeld. De processen 
+van de AIVD in het ordeningsplan zijn vertaald naar een mappenstructuur, conform het model 
+ordeningsstructuur. Deze mappenstructuur bestaat, zoals hierboven beschreven uit 5 niveaus. Op het 
+derde niveau zijn de volgnde elementen beschreven en gekoppeld: 
+ Een korte omschrijving van het doel van het proces; 
+ De voornaamste neerslag en/of activiteiten per proces; 
+ De koppeling met de waardering uit deze selectielijst; 
+ De vastgestelde waarderingstermijn uit deze selectielijst. Of een voorstel voor een waarderings-
+termijn, wanneer het een nieuwe of gewijzigde waardering betreft die nog vastgesteld moet 
+worden, middels een vaststellingstraject selectielijst en door tussenkomst van de 
+archiefcommissie; 
+ Een risicoanalyse (zie bijlage 2); 
+ Een trendanalyse: van de onderzochte trends die voorkomen in de AIVD archieven vanaf 1945. De 
+trends zijn getoetst aan het Trendanalyserapport van het Nationaal Archief over het domein (zorg 
+voor) veiligheid. Aan de hand van de trendanalyse zijn de waarderingen per categorie bepaald in 
+‘4. de lijst van waarderingen’ en bij het bepalen van de ‘3.4. Criteria voor het maken van 
+e
+uitzondering’ , conform artikel 5 van het archiefbesluit 1995. Zo hebben bepaalde trends geleid tot 
+waardering ‘Bewaren’ voor de corresponderende neerslag. 
+ Een systeemanalyse: de besluitvorming van de AIVD als onderdeel van het ministerie van 
+Binnenlandse Zaken (BZK) en de gevolgen voor de voornaamste neerslag en/of activiteiten in het 
+proces. De systeemanalyse is nog concept, maar heeft geholpen om aan de hand van bestaande 
+besluitvormingsprocessen te bepalen waar bepaalde (secretariaat) archieven bewaard moeten 
+worden of werden. Hiermee is ook duidelijk welke selectielijst van toepassing is. Bijvoorbeeld: bij 
+het moederdepartement, de AIVD, commissies, overlegorganen. Maar ook als het gaat om de ter 
+beschikking gestelde archieven van andere zorgdragers. 
+ De grondslag van het proces, zoals: wetten (o.a. WIV, WVO), besluiten e.d;  
+ De proceseigenaar (verantwoordelijk en bevoegd functionaris conform de beheersregeling 
+documentaire informatievoorziening AIVD). 
+ 
+ 
+Pagina 64 van 94

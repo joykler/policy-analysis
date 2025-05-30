@@ -1,0 +1,59 @@
+Leerling   Persoon die op 1 oktober staat ingeschreven in het po of vo. 
+ 
+Student    Persoon die op 1 oktober staat ingeschreven in het hbo of wo. 
+ 
+Uitstroom  Degenen die in het volgende jaar niet meer staan ingeschreven in de 
+betreffende onderwijssoort.  
+ 
+Afkortingen 
+De schoolsoorten hieronder vermeld zijn door OCW bekostigd onderwijs tenzij anders is 
+aangegeven. 
+ 
+ALS  Adviesgroep Leerlingen- en Studentenramingen 
+avo/vbo  voortgezet onderwijs exclusief lwoo en pro 
+ 
+bao  basisonderwijs 
+bbao  bevolking buiten alle onderwijs (= geen ow) 
+bbl  beroepsbegeleidende leerweg, exclusief groen onderwijs (leerlingwezen) 
+bbl_1/2  beroepsbegeleidende leerweg, niveau 1 en 2 (primaire opleidingen) 
+bbl_3/4  beroepsbegeleidende leerweg, niveau 3 en 4 (voortgezette opleidingen) 
+bbla  beroepsbegeleidende leerweg, sector groen; bekostigd door EZ 
+bol  beroepsopleidende leerweg, voltijd, exclusief groen onderwijs (het voormalig 
+middelbaar beroepsonderwijs) 
+bol_1/2  beroepsopleidende leerweg, niveau 1 en 2 (de korte opleidingen in het mbo) 
+bol_3/4  beroepsopleidende leerweg, niveau 3 en 4 (de lange opleidingen in het mbo) 
+bola  beroepsopleidende leerweg, sector groen; bekostigd door EZ 
+bola_1/2 beroepsopleidende leerweg, sector groen, niveau 1 en 2 ; bekostigd door EZ 
+bola_3/4 beroepsopleidende leerweg, sector groen, niveau 3 en 4 ; bekostigd door EZ 
+bol-dt  beroepsopleidende leerweg in deeltijd 
+brj   brugjaren in het voortgezet onderwijs 
+ 
+CBS  Centraal Bureau voor de Statistiek 
+CEP  Centraal Economisch Plan  
+CLR  Coördinatiegroep Leerlingen Ramingen 
+CPB  Centraal Planbureau 
+CROHO  Centrale Registratie Opleidingen Hoger Onderwijs 
+ 
+DUO  Dienst Uitvoering Onderwijs (voorheen Centrale Financiën Instellingen + 
+Informatie Beheer Groep)  
+dt   deeltijd onderwijs 
+ 
+EZ  Ministerie van Economische Zaken 
+ 
+geen ow  geen onderwijs, dat deel van de bevolking dat geen door OCW of EZ bekostigd 
+onderwijs volgt 
+ 
+hao  hoger agrarisch onderwijs (hbo-groen), voltijds; bekostigd door EZ 
+havo  hoger algemeen voortgezet onderwijs  
+havovwo3 het derde leerjaar van het havo en het vwo samen 
+havovwo4+ havo leerjaren 4+5 en vwo leerjaren 4+5+6 
+hbo  hoger beroepsonderwijs, voltijds 
+hbo-b  hbo bachelor 
+hbo bd  hbo bachelor diploma 
+hbo-m  hbo master 
+hbo md  hbo master diploma 
+hbobo  hbo sector opleiding leerkrachten bo (pabo), voltijds 
+hbovo  hbo sector opleiding leerkrachten vo, voltijds 
+hboe  hbo sector economie, voltijds 
+ 
+Referentieraming 2015 205

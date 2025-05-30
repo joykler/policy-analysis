@@ -1,0 +1,60 @@
+aggregatieniveau. In formulevorm: 
+Voorspelbaarheid:= gemiddelde (absolute waarde ( (raming-realisatie)/realisatie) )  
+ 
+c.  Stabiliteit 
+ 
+Stabiliteit wordt gedefinieerd als de mate waarin de raming afwijkt van de vorige bij 
+toevoeging van een nieuw jaar met telgegevens. Voor OCW is het niet wenselijk 
+wanneer ramingen al te sterk reageren op nieuwe telgegevens, behalve wanneer 
+sprake is van een trendbreuk. 
+ 
+Stabiliteit wordt bepaald door het gemiddelde van de absolute waarde van de 
+procentuele afwijking tussen de ramingen voor t+5 op het onderscheiden aggrega-
+tieniveau. In formulevorm: 
+ 
+Stabiliteit:=  
+gemiddelde (absolute waarde ( (raming(a,t+5)-raming(b,t+5))/raming(a,t+5) ) )  
+ 
+Hierbij is het verschil tussen raming(a,t+5) en raming(b,t+5) dat in de laatste 
+raming de telgegevens van 1 jaar méér zijn meegenomen dan in raming(a,t+5). 
+ 
+Wanneer bovenstaande criteria a. t/m c. geen uitsluitsel geven dan wordt het volgende 
+criterium toegepast. 
+ 
+d. Minimalisatie van de leerlingmutaties door nieuwe modelinstelling 
+ 
+Dit wordt gedefinieerd als de gesommeerde absolute afwijking ten opzichte van de 
+vorige raming. 
+ 
+Op basis van deze criteria is gekozen voor een zelfde methodiek als vorig jaar. Alleen de 
+extrapolatie-methodiek wordt aangepast: de lengte van de periode waarover wordt 
+geëxtrapoleerd blijft hetzelfde, en loopt nu dus van 2001-2012. 
+ 
+Voor RR2015 is de volgende modelinstelling gehanteerd: 
+- de extrapolatiewijze van de stroomcoëfficiënten:    pseudo-lineair; 
+- de lengte van de periode waarover wordt geëxtrapoleerd:  2003-2014; 
+- het aggregatieniveau van de onderwijssoorten:    laag niveau (712); 
+- een aggregatie over leeftijden:       niet; 
+23
+- een aggregatie over geslacht       wel ; 
+- de koppeling tussen uitkomsten van extrapolatie en raming:  “goodness of fit”. 
+- sturing van de raming door de extrapolatie voor de periode:  2015-2021. 
+ 
+De gekozen modelinstelling is in 2000 voor het laatst bepaald ter voorbereiding op RR2001 
+en is in afzonderlijke notities verantwoord en met de ALS besproken. Nadien zijn er nog 
+andere extrapolatiemethodes beproefd, maar dit heeft niet geleid tot aanpassing van de 
+modelinstelling.  
+Uit onderzoek naar de modelinstelling is naar voren gekomen dat een raming met een hoger 
+gewicht in de extrapolatie voor leerplichtig onderwijs betere ramingresultaten geeft.  
+Vanaf RR2001 is daarom de standaardmethodiek gewijzigd voor leerplichtig onderwijs. De 
+trends worden hier met een hoger gewicht meegenomen dan in de standaardraming. 
+Met ingang van RR2015 wordt, vanwege een afvlakking van de trends binnen het voortgezet 
+onderwijs, dit hogere gewicht alleen nog maar toegepast voor de overgangen vanuit primair 
+naar voortgezet onderwijs, dus niet meer voor overgangen binnen het voortgezet onderwijs 
+(d.w.z. de stromen naar vmbo(excl. lwoo), havo en vwo). 
+  
+                                         
+23  In eerste instantie is RR2015 gedraaid zonder onderscheid naar geslacht, later is onderscheiden naar 
+geslacht waarbij de ramingsresultaten zijn genormeerd op de eerder gemaakte raming zonder geslacht-onderscheid. 
+ 
+Referentieraming 2015 61

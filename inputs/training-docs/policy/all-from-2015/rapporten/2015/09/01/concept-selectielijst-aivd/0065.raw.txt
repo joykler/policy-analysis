@@ -1,0 +1,43 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+ 
+2.2.3. Documentmanagement systeem 
+Sedert 14 mei 2013 gebruikt de AIVD een documentmanagement systeem (DMS) met 
+recordmanagement systeem (RMS) functionaliteiten. Dit systeem is nog in ontwikkeling en zal 
+uitgebreid gaan worden met aanvullende recordmanagement functionaliteiten, zodat het mogelijk 
+wordt om archiefbescheiden in de toekomst digitaal over te dragen aan het Nationaal Archief. 
+In dit systeem wordt dossiergericht gewerkt. De binnenkomende documenten worden gescand of 
+geïmporteerd en vervolgens opgeslagen in een zaakdossier. Volgens een vaste dossierlevenscyclus 
+(dossierbeheerder, dossiereigenaar) wordt een dossier behandeld, afgesloten en vervolgens 
+geautomatiseerd overgedragen aan het semi-statisch archief (SSA) van de AIVD. De afdeling 
+Registratie en Archiefdiensten (RAD) is beheerder van de fysieke archiefbescheiden en digitaal 
+afgesloten dossiers. Ook de fysieke archiefstukken worden volgens de dossierlevenscyclus 
+geautomatiseerd overgedragen en fysiek geborgen bij het SSA. 
+De ordeningsstructuur, de primaire ordening, van dit systeem is gebaseerd op de AIVD-organisatie en 
+via de DSP-mapping herleidbaar tot processen. 
+ 
+Vanaf 1 september 2009 gebruikt de AIVD voor proces veiligheidsonderzoeken (B-taak) een aparte 
+DMS.  
+Ook in dit systeem wordt proces- en dossiergericht gewerkt. Het proces veiligheidsonderzoeken wordt 
+digitaal ondersteund, maar na afronding van een veiligheidsonderzoek wordt het fysieke dossier 
+overgedragen aan het SSA van de RAD.  
+Na de vaststelling van de selectielijst zal gestart worden met de uitbreiding van RMS functionaliteiten, 
+zodat digitale en fysieke documenten eenduidig geselecteerd, gewaardeerd en waar nodig vernietigd 
+kunnen worden.  
+De ordeningsstructuur in dit systeem komt overeen met de beschreven processen in het DSP. 
+ 
+Binnen de AIVD is in het DSP en de beheersregeling DIV vastgelegd dat alle archiefwaardige informatie 
+van de besturende- en primaire processen vastgelegd moeten worden. Er zijn ook koppelingen met 
+andere informatiesystemen om deze afspraak technisch af te vangen. 
+ 
+Oude registratiesystemen voor het vastleggen archiefwaardige informatie zijn grotendeels gemigreerd 
+naar het DMS. De oude registratiessystemen die nog niet zijn gemigreerd, zijn in plannen opgenomen 
+en zullen op termijn aan de hand van deze selectielijst worden (gedeeltelijk) overgedragen, 
+uitgefaseerd of gemigreerd naar het huidige DMS.  
+ 
+Om veiligheidsredenen mogen merknamen van systemen die door de AIVD gebruikt worden niet 
+vermeld worden in openbare stukken. De AIVD maakt gebruik van een US Department of Defence 
+(DOD-5015-2 versie 3) gecertificeerd DMS/RMS systeem.    
+ 
+ 
+Pagina 65 van 94

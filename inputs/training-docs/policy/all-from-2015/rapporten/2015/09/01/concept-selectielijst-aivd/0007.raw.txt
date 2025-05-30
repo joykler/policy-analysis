@@ -1,0 +1,58 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+De omschrijvingen van deze functies zijn opgenomen in het overzicht van de categorieën. 
+De categorieën en processen zijn beschreven volgens het volgende schema:  
+ 
+Nummer: Dient als referentie voor de ordening van de categorieën en processen 
+Categorie: Naam van de categorie 
+Toelichting Informatie over bereik en neerslag van de categorie 
+Nr. Proces Risico Waardering Toelichting 
+!! Attentie 
+ Voornaamste neerslag en/of 
+activiteiten per proces 
+Nummer Naam van het Risico Waardering van de Hier staat indien nodig 
+van het proces voor de neerslag van het verhelderende informatie over het 
+proces bedrijfs- proces: proces. 
+voering - B (bewaren), met  
+van de nr. algemeen !! Hier wordt indien nodig gewezen 
+AIVD: selectiecriterium of op mogelijke 
+- - Hoog - - V (vernietigen), interpretatieproblemen en 
+(rood) met een geattendeerd op verwante 
+- - Laag vernietigingstermijn processen. 
+(groen) in aantal jaren  
+ Cursief: voorbeelden van 
+processen die onder dit proces 
+vallen. 
+ 
+De bewaarplaats van archiefstukken is gekoppeld aan het organisatieonderdeel dat primair is belast 
+met de opstelling en behandeling van de neerslag van een proces. Voor het vaststellen van de voor de 
+neerslag geldende waardering geldt de regel: de waardering op een lager niveau (bijvoorbeeld 1.2) 
+gaat voor op de waardering van een hoger niveau (bijvoorbeeld 1). Als de neerslag is te koppelen aan 
+een proces op lager niveau, wordt aan de hand van die waardering geselecteerd. De nummering sluit 
+zoveel mogelijk aan bij de nummering van het GWR. 
+ 
+Binnen de AIVD zijn de processen uitgewerkt volgens een model ordeningsstructuur, gebaseerd op het 
+Toepassingsprofiel metagegevens Rijk. 
+ 
+Per proces zijn volgens een vast stramien de volgende onderdelen beschreven: 
+ doel van het proces; 
+ voornaamste neerslag en/of activiteiten per proces; 
+ waardering; 
+ waarderingstermijn; 
+ risicoanalyse (zie bijlage 2); 
+ trendanalyse (analyse van de trends die voorkomen in de AIVD archieven vanaf 1945); 
+ systeemanalyse (besluitvorming van de AIVD als onderdeel van het ministerie van Binnenlandse 
+Zaken (BZK)); 
+ grondslag (wetten, besluiten e.d.); 
+ proceseigenaar (verantwoordelijke en bevoegde functionaris conform de beheersregeling 
+documentaire informatievoorziening AIVD). 
+ 
+De bewaartermijn gaat in op het moment dat het digitale dossier in Documentum is afgesloten. Het 
+afsluiten van een dossier gaat volgens een geautomatiseerde workflow (dossierlevenscyclus) en is een 
+verantwoordelijkheid van de dossiereigenaar. De dossiers zijn afgesloten op het moment dat ze zijn 
+overgedragen aan het semi-statisch archief van de AIVD.  
+ 
+ 
+ 
+ 
+Pagina 7 van 94

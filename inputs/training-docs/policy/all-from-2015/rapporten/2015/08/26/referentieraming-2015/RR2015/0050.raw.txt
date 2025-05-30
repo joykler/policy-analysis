@@ -1,0 +1,57 @@
+3.3 Toelichting op de technische correcties 
+ 
+Een standaardmethodiek vormt de basis voor de Referentieraming. Deze methodiek is voor 
+alle schoolsoorten gelijk. Voorafgaande aan de verwerking van de nieuwste telgegevens is 
+deze standaardmethodiek vastgesteld. Het kan noodzakelijk zijn om ten opzichte van deze 
+standaardmethodiek met enige bijstellingen te komen. Deze bijstellingen worden hieronder 
+toegelicht. 
+ 
+Technische correcties zijn toegepast als de standaardmethodiek door discontinuïteiten in de 
+gegevens (zoals trendbreuken, stelselwijzigingen) niet zonder meer mag worden toegepast. 
+In vorige referentieramingen was de standaardraming op drie punten gecorrigeerd: 
+1. standaardcorrectie "leerplicht"; 
+2. standaardcorrectie "trend niet naar 0 en niet naar 100%"; 
+3. correctie voor invloed van stijgende werkloosheid. 
+ 
+1. Standaardcorrectie “leerplicht” (conform RR2014) 
+In principe worden in dit model de stroomfracties afgeleid uit de laatst gerealiseerde 
+stroomgegevens. Voor een aantal stroomfracties (“strategische coëfficiënten”) wordt echter 
+extrapolatie toegepast op basis van de stroomgegevens van de afgelopen 12 jaren. 
+De standaardcorrectie “leerplicht” impliceert dat de geëxtrapoleerde stroomfracties in het 
+leerplichtig onderwijs met een hoger gewicht dan het standaardgewicht worden meegenomen 
+in de raming. Evenals in RR2014, wordt deze correctie nu alleen nog uitgevoerd voor de 
+leerlingenstromen vanuit groep 8 van het basisonderwijs. Het effect van deze correctie is: 
+ 
+2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 
+ 
+  
+      
+0,0 0,0 0,0 0,0 0,0 -0,1 -0,1 
+bao 
+vso-wec 0,0 0,1 0,1 0,2 0,3 0,4 0,4 
+totaal po 0,0 0,1 0,1 0,2 0,2 0,3 0,3 
+        
+vo-gemee -0,4 -1,0 -1,4 -1,7 -1,9 -1,9 -1,9 
+vmbo34 0,0 0,0 -0,2 -0,4 -0,5 -0,7 -0,7 
+havovwo3 0,0 0,0 -0,2 -0,3 -0,4 -0,5 -0,5 
+vo-2 0,0 0,0 0,0 -0,2 -0,4 -0,7 -1,0 
+lwoo 0,4 1,0 1,8 2,7 3,4 4,1 4,6 
+pro 0,0 0,0 -0,1 -0,2 -0,3 -0,5 -0,7 
+Totaal vo 0,0 0,0 0,0 0,0 -0,1 -0,2 -0,2 
+              
+ 
+Bol 0,0 0,0 0,0 0,0 0,1 0,3 0,5 
+Bbl 0,0 0,0 0,0 0,0 0,0 0,1 0,1 
+Totaal mbo 0,0 0,0 0,0 0,0 0,1 0,3 0,6 
+              
+ 
+vt-hbo bachelor 0,0 0,0 0,0 0,0 0,0 0,0 -0,1 
+ 
+             
+vboa 0,0 0,0 0,0 0,0 0,0 -0,1 -0,1 
+ivboa 0,0 0,0 -0,1 -0,1 -0,3 -0,4 -0,5 
+bola 0,0 0,0 0,0 0,0 0,0 0,0 0,0 
+ 
+  
+ 
+Referentieraming 2015 46

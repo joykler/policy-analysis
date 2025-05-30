@@ -1,0 +1,69 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+geven; uit de enorme datavolumes zijn immers zeer veel interessante gegevens af te leiden voor hen 
+die daarin geïnteresseerd zijn. De komende jaren zal de ‘wedloop’ tussen het verbeteren van de 
+beveiliging van datacommunicatie en netwerken en het inbreken of uitvoeren van aanvallen hierop 
+ongetwijfeld voortduren. De verbetering van encryptie (groei in volume, sterkte, diversiteit) heeft 
+echter het paradoxale gevolg dat het voor een overheid die kwetsbare (grondrechtelijke) belangen van 
+burgers alsmede marktbelangen van een samenleving wil beschermen, veel lastiger is in de digitale 
+wereld te ‘surveilleren’ en gevaren en risico´s voor burgers en bedrijven te ondervangen dan in de 
+fysieke wereld het geval is. 
+ 
+De gevolgen voor de beschermingstaak van de overheid zijn aldus groot. De verantwoordelijkheid van 
+de overheid blijft hetzelfde (bescherming van de democratische rechtsstaat, grondrechten, veiligheid, 
+etcetera) maar de mogelijkheden om dat werkelijk te doen nemen af. Meer in het algemeen 
+veranderen de risico’s en dreigingen voor de samenleving en de nationale veiligheid als geheel van 
+karakter. Niet alleen de aard en de intensiteit van de risico´s veranderen, ook de (onbekende) 
+veroorzakers ervan bedienen zich razendsnel van de mogelijkheden van de voortschrijdende techniek. 
+Waar de dreigingen voor de belangen van burgers, samenleving en markten tot voor enkele decennia 
+geleden bij de overheid wel enigszins ‘bekend’ waren (machtsblokken met gekende militaire middelen, 
+groeperingen of individuen die een mogelijke bedreiging voor de veiligheid konden betekenen) zijn de 
+dreigingen en risico´s in de 21ste eeuw veel minder inzichtelijk omdat ze afkomstig zijn van een grote 
+hoeveelheid aan nieuwe, ook niet-statelijke, actoren met talloze nieuwe mogelijkheden, waaronder 
+binnen het nieuwe domein van cyber. Cyberaanvallen, de rol van sociale media en andere 
+technologische mogelijkheden kunnen tegenwoordig grote maatschappelijke bewegingen veroorzaken 
+en het verloop van conflicten, en daarmee de geopolitieke constellatie, ingrijpend veranderen. Recente 
+gebeurtenissen en talloze incidenten hebben dit laten zien. 
+ 
+Fenomenen als terrorisme en cybercrime hebben een sterk internationaal karakter waarbij grenzen 
+tussen staten geen rol meer spelen. Dat alles heeft grote betekenis voor de wijze waarop de overheid 
+de burgers en de samenleving moet beschermen, de wijze waarop nationale veiligheid kan worden 
+geborgd, en de rol die inlichtingen- en veiligheidsdiensten daarbij spelen. 
+Afnemers hebben steeds vaker, sneller en met meer diepgang behoefte aan een op maat gesneden, 
+integraal inlichtingenbeeld. Deze inlichtingenbehoefte is tevens steeds vaker direct technologie-
+gerelateerd, bijvoorbeeld met betrekking tot politiek-economische schade als gevolg van digitale 
+aanvallen, digitale spionage of met betrekking tot beveiligingsbevorderende maatregelen. 
+ 
+Om een adequate inlichtingenpositie te bereiken en te behouden moeten de inlichtingendiensten over 
+voldoende mogelijkheden beschikken om inlichtingen te kunnen verwerven en verwerken. De WIV 
+beschrijft nauwkeurig de bevoegdheden die de diensten daartoe momenteel hebben.  
+De WIV kent de diensten bijzondere bevoegdheden toe waarmee zij berichtenverkeer kunnen 
+onderscheppen. Onder de verzamelnaam en inlichtingendiscipline Sigint wordt in dit kader verstaan het 
+vergaren en nader verwerken van informatie of communicatie uit de ether (satelliet- en radioverkeer, 
+in de WIV aangeduid als niet-kabelgebonden telecommunicatie). De bijzondere bevoegdheden die de 
+WIV aan de diensten toekent zijn gerichte interceptie (artikel 25 WIV), selectie na ongerichte 
+interceptie (artikel 27 WIV) en searchen (artikel 26 WIV). 
+Bij gerichte interceptie (artikel 25) is de afzender van communicatie in beginsel bekend. 
+Communicatieverkeer via een kabel mag op basis van de WIV slechts gericht worden geïntercepteerd. 
+Gerichte interceptie staat ook wel bekend als ‘tappen’. Volgens artikel 27 lid 1 WIV zijn de diensten 
+bevoegd tot het met een technisch hulpmiddel ongericht ontvangen en opnemen van niet-
+kabelgebonden telecommunicatie. 
+‘Ongerichte’ interceptie wil zeggen dat de interceptie zich niet richt op berichten die afkomstig zijn van 
+een bepaalde persoon of organisatie of gerelateerd zijn aan een technisch kenmerk, maar dat 
+bijvoorbeeld al het berichtenverkeer van een bepaald satellietkanaal uit de ether wordt gehaald en 
+opgeslagen. Artikel 27 geeft niet de bevoegdheid kabelgebonden telecommunicatie ongericht te 
+intercepteren. Voor de bevoegdheid tot ongerichte interceptie is, ingevolge artikel 27 lid 2 WIV, geen 
+toestemming vereist als bedoeld in artikel 19 WIV. Er wordt hier nog geen kennis genomen van de 
+inhoud van de telecommunicatie waardoor er volgens de wetgever nog geen sprake is van een inbreuk 
+op de persoonlijke levenssfeer, meer in het bijzonder het telefoon- en telegraafgeheim. Van een 
+dergelijke inbreuk is volgens de wetgever pas sprake op het moment dat de gegevens geselecteerd 
+worden. Met de ontvangen en opgenomen telecommunicatie kan door de diensten niets worden 
+gedaan, behalve dat eventuele versleuteling van de gegevens ongedaan gemaakt mag worden (artikel 
+27 lid 1 WIV). 
+ 
+In artikel 27 leden 3 tot en met 6 WIV zijn de mogelijkheden voor de selectie van de telecommunicatie 
+opgenomen. Het betreft hier de mogelijkheid tot selectie aan de hand van (a) gegevens betreffende de 
+identiteit van een persoon of een organisatie, (b) een nummer of technisch kenmerk, en (c) aan een 
+nader omschreven onderwerp gerelateerde trefwoorden (lid 3). 
+ 
+Pagina 53 van 94

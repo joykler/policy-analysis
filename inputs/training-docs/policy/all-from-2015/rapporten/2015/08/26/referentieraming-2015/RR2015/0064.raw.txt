@@ -1,0 +1,61 @@
+gelijk aan lineair, maar nu wordt de lijn verschoven zodanig dat deze aansluit 
+bij de laatste waarneming). 
+B. De lengte van de periode waarover wordt geëxtrapoleerd: 
+Er zijn historische gegevens beschikbaar voor de jaren 1983-2012.   
+C. Het aggregatieniveau van de onderwijssoorten: 
+Binnen Radon kan over de onderwijssoorten op een willekeurige manier worden 
+geaggregeerd. 
+D. Een aggregatie over leeftijden: 
+Ook over de leeftijden kan willekeurig worden geaggregeerd. 
+E. Een aggregatie over geslacht: 
+Er kan gekozen worden voor een raming voor mannen, voor vrouwen, of voor 
+mannen en vrouwen samen. 
+F.  De koppeling tussen uitkomsten van extrapolatie en ramingsberekening: 
+De geëxtrapoleerde coëfficiënten kunnen een bepaald gewicht mee krijgen bij 
+de uiteindelijke raming. Mogelijke gewichten zijn heel erg groot (dan wordt 
+precies voldaan aan de coëfficiënten), een Poissongewicht of een gewicht 
+gebaseerd op de “goodness of fit” (afhankelijk van de verklaarde variantie 
+wordt het gewicht bepaald). 
+G. De lengte van de periode waarvoor de extrapolatie-resultaten als sturing worden 
+meegegeven aan de raming 
+ 
+Bij de keuzes die gemaakt worden, geldt het volgende uitgangspunt: 
+ 
+voorzichtigheid met het veranderen van de ramingssystematiek 
+ 
+De reden hiervan is de volgende: De leerlingenraming, die met Radon gemaakt wordt, is de 
+basis voor de begroting van OCW. Verschillen tussen twee opeenvolgende ramingen zijn 
+begrijpelijk als ze voortkomen uit recent beschikbaar gekomen informatie (tellingen of 
+stroominformatie). 
+Wanneer deze verschillen echter voortkomen uit wijzigingen van de ramingssystematiek dan 
+is de werkelijkheid niet veranderd, alleen ons inzicht in de werkelijkheid is anders geworden. 
+Dergelijke “ramingstechnische mutaties” zijn moeilijker uit te leggen.  
+Hiernaast weten we uit bijvoorbeeld het SCP-onderzoek dat twee goede ramingstechnieken 
+grote verschillen in uitkomsten kunnen hebben. Regelmatig wisselen van methodiek levert 
+het risico van een onstabiel toekomstperspectief. 
+Om deze reden moet er uitermate voorzichtig worden omgesprongen met methodiek-
+wijzigingen. We willen alleen veranderingen doorvoeren wanneer deze een aanzienlijke 
+verbetering opleveren van de ramingsmethodiek. Dit geldt temeer als de daarmee 
+samenhangende mutaties groot zijn. 
+ 
+Op basis van onderstaande criteria zijn, binnen de geschetste grenzen, keuzes gemaakt. 
+Voor de bepaling van de kwaliteit van de ramingsmethodiek worden met vorig jaar 
+vergelijkbare criteria gehanteerd: 
+  a) voorspelbaarheid voor t+1 
+  b) voorspelbaarheid voor t+2 t/m t+4 
+  c) stabiliteit voor t+5 
+In het voorgaande is geconcludeerd dat er voorzichtig moet worden omgesprongen met 
+methodiek-wijzigingen. Daarom hanteren we naast het criterium van de kwaliteit van de 
+raming tevens het criterium van de beperking van mutaties door een nieuwe modelinstelling:  
+  d) minimalisatie van leerlingmutaties door nieuwe modelinstelling 
+ 
+toelichting op de criteria: 
+ 
+a./b. Voorspelbaarheid 
+ 
+Voorspelbaarheid wordt gedefinieerd als de mate waarin het model een correcte 
+voorspelling genereert voor de prognosejaren. 
+Voorspelbaarheid wordt bepaald door het gemiddelde van de absolute waarde van de 
+procentuele afwijking tussen raming en realisatie op het onderscheiden 
+ 
+Referentieraming 2015 60

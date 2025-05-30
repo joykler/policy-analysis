@@ -1,0 +1,36 @@
+Hoofdstuk 5 Gedetailleerde uitkomsten van de 
+raming 
+ 
+Dit hoofdstuk van de Referentieraming bevat gedetailleerde tabellen en grafieken, zonder 
+inhoudelijke toelichting. De ramingsversie die hier gepresenteerd wordt is RR2015 (beleid), die 
+in Hoofdstuk 3 is toegelicht, tenzij anders is vermeld. 
+De gegevens zijn online beschikbaar in de vorm van .ods bestanden. Deze bestanden kunnen 
+geopend worden in OpenOffice of Excel 2010; in eerdere versies van Excel is dit mogelijk als 
+een compatability pack (Excel 2003) of service pack 2 (Excel 2007) is geïnstalleerd.    
+ 
+Prognosetabellen (pag. 75 t/m 150; zie verder de inhoudsopgave op de volgende pagina): 
+Eerst komt het totaal van het onderwijs aan de orde (pubhfd15.ods). 
+Daarna wordt op de vijf verschillende beleidsterreinen ingegaan: 
+- primair onderwijs (pubpo15.ods), 
+- voortgezet onderwijs (pubvo15.ods), 
+- middelbaar beroepsonderwijs (pubmbo15.ods), 
+- hoger beroepsonderwijs (pubhbo15.ods), 
+- wetenschappelijk onderwijs (pubwo15.ods). 
+Telkens wordt hier een zelfde indeling gehanteerd: 
+1) aantal leerlingen/studenten en gediplomeerden; 
+2) instroom in de betreffende sector; 
+3) uitstroom uit de sector. 
+Deze prognosetabellen bevatten de volgende realisatie-gegevens: 
+- leerlingen/studenten: t/m 2014/15 
+- gediplomeerden: t/m 2013/14 
+- instroom en uitstroom: t/m 2014 
+In alle tabellen, met uitzondering van 1.8.a en 1.8.b, worden aantallen x 1000 gepresenteerd. 
+De instroom van jaar t betekent: in het schooljaar t/t+1; uitstroom van jaar t betekent: uit het 
+schooljaar t-1/t.  
+ 
+Stroomplaatjes (pag. 153 t/m 186, stromen15.ods): 
+Deze plaatjes zijn een grafische weergave van de tabellen 1.8.a (overgangen in fracties) en 
+1.8.b (overgangen in aantallen), deze tabellen staan ook in pubhfd15.ods. 
+Deze stroomplaatjes bevatten realisatie-gegevens t/m 2014. 
+ 
+Referentieraming 2015 69

@@ -1,0 +1,58 @@
+Deze geen-onderwijs bevolking (d.i. geen bekostigd onderwijs) kan jaarlijks per niveau en 
+leeftijd berekend worden als de som van twee componenten: 
+a) de uitstroom uit het (bekostigde) onderwijs; 
+b) de doorstroom binnen de geen-onderwijs bevolking. 
+ 
+Schematisch ziet het model er als volgt uit: 
+ 
+Prognose volgens stroommodel per jaar t en leeftijd l
+bestemmingen (t,l)
+onderwijs geen onderwijs TOTAAL
+herkomsten (t-1, l-1) geen lager middel hoger univ geen lager middel hoger univ
+onderwijs geen u1
+lager u2
+middel u3
+hoger u4
+univ u5
+geen onderwijs geen h1.(1-p1) h1.p1 h1
+lager h2.(1-p2) h2.p2 h2
+middel h3.(1-p3) h3.p3 h3
+hoger h4.(1-p4) h4.p4 h4
+univ h5 h5
+TOTAAL o1 o2 o3 o4 o5 g1 g2 g3 g4 g5
+ 
+   
+Hierin is: 
+ geen = geen diploma 
+ lager = vmbo-diploma 
+ middel = havo/vwo/mbo-diploma 
+ hoger = hbo-diploma 
+ univ = wo-diploma (doctoraal/master) 
+ u1 t/m u5 = onderwijs-uitstroom uit Lector/Radon, omgerekend naar opleidingsniveaus 
+ o1 t/m o5 = leerlingen/studenten uit Lector/Radon, omgerekend naar opleidingsniveaus 
+ p1 t/m p4 = parameters voor upgrading binnen de geen-onderwijs bevolking als gevolg 
+van niet-bekostigd onderwijs  
+ h1 t/m h5 = geen-onderwijs bevolking in het herkomstjaar; voor het startjaar 2000/01 
+berekend uit EBB2001, voor de latere jaren berekend uit de overeenkomstige 
+bestemmingstotalen g1 t/m g5 van het voorafgaande jaar 
+ g1 t/m g5 = geen-onderwijs bevolking in het bestemmingsjaar 
+ 
+De parameters p1 t/m p4 worden zodanig gekozen dat er na doorrekening van de jaren 
+2001/02 t/m 2010/11 een optimale fit is op de opleidingsniveau-verdeling van de 25-34 jarige 
+bevolking volgens de EBB 2011. 
+Dit geeft dan weliswaar een goede fit voor die leeftijdsgroep, maar niet voor de oudere 
+leeftijdsgroepen (35-44 jarigen etc.). Dit wordt veroorzaakt door het feit dat de upgrading 
+a.g.v. niet-bekostigd onderwijs leeftijdsafhankelijk is: naarmate de leeftijd hoger is, zal ook 
+deze upgrading afnemen. Daarom wordt ook geijkt op de opleidingsniveau-verdeling van de 
+35-44 jarige bevolking, met medeneming van een extra parameter p5 die zorgt voor een 
+exponentiële afname van p1 t/m p4 voor 26- en 27-jarigen (vanaf 27 jaar wordt de 
+upgradingsfactor weer constant verondersteld). 
+ 
+N.B.: Het opleidingsniveau van de beroepsbevolking wijkt duidelijk af van dat van de 
+Nederlandse bevolking van 15 t/m 64 jaar, dit is met name het geval bij de jongste 
+leeftijdsgroep 15-24 jaar en de oudere leeftijdsgroepen. Bij de middengroepen (25-34 jaar, 
+35-44 jaar) is het verschil vrij gering, m.b.v. Statline-gegevens kan daar een omrekening 
+plaatsvinden naar opleidingsniveaus in de beroepsbevolking. 
+   
+ 
+Referentieraming 2015 210

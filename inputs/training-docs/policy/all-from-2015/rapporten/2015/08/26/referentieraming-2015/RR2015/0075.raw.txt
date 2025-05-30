@@ -1,0 +1,43 @@
+Inhoudsopgave stroomplaatjes (stromen15.ods) 
+ 
+OCW, voltijd 
+PO bao   155 
+ sbao   156 
+ so   157 
+ vso  158 
+VO vo-lj1   159 
+ vo-lj2   160 
+ brj3   161 
+ vmbo-3  162 
+ vmbo-4  162 
+ havo-3   163 
+ havo-4   164 
+ vwo-3   165 
+ vwo-4   166 
+ vwo-5   167 
+ lwoo   168 
+ pro   169 
+BVE bol_3/4   170 
+ bol_1/2   171 
+HBO vt-hbo bachelor 172 
+ vt-hbo master 173 
+WO voltijd-wo  174 
+OCW, deeltijd 
+BVE bol-dt   175 
+ bbl_3/4  175 
+ bbl_1/2  176 
+HBO dt-hbo bachelor 177 
+ dt-hbo master 178 
+WO deeltijd-wo  178 
+EZ 
+ vboa1   179 
+ lwooa1   179 
+ bola_3/4  180 
+ bola_1/2  181 
+ bbla   182 
+ hao voltijd  183 
+ woa1   185 
+ 
+ 
+ 
+Referentieraming 2015 153

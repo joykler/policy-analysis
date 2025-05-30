@@ -1,0 +1,24 @@
+3.7 Toelichting op de begrotingscorrecties 
+ 
+1. Technische correctie begrotingsdefinities vo: conform RR2014 
+ 
+Om aan te sluiten bij de begroting was in RR2014 (begroting) een technische correctie 
+opgenomen voor leerjaar 1 en 2 in het voortgezet onderwijs, omdat 1973 in het vo getelde 
+leerlingen tot het groen onderwijs werden gerekend. Deze correctie was gebaseerd op 1719 
+leerlingen: 
+ 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 
+vo-gemeens. -1,7 -1,7 -1,7 -1,7 -1,7 -1,7 -1,7 -1,7 
+vboa 0,7 0,7 0,7 0,7 0,7 0,7 0,7 0,7 
+lwooa 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 
+Deze correctie blijft gehandhaafd in RR2015 (begroting). 
+ 
+Verder wordt het praktijkonderwijs aan AOC’s modelmatig bij het overige praktijkonderwijs 
+gerekend (in 2014 ging het om 366 leerlingen bij AOC’s). In RR2015 (begroting) is dit als 
+volgt gecorrigeerd: 
+ 2012/13 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 
+pro -0,3 -0,3 -0,4 -0,4 -0,4 -0,4 -0,4 -0,4 
+proa 0,3 0,3 0,4 0,4 0,4 0,4 0,4 0,4 
+ 
+ 
+ 
+Referentieraming 2015 55

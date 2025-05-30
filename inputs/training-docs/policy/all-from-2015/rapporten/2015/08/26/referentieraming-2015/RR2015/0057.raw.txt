@@ -1,0 +1,57 @@
+Beoordeling van deze correctie door de ALS leidde tot de conclusie er een verfijning in deze 
+correctie moet worden aangebracht: 
+ Een abrupte daling van het aantal niveau 4 deelnemers in 2017/18 is onwaarschijnlijk; de 
+daling als gevolg van de cursusduur-verkorting in niveau 4 zal waarschijnlijk meer vloeiend 
+verlopen, mede als gevolg van de cascade-bekostiging in niveau 2+3+4. 
+ Verder moet voor de entree-opleidingen (niveau 1) ook een vermindering van het aantal 
+deelnemers worden ingeschat als gevolg van cascade-bekostiging in niveau 1. Deelnemers 
+worden nog slechts gedurende 2 jaren in niveau 1 bekostigd en hoeven niet tot het derde 
+jaar te worden toegelaten. Bovendien zullen enkel nog mensen zonder diploma toegelaten 
+worden tot de entree-opleidingen.  
+Rekening houdend met deze verfijning zou de correctie op RR2014 als volgt zijn geweest: 
+ 
+2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 
+ 
+       
+Bol -2,6 -6,0 -12,4 -15,1 -15,9 -16,0 
+Bbl -0,5 -1,0 -1,7 -1,9 -2,0 -2,0 
+             
+Bola -0,1 -0,3 -1,1 -1,4 -1,4 -1,4 
+Bbla -0,1 -0,1 -0,2 -0,2 -0,2 -0,2 
+ 
+RR2015 is op dezelfde verfijnde wijze gecorrigeerd, met dien verstande dat: 
+ voor deeltijd-bol de raming opnieuw op 0 wordt gezet; 
+ de versnelde uitstroom uit bol4-opleidingen heeft een tijdelijke verhoging van de 
+instroom in hbo tot gevolg (in RR2014 zat ook een kleine correctie op dit punt, maar 
+herberekening leidt nu tot een veel groter effect). 
+Het ramingseffect van deze beleidscorrecties in RR2015 is nu als volgt: 
+  
+2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 
+ 
+        
+Bol -2,6 -5,8 -11,8 -14,0 -14,9 -15,1 -15,0 
+Bbl -0,4 -0,8 -1,4 -1,7 -1,8 -1,8 -1,8 
+dt-bol -0,4 -0,4 -0,4 -0,4 -0,3 -0,3 -0,3 
+totaal mbo -3,5 -7,0 -13,5 -16,1 -17,0 -17,3 -17,1 
+              
+Bola -0,2 -0,4 -1,1 -1,3 -1,4 -1,4 -1,4 
+Bbla 0,0 -0,1 -0,1 -0,2 -0,2 -0,2 -0,2 
+        
+vt-hbo bachelor 1,0 2,1 4,5 5,0 4,9 4,5 3,9 
+hao 0,0 0,1 0,2 0,2 0,2 0,2 0,2 
+ 
+De ramingseffecten bij mbo betreffen in hoofdzaak de deelname aan niveau 4. De bijdrage 
+van niveau 1 is gering, nl. oplopend tot -1,8 voor bol, -0,5 voor bbl en -0,2 voor groen 
+bol+bbl.  
+  
+Na RR2015 zal in de opvolgende ramingen rekening gehouden worden met bovenstaande 
+effecten. Deze effecten zullen niet meer jaarlijks opnieuw worden berekend, wèl zal rekening 
+gehouden worden met het feit dat een deel van de effecten dan reeds gerealiseerd zal zijn. 
+Bijvoorbeeld: in RR2016 zal de telling van 2015/16 bekend zijn, waarvan aangenomen wordt 
+dat het nu geraamde effect (-2,6 voor bol, etc.) in die telling aanwezig is en reeds doorwerkt 
+in de autonome raming. Dan wordt het nu geraamde effect voor de latere jaren alleen nog 
+meegenomen voor het niet-gerealiseerde deel (dus -5,8 –(-2,6) = -3,2 voor bol in 2016/17, 
+etc.). Aangenomen wordt dat vanaf 2018/19 het effect vrijwel volledig is gerealiseerd, een 
+correctie zal nadien niet meer nodig zijn.
+ 
+Referentieraming 2015 53

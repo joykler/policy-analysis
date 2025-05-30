@@ -1,0 +1,14 @@
+pubhfd15.ods:  Totale onderwijs 75 
+ pubpo15.ods:   Primair onderwijs 91 
+ pubvo15.ods:   Voortgezet onderwijs 99 
+ pubmbo15.ods: Middelbaar beroepsonderwijs  115 
+ pubhbo15.ods:  Hoger beroepsonderwijs 129 
+ pubwo15.ods:   Wetenschappelijk onderwijs 141 
+ stromen15.ods: Stroomplaatjes in aantallen en fracties  153 
+  
+Bijlage 1: Bronvermelding van gebruikte basisgegevens 203 
+Bijlage 2: Lijst met begrippen en afkortingen  204 
+Bijlage 3: Opleidingsniveau van de bevolking 209 
+Bijlage 4: Opstellers van deze publicatie 211 
+ 
+Referentieraming 2015 ii

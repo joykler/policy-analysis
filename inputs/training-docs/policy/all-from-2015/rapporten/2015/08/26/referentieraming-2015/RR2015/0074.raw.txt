@@ -1,0 +1,58 @@
+pubhfd14.ods: pubmbo14.ods:
+tabel 1.1 Bevolkingsprognose 2010, mannen plus vrouwen 4.1.a Aantal leerlingen in het mbo
+tabel 1.2 De raming per sector samengevat 4.1.b Aantal leerlingen in het mbo, RR91 t/m RR2012
+tabel 1.3.a Ontwikkelingen in de onderwijsdeelname, totaal 4.1.c Aantal leerlingen in het mbo, de ramingsonzekerheid
+tabel 1.3.b Aandeel van vrouwen in leerlingen/studenten 4.1.d Percentage vrouwen in het beroepsonderwijs
+tabel 1.4.a Uitkomsten Referentieraming 2012 (beleid) 4.1.e Aantal gediplomeerden  in het beroepsonderwijs
+tabel 1.4.b Uitkomsten Referentieraming 2012, geindexeerd op 2011/12 4.1.f Aantal leerlingen  in het  beroepsonderwijs naar leeftijd
+tabel 1.5.a Aantal leerlingen en studenten bekostigd door OCenW 4.2.a Instroom in het beroepsonderwijs, naar onderwijssoort
+tabel 1.5.b Aantal leerlingen en studenten groen onderwijs 4.2.b Instroom in het mbo, naar onderwijssoort en herkomst
+tabel 1.5.c Totaal aantal leerlingen en studenten, inclusief groen ow. 4.3.a Uitstroom uit het beroepsonderwijs, naar onderwijssoort
+tabel 1.5.d Ontwikkeling aantal leerlingen en studenten t.o.v. 2000 4.3.b Uitstroom uit mbo, naar onderwijssoort en bestemming
+tabel 1.5.e Ontwikkelingen onderwijsdeelname, inclusief groen onderwijs
+tabel 1.6.a Doelgroep sf : aantal leerlingen/stud. vt-onderwijs, 17-26 jaar
+pubhbo14.ods:
+tabel 1.6.b Doelgroep sf : aantal leerlingen/stud. vt-onderwijs, 17-29 jaar 5.1.a1 Aantal studenten in het hbo
+tabel 1.7 Schoolverlaters voltijd-onderwijs, naar schoolsoort 
+5.1.a2 Aantal hbo-studenten naar sector 
+en diplomabezit
+tabel 1.8.a Overgangen in fracties 5.1.b Aantal studenten in het hbo, RR91 t/m RR2012
+tabel 1.8.b Overgangen in aantallen 5.1.c Aantal studenten in het hbo, de ramingsonzekerheid
+tabel 1.9 Ontwikkeling opleidingsniveau bevolking 5.1.d Percentage vrouwen in het hbo
+5.1.e1 Aantal gediplomeerden in het hbo
+5.1.e2 Aantal gediplomeerden hbo naar sector 
+pubpo14.ods:
+Tabel 2.1.a Aantal leerlingen primair onderwijs 5.1.f Aantal studenten in het hbo, naar leeftijd
+Tabel 2.1.b Aantal leerlingen primair onderwijs in RR93 t/m RR2012 5.2.a1 Instroom in het hbo
+Tabel 2.1.c Aantal leerlingen primair onderwijs: de ramingsonzekerheid 5.2.a2 Instroom in het hbo naar sector
+Tabel 2.1.d Percentage meisjes in het primair onderwijs 5.2.b Instroom in het hbo naar herkomst
+Tabel 2.1.e Aantal leerlingen primair onderwijs, naar leeftijd 5.3.a Uitstroom uit het hbo
+Tabel 2.2.a Instroom primair onderwijs, naar onderwijssoort 5.3.b Uitstroom uit het hbo, naar bestemming
+Tabel 2.2.b Instroom primair onderwijs, naar onderwijssoort 
+en herkomst
+Tabel 2.3.a Uitstroom primair onderwijs, naar onderwijssoort
+pubwo14.ods:
+Tabel 2.3.b Uitstroom primair onderwijs, naar onderwijssoort 
+6.1.a1 Aantal studenten in het wo. 
+en bestemming
+6.1.a2 Aantal studenten in het wo naar sector en voltijd/deeltijd. 
+6.1.b Aantal studenten in het wo, RR91 t/m RR2012
+pubvo14.ods:
+Tabel 3.1.a Aantal leerlingen voortgezet onderwijs 6.1.c Aantal studenten in het wo, de ramingsonzekerheid
+Tabel 3.1.b Aantal leerlingen voortgezet onderwijs in RR93 t/m RR2012 6.1.d Percentage vrouwen in het wo
+Tabel 3.1.c Aantal leerlingen voortgezet onderwijs: de ramingsonzekerheid 6.1.e1 Aantal gediplomeerden in het wo.
+Tabel 3.1.d Percentage meisjes in het voortgezet onderwijs 6.1.e2 Aantal gediplomeerden in het wo, naar sector.
+Tabel 3.1.e Gediplomeerden voortgezet onderwijs 6.1.f Aantal studenten in het wo, naar leeftijd. 
+Tabel 3.1.f  Aantal leerlingen voortgezet onderwijs, naar leeftijd 6.2.a1 Instroom in het wo, naar onderwijssoort.
+Tabel 3.2.a Instroom voortgezet onderwijs, naar onderwijssoort 6.2.a2 Eerstejaars HO-bachelor in het wo
+Tabel 3.2.b Instroom voortgezet onderwijs, naar 
+6.2.a3 Eerstejaars HO-master in het wo
+onderwijssoort en herkomst
+Tabel 3.3.a Uitstroom voortgezet onderwijs, naar onderwijssoort 6.2.b Instroom in het wo, naar onderwijssoort en herkomst.
+Tabel 3.3.b Uitstroom voortgezet onderwijs, naar 
+6.3.a Uitstroom uit wo naar onderwijssoort. 
+onderwijssoort en bestemming
+6.3.b Uitstroom uit wo, naar onderwijssoort en bestemming
+ 
+ 
+Referentieraming 2015 70

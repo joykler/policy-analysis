@@ -1,0 +1,71 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+dan menigeen denkt. De informatie wordt immers in groter verband en door getrainde professionals op 
+zijn merites beoordeeld. 
+ 
+Gewoonlijk wordt onderscheid gemaakt tussen informatie (ruwe data) en inlichtingen. De veelheid aan 
+ruwe informatie krijgt waarde als deze na verschillende selecties met elkaar en met reeds bestaande 
+inzichten en hypothesen wordt gecombineerd en op basis daarvan wordt geanalyseerd en omgezet in 
+inlichtingen.  
+Inlichtingen zijn derhalve gevalideerde, in samenhang gepresenteerde gegevens, vaak afkomstig uit 
+meerdere bronnen. Zij zijn het product van volgens een bepaalde werkwijze (inlichtingencyclus) 
+verzamelde en verwerkte informatie. 
+ 
+6
+De wijze waarop er wordt gecommuniceerd en met informatie wordt omgegaan is de laatste jaren 
+sterk veranderd. Vroeger werd informatie veelal in geschreven vorm vastgelegd en verliep de 
+communicatie veelal in briefvorm. Dat veranderde in de afgelopen eeuw. De telegraaf, radio, telefoon 
+en fax vormden de eerste grootschalige toepassingen van het elektromagnetisme en later de 
+elektronica. Door de opkomst van nieuwe informatie- en communicatietechnologie (ICT) heeft 
+informatiedeling en communicatie niet alleen vele nieuwe vormen aangenomen (e-mail, chat, tweet, 
+cloudcomputing) maar verloopt het ook via nieuwe routes op kabels, en via de ether in verschillende 
+vormen van frequenties en modulaties.  
+ 
+De revolutie in ICT heeft het vervolgens mogelijk gemaakt om grote hoeveelheden data op te slaan, te 
+ver- en bewerken, te transporteren en in toenemende mate te vercijferen. In feite gaan, sinds de 
+introductie van de glasvezelkabel als transportmedium en het internet, de ontwikkelingen op het 
+terrein van informatie en communicatie steeds sneller en groeit het nieuwe domein van cyber 
+exponentieel. De aard van de informatie verandert en wordt steeds complexer. In het cyberdomein 
+wordt niet alleen geïnformeerd, maar ook gestuurd, gecontroleerd en soms ook gemanipuleerd. Meer 
+en meer wordt het cyberdomein het hart- en vaatstelsel van de maatschappij. Zo zijn mondiale 
+ontwikkelingen inmiddels 24 uur per dag, real time, en via een grote hoeveelheid aan middelen 
+inzichtelijk voor (potentieel) iedereen ter wereld. De wereld wordt hierdoor in zeker opzicht steeds 
+kleiner. Dit schept ontelbare nieuwe mogelijkheden en uitdagingen op bijvoorbeeld politiek, cultureel 
+en economisch terrein. Het versterkt ook wederzijdse afhankelijkheden en creëert soms zelfs 
+tegenstellingen. Naast nieuwe mogelijkheden en uitdagingen veroorzaakt de voortschrijdende 
+technologie ook nadelen. 
+ 
+De steeds ‘digitaler’ benutte infrastructuur schept nieuwe kwetsbaarheden: dreigingen van cybercrime 
+en cyberspionage nemen toe, als gevolg waarvan grondrechten (zoals het recht op privacy) eerder 
+geschonden kunnen worden. 
+De digitalisering van informatieverwerking en communicatie zal zich in de (nabije) toekomst verder 
+doorzetten. Dit zal gepaard gaan met een sterke toename (in aantal, diversiteit, complexiteit en 
+dynamiek) van datacentra en elektronische communicatienetwerken. (Glasvezel)kabelnetwerken 
+vormen nu al de spil van de wereldwijde elektronische communicatie en verzorgen het overgrote deel 
+van het communicatieverkeer. 
+Steeds meer netwerken zullen in staat zijn om IP-verkeer af te handelen waarbij de daadwerkelijke 
+transportroute van de uitgewisselde informatie (het verkeer) wordt bepaald door vraag en aanbod. 
+Communicatieverkeer (bijvoorbeeld IP-pakketten) verloopt in toenemende mate en ook in wisselende 
+samenstelling (pakketjes), afwisselend (ook wat betreft verschillende providers) door de ether en 
+kabelnetwerken.  
+ 
+Deze ontwikkelingen in het informatie- en communicatielandschap gaan in de nabije toekomst leiden 
+tot een toenemende dekking van de digitale snelweg over de wereld en een daarmee gepaard gaande 
+afhankelijkheid van overheid, burgers, samenlevingen en markten van die snelweg. Die vergrote 
+afhankelijkheid brengt als gezegd ook risico’s met zich mee. De privacy van burgers blijkt keer op keer 
+kwetsbaar vanwege het open karakter van bijvoorbeeld het internet dat gebruik maakt van deze 
+digitale infrastructuur. Het beschermen van die privacy van de burger is in de virtuele, digitale wereld 
+veel lastiger dan in de fysieke wereld.  
+ 
+Ook het beschermen van vitale economische of bedrijfsbelangen is in een digitale omgeving lastiger. 
+Het beveiligen van belangen en rechten van burgers en bedrijven wordt in de digitale wereld nog 
+verder bemoeilijkt door het toenemende gebruik van versleuteling van gegevens (encryptie). Het 
+gebruik van deze technologie neemt sterk toe vanwege de behoefte zich te beschermen tegen toegang 
+van anderen tot gevoelige informatie. Er is voor veel particuliere en publieke gebruikers alle reden om 
+de beveiliging van elektronische communicatie te verbeteren en op verschillende manieren vorm te 
+                                                
+6 Onderstaand gedeelte is overgenomen uit hoofdstuk 5.2. van het Rapport van de Evaluatiecommissie.  Evaluatie Wet op de 
+inlichtingen- en veiligheidsdiensten 2002: Naar een nieuwe balans tussen bevoegdheden en waarborgen, december 2013. Voor de 
+bijbehorende noten zij verwezen naar dit rapport. 
+ 
+Pagina 52 van 94

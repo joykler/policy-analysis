@@ -1,0 +1,43 @@
+Bijlage 1  Bronvermelding van gebruikte basisgegevens 
+ 
+1. Strategische stromen 
+Dit betreft een deelverzameling uit de onderwijsmatrices 1983 t/m 2013, bestaande uit een 
+geselecteerd aantal herkomsten en bijbehorende stroomaantallen. Het betreft de volgende 
+herkomsten: bao (naar groep), so, vso, de eerste twee gemeenschappelijke leerjaren in het 
+vo, gediplomeerden voltijd-onderwijs naar onderwijssoort, bevolking buiten alle onderwijs.  
+Bron : 1983 t/m 1990: CBS-onderwijsmatrices, met uitzondering van 
+instroomgegevens van bbl (uit OVL-tellingen); herkomst-aantal-
+len bao naar groep zijn geschat op basis van bestanden bao 
+naar leeftijd. 
+1991 t/m 2013: DUO-onderwijsmatrices; vanaf het jaar 2010 is een vernieuwde 
+onderwijsmatrix gebruikt (zie hieronder) 
+ 
+2. Onderwijsmatrices 2010-2013 
+De volledige DUO-onderwijsmatrix 2010 t/m 2013, die door DUO in samenwerking en 
+overleg met het CBS en het OCW-kerndepartement zijn geproduceerd.  
+Ten opzichte van oudere onderwijsmatrices is nu de specificatie van de onderwijssoorten in 
+de herkomst- en bestemmings-dimensie sterk uitgebreid. Verder zijn nu naast geslacht ook 
+als dimensies toegevoegd: 
+a) leeftijd (o.b.v. geboortejaren) en 
+b) etniciteit (= herkomstcategorie volgens de CBS-definitie, onderverdeeld in autochtoon, 
+westers autochtoon en niet-westers allochtoon; wordt nu nog niet gebruikt in de raming). 
+Bron voor al deze stroomgegevens zijn BRON-bestanden, d.wz. de op onderwijsnummers 
+gebaseerde basisbestanden van DUO-Groningen. Deze bestanden zijn door DUO-
+Zoetermeer bewerkt tot zgn. “1 cijfer-bestanden”, die t.b.v. de onderwijsmatrix-productie 
+gekoppeld zijn met de 1 cijfer-bestanden van het voorafgaande schooljaar. 
+Omdat het BRON-bestand 2009/10 voor PO nog niet compleet beschikbaar was, moesten de 
+stroomgegevens van PO in onderwijsmatrix 2010 nog deels geschat worden. 
+Onderwijsmatrix 2011 is de eerste onderwijsmatrix die volledig is gebaseerd op 
+onderwijsnummer-gegevens. 
+ 
+3. Telgegevens 
+De telgegevens, d.w.z. de per jaar getelde aantallen leerlingen/studenten, komen voort uit 
+de hierboven genoemde 1 cijfer bestanden. Ze maken als randtotalen onderdeel uit van de 
+onderwijsmatrices. De aantallen leerlingen/studenten in 2013/14 en aantallen 
+gediplomeerden in 2012/13 betreffen voorlopige tellingen 
+ 
+4. Bevolkingsraming 
+Dit betreft de historische bevolkingsaantallen t/m 1 januari 2014 van het CBS en de  
+bevolkingsprognose 2014-2060. 
+ 
+Referentieraming 2015 203

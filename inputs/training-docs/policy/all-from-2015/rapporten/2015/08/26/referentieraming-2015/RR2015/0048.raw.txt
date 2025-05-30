@@ -1,0 +1,21 @@
+Hoofdstuk 3 De opbouw van de raming 
+ 
+  
+De jaarlijkse opbouw van de raming volgt onderstaand schema: 
+a) RR..(standaard) = de raming met verwerking van de veranderingen zoals beschreven 
+in Hoofdstuk 4, maar zonder enige correctie; 
+b) RR..(autonoom) = RR..(standaard) + technische correcties; 
+c) RR..(beleid) = RR..(autonoom) + beleidseffecten die modelmatig verwerkt zijn; 
+  d)  RR..(begroting) = RR..(beleid) + beleidsmatige en/of technische correcties die nog 
+toegevoegd moeten worden om aan te sluiten bij de nieuwe begroting. 
+ 
+3.1 Toelichting op de standaardraming 
+ 
+RR2015 (standaard) is een raming waarbij de standaardmethodiek zonder enige correcties 
+wordt toegepast. Deze methodiek wordt verder toegelicht in paragraaf 4.1. 
+Dezelfde modelinstelling is gehanteerd als in de voorgaande ramingen RR98 t/m RR2014. Dit 
+betekent dat strategische coëfficiënten zijn geëxtrapoleerd met een historische tijdbasis van 
+12 jaar; voor RR2015 betekent dit extrapolatie over de periode 2003 t/m 2014.  
+ 
+ 
+Referentieraming 2015 44

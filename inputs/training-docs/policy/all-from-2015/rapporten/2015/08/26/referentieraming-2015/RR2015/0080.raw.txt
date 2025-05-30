@@ -1,0 +1,59 @@
+so-lom  speciaal onderwijs, schoolsoort lom (leer- en opvoedings-moeilijkheden), is met 
+ingang van 1999/00 opgenomen in het sbao 
+so-mlk  speciaal onderwijs, schoolsoort mlk (moeilijk lerende kinderen), is met ingang 
+van 1999/00 opgenomen in het sbao 
+svo-lom  zie: vso-lom 
+svo-mlk  zie: vso-mlk 
+ 
+vavo  voorgezet algemeen volwassenenonderwijs 
+vbo  voorbereidend beroepsonderwijs (oude naam voor vmbo-KL + vmbo-BL) 
+vboa  voorbereidend beroepsonderwijs, sector groen; bekostigd door EZ 
+vbo-ev  voorbereidend beroepsonderwijs, sector economie en verzorging 
+vbo-t  voorbereidend beroepsonderwijs, sector techniek 
+vmbo  voorbereidend middelbaar beroepsonderwijs, ingevoerd in 1999/00, kan 
+beschouwd worden als de voortzetting van mavo en vbo 
+vmbo-BL vmbo basisberoepsgerichte leerweg 
+vmbo-GL vmbo gemengde leerweg 
+vmbo-KL vmbo kaderberoepsgerichte leerweg 
+vmbo-TL vmbo theoretische leerweg 
+vmbo3+vmbo leerjaren 3 en hoger (inclusief VM2) 
+VM2  vmbo/mbo2 
+vo   voortgezet onderwijs 
+vo-gemeens. vmbo, havo en vwo leerjaren 1 t/m 2 en het gemeenschappelijke derde brugjaar 
+vo-2  havo en vwo leerjaren 4 en hoger, tweede fase voortgezet onderwijs 
+vso  voortgezet speciaal onderwijs 
+vso-lom  voortgezet speciaal onderwijs, schoolsoort lom (leer- en opvoedings-
+moeilijkheden), is met ingang van 1999/00 opgenomen in het vmbo (met name 
+het lwoo) 
+vso-mlk  voortgezet speciaal onderwijs, schoolsoort mlk (moeilijk lerende kinderen), is 
+met ingang van 1999/00 opgenomen in het vmbo (met name het pro) 
+vso  (overig) voortgezet speciaal onderwijs, vallend onder de Wet op de Expertise 
+Centra 
+vt   voltijd 
+vwo  voorbereidend wetenschappelijk onderwijs 
+ 
+wo  wetenschappelijk onderwijs 
+wo-b  wo bachelor 
+wo bd  wo bachelor-diploma 
+wo-m  wo master 
+wo md  wo master- of doctoraal-diploma  
+wo-1  eerstejaars wo-Nederland, d.w.z. ingeschrevenen in wo die nooit eerder in het 
+wo waren ingeschreven 
+woa  wetenschappelijk onderwijs, sector groen; bekostigd door EZ 
+woe  wetenschappelijk onderwijs, sector economische wetenschappen 
+wogm  wetenschappelijk onderwijs, sector gedrags- en maatschappijwetenschappen 
+wogz  wetenschappelijk onderwijs, sector gezondheidszorg 
+wogz-PM wetenschappelijk onderwijs, postdoctorale opleidingen gezondheidszorg 
+won  wetenschappelijk onderwijs, sector natuurwetenschappen 
+won-PM  wetenschappelijk onderwijs, postdoctorale opl. natuurwetenschappen 
+woo-PM  wetenschappelijk onderwijs, postdoctorale lerarenopleiding  
+wor  wetenschappelijk onderwijs, sector rechten   
+wotc  wetenschappelijk onderwijs, sector taal en cultuur 
+wote  wetenschappelijk onderwijs, sector techniek 
+wsns  weer samen naar school 
+wv waarvan 
+ 
+Toevoegingen aan afkortingen: 
+Een nummer achter een van de afkortingen geeft het rangnummer van een leerjaar of 
+ 
+Referentieraming 2015 207

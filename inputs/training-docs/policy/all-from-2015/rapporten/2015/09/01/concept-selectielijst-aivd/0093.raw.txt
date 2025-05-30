@@ -1,0 +1,59 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+Bijlage 3: Lijst gehanteerde afkortingen 
+AIVD    Algemene Inlichtingen- en Veiligheidsdienst 
+A-taak   Verrichten van onderzoek m.b.t. gevaren voor democratische rechtsorde,  
+   veiligheid of gewichtige belangen van de staat 
+BNV   Bureau Nationale Veiligheid 
+BSD   Basisselectiedocument 
+B-taak   Verrichten van veiligheidsonderzoeken 
+BVD   Binnenlandse Veiligheidsdienst 
+CID   Centrale Inlichtingendienst  
+CIO   Chief information officer 
+C-taak   Beveiligingsbevordering 
+CTIVD   Commissie van Toezicht betreffende de inlichtingen- en Veiligheidsdiensten 
+CVD   Centrale Veiligheidsdienst 
+CVIN   Comité Verenigde Inlichtingendiensten Nederland  
+DG AIVD  Plaatsvervangend Directeur-Generaal van de Algemene Inlichtingen- en 
+Veiligheidsdienst (per 1-1-2015) 
+DIV   Documentaire informatievoorziening 
+DMS   Documentmanagement systeem 
+DSP   Documentair structuurplan 
+D-taak   Verrichten onderzoek betreffende andere landen (inlichtingentaak   
+   buitenland)  
+EAR   Enterprise Architectuur Rijksdienst. EAR is de opvolger en vervanger van  
+   MARIJ en sluit aan bij de Nederlandse Overheid Referentie Architectuur  
+   (NORA)  
+E-taak   Verrichten van onderzoek t.b.v. het stelsel bewaken en beveiligen   
+   (rijksdomeinen) 
+GWR   Generiek Waarderingsmodel Rijksoverheid 
+HAIVD Hoofd van de Algemene Inlichtingen- en Veiligheidsdienst (per 1-1-2015 
+Directeur Generaal) 
+ICWIV   Interdepartementale Commissie Wet Inlichtingen- en Veiligheidsdiensten 
+MAVIM   Procesmodeleertool voor het vastleggen van alle processen van de   
+   AIVD en beheertool van het DSP 
+MICIV    Ministeriële Commissie voor de Inlichtingen- en Veiligheidsdiensten  
+MT LID   Management lid van het managementteam 
+NCTV   Nationaal Coördinator Terrorismebestrijding en Veiligheid  
+NBV   Nationaal Bureau voor Verbindingsbeveiliging 
+NSR   Nieuwe selectieaanpak Rijksoverheid 
+PIOFACH  Personeel, Informatie, ICT, Organisatie, Financiën, Algemene Zaken,   
+   Communicatie en Huisvesting 
+PIVOT   Project Invoering Verkorting Overbrengingstermijn 
+PDG AIVD  Plaatsvervangend Directeur-Generaal van de Algemene Inlichtingen- en 
+Veiligheidsdienst (per 1-1-2015) 
+PHAIVD Plaatsvervangend hoofd van de Algemene Inlichtingen- en Veiligheidsdienst 
+(per 1-1-2015 Plaatsvervangend Directeur-Generaal) 
+RAD   Afdeling Registratie- en Archiefdiensten 
+RIO   Rapport institutionele Onderzoeken  
+RMS   Recordmanagementsysteem 
+SIO   Strategisch Informatieoverleg 
+SSA   Semi-statisch archief 
+SIGINT   Een samentrekking van signals intelligence 
+Terra   Trendanalyse & Fenomeenonderzoek  
+VGB   Verklaring van geen bezwaar 
+VO   Veiligheidsonderzoeken 
+WIV   Wet op de inlichtingen- en veiligheidsdiensten  
+WVO   Wet veiligheidsonderzoek (WVO) 
+ 
+Pagina 93 van 94

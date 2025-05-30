@@ -1,0 +1,59 @@
+Bijlage 3  Opleidingsniveau van de bevolking 
+ 
+In het oude leerlingen-ramingsysteem Lector werd de bevolking die geen bekostigd onderwijs 
+volgt (bbao = bevolking buiten alle onderwijs) naar opleidingsniveau geraamd als onderdeel 
+van de Referentieraming. Het betrof de volgende 5 opleidingsniveaus: 
+- geen diploma (basis) 
+- vmbo-diploma (lager) 
+- havo/vwo/mbo-diploma (middelbaar) 
+- hbo-diploma (semi-hoger) 
+- wo-diploma (hoger). 
+Dit model ging uit van een opleidingsniveau-verdeling in een basisjaar (eerst 1990, later 2000) 
+op basis van informatie uit de EBB (Enquete Beroeps Bevolking). In principe kon met dit model 
+de toekomstige opleidingsniveau-verdeling geraamd worden op basis van de jaarlijkse 
+uitstroom uit het bekostigd onderwijs per onderwijssoort (met/zonder diploma). 
+ 
+Het opleidingsniveau van de bevolking wordt echter niet alleen bepaald door het bekostigd 
+onderwijs, maar ook voor een aanzienlijk deel door niet-bekostigd onderwijs. Om de 
+ontwikkeling van de aantallen per opleidingsniveau in de Nederlandse bevolking goed te 
+kunnen ramen bleek daarom een aanpassing noodzakelijk van de basismatrix die ten 
+grondslag lag aan de referentieramingen; deze aanpassing hield in dat in deze basisjaar-matrix 
+binnen de bbao-deelmatrix enkele niet-diagonaal elementen werden geïntroduceerd die een 
+benadering vormden van de opscholing vanuit niet-bekostigd onderwijs. Het bleek daarbij 
+moeilijk om deze opscholing vanuit beschikbare gegevens te onderbouwen, daarom is gekozen 
+voor een mate van opscholing die de ontwikkeling van de aantallen per opleidingsniveau 
+redelijk kon verklaren. 
+ 
+In het nieuwe ramingsysteem Radon wordt jaarlijks uitgegaan van de meest recente 
+onderwijs-matrix. Bij de ontwikkeling van dit nieuwe systeem is bewust afgezien van 
+onderverdeling van de bevolking buiten het bekostigd onderwijs (bbao) naar 
+opleidingsniveaus, omdat: 
+a) dit het proces van de onderwijsmatrix-productie te zwaar zou belasten en 
+b) betrouwbare en gedetailleerde informatie ontbreekt, bijvoorbeeld inzake: 
+- zij-instroom naar opleidingsniveau, 
+ - opleidingsniveau van ongediplomeerde uitstroom, 
+ - opscholing per leeftijd tussen de opleidingsniveaus. 
+Daarom moest nu voor ramingen van de bevolking naar opleidingsniveau een apart model 
+ontwikkeld worden. Dit nieuwe model gaat dan als een satelliet van het ramingsysteem Radon 
+fungeren, waarbij output van Radon als input voor dit model dient.  
+ 
+Dit model voorspelt het opleidingsniveau van de Nederlandse bevolking van 15 t/m 64 jaar. 
+Het model gaat uit van de volgende gegevens: 
+- geraamde aantallen leerlingen/studenten (bekostigd onderwijs) per onderwijssoort en 
+leeftijd uit Radon, voor de historie zijn de naar leeftijd geschatte aantallen volgens 
+Lector gebruikt; 
+- geraamde uitstroom uit het bekostigd onderwijs per onderwijssoort en leeftijd uit 
+Radon, voor de historie is de naar leeftijd geschatte uitstroom volgens Lector gebruikt; 
+- bevolkingsprognose van het CBS per leeftijd, d.i. de prognose die ook in Radon is 
+gebruikt; 
+- bevolking naar opleidingsniveau per leeftijdsgroep volgens CBS, d.i. zo lang mogelijke 
+tijdreeksen uit EBB. 
+ 
+A la Radon/Lector wordt de prognose van een bepaald jaar berekend uit het voorafgaande jaar 
+middels een stroomcoëfficiënten-matrix.  
+T.o.v. Radon/Lector is de onderwijspopulatie in het nieuwe model vertaald van 
+onderwijssoorten naar opleidingsniveaus, m.a.w. iedere leerling/student heeft in dit model een 
+bepaald opleidingsniveau. Dit zijn dezelfde opleidingsniveaus zoals onderscheiden in de geen-
+onderwijs bevolking. 
+ 
+Referentieraming 2015 209

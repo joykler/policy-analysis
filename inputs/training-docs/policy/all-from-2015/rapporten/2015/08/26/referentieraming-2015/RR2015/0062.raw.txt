@@ -1,0 +1,58 @@
+Onderstaande figuur geeft hiervan een voorbeeld: 
+bestemming (2014/15)
+PO VO MBO HBO WO educatie VO-d MBO-d HO-bd HO-md geen ow
+PO 86% 13% 0% 1%
+VO 0% 79% 1% 1% 18% 0% 1%
+MBO 0% 58% 0% 32% 10%
+HBO 1% 75% 1% 14% 1% 9%
+WO 2% 66% 13% 15% 5%
+educatie 2% 55% 0% 18%
+VO-d 5% 49% 25% 15% 0% 6%
+MBO-d 26% 14% 0% 60%
+HO-bd 2% 31% 67%
+HO-md 3% 96%
+geen ow 1% 0% 0% 0% 0% 0% 0% 0% 0%
+ 
+ 
+De meest eenvoudige manier van ramen, uitgaande van deze relatieve onderwijsmatrix is de 
+volgende: 
+- Wanneer bekend is hoeveel leerlingen er aan het begin van het schooljaar zijn, dan kan 
+door vermenigvuldiging met deze matrix het aantal leerlingen aan het einde van het 
+schooljaar worden berekend.  
+- Dit aantal leerlingen aan het einde van het schooljaar is gelijk aan het aantal leerlingen in 
+21
+de verschillende schoolsoorten in het begin van het volgende schooljaar . 
+- Dit aantal leerlingen aan het begin van het schooljaar kan weer worden vermenigvuldigd 
+met de relatieve onderwijsmatrix, waarna het aantal aan het einde van het schooljaar 
+voorspeld wordt. 
+- etc.... 
+ 
+In principe is hetgeen hierboven is geschetst de wijze waarop de leerlingen- en 
+studentenraming in Radon geschiedt. Er komt nog een dimensie bij: de leeftijdsdimensie. In 
+onderstaand plaatje wordt dit weergegeven.  
+Leeftijd
+B
+Stroomkubus
+Bestemming
+(ond.soort)
+Herkomst
+O
+(ond.soort)
+H = Herkomstmatrix (leerlingen per ond.soort en leeftijd, t-1/t)
+B = Bestemmingsmatrix (   ,,       ,,      ,,            ,,      ,,    , t/t+1)
+O = Overgangsmatrix (leerlingenstromen tussen t-1/t en t/t+1)
+ 
+ 
+ 
+In Radon wordt er dus een leeftijd-specifieke onderwijsmatrix gebruikt, d.i. de stroomkubus 
+in bovenstaande figuur. 
+De onderwijsmatrices bevatten ook de dimensies geslacht en etniciteit, waarvan nu alleen 
+geslacht mede wordt gebruikt in de raming.
+                                         
+21
+      In werkelijkheid dient nog een correctie plaats te vinden voor in- en uitstroom. Immers ook wanneer men op school 
+zit, kan men sterven of emigreren. Ook vindt er immigratie plaats. 
+ 
+Referentieraming 2015 58 
+ 
+herkomst (2013/2014)

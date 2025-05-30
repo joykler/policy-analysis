@@ -1,0 +1,58 @@
+De huidige ramingsprocedure 
+Na het basisjaar wordt de prognose nog op een aantal manieren gestuurd.  
+- De raming van de instroom in de bevolking en de uitstroom uit de bevolking (CBS) 
+wordt als randvoorwaarde opgegeven aan het model. 
+- De geëxtrapoleerde strategische coëfficiënten.  
+22
+Er wordt een extrapolatie gemaakt van de strategische stromen . De extrapolatie-
+methodiek is de zogenaamde pseudo-ols methode. Dit is de gewone ols (= kleinste 
+kwadraten) extrapolatie, maar dan zodanig verschoven dat deze door het laatst 
+bekende punt gaat. 
+bao-groep 8 naar lwoo
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+1990 1995 2000 2005 2010 2015 2020 2025 2030
+RR2015 RR2014
+ 
+Alleen de strategische stromen worden geëxtrapoleerd, omdat uit onderzoek is 
+gebleken dat dit type stromen een bepaalde ontwikkeling doormaakt. Voor de niet-
+strategische stromen (bijvoorbeeld zittenblijven) is dit veel minder het geval. 
+e
+DE extrapolatie wordt uitgevoerd t/m het 7 prognosejaar (in RR2015 dus t/m 2021). 
+ 
+Deze geëxtrapoleerde ontwikkeling van stroomcoëfficiënten wordt meer meegeno-
+men in de raming naarmate de verklaarde variantie groter is. Dit geldt m.n. voor de 
+leerplichtige onderwijssoorten. 
+De verklaarde variantie is een maat om aan te geven hoe goed een lijn die door een 
+reeks punten wordt getrokken bij deze punten past. Wanneer al deze punten óp de 
+lijn liggen dan is de verklaarde variantie 100%, en naarmate de punten gemiddeld 
+verder van de lijn afliggen wordt de verklaarde variantie lager. 
+Wanneer de verklaarde variantie hoog is, was in het verleden een duidelijke trend 
+zichtbaar. Aangenomen wordt dat de voorspelling voor de trend in de toekomst dan 
+“sterker” meegenomen dient te worden dan wanneer dat niet het geval zou zijn. 
+  
+Output van Radon (ramingen en scenario’s) 
+Het model is in staat om een groot aantal gegevens op te leveren: 
+- aantallen leerlingen en gediplomeerden 
+- onderwijsdeelname naar leeftijd 
+- instroom naar herkomst / uitstroom naar bestemming 
+- doorstroom (en aan de hand van deze cijfers een inschatting voor de verblijfsduur) 
+- schoolverlaters (hieruit wordt ook een raming van het opleidingsniveau gemaakt), etc. 
+ 
+Instellingen van Radon 
+Binnen Radon dienen de volgende keuzes gemaakt te worden: 
+A. De extrapolatiewijze van de stroomcoëfficiënten: 
+Radon biedt de mogelijkheid om de strategische coëfficiënten op de volgende 
+manieren te extrapoleren: Lineair, Loglineair, Logit en pseudo-lineair (dat is 
+                                         
+22
+      Strategische stromen zijn over het algemeen overgangen tussen de verschillende onderwijssoorten, bijvoorbeeld de 
+leerlingen die met vmbo-diploma doorstuderen in de bol. In het algemeen vertonen deze overgangen een 
+trendmatige ontwikkeling. 
+ 
+Referentieraming 2015 59

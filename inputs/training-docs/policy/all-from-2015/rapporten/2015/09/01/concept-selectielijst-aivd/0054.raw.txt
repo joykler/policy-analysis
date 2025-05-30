@@ -1,0 +1,69 @@
+Selectielijst AIVD en voorgangers vanaf 1946 
+ 
+Met search (art. 26 WIV) wordt de bevoegdheid aangeduid om te verkennen wat de aard van de 
+telecommunicatie is die over bepaalde frequenties in de ether loopt (technische kenmerken) en welke 
+persoon of organisatie de telecommunicatie verzendt (de identiteit van de afzender) ofwel het 
+verkennen van satelliet- en radioverkeer door het (kort) te beluisteren om de aard en de afzender vast 
+te kunnen stellen. Ten tijde van de totstandkoming van de WIV 2002 gebruikte de Militaire 
+Inlichtingendienst (MID, rechtsvoorganger van de MIVD) search om het verkeer op high frequency 
+radiokanalen in kaart te brengen. Die kanalen waren vooral in gebruik bij buitenlandse strijdkrachten. 
+Search werd door de toenmalige ministers aangeduid als het voortraject van gerichte interceptie (art. 
+25)145 en kon tevens ondersteunend zijn voor ongerichte interceptie (art. 27). 
+De searchbevoegdheid werd beperkt tot telecommunicatie via de ether die zijn oorsprong of 
+bestemming in het buitenland heeft. Er was geen binnenlands gebruik van HF-kanalen of 
+satellietcommunicatie die relevant was voor de diensten, aldus de ministers. 
+De WIV bepaalt dat de diensten tijdens het searchen eventuele versleuteling mogen doorbreken en 
+kennis mogen nemen van de inhoud van de communicatie. Dat was volgens de ministers essentieel om 
+de aard en de afzender van de communicatie te kunnen vaststellen. Kennis nemen van de inhoud is 
+dus niet een doel op zichzelf maar slechts een hulpmiddel om een identiteit vast te stellen. 
+Zodra dat is gelukt, mag geen kennis meer worden genomen van de inhoud. Voor search is geen 
+toestemming van de minister vereist, als bedoeld in art. 19 WIV. 
+ 
+De CTIVD constateerde in toezichtrapport nr. 28, 2011 reeds dat twee van de drie gehanteerde 
+searchpraktijken van de MIVD zeer dicht raakten aan (of de facto al neerkwamen op) nieuwe selectie, 
+waarvoor toestemming benodigd is. De CTIVD gaf hierop in overweging te bezien of het, met 
+inachtneming van de privacybescherming, noodzakelijk zou dat aan de MIVD (en de AIVD) ruimere 
+bevoegdheden worden toegekend die beter aansluiten op deze (gewenste) praktijk. 
+ 
+De regeling van interceptiebepalingen (artt. 25 tot en met 27 WIV) is geënt op de praktijk zoals deze 
+meer dan tien jaar geleden gold. De wetgever voorzag eind jaren 90 niet dat het internetverkeer en 
+steeds meer andere vormen van communicatie zich zouden verplaatsen van de ether en de satelliet 
+naar kabelnetwerken. De bedreiging voor de Nederlandse veiligheidsbelangen is de laatste jaren steeds 
+meer op het vlak te liggen van digitale toepassingen en communicatievormen. 
+De explosieve groei van internationale (glasvezel) kabelnetwerken heeft ertoe geleid dat naar schatting 
+circa 80 tot 90% van het internationale dataverkeer nu via vaste netwerkverbindingen verloopt. De 
+huidige juridische mogelijkheden voor ongerichte interceptie door de diensten zijn daardoor 
+gereduceerd tot 10% à 20% van het telecommunicatie- en internetverkeer. Als gevolg van 
+technologische- en geografische beperkingen zijn de diensten in staat om hiervan slechts een zeer 
+gering deel daadwerkelijk te intercepteren. 
+Dit betekent dat grote hoeveelheden relevante informatie al bij voorbaat van onderzoek zijn 
+uitgesloten hetgeen in de visie van de diensten en anderen een risico voor de nationale veiligheid 
+oplevert. Door het snel groeiende verkeersvolume en het afnemende aandeel hiervan ‘op de satelliet’ 
+maar ook door de toename van WiFi-netwerken, nieuwe informatie-infrastructuren, transities van 
+internetprotocollen en ‘nomadisch communicatiegedrag’ nemen de mogelijkheden voor ongerichte 
+maar ook gerichte interceptie snel af, waardoor de vrees ontstond dat de diensten op termijn ‘doof en 
+blind’ dreigden te worden. 
+ 
+De evaluatiecommissie kwam tot de conclusie dat de techniekafhankelijke interceptiebepalingen van de 
+WIV 2002 op basis van het onderscheid tussen de ether en de kabel, niet meer rijmen met de snel 
+voortschrijdende technologische ontwikkelingen op het gebied van dataverkeer en communicatie. De 
+Commissie vond daarom een aanpassing van de interceptiebepalingen, i.e. de artikelen 25 tot en met 
+27, noodzakelijk. De interceptiebepalingen worden daarmee techniekonafhankelijk.  
+De Commissie verbond daaraan wél een verstevigd kader van toestemmingsvereisten en 
+rechtmatigheidstoezicht door de CTIVD en reikte daarvoor ook handvatten aan. 
+ 
+Een voortdurende stroom aan publicaties over internet- en telefoonintercepties (PRISM) gedurende een 
+groot deel van de onderzoeksperiode van de evaluatiecommissie onderstreepten de potentieel 
+vergaande gevolgen van de technologische ontwikkelingen voor de privacy van de burger nog eens. 
+ 
+Het kabinet merkte in zijn reactie op het rapport-Dessens het volgende op.  
+“In zijn algemeenheid wordt aangenomen dat waar het gaat om telecommunicatie, dat hoe dichter bij 
+de inhoud van die communicatie (de ‘content’) wordt gekomen ook de inbreuk groter wordt. Naar het 
+oordeel van het kabinet is het hieraan ten grondslag liggende onderscheid tussen inhoud (content) en 
+niet-inhoud (metadata) niet het enige bepalende element bij het vaststellen van de ernst van de 
+inbreuk en bij het daarop toe te snijden model van toestemming, zoals dat in een mogelijk voor te 
+bereiden wetsvoorstel zal worden neergelegd. Evenzeer is van belang de schaal waarop gegevens 
+worden verzameld en hoe ingrijpend de gehanteerde ontsluitingsmethodiek is voor de privacy van de 
+burger. Bulk interceptie en de toepassing van verfijnde methodieken van metadata-analyse kunnen 
+ 
+Pagina 54 van 94

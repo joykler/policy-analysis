@@ -1,0 +1,64 @@
+Hoofdstuk 4    De techniek rond de Referentieraming 
+ 
+4.1  De werking van het model en de standaardmethodiek 
+ 
+Deze leerlingen- en studentenraming was t/m RR2011 gemaakt met het ramingsinstrument 
+Lector. Met ingang van vorig jaar is het oude ramingsinstrument vervangen door Radon. 
+Zowel Radon als Lector zijn implementaties van een leeftijdsafhankelijk doorstroommodel, 
+gebaseerd op een onderwijsmatrix. In deze paragraaf gaan we in op de werking van het 
+model.  
+ 
+Leerlingenontwikkeling 
+De ontwikkeling van het aantal leerlingen in de verschillende schoolsoorten wordt door twee 
+zaken bepaald:  
+- De ontwikkeling van de bevolking. 
+Deze ontwikkeling is van belang omdat wanneer er meer of minder potentiële leerlingen 
+en studenten zijn (hetzij door meer of minder geboorten, hetzij door meer of minder 
+migratie) dit de deelname aan het onderwijs beïnvloedt. 
+- Ontwikkelingen in de relatieve deelname aan het onderwijs. 
+Deze deelnameontwikkeling bestaat uit:  
+- zogenaamde autonome ontwikkelingen (d.w.z. beleidsarme ontwikkelingen, in het 
+ramingsmodel verdisconteerd middels trendextrapolaties), bijvoorbeeld de 
+toegenomen deelname aan het speciaal onderwijs, doordat er steeds meer naar dit 
+onderwijs werd verwezen); 
+-  beleidsmatige deelnameontwikkelingen (de raming wordt gecorrigeerd voor de 
+verwachte effecten van beleid, bijvoorbeeld de in paragraaf 3.5 beschreven 
+beleidsmatige correctie a.g.v. de invering van het studievoorschot. 
+ 
+Onderwijsmatrix (o-matrix) 
+De kern van Radon is de meest recente onderwijsmatrix. Zo’n onderwijsmatrix geeft voor een 
+bepaald jaar aan welke aantallen leerlingen van de ene schoolsoort naar de andere 
+schoolsoort stromen. Bijvoorbeeld voor vmbo-3 is bekend hoeveel leerlingen blijven zitten, of 
+overgaan naar vmbo-4 of uitstromen en het volgende jaar geen onderwijs volgen. 
+Onderstaande figuur geeft een geaggregeerd beeld van de onderwijsmatrix 2014: 
+ 
+aantallen x 1000
+bestemming (2014/15)
+PO VO MBO HBO WO educatie VO-d MBO-d HO-bd HO-md geen ow
+PO 1371 201 2 9 1586
+VO 4 769 12 7 172 3 9 974
+MBO 0 281 1 157 49 489
+HBO 4 328 4 60 4 40 440
+WO 4 163 31 37 13 248
+educatie 1 18 8 6 33
+VO-d 9 89 45 27 1 11 181
+MBO-d 46 25 0 106 178
+HO-bd 2 29 62 93
+HO-md 1 40 42
+geen ow 189 7 45 42 29 6 17 1 1 12791 13129
+1565 985 479 446 253 33 180 177 93 42 13135
+ 
+De eerste regel in de matrix geeft aan dat van alle leerlingen in het po, er 1371 duizend het 
+volgende jaar nog steeds in het po zitten, 201 duizend zijn doorgestroomd naar het vo, 2 
+duizend het mbo hebben opgezocht en 9 duizend het onderwijs hebben verlaten (naar de 
+bbao = bevolking buiten alle onderwijs). Zo stromen er bijvoorbeeld ook 89 duizend vo-
+gediplomeerden direct door naar het mbo. 
+ 
+Bovenstaande matrix geeft het absolute aantal leerlingen aan dat van de ene schoolsoort 
+naar de andere stroomt. Dit kan ook relatief worden gemaakt door de stroomaantallen te 
+delen door het totaal van een regel (dus het totaal van de herkomst). Het percentage wat 
+dan ontstaat is de “kans” dat een leerling van de ene naar de andere schoolsoort stroomt. 
+ 
+Referentieraming 2015 57 
+ 
+herkomst (2013/2014)
