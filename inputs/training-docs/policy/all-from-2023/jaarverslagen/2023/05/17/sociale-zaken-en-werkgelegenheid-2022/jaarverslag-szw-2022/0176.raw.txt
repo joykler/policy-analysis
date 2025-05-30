@@ -1,0 +1,49 @@
+D. DEPARTEMENTSPECIFIEKE INFORMATIE
+10. Sociale fondsen SZW
+Deze paragraaf presenteert de exploitatiesaldi en vermogensposities van 
+de sociale fondsen. De informatie is bedoeld als achtergrondinformatie bij 
+het jaarverslag. De daadwerkelijke verantwoording van uitgaven en 
+inkomsten van de fondsen vindt plaats via de jaarverslagen van de SVB en 
+UWV. De cijfers in deze paragraaf zijn voornamelijk gebaseerd op informatie 
+van SZW en van het CPB (CEP 2023) en sluiten niet precies aan op de 
+jaarverslagen van UWV en de SVB. Een van de redenen hiervoor is dat SZW 
+een ander boekhoudstelsel (kas-verplichtingenstelsel) voert dan UWV en 
+de SVB (baten-lastenstelsel).
+Exploitatiesaldi
+Een groot deel van de uitgaven aan sociale zekerheid loopt via de sociale 
+fondsen. In tabel 118 en tabel 119 zijn de exploitatierekeningen van de 
+fondsen weergegeven. De arbeidsongeschiktheidsfondsen (Aof en Whk) en 
+de WW-fondsen (Awf en Ufo) worden geïntegreerd weergegeven. Zowel 
+de begrote bedragen als de gerealiseerde bedragen zijn weergegeven in 
+prijzen 2022. Het exploitatiesaldo is het verschil tussen de ontvangsten en 
+de uitgaven van een fonds. Naast de premieontvangsten behoren ook de 
+rijksbijdragen en renteontvangsten tot de inkomsten van een fonds. De 
+uitgaven bestaan naast de uitkeringen voornamelijk uit uitvoeringskosten. 
+Daarnaast vinden tussen de fondsen onderlinge betalingen plaats, 
+bijvoobeeld bij de premies die over uitkeringen worden betaald. Het saldo 
+tussen ontvangen en betaalde onderlinge betalingen is voor de sociale 
+fondsen van SZW negatief, omdat uit deze fondsen ook premies worden 
+betaald voor de zorgverzekering van uitkeringsgerechtigden. Tegenover 
+de uitgave door de sociale fondsen van SZW staan dus inkomsten bij de 
+zorgfondsen.
+Tabel 118 Overzicht sociale verzekeringen SVB 2022 (x € 1 mln)
+Ouderdomsfonds (AOW) Anw-fonds
+Begroting Realisatie Begroting Realisatie
+Premies 22.252 25.519 151 173
+Bijdragen van het Rijk 22.590 20.033 0 0
+Ontvangen onderlinge betalingen 0 0 0 0
+Saldo Interest 23 21 ‒ 3 10
+Totaal Ontvangsten 44.865 45.573 148 183
+Uitkeringen / Verstrekkingen 44.161 44.031 310 309
+Uitvoeringskosten 154 141 9 10
+Betaalde onderlinge betalingen 551 550 19 19
+Totaal Uitgaven 44.865 44.722 338 337
+Exploitatiesaldo 0 851 ‒ 191 ‒ 154
+Bron: SZW (financiële administratie), SVB Jaarverslag 2022 en CPB (CEP 2023).
+Tabel 118 laat zien dat het Ouderdomsfonds een positief exploitatiesaldo 
+had, terwijl in de begroting geen overschot werd geraamd. Dat komt 
+voornamelijk doordat de premie-ontvangsten hoger zijn uitgevallen dan 
+geraamd. De in de begroting geraamde premie-inkomsten waren 
+gebaseerd op de CPB MEV raming uit september 2021. Ten opzichte van die 
+raming zijn de loonontwikkeling en de werkgelegenheid, en daarmee ook 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XV, nr. 1 176
