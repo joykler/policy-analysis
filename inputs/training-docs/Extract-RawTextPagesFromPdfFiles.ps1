@@ -38,15 +38,15 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + " ! Batch process invoked: $F [BatchNr: $BatchNr; BatchedItems: $BatchedItems]..." + $R)
     }
 
-    Add-LoggingMethod 'Info_StartedExportingRawTexts' -Method {
+    Add-LoggingMethod 'Info_StartedExportingRawTextPages' -Method {
 
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + 'Started Exporting raw text from all pdf files...' + $R)
+        Write-Information $($S + 'Started exporting raw-text pages from all pdf files...' + $R)
     }
 
-    Add-LoggingMethod 'Info_ExportingRawTextFromFile' -Method {
+    Add-LoggingMethod 'Info_ExportingRawTextPagesFromFile' -Method {
 
         param($file)
 
@@ -54,7 +54,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+        Write-Information $($S + " * Exporting raw-text pages from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
     Add-LoggingMethod 'Warn_TargetFolderAllreadyExists' -Method {
@@ -68,7 +68,7 @@ $global:Logging = [PSCustomObject]::new()
         Write-Warning $($S + " ! Target-folder allready exists: $F[ $($file.LoggedDir) ]" + $R)
     }
 
-    Add-LoggingMethod 'Warn_ExportRawTextFailed' -Method {
+    Add-LoggingMethod 'Warn_ExportRawTextPagesFailed' -Method {
 
         param($file, $err)
 
@@ -76,7 +76,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Warning $($S + " ! Failed exporting raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
+        Write-Warning $($S + " ! Failed exporting raw-text pages from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
     }
 
 }
@@ -219,7 +219,7 @@ function Export-RawTextFromSourceFile {
             $Logging.Warn_TargetFolderAllreadyExists($TargetFile)
 
         } else {
-            $Logging.Info_ExportingRawTextFromFile($SourceFile)
+            $Logging.Info_ExportingRawTextPagesFromFile($SourceFile)
 
             try {
                 if (-not $TargetFolderExists) {
@@ -231,7 +231,7 @@ function Export-RawTextFromSourceFile {
                 Export-RawText $Source_PdfReader
 
             } catch {
-                $Logging.Warn_ExportRawTextFailed($TargetFile, $_)
+                $Logging.Warn_ExportRawTextPagesFailed($TargetFile, $_)
 
                 if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
                     Remove-Item $TargetFile.Path -Force
@@ -263,7 +263,7 @@ try {
 
 
 
-    $Logging.Info_StartedExportingRawTexts()
+    $Logging.Info_StartedExportingRawTextPages()
     Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
         Export-RawTextFromSourceFile -OnlyUpdateExistingPages |
