@@ -50,5 +50,4 @@ partijen is een combinatie van het soort activiteiten waarvoor zij een
 vergunning hebben en het ‘beheerd vermogen’. Voor verschillende partijen in 
 deze categorie is nader gespecificeerd wat onder ‘beheerd vermogen’ wordt 
 verstaan. Voor beleggingsondernemingen voor eigen rekening was gekozen 
-voor de specificatie ‘eigen vermogen’. De maatstaf ‘minimum aan te houden 
-13
+voor de specificatie ‘eigen vermogen’. De maatstaf ‘minimum aan te houden
