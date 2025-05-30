@@ -41,5 +41,4 @@ geef de beschrijving van een mogelijk nieuwe proceslijn.
 3. Uitbraak Covid-19 in Nederland - fase van inperken 
 (Coronamaatregelen waren gericht op het voorkomen van 
 transmissie van het virus. Versoepelingen van maatregelen, 
-bijv. kinderen met milde verkoudheidsklachten mogen naar 
-79
+bijv. kinderen met milde verkoudheidsklachten mogen naar

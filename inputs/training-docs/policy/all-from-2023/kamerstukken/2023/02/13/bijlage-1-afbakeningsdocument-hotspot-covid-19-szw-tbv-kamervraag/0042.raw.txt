@@ -37,5 +37,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 69 (IG NLA) Toelichting 
-42
+Actor 69 (IG NLA) Toelichting

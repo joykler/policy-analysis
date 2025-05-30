@@ -45,7 +45,4 @@ Op dit moment zijn er twee lege tabellen opgenomen. Je kan meer dan twee
 actoren opnemen. Kopieer dan de tabel. 
 Voor uitvoeringsorganisaties, ZBO’s, etc.: Vul uitsluitend de tabel voor het 
 ambtelijk niveau in. Voor de politieke leiding verwijst u naar het 
-moederdepartement.  
- 
- 
-10
+moederdepartement.

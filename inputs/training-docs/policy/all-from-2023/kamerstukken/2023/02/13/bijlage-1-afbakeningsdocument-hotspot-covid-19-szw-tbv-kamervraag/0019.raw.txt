@@ -41,5 +41,4 @@ Actor 15 (RSO) Toelichting
 Naam van de actor en Corona Team (plv Manager Operatie, Manager Service Center 
 eventuele gebruikte Operatie, Management ondersteuner, Adviseur dienstverlening, 
 afkortingen Medewerker communicatie, Directiesecretaris, HR medewerker, 
-Manager Bedrijfsvoering en een Dienstverleningsmanager) 
-19
+Manager Bedrijfsvoering en een Dienstverleningsmanager)

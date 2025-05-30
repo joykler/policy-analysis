@@ -39,5 +39,4 @@ of anderen oplevert?
  
 Werkproces 18 (RSO) Toelichting 
 Naam Werkproces Uitvoeren schoonmaakdienstverlening in coronatijd 
-Naam Betrokken Actor Corona Team 
-58
+Naam Betrokken Actor Corona Team

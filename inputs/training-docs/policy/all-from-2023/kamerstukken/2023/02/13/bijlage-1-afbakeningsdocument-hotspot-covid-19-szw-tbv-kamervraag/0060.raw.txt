@@ -36,5 +36,4 @@ of anderen oplevert?
 Werkproces 20 (DGSZI / Toelichting 
 BSB) 
 Naam Werkproces Thuiswerkvoorzieningen en huisvesting Resident 
-Naam Betrokken Actor BSB, cluster bedrijfsvoering 
-60
+Naam Betrokken Actor BSB, cluster bedrijfsvoering

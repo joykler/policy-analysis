@@ -42,5 +42,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 41 (DGSZI /PDV) Toelichting 
-30
+Actor 41 (DGSZI /PDV) Toelichting

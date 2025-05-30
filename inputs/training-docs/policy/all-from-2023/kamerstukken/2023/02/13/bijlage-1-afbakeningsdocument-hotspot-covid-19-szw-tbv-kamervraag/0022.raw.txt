@@ -37,5 +37,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 23 (DGSZI / WR) Toelichting 
-22
+Actor 23 (DGSZI / WR) Toelichting

@@ -46,5 +46,4 @@ minder aantrekkelijk wordt ervaren.
  
 7
  Kaleidoscoop is de Nederlandse vertaling van het oorspronkelijk Engelstalige programma High 
-Scope. 
-5
+Scope.

@@ -54,5 +54,4 @@ persoonsgegevens BES en de Algemene verordening gegevensbescherming. Indien
 gegevens worden doorgegeven van Europees Nederland naar Caribisch Nederland, is er 
 derhalve sprake van doorgifte naar verwerkingsverantwoordelijken of verwerkers in een 
 zogeheten derde land in de zin van de AVG. Voor doorgifte geldt in aanvulling op de 
-gebruikelijke eisen voor de verwerking van persoonsgegevens dat er ook aan de 
-91
+gebruikelijke eisen voor de verwerking van persoonsgegevens dat er ook aan de

@@ -46,5 +46,4 @@ wenselijk dat houders van kindercentra en gastouders en basisscholen gegevens ov
 ontwikkeling van een kind bij de instroom naar het basisonderwijs (moment 1) of 
 gedurende de basisschoolperiode (moment 2) kunnen overdragen aan de basisschool. 
 Voorwaarde voor het overdragen van gegevens tussen kinderopvang en scholen is dat 
-wordt voldaan aan de Wet bijzondere persoonsgegevens BES.  
-28
+wordt voldaan aan de Wet bijzondere persoonsgegevens BES.

@@ -40,5 +40,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 35 (DGSZI / SI) Toelichting 
-27
+Actor 35 (DGSZI / SI) Toelichting

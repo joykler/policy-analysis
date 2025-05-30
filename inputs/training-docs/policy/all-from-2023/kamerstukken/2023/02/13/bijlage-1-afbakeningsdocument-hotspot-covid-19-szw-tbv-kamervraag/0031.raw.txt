@@ -40,5 +40,4 @@ hier een tijdsindicatie op en 24515, nr. 600)
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 43 (DGSZI /PDV) Toelichting 
-31
+Actor 43 (DGSZI /PDV) Toelichting

@@ -54,5 +54,4 @@ kader van de uitvoering van het wetsvoorstel
 43
  Dit betreft een informeel nummer. Mogelijk gaat de uitvoeringsorganisatie in de toekomst 
 gebruik maken van het CRIB-nummer (Centraal Registratie Informatie Belastingplichtige). Dit 
-nummer wordt door de Belastingdienst afgegeven aan ieder inwoner en/of belastingplichtige. 
-86
+nummer wordt door de Belastingdienst afgegeven aan ieder inwoner en/of belastingplichtige.

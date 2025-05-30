@@ -38,5 +38,4 @@ aan een gebeurtenis
 Actor 45 (DGSZI / PDV) Toelichting 
 Naam van de actor en Managementteam directie Participatie & Decentrale Voorzieningen 
 eventuele gebruikte (PDV) 
-afkortingen 
-32
+afkortingen

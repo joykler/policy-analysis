@@ -40,5 +40,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 37 (DGSZI / PDV) Toelichting 
-28
+Actor 37 (DGSZI / PDV) Toelichting

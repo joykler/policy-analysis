@@ -41,5 +41,4 @@ aan een gebeurtenis
  
 2.1.3 Plaatsvervangend Secretaris Generaal (pSG) 
  
-Actor 6 Toelichting 
-15
+Actor 6 Toelichting

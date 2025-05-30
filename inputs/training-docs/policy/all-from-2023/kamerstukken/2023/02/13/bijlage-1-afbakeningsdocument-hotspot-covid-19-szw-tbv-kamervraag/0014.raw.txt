@@ -38,5 +38,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 4 Toelichting 
-14
+Actor 4 Toelichting

@@ -53,5 +53,4 @@ beroepskrachten of gastouders.
  Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 
 betreffende de bescherming van natuurlijke personen in verband met de verwerking van 
 persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 
-95/46/EG (Algemene verordening gegevensbescherming) (PbEU 2016, L 119). 
-74
+95/46/EG (Algemene verordening gegevensbescherming) (PbEU 2016, L 119).

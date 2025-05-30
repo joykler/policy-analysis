@@ -53,5 +53,4 @@ persoonlijke informatie over het kind en de ouders (bijvoorbeeld naam, adres,
  
 42
  Gegevens van de ouders zijn nodig om het kind en de ouders aan elkaar te koppelen en om de 
-toezichthouder op de rechtmatigheid de mogelijkheid te geven tot nacontrole. 
-85
+toezichthouder op de rechtmatigheid de mogelijkheid te geven tot nacontrole.

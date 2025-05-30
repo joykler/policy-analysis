@@ -16,7 +16,4 @@ Bron: https://www.nationaalarchief.nl/archiveren/kennisbank/proces
  
 Zorgdrager 
 Degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden. 
-Bron: http://archiefwiki.org/wiki/zorgdrager   
- 
- 
-119
+Bron: http://archiefwiki.org/wiki/zorgdrager

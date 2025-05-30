@@ -35,5 +35,4 @@ communicatie.
  
 Actor Particulier/niet Toelichting 
 overheid 60 (DGW / KO) 
-Naam en eventuele afkorting VNG 
-114
+Naam en eventuele afkorting VNG

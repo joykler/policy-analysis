@@ -49,5 +49,4 @@ administratievoering en de informatieverstrekking geldt het maximum van categori
 Op dit moment gaat het om de volgende maximum bedragen:  
 - Categorie 2: $ 2.800 
 - Categorie 4: $ 14.000 
-Categorie 5: $ 56.000 
-80
+Categorie 5: $ 56.000

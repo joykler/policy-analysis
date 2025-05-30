@@ -45,5 +45,4 @@ Risico op ontwikkel- en leerachterstanden
 In Europees Nederland is er een CBS-indicator ontwikkeld om het risico op een 
 onderwijsachterstand te bepalen, waarbij gekeken wordt naar het opleidingsniveau van 
 ouders, de verblijfsduur in Europees Nederland, het land van herkomst en de vraag of 
-ouders in de schuldhulpverlening zitten. Van een achterstand is sprake als kinderen door 
-4
+ouders in de schuldhulpverlening zitten. Van een achterstand is sprake als kinderen door

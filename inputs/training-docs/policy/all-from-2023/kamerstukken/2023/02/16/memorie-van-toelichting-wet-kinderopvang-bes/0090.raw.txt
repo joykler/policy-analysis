@@ -50,5 +50,4 @@ gegevensbeschermingseffectbeoordeling kan worden uitgevoerd.
 Risico’s bij gegevensverwerking en maatregelen 
 Aan de verwerking van persoonsgegevens zitten risico’s verbonden voor de rechten en 
 vrijheden van de betrokkenen. Om de gegevensverwerking rechtmatig plaats te laten 
-vinden, dient daarom een duidelijk beeld te zijn van de mogelijke risico’s, zodat deze 
-90
+vinden, dient daarom een duidelijk beeld te zijn van de mogelijke risico’s, zodat deze

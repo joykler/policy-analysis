@@ -38,5 +38,4 @@ Naam van de actor en Afdeling Werkloosheid (W)
 eventuele gebruikte 
 afkortingen 
 Beschrijving van de rol en Opdrachtgever themagroep Werkloosheid Wet (WW), zie actor 47. 
-verantwoordlijkheden 
-23
+verantwoordlijkheden

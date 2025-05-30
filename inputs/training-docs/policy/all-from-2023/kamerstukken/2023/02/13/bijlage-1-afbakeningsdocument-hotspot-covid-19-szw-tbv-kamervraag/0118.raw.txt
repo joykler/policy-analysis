@@ -46,7 +46,4 @@ https://www.nationaalarchief.nl/archiveren/kennisbank/informatieobject.
 Procesnummer 
 Volgnummer van het werkproces zoals vastgelegd in een selectielijst. Bron:  
 https://www.nationaalarchief.nl/archiveren/kennisbank/veelgestelde-vragen-over-
-waarderen-en-selecteren#collapse-446  
- 
- 
-118
+waarderen-en-selecteren#collapse-446

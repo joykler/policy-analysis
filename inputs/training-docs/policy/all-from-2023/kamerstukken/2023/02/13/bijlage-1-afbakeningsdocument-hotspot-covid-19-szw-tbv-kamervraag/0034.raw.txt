@@ -40,5 +40,4 @@ hier een tijdsindicatie op en reguliere overlegstructuur tussen SZW en UWV.
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 50 (DGSZI / SV) Toelichting 
-34
+Actor 50 (DGSZI / SV) Toelichting

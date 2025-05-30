@@ -39,5 +39,4 @@ hier een tijdsindicatie op en
 indien mogelijk koppel deze 
 aan een gebeurtenis 
  
-Actor 28 (DGSZI / WR & SV) Toelichting 
-24
+Actor 28 (DGSZI / WR & SV) Toelichting

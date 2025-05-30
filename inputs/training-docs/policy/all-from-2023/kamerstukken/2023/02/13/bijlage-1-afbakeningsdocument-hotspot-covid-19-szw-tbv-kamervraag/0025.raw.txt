@@ -39,5 +39,4 @@ aan een gebeurtenis
 Actor 30 (DGSZI / WR-CN) Toelichting 
 Naam van de actor en Rijksdienst Caribisch Nederland (RCN-unit SZW) 
 eventuele gebruikte 
-afkortingen 
-25
+afkortingen
