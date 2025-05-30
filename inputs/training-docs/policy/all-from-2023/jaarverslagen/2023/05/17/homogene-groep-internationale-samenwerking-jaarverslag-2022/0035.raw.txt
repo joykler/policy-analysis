@@ -55,5 +55,3 @@ BHOS
 IenW 23.01 Meteorologie, seismologie en aardobservatie (contributie WMO/ECMWF) 35 0 35 XII-23.01
 LNV 21.95 Bijdragen (inter)nationale organisaties (w.o. FAO en UNEP) 4.585 643 5.228 XIV-11.95
 Totaal 780.350 40.645 820.995
-  
-35

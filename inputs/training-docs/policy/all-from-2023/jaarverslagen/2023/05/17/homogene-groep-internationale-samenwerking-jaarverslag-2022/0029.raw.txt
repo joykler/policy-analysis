@@ -31,6 +31,3 @@ XII Infrastructuur en Waterstaat
 23.01 Meteorologie, seismologie en aardobservatie (contributie WMO/ECMWF) 3.387 35 257 0 3.644 35
 98.01 Apparaatsuitgaven (attachés personeel en materieel) 2.340 997 0 3.337
 Totaal 25.568 35 -64 0 25.504 35
- 
-  
-29
