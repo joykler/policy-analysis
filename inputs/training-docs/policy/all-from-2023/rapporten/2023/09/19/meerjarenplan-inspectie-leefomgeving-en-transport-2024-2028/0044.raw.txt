@@ -41,5 +41,4 @@ vervoerssysteem, onder andere via vergunningverlening. Vanwege internationale we
 aandacht aan het toezicht op de onderhoudsbedrijven, de zogenoemde Entities in Charge of Maintenance (ECM).  
 Periodiek controleert de ILT extra op de fysieke kwaliteit van de boven- en onderbouw van het spoor. In 2023 staan hiervoor 
 inspecties gepland. Hierbij gebruikt de ILT drones, wat de veiligheid ten goede komt en het dagelijkse spoorgebruik minder 
-beperkt.  
-44
+beperkt.

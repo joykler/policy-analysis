@@ -25,4 +25,3 @@ uitzonderingen worden weggenomen.
 *
 1.0866 wisselkoers USD, geraadpleegd op 30 juni 2023, via
 ECB
-7
