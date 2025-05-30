@@ -1,0 +1,20 @@
+3.9 Geregistreerde verdachten (unieke personen) naar geslacht en woongemeente 
+3.10a Geregistreerde minderjarige verdachten van misdrijven naar geslacht en delict 
+3.10b Geregistreerde minderjarige verdachten van misdrijven naar geslacht en delict, 
+jongens 
+3.10c Geregistreerde minderjarige verdachten van misdrijven naar geslacht en delict, 
+meisjes 
+3.11a Geregistreerde minderjarige verdachten (totaal) naar delict 
+3.11b Geregistreerde minderjarige verdachten (totaal) naar delict, per 1.000 
+inwoners van 12-17 jaar 
+3.11c Geregistreerde minderjarige verdachten (totaal) naar delict, percentage 
+3.12a Geregistreerde minderjarige verdachten (unieke personen) naar delict 
+3.12b Geregistreerde minderjarige verdachten (unieke personen) naar delict, index 
+2007=100 
+3.12c Geregistreerde minderjarige verdachten (unieke personen) naar delict, per 
+1.000 inwoners van 12-17 jaar 
+3.12d Geregistreerde minderjarige verdachten (unieke personen) naar delict, 
+percentage 
+3.13 Geregistreerde minderjarige verdachten (unieke personen) naar geslacht en 
+woongemeente  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  36

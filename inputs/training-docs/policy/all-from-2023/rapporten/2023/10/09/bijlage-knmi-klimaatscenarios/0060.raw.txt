@@ -1,0 +1,36 @@
+Achtergrond van de klimaatscenario’s voor  Walker-circulatie en zeewatertemperatuur
+de BES-eilanden
+Voor de klimaatscenario’s voor de BES-eilanden zijn dezelfde mondiale klimaat-
+modellen en methodes gebruikt als voor Nederland. Toch is er een verschil. 
+Om de informatie van de mondiale modellen naar Nederland te vertalen is een 
+regionaal klimaatmodel gebruikt, terwijl deze vertaalslag voor de BES-eilanden 
+op statistische wijze is gedaan. Uit de resultaten van de 29 beschikbare modellen 
+voor Caribisch Nederland hebben we een groep van tien natte en een groep van 
+tien droge modellen geselecteerd, waarin de neerslag tot 2100 respectievelijk 
+het meest toe­ en afneemt. De relatief grofmazige gemodelleerde tijdreeksen 
+van de temperatuur en de neerslag, zijn met behulp van meetreeksen nabij de 
+BES-eilanden nabewerkt tot toekomstige reeksen. Voor de BES-eilanden zélf 
+zijn er geen goede meetreeksen, daarom hebben we alternatieven gebruikt: 
+voor de temperatuur was dat een zogeheten heranalyse met een weermodel; 
+voor de neerslag waren dat meetreeksen voor Curaçao (80 km van Bonaire) 
+en Sint Maarten (50 km van St. Eustatius en Saba).
+Net als voor Nederland presenteren we het toekomstige klimaat voor de BES- Figuur 46. Veranderingen van de wind rond de evenaar (Walker-circulatie) en zeewatertemperatuur 
+tijdens El Niño (boven) en La Niña (onder). Bron: KNMI/NOAA.
+eilanden apart per seizoen. Terwijl in Nederland vooral de temperatuur bepaalt 
+welk seizoen het is, is dat op de BES-eilanden de neerslag. Daarom maken we 
+voor Caribisch Nederland onderscheid tussen het natte seizoen (mei­ november) 
+en het droge seizoen (december­ april).
+El Niño en La Niña zijn klimaatpatronen rondom de evenaar in de Grote Oceaan. 
+Zij hebben invloed op de wereldwijde luchtstromingen die worden aangedreven 
+door schommelingen van de zeewatertemperatuur in de tropische Grote Oceaan. 
+Bij La Niña is de zeewatertemperatuur in het oosten lager dan normaal. Boven 
+het westen van de oceaan en boven het Caribisch gebied stijgt de lucht; boven het 
+midden van de oceaan daalt de lucht (figuur 46). Daartussen zijn er in de lagere en 
+hogere luchtlagen oosten­ of westenwinden. Deze zogeheten Walker­ circulatie is 
+bij La Niña naar het westen verschoven. Waar de lucht stijgt, zoals in het Caribisch 
+gebied, valt veel neerslag; waar de lucht daalt, valt weinig neerslag. Bij El Niño 
+warmt het oosten van de oceaan op, waardoor de Walker­ circulatie naar het 
+oosten verschuift. De lucht stijgt boven het midden van de oceaan en daalt boven 
+het Caribisch gebied. Hierdoor is er op de BES-eilanden bij El Niño minder neerslag 
+dan bij La Niña.
+KNMI’23-klimaatscenario’s Achtergrond informatie 60

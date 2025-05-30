@@ -1,0 +1,26 @@
+Kerncijfers voor vijf locaties 
+Locaties Indicator Klimaat 1991-2020  2050 (2036­ 2065) 2100 (2086­ 2115)
+= referentie periode
+Ld Ln Hd Hn Ld Ln Hd Hn
+De Bilt Aantal zomerse dagen (max temp ≥ 25°C) per jaar 28 dagen 41 39 52 45 41 39 93 84
+Aantal tropische dagen (max temp ≥ 30°C) per jaar 5,0 dagen 9,4 8,5 13 10 9,4 8,5 35 25
+Aantal vorstdagen (min temp < 0°C) per jaar 53 dagen 39 40 33 30 39 40 11 10
+Aantal ijsdagen (max temp < 0°C) per jaar 6,4 dagen 3,7 3,9 3,1 3,2 3,7 3,9 0,4 0,4
+De Kooy Aantal zomerse dagen (max temp ≥ 25°C) per jaar 11 dagen 15 15 20 18 15 15 48 44
+Aantal tropische dagen (max temp ≥ 30°C) per jaar 1,3 dagen 2,1 2,1 2,9 2,4 2,1 2,1 8,4 6,9
+Aantal vorstdagen (min temp < 0°C) per jaar 35 dagen 25 26 22 20 25 26 7,0 7,0
+Aantal ijsdagen (max temp < 0°C) per jaar 5,9 dagen 3,8 3,6 3,0 2,8 3,8 3,6 0,6 0,4
+Eelde Aantal zomerse dagen (max temp ≥ 25°C) per jaar 24 dagen 38 37 43 39 38 37 80 72
+Aantal tropische dagen (max temp ≥ 30°C) per jaar 5,1 dagen 9,6 9,4 12 9,4 9,6 9,4 28 21
+Aantal vorstdagen (min temp < 0°C) per jaar 63 dagen 48 49 42 40 48 49 16 15
+Aantal ijsdagen (max temp < 0°C) per jaar 9,2 dagen 5,2 5,1 5,0 4,4 5,2 5,1 0,8 0,4
+Vlissingen Aantal zomerse dagen (max temp ≥ 25°C) per jaar 17 dagen 26 24 34 30 26 24 74 67
+Aantal tropische dagen (max temp ≥ 30°C) per jaar 2,3 dagen 4,4 3,9 7,0 5,3 4,4 3,9 19 15
+Aantal vorstdagen (min temp < 0°C) per jaar 20 dagen 12 13 11 9,0 12 13 1,0 1,0
+Aantal ijsdagen (max temp < 0°C) per jaar 3,3 dagen 1,5 1,7 1,1 1,4 1,5 1,7 0,0 0,0
+Maastricht Aantal zomerse dagen (max temp ≥ 25°C) per jaar 36 dagen 55 52 64 56 55 52 108 99
+Aantal tropische dagen (max temp ≥ 30°C) per jaar 7,7 dagen 16 14 20 16 16 14 52 41
+Aantal vorstdagen (min temp < 0°C) per jaar 51 dagen 41 41 32 30 41 41 13 12
+Aantal ijsdagen (max temp < 0°C) per jaar 7,8 dagen 4,3 4,0 3,9 3,3 4,3 4,0 0,2 0,4
+Tabel 6. KNMI’23-scenariotabel voor vijf locaties. De scenariogetallen zijn het gemiddeld aantal dagen per jaar rond 2050 en rond 2100.
+KNMI’23-klimaatscenario’s Kerncijfers voor vijf locaties 63

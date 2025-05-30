@@ -1,0 +1,38 @@
+4.1 Online tabellen 
+4.1 Bij het Openbaar Ministerie ingeschreven misdrijfzaken en genomen beslissingen 
+naar geslacht en minder- en meerderjarigheid 
+4.2 Bij het Openbaar Ministerie ingeschreven misdrijfzaken naar delictgroep 
+4.3 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken naar 
+delictgroep 
+4.4 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken naar soort 
+beslissing 
+4.5 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken: transacties 
+naar delictgroep 
+4.6 Door het Openbaar Ministerie genomen beslissingen in misdrijf­zaken: 
+transacties met als voorwaarde betaling geldsom naar delictgroep 
+4.7 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken: transacties 
+met als voorwaarde leer- of werkproject naar delictgroep 
+4.8 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken: opgelegde 
+strafbeschikkingen naar delictgroep 
+4.9 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken: 
+onvoorwaardelijke beleidssepots naar delictgroep 
+4.10 Bij het Openbaar Ministerie ingeschreven misdrijfzaken met minderjarige 
+verdachten naar delictgroep 
+4.11 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken met 
+minderjarige verdachten naar delictgroep 
+4.12 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken met 
+minderjarige verdachten naar soort beslissing 
+4.13 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken met 
+minderjarige verdachten: transacties naar delictgroep 
+4.14 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken met 
+minderjarige verdachten: transacties met als voorwaarde betaling geldsom naar 
+delictgroep 
+4.15 Door het Openbaar Ministerie genomen beslissingen in misdrijf­zaken met 
+minderjarige verdachten: transacties met als voorwaarde leer- of werkproject 
+naar delictgroep 
+4.16 Door het Openbaar Ministerie genomen beslissingen in misdrijfzaken met 
+minderjarige verdachten: opgelegde strafbeschikkingen naar delictgroep 
+4.17 Door het Openbaar Ministerie genomen beslissingen in rechtbankstrafzaken met 
+minderjarige verdachten: onvoorwaardelijke beleidssepots naar delictgroep 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  40

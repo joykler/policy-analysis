@@ -1,0 +1,50 @@
+5.1 Online tabellen 
+5.1 Door de rechter in eerste aanleg afgedane misdrijfzaken naar geslacht, minder- 
+en meerderjarigheid, soort rechter en eindbeslissing 
+5.2 Door de rechter in eerste aanleg afgedane misdrijfzaken naar delictgroep 
+5.3 Door de rechter in eerste aanleg afgedane misdrijfzaken: schuldigverklaringen 
+naar delictgroep 
+5.4 Door de rechter in eerste aanleg afgedane misdrijfzaken: vrijspraken en 
+ontslagen van alle rechtsvervolging naar delictgroep 
+5.5 Door de rechter in eerste aanleg afgedane misdrijfzaken: schuldigverklaringen 
+met strafoplegging en opgelegde sancties 
+5.6 Door de rechter in eerste aanleg afgedane misdrijfzaken: opgelegde (deels) 
+onvoorwaardelijke vrijheidsstraffen naar delictgroep 
+5.7 Door de rechter in eerste aanleg afgedane misdrijfzaken: opgelegde (deels) 
+onvoorwaardelijke geldboetes naar delictgroep 
+5.8 Door de rechter in eerste aanleg afgedane misdrijfzaken: opgelegde (deels) 
+onvoorwaardelijke taakstraffen naar delictgroep 
+5.9 Door de rechter in eerste aanleg afgedane misdrijfzaken: opgelegde (deels) 
+onvoorwaardelijke straffen naar hoogte of duur van het onvoorwaardelijke deel 
+5.10 Door de rechter in eerste aanleg afgedane misdrijfzaken: detentiejaren van 
+(deels) onvoorwaardelijke vrijheidsstraffen naar delictgroep 
+5.11 Door de rechter in eerste aanleg afgedane misdrijfzaken: gemiddelde 
+detentiedagen van (deels) onvoorwaardelijke vrijheidsstraffen naar delictgroep 
+5.12 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten naar delictgroep 
+5.13 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten naar eindbeslissing 
+5.14 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: schuldigverklaringen naar delictgroep 
+5.15 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: vrijspraken en ontslagen van rechtsvervolging naar delictgroep 
+5.16 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: schuldigverklaringen met strafoplegging en opgelegde sancties 
+5.17 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: opgelegde (deels) onvoorwaardelijke jeugddetenties naar 
+delictgroep 
+5.18 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: opgelegde (deels) onvoorwaardelijke straffen naar hoogte of duur 
+van het onvoorwaardelijke deel 
+5.19 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: opgelegde (deels) onvoorwaardelijke taakstraffen naar delictgroep 
+5.20 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: opgelegde (deels) onvoorwaardelijke geldboetes naar delictgroep 
+5.21 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: detentiejaren van (deels) onvoorwaardelijke jeugddetenties naar 
+delictgroep 
+5.22 Door de rechter in eerste aanleg afgedane misdrijfzaken met minderjarige 
+verdachten: gemiddelde detentiedagen van (deels) onvoorwaardelijke 
+jeugddetenties naar delictgroep 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  45

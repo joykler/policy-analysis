@@ -1,0 +1,10 @@
+2.34 Onveiligheidsgevoelens, volgens POLS 
+2.35 Onveiligheidsgevoelens, volgens de PMB 
+2.36 Onveiligheidsgevoelens, volgens de VMR en de IVM 
+2.37 Onveiligheidsgevoelens, volgens de VM 
+2.38 Onveiligheidsgevoelens, volgens VMR, IVM, VM 
+2.39 Onveiligheidsgevoelens naar leeftijd en geslacht 
+2.40 Onveiligheidsgevoelens naar stedelijkheid woongemeente 
+2.41 Onveiligheidsgevoelens naar politiedistrict, volgens de VM 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  32
