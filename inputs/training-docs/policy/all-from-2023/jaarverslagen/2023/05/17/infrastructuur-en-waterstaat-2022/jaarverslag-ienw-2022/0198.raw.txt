@@ -1,0 +1,47 @@
+Rijkswaterstaat Model (Implementeren van een nieuw ICT-platform voor 
+gebruik in verkeerscentrales) lopen onderzoeken. Het AcICT maakt op basis 
+van een risicoanalyse zelfstandig de afweging welke projecten worden 
+getoetst. Naast de onderzoeken van het AcICT zet IenW bij ICT-projecten ook 
+andere (interne en externe) toetsen in. De BIT-adviezen zijn openbaar en 
+raadpleegbaar via de website van het AcICT.
+2.2 Open standaarden en open source software
+IenW stuurt al jarenlang op het toepassen van Open Source (onder andere 
+op basis van de Open Source strategie van 2011) en, via de IenW Enterprise 
+architectuur, op de verplichte en aanbevolen Open standaarden zoals 
+gepubliceerd door Forum Standaardisatie. De standaarden maken ICT 
+oplossingen daadwerkelijk beter in de praktijk. Binnen IenW helpt daarbij 
+ook de Praktische Toepassing Verplichte Eisen aan Digitale Voorzieningen, 
+en de toepassing van het door IenW zelf ontwikkelde Open Source platform 
+Standaard Platform, dat inmiddels door Logius wordt geëxploiteerd. Door 
+dit soort initiatieven te gebruiken bij inkoop en aanbesteding werkt IenW 
+actief mee aan de invulling van het rijksbeleid. Op basis van de halfjaarlijkse 
+meting Internetstandaarden door Forum Standaardisatie is eind 2022 een 
+start gemaakt met het verbeteren van de naleving van de standaarden in 
+samenwerking met DCO. Tot slot is in de Architectuurboard van IenW 
+afgesproken dat consultaties over standaarden centraal worden 
+gemonitord en dat IenW indien gewenst gezamenlijk zal reageren om bij te 
+dragen aan betere standaarden.
+2.3 Betaalgedrag
+Binnen IenW is 97% van het totaal aantal facturen binnen de betalingsnorm 
+voldaan.
+2.4 Evaluatie van het Audit Committee (AC)
+Naast enkele bredere onderwerpen (regeerakkoord, Werk aan uitvoering) 
+alsook enkele inhoudelijke dossiers (bijv. CIO-oordeel vrachtwagenheffing) 
+is aandacht geschonken aan de verantwoordingseisen van nieuwe 
+programma’s (Nationaal Groeifonds, Herstel- en Veerkrachtplan), de 
+afwikkeling van coronagerelateerde maatregelen, fiscale compliance, en 
+overige comptabele rechtmatigheidsrisico’s. In 2023 voert het AC een 
+zelfevaluatie uit.
+2.5 Normenkader financieel beheer
+Het departementaal toezicht op het normenkader financieel beheer voor 
+de ZBO’s is belegd bij De Directie EigenaarsAdvisering. Het toezien dat het 
+departementale toezicht op het normenkader financieel beheer bij sector­
+wetgeving wordt ingeregeld is belegd bij de beleidsdirectoraten-generaal. 
+De Autoriteit Wonen/ILT toetst samen met Waarborgfonds Sociale 
+Woningbouw aan de hand van een gezamenlijk beoordelingskader het 
+financieel beheer bij de woningbouwcorporaties in opdracht van het 
+ministerie van BZK.
+2.6 Beheer projecten Nationaal Groeifonds
+De fouten en onzekerheden met betrekking tot het Nationaal Groeifonds zijn 
+meegenomen in de foutenevaluatie van deze bedrijfsvoeringsparagraaf.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 198

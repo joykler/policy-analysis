@@ -1,0 +1,53 @@
+Tabel 37 Kengetal: Gemiddelde EU-brede vertraging per vlucht toe te rekenen aan Air Traffic Management (in 
+minuten)
+2017 2018 2019 2020 2021
+Taakstelling vanaf 2000 met herijking voor 
+0,5 0,5 0,5 0,9 0,9
+2002-2006
+Gerealiseerd 0,94 1,83 1,67 0,36 0,47
+Toelichting
+Het Rijk heeft geen directe invloed op het aantal minuten vertraging in het 
+Europese luchtruim. Dit kengetal is een internationaal gemiddelde en wordt 
+bepaald door operationele factoren, zoals capaciteitsplanning, human 
+resource management, weersomstandigheden en stakingen. Dit kengetal 
+geeft bij gebruikelijke verkeersvolumes wel een beeld van de efficiëntie van 
+het luchtvaartbestel.
+Ten tijde van het opstellen van de begroting 2022 en verantwoording 2021 
+waren de waardes over het jaar 2021 nog niet beschikbaar en worden 
+derhalve in voorliggend jaarverslag gepubliceerd. Dit kengetal is niet meer 
+in de begroting 2023 opgenomen, zie hiertoe de leeswijzer.
+Tabel 38 Kengetal: Gemiddelde ATFM-vertraging per vlucht
+2017 2018 2019 2020 2021
+Grenswaarde
+Gemiddelde ATFM-vertraging 
+(en route en airport) per vlucht in 2 2 2 2 1,46
+minuten per vlucht gerealiseerd
+Gerealiseerd
+Gemiddelde ATFM-vertraging 
+(airport) per vlucht in minuten 
+3,22 2,19 3,88 1,3 0,56
+per aankomende vlucht volgens 
+de PRB methode
+Toelichting
+Dit kengetal heeft betrekking op de gemiddelde vertraging op Nederlandse 
+luchthavens. Het merendeel van de vertragingen treedt op in de termi­
+nalfase van een vlucht en wordt veroorzaakt door weersomstandigheden 
+(storm, mist, sneeuw) die een direct negatief effect hebben op de 
+afhandeling van de starts en landingen in de vluchtfase beneden een hoogte 
+van een kilometer.
+LVNL hanteert met ingang van 2015 dezelfde systematiek als de 
+Performance Review Body om vertragingen te meten. Verder heeft LVNL in 
+2015 de vertragingswaarden vanaf 2010 herberekend volgens de PRB-
+systematiek om de effecten van de wijziging van de meetsystematiek 
+transparant weer te geven. Er is uitsluitend sprake van een technische 
+wijziging in de meetsystematiek zonder een beleidsmatige impact.
+Ten tijde van het opstellen van de begroting 2022 en verantwoording 2021 
+waren de waardes over het jaar 2021 nog niet beschikbaar en worden 
+derhalve in voorliggend jaarverslag gepubliceerd. Dit kengetal is niet meer 
+in de begroting 2023 opgenomen, zie hiertoe de leeswijzer.
+Met betrekking tot de gegevens over 2021 was het verkeersaanbod van 
+aankomende vluchten op Schiphol in dat jaar significant lager dan in 2019 
+en 2020. Overaanbod of piekvorming zijn in 2021 minder vaak 
+voorgekomen, waardoor er minder regulaties nodig waren. Dit leidde tot 
+minder airport-ATFM-vertraging.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 93

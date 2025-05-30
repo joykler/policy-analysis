@@ -1,0 +1,51 @@
+prestatieverantwoorders beter aan te sturen en op te leiden zijn.
+De audits contractbeheersing laten zien dat de contractbeheersing van de 
+uitgaven «niet systeem gerichte contractbeheersing» van onvoldoende 
+niveau is en dat de in voorgaande jaren voorgenomen verbeteracties nog 
+niet tot de beoogde verbetering hebben geleid. Belangrijke oorzaak is het 
+niet voldoende kunnen aantonen/zichtbaar maken dat prestaties geleverd 
+en gecontroleerd zijn. Deze tekortkomingen worden opgepakt in het verbe­
+tertraject kwaliteit prestatieverklaringen.
+1.3.10 Kwaliteit ramingen infrastructuurprojecten
+De Algemene Rekenkamer (AR) heeft in het kader van hun verantwoor­
+dingsonderzoek over 2021 onderzoek verricht naar de kwaliteit van de 
+ramingen bij de uitvoering van infrastructuurprojecten door RWS. De AR 
+heeft een drietal aanbevelingen gedaan die betrekking hebben op de 
+sturings- en verantwoordingsinformatie voor mijlpaalplanningen, de 
+expliciete en gemotiveerde melding aan het parlement wanneer besluiten 
+afwijken van de Spelregels MIRT en de gevolgen hiervan, en informatie uit 
+de nacalculatie van projecten bij de verantwoording over infrastructuurpro­
+jecten.
+De afspraken hierover zijn opgenomen in een brief van 20 september 2022 
+aan de Tweede Kamer over het MIRT Overzicht 2023, Deltaprogramma 2023 
+en de geactualiseerde Spelregels van het MIRT. Hierin is onder andere 
+opgenomen dat IenW, RWS en ProRail gezamenlijk onderzoeken hoe het 
+planningsproces beter kan worden beheerst, bijvoorbeeld door expliciete 
+eisen te stellen aan de onderbouwing van planningen en daarover te laten 
+verantwoorden. Tevens dat na de Bestuurlijke overleggen MIRT de Kamer 
+per brief wordt geïnformeerd over de uitkomsten van de overleggen, 
+inclusief de afsprakenlijst als bijlage. Zoals afgelopen jaren gebruikelijk, 
+wordt in de afsprakenlijst opgenomen wanneer er afgeweken wordt van 
+de spelregels. Dit gebruik wordt voortgezet. En tot slot dat in het MIRT 
+Overzicht voortaan bij de opgeleverde projecten en programma’s het gerea­
+liseerde budget wordt afgezet tegen het oorspronkelijke budget uit het 
+startjaar. Dit is reeds te zien in het MIRT Overzicht 2023.
+1.4 Overige aspecten van de bedrijfsvoering
+De belangrijkste beinvloedbare tekortkomingen en risico's in de bedrijfs­
+voering hebben betrekking op ICT.
+Voortgang op onvolkomenheden Algemene Rekenkamer (AR)
+1.4.1 Informatiebeveiliging
+Op het vlak van Informatiebeveiliging zijn in 2022 verdere stappen gezet. Zo 
+is in 2022 een IenW Cybersecurity Strategie ontwikkeld. Deze strategie sluit 
+aan op de Nederlandse Cybersecurity Strategie. In de strategie wordt 
+uitvoering gegeven aan de ambitie: «digitale veiligheid voor IenW-Concern 
+en sectoren waarvoor IenW een systeemverantwoordelijkheid heeft, is 
+een vanzelfsprekendheid». Met de strategie wordt toegewerkt naar een 
+toekomst waarin de scheefgroei tussen digitale dreiging en digitale 
+weerbaarheid minder groot is. Daarnaast zijn belangrijke stappen gezet in 
+het wegwerken van de onvolkomenheid die de AR heeft geconstateerd op 
+het gebied van inrichting, monitoring en sturing op risicomanagement en 
+incidentmanagement. Belangrijke resultaten waren onder meer:
+– een procedure voor incidentmanagement en incidentescalatie;
+– een centraal register voor incidenten/risico’s en kritieke systemen; en
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 196

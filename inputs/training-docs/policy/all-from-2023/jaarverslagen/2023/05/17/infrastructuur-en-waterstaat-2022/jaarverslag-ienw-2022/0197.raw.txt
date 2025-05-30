@@ -1,0 +1,48 @@
+– periodieke risicogesprekken tussen de departementale CISO en de 
+CISO’s van de dienstonderdelen.
+Natuurlijk is er nog wel werk te doen. Met name de vulling van het overzicht 
+kritieke systemen behoeft nog wel verbetering. Zo zijn onderliggende 
+documenten (zoals risicoanalyses en beveiligingsonderzoeken) veelal nog 
+niet beschikbaar. IenW gaat daar in 2023 aan werken.
+1.4.2 Lifecyclemanagement
+Het proces rond lifecycle management (LCM) is in 2022 verder dooront­
+wikkeld. De werkgroep LCM, waarin alle dienstonderdelen zijn vertegen­
+woordigd, is gehangen onder de nieuw ingerichte IV-portfolioboard. De 
+board monitort de voortgang, draagt bij aan producten en geleidt waar 
+nodig door naar de CIO-raad voor besluitvorming.
+Na een eerste LCM-rapportage in 2021 op hooflijnen, is in 2022 gewerkt aan 
+een uitgebreider format op basis van de LCM-rapportages van de dienst­
+onderdelen; een substantiële verbreding en verdieping. Zo zijn in de 2022-
+rapportage alle applicaties meegenomen, in tegenstelling tot alleen kritieke-
+applicaties in 2021. Met deze rapportage heeft de departementale CIO een 
+verbeterd inzicht en overzicht in het IV-landschap van IenW.
+Naast de LCM-rapportage 2022 stelde de CIO-raad in november ook het plan 
+van aanpak 2022-2024 vast. Dit plan zet stevig in op de borging en verdere 
+professionalisering van het LCM-proces. Ook is er een zelfevaluatie 
+uitgevoerd naar de LCM-volwassenheid van IenW, gebaseerd op de kpi’s uit 
+het rijksbrede LCM-convenant. De uitkomsten zijn besproken in de CIO-raad 
+van december.
+Daarmee zijn de verbeterplannen LCM ingebed in de organisatie.
+2. Rijksbrede bedrijfsvoeringsonderwerpen
+2.1 Grote lopende ICT projecten
+IenW vermeldt, conform rijksbrede afspraken, alle projecten en 
+programma’s met een meerjarige ICT-component van tenminste € 5 miljoen 
+op het Rijks ICT-dashboard. Per 31 december 2022 heeft IenW 31 projecten 
+op het Rijks ICT-dashboard vermeld met de status In uitvoering of Nog niet 
+gestart. Halverwege het jaar rapporteren de dienstonderdelen over majeure 
+wijzigingen en actualiseren, waar nodig, de gegevens op het Rijks ICT-
+dashboard. In 2022 heeft de concerndirectie Informatiebeleid bijeen­
+komsten georganiseerd over het Rijks ICT-dashboard, is de Handreiking 
+Grote ICT-projecten uitgebreid naar aanleiding van het aangepaste 
+handboek Portfoliomanagement Rijk en is het proces voor het actualiseren 
+verder aangescherpt.
+Om de kans van slagen van Grote ICT-projecten te vergroten wordt een CIO-
+oordeel gegeven bij de start van een project en op kritische momenten 
+gedurende het project. In 2022 zijn er 9 CIO-oordelen gegeven met aanbe­
+velingen aan de opdrachtgever.
+Door het Adviescollege ICT-toetsing (AcICT) is in 2022 één advies 
+opgeleverd voor Tijdelijke Tolheffing (Het realiseren van een tijdelijk 
+tolsysteem voor de Blankenburgverbinding en ViA15.). Voor de projecten 
+Vrachtwagenheffing (introductie heffing waarmee het vrachtverkeer voor 
+gereden kilometers gaat betalen) en Common Highway Agency 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 197

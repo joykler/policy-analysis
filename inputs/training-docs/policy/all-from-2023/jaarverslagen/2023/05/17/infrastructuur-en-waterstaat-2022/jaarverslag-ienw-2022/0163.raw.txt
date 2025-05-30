@@ -1,0 +1,63 @@
+C. Indicatoren en Kengetallen
+Tabel 65 Indicatoren Meteorologie, Seismologie en aardobservatie
+Streefwaarde/
+Indicator 2021 Resultaten 2022
+norm
+1. Algemene klanttevredenheid:
+a.     Rapportcijfer voor kwaliteit van ontvangen producten/diensten Overall cijfer ≥ 7,0 8 8,0
+b.     Rapportcijfer voor communicatie over producten/diensten. Overall cijfer ≥ 7,0 7,6 7,3
+2. Weer:
+3x p/d, 365 dagen Beschikbaarheid Beschikbaarheid 
+a.     Beschikbaarheid en frequentie van de dagelijkse weersverwachtingen.
+p/j 365 dagen ≥ 3 365 dagen ≥ 3
+Max. 1 x per jaar 
+0 0
+>8 uur oud
+b. % correct uitgegeven weerswaarschuwingen (codes oranje en rood). ≥ 60%
+i. Het % uitgegeven codes oranje waarbij de bijbehorende meteorologische criteria ≥ 60% 100
+86%
+daadwerkelijk zijn gehaald.
+ii. Het aantal gemiste waarschuwingen voor code oranje als percentage van het totaal aantal ≥ 15% 8
+0%
+weersituaties die voldeden aan criteria voor code oranje
+iii. Het percentage van het algemeen publiek dat het weeralarm (code rood) als passend ≥ 70% 82
+n.v.t.
+heeft ervaren.
+c.     % van het algemeen publiek dat wordt bereikt met weerwaarschuwingen, te 
+≥ 80% 78 88%
+onderzoeken via het imago onderzoek.
+d.     % van het algemeen publiek dat gedrag aanpast na een weerwaarschuwing (code 
+≥ 65% 58 44%
+oranje of rood), te onderzoeken via het imago onderzoek
+3. Klimaat:
+Gemiddeld 1x per 
+a.     Beschikbaarheid klimaatbericht KNMI. 1,6 1,5
+week
+b.     Klanttevredenheid (rapportcijfer) onder gebruikers klimaatproducten KNMI . Overall cijfer ≥ 7,0 7,7 7,0
+4. Seismologie:
+a.     Publicatie bevingen in Nederland met magnitude ≥ 4,5[3] ≥ 98% 100 n.v.t.
+b.     Publicatie bevingen in Groningen met magnitude ≥ 2 ≥ 98% 100 100%
+c.     Percentage burgers dat KNMI op seismologisch gebied als betrouwbaar beschouwt, te 
+≥ 75% 78 78%
+onderzoeken via het imago onderzoek.
+d.     Klanttevredenheid (rapportcijfer) onder gebruikers seismologische producten KNMI. Overall cijfer ≥ 7,0 8,1 7,0
+5. Data beschikbaarheid:
+a.     Beschikbaarheid van en data m.b.t weer en klimaat ≥ 98,5% 99,9 99,54%
+b.     Beschikbaarheid van data m.b.t. seismologie 80%-90% 92,4 91,70%
+6. Luchtvaart meteorologische dienstverlening:
+a.     Rapportcijfer voor kwaliteit van ontvangen producten/diensten Overall cijfer ≥ 7,0 6,9 8,0
+b.     Rapportcijfer voor communicatie over producten/diensten Overall cijfer ≥ 7,0 7,4 7,9
+7. Wetenschappelijk onderzoek
+a.     Aantal wetenschappelijke publicaties[6] ≥ 65 per jaar 111 139
+Toelichting
+1. Algemene klanttevredenheid:
+Deze indicator is een maatstaf voor de kwaliteit van dienstverlening van 
+het KNMI aan haar directe afnemers, zowel aan betalende klanten als 
+gebruikers van publiek-beschikbare data (extranet). De score volgt uit het 
+klantbelevingsonderzoek dat ieder jaar wordt afgenomen onder (professi­
+onele) gebruikers van KNMI producten en data. Bij klanttevredenheid wordt 
+zowel gekeken naar productinhoudelijke als communicatieve aspecten. 
+Het KNMI streeft naar een overall klanttevredenheidscijfer van ≥7,0. Dit is in 
+2022 gerealiseerd.
+2. Weer
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 163
