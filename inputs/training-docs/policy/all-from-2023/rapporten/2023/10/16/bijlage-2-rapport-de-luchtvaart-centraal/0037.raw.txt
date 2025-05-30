@@ -1,0 +1,38 @@
+Indruk omvang en complexiteit luchtvaartsystemen
+Licenties Vluchtsimulators Toelating/Toezicht op bedrijven i.v.m. 
+Nederland 30313 Nederland 42 luchtvaart beveiliging
+Ierland 20576 Ierland 14 Nederland 1500 toelating
+Zweden 9335 Zweden 24 1000 Toezicht
+VK 56440 VK Niet bekend Ierland 330
+Zweden 350+
+VK Niet bekend
+Geregistreerde luchtvaarttuigen Luchthavens Medewerkers Ministerie
+Nederland 1391 Nederland 8 Nederland 213
+Ierland 1231 Ierland 24 Ierland 40
+Zweden 2956 Zweden 44 Zweden 4
+VK 19590 VK 223 VK 170-180
+Luchtvaartbedrijven (AOC) Luchtverkeersleiding organisaties (ATC Medewerkers autoriteit (in NL ILT) in UK, 
+Nederland 60 + Aerodromes providing ATC/Flight Ierland, Zweden CAA
+Ierland 51 information Nederland n/a
+Zweden 49 Nederland 2 Ierland 184
+VK 218 Ierland 1 Zweden 220
+Zweden 19 VK 1651
+VK  2 ATC + 90 + aerodromes providing ATC/
+Flight Information services
+Training organisaties (piloot / 
+Onbemande luchtvaart operators
+maintenance en ATC
+Nederland 39236
+Nederland 103
+Ierland 8226
+Ierland 64
+Zweden 36715
+Zweden 98
+VK 100000+
+VK 164
+Productie en onderhoudsbedrijven Onbemande Luchtvaart licenties
+Nederland 107 Nederland 24112
+Ierland 152 Ierland 14378
+Zweden 122 Zweden 49921
+VK 1018 VK 100000+
+37
