@@ -1,0 +1,25 @@
+Strategisch vastgoedbeleid Defensie  
+ 
+Overzicht defensielocaties en gebouwen per provincie 
+Provincie Locaties Gebouwen 
+ Aantal Oppervlakte Aantal Bruto vloer- 
+(ha) oppervlakte 
+(m2) 
+Groningen  10  1.660  217  58.911 
+Friesland  23  2.174  468  158.514 
+Drenthe  21  2.081  710  310.078 
+Overijssel  21  300  429  311.158 
+Gelderland  64  11.832  2.266  1.227.490 
+Flevoland  2  59  4  3.327 
+Utrecht  43  2.296  1.136  854.960 
+Noord-Holland  63  2.126  1.049  905.228 
+Zuid-Holland  43  523  370  445.776 
+Zeeland  7  16  46  21.197 
+Noord-Brabant  78  7.471  3.148  1.381.496 
+Limburg  42  1.087  698  448.761 
+Buiten Nederland (incl.   69  3.617  784  151.461 
+Caribisch gebied) 
+Totaal  486  35.242  11.325  6.278.357 
+ 
+ 
+ Pagina 22 van 26

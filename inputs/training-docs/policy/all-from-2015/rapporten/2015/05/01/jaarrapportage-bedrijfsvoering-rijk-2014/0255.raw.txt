@@ -1,0 +1,21 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+46.  Invoering trekkingsrecht PGB, voor WMO, AWBZ (WLZ)
+1b. Projectomschrijving
+Het programma is een onderdeel van de fraudeaanpak persoonsgebonden budget (pgb). Het gaat om omvorming van een pgb waarbij cliënten contant geld ontvangen, naar een pgb als 
+trekkingsrecht. Dit kan in belangrijke mate bijdragen aan het verminderen van de mogelijkheden tot fraude alsmede opsporing van fraudeurs. In een beveiligde omgeving krijgt de cliënt toegang 
+tot het pgb en geeft hij de uitvoerder opdracht om een betaling aan zorgverleners te doen. Het trekkingsrecht leidt tot een vergaande digitalisering van de pgb-administratie die het mogelijk 
+maakt om zowel controles vooraf als achteraf uit te voeren en gegevens makkelijker onderling te delen (zowel over de besteding van geld als van frauderende zorgverleners die vanuit het pgb 
+worden betaald).
+Om het trekkingsrecht tot stand te brengen zal in samenwerking met SVB, Zorgkantoren, gemeenten, Zin, CAK en PerSaldo een proces en ICT-systeem ingericht worden om alle huidige PGB 
+houders in de AWBZ regeling pgb (straks Wlz), de Wmo en de Jeugdwet over te laten gaan op het trekkingsrecht. Het programma bij VWS loopt door totdat alle pgb houders zijn overgeheveld 
+naar het systeem van trekkingsrecht en het trekkingsrecht enkele maanden in uitvoering is (1 april 2015). In de laatste periode, vanaf 1 januari 2015, wordt ook nazorg uitgevoerd.
+Voorzien is dat het programma Invoering trekkingsrecht pgb per 1 april 2015 stopt. Voorzien is dat een nieuw project start waarin het stelsel van trekkingsrecht pgb voor Wmo, Jeugdwet Wlz 
+geoptimaliseerd wordt aan de hand van de ervaringen van de ketenpartners en budgethouders.
+1c. Maatschappelijke relevantie
+Naast dat frauderen verboden is en een geloofwaardige rechtsstaat regels handhaaft, kan fraude met collectieve middelen de solidariteit aantasten en leidt het tot financiële schade voor de 
+overheid. Het systeem van trekkingsrecht PGB gaat ten eerste de (georganiseerde) fraude zelf tegen en is daarnaast belangrijk om meer kwetsbare cliënten te beschermen tegen frauderende 
+bemiddelingsbureaus die op eigen gewin uit zijn. Tot slot is het mogelijk om gemakkelijker onderzoek te doen naar de omvang van een geconstateerde fraude.
+Relatie met Regeerakkoord: De aanpak van fraude sluit aan op de doelstelling van houdbare financiering voor de zorg en het tegengaan van verspilling.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 255

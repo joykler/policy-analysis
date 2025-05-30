@@ -1,0 +1,35 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+15-07-14 1.0 nee Vanwege de regierol van VWS op de invoering van het trekkingsrecht is er een programmaplan 
+geschreven in plaats van een projectplan. Hierdoor zijn niet alle items opgenomen die geëist worden in 
+het Handboek Portfoliomanagement Rijk voor projecten met een ICT-component. Een business case is, 
+vanwege de politieke urgentie van het onderwerp, vooraf niet opgemaakt.
+Voor de privacy aspecten is een apart onderzoek (PIA) ingesteld dat inhaakt op de privacy onderzoeken 
+voor de Jeugdwet, de Wmo en de Wlz.
+De planning op hoofdlijnen en de projectbeheersing staan beschreven in het programmaplan. In 
+deelprogramma’s en in programmaplannen van de betrokken organisaties (VNG, ZN, SVB) is nadere 
+uitwerking gegeven aan de onderdelen uit het programmaplan. Het programma voert regie op de 
+implementatie, de communicatie, financiën, governance en quality assurance.
+De ITC-component van het programma richt zich op de aanpassing bij de SVB van de bestaande 
+systemen voor de administratie van PGB’s en het verlenen van de daaraan verbonden werkgever-
+services aan de budgethouders die juridisch als werkgever optreden.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+31-10-14 Audit dienst SVB + Deloitte EDP Audit De EDP audit richt zich naast Security en Performance voor het IT-systeem van de SVB ook op de 
+haalbaarheid van de ingangsdatum van 1 januari 2015. Het betreft enkel de systemen van de SVB en het 
+project TR-PGB van SVB.
+30-09-14 Bureau Gateway Gateway review Programma review 0. Accent op strategie en bereik
+30-05-14 Duthler Associates Privacy Impact Assesment Privacy waarborging gegevensoverdracht voor trekkingsrecht in jeugdwet, Wmo en Wlz naar SVB
+31-03-14 Bureau Gateway Gateway review Programma review 0. Accent op doel en rechtvaardiging
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 1,72 € 4,93 € 2,90
+overige projectkosten € 8,50 € 9,97 € 9,52
+TOTALEN € 10,22 € 14,90 € 12,42
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 256

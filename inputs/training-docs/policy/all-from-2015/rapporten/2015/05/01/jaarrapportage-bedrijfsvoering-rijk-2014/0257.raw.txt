@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+De beheerkosten van de SVB van het stelsel van trekkingsrecht PGB gaan in op 1-1-2015. VWS heeft oktober 2014 een begroting voor de uitvoering van de dienstverlening in 2015 ontvangen.  
+De ICT-beheerkosten worden hierin geraamd op € 2,3 mln. per jaar.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Als cumulatief gerealiseerde meerjarige projectkosten worden de uitgaven (kasstelsel) van VWS als uitgangspunt genomen.
+Onder uitbesteed werk wordt gerekend; de kosten voor het ICT-systeem van de SVB omdat VWS de opdracht bij de SVB heeft neergelegd. 
+Onder overige projectkosten worden gerekend; de kosten voor de programmaorganisatie van VWS die is belast met de aansturing van de implementatie van het trekkingsrecht PGB bij de SVB. 
+De kosten van intern personeel worden niet aan het project toegerekend.
+Ook valt het initieel vullen van het ICT-systeem met de gegevens van de budgethouders onder de overige projectkosten.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Bij de eerste rapportage van dit programma was het programma al wel gestart, maar de oplossingsrichting nog niet geheel uitgewerkt. Mede op basis van aanbevelingen van de CIO is de 
+programmabesturing versterkt, is het programmaplan uitgewerkt en is de inrichting van de programmaorganisatie vormgegeven. Op basis van de nadere uitwerking is de initiële raming 
+uitgesplitst naar kosten met ICT-component (uitbesteed werk) en andere kosten (overige projectkosten). De verklaring van de verschillen in hoogte van de actuele schatting ten opzichte van de 
+initiële kosten bestaat uit:
+- de initiële globale kostenraming van de SVB voor 2013 en 2014 is op basis van de verdere uitwerking van het programmaplan medio 2014 bijgesteld; dit verklaart € 3,1 mln. van het verschil;
+- SVB heeft een tweede aanvullende begroting ingediend wegens een hogere prognose van de (controle)werkzaamheden per budgethouder en per zorgovereenkomst in 2014 ad € 0,4 mln. 
+- de kosten van het programmateam zijn inzichtelijk geworden; de kosten hiervan bedragen voor de gehele periode van het project € 1,2 mln. 
+Op basis van een bijgestelde raming van de SVB ontvangen op 21 november valt het bedrag lager uit dan opgegeven op de laatste rapportage met datum 27 oktober. 
+Vanwege de getroffen terugvalmaatregelen en de uitloop van de initiële invoering in 2015 worden er additionele kosten verwacht van de SVB. Momenteel is er nog geen onderbouwde begroting 
+van de meerkosten beschikbaar.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-08-13 31-03-15 31-03-15
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 257

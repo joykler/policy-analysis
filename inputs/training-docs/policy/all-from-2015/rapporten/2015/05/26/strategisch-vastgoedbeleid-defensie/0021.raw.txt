@@ -1,0 +1,41 @@
+Strategisch vastgoedbeleid Defensie  
+ 
+Bijlage 1 Overzichten vastgoedportefeuille 
+Overzicht locatiesoorten 
+Locatiesoort Aantal Oppervlakte 
+(ha) 
+Oefen- en schietterrein  64  26.512 
+Vliegbasis  9  3.908 
+Kazerne  48  1.940 
+Logistieke locatie  33  514 
+Havenlocatie  2  406 
+Zend- en ontvangstlocatie  35  326 
+Opslaglocatie  20  324 
+Munitieopslaglocatie  10  310 
+Kantoorlocatie  136  276 
+Technische locatie  34  234 
+Trainingslocatie  12  161 
+Onderwijslocatie  13  109 
+Gedenkplaats  23  91 
+Woonlocatie  37  90 
+Forten en verdedigingswerken  10  43 
+Totaal  486  35.242 
+ 
+Overzicht gebouwsoorten 
+Locatiesoort Aantal Oppervlakte 
+(m2) 
+Kantoor-/lesgebouwen  1195  1.732.076 
+Magazijnen  3380  1.272.243 
+Legeringsgebouwen  620  864.130 
+Werkplaatsen  394  609.010 
+Hangars/stallingen  1690  512.068 
+Complexe gebouwen  72  286.517 
+Recreatie-/sportgebouwen  259  269.125 
+Overige gebouwen  1107  222.831 
+Bunkers/shelters  875  182.115 
+Eetzalen en keukens  62  177.196 
+Installatiegebouwen  1356  99.588 
+Woningen  315  51.461 
+Totaal  11.325  6.278.358 
+ 
+ Pagina 21 van 26
