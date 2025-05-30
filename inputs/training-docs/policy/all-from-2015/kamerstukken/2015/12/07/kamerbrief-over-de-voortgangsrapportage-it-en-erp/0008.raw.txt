@@ -1,0 +1,51 @@
+V – Risico’s  
+ 
+ 
+ 
+De risico’s voor het programma zijn gewijzigd. Ten opzichte van de vorige 
+ 
+rapportage is het risico ‘personele capaciteit’ komen te vervallen, omdat er in de 
+ 
+organisatie nu voldoende personeel aanwezig is dat ervaring heeft met migraties. 
+ 
+ 
+1. Kwaliteit gegevens. Schone data zijn onontbeerlijk voor een goede migratie 
+naar ERP. Vervuilde data kunnen stagnaties in de migratie en onbetrouwbare 
+resultaten in ERP opleveren. Om dit risico te beheersen is er het project Stay 
+Clean, dat zich richt op het bijhouden van de datakwaliteit. Hiervoor is extra 
+bouw- en migratiecapaciteit toegekend. Ook stellen alle defensieonderdelen 
+capaciteit beschikbaar. Daarnaast levert leverancier SAP ondersteuning bij de 
+opschoning van data.  
+ 
+2. Stabiliteit IT-infrastructuur. ERP is afhankelijk van de goede werking van de 
+IT-infrastructuur. Om verbetering aan te brengen in de staat van de IT, is een 
+plan van aanpak opgesteld (Kamerstukken 31 125, nr. 41 van 16 september 
+2014 en 31 125, nr. 52 van 19 december 2014). Zie bijlage C voor de 
+voortgang. 
+ 
+ 
+VI – Sturing en beheersing 
+ 
+Voor het verbeteren van de inrichting en het beheer van rollen en autorisaties 
+loopt een actieplan. Op aanraden van de Audit Dienst Rijk (ADR) zijn de 
+aansturing en voortgangsbewaking bij de uitvoering van het actieplan 
+aangescherpt. 
+ 
+De ADR heeft de methode onderzocht die Defensie hanteert bij het ontmantelen 
+van legacy. Daarbij is vastgesteld dat veel afhangt van de wijze waarop de 
+betrokken defensieonderdelen de methodiek toepassen. Op aanraden van de ADR 
+is de regie bij het ontmantelen eenduidig belegd bij HDBV/CIO en wordt blijvend 
+geïnvesteerd in de opbouw van kennis bij het personeel.  
+ 
+ 
+VII – Overzicht voortgang basisimplementatie ERP 
+ 
+Deze paragraaf bevat overzichten van de beoogde functionaliteiten van ERP en de 
+voortgang van de migratie. De onderstaande tabel bevat een overzicht van de 
+beoogde functionaliteiten volgens de reikwijdte van de Tussenbalans 2010. Voor 
+een overzicht van de functionaliteiten die vanaf 2003 werden beoogd, maar geen 
+onderdeel meer zijn van de reikwijdte van de Tussenbalans 2010, verwijs ik naar 
+mijn brieven van 12 maart 2014 (Kamerstuk 31 460, nr. 41) en 13 maart 2014 
+(Kamerstuk 31 460, nr. 42). 
+ 
+ Pagina 7 van 9

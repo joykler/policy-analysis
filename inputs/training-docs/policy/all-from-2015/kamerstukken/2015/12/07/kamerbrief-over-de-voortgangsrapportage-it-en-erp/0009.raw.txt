@@ -1,0 +1,49 @@
+Tabel 6: Status functionaliteiten uit Tussenbalans 
+ 
+Hoofdproces Toelichting Opmerkingen 
+ 
+ 
+Financiën Financiële ondersteuning Gerealiseerd 
+ 
+Verwerving Electronic Data Interchange (EDI) Gerealiseerd 
+ 
+basisvoorziening 
+Foreign Military Sales (FMS) Basisfunctionaliteit gerealiseerd 
+Inkoopondersteuning basis Gerealiseerd 
+Integrale leveranciers- en Gerealiseerd 
+contractencartotheek 
+Magazijnbeheer Uitbreiding Warehouse Gerealiseerd 
+Management System (WMS) voor 
+opslagstrategieën en grijplocaties  
+Uitbreiding basis WMS voor het Gerealiseerd 
+samenstellen van pakketten 
+(kitting) 
+Voorraadbeheer Voorraadbeheersing door Gerealiseerd 
+koppeling van SLIM4 (legacy) en 
+SAP 
+Component Management Cockpit Gerealiseerd 
+(CMC) voor 
+componentenonderhoud 
+Beheer gevaarlijke Environment Health & Safety Basisfunctionaliteit is 
+stoffen (EH&S) stamgegevens gerealiseerd met standaard 
+SAP waardoor aan de 
+wettelijke eisen kan worden 
+voldaan. Vanwege nieuwe 
+ontwikkelingen inzake 
+gevaarlijke stoffen is een 
+aanvullende behoefte gesteld 
+die in 2016 zal worden 
+geleverd. 
+Transportmanagement Ondersteuning Gerealiseerd 
+transportprocessen (met TM/EM) 
+Tracking & Tracing met Transport Basisfunctionaliteit 
+Management (TM) en Event gerealiseerd. Ervaringen 
+Management (EM) voor ondersteuning missie Mali 
+operationele eenheden en CDC worden meegenomen na de 
+basisimplementatie. 
+(Re)deployment Ondersteuning van Basisfunctionaliteit 
+beheer relocatiewerkzaamheden bij gerealiseerd. Ervaringen 
+(re)deployment alsmede ondersteuning missie Mali 
+registratie van gereedheid worden meegenomen na de 
+basisimplementatie. 
+ Pagina 8 van 9

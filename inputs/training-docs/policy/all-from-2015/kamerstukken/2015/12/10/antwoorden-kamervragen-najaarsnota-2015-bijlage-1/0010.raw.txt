@@ -1,0 +1,18 @@
+Vraag 8 
+Het merendeel van de tabellen bevat cijfers met een cijfer voor de komma, de weergegeven cijfer 
+worden weergegeven met slechts een cijfer achter de komma (enkele precisie). Met name bij 
+overzichten waarbij de gegevens als % van het BBP worden weer gegevens levert dit een 
+substantieel informatieverlies. Bij een BBP van 681 miljard euro worden alle posten van onder de 
+300 miljoen euro afgerond op nihil. Kan er in de toekomst in dergelijke gevallen met dubbele 
+precisie worden gewerkt? Ook de presentatie van de cijfers in miljarden kan, met name, bij de 
+kadertoetsen, door presentatie in miljoenen veel duidelijker.  
+Antwoord op vraag 8 
+Bij het presenteren van cijfers in bijvoorbeeld de Miljoenennota en de Najaarsnota moet een 
+afweging worden gemaakt tussen de leesbaarheid en de precisie. Meestal wordt in tabellen in de 
+hoofdtekst gebruik gemaakt van miljarden, met een cijfer achter de komma. In de meer technische 
+bijlage(n) bij de Miljoenennota worden dezelfde bedragen in miljoenen gepresenteerd. In de 
+departementale begrotingen worden de uitgaven in duizenden euro’s weergegeven.  
+In de Najaarsnota wordt eenzelfde werkwijze gehanteerd. Om de tabellen in de hoofdtekst leesbaar 
+te houden worden deze weergegeven in miljarden euro’s. In bijlagen als de Verticale Toelichting 
+worden de uitgavenmutaties in meer detail gepresenteerd, net zoals in de tweede suppletoire 
+begrotingen die tegelijkertijd met de Najaarsnota naar de Tweede Kamer worden verstuurd.

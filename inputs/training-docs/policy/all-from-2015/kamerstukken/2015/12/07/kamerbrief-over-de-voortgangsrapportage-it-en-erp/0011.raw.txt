@@ -1,0 +1,55 @@
+BIJLAGE B – Optimalisatie ERP en bedrijfsvoering 
+ 
+ 
+ 
+Doelen en reikwijdte 
+ 
+De basisimplementatie is in 2015 voltooid, met uitzondering van de F-16 en een 
+ 
+deel van de functionaliteit van het brandstoffenbedrijf. De basisimplementatie is 
+een grote stap op weg naar een volledig ‘paarse’ bedrijfsvoering en een 
+ 
+belangrijke verbetering in de geautomatiseerde ondersteuning van de besturing 
+van Defensie. Met kleinschalige, gerichte verbeteringen wordt gewerkt aan de 
+verdere optimalisatie van de bedrijfsvoering en ERP. Het gebruik van ERP vraagt 
+een nieuwe manier van werken, waarbij het denken in ketens en de kwaliteit van 
+gegevens veel belangrijker zijn dan voorheen.  
+ 
+Voortgang 
+In de eerste helft van 2015 zijn de leveranties 2.4.0 en 2.5.0 in productie 
+genomen. Deze leveranties stonden vooral in het teken van het oplossen van 
+problemen, het wegnemen van de noodzaak tot geïmproviseerde oplossingen en 
+het uitbreiden van managementinformatie. Ook is veel aandacht besteed aan 
+nazorg en de ondersteuning van lopende migraties.  
+ 
+Planning en mijlpalen 
+Voor 2016 zijn de volgende prioriteiten gesteld: 
+1) Optimaliseren gebruik: 
+a. ondersteuning eindgebruikers;  
+b. opleiding en kennis nieuwe gebruikers; 
+c. verbeteren processen zodat ze beter aansluiten op ERP; 
+d. optimaliseren besturingsprincipes, zoals vraag- en 
+aanbodmanagement en assortimentsgewijs werken. 
+2) Datakwaliteit (Stay Clean). 
+3) Ondersteuning operationeel optreden en oefeningen: 
+a. ondersteuning lopende missies; 
+b. verbeteren en toevoegen van functionaliteit. 
+4) Wet- en regelgeving. 
+5) Financiële duurzaamheid (Life Cycle Costing). 
+6) Overig. 
+‘Optimaliseren gebruik’ en ‘datakwaliteit’ keren jaarlijks terug. In 
+overeenstemming met de prioriteiten zal in 2016, verdeeld over 4 of 5 
+leveranties, de volgende nieuwe of verbeterde functionaliteit worden geleverd: 
+1) Ondersteuning operationeel optreden en oefeningen: 
+a. verbeterde integratie tussen de logistiek en transport, zodat het hele 
+proces, van aanvraag tot ontvangst, voor de gebruiker één geheel 
+vormt; 
+b. introductie van automatische middelen om goederen te registeren en 
+te herkennen, zoals het gebruik van scanners in plaats van handmatig 
+invoeren; 
+c. introductie van draadloze identificatie waarmee met behulp van 
+zendmasten de locatie van voertuigen of containers kan worden 
+bepaald; 
+d. bepaling van de locatie van voertuigen en containers tijdens 
+transport; 
+ Pagina 1 van 2

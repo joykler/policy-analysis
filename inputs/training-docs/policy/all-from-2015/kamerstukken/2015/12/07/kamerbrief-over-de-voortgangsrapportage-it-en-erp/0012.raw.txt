@@ -1,0 +1,50 @@
+e. ompakken van goederen, bijvoorbeeld door van twee containers één 
+ 
+te maken of pakketten te splitsen voor de optimale belading van een 
+ 
+vliegtuig;  
+ 
+f. track & trace, het kunnen volgen van een artikel in de keten van 
+ 
+aanvraag tot aflevering met als doel transparantie en 
+voorspelbaarheid; 
+ 
+g. vernieuwing van IT voor ondersteuning van de munitieketen.  
+ 
+2) Financiële duurzaamheid 
+a. inzicht in de kosten per wapensysteem (loopt door tot in 2017). 
+ 
+3) Wet- en regelgeving 
+a. basisregistratie van gevaarlijke stoffen in ERP M&F; 
+b. ondersteuning van complexe aanbestedingsprocessen. 
+ 
+4) Overig 
+a. aanpassingen vanwege de selectie van een nieuwe huisbankier; 
+b. optimaliseren van processen rondom btw en accijnzen. 
+ 
+Financiën 
+In de ontwerpbegroting 2016 is voor de werkpakketten € 15 miljoen opgenomen, 
+opgebouwd als volgt: 
+ 
+Optimaliseren gebruik € 6,5 miljoen 
+Datakwaliteit € 1,0 miljoen 
+Ondersteuning operationeel optreden en oefeningen € 2,8 miljoen 
+Financiële duurzaamheid € 0,5 miljoen 
+Wet- en regelgeving € 1,7 miljoen 
+Overig € 2,5 miljoen 
+ 
+Risico ’s en maatregelen  
+Om de functionaliteit in gebruik te kunnen nemen, is ook personele capaciteit bij 
+de gebruikersorganisaties nodig. Voor nieuwe functionaliteiten of veranderende 
+wet- en regelgeving geldt bovendien dat er processpecialisten beschikbaar 
+moeten zijn om de detailspecificaties op te stellen. Pas wanneer de specificaties 
+duidelijk zijn en de benodigde personele capaciteit bij de gebruikersorganisaties is 
+vrijgemaakt, zullen de ERP-aanpassingen worden gerealiseerd. Dat zorgt ervoor 
+dat de functionaliteit goed aansluit op de bedrijfsvoering en op de juiste manier in 
+gebruik wordt genomen.  
+ 
+Afhankelijkheden met andere projecten 
+ERP moet uiteindelijk gaan draaien op de nieuwe IT-infrastructuur (zie bijlage C), 
+dat is echter pas na 2016 aan de orde. 
+  
+ Pagina 2 van 2

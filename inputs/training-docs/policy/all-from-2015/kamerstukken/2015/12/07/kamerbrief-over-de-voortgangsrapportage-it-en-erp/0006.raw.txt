@@ -1,0 +1,59 @@
+Tabel 4: budget exploitatievoorbereiding (in € miljoen) 
+ 
+Realisatie 
+ 
+Vorige Actuele Prognose tot einde 
+Omschrijving t/m medio  
+Rapportage raming basisimplementatie  
+2015 
+ 
+Kennisoverdracht 11,407 11,407 11,151 0,256 
+Migratieondersteuning 13,737 13,737 16,671 - 2,934  
+Datamigratie 
+14,998 14,998 15,233 - 0,235 
+en -onderhoud 
+Testfaciliteiten 24,743 24,743 22,986 1,757 
+Landschapsbeheer 55,148 55,148 54,428 0,720 
+ICT infrastructuur 5,168 5,168 4,737 0,431 
+Totaal 125,201 125,201 125,206 -0,005 
+ 
+Inzet externe medewerkers  
+Aan het begin van deze rapportageperiode waren 32 externe medewerkers 
+betrokken bij de basisimplementatie-ERP. Dit aantal is omlaag gegaan naar tien 
+externe medewerkers op 30 juni jl. De uitgaven voor de inzet van deze externe 
+medewerkers komen ten laste van het ERP/M&F (SPEER)-budget. 
+ 
+Interne kosten 
+De toepassing van het rapportagemodel voor grote ICT-projecten over de periode 
+van 2010 (Tussenbalans) tot en met medio 2015 leidt tot het toerekenen van 
+geschatte interne kosten ter hoogte van ongeveer € 161 miljoen over de gehele 
+periode, waarvan ongeveer € 15 miljoen voor de eerste helft van 2015. Deze 
+kosten waren al bekend en in de begroting afgedekt, maar volgens de nieuwe 
+wijze van rapporteren worden deze kosten aan het project toegerekend. In de 
+rapportage van 16 oktober 2014 (Kamerstuk 31 460, nr. 49) heb ik de wijze van 
+berekening van deze kosten toegelicht. Het grootste deel ervan betreft de kosten 
+van defensiepersoneel dat werkzaam is voor de in deze rapportage genoemde 
+projecten. 
+ 
+Financiële gevolgen vertraging migratie F-16 
+Zoals in de rapportage van 5 maart 2015 (Kamerstuk 31 460, nr. 53) is gemeld, 
+is met de vertraging naar schatting een bedrag gemoeid van maximaal 
+€ 2 miljoen. Deze kosten worden betaald uit het reguliere exploitatiebudget van 
+CLSK, en leiden dus niet tot een ophoging van het projectbudget. 
+ 
+ 
+IV – Stand van zaken, planning en mijlpalen 
+ 
+Ontwerp en bouw  
+In het najaar van 2014 is release 2.3.0 gerealiseerd. Alle basisfunctionaliteiten in 
+de reikwijdte van de ‘tussenbalans 2010’ zijn daarmee geleverd. Het budget voor 
+nieuwe functionaliteiten bedraagt € 26,623 miljoen, dit bedrag is volledig 
+besteed. Additionele functionaliteit wordt ontwikkeld als onderdeel van de 
+optimalisatie ERP en bedrijfsvoering (zie bijlage B) en komt ten laste van dat 
+budget. 
+ 
+Maritieme migratie  
+In de eerste helft van 2015 zijn Zr.Ms. Rotterdam, Zr.Ms. Groningen, Zr.Ms. 
+Holland en Zr.Ms. Evertsen gemigreerd. De afgelopen maanden is Zr.Ms. Zeeland 
+live gegaan en is migratie van de CZSK-organisatie in het Caribisch gebied 
+ Pagina 5 van 9

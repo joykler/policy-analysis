@@ -1,0 +1,57 @@
+III – Financiën 
+ 
+ 
+ 
+ERP in de defensiebegroting  
+ 
+De defensiebegroting heeft drie budgetten voor de basisimplementatie van ERP:  
+ 
+1) ERP/M&F (SPEER). Dit investeringsbudget is bestemd voor de kosten van het 
+ontwerpen, bouwen en invoeren van het ERP-systeem. Het maakt deel uit van 
+ 
+de ramingen voor ‘Voorzien in ICT’ op beleidsartikel 6 van de 
+defensiebegroting. 
+2) Project Aanpassing Legacy-systemen (PALS). Dit investeringsbudget is 
+bestemd voor de kosten van het maken van koppelingen tussen oude 
+informatiesystemen en het nieuwe ERP-systeem. Dit budget is onderdeel van 
+de raming voor ‘Voorzien in ICT’ op beleidsartikel 6. 
+3) Exploitatievoorbereiding ERP. Dit exploitatiebudget is bestemd voor de 
+dienstverlening door het JIVC. Het budget is onderdeel van de raming voor 
+‘Apparaat per uitgavencategorie – waarvan bijdragen aan SSO’s’ op 
+beleidsartikel 7.  
+ 
+Actuele budgetten en ramingen  
+Tabel 2 geeft inzicht in de omvang van de drie budgetten volgens de 
+defensiebegroting, de raming volgens de vorige rapportage, de actuele raming, 
+de realisatie tot 1 juli 2015 en de prognose voor de voltooiing van de 
+basisimplementatie. 
+ 
+Tabel 2: Actuele budgetten en ramingen basisimplementatie ERP (in € miljoen) 
+Omschrijving Budget Raming Actuele Realisatie Prognose tot einde 
+vorige raming t/m medio basisimplementatie 
+rapportage 2015 
+ERP/M&F (SPEER) 276,468 276,468 276,468 276,444 0,024 
+PALS 31,600 29,000 29,000 29,000 0,000 
+Exploitatievoorbereiding 125,200 125,201 125,201 125,205 -0,004 
+Totaal 433,268 430,669 430,669 430,649 0,020 
+ 
+Toelichting budget ERP/M&F (SPEER)  
+Dit budget is bestemd voor de kosten van het ontwerp, de bouw en de invoering 
+van het nieuwe informatiesysteem en de daarbij horende activiteiten. Dit betreft 
+vooral uitbesteed werk. Het budget bestaat uit vier kostencategorieën plus een 
+reserve voor tegenvallers:  
+1) Programmakosten: de kosten van regievoering, de inhuur van deskundigheid 
+onder andere voor second opinions en reviews, de aanschaf van software en 
+licenties en de ontwikkeling van opleidingen en gebruikersinstructies.  
+2) Ontwerp- en bouwkosten: de kosten van het ontwerpen van financiële en 
+materieellogistieke processen en het ontwikkelen van nieuwe functies van het 
+ERP-systeem. 
+3) Migratiekosten: de kosten van de technische en organisatorische invoering 
+van het ERP-systeem. 
+4) Overige kosten: de kosten die niet tot de eerste drie kostencategorieën 
+worden gerekend. 
+5) De reserve is een voorziening om tegenvallers tijdens de uitvoering op te 
+vangen binnen het huidige budget voor ERP/M&F (SPEER).  
+Van het ERP/M&F (SPEER)-budget is voor € 276,444 miljoen besteed. Tabel 3 
+geeft per kostencategorie inzicht in de uitgavenraming volgens de vorige 
+ Pagina 3 van 9

@@ -1,0 +1,49 @@
+rapportage, de actuele raming, de uitgaven tot 1 juli 2015 en de prognose voor 
+ 
+het einde van de basisimplementatie. 
+ 
+ 
+ 
+Tabel 3: budget ERP/M&F (in € miljoen) 
+ 
+  
+Realisatie 
+Raming vorige Actuele Prognose tot einde 
+Omschrijving t/m medio 
+ 
+rapportage raming basisimplementatie 
+2015 
+Programmakosten 77,166 77,166 77,538 - 0,372 
+Ontwerp- en bouwkosten 93,853 93,853 95,080 - 1,227 
+Migratiekosten 96,639 96,639 95,524 1,115 
+Overige kosten 8,201 8,201 8,201 - 
+Reserve 0,609 0,609 0,101 0,508 
+Totaal 276,468 276,468 276,444 0,024 
+ 
+Toelichting budget PALS  
+Dit budget is bestemd voor de kosten van het maken van tijdelijke en 
+permanente koppelingen tussen eerdere informatiesystemen (legacy) en het 
+nieuwe informatiesysteem. Van het PALS-budget is het volledige bedrag van 
+€ 29 miljoen uitgegeven en er worden geen verdere activiteiten voorzien.  
+ 
+Toelichting budget exploitatievoorbereiding  
+De interne dienstverlening door het JIVC wordt vanuit dit budget betaald. Er zijn 
+zes kostencategorieën:  
+1) Kennisoverdracht over de kernel en over het gebruik van infrastructuur voor 
+het ERP-systeem en het toekomstige beheer. 
+2) Migratieondersteuning, waarbij het JIVC de defensieonderdelen ondersteunt 
+bij vraagstukken over legacy-systemen en de technische infrastructuur.  
+3) Datamigratie en -onderhoud, voor de ondersteuning door het JIVC bij 
+dataconversie en datasynchronisatie.  
+4) Het gebruik van testfaciliteiten bij het JIVC.  
+5) Landschapsbeheer, waarbij het JIVC wordt ingezet voor het gebruik van 
+techniek, voor de ontwikkeling en testen van nieuwe versies en voor de 
+verwerking van wijzigingsverzoeken.  
+6) Een voorziening voor de ontwikkeling van IT-infrastructuur.  
+ 
+Voor exploitatievoorbereiding is €125,205 miljoen uitgegeven, daarmee is het 
+volledige budget besteed. Tabel 4 geeft per kostencategorie inzicht in de raming 
+volgens de vorige rapportage, de actuele raming, de uitgaven tot 1 juli 2015 en 
+de prognose voor het einde van de basisimplementatie.  
+ 
+ Pagina 4 van 9

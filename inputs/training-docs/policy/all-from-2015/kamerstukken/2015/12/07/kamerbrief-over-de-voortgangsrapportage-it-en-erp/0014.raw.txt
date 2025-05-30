@@ -1,0 +1,55 @@
+De vier toepassingen zijn: 
+ 
+1) Advanced Passenger Information versie 3 (API 3) waarmee, op grond van de 
+ 
+analyse van (veel) data, het passagiersverkeer op de luchthavens gerichter 
+ 
+kan worden gecontroleerd; 
+ 
+2) een briefingtool waarmee informatie vanuit verschillende bronnen snel kan 
+worden gebundeld voor het briefen van KMar-medewerkers; 
+ 
+3) het Tactisch-Operationeel Bevelvoeringssysteem (TOBS) dat de 
+werkstroombesturing bij informatiegestuurd optreden ondersteunt; 
+4) het Common Operational Picture (COP) waarmee, op grond van informatie uit 
+verschillende systemen, in het operatiecentrum een gemeenschappelijk 
+situatiebeeld wordt gepresenteerd.  
+ 
+De groeikern bevat voldoende nieuwe infrastructurele voorzieningen om deze 
+toepassingen werkend te krijgen en te houden. Deze voorzieningen voldoen aan 
+de eisen van het HLO. De reikwijdte van deze eerste fase is nog beperkt, zowel 
+geografisch (alleen in Nederland) als in rubricering (alleen laag-gerubriceerd). 
+Omdat de toepassingen voor IGO-KMar ook mobiel zullen worden gebruikt, zal 
+mobiel gebruik in Nederland wel deel uitmaken van de eerste fase.  
+ 
+Nadat de werking is aangetoond, kan er in de volgende fasen worden 
+opgeschaald, niet alleen in toepassingen en in aantallen gebruikers maar ook in 
+rubricering (uitbreiding naar hoog-gerubriceerd) en geografisch (uitbreiding naar 
+expeditionair gebruik). Ook het overzetten van huidige toepassingen kan dan van 
+start gaan.  
+ 
+De verwerving wordt op dit moment voorbereid en zal op korte termijn beginnen. 
+De verwerving is gericht op een meerjarige samenwerkingsovereenkomst, waarin 
+gedetailleerde afspraken over de eerste fase worden vastgelegd en meer globale 
+afspraken over het vervolg. In de verwerving worden de eisen door middel van 
+een inhoudelijke dialoog met marktpartijen verder uitgewerkt. Op deze manier is 
+er ruimte voor innovatieve oplossingen van leveranciers. Dit alles zal plaatsvinden 
+na screening door Bureau Industrieveiligheid van de MIVD. 
+ 
+Financiën 
+De eerste fase wordt gefinancierd vanuit de reeds beschikbare budgetten voor 
+IGO-KMar (voor wat betreft toepassingen, zie Kamerstuk 33 763, nr. 70 van 17 
+maart 2015) en vernieuwing van de IT-infrastructuur (zie Kamerstuk 31 125, nr. 
+41 van 16 september 2014). 
+In het algemeen zullen de kosten en de beschikbare middelen, in 
+overeenstemming met de aanbevelingen van Gartner, in evenwicht worden 
+gehouden met behulp van een financieel model. Dat model bevat zowel de 
+financiële ruimte als de verwachte ontwikkeling van de kosten. De financiële 
+ruimte is de optelsom van alle investerings- en exploitatiereeksen voor de huidige 
+én de nieuwe IT uit de begroting. De kostenontwikkeling kan nog niet worden 
+bepaald, omdat een aantal benodigde grootheden nog moet worden vastgesteld, 
+zoals de kosten die de markt gaat rekenen en de gevolgen van de IT-vernieuwing 
+voor het personeelsbestand. Hierover zal in de loop van 2016 meer duidelijkheid 
+ontstaan. Over eventuele gevolgen voor het personeelsbestand zal uiteraard eerst 
+overleg worden gevoerd met de medezeggenschap en de vakcentrales.  
+ Pagina 2 van 3
