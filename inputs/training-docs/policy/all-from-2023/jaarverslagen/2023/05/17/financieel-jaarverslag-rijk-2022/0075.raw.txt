@@ -1,0 +1,52 @@
+Verder is in 2022 een geheel nieuwe sectie voor het Handboek Financiële 
+Informatie en Administratie Rijksoverheid (HAFIR) toegevoegd en er is 
+een overzicht met visualisaties geplaatst. Aan de achterkant is gewerkt aan 
+een impuls voor de datakwaliteit.
+2022 stond in het teken van de afsluiting en evaluatie van het project 
+Doorontwikkeling rijksfinancien.nl 2019-2022. Uit de evaluatie kwam naar 
+voren dat de doelgroep van financiële professionals goed wordt bediend: 
+zij gebruiken de site om snel een budget of stuk op te zoeken, bijvoorbeeld 
+tijdens het begrotingsproces. Er is echter ook behoefte aan meer context, 
+duiding en thematische dwarsdoorsnedes. Hierop wordt in de komende 
+jaren met nieuwe projecten volop ingezet.
+Programma Toekomst Financiële Administratie (TFA)
+Het programma Toekomst Financiële Administratie (TFA) is in 2021 
+begonnen met het formuleren en afstemmen van een interdepartementaal 
+gedragen toekomstvisie van de financiële administratie. Vervolgens is in 
+2022 de initiatiefase begonnen voor het verwezenlijken van de visie. Met 
+hulp van 35 financial trainees zijn hiertoe via pilots verkenningen uitgevoerd 
+gericht op best-practices, creëren van overzicht, opstellen van een 
+cloudkader en adviseren over samenwerking en de waarde voor het Rijk als 
+geheel. Doel van de verkenningen was om tot een programmaplan te 
+komen.
+Uit de tussentijdse resultaten blijkt dat het van belang is dat departementen 
+gericht gaan samenwerken op het gebied van data-analyse. Zo kunnen zij 
+het financieel beheer verstevigen. Daarnaast moet de aandacht uitgaan naar 
+robotica om in tijden van personeelstekort de werkdruk te verlichten. Ook 
+is een cloudkader nodig voor departementen die hun financieel informatie­
+systeem moeten vervangen en de marktontwikkeling willen volgen naar 
+(publieke) cloud.
+Uit dit ambitieuze interdepartementale verandertraject komen op de 
+middellange termijn (2023-2026) projecten voort gericht op een eenduidige 
+taxonomie voor informatiestromen. Ook levert het een blauwdruk op van 
+de financiële administratie op basis van architectuurprincipes. Daarnaast 
+gaat het programma TFA aan de slag met data analyse om het huidige 
+werken te verbeteren en bouwblokken te creëren voor datagedreven 
+werken.
+Digitale koppeling begrotingsgegevens en witte stukken
+In 2022 is verder gewerkt aan het automatiseren van de budgettaire tabellen 
+van beleid in begrotingen en jaarverslagen. Dit gebeurt op basis van een 
+koppeling met het Interdepartementaal Budgettair Overleg Systeem (IBOS). 
+Hiermee worden de witte stukken, het begrotingsbeheersysteem en de 
+digitale auteursomgeving direct gekoppeld op basis van linked data. Dit 
+vermindert de bewerkelijkheid en foutgevoeligheid bij het opstellen van 
+de witte stukken. Het is de verwachting dat de koppeling in 2023 in gebruik 
+wordt genomen.
+Rechtmatigheidsdashboard
+Verder is in 2022 gewerkt aan de ontwikkeling van een rijksbreed digitaal 
+rechtmatigheidsdashboard. Dit stelt de departementen in staat om te 
+rapporteren over de door henzelf geconstateerde onrechtmatigheden 
+tijdens het lopende begrotingsjaar. Het rechtmatigheidsdashboard biedt 
+de departementen inzichten op basis waarvan zij zelf maatregelen kunnen 
+treffen om zo in control te zijn en te blijven over hun begrotingsuitvoering.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 1 75

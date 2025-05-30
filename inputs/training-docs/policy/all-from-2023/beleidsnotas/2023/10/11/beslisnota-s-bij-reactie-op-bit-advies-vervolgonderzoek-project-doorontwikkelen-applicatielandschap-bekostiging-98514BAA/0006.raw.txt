@@ -1,0 +1,47 @@
+Conclusie 1: Goede start professionalisering, maar dit vereist een vervolg
+Advies 1: Blijf professionalisering goed begeleiden:
+§      Ga met de professionalisering door op de ingezette weg. Houd focus op de
+effectieve en tijdige invoering op tactisch en operationeel niveau.
+§      Geef prioriteit aan de financiering van beheer en onderhoud.
+Conclusie 2: DUO heeft zichzelf klemgezet met de vervanging bij het proces
+bekostigen:
+A.) DUO ziet te laat dat de voortgang sterk achterblijft op de planning:
+§        Monitoring van en rapportage over de voortgang schieten te kort.
+§        Daadwerkelijk geconstateerde voortgang is beperkt
+§        Tegenvallers vertragen de voortgang
+B.) Technische uitwerking zit het resultaat in de weg:
+§        Gekozen opzet leidt tot complex en lastig te onderhouden nieuw IT-
+systeem
+§        Technologie Blueriq is niet de juiste technologie voor proces bekostigen
+§        Nog geen plan en ontwerp voor uitfasering oude systeem
+§        DUO-kaders, zoals voor security, worden nauwelijks gevolgd
+§        Onvoldoende aandacht voor kwaliteitsaspecten van het IT-systeem, zoals
+testen
+C.) Het terugvalscenario (oude systeem) is gebrekkig:
+§        Nieuwe systeem bevat bekostigingsregelingen die niet in oude systeem
+zitten
+§        Aanpassen oude systeem is riskant: documentatie en kennis ontbreekt
+§        Belangrijkste knelpunten niet in beeld
+Advies 2: kies een nieuwe aanpak bij bekostigen:
+1.) Zorg voor continuïteit van de bekostiging:
+§        pauzeer IT-traject, onderdeel bekostiging
+§        investeer in oude systeem
+2.) Kies beheerste vernieuwingsaanpak:
+§        Onderzoek hoe bekostigingsproces eenvoudiger kan
+§        Werk in ieder geval de volgende alternatieven uit: doorgaan met oude
+systeem en ontwerp nieuw IT-systeem
+3.) Investeer gericht in de ontwikkel- en beheerdeskundigheid in IT-kennis bij
+bekostigen
+Voorgeschiedenis
+§       In lente en zomer 2021 heeft het onafhankelijke Adviescollege ICT-toetsing
+het IT-traject DAB getoetst. Het definitieve adviesrapport (d.d. 27 sep 2021)
+was zeer kritisch over professionaliteit van de IT-processen en de gekozen
+technologie Blueriq van de gelijknamige Nederlandse leverancier.
+§       In de reactie van uw ambtsvoorgangster zijn de adviezen over
+professionalisering overgenomen, vormgegeven via een DUO-breed
+verbeterplan ('Transitieplan’). Het advies om door te gaan met het oude
+systeem en voor andere technologie te kiezen, is niet overgenomen.
+Adviescollege bood daarvoor in hun advies een uitweg: “Mocht DUO toch door
+gaan met Blueriq voor Bekostigen, dan zijn tenminste zeer strakke
+monitoring en een terugvalscenario noodzakelijk.”
+Pagina 5 van 6

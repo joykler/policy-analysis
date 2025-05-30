@@ -1,0 +1,48 @@
+Bijlage 1 - Achtergrondinformatie
+Inhoud:
+§       Beschrijving IT-traject
+Beschrijving Adviescollege ICT-toetsing en hun toetsproces
+§       
+§       Samenvatting BIT-advies Adviescollege
+§       Samenvatting (parlementaire) voorgeschiedenis
+IT-project ‘Doorontwikkelen Applicatielandschap Bekostiging’ (DAB)
+De afdeling Bekostiging en Planning (BKP) binnen de directie
+Onderwijsinstellingen (OI) van DUO voert de volgende vijf hoofdprocessen uit:
+Voorzieningenplanning, Statustoekenning, Bekostiging, Verantwoorden en
+Bezwaar en Beroep. De processen worden uitgevoerd voor alle onderwijssectoren:
+po, vo, mbo en ho en ook voor Caribisch Nederland.
+DUO is bezig de IT-systemen (het ‘applicatielandschap’) te moderniseren
+waarmee die vijf hoofdprocessen worden ondersteund. Het IT-project DAB richt
+zich op het moderniseren van de IT voor de processen Voorzieningenplanning,
+Bekostiging en Verantwoorden.
+De modernisering is ingezet omdat het huidige IT-systeem niet toekomstgericht
+is: technologie is verouderd, bijna aan het einde van de levensduur, kennis
+schaars en onderhoud steeds complexer. Op de langere termijn kan de
+continuïteit van de bekostigingsprocessen in gevaar komen. Het IT-systeem
+bestaat uit ongeveer 30 onderdelen en is rond 2007 operationeel geworden. Kern
+van het systeem is het uitvoeren van berekeningen en beschikkingen en het
+routeren van alle rekenopdrachten voor de instellingen.
+De modernisering vindt separaat, naast het bestaande systeem plaats. De
+bekostiging van de instellingen ondervindt geen hinder. Het nieuwe systeem is
+intussen operationeel voor mbo en grotendeels vo en in oktober ook voor ho. Het
+oude systeem blijft operationeel voor po en voor die regelingen die nog niet
+overgezet zijn.
+Project is gestart in 2019 en loopt door tot en met 2025. Kader voor het totale
+moderniseringstraject is €37 miljoen. Uitputting eind 2022 was zo’n €19 miljoen.
+Eerste twee jaar lag de focus op het opnieuw opzetten van de kern van het
+systeem. De keuze is gemaakt hier niet zelf maatwerk-software voor te
+ontwikkelen, maar er software voor in te kopen. Voor die kern wordt Blueriq
+ingezet. Blueriq is een ingekocht IT-product van de gelijknamige leverancier. Om
+Blueriq te toetsen is een proof-of-concept uitgevoerd, waarbij in een separate
+omgeving proefberekeningen zijn uitgevoerd.
+Adviescollege ICT-toetsing
+De Commissie Elias heeft in 2014 onderzoek gedaan naar het welslagen van IT-
+projecten bij de Rijksoverheid. De aanbevelingen hebben de druk verhoogd om de
+sturing op de informatievoorziening (waaronder informatiebeveiliging, ICT-
+beheersing en IT-beheer) binnen de Rijksdienst te verbeteren. Zo is het CIO-
+stelsel versterkt, is de positie van de CIO geborgd en is toentertijd het tijdelijke
+Bureau ICT-toetsing (BIT) opgericht. Doel is de beheersbaarheid van grote ICT-
+projecten te vergroten.
+In 2018 is door de Minister van BZK de primaire verantwoordelijkheid voor de
+digitaliseringsopgave binnen de verschillende beleidsterreinen van de
+Pagina 3 van 6
