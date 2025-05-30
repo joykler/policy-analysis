@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 146 
+Liquiditeit (spreiding) 100,0% 243,5% 115,6% 189,1% 164,6% 
+Weerstandsvermogen 100,0% -37,1% -19,5% -8,3% 15,2% 
+(gemiddelde) 
+Weerstandsvermogen (mediaan) 100,0% 122,9% 108,1% 53,7% 54,8% 
+Weerstandsvermogen 100,0% 12,8% 23,5% 39,5% 39,2% 
+(spreiding) 
+Aantal instellingen 260 273 287 292 277 
+Bron: Analyse CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek. 
+In Bijlage E.8 onderzoeken we ook de solvabiliteit, liquiditeit en het weerstandsvermogen van alle instellingen in de 
+culturele en creatieve sector.  
+Bijlage E.4 Specifiek ondersteunde instellingen 
+Voor de instellingen die specifieke steun hebben ontvangen en/of structureel gesubsidieerd worden zijn er enkele 
+aanvullende statistieken berekend. Deze instellingen omvatten zowel zzp’ers als grotere bedrijven.  
+ 
+Ten eerste werpen we een blik op de verhouding tussen de totaal ontvangen jaarlijkse generieke steun, en de omzet 
+van de instellingen. De resultaten hiervan staan in Tabel E.13. Er is zeer veel heterogeniteit onder de instellingen. 
+De mediaan ligt elk jaar ver onder het gemiddelde, hetgeen aangeeft dat generieke steun in relatief beperkte mate 
+heeft bijgedragen aan de baten van de instellingen. Verreweg de meeste instellingen hebben in 2020 gebruik 
+gemaakt van generieke steun, waar het ook de grootste bijdrage aan de baten heeft geleverd. In zowel 2021 en 
+2022 daalt het aandeel in de baten, en zijn er ook steeds minder instellingen die gebruik hebben gemaakt van 
+generieke steun. Voor het jaar 2022 is de omzet slechts ten dele bekend, doordat de btw-aangiften tot en met het 
+e
+3 kwartaal doorlopen. We extrapoleren de omzet voor het laatste kwartaal op basis van de beschikbare gegevens 
+om tot een mogelijke jaarlijkse omzet te komen. De relatieve omvang van generieke steun vergeleken met de omzet 
+kan hoger uitvallen dan 100%, doordat de omzet enkele belastbare omzet betreft. Subsidies en steunmaatregelen 
+zijn ten dele niet belastbaar met btw. 
+Tabel E.13 Verhoudingen tussen de totaal ontvangen generieke steun in een jaar, en de omzet uit dat jaar (op 
+basis van de btw-aangiften). Een percentage van meer dan 100% betekent dat de inkomsten uit 
+generieke steun hoger lagen dan de omzet. 
+Jaar Gemiddeld Mediaan Aantal instellingen 
+2020 160,6% 9,7% 936 
+2021 33,0% 5,1% 603 
+2022 17,3% 2,1% 313 
+Bron: Analyse CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek.

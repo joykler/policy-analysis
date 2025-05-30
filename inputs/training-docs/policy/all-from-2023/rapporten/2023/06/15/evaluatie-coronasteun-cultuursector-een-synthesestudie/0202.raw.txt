@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 187 
+2017 2018 2019 2020 2021 
+ 
+Liquiditeit (mediaan) 3,69 3,08 3,19 3,17 3,17 
+Liquiditeit (spreiding) 21,92 24,09 54,52 21,54 20,63 
+Aantal instellingen 139 164 154 159 160 
+Fotografie      
+Liquiditeit (gemiddeld) 17,27 17,59 18,19 16,52 18,15 
+Liquiditeit (mediaan) 3,86 4,05 4,12 3,91 4,13 
+Liquiditeit (spreiding) 41,36 37,52 40,18 40,57 44,55 
+Aantal instellingen 225 219 233 218 204 
+Industrieel design      
+Liquiditeit (gemiddeld) 9,50 10,82 8,72 9,52 9,90 
+Liquiditeit (mediaan) 2,44 2,53 2,72 2,70 2,96 
+Liquiditeit (spreiding) 42,12 50,75 35,27 43,62 31,58 
+Aantal instellingen 806 862 994 1092 1111 
+Kunstzinnige vorming van amateurs      
+Liquiditeit (gemiddeld) 16,37 9,46 8,63 16,20 8,58 
+Liquiditeit (mediaan) 3,58 3,12 2,73 2,95 3,00 
+Liquiditeit (spreiding) 44,30 20,39 13,34 45,95 18,24 
+Aantal instellingen 42 38 42 52 53 
+Maken en uitgeven van geluidsopnamen      
+Liquiditeit (gemiddeld) 12,29 14,53 14,89 15,08 13,51 
+Liquiditeit (mediaan) 2,76 3,11 3,09 2,98 2,83 
+Liquiditeit (spreiding) 40,69 55,37 85,52 52,99 41,62 
+Aantal instellingen 229 244 264 290 289 
+Monumentenzorg      
+Liquiditeit (gemiddeld) 24,01 22,36 9,81 10,46 14,89 
+Liquiditeit (mediaan) 1,27 1,14 1,17 1,41 1,65 
+Liquiditeit (spreiding) 208,57 146,46 59,26 56,91 107,67 
+Aantal instellingen 132 135 115 108 100 
+Organiseren van congressen en beurzen      
+Liquiditeit (gemiddeld) 10,80 9,30 7,57 11,06 9,53 
+Liquiditeit (mediaan) 2,48 2,27 2,42 2,29 2,81 
+Liquiditeit (spreiding) 30,36 21,68 15,74 25,05 21,33

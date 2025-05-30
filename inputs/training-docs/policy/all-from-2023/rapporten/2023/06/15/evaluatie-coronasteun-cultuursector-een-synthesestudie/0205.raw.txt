@@ -1,0 +1,31 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 190 
+2017 2018 2019 2020 2021 
+ 
+Liquiditeit (spreiding) 19,06 11,07 2,54 29,05 10,20 
+Aantal instellingen 30 39 35 41 33 
+Uitgeverijen van boeken      
+Liquiditeit (gemiddeld) 10,54 13,67 12,91 12,12 13,87 
+Liquiditeit (mediaan) 2,95 2,96 2,98 3,09 3,17 
+Liquiditeit (spreiding) 30,02 57,93 49,04 33,83 54,93 
+Aantal instellingen 369 360 372 352 311 
+Uitgeverijen van kranten      
+Liquiditeit (gemiddeld) 7,57 6,19 6,35 5,32 3,97 
+Liquiditeit (mediaan) 2,68 2,72 2,48 2,09 2,36 
+Liquiditeit (spreiding) 21,82 16,15 14,77 18,16 4,25 
+Aantal instellingen 79 89 89 80 67 
+Uitgeverijen van software      
+Liquiditeit (gemiddeld) 4,57 4,45 6,57 7,31 9,85 
+Liquiditeit (mediaan) 1,60 1,75 1,78 2,02 1,97 
+Liquiditeit (spreiding) 9,60 9,61 19,93 18,35 36,56 
+Aantal instellingen 59 53 70 71 86 
+Uitgeverijen van tijdschriften      
+Liquiditeit (gemiddeld) 12,95 6,37 9,10 10,80 11,74 
+Liquiditeit (mediaan) 2,42 2,15 2,26 2,06 2,47 
+Liquiditeit (spreiding) 69,66 14,21 33,63 41,19 41,55 
+Aantal instellingen 303 296 276 278 220 
+Vriendenkringen van cultuur      
+Liquiditeit (gemiddeld) 23,26 13,21 11,60 25,70 24,71 
+Liquiditeit (mediaan) 11,67 5,00 7,54 10,75 14,45 
+Liquiditeit (spreiding) 39,95 21,37 12,22 34,33 32,66 
+Aantal instellingen 13 11 16 11 11 
+Bron: Analyse van CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek

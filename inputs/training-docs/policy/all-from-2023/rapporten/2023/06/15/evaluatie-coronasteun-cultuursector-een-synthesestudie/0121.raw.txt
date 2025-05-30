@@ -1,0 +1,42 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 106 
+Bijlage A SBI codes culturele en creatieve sector 
+CBS  
+Elk bedrijf heeft een SBI code, die aangeeft wat de hoofdactiviteiten van een instelling zijn. Een SBI code duidt 
+bijvoorbeeld of een instelling zich vooral bezighoudt met het uitgeven van boeken, of dat het films produceert. 
+Deze SBI codes maken het mogelijk om verschillende soorten instellingen uit elkaar te houden, en apart te 
+bestuderen. Hoewel SBI codes het mogelijk maken om culturele instellingen te bestuderen via microdata zijn er ook 
+drie kanttekeningen. Ten eerste kunnen instellingen actief zijn in meerdere sectoren tegelijk, wat niet uit de SBI 
+codes op te maken is. Een bedrijf kan bijvoorbeeld zowel cultureel als non-cultureel actief zijn, wat op basis van SBI 
+codes niet mee kan worden genomen. Ten tweede omvatten culturele instellingen veel verschillende beroepen. 
+Het is niet bekend hoeveel artiesten, managers of accountants er bij een instelling werken. Daardoor is het moeilijk 
+in te schatten welke beroepen bijvoorbeeld het meeste zijn ondersteund door de verschillende steunmaatregelen. 
+Een derde kanttekening bij het gebruik van SBI codes is dat de classificatie op jaarlijkse basis wordt bijgewerkt. 
+Wanneer een grote instelling van classificatie verandert, heeft dit een zichtbare impact op de beschrijvende 
+statistieken voor de deelsector. Door deze herclassificatie vindt er in enkele deelsectoren bijvoorbeeld een sprong 
+plaats in de werkgelegenheid op 1 januari, die niet te verklaren is aan de hand van de gevolgen van de pandemie 
+of steunmaatregelen. Voor deze deelsectoren zijn er geen gegevens bekend die de  
+ 
+Het CBS heeft in voorgaand onderzoek een lijst samengesteld van SBI codes die tezamen de culturele sector 
+312
+vertegenwoordigen. Dit rapport gebruikt dezelfde lijst SBI codes als het CBS als uitgangspunt, om zoveel 
+mogelijk aan te sluiten bij bestaand onderzoek. De lijst SBI codes die het CBS onderzoek en het huidige onderzoek 
+gebruiken staat hieronder, in tabel A.1. 
+Tabel A.1 Sectoren en deelsectoren binnen de culturele en creatieve industrie 
+SBI SBI-beschrijving Onderdeel van 
+7021 Public relationsbureaus Creatieve zakelijke dienstverlening 
+7111 Architectenbureaus Creatieve zakelijke dienstverlening 
+7311 Reclamebureaus Creatieve zakelijke dienstverlening 
+7410 Industrieel design Creatieve zakelijke dienstverlening 
+8230 Organiseren van congressen en beurzen Creatieve zakelijke dienstverlening 
+7990 Reisinformatie- en reserveerbureaus Kunsten 
+9002 Dienstverlening voor uitvoerende kunst Kunsten 
+9003 Scheppende kunst Kunsten 
+9103 Monumentenzorg Kunsten 
+85521 Dansscholen Kunsten 
+85522 Kunstzinnige vorming van amateurs Kunsten 
+90011 Beoefening van podiumkunst Kunsten 
+ 
+312
+  Zie bijvoorbeeld de studie “Omzet en inkomenspositie zzp`ers in culturele sector ”, die het CBS heeft uitgevoerd in 
+opdracht van het ministerie van OCW. De afbakening in de drie onderdelen is hierbij ook afkomstig van het ministerie 
+van OCW.

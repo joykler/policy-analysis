@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 192 
+ 
+2017 2018 2019 2020 2021 
+Weerstandsvermogen (gemiddeld) 2,60 3,01 1,16 0,98 2,15 
+Weerstandsvermogen (mediaan) 1,38 1,52 1,47 1,16 0,92 
+Weerstandsvermogen (spreiding) 7,04 6,75 32,66 11,12 5,89 
+Aantal instellingen 59 67 65 64 68 
+Dienstverlening voor uitvoerende kunst      
+Weerstandsvermogen (gemiddeld) 14,33 28,76 1,91 1,46 1,62 
+Weerstandsvermogen (mediaan) 1,37 1,53 1,46 0,74 0,86 
+Weerstandsvermogen (spreiding) 227,76 345,58 66,95 20,28 28,05 
+Aantal instellingen 789 828 833 882 855 
+Distributie van films en televisieproducties      
+Weerstandsvermogen (gemiddeld) 1,10 5,16 4,62 3,91 1,26 
+Weerstandsvermogen (mediaan) 0,96 1,29 1,77 2,41 0,87 
+Weerstandsvermogen (spreiding) 26,46 13,05 71,57 6,83 28,88 
+Aantal instellingen 30 35 36 37 37 
+Facilitaire activiteiten voor film- en televisieproductie      
+Weerstandsvermogen (gemiddeld) 3,01 6,62 3,87 3,29 3,38 
+Weerstandsvermogen (mediaan) 1,11 1,16 1,30 1,07 1,15 
+Weerstandsvermogen (spreiding) 14,09 29,44 9,24 20,38 18,78 
+Aantal instellingen 139 164 154 159 160 
+Fotografie      
+Weerstandsvermogen (gemiddeld) -1,32 -2,63 1,63 0,53 0,48 
+Weerstandsvermogen (mediaan) 0,64 0,51 0,63 0,74 0,64 
+Weerstandsvermogen (spreiding) 59,18 59,43 7,97 11,82 10,42 
+Aantal instellingen 225 219 233 218 204 
+Industrieel design      
+Weerstandsvermogen (gemiddeld) 3,48 3,54 1,72 2,32 3,52 
+Weerstandsvermogen (mediaan) 1,08 1,13 1,08 1,05 1,18 
+Weerstandsvermogen (spreiding) 68,22 29,82 37,18 17,42 34,13 
+Aantal instellingen 806 862 994 1092 1111 
+Kunstzinnige vorming van amateurs      
+Weerstandsvermogen (gemiddeld) 6,56 4,71 1,11 1,04 7,56 
+Weerstandsvermogen (mediaan) 0,45 0,69 0,34 0,24 0,61

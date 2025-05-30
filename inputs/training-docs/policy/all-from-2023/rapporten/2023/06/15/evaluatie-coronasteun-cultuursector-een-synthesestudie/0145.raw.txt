@@ -1,0 +1,41 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 130 
+Bijlage D CBS Microdata analyse 
+Bijlage D.1 Context 
+Deze appendix presenteert een samenvatting van de microdata aanpak. De annex gaat in op de volgende 
+onderwerpen: 
+A. welke datasets de analyse gebruikt; 
+B. hoe het koppelproces is verlopen; en 
+C. welke kanttekeningen de analyse heeft. 
+ 
+Het hoofddoel van de microdata analyse is om beschrijvende statistieken te berekenen voor bedrijven die onder 
+een culturele subsector vallen. Een econometrische analyse van de impact van steunmaatregelen is in de context 
+van deze studie niet haalbaar. Desalniettemin bieden beschrijvende statistieken mogelijk veel inzicht in de 
+doeltreffendheid van de steunpakketten en steunmaatregelen. We richten ons bij het samenstellen van deze 
+statistieken op ontwikkelingen in: 
+A. het aantal opheffingen per maand/jaar 
+B. de netto omzet; 
+C. de bedrijfsresultaten; en 
+D. de hoeveelheid personeel, gemeten in het aantal personen in dienst 
+ 
+Deze beschrijvende statistieken berekenen we op 3 niveaus: 
+● alle culturele bedrijven; 
+● alle culturele bedrijven die gebruik maken van generieke steun; en 
+● culturele bedrijven die gebruik maken van specifieke steun 
+ 
+Waar mogelijk, berekenen we de beschrijvende statistieken per subsector. De lijst relevante culturele subsectoren, 
+waarvan we de bedrijven nader bestuderen, is te vinden in bijlage A. In totaal zijn er 41 relevante subsectoren. 
+Doordat sommige subsectoren klein in omvang zijn, of weinig er niet altijd microdata beschikbaar zijn, is het niet 
+mogelijk om alle resultaten op subsectorniveau te rapporteren. 
+Bijlage D.2 Datasets en koppeling 
+We maken voor elke uitkomstmaat gebruik van een afzonderlijk koppelproces. Deze koppelprocessen verlopen als 
+volgt: 
+ 
+4. Continuïteit: 
+a. Voor elk bedrijf staat in het ABR een opheffingsdatum. Het ABR bestaat uit jaarlijkse datasets. We koppelen 
+alle jaargangen van het ABR vanaf 2017 aan elkaar om de gegevens in long format te zetten. We berekenen 
+op basis van de opheffingsdatum hoeveel opheffingen er elke maand plaats hebben gevonden. 
+b. We koppelen het ABR bestand aan de lijst SBI-codes uit Bijlage A. Dankzij deze koppeling kunnen we 
+inzoomen op de relevante culturele sectoren, en de opheffingen per sector bekijken. 
+A. Bedrijfsprestaties, solvabiliteit, liquiditeit en weerstandsvermogen: 
+1. Om de bedrijfsprestaties te meten beginnen we met het ABR. Net zoals voor continuïteit, koppelen we alle 
+jaargangen vanaf 2017 aan elkaar om de gegevens in long format te zetten.

@@ -1,0 +1,42 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 72 
+is de omzet van alle instellingen gedeeld door het aantal instellingen. De mediaan rangschikt de instellingen van 
+klein naar groot, en kijkt naar de omzet van het bedrijf dat midden in deze rangschikking zit. Het gemiddelde en de 
+mediaan laten samen zien hoe ‘scheef’ de verdeling van omzet is onder de instellingen. Wanneer het gemiddelde 
+bijvoorbeeld stijgt, maar de mediaan constant blijft houdt het in dat vooral de grote bedrijven nog groter worden 
+qua omzet, maar de meeste kleine en middelgrote instellingen hetzelfde blijven. De spreiding toont tenslotte hoe 
+groot de diversiteit qua omzet is tussen instellingen. Een hoge spreiding geeft aan dat er veel zeer kleine en/of zeer 
+grote instellingen zijn. Uit de tabel blijkt dat er veel heterogeniteit is in de ontwikkeling van de omzet. Zo is de 
+gemiddelde omzet tot en met 2020 hard gegroeid, en in 2021 weer gedaald. De mediaan van de omzet is echter 
+aanzienlijk minder snel gestegen vóór de pandemie, en vertoont een sterke daling in 2020, met licht herstel in 2021.  
+Dit geeft aan dat het vooral grote instellingen zijn die meer omzet hebben geboekt in de jaren voor de pandemie. 
+De spreiding neemt in deze jaren sterk toe, hetgeen aangeeft dat de omzet sterk uiteen is gelopen tussen de 
+instellingen. Dit geeft aan dat culturele bedrijven in zeer uiteenlopende mate moeite hebben gehad met de 
+coronajaren, en steeds minder op elkaar zijn gaan lijken.  
+Tabel 5.29 Ontwikkelingen in omzet van alle culturele bedrijven (op het niveau van ondernemingsgroepen), 
+ongeacht het gebruik van steun. (2017 = 100%). 
+Jaar 2017 2018 2019 2020 2021 
+Omzet (gemiddeld) 100,0% 107,2% 132,7% 135,2% 119,0% 
+Omzet (mediaan) 100,0% 101,6% 104,3% 90,9% 92,1% 
+Omzet (spreiding) 100,0% 113,4% 162,0% 171,0% 142,5% 
+Aantal bedrijven met data 9084 9379 9576 10331 9966 
+Bron: CBS microdata (2023) en berekeningen uitgevoerd door SEO Economisch Onderzoek. 
+Tabel 5.30 toont dezelfde statistieken voor culturele bedrijven die gebruik hebben gemaakt van minstens één 
+generiek steunpakket. Uit deze tabel blijkt dat de bedrijven die generieke steun hebben ontvangen deze steun ook 
+hard nodig hadden. De gemiddelde omzet van deze bedrijven steeg vóór de pandemie minder hard dan het 
+gemiddelde in de gehele populatie culturele bedrijven. Tevens is de mediaan van de omzet in 2019 al lager dan in 
+2017. De cijfers geven aan dat een groot deel van deze bedrijven een daling qua omzet meemaakte in 2020, maar 
+dat de daling niet voortzette in 2021. Tevens daalde de spreiding in de omzet.  
+ 
+De cijfers voor Tabel 5.29 en Tabel 5.30 zijn berekend op basis van CBS microdata. De populatie bestaat uit 
+bedrijven die onder de SBI codes uit bijlage A vallen, in de NFO dataset staan en waarvan bekend is dat ze gebruik 
+hebben gemaakt van generieke steunmaatregelen. Deze gegevens zijn niet uitputtend, en weerspiegelen daardoor 
+237
+een subset van de populatie van culturele bedrijven. 
+Tabel 5.30 Ontwikkelingen in omzet van culturele bedrijven (op het niveau van ondernemingsgroepen) die 
+gebruik hebben gemaakt van generieke steun. (2017 = 100%) 
+Jaar 2017 2018 2019 2020 2021 
+Omzet (gemiddeld) 100,0% 110,7% 112,3% 84,3% 85,6% 
+ 
+237
+  De NFO dataset ondergaat regelmatige revisies en aanvullingen. De cijfers voor 2021 zijn berekend met de laatst 
+beschikbare versie van deze dataset. Daarnaast omvatten de berekeningen nog geen zzp’ers.

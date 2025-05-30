@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 191 
+Tabel E.26 Ontwikkelingen in het weerstandsvermogen van culturele instellingen tussen 2017 en 2021. 
+ 
+2017 2018 2019 2020 2021 
+Architectenbureaus      
+Weerstandsvermogen (gemiddeld) 1,85 2,19 1,36 2,53 1,59 
+Weerstandsvermogen (mediaan) 0,96 1,02 1,05 1,02 1,02 
+Weerstandsvermogen (spreiding) 12,02 25,14 27,54 35,64 23,78 
+Aantal instellingen 1011 1026 1061 1099 1001 
+Beoefening van podiumkunst      
+Weerstandsvermogen (gemiddeld) 3,89 5,73 4,38 2,79 1,08 
+Weerstandsvermogen (mediaan) 0,60 0,60 0,68 0,42 0,50 
+Weerstandsvermogen (spreiding) 29,84 33,13 36,21 19,31 7,87 
+Aantal instellingen 175 193 191 224 230 
+Bioscopen      
+Weerstandsvermogen (gemiddeld) -40,32 0,37 1,04 -2,19 1,34 
+Weerstandsvermogen (mediaan) 1,21 1,20 1,14 0,71 0,63 
+Weerstandsvermogen (spreiding) 300,54 14,69 12,02 21,58 12,75 
+Aantal instellingen 47 38 34 39 33 
+Circus en variété      
+Weerstandsvermogen (gemiddeld) -1,91 2,22 2,31 -1,99 -2,18 
+Weerstandsvermogen (mediaan) 0,65 1,05 0,81 0,40 0,40 
+Weerstandsvermogen (spreiding) 19,59 10,47 6,98 24,14 26,42 
+Aantal instellingen 34 38 35 44 30 
+Culturele uitleencentra, Musea, Kunstgalerieën      
+Weerstandsvermogen (gemiddeld) 2,77 0,77 2,97 0,46 1,07 
+Weerstandsvermogen (mediaan) 0,23 0,41 0,35 0,19 0,29 
+Weerstandsvermogen (spreiding) 17,22 6,45 19,09 9,95 10,36 
+Aantal instellingen 100 86 95 110 105 
+Dansscholen      
+Weerstandsvermogen (gemiddeld) 1,28 3,94 3,38 1,29 -3,54 
+Weerstandsvermogen (mediaan) 0,72 0,66 0,93 0,47 0,45 
+Weerstandsvermogen (spreiding) 5,21 11,82 9,02 4,48 30,91 
+Aantal instellingen 29 29 30 35 31 
+Databanken

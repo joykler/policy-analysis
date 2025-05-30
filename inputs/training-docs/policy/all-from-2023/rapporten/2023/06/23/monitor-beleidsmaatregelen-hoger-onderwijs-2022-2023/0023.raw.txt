@@ -1,0 +1,55 @@
+0 Overig hoger onderwijs 
+1 Bèta Natuur & Techniek 
+2 Meer dan 50% bèta  
+3 Lerarenopleiding bèta 
+4 Minder dan 50% bèta 
+ 
+Het 1cHO is daarnaast verrijkt met studiefinancieringsrecords van studenten. Deze zijn afkomstig uit DUO 
+SFS (Studiefinancieringssysteem) en bevatten per record per jaar en per maand de bedragen voor basis-
+beurs, aanvullende beurs, lening en ov-gebruik. Deze gegevens zijn geconsolideerd en geaggregeerd en 
+vervolgens toegevoegd aan de inschrijfgegevens uit het 1cHO. Op basis van de inschrijfgegevens is bepaald 
+of studenten die geen gebruikmaken van studiefinanciering wél studiefinancieringsgerechtigd zijn (op basis 
+van leeftijd bij eerste instroom, nationaliteit en verblijfsjaar). De onderzoeksvragen die betrekking hebben 
+op het leengedrag van de studenten zijn met behulp hiervan beantwoord. De bestanden van de jaren 2006 
+2007 tot en met 2021-2022 zijn gebruikt. DUO leverde daarnaast een recent bestand met toegekende 
+bedragen voor het levenlanglerenkrediet (mbo, hbo, wo). 
+ 
+De Studentenmonitor hoger onderwijs (zie ook www.studentenmonitor.nl) is in 2000 door het ministerie van 
+OCW geïntroduceerd met het doel om, door een bundeling van de tot op dat moment relevante 
+studentonderzoeken, meer systematisch en periodiek de ontwikkelingen op de sociaaleconomische dimensie 
+van studeren in het hoger onderwijs in kaart te brengen en te volgen, met behulp van kengetallen en 
+bevraging van doelgroepen. Het monitorsysteem heeft vooral een signaleringsfunctie bij de ontwikkeling 
+van beleid en genereert informatie op de momenten dat dit volgens de beleidscyclus nodig is. In de 
+Studentenmonitor staan sinds 2000 studievoortgang, motivatie, studiekeuze, studiegedrag, tevredenheid, 
+tijdbesteding, inkomsten en uitgaven centraal. Dit alles gerelateerd aan de sociaaleconomische status van 
+studenten. 
+ 
+De Startmonitor is een landelijk onderzoek dat nieuwe studenten in het hoger onderwijs volgt vanaf hun 
+11
+entree aan een hogeschool of universiteit tot aan het einde van het eerste studiejaar. Deze monitor 
+brengt het gebruik van voorlichtingsmateriaal en het studiekeuzeproces in kaart, inventariseert hoe 
+studenten ‘landen’ in hun opleiding en vraagt studenten of hun eerste jaar naar tevredenheid verloopt. Aan 
+het eind van het jaar kunnen deze gegevens gerelateerd worden aan de keuze die studenten maken; of zij 
+met hun opleiding zijn gestopt of de initieel gekozen studie continueren. 
+ 
+CBS microdata zijn gebruikt om het opleidingsniveau en het inkomen van ouders toe te voegen aan de 
+analyses, zodat de relatie tussen de sociaaleconomische klasse van de ouders en gedragingen van studenten 
+in kaart kunnen worden gebracht. Daarnaast zijn alle resultaten over studenten uit de Caribische delen van 
+het Koninkrijk gebaseerd op de CBS microdata. 
+ 
+Eurostudent (www.eurostudent.eu) is een Europees project dat inzicht geeft in vergelijkbare data over 
+sociaaleconomische kenmerken van studenten, toegankelijkheid van het hoger onderwijs en internationali-
+sering. Een van de doelstellingen is het identificeren van obstakels die een succesvolle studie in het hoger 
+onderwijs in de weg staan. Belangrijke uitgangspunten zijn de Bologna-verklaring en Lissabondoelstellingen, 
+gericht op verhoging van de deelname aan het hoger onderwijs en onderliggend de assumptie dat deelname 
+aan het hoger onderwijs in sterke mate samenhangt met de sociaaleconomische achtergrond van studenten. 
+In deze Monitor worden data uit Eurostudent gebruikt om de Nederlandse studentenpopulatie op verschil-
+lende kenmerken zoals tijdbesteding en tevredenheidsaspecten te vergelijken met andere Europese 
+studentenpopulaties. Omdat het veldwerk van Eurostudent driejaarlijks plaatsvindt, zijn de cijfers uit deze 
+bron voor dit jaar 2022-2023) identiek aan die van de vorige monitor (de meest recente meting was 
+Eurostudent VII in studiejaar 2018-2019 (publicatie 2020-2021). Voor de volledigheid zijn ze opnieuw 
+opgenomen. 
+  
+ 
+11 Sinds 2017-2018 wordt het veldwerk voor de Startmonitor uitgevoerd in opdracht van OCW 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 23

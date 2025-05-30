@@ -1,0 +1,37 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 145 
+Tabel E.11 Ontwikkelingen in solvabiliteit, liquiditeit en weerstandsvermogen van instellingen die 
+specifieke/structurele steun hebben ontvangen (op het niveau van de ondernemingsgroep), in de 
+vorm van indexcijfers (2017 = 100%). Negatieve indexcijfers geven aan dat de maatstaf in dat jaar 
+negatief was. 
+Jaar 2017 2018 2019 2020 2021 
+Solvabiliteit (gemiddelde) 100,0% 91,2% 40,6% 73,6% 60,2% 
+Solvabiliteit (mediaan) 100,0% 103,2% 105,2% 128,0% 138,6% 
+Solvabiliteit (spreiding) 100,0% 108,6% 119,5% 127,0% 193,7% 
+Liquiditeit (gemiddelde) 100,0% 136,7% 973,3% 116,3% 111,7% 
+Liquiditeit (mediaan) 100,0% 96,0% 93,6% 85,3% 96,8% 
+Liquiditeit (spreiding) 100,0% 248,9% 6727,2% 177,4% 159,3% 
+Weerstandsvermogen 100,0% -40,3% 15,0% -15,1% 14,3% 
+(gemiddelde) 
+Weerstandsvermogen (mediaan) 100,0% 122,1% 110,0% 56,1% 58,2% 
+Weerstandsvermogen 100,0% 19,0% 64,3% 39,7% 39,1% 
+(spreiding) 
+Aantal instellingen 322 332 338 350 337 
+Bron: Analyse CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek. 
+Tabel E.12 laat ten slotte nog zien hoe de drie maatstaven zich hebben ontwikkeld voor instellingen die naast 
+specifieke steun ook op generieke steun hebben kunnen rekenen. Voor deze groep instellingen is er sprake van 
+grote onderlinge verschillen. Zo is de gemiddelde solvabiliteit in 2021 zeer negatief, maar is de mediane solvabiliteit 
+juist hoger dan vóór de pandemie. De liquiditeit is in het gemiddelde en de mediaan vrij constant gebleven. Het 
+weerstandsvermogen is in contrast hard gedaald voor de meeste instellingen. Al met al hebben de meeste 
+instellingen relatief weinig problemen met het dekken van kortlopende schulden via liquide middelen, maar is het 
+vermogen om financiële klappen op te vangen afgenomen. 
+ 
+Tabel E.12 Ontwikkelingen in solvabiliteit, liquiditeit en weerstandsvermogen van instellingen die zowel 
+specifieke/structurele als generieke steun hebben ontvangen (op het niveau van 
+ondernemingsgroepen), in de vorm van indexcijfers (2017 = 100%). Negatieve indexcijfers geven aan 
+dat de maatstaf negatief was in dat jaar. 
+Jaar 2017 2018 2019 2020 2021 
+Solvabiliteit (gemiddelde) 100,0% 78,7% -47,3% -36,8% -128,0% 
+Solvabiliteit (mediaan) 100,0% 102,3% 97,5% 115,1% 131,7% 
+Solvabiliteit (spreiding) 100,0% 107,4% 116,3% 126,0% 196,6% 
+Liquiditeit (gemiddelde) 100,0% 123,8% 84,9% 106,8% 108,3% 
+Liquiditeit (mediaan) 100,0% 92,7% 91,6% 81,5% 95,6%
