@@ -1,0 +1,32 @@
+Bijlagen
+Figuur 5.2: Schematische weergave van het effect van swaps op het risico-
+profiel per ultimo 2014
+20
+0
+−20
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+DSL Receiverswap Payerswap
+Stel dat in 2014 een 10-jaarslening wordt uitgegeven die afloopt in 2024 
+en een nominale omvang heeft van € 15 mld. Dit resulteert in een 
+renterisico van € 15 mld. in het jaar 2024. Tegelijk met deze uitgifte wordt 
+een receiverswap afgesloten met dezelfde omvang en looptijd als de 
+lening. Met een receiverswap wordt een lening met een vaste rente 
+omgezet naar een lening met een variabele rente. Oftewel, de 
+10-jaarslening is een lening geworden waarvoor elk jaar de rente opnieuw 
+vastgesteld moet worden. Daarmee is het renterisico over 10 jaar 
+overgeheveld naar het lopende jaar waardoor effectief variabele rente 
+wordt betaald. Vervolgens wordt een payerswap afgesloten met dezelfde 
+omvang van de lening, maar met een looptijd van 7 jaar. Deze payerswap 
+loopt dus af in 2021. Deze swap zet de variabele rente om in een vaste 
+7-jaarsrente. In figuur 5.2, waarin het risico ultimo 2014 wordt weerge-
+geven, vallen de risico’s in 2015 en 2024 tegen elkaar weg en blijft alleen 
+het risico in 2021 over. De receiver- en payerswap hebben het renterisico 
+van de 10-jaars lening dus effectief omgezet in een 7-jaars lening.
+Risicoprofiel van de benchmark
+In figuur 5.3 is het risicoprofiel van de benchmark per ultimo 2014 
+weergegeven. Aangezien de benchmark bestaat uit een 7-jaars gecen-
+treerde portefeuille, zou in de periode 2015–2021 ieder jaar voor een 
+zevende deel van de staatsschuld de rente opnieuw vastgesteld moeten 
+worden. Dit is voor de jaren 2016–2021 duidelijk zichtbaar in figuur 5.3. 
+Het risico is ongeveer € 52 mld. in elk jaar.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 158

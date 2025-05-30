@@ -1,0 +1,40 @@
+Kengetal: Ontwikkeling in aantallen en bruto tonnage (GT) van schepen > 100 GT en pontons > 1.000 GT
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 
+van de vloot van in Nederland geregistreerde zeeschepen onder Nederlandse vlag 
+Aantallen 
+Handelsvaart 570 574 566 640 688 725 770 800 822 808 
+Zeesleepvaart 164 174 212 222 222 249 263 247 260 258 
+Waterbouw 151 148 139 118 121 120 127 169 168 167 
+Totaal 885 896 917 980 1.031 1.094 1.160 1.216 1.250 1.233 
+Bruto tonnage (GT) (x1000) 
+Handelsvaart 4.932 5.031 5.114 5.980 6.313 6.075 6.886 6.740 7.045 6.978 
+Zeesleepvaart 178 181 243 264 237 310 307 362 347 360 
+Waterbouw 498 509 477 375 441 450 494 531 533 537 
+Totaal 5.608 5.721 5.834 6.619 6.991 6.835 7.687 7.633 7.925 7.875 
+van de vloot onder buitenlandse vlag in Nederlandse eigendom of beheer 
+Aantallen 
+Handelsvaart 375 434 462 395 410 433 422 408 403 403 
+Zeesleepvaart 329 284 332 358 406 459 456 477 498 519 
+Waterbouw 37 39 45 52 66 63 55 55 52 52 
+Totaal 741 757 839 805 882 955 933 940 953 974 
+Bruto tonnage (GT) (x1000) 
+Handelsvaart 4.692 5.566 6.278 4.542 5.057 5.259 5.232 5.072 5.517 5.987 
+Zeesleepvaart 2.704 2.782 1.903 1.423 1.217 1.011 1.298 1.640 1.612 1.643 
+Waterbouw 99 102 122 184 225 251 210 264 248 285 
+Totaal 7.495 8.450 8.303 6.149 6.499 6.521 6.740 6.976 7.377 7.915
+Bron: Zeeschepen onder Nederlandse vlag: Inspectie Leefomgeving en Transport, 2015. Zeeschepen onder buitenlandse vlag: cijfers 2005 Ecorys 
+(december 2008); cijfers van 2006–2009 Policy Research Corporation (april 2010); cijfers 2010–2014 Inspectie Leefomgeving en Transport, 2015. Alle 
+cijfers op basis van Lloyd’s Register Fairplay.
+Toelichting
+Bovenstaande kengetallen geven informatie over de ontwikkeling in 
+aantallen en bruto tonnage (GT) van de vloot in Nederlands eigendom of 
+beheer onder Nederlandse en buitenlandse vlag. De gegevens zijn 
+opgesplitst naar de sectoren handelsvaart, zeesleepvaart en waterbouw. 
+De groei c.q. afname van de vloot onder Nederlandse vlag is niet alleen 
+van overheidsbeleid afhankelijk, maar van meerdere factoren zoals de 
+wereldwijde groei van het ladingaanbod en investeringsklimaat, het 
+zeevaartbeleid (waaronder fiscale klimaat) van andere landen en de 
+individuele prestaties van de ondernemingen. Een toename van de vanuit 
+Nederland beheerde vloot (en dan met name de Nederlandse vlag) is 
+gunstig voor de ontwikkeling van de toegevoegde waarde.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XII, nr. 1 79

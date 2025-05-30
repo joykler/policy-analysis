@@ -1,0 +1,53 @@
+Indicator: Luchthavengelden, ATC-heffingen en overheidsheffingen (aeronautical kosten)
+Ranglijst kostenniveau (van hoog naar laag) Realisatie Realisatie Streefwaarde 2014 
+2013 2014 e.v. 
+London Heathrow (LHR) 1 1 
+Parijs (CDG) 3 3 
+Frankfurt (FRA) 2 2 
+Gatwick 4 4 
+Schiphol 8 8 < LHR, FRA, CDG 
+Zürich 5 5 
+München 6 6 
+Brussel 9 9 
+Madrid 7 7 
+Bron: SEO, jaarlijkse Benchmark Luchthavengelden en Overheidsheffingen 2014
+Om te kunnen vaststellen of Schiphol een concurrerend kostenniveau 
+heeft, vindt er jaarlijks een vergelijking plaats van de luchthavengelden, 
+de ATC-heffingen en de overheidsheffingen op Schiphol en tien concurre-
+rende luchthavens. De resultaten van de benchmark van 2014 laten zien 
+dat Schiphol medio 2014 net als het jaar ervoor goedkoper is dan zeven 
+andere Europese luchthavens. Het streven is om de huidige positie van 
+Schiphol in de rangorde van kostenniveau onder die van Londen 
+Heathrow, Frankfurt en Parijs Charles de Gaulle te houden.
+  
+Kengetal: Geluidsbelasting rond Schiphol
+Periode 2012 2013 2014 Grens-
+waarde TVG 
+Gedurende het gehele etmaal (L ) 62,71 62,45 62,55 63.46 dB(A) 
+den
+Gedurende de periode van 23.00 tot 7.00 uur (L ) 52,47 52,09 52,14 54.44 dB(A)
+night
+Bron: Handhavingsrapportage Schiphol van de ILT 2014
+Bron grenswaarde: Luchthavenverkeerbesluit 2004
+Toelichting
+Op Schiphol is ook in 2014 aan de grenswaarden voor het Totale Volume 
+Geluid (TVG) voldaan. Het TVG is de totale hoeveelheid geluid die door 
+alle vliegtuigen gezamenlijk in een jaar mag worden geproduceerd. In het 
+Luchthavenverkeerbesluit Schiphol is vastgelegd dat de totale 
+hoeveelheid geluid van het luchthavenluchtverkeer bij Schiphol per 
+gebruiksjaar voor het etmaal (de L ) niet meer dan 63,46 dB(A) en voor 
+den
+de nacht (de L ) niet meer dan 54,44 dB(A) mag bedragen.
+night
+Kengetal TRG score Schiphol
+Op Schiphol is ook in 2014 aan de grenswaarde voor het Totale Risico 
+Gewicht (TRG) voldaan. Het TRG is het resultaat van een vermenigvul-
+diging van het maximale startgewicht van een vliegtuig met de 
+ongevalskans per vliegtuigbeweging. De TRG-waarde 2014 bedraagt 7,101 
+ton. In het luchthavenverkeerbesluit Schiphol is vastgelegd dat het TRG 
+van het luchthavenluchtverkeer bij Schiphol per gebruiksjaar niet meer 
+dan 9,724 ton mag bedragen. Het gebruiksjaar 2014 loopt van 1 november 
+2013 tot en met 31 oktober 2014. Afgezet tegen de grenswaarde van 9,724 
+ton betekent dit dat op 31 oktober 2014 nog een TRG-ruimte van 2,623 ton 
+beschikbaar was.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XII, nr. 1 70

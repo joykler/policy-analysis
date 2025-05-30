@@ -1,0 +1,53 @@
+Bijlagen
+Als niet van de benchmark zou zijn afgeweken, dan zouden de gereali-
+seerde kosten in 2014 op de feitelijke portefeuille € 202 mln. lager zijn 
+geweest (€ 8.423 mln. in plaats van € 8.624 mln.). De gerealiseerde kosten 
+op de feitelijke portefeuille zouden dan niet € 409 mln. hoger zijn geweest 
+dan de benchmark, maar € 207 mln. hoger dan de benchmark.
+Tabel 2 geeft de relatie tussen het gerealiseerde resultaat uit tabel 1 en de 
+tabel budgettaire gevolgen van beleid in beleidsartikel 11 (Financiering 
+staatsschuld).
+  
+Tabel 2: Relatie met tabel budgettaire gevolgen van beleid artikel 11 (x € mln.)
+   2014 
+ A1a  Rentelasten kapitaalmarktleningen  – 8.746 
+ A1b  Rentelasten voortijdige beëindiging kapitaalmarktleningen  – 202 
+I  Rentelasten vaste schuld   – 8.948 
+ A3a Rentelasten staatsschuld geldmarkt   – 23 
+ A4 Geldmarkt Eoniaswaps   0 
+ A5 Rentelasten FRNs   – 54 
+II   Rentelasten vlottende schuld  – 78 
+ A1c Fees kapitaalmarkt   – 14 
+A3c  Fees geldmarkt  0  
+ III  Fees (onderdeel van overige kosten schulduitgifte)  – 14 
+ A2  Euriborswap (exclusief swaps vanwege ABN AMRO 
+leningen)  356 
+ A7  Euriborswaps voor ABN AMRO portefeuille  – 62 
+A1d  Rentebaten voortijdige beëindiging kapitaalmarktleningen   22 
+ IV  Rentebaten vaste schuld  317 
+ A3b  Rentebaten staatsschuld geldmarkt  0 
+ A6 Rentebaten leningen aan ABN AMRO  98  
+ V  Rentebaten vlottende schuld  98 
+ T otaal rentelasten staatsschuld (I+II+III+IV+V-A6)  -8.723 
+  Resultaat op leningen aan ABN AMRO (A6) 98  
+A  T otaal rentelasten staatsschuld (inclusief ABN AMRO)  – 8.624 
+ B  Totaal rentelasten benchmark – 8.216  
+  Totaal gerealiseerd resultaat t.o.v. benchmark (A-B)  – 409
+ 
+Het ongerealiseerde resultaat en het resultaat van de feitelijke 
+portefeuille ten opzichte van de benchmark
+Het alleen vergelijken van de gerealiseerde rentelasten levert geen 
+volledig beeld op. Het aflossen en herfinancieren van schuld en afsluiten 
+van swaps voltrekt zich op verschillende momenten in de feitelijke 
+portefeuille en de benchmark. Daarom wordt ook gekeken naar de 
+marktwaardeveranderingen in beide portefeuilles, oftewel het ongereali-
+seerde resultaat. De marktwaarde van de aangegane verplichtingen 
+verschilt in beide portefeuilles. Op zowel de feitelijke portefeuille als de 
+benchmark was het ongerealiseerde resultaat negatief. Dit betekent dat 
+het verwachte toekomstige resultaat op beide portefeuilles zich in 2014 
+ongunstig ontwikkeld heeft. Het ongerealiseerde resultaat op de feitelijke 
+portefeuille is € 5.652 mln. meer negatief dan het ongerealiseerde 
+resultaat op de benchmark (zie tabel 3). Of dit verschil in de toekomst 
+daadwerkelijk gerealiseerd wordt, is niet zeker en hangt af van de 
+uiteindelijke renteontwikkelingen.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 164

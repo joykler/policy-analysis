@@ -1,0 +1,52 @@
+(Informatie)beveiliging beleidskern en Rijkswaterstaat
+Cyber security
+Medio 2014 heeft de Bestuursraad van IenM gekozen voor een plan van 
+aanpak Cybersecurity met het volgende maatregelpakket:
+Allereerst versterking van de crisiscapaciteit van IenM zodat een sluitende 
+aanpak ontstaat om cyberaanvallen binnen het gehele IenM-domein tijdig 
+te kunnen detecteren en in te dammen.
+Daaraan ten grondslag ligt een beredeneerde prioritering van te 
+beschermen belangen (kroonjuwelen). Aansluitend moet worden gezorgd 
+dat er actuele risicoanalyses beschikbaar zijn voor de toplijst van 
+informatiesystemen met een hoog afbreukrisico. En ten slotte zal worden 
+gewerkt aan een heldere verantwoordelijkheids- en beheersstructuur voor 
+het permanent monitoren en borgen van de cybersecurity van informatie-
+systemen op bedoelde toplijst. Medio 2015 zal de stuurgroep Cyberse-
+curity voortgangsrapport uitbrengen aan de Bestuursraad.
+In Control Verklaring Baseline Informatiebeveiliging Rijksdienst
+De Baseline Informatiebeveiliging Rijksdienst (BIR) is eind 2012 vastge-
+steld en beschrijft de invulling van NEN/ISO 27001 en 27002 voor de 
+rijksoverheid. Voor deze eisen gesteld aan de informatiebeveiliging van de 
+IT infrastructuur Rijksdienst is Rijksbreed een implementatietraject 
+(comply or explain) afgesproken. Over 2014 wordt via de ADR Rijksbreed 
+gerapporteerd over 5 thema’s en wordt aan de departementen gevraagd 
+om een vormvrije In Control Verklaring voor de kritieke systemen. IenM 
+heeft aan dgOBR van het Ministerie van Binnenlandse Zaken en Konink-
+rijksrelaties de In Control Verklaringen verstrekt voor de organisatie 
+onderdelen. Aan de In Control Verklaring van RWS en Bestuurskern ligt 
+een uitvoeringsplan ten grondslag. Bij RWS is dat het meerjarenplan 
+Beveiligd Werken en bij de Bestuurskern is dat een jaarlijks bijgewerkte 
+uitvoeringsplan. Met het oog op het vergroten van het zicht op de 
+kwaliteit van de wijzigingen die in het IenM SAP systeem worden 
+doorgevoerd wordt het advies van de ADR opgevolgd om het contract 
+met de dienstverlener nogmaals te analyseren, de daaruit voortvloeiende 
+taken en verantwoordelijkheden eenduidig te beleggen en uit te werken in 
+het Dossier afspraken en procedures.
+Rijkswaterstaat
+Naar aanleiding van de veranderende maatschappelijke context en de 
+door de Algemene Rekenkamer geconstateerde onvolkomenheid is RWS 
+in 2012 gestart met de beveiliging tegen cyber criminaliteit. De invoering 
+van cyber security was ondergebracht bij het Programma Regie op 
+Industriële Automatisering (PRIA). Dit programma richtte zich op het 
+«in-control» brengen en houden van de beveiliging van de automatisering 
+ter ondersteuning van de missie kritieke processen van RWS. Daarbij is in 
+kaart gebracht wat de te nemen aanvullende beheersmaatregelen zijn in 
+relatie tot de eisen die hieraan worden gesteld, zoals de eisen van de 
+Baseline Informatiebeveiliging Rijk. Met ingang van 2014 is dit (meerjaren) 
+programma opgegaan in Beveiligd Werken Rijkswaterstaat.
+In 2014 zijn aanvullende beheersmaatregelen getroffen voor het hoofdwa-
+tersysteem (beweegbare keringen, stuwen en gemalen en de bediening 
+hiervan) en de hieraan gerelateerde generieke voorzieningen. De gekozen 
+prioritering sluit aan op richtlijnen van het Ministerie van VenJ, dat «Water 
+keren en beheren» aanmerkt als «maatschappelijk vitaal proces».
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XII, nr. 1 146

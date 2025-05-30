@@ -1,0 +1,42 @@
+Doelmatigheid
+Overzicht doelmatigheidsindicatoren per 31 december 2014
+2011 2012 2013 2014 Begroting 
+2014 
+Kostprijs in € per eenheid product 
+– percentage overhead 19% 20% 27% 27% 19% 
+– fte’s indirect 103 88 94 91 93 
+Tarieven/uur 118 112 109 115 99 
+Omzet per productgroep 
+– meteorologie 47.542 50.423 46.254 47.121 45.101 
+– seismologie 1.999 3.686 2.690 1.753 1.842 
+– aardobservatie 9.127 10.110 8.468 9.846 10.728 
+FTE- per 31 december 393 383 358 354 362 
+Saldo van baten en lasten (%) 2% 2% 4% – 2% 0% 
+Algemene weersverwachtingen en adviezen 
+– afwijking min temperatuur (°C) – 0,33 – 0,17 – 0,01 – 0,18 ABS(<0,5) 
+– afwijking max temperatuur (°C) – 0,06 – 0,32 – 0,25 – 0,52 ABS(<0,5) 
+– gem afwijking wind snelheid (m/s) – 0,03 – 0,05 0,26 0 ABS(<1,0) 
+Maritieme verwachtingen 
+– tijdigheid marifoonbericht (%) 99 98,4 99,3 99,9 >99
+Toelichting
+Kosten in € per eenheid product
+De indirecte fte’s worden berekend op basis van het aantal geschreven 
+uren op alle overheadactiviteiten. In 2014 is productiever geschreven 
+waardoor het aantal indirecte fte’s is gedaald ten opzichte van 2013.
+Tarieven per uur
+Het uurtarief wordt bepaald door de totale kosten, exclusief kosten direct 
+geboekt op een product, te delen door het aantal geschreven uren op de 
+producten.
+Het uurtarief is in 2014 gestegen ten opzichte van 2013. Deze stijging 
+wordt veroorzaakt door hogere kosten voor inhuur en ICT inzet en een 
+daling van het aantal geschreven uren met 1,1%.
+Algemene weersverwachtingen en adviezen
+De norm voor de kwaliteit van de verwachting van de maximumtempe-
+ratuur is niet gehaald. Dit vindt zijn oorzaak hoogstwaarschijnlijk in het feit 
+dat 2014 een record warm jaar was, waarbij met uitzondering van 
+augustus elke maand het warmer was dan het langjarig gemiddelde. 
+Zowel de weermodellen als de meteorologen hebben in dit geval de 
+neiging om de maximumtemperatuur iets te onderschatten. De achterlig-
+gende oorzaak zal verder worden onderzocht, waarna verbetermaatre-
+gelen worden genomen.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XII, nr. 1 189

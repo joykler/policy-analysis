@@ -1,0 +1,57 @@
+Bijlagen
+Figuur 5.4: Risicoprofiel van de uitstaande leningen ultimo 2014 (in € mld.)
+100
+80
+60
+40
+20
+0
+−20
+−40
+−60
+Kapitaalmarkt exclusief swaps Geldmarkt inclusief collateral
+Leningen aan ABN-Amro FRN
+Naast de kapitaalmarkt en de geldmarkt zijn in figuur 5.4 ook leningen aan 
+ABN AMRO en de financiering daarvan (FRN) zichtbaar. Dit is het gevolg 
+van het belang dat de Nederlandse Staat in 2008 heeft genomen in 
+verschillende onderdelen van Fortis en indirect in het door Fortis gekochte 
+deel van RFS Holdings (ABN AMRO). Onderdeel van het verwerven van de 
+deelneming was de overname van korte en lange leningen van Fortis 
+Bank SA/NV aan Fortis Bank Nederland (FBN) (Kamerstukken II, 2008/09, 
+31 371, nr. 12). Zowel de leningen aan (wat nu heet) ABN AMRO als de 
+financiering hiervan wordt verantwoord op dit begrotingsartikel (art. 11). 
+Dit maakt het mogelijk om voor dit deel van de staatsschuld een effi-
+34
+ciëntere risicomanagementbenadering te hanteren . Het deel van de 
+benchmark waarmee de financiering van de leningen en de resterende 
+leningen aan ABN AMRO vergeleken moeten worden, is ook verwerkt in 
+figuur 5.3 in de jaarbucket 2015 en had per ultimo 2014 een omvang van 
+€ – 261 mln.
+Om het risicoprofiel van de feitelijke portefeuille te laten aansluiten bij het 
+risicoprofiel van de benchmark wordt de leningportefeuille aangevuld met 
+receiverswaps en payerswaps. Deze renteswaps buigen het risicoprofiel 
+van de uitstaande leningen om naar het 7-jaars risicoprofiel. Het risico-
+profiel van alleen de renteswaps is weergegeven in figuur 5.5.
+Payerswaps worden gebruikt om de variabele rente van de receiverswaps 
+die bij kapitaalmarktleningen afgesloten worden om te zetten naar de 
+7-jaarsrente. Daarnaast wordt het kastekort van het voorgaande jaar met 
+payerswaps rentetechnisch omgezet van de geldmarkt naar de kapitaal-
+markt. Hierdoor staan per saldo meer payerswaps uit dan receiverswaps. 
+In 2015 wordt voor het variabele deel van alle afgesloten swaps de rente 
+34
+Het betreft hier een ALM-benadering (asset & liability management), waarbij het renterisico 
+van de financiering van de leningen is afgestemd op het renterisico van de leningen aan Fortis 
+Bank Nederland. Deze benadering voor risicomanagement wijkt af van wat doorgaans 
+gebruikelijk is bij staatsschuldfinanciering. De financieringsbehoefte wordt in de regel in 
+totaliteit gedekt en niet afgestemd op het risico van de bezittingen die ermee zijn gefinancierd.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 160
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022−2026
+2027−2030
+>2030

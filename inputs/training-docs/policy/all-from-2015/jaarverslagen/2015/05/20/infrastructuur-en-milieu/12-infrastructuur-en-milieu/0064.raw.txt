@@ -1,0 +1,53 @@
+Indicator Spoorveiligheid (naar risicodrager)
+Beoordelingsjaar 2013 2012 verbe-
+1) 
+2014 tering in 
+2013 
+t.o.v. 
+2012? 
+Nr. Risico-drager Omschrijving indicator NRV MWA MWA MWA 
+2) 
+2014 2013 2012 
+1.1 Reiziger FWSI onder reizigers / jaar / mld 
+reizigerstreinkm’s 6,57 .... 4,22 6,57 ja 
+1.2 Reiziger FWSI onder reizigers / jaar / mld 
+reizigerskm’s 0,05 .... 0,03 0,05 ja 
+2 Personeel FWSI onder spoorpersoneel / jaar / 
+mld treinkm’s 2,25 .... 3,37 2,25 neen 
+3.1 Overweggebruiker FWSI onder overweggebruikers / 
+jaar / mld treinkm’s 97,05 .... 85,22 97,05 ja 
+3.2 Overweggebruiker FWSI onder overweggebruikers / 
+jaar / ((mld treinkm’s*aantal 
+overwegen)/ lijnkm’s) 108,7 .... 100,3 108,7 ja 
+4 Onbevoegden FWSI onder onbevoegden op het 
+spoor / jaar / mld treinkm’s 7,99 .... 7,92 7,99 ja 
+5 Anderen FWSI onder «anderen (derden)» / 
+jaar / mld treinkm’s 7,21 .... 5,74 7,21 ja 
+6 Overall Totaal FWSI / jaar / mld treinkm’s 129 .... 110 129 ja
+Bron: ILT Jaarverslag 2013 van de Nationale Veiligheidsinstantie Spoor (NSA), Kamerstukken II, 2014/15, 29 893, nr. 178 
+Gebruikte afkortingen in de tabel:
+FWSI = Fatalities and Weighted Serious Injuries (het aantal doden en gewogen zwaargewonden)
+NRV = National Reference Value, de in Europees kader vastgestelde referentiewaarde per lidstaat voor de betreffende indicator
+MWA = Moving Weighted Average (voortschrijdend gewogen gemiddelde)
+Toelichting:
+Ad 1) De gegevens voor kolom «MWA 2014» waren nog niet beschikbaar 
+ten tijde van het drukken van dit jaarverslag. De gegevens komen uiterlijk 
+september 2015 beschikbaar en zullen dan separaat aan de Tweede Kamer 
+worden verzonden.
+Ad 2) Hierboven staan de indicatoren voor railveiligheid. Dit betreft de 
+ontwikkeling van de verschillende veiligheidsdoelstellingen voor de 
+diverse risicodragers conform de Europese systematiek, zoals die ook 
+e 
+wordt toegepast in de 3 kadernota railveiligheid. Risicodragers zijn 
+actoren met verschillende rollen die binnen het spoorsysteem veiligheids-
+risico’s lopen. In bovenstaande tabel is voor de belangrijkste acht 
+railveiligheidsindicatoren aangegeven wat de stand van zaken eind 2013 
+en eind 2012 was op basis van meerjarige voortschrijdende gewogen 
+gemiddelden («Moving Weighted Average»). Voor de ontwikkelingen 
+e 
+rondom deze railveiligheidsindicatoren geldt het beleid van de 3
+kadernota railveiligheid, namelijk dat we de railveiligheid op alle fronten, 
+dus bij elk van deze acht veiligheidsindicatoren, continu willen verbeteren. 
+Zoals in bovenstaande tabel te zien, is dat in 2013 bij 7 van de 8 gelukt, 
+maar bij 1 niet.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XII, nr. 1 63

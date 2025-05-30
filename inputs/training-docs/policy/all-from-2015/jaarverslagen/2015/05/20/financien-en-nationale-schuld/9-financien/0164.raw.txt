@@ -1,0 +1,57 @@
+Bijlagen
+portefeuille. Door de rentekosten van beide portefeuilles te vergelijken, 
+wordt nagegaan in hoeverre de gemiddelde 7-jaarsrente benaderd wordt.
+De gerealiseerde kosten van de feitelijke portefeuille zullen nooit exact 
+overeenkomen met de gerealiseerde kosten volgens de benchmark. Dit 
+heeft verschillende oorzaken. Ten eerste worden in de feitelijke porte-
+feuille 7-jaars payerswaps afgesloten om de 7-jaars gecentreerde 
+benchmarkportefeuille te benaderen. In de benchmark worden alleen 
+fictieve 7-jaars staatsobligaties uitgegeven. De swaprente is meestal 
+(maar niet per definitie) hoger dan de staatsrente, waardoor de feitelijke 
+portefeuille in beginsel tegen hogere kosten wordt gefinancierd dan de 
+benchmark. Het verschil tussen de swap- en staatsrente kan aan de 
+andere kant ook een positief effect hebben op de gerealiseerde kosten van 
+de feitelijke portefeuille ten opzichte van de benchmark. Bij het afsluiten 
+van een receiverswap na het uitgeven van een kapitaalmarktlening wordt 
+gemiddeld genomen een hogere vaste (swap)rente ontvangen dan de 
+vaste rente die op deze staatsobligatie betaald wordt. De staat «verdient» 
+dit verschil.
+Ten tweede ontstaat door de verschillende afsluitmomenten van de payer- 
+en receiverswaps een verschil in de variabele rentes die ontvangen 
+worden op de payerswaps en de variabele rentes die betaald worden op 
+de receiverswaps.
+Ten slotte is sinds 2012 afgeweken van de benchmark door enkele lange 
+leningen niet terug te swappen naar de voorgeschreven 7 jaar. De eerste 7 
+jaar van de looptijd van deze uitgiftes zijn de rentekosten hoger dan 
+wanneer wel geswapt zou zijn, omdat de rente van de betreffende lening 
+doorgaans hoger is dan de 7-jaars swaprente. Deze bewuste afwijkingen 
+hebben een negatieve invloed op de gerealiseerde kosten (ten opzichte 
+van de benchmark): in de feitelijke portefeuille wordt meer rente betaald 
+dan in de benchmark. Deze hogere kosten die het gevolg zijn van 
+afwijkingen representeren de prijs die betaald wordt voor de risicore-
+ductie. Het voordeel van het niet terug swappen van lange leningen zou in 
+latere jaren moeten optreden.
+Tabel 1 geeft een overzicht van de gerealiseerde kosten van de benchmark 
+en de feitelijke portefeuille. Wanneer de financiering volgens de 
+benchmark had plaatsgevonden, waren de gerealiseerde kosten in 2014 
+€ 8.216 mln. geweest. De werkelijke kosten waren met € 8.624 mln. € 409 
+mln. hoger.
+  
+Tabel 1: Gerealiseerd resultaat benchmark en feitelijke portefeuille (x € mln.)
+  2014 
+ Benchmarktransacties vóór 2008  – 966 
+ Benchmarktransacties 2008 tot en met 2014  – 7.284 
+ Benchmark geldmarkt  34 
+ Benchmark geldmarkt ten behoeve van ABN AMRO 0  
+Resultaat op de benchmark  – 8.216  
+ Staatsschuld kapitaalmarkt  – 8.939 
+ Kapitaalmarkt euriborswaps  356 
+ Staatsschuld geldmarkt – 23  
+ Geldmarkt eoniaswaps  0 
+ Floating rate notes (FRN) voor financiering leningen aan ABN AMRO – 54  
+Leningen aan ABN AMRO  98  
+ Euriborswaps voor ABN AMRO portefeuille  – 62 
+ Resultaat feitelijke portefeuille  – 8.624 
+ Resultaat feitelijke portefeuille t.o.v. de benchmark  – 409
+ 
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 163

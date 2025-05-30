@@ -1,0 +1,47 @@
+Bijlagen
+BIJLAGE 4: STAATSSCHULDFINANCIERING VOLGENS DE 
+BENCHMARK 
+In deze bijlage worden de verschillen tussen het risico en het resultaat van 
+de feitelijke portefeuille en de benchmarkportefeuille nader toegelicht. 
+Paragraaf 4.8.C bevat een korte samenvatting van deze bijlage.
+Het risico van de feitelijke portefeuille ten opzichte van de 
+benchmark
+Het vergelijken van het risico van de feitelijke portefeuille met dat van de 
+benchmark portefeuille gebeurt met (rente)risicoprofielen. Risico betekent 
+in deze context fluctuaties in de rentekosten. In deze paragraaf wordt eerst 
+uitgelegd wat een risicoprofiel is. Vervolgens worden de risicoprofielen 
+van beide portefeuilles vergeleken.
+Wat is een (rente)risicoprofiel?
+Een risicoprofiel van een portefeuille geeft weer welk deel van de 
+portefeuille elk jaar wordt geherfinancierd. De rente wordt dan opnieuw 
+vastgesteld. Voor een portefeuille die alleen uit leningen bestaat is het 
+risicoprofiel gelijk aan het aflossingsprofiel. Figuur 5.1. geeft het risico-
+profiel weer van een «perfecte» 7-jaars gecentreerde portefeuille, waarin 
+alleen 7-jaars leningen worden uitgegeven. Als de omvang van deze 
+portefeuille eind 2014 € 350 mld. was, dan bestaat deze uit leningen met 
+een resterende looptijd van 1 tot en met 7 jaar, en staat voor ieder jaar een 
+bedrag van € 50 mld. uit. In 2015 moet dan dus € 50 mld. opnieuw 
+gefinancierd worden door (wederom) de uitgifte van 7-jaars leningen. De 
+staaf in het risicoprofiel bij het jaar 2015 verplaatst daardoor in zijn geheel 
+naar 2022.
+Figuur 5.1: Risicoprofiel van een 7-jaars gecentreerde portefeuille (in € mld.)
+60
+40
+20
+0
+In de praktijk worden niet alleen 7-jaars leningen afgesloten. Om de 
+leningen met verschillende looptijden bij te sturen naar de gewenste duur 
+worden swaps afgesloten. Als een portefeuille daarnaast renteswaps 
+bevat, dan verandert dit het risicoprofiel van de portefeuille. Het risico-
+profiel is dan niet langer gelijk aan het aflossingsprofiel.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 157
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022−2026
+2027−2030
+>2030

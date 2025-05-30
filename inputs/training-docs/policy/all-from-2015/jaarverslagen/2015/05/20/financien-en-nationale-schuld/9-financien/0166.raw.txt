@@ -1,0 +1,43 @@
+Bijlagen
+  
+Tabel 3: Uitsplitsing van het resultaat – 2014 (x € mln.)
+   Gereali- Ongereali- Totaalre-
+seerd seerd sultaat 
+ A1  Staatsschuld kapitaalmarkt  – 8.939  – 19.133  – 28.073 
+ A2  Kapitaalmarkt Euriborswaps 356   4.976  5.332 
+ A3  Staatsschuld geldmarkt  – 23  – 4 – 27  
+A4  Geldmarkt Eoniaswaps  0   3  3 
+ B1 Benchmark  – 8.216   – 8.432  – 16.648 
+X1  Resultaat feitelijke  
+portefeuille t.o.v. 
+benchmark (A -/- B)  – 390  – 5.726  – 6.117 
+ A5  Floating rate notes (FRN) 
+voor financiering leningen 
+aan ABN AMRO – 54  36  – 18  
+A6  Leningen aan ABN AMRO   98  105  203 
+A7   Euriborswaps voor ABN 
+AMRO portefeuille  – 62 – 67  – 129  
+B2   Benchmark ABN AMRO 
+portefeuille  0 0   0 
+ X2  Resultaat ABN Amro 
+portefeuille t.o.v. 
+benchmark (A-/- B) – 18  74   56 
+  Resultaat feitelijke 
+portefeuille t.o.v. de 
+benchmark (X1+X2)  – 409  – 5.652  – 6.060
+ 
+De bovenstaande tabel bestaat uit twee delen: de schuldportefeuille en de 
+portefeuille met leningen aan ABN AMRO en de financiering daarvan. In 
+2014 is een resultaat van € – 6.060 mln. behaald ten opzichte van de 
+benchmark. Het negatieve resultaat is opgebouwd uit een negatief 
+resultaat van € 6.117 mln. op de schuldportefeuille (X1) en een positief 
+resultaat van € 56 mln. op de ABN AMRO portefeuille (X2).
+Resultaat op de schuldportefeuille
+Op de kapitaalmarktleningen is een negatief resultaat geboekt (A1 in tabel 
+3). De oorzaak hiervan is een flinke daling van de staatscurve in 2014. In 
+figuur 5.7 is te zien dat de curve vlakker is geworden. Bij een daling van de 
+rente stijgt de prijs van obligaties. Deze obligaties worden meer waard 
+voor de investeerders, maar zijn minder waard voor de staat. Als de 
+leningen later uitgegeven zouden zijn, dan was de staat minder rente 
+verschuldigd.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 165

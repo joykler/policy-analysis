@@ -1,0 +1,35 @@
+Bijlagen
+aangezien de daggeldrente (eonia) die wordt betaald sterker gedaald is 
+dan de vaste rente die wordt ontvangen.
+Het totale resultaat op de feitelijke hoofdportefeuille komt uit op 
+€ – 22.765 mln. (som van A1 t/m A4 in tabel 3), terwijl het resultaat op de 
+benchmark gelijk is aan € – 16.648 mln. (B1 in tabel 3). De huidige 
+feitelijke portefeuille van leningen en swaps heeft in 2014 dus tot een 
+€ 6.117 mln. meer negatief resultaat geleid dan de benchmark porte-
+feuille.
+De omvang van dit resultaat zou anders geweest zijn, als er gedurende 
+2012–2014 niet van de benchmark afgeweken zou zijn. Dit is duidelijk 
+zichtbaar in het risicoprofiel van de portefeuille (figuur 5.6). Wanneer niet 
+afgeweken zou zijn, was het resultaat op de feitelijke portefeuille € 4.110 
+mln. minder negatief geweest. Gezien de daling van de swapcurve zou 
+het, zuiver en alleen bekeken uit oogpunt van marktwaardeontwikkeling 
+van renteswaps, gunstig zijn geweest om meer receiverswaps in 
+portefeuille te hebben. Het resultaat van de feitelijke portefeuille ten 
+opzichte van de benchmark zou zonder afwijkingen € – 1.950 mln. 
+geweest zijn.
+Resultaat ABN AMRO portefeuille
+Op de ABN AMRO portefeuille is een positief resultaat geboekt ten 
+opzichte van de benchmark van € 56 mln. Het resultaat op de Floating 
+Rate Notes (FRNs) is negatief, doordat de staatscurve is gedaald. Voor de 
+waardering van de FRN wordt de Staatscurve (met een opslag van 10 bp) 
+gebruikt.
+De leningen aan ABN AMRO bestaan uit fixed en floating loans. De staat 
+ontvangt hier rente over. Deze leningen worden gewaardeerd met de 
+6-maands Euriborswapcurve met een opslag van 200bp. Deze waarde-
+ringscurve is gedaald in 2014, waardoor een positief resultaat van € 203 
+mln. op de leningportefeuille is ontstaan.
+De fixed loans zijn gehedged met 6-maands Euriborpayerswaps. De 
+waarde van deze swaps is afhankelijk van de ontwikkelingen van de 
+swapcurve. De daling van swapcurve leidt tot een negatief resultaat van 
+€ 129 mln.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 167

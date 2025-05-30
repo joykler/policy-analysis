@@ -1,0 +1,35 @@
+Bijlagen
+Figuur 5.3: Risicoprofiel van de benchmark ultimo 2014 (in € mld.)
+100
+80
+60
+40
+20
+0
+−20
+−40
+−60
+Kapitaalmarkt 2008−2014
+Het risico in 2015 wijkt af en is circa € 18 mld. hoger dan in de jaren 
+2016–2021. Dit deel van het risicoprofiel is gevoelig voor veranderingen in 
+de variabele rente (o.a. de 6 maands Euribor en Eonia tarief). De omvang 
+van de afwijking wordt bepaald door de kassaldi in voorgaande jaren.
+Risicoprofiel feitelijke portefeuille
+In praktijk wordt de benchmark benaderd door een combinatie van 
+leningen en Euriborswaps. In figuur 5.4 is het risicoprofiel van de 
+uitstaande leningen per ultimo 2014 weergegeven. In 2016 moet er 
+bijvoorbeeld ongeveer € 30 mld. aan leningen worden afgelost, en dus 
+ook worden geherfinancierd (tegen een nog onbekende rente). Uit de 
+figuur blijkt duidelijk dat het risicoprofiel van alleen de uitstaande 
+leningen niet aansluit bij het gewenste risicoprofiel van de benchmark.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 159
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022−2026
+2027−2030
+>2030

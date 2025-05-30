@@ -1,0 +1,57 @@
+Beleidsartikelen
+Het risicoprofiel van de feitelijke portefeuille sluit voor een groot deel van 
+de jaren goed aan bij het risicoprofiel van de benchmark. Er zijn twee 
+opvallende verschillen:
+– in de periode na 2021 is het risico hoger voor de feitelijke portefeuille 
+met een duidelijke piek in 2030 en verder. Daarbij moet opgemerkt 
+worden dat hoe verder in de toekomst het renterisico ligt, hoe lager dit 
+risico is. De rente staat immers vast tot het moment dat het opnieuw 
+moet worden vastgesteld;
+– in 2019, 2020 en 2021 is het herfinancieringrisico van de feitelijke 
+portefeuille lager dan dat van de benchmark.
+De verschillen zijn het gevolg van de bewuste afwijkingen van de 
+benchmark. In de periode 2012–2014 is bij een aantal uitgiftes besloten 
+om af te wijken van het risicokader door de rente van lange kapitaalmarkt-
+leningen te laten staan en niet door middel van renteswaps om te zetten 
+naar de 7-jaarsrente. Dit verhoogt het renterisico in de jaren waarin deze 
+leningen afgelost worden (2028, 2033, 2037, 2042 en 2047), omdat in die 
+jaren over de herfinanciering van deze schuld de rente opnieuw wordt 
+vastgesteld. Daar staat tegenover dat het renterisico juist lager is in de 
+jaren 2019, 2020 en 2021: dit zijn de jaren waarin de 7-jaars renteswaps 
+waren afgelopen als er voor gekozen was om niet af te wijken van het 
+risicokader.
+Gerealiseerde kosten van de feitelijke portefeuille ten opzichte 
+van de benchmark
+In het jaarverslag worden de gerealiseerde kosten voor staatsschuldfinan-
+ciering verantwoord. De gerealiseerde kosten omvatten rentelasten en 
+kosten die verbonden zijn aan schulduitgifte, zoals bemiddelingskosten 
+(fees). Het resultaat van de feitelijke portefeuille wordt afgezet tegen die 
+van de benchmarkportefeuille. Door de rentekosten van beide porte-
+feuilles te vergelijken, wordt nagegaan in hoeverre de gemiddelde 
+7-jaarsrente benaderd wordt.
+Tabel 1 biedt een overzicht van de gerealiseerde kosten die vergeleken 
+worden met de benchmark. Daarmee wordt het verband gelegd met de 
+tabel in paragraaf 4.8.D, waarin alle budgettaire gevolgen van het beleid 
+weergegeven worden. De gerealiseerde kosten worden in deze tabel als 
+negatief bedrag weergegeven, als gevolg van de definitie van «het totale 
+resultaat» op de feitelijke portefeuille en benchmark (zie verderop). 
+Wanneer de financiering volgens de benchmark had plaatsgevonden, 
+waren de gerealiseerde kosten in 2014 € 8.216 mln. geweest, terwijl deze 
+in werkelijkheid € 8.624 mln. waren (€ 409 mln. hoger).
+  
+Tabel 1: Gerealiseerd resultaat benchmark en feitelijke portefeuille (x € mln.)
+  2014 
+Rentelasten vaste schuld   – 8.746 
+Rentelasten vlottende schuld   – 78 
+ Rentelasten voortijdige beëindiging  – 202 
+ Betaalde fees (onderdeel van overige kosten schulduitgifte)  – 14 
+Rentebaten vaste schuld   294 
+ Rentebaten vlottende schuld – exclusief ABN AMRO  0 
+ Rentebaten voortijdige beëindiging 22  
+ Totaal netto rentelasten staatsschuld  – 8.723 
+ Rentebaten vlottende schuld – ABN AMRO  98 
+T otaal netto rentelasten staatsschuld (inclusief ABN AMRO) – 8.624  
+ Totaal rentelasten benchmark  – 8.216 
+ Totaal gerealiseerd resultaat t.o.v. benchmark (A-B)  – 409
+ 
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 94
