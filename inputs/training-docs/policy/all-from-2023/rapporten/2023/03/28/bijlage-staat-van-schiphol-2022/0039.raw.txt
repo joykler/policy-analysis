@@ -1,0 +1,20 @@
+Staat van Schiphol 2022 | 28 maart 2023 
+ 
+ 
+Om een PCA te laten werken is een PCA-unit en (meestal) een stopcontact voor de 
+PCA-unit nodig. Schiphol geeft aan te hebben gezorgd voor PCA-stopcontacten op 
+72 VOP’s (dezelfde VOP’s als waar een FPU beschikbaar is). De 
+verantwoordelijkheid voor de aanschaf en het onderhoud van PCA-units heeft 
+Schiphol naar de grondafhandelaren verlegd. Op dit moment zijn er 39 PCA-units 
+in gebruik op Schiphol. Sommige PCA-units werken op fossiele brandstof en 
+hebben dus geen stopcontact nodig. 
+ 
+APU- en GPU-gebruik is aan regels gebonden, zoals die in de Wet luchtvaart en 
+het Luchthavenverkeerbesluit Schiphol (LVB). Volgens het LVB moet Schiphol 
+minstens 61 vliegtuigopstelplaatsen met alternatieven voor een APU hebben. 
+Specifieke regels waar piloten zich aan moeten houden zijn opgenomen in de 
+Aeronautical Information Publication (AIP). 
+ 
+  
+ 
+Pagina 39 van 48

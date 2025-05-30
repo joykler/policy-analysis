@@ -1,0 +1,48 @@
+Tanzania 1 0,1% 
+Turkije 2 0,3% 
+Venezuela 1 0,1% 
+Verenigde Arabische Emiraten 1 0,1% 
+Verenigde Staten 2 0,3% 
+Zwitserland 1 0,1% 
+ 
+geboortelanden ouders  
+Geboorteland ouder 1 N % Geboorteland ouder 2 N % 
+Nederland 492 73,1% Nederland 540 76,7% 
+Afghanistan 3 0,4% Afghanistan 3 0,4% 
+Angola 1 0,1% Angola 1 0,1% 
+Argentinië 1 0,1% Argentinië 1 0,1% 
+Aruba  0 0,0% Aruba  1 0,1% 
+Australië  0 0,0% Australië  1 0,1% 
+Azië 0 0,0% Azië 0 0,0% 
+België 7 1,0% België 1 0,1% 
+Bonaire 1 0,1% Bonaire 1 0,1% 
+Bosnië 1 0,1% Bosnië 1 0,1% 
+Brazilië  1 0,1% Brazilië  1 0,1% 
+Canada 0 0,0% Canada 0 0,0% 
+Chili 1 0,1% Chili 1 0,1% 
+China 5 0,7% China 5 0,7% 
+Colombia 2 0,3% Colombia 1 0,1% 
+Congo 1 0,1% Congo 2 0,3% 
+Curaçao 14 2,0% Curaçao 12 1,8% 
+Dominicaanse republiek 0 0,0% Dominicaanse republiek 1 0,1% 
+Duitsland 7 1,0% Duitsland 7 1,0% 
+Ecuador  1 0,1% Ecuador  1 0,1% 
+Egypte 2 0,3% Egypte 2 0,3% 
+Engeland 3 0,4% Engeland 2 0,3% 
+Finland 1 0,1% Finland 0 0,0% 
+Frankrijk 2 0,3% Frankrijk 4 0,6% 
+Frans Guyana 0 0,0% Frans Guyana 1 0,1% 
+Ghana 1 0,1% Ghana 1 0,1% 
+Griekenland 2 0,3% Griekenland 1 0,1% 
+India 2 0,3% India 0 0,0% 
+Indonesië 31 4,5% Indonesië 21 3,0% 
+Iran 3 0,4% Iran 3 0,4% 
+Israël 1 0,1% Israël 0 0,0% 
+Joegoslavië 1 0,1% Joegoslavië 1 0,1% 
+Kaapverdië 1 0,1% Kaapverdië 4 0,6% 
+Kenia 0 0,0% Kenia 1 0,1% 
+Koerdistan 1 0,1% Koerdistan 0 0,0% 
+Kroatië 1 0,1% Kroatië 0 0,0% 
+Letland 0 0,1% Letland 2 0,3% 
+Libanon 1 0,1% Libanon 0 0,0% 
+DSP-groep RAPPORT ─ Je kunt niet zijn wat je niet kunt zien 69
