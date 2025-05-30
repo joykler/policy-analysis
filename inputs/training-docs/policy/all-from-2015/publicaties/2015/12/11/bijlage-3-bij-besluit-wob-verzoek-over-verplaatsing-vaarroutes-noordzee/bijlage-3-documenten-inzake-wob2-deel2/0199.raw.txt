@@ -1,0 +1,62 @@
+if
+Project:
+P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Directional Stabilily
+Directional stability is the ability of a ship settie
+to on a new steady heading in calm seas with the
+rudder amidships after being
+knocked off course by a transient force. There is no inherent
+imbalance
+of forces to return the ship to its original heading, though a wave crest
+if striking the
+bow obliquely yaws the ship off its set heading. then the
+wave will tend to yaw a directionally
+stable ship back again as it passes along
+the vessel’s length. To understand directional stability
+further, it is necessary to
+examine how a ship is steered by the action of the rudder.
+Figure 8— The action rudder in altering
+of a a ship’s course
+A
+vessel turning to starboard
+—— _%
+The shlp moving
+bodily to port
+.—
+yr/
+Bowswinglng
+tostarboard
+Flow over
+The rudderis
+put
+over to sta rboard
+—‘
+The propeller directs flow asymmetricelly around the rudder to force to
+produce a port on the
+stem, swinging the bow to starboard.
+The resultant of propeller thrust and the rudder farce is
+deflected to port of the centreline.
+The vessel Is following a circular track
+As the vessel drifts bodily out to port and the bow swings to starboard, 170w begins to divide
+the
+asymmetrically around the immersed huli.
+The track of G’ since putting
+The hydrodynamic fluli force ‘FH’ acts through point
+over
+The rudder to starboard ‘A and forces the
+vessel to follow a circular track
+= Boundary layer of water moving wholly or partially
+along wlth the ship
+The huil now moves through the water
+making a drift angle ‘cl’ to the streamîines. Low pressure
+is created on to starboard
+due to the accelerated flow whllst high pressure is produced to port.
+A centripetal force acts to starboerd of the vessel’s c of g. so the ship follows en arc
+of a circle.
+Date: Created on 27/03/2012 14:12:00
+Page: 182of192
+Doc: P60151/1 — Netherlands Wind park FSA

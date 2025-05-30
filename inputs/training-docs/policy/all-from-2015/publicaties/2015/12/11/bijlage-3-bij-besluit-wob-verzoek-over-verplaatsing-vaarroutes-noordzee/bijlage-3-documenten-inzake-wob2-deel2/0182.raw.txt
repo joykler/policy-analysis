@@ -1,0 +1,90 @@
+are:
+far
+Project: P6015111
+dient:
+Port of Rotterdam
+Title: Netherlands Windfarm Formal
+Safety Assessment
+ARCADIS
+Rule 3 - Definitions
+Rule 3 defines terms used in the regulations,
+inciuding the different categories that
+a vessel can
+be considered belonging to with
+respect to the regulations. The feature
+that determines which
+category vessel
+a belongs to is the extent to which the
+vessel’s ability to take immediate action
+to avoid collision
+is restricted by what it is at the
+doing time. So, for example, ships engaged in
+towing have limited manoeuvrability
+due to their tow, which might also seen
+be as a separate
+vessel unless they are displaying
+the Iights and daylight shapes prescribed
+in the regulations.
+The other categories
+• Power driven
+vessel — Any vessel propelled machinery
+by (i.e. its speed can be altered and
+it can be steered in any direction).
+• Sailing vessel
+— A vessel under sail that is not also using
+any auxiliary engine (i.e. it can
+only be steered
+in the directions that the wind allows).
+• Vessel engaged in fishing — Any
+vessel activelyfishing with nets, trawis, lines
+or any other
+gear that restricts its
+manoeuvrability but not vessels fishing with
+troli lines, as these do not
+limit manoeuvrability.
+• Seaplane — Any aircraft that is designed
+to manoeuvre on the water, so this inciudes
+flying
+boats as well as what are
+normally termed as seaplanes.
+• Vessel not under command
+— A vessel that for exceptional reasons
+is unable to manoeuvre,
+such as in the
+case of an engine breakdown or ajammed rudder.
+• Vessel restricted in her ability
+to manoeuvre — Any vessel engaged in
+vork that restricts
+manoeuvrability. such
+as dredging, underwater surveying, pipe
+or cable laying. launching
+or recovering
+aircraft, replenishing another at
+ship sea, mme clearance etc.
+• Vessel constrained by her draught
+— A power driven vessel restricted in its manoeuvrability
+by the depth ofwater.andwidth
+of navigable channel, relative to
+the vessel’s draught and
+size.
+The regulations prescribe the Iights and
+daylight shapes that the different categories
+of vessel
+must show and they
+how must respond to each other in the various
+collision risk situations.
+Note
+that afishing vessel movingfroin one fishing
+ground to another, or a sailing boat under
+engine power as well as sail are all
+fust power driven vessels as as the regulations are
+concerned.
+Part (Steering
+B and Sailing Rules 4 -19)
+Section 1 — Conduct of vessels
+in any condition of visibility.
+of
+Date: Created on 27/03/2012 14:12:00
+Page:
+Doc: P60151/1 — Netherlands Windfarm
+FSA

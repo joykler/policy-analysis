@@ -1,0 +1,52 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing (IMO variant)
+Risk
+No Variant 12-12-2011 location Hazardous situation Outcome to be avoided Comment
+CL R
+9 — Maas Centra! Precautionary Area
+9a Main inbound E going traffic lane abeam E going traffic should give way to ships Damage, pollution and 3 2 6 Ships manoeuvring to leave
+anchorage 4A to starboard leaving the anchorage but see comment possible loss of life due to a the anchorage should avoid
+vessel / vessel collision creating an immediate close
+quarters situation as this is not
+good seamanship (Rule 2).
+9b Maas inner pilot station lnbound vessels requiring a pilot converge at Damage, pollution and 2 4 8
+the pilot station from different directions possible loss of life due to
+slow moving vessels
+colliding
+9c North of the Maas Centre buoy. Vessels Diverging traffic can lead to a poorly Damage, pollution and 3 2 6
+bound for the Maas North TSS diverge positioned vessel cutting across ahead of a possible loss of life due to a
+from the mail outbound traffic flow. ship astern vessel / vessel collision
+going outbound traffic crosses S going W going traffic must give way to S going Damage, pollution and 3 3
+9d W 9
+ships from the Maas North TSS for the ships. possible loss of life due to a
+pilot station vessel / vessel collision
+‘Not impeding a vessel in a
+S going ships from the Maas North TSS Possible collision between a vessel in the deep Damage, pollution and 4 3 12
+9e
+narrow
+channel that is
+and SW going ships from the Maas water channel and a vessel crossing the possible loss of life due to a
+restricted by its draft’ means
+Northwest TSS for the pilot station cross channel. The S and SW going vessels should vessel / vessel collision
+taking early action to avoid a
+the deep water channel not impede an inbound or outbound deep draft involving a tanker
+close quarters situation (Rules
+vessel whilst also avoiding each other.
+8,9& 18)
+for the Northwest TSS leave Diverging traffic can lead to a poorly 3 2 6
+Vessels Maas
+the main W-going outbound traffic positioned vessel cutting across ahead of a
+. Damage pollution and
+ship astern
+possible loss oflifedueto a ——
+9f
+and going traffic must give way vessel / vessel collision 3 2 6
+S going ships for the pilot station from Both NW W
+traffic going vessels
+anchorage 5A cross NW & W going to S
+lof
+Date: Created on 27/03/2012 14:12:00 Page:
+Doc: P60151/1 — Netherlands Windfarm FSA

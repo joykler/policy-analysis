@@ -1,0 +1,74 @@
+7
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands
+Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing (present situation)
+Risk
+Tariant
+No 1 location Hazardous situation
+Outcome to be avoided Comment
+CL R
+9— i14’aas Centra! Precautionari’ Area
+Ships leaving an anchorage
+Main lane abeam
+9a inbound anchorage 4A to Possible collision with a vessel leaving the Damage, pollution and
+should avoid creating
+an
+starboard anchorage
+to join the inbound lane possible loss of life due to a
+immediate close
+quarters
+vessel / vessel collision
+situation
+9h Maas inner pilot station Inbound vessels requiring a pilot converge at Damage, and
+pollution 4 2 8
+the pilot station from different directions possible due
+loss of life to
+slow moving vessels
+colliding
+9c North of the Maas Centre buoy. Vessels Diverging traffic can lead to a poorly and
+Damage, pollution 2 2
+bound for the Maas North TSS diverge positioned vessel cutting across ahead ofa
+possible loss of life due to a
+from the main outbound traffic flow. astern
+ship vessel / vessel collision
+9d W going outbound traffic crosses S going traffic must going
+going W give way to S Damage, pollution and 3 3 9
+Maas North TSS
+ships from the for the ships. possible loss of life due to a
+pilot station
+vessel / vessel collision
+‘Not impeding a vessel in
+a
+from
+9e S going ships the Maas North TSS Possible collision between a vessel in the deep Damage, pollution and
+narrow channel that is
+and going from
+SW ships the Maas water channel and a vessel crossing the possible loss of life due to a
+restricted by itsdraft’ means
+Northwest for the pilot station cross
+TSS channel. The S and SW going vessels should vessel / vessel collision
+taking early action to avoid a
+the channel inpede
+deep water not an inbound or outbound deep draft involving a tanker
+close quarters situation such as
+vessel whilst also other.
+avoiding each
+reducing speed (Rules 8, 9 &
+18)
+9f S going ships for the pilot station from Both NW and W going traffic must give way Damage, pollution and 3 2 6
+anchorage
+5A cross both NW and W going to S going vessels possible loss of life due to a
+traffic
+vessel / vessel collision
+from the
+9g ESE going ships Maas Northwest W going traffic must give way to ESE going Damage, pollution and 3 4 12
+traffic
+TSS cross W going outbound for ships crossing with a small aspect angle possible loss of life due to a
+the TSS
+Maas West vessel / vessel collision
+Date: Created on 27/03/2012 14:12:00 Page: 95 of 192
+Doc: P60151/1
+— Netherlands \Mndfarm FSA

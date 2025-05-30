@@ -1,0 +1,65 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+A: Offshore Routing (Variant 1)
+Section
+Risk
+Outcome to be avoided Comment
+Variant 1 location Hazardous situation
+No
+CL R
+5 - NE going through lanefroin the North Hinder North TSS to the 0ff Texel TSS
+going ships must give way to NE going 4 3 12
+NE going traffic from the North Hinder SE
+in traffic, which must give way to NW going
+North TSS crosses NW / SE going ships
+and out of the Maas Northwest TSS. ships
+Damage, pollution and
+Diverging traffic can lead to a poorly 42 8
+possible loss of life due to a
+positioned vessel cutting across ahead of a
+vessel / vessel collision
+ship astern
+involving a laden tanker — —
+5a
+Ships bound for Ijmuiden diverge from SE
+between merging 4 2 8
+Close quarters situations
+going ships to join NE going traffic
+angles can cause doubt
+traffic at large aspect
+crossing or an overtaking
+as to whether it is a
+stand on vessel
+situation and which is the
+merging 4 3 12 ENE going ships must give
+Close quarters situations between and
+angles can be way to NE going traffic in a
+crossing traffic at large aspect
+Damage, pollution and
+ENE going ships from the Sunk East TSS
+or an overtaking situation and close quarters crossing
+either a crossing
+possible loss of life due to a
+split with ships for the 0ff Texel TSS
+stand on slip situation
+create doubt as to which is the
+5b
+vessel / vessel collision
+joining the join NE going traffic whilst
+going traffic involving a laden tanker 4 2 8
+ships for Ijmuiden cross NE Diverging traffic can lead to a poorly
+positioned vessel cutting across ahead of a
+ship astern
+poorly Damage, pollution and 4 2 8
+5c Ships for Ijmuiden diverge from the NE Diverging traffic can lead to a
+cutting across ahead ofa possible loss of life due to a
+going traffic as they turn to go ENE positioned vessel
+vessel / vessel collision
+ship astern
+involving a laden tanker
+of
+Date: Created on 27/03/2012 14:12:00 Page:
+Windfarm FSA
+Doc: P60151/1 — Netherlands

@@ -1,0 +1,56 @@
+Project: P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Mndfarm Formal Safety Assessment
+ARCADIS
+9.2
+Subdivision Overview of Variant 1(02.02.10).
+Section A: Offshore routes
+11 NNE / SSW Offshore deepwater route between Hinder
+Noord and the 0ff Brown Ridge TSS.
+12 The sea area between
+the offshore deep water route and the SW
+going route from the 0ff Texel TSS to the
+Noord Hinder Nord TSS
+13 through
+SW bound lane to the North Hinder North TSS from
+the 0ff Texel TSS
+14 Sea area between the
+SW and NE going routes between the North Hinder North
+and the Texel TSS’s
+15 NE going through lane from the North Hinder TSS
+North to the 0ff Texel TSS
+Section B Inshore routes
+16 The Noord Hinder Junction Precautionary
+Area
+17 Maas
+West TSS and crossing traffic south of the shipping
+lanes in and out of the Maas Northwest TSS
+18 The sea area between the westem
+edge of the Maas North TSS, the eastern edge of the
+NE lane from the
+Noord Hinder North TSS to the 0ff Texel TSS,
+the southem edge of the outbound lane from IJmuiden and
+the edge of
+southem the Maas Northwest TSS
+19 Maas Central Precautionary
+Area
+20
+Maas North TSS
+11 Routes between IJmuiden
+inner fairway buoy and the NE going lane between the
+Noord Hinder North and
+the 0ff Texel TSS’s
+Section C : Secondary
+traffic
+12 Hook of Holland to IJmuiden area
+port
+13 Ijmuiden
+to Texel
+107 of
+Date: Created on 27/03/2012
+14:12:00
+Page:
+192
+Doc: P60151/1
+— Netherlands Windfarm FSA

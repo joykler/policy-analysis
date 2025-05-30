@@ -1,0 +1,69 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+In figure 3, the officer on watch on ship ‘A’ initially sees the port side (or its red side light at
+night) of ship ‘B’ on his starboard side and he collision
+so will be aware of the possible risk of in
+which his ship avoid. On seeing the
+must act to starboard side of ship ‘A’ on his port side, the
+officer
+on the bridge of ship ‘B’ will similarly realise that there is a possible risk of collision
+situation in which his ship is the stand on vessel. On the risk of collision being confirmed to both
+officers by observing that each other’s vessel remains officer
+on a steady compass bearing, the on
+ship ‘A’ turns his starboard and steers
+vessel to to a pointjust aft of ship ‘B’s stem. The officer on
+ship B’ sees the green sidelight of ship ‘A’ disappear as the red sidelight comes into view, so he
+is immediately re-assured that the give way ship has taken appropriate that a collision
+action and
+is no longer possible. The alternative course
+of action available to the officer on ship ‘A’ would be
+to slow down to
+to allow ship ‘B’ pass ahead. This can be equally effective at avoiding a collision
+and requires less sea room but it not immediately obvious to the officer on the stand on ship and
+whether or not the risk of a collision still exists can only be determined further series
+by taking a
+of compass bearings.
+The above paragraph explains why altering stem,
+course to go around a crossing vessel’s rather
+than slowing down is so much the preferred action by officers on a give way vessel in crossing
+situations, as it complies so well with Rules 8 & 16 in most cases. However, the circumstances
+shown in figure 4 are an example of a case in which the view of the other
+vessel’s lights does not
+always provide such a dear indication of the
+situation.
+Figure 4 - The light visible in an overtaking/crossing
+s situation with a risk of collision.
+(The size of the vessels is exaggerated)
+Point
+of
+impact
+Ship B’s vector
+Ship ‘B’ is borderline between a crossing and overtaking vessel.
+It is not dear to the officer on the bridge of ship ‘A’ as to whether his
+ship is a give way vessel in a
+crossing situation or the stand on vessel in an overtaking situation. On the night the
+other hand, at
+officer on ship ‘B’ will assume he is overtaking 1f he sees the stem light of ship A ‘or that his is the
+stand on vessel in a crossing situation if he sees ship ‘A ‘s green sidelight and masthead lights.
+Rule 13 states that; “When a vessel is any doubt as to whether she is overtaking another, she
+shall assume that this is the case and act accordingly” (i.e. keep dear of the vessel).
+other A
+problem arises when this situation occurs
+during the night, as the officer on the bridge of ship
+‘B’ in figure 4 will feel quite certain of his vessel’s status because he will assume either that he
+is overtaking if he sees the stem light of ship ‘A’ or his ship is the stand on vessel in a crossing
+situation ifhe sees ship ‘A’s sidelights and masthead lights. It is the officer
+on ship ‘A’ who has
+no immediate indication from the lights
+of ship ‘B’ as to whether it is an overtaking or crossing
+vessel and. if the latter is the case, then he will have to take evasive action ifa risk of collision
+exists. It is quite easy for him to think that ship ‘B’ is overtaking. as he will see the red side light
+and masthead lights of a faster ship abaft his starboard
+beam with the vessel appearing
+approximately sideways him.
+on to
+Date: Created on 27/03/2012 14:12:00 174 of 192
+Page:
+Doc: P60151/1 — Netherlands Wind park FSA

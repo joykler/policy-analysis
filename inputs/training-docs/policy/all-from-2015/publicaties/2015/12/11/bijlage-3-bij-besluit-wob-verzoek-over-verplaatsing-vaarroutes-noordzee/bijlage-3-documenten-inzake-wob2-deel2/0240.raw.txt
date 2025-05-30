@@ -1,0 +1,35 @@
+comrnunication about anchoririg)
+= 1,25 cases in which the captain has made the decision of
+where
+to anchor, thus subject of erroneous anchoring.
+Overview of probabilities
+of incidents
+The above
+probabilities have been applied to the dumping results the probabilities
+areas, which in
+of Table 0-3.
+Table
+0-3 Probabilities of an incident in the dumping ground areas
+Dumping area
+. Rotterdam Rotterdam
+IJmuiden
+North South
+number of containers overboard
+000000
+0,067746 0,037938
+induded
+(not in total probability)
+incidents with containers
+overboard 0,000000 0003387 0,001897
+overboard
+deck cargo 0,000000 0,000925 0,000518
+anchoring
+in lane 0,000000 0,000178 0,000100
+0,000aOO
+anchoring in separation zone 0000000 0,000102
+anchoring
+outside 0,000040 0,000053 0,000000
+foundered 0,000000 0,000420 0,000235
+Probability of incident per year
+0,000040 0,004953 0,002851
+(the 0,000040 is a first estimate for this moment)

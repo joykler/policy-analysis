@@ -1,0 +1,29 @@
+_________________CLR
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section A: Offshore Routing (Variant 1)
+Risk
+Variant 1 location Hazardous situation Outcome to be avoided Comment
+No
+Vessel colliding with the gas platform, a Damage, pollution and 5 5
+platform servicing rig or a platform support possible loss of life due to a
+vessel. vessel gas platform
+/
+collision
+51 Traffic in the NE lane of the 0ff Texel
+TSS passes the Halfwig gas platform to
+There is also a concentration of crossing Damage, pollution and 3 6
+starboard on the lane boundary
+offshore support vessel traffic from Den possible loss of life due to a
+Helder at this location vessel / supply vessel
+collision
+5j Traffic in the NE lane of the 0ff Texel Wreck reduced the depth to less than 20 Damage and pollution due to 2 2 The charted depth over the
+wreck is 1 8m
+TSS passes a wreck, 0.5 mis inside the metres the vessel grounding
+lane
+of
+Date: on 27/03/2012 14:12:00 Page:
+Created
+Doc: P60151/1 — Netherlands Windfarm FSA

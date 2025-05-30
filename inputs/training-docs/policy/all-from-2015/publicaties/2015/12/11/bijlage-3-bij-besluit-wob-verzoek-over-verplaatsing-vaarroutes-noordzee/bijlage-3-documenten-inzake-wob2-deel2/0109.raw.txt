@@ -1,0 +1,57 @@
+CL
+Project: P6015111
+dient: Port of Rotterdam
+Title: Netherlands
+Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore
+Routing (present situation)
+Risk
+No Variant 1 location Hazardous
+situation Outcome to be avoided
+Comment
+R
+Ships cross at a poor aspect
+NNE going ships
+/SSW to and from NNE going ships must give way to outbound
+3 4 12
+angle
+Schouwenbank cross
+W going outbound traffic, which must give way to SSW going
+traffic
+ships
+Damage, pollution and
+Diverging traffic can lead poorly
+to a 3 2 6
+possible loss of life due to a
+7j
+positioned vessel cutting across ahead of a
+vessel / vessel collision
+ship astern
+Ships for Schouwenbank from the Maas
+Close quarters situations between merging
+3 2 6
+leave the W going lane tojoin SSW going
+traffic at large aspect angles can cause doubt
+traffic
+as to whether it is a crossing or an overtaking
+situation and which is the stand on vessel
+Ships
+manoeuvring to leave
+7k Main outbound lane abeam anchorage 3A Possible collision with vessel crossing
+a the Damage, pollution and 3 9
+the anchorage
+should avoid
+to port. outbound lane as it leaves or approaches the
+possible loss of life due to a
+creating an immediate close
+anchorage
+vessel / vessel collision
+quarters situation as this is
+not
+good seamanship (Rule
+2)
+Date: Created on 27103/2012 14:12:00
+Page: 92 of 192
+P60151/1
+Doc: — Netherlands Windfarm FSA

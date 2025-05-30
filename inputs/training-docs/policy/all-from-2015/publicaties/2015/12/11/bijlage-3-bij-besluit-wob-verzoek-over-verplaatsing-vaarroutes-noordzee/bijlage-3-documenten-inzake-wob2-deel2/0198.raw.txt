@@ -1,0 +1,115 @@
+10
+st
+2’
+}oversioot
+0°
+1
+0
+00
+00
+EÇ}
+O8I
+t
+l
+Project:
+P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Wind Formal
+park Safety Assessment
+ARCADIS
+The zig-zag tests
+These tests are conducted
+to measure a vessel’s yaw checking ability directional
+and stability. In
+100/100
+the zig-zag
+test, the helm is put at port 10 and held
+until the ship deviates offcourse
+to port 100
+at which point the helm is reversed to starboard
+10 until the heading is to starboard of
+its initial course when the rudder is
+put back to port 1 0. The cycle is repeated several times and
+the and overshoot angles
+beyond the initial heading are measured. 20°/20°
+The zig-zag test
+applies an initial
+20° rudder angle, which is reversed when ship’s
+the heading alters by 20° to
+measure
+the overshoot angle.
+Figure 7—The 1O”/1Ozig- zag manoeuvre
+0
+1;t
+0
+—
+0
+x
+time
+(mln)
+0
+(0
+(0
+t..
+0
+— 0
+x
+151
+overshoot
+5° + 0.5(L/V) but 10° overshoot 20°
+Ship s Ienqth L’ measured
+in metres
+WhereL/V
+= - seconds
+Ship’s speed V’ measured in metres/second
+2overshoot 17.5° + 0.75(L/V) but 25° 2overshoot
+40°
+0
+0
+C%l
+0
+In
+C%l
+1
+€00
+t
+0
+10 s L!V 30s
+lOs LIV 30s
+Figure
+8— The 2O/2O°zig- zag manoeuvre
+0
+S
+(0
+0.C’)
+.5
+1overshoot
+25°
+0
+0
+Cl
+CN
+S
+0
+€0
+0
+1
+0
+time
+(mln)
+0
+0
+0)
+S
+t..
+€0
+0
+t- (0
+0
+0)
+Date: Created
+on 27/03/2012 14:12:00
+Page: 181of192
+Doc: P60151/1 — Netherlands
+Wind park FSA

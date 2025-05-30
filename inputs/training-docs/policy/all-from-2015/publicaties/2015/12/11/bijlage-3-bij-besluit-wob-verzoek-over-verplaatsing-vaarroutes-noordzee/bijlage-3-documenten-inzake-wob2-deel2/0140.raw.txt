@@ -1,0 +1,62 @@
+Project: P6015111
+dient: Port of Rotterdam
+Assessment
+Title: Netherlands Windfarm Formal Safety
+ARADIS
+B: Inshore Routing (Variant 1)
+Section
+Risk
+Outcome to be avoided Comment
+Variant 1 location Hazardous situation
+No
+R
+pollution and 3 2 6
+the pilot station Possible collision between an outbound vessel Damage,
+7e Deep water area by
+of life due
+in the deep water channel and a vessel possible loss to a
+vessel
+hampered in its ability to manoeuvre whilst it slow speed vessel /
+collision involving a laden
+is picking up or disembarking a pilot by
+helicopter (or launch) tanker
+4 3 12 ‘Not impeding a vessel in a
+between anchorages Possible collision between vessel in the deep Damage, pollution and
+7f Deep water channel
+loss of life due narrow channel that is
+water channel and a ship crossing the channel possible to a
+3A and 3C
+vessel restricted by its draft’ means
+to the main inbound lane from anchorage 3A. slow speed vessel /
+collision involving a tanker taking early action to avoid a
+Ships leaving the anchorage must not impede
+close quarters situation such as
+deep draft vessels in the channel.
+reducing speed (Rules 8, 9 &
+18)
+pollution and 4 3 12 NxE / SxW going ships must
+crosses NNE SSW Possible collision between a vessel in the deep Damage,
+7g Deep water channel /
+of life due not impede E / W going deep
+going ships from Schouwenbank water channel and a ship crossing the channel. possible loss to a
+to and
+vessel collision draft ships confined to the
+NNE / SSW going / vessel
+irivolving channel
+a tanker
+4 12 Ships leaving the anchorage
+3B to Possible collision between vessel in the deep Damage, pollution and 3
+7h Deep water channel by anchorage
+a must not impede deep draft
+water channel and a ship crossing the channel possible loss of life due to
+the north.
+collision . vessels confined to the
+to the main inbound lane from anchorage 3B. vessel / vessel
+tanker channel.
+involving a
+1230f
+Created 27/03/2012 14:12:00 Page:
+Date: on
+P60151/1 Windfarm FSA
+Doc: — Netherlands
+CL

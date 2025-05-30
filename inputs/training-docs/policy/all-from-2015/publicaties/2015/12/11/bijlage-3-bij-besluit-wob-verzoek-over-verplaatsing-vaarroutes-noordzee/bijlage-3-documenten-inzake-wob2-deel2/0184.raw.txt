@@ -1,0 +1,115 @@
+ifa
+fships’
+Project: P6015111
+Client: Port
+of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+• The high
+temperatures of large diesel engines running maximum
+at power should not be
+reduced too suddenly by immediately slowing down,
+as this can cause unnecessary stress
+to some of its component parts.
+• It is often necessary
+to start a second steering motor if the
+vessel is to respond adequately
+to
+the helm at reduced speeds.
+• The engine room should be manned
+series of changes in speed are to be made.
+1f the speed of a ship cannot be altered
+immediately, then arguably the vessel is not strictly
+speaking fully under command
+but running at ‘full away’ speed is such common practice
+that
+few recognise this
+point. However, the inabilily or reluctance
+to slow down makes avoiding
+collision difficult in certain situations and breach
+is in ofthis regulation in such circumstances.
+Rule 7— Risk of collision
+This Rule explains
+how a risk of collision is identified, which
+can be taken to exist when
+another
+vessel is viewed on a compass bearing
+that is not significantly changing whilst its range
+is closing. This can be determined
+by either a series of visual sightings using a bridge wing
+compass repeater properly
+or made observations taken from a compass
+stabilised radar.
+Rule
+8 — Action to avoid collision
+Rule 8 states the general principles of how should
+actions be carried out to avoid collision (the
+specific actions to avoid collision stated
+are for all the different scenarios in rules 1 The
+— 19).
+first part of the Rule requires
+the appropriate alteration of course and/or speed
+to avert collision
+to be in
+taken ample time and to be immediately obvious to the
+other vessel. ‘Ample time’ must
+relate to the size of the vessels involved
+because in many of the scenarios one ship must give
+way to the other (known as ‘stand
+the on’ vessel) which is required by the rules to its
+maintain
+course and speed
+unless any action by the give way vessel alone is
+insufficient to avoid the
+collision. The
+officer on watch on a large tanker that is the
+stand on vessel will get distinctly
+nervous if a give vessel bas not altered course
+by the time the range between the two ships is
+down to around 4 miles. yachtsmen,
+(Some however, only start to worry when
+they can just
+about read the name the
+on other ship’s how.) Judging what actually
+ample time is requires the
+application
+of good seamanship to whatever situation
+the the particular vessels are in.
+The requirement that the
+give way vessel’s actions are immediately to the
+apparent other vessel
+favours altering
+course to avoid collision rather than slowing down and
+this can be problernatic
+when in heavy traffic that is moving roughly
+in the same direction but converging, such as
+when approaching a traffic separation
+scheme. This is similar in many ways to a car joining
+a
+motorway from a slip
+road where the joining vehicle is equivalent to give
+the way vessel and
+must adjust
+its speed in the slip road so that it can merge the traffic
+with moving along the main
+carriage
+way without causing potential
+a collision situation. Ships require much greater
+distances and longer times than
+road vehicles for a change in speed to take effect
+but the
+principle is basically
+the same and, officers are not prepared alter
+to speed to merge
+safely with converging traffic, then avoiding risk collision
+of situations becomes more dfficult.
+The last part of Rule 8 rather confusingly
+requires vessels to take early and positive action to
+avoid impeding the safe passage
+of other vessels. What this part of the Rule addresses
+is the
+167 of
+Date: Created on 27/03/2012 14:12:00
+Page:
+Doc: P60151/1 — Netherlands Windfarm
+FSA

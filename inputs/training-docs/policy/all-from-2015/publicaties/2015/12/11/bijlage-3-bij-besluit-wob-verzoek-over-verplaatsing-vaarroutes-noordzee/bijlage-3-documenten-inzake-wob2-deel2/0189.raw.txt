@@ -1,0 +1,41 @@
+Project:
+P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Figure 1 - The different risk of collision situations between power driven vessels.
+Ship U is almost head on SO Ship A is almost head on SO
+both it and own vessel must It and must
+both own vessel
+alter course starboard.
+to alter course to starboard.
+Ship V is crossing from Ship B is crossing from
+port, so own vessel is starboard, so own vessel
+to stand 0fl. must keep
+Ship E is being overtaken,
+Ship Z is being overtaken,
+so own vessel must keep so own vessel must keep
+dear. dear.
+/ \
+132°
+132°
+/ \
+Ship X is crossing Ship C is crossing
+from so from starboard, so
+port, own
+vessel is the stand own vessel must
+112.50
+on vessel. keep dear.
+\
+,‘ .-.
+/ —..
+1owselj
+Ships Y & D are overtaking,
+so they must keep dear of
+own vessel.
+135°
+The arcs of visibility of the navigation lights match the boundary between a crossing and an
+overtaking vessel, as shown in figure 2.
+Date: Created on 27/03/2012 14:12:00 Page: 172of192
+Doc: P60151/1
+— Netherlands Wind park FSA

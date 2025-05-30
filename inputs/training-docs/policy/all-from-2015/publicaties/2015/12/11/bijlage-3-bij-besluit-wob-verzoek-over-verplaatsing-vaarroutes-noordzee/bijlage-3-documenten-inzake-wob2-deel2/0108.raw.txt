@@ -1,0 +1,47 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands Windfarm Forma! Safety Assessment
+ARCADIS
+Section B: Inshore Routing (present situation)
+Risk
+Hazardous situation Outcome to be avoided Comment
+No Variant 1 location
+CL R
+7e Deep water area by the pilot station Possible collision between an outbound vessel Damage, pollution and 3 2 6
+in the deep water channel and a vessel possible loss of life due to a
+hampered in its ability to manoeuvre whilst it slow speed vessel / vessel
+is picking up or disembarking a pilot by collision involving a tanker
+helicopter (or launch)
+Deep water channel between anchorages Possible collision between vessel in the deep Damage, pollution and 4 3 12 ‘Not impeding a vessel that is
+7f
+3A and 3C water channel and a ship crossing the channel possible loss of life due to a restricted by its draft’ means
+to the mail inbound lane from anchorage 3A. slow speed vessel / vessel taking early action to avoid a
+Ships leaving the anchorage must not impede collision involving a tanker close quarters situation such as
+deep draft vessels in the channel. reducing speed (Rule 18)
+Deep water channel crosses NNE / SSW Possible collision between a vessel in the deep Damage, pollution and 4 3 12
+7g
+going ships to and from Schouwenbank water channel and a ship crossing the channel. possible loss of life due to a
+. . . Not impeding a vessel that is
+NNE / SSW going vessel / vessel collision
+. . restricted by its draft means
+involving a tanker
+._ taking early action to avoid a
+close quarters situation such as
+anchorage 3B Possible collision between vessel in the deep Damage, pollution and 4 3 12
+7h Deep water channel by to
+reducing speed (Rule 18)
+the north water channel and a ship crossing the channel possible loss of life due to a
+to the main inbound lane from anchorage 3B. vessel / vessel slow speed
+Ships leaving the anchorage must not impede collision involving a tanker
+deep draft vessels in the channel.
+Ships manoeuvring to leave
+7i Main outbound lane abeam anchorage 3B Possible collision with a vessel crossing the Damage, pollution and 7
+the anchorage should avoid
+to port outbound lane as it leaves or approaches the possible loss of life due to a
+creating an immediate close
+anchorage vessel / vessel collision
+quarters situation as this is not
+good seamanship (Rule 2)
+Page: 91 of 192
+Date: Created on 27/03/2012 14:12:00
+Doc: P60151/1 — Netherlands Windfarm FSA

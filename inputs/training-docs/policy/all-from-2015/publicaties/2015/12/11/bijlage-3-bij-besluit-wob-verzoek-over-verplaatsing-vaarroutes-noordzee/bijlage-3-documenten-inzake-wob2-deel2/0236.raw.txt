@@ -1,0 +1,28 @@
+1 DUMPING AREAS
+Three
+dumping areas for explosive material are locateci In the area with the proposed route
+structure. These three areas can be found in Figure 1-1. The areas are filled in with dots, being
+the positions of ship crossed area near
+that have the area in 2010, The location of the dumping
+IJmuiden will
+be improved, because this area will come in an area cleared of shipping for the
+proposed
+route structure, see Figure 1-2. However, the two dumping areas near Rotterdam wiU
+come into the north going traffic lane of the moved North TSS, see Figure Therefore,
+Maas 0-1.
+the probabilities
+of incidents are quantifled that can lead to a dangerous situation due to the
+explosive
+material in the dumping area.
+Figuro 1-1 Three dumping areas with the route structure
+proposed
+The AlS data of 2010 is used to acquaint insight ships cross the dumping areas and
+in how many
+search for ships that have anchored has
+to in these areas. Each 2 minutes an observation been
+performed. The positions of all ships with AlS are plotted in Figure 1-2 and Figure 0-1. These
+contain many fictive AlS messages, made from radar observations. These radar observations are
+not inciuded in the analysis. These echoes which small
+belong to small unidentified ships, under
+fishing ships not yet obliged to have an AlS transponder. The larger fishing vessels are inciuded
+because they have an AlS transponder

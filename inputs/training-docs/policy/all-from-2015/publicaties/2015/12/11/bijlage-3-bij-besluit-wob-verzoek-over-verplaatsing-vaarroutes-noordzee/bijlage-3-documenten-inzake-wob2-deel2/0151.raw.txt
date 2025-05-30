@@ -1,0 +1,22 @@
+Project: P601 51/1
+dient:
+Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing
+(Variant 1)
+NE / SW going vessels pass the wind park
+Q4 to port with about 0.5 mis clearance
+6
+lis NE
+/ SW going vesseis pass ciose to a Vessel ground on the wreck Damage, pollution , pOssibie 3 2
+Ships on this route are usually
+wreck at a depth of 13.4 m los of the vessel and lives
+ferries drawing less than 8 m
+621
+lnshore routes’
+risk score
+1340f
+Date: Created on 27103/2012 14:12:00 Page:
+192
+Doc: P60151/1 — Netherlands Windfarm FSA

@@ -1,0 +1,52 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section C: Secondary Traffic (Variant
+1)
+Risk
+No Variant 1 location
+ilazardous situation Outcome to be avoided Comment
+CL R
+12 — Hook ofHolland to IJmuiden port area
+12a Scheveningen Encountering crossing traffic in and Out of the Damage, pollution and
+3 2 6
+port possible loss of life due to
+a
+. vessel vessel
+/ collision
+13 —IJmuiden to Texel
+6
+IJmuiden fishing port
+13a as a Encountering fishing vessels in a crossing Damage, pollution and 3 2
+Most of the traffic in this
+situation in any of the mail shipping lanes possible loss of life due to a
+region consists of smaller
+vessel / vessel collision
+-—--- vessels moving af slower
+6
+13b Den Helder naval base Encountering naval vessels in a crossing Damage, pollution and 3 2
+speeds than the larger ships
+situation in any of the main shipping lanes possible loss of life due to a
+but they are vulnerable
+to
+vessel / vessel collision
+sinking quite quickly if
+involved in a serious collision,
+13e Den Helder fishing port Encountering fishing vessels in a crossing Damage, pollution and 3
+especially with a larger ships
+situation in any of the main shipping lanes possible loss of life due to a
+vessel / vessel collision
+risk 24
+traffic’s score
+WSecondary
+Hazard Score for Variant 1
+Offshore Routes 581
+Inshore Routes 621
+Secondary Traffic 24
+1226
+Total
+135 of
+Date: Created on 27/03/2012 14:12:00 Page:
+192
+Doc: P60151/1 — Netherlands Windfarm FSA

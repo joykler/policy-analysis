@@ -1,0 +1,76 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Assessment
+Safety
+ARCADIS
+11.3 Guidance on the Impact of Wind Parks
+MGN 371 developers
+requires of offshore renewable energy installations, or ‘OREI’s’ to carry out
+a survey of all the marine activity that occurs within and close by the proposed options for siting
+such installations and lists the factors that the must be taken into when
+account choosing the final
+sites. The notice inciudes the below
+template shown as guidance for assessing the risk to vessels
+using shipping that
+lanes pass by wind parks.
+Distance between the
+Factors Risk Tolerability
+turbine boundary and
+the shipping route
+< 0.25 n. miles Only small craft are to be allow. VERY HIGH
+(500 m) this
+close
+0.25 n. miles X-band radar interference VERY HIGH
+INTOLERABLE
+0.45 n. miles Vessels may generate multiple
+m)
+(800 echoes on shore based radars VERY HIGH
+0.50 n. miles Mariners’ high traffic density
+HIGH
+(926 m) domain
+0.80 n. miles Mariners’ ship domain
+HIGH
+(1481 m)
+1.0 n. miles Minimum to parallel
+distance
+MEDIUM
+(1852 m) TSS boundary
+TOLERABLE
+1F
+ALARP
+1.5 n. miles interference,
+S-band radar ARPA
+MEDIUM
+(i.e. risks are as
+(2778 m) affected
+low as reasonably
+practical)
+2.0 n. miles Compliance with ‘COLREGS’
+MEDIUM
+(3704 m) becomes less challenging
+> 2.0 n. miles But not near a TSS
+LOW
+3.5 n. miles Minimum separation between
+m)
+(3704 turbines on opposite sides of LOW
+a route
+Adjacent wind park introduces
+5.0 n. miles VERY LOW
+cumulative effect. Distance from
+(9260 m) BROADLY
+TSS entrylexit
+TOLERABLE
+10.0 n. miles
+No other wind parks VERY
+LOW
+(18520 m)
+MGN
+371 also requires the risk assessment to define the position of the interactive boundary
+between the wind park and an adjacent shipping route.
+14
+Marine Guidance Notes
+MGN 371 & 372
+Date: 27/03/2012
+Created on 14:12:00 Page: 1900f 192
+Doc: P60151/1 — Netherlands Wind
+park FSA

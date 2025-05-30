@@ -1,0 +1,134 @@
+capacity)
+00
+—
+— —
+— —
+113
+container is lost per miie, the
+estimate of 10000 lost per year is used. This number is related
+to
+the number
+of miles travelled by container vessels per
+year, calculated from the shipping
+characteristic
+database, using an average
+speed of 80% of the forward speed, ship for 50%
+loaded, 70%
+of the time at sea. Further it
+is assumed that the probability that a large ship losses
+a
+container is larger than for a
+small container ship. A relationship with the
+(TEU is
+used which means
+roughly that the probability
+is related with the length of the ship. When using
+this for
+rate the NCS this delivers 67 containers
+overboard in the NCS per year. This number is
+checked
+with the number from publication
+the [2], in which was published that 217 containers
+were lost from 2006-2009
+by 11 incidents. This means, in average
+54 containers per year by 275
+incidents
+per year and in average 20
+containers per incident. Thus the
+container_faliing_rate_pernm
+corresponds
+with wtiat is observed in the NCS. This rate has been
+applied to the ships that cross
+the dumping areas near Rotterdam.
+The probability of
+deck cargo overboard per nautical
+miie is not refreshed because data is not
+available, but
+the probability is much lower
+than for a container overboard.
+Probability of anchoring
+From the AlS-data
+of 2010 t can be concluded that
+the dumping areas are not used for
+anchoring,
+as was expected, because
+there was no reason to do that just there. However, that
+might change for the proposed
+route structure because then the dumping
+areas of Rotterdam will
+be crossed by north going
+all ships using the moved Maas North
+TSS. The reason is that ships
+can meet
+technical failures after which some
+ships anchor for repairing. An extensive study to the
+behaviour of shipping that have anchored
+ciose to and within the TSSs near the Wadden
+is
+researched in [3]. The results
+of that study are summarized 0-2.
+in Table
+Table 0.2 Number of observed ships
+that anchor in TSSs near Wadden
+Coastguard Factor for
+fraction
+Involved erroneous
+Average
+Captain Erroneaus of Initial
+anchoring:
+anchoring 2008 2009 2008-
+about anchoring
+rate of
+bad
+2009 decision
+total arichor per year 24,75
+soaman
+position per year
+ship
+In traffic
+lanes of 3,00 4,00 350 3 75% 125
+0,05 0,0625 00025
+TSSs
+separatlon
+3,00 400 2 75% 2,5 0,05
+01250 0,0051
+zono
+just
+200 1400 17,25 4,5
+75% 13,875 0,05 06938 0.0280
+outside
+total!year 28,50 21,00 24,75
+17,63 0,05 0,8813 0,0356
+Table 0-2 teils that in average
+24,75 incidents per year will occur in which the ship presents
+the
+anchor after a technical failure.
+In a limited number of incidents the Coastguard
+was informed and
+was discussed
+there about the location where anchor.
+to These cases were considered as not
+resulting in anchoring above a pipeline. In
+all other cases the decision and location to anchor
+were taken by the captain. The
+last column of the table contains the fraction initial
+of the number
+of failures that
+results in en anchoring in the traffic lane, in the
+separation zone and just outside
+the
+traffic lane. These fractions have been applied
+on the failures that will occur in the dumping
+areas.
+The percentage
+of 5% erroneous anchoring is applied to the cases
+of Table 0-2, namely to the
+cases
+without intervention of the Coastguard
+and to the (on average) 25% of the cases in which
+the Coastguard was not or too late
+involved. For example, for the cases ‘in traffic lanes
+of TSS”
+this Ieads to (3,5
+(total cases) — 3 (Coastguard involved)) (Coastguard
++ 3 involved) x (1-0,75) (no

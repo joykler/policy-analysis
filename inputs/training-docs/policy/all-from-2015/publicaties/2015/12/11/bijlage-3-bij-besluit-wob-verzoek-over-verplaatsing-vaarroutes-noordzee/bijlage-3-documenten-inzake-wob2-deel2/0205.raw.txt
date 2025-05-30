@@ -1,0 +1,104 @@
+c.1
+—
+—
+.0
+i
+ii
+Project: P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands \Nind park Formal Safety
+Assessment
+ARCADIS
+Shallow
+water effects on nuinoeuvrability
+When a ship is moving in
+shallow water, the restriction of water flowing between
+the huil and
+the seabed creates
+a venturi effect that increases the difference
+between the high pressure at the
+ends
+of the huli and the low pressure amidships.
+Water is sucked down into the midships flow
+region below the huli, so the mean
+water level around the huil is depressed, which resuits
+in a
+significant reduction of
+the under keel clearance that is known as ‘squat’. increases
+Squat with the
+following factors:
+1) Squat effects increase
+roughly with the square of flow velocity past
+the ship.
+2) Squat effects increase with the
+ship’s draft to still water depth ratio.
+3) Squat effects
+increase with the ship’s block coefficient.
+4) Squat effects increase with
+the proximity of obstacles such shoals and
+as passing ships.
+Figure 16— The shallow water effect ‘squat’
+of
+The flow of water from ahead builds up
+the water leve! at the bow Ufltil the increase in pressure
+suftïctent
+is to accelerate the water how through restncted
+the gap between the ship’s amidships
+bottom seabeci
+and the The water leve! amidships is consequent!y depressed
+so the ship will
+‘sink’ bodi!y closer
+to the seabed. This reduction in the underkeel clearance
+is known as squat’
+Squat curves for specific
+a ship at two different draft ranges
+Ship’s speed
+through the water ‘W’ (knots) Squat and
+channel width,
+relativetotheship’sbeam’B’
+0
+2 4 6 S 10 12
+Squat increases with c(oseness
+to the edge of channelorany
+a
+other lateral restriction.
+E
+0
+IOB
+I
+0•
+1fl
+Did = 2.0 ‘Open water’ squat
+=
+water depth
+to
+0
+mean
+d draft
+1»— GB
+O
+d
+d
+50%
+increase in squat
+Open water Squat CB x x
+m
+100 0
+Did = 1.1
+—
+=
+Mean draft = 4.9 -.7.0 m ‘Cs’ = 0.65
+k— 4B —‘1
+— Mean draft 7.0 =
+-.9.3 m ‘CB’ 0.75 100%
+increase in squat
+A vessel passing a nearby shoal can
+suddenly veer off course towards the shoal and
+squat will
+amplif’ this effect if the
+ship is in relatively shallow water.
+Date: Created on 27/03/2012 14:12:00
+Page:
+188of192
+Doc: P60151/1 — Netherlands Wind park FSA

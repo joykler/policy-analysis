@@ -1,0 +1,37 @@
+•1
+PT
+verkeer
+WSH 0,5
+surveying irt
+0,5
+scheepvaartveiligheid
+Heeft effect op
+0,01 fte (voorbereidend)
+berging
+Vaarwegmarkerings
+fte (voorbereidend)
+MDN/Z 0,01
+plan
+Inschatting capaciteit kosten tot 2012
+k€20 Munitie
+k€25
+QRA
+k€75 FSA
+- -
+WSM k€20
+Nomo
+MDB -
+Mogelijk
+feb
+RA
+1
+1
+routering augustus
+&
+fte
+Uitbestedingen
+uitbestedingen/
+taken
+Herziening Noordzee 25 2011
+Toelichting
+11

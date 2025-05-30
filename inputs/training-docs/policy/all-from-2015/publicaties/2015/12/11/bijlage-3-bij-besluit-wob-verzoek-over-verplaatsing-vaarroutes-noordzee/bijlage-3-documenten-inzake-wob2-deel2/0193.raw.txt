@@ -1,0 +1,150 @@
+fa
+Project: P6015111
+Client:
+Port of Rotterdam
+Title: Netherlarids ‘Nind park Formal Safety
+Assessment
+ARCADIS
+categories
+and sub-categories of vessels show
+to indicate any feature relevant to the clearance it
+should be given, such as the direction
+and the extent of fishing gear that may
+be deployed close to
+the surface.
+Section
+III — Conduct of vessels in restricted
+visibility.
+Rule
+19— Conduct ofvessels in restricted visibilily
+This
+Rule requires vessels in or near
+an area of restricted visibility (e.g. a bank,
+fog a rain/snow
+squall, etc.) to proceed
+at a safe speed with regard to the prevailing
+circumstances (see Rule 6)
+but, in any case,
+power driven vessels should have their engines
+ready for immediate manoeuvre.
+The
+master should be informed and measures
+appropriate to the circumstances should be
+taken,
+such as putting a man on the wheel,
+posting an extra lookout and/or having an extra
+officer on the
+bridge so that the radar
+can be continually monitored. (SOLAS regulations
+require every vessel of
+jst
+500 gross tonnage
+or more and built after September
+1984 to be equipped with one radar set,
+whilst
+vessels of 10,000 gross tonnage or more
+must have iwo radar sets and, vessel
+was built
+]sl
+after September 1984, then
+the radars must befitted with ARPA (‘automatic
+radar plotting,).
+Use of the vessel’s whistle is not specifically
+mentioned in this Rule but vessels
+in or near areas of
+restricted visibility make
+must the appropriate sound signal, given
+as by Rule 35. (Power driven
+vessels under way
+and making way must make prolonged
+one blast at intervals of not more than 2
+minutes
+and two prolonged blasts same
+at the interval when stopped in the The
+water.) whistle on
+even the largest vessel unlikely
+is to be heard at a range greater than 2 nautical
+miles, which
+reduces to .5 miles
+1 for vessels between 200 & 75 metres length
+in and to 1 mile for vessels
+between
+75 & 20 metres in length. Consequently, there
+is littie point in sounding the whistle the
+1f
+visibility
+is known to be greater
+than the whistle’s audible range.
+The Rule
+also stipulates that if a vessel is detected
+by radar alone, then its compass bearing
+and
+range must be recorded regular
+at intervals to determine whether or not a risk
+of collision exists. 1f
+such a risk does exist, then
+early and substantial action should be
+taken to avert the collision,
+providing that,
+as far as possible, the actiofi does involve
+not the following:
+• Altering course to port for
+a vessel ahead of the beam, other than one overtaken.
+being
+• Altering
+course towards a vessel abeam or abaft the
+beam.
+Radar targets are
+to be observed in the same way if the
+as targets were visible, so that a risk of
+collision
+can beidentified, but the only way to
+determine a target’s true course and speed, and
+hence decide on the appropriate actions
+to take, is to plot it and construct a vector
+triangle from
+the target’s relative course
+and speed and own vessel’s course and
+speed. This used to be done
+manually a
+on paper plotting sheet and then the invention
+of a reflection plotter allowed for the
+plot
+to be done directly onto the radar display with
+a china graph pencil. However, most vessels
+of
+significant size are now equipped
+with ARPA radars, 50 targets simply have be
+to selected and
+radar’s computer does the
+rest, though the accuracy of the plot depends
+upon the accuracy of the
+own ship’s
+speed input, which may be manual, or from
+a log, or from the ship’s electronic
+navigation,
+such as GPS. Early and substantial
+evasive action is necessary for the action
+to be
+easily observable on the radar of
+the target vessel, so a series of small course alterations
+should be
+avoided as much as
+is possible. Speed alterations are less immediately
+obvious than course
+alterations
+but if a significant change in speed is made
+in good time, then it will be observable on
+the target’ s radar.
+Speed can be reduced quicker
+than it can be increased (if it can be significantly increased
+at all)
+and reducing speed
+early will allow more time to resolve
+a collision situation in most
+circumstances.
+Date: Created en 27/03/2012 14:12:00
+Page:
+176 of 192
+Doc:
+P60151/1 — Netherlands Wind park FSA

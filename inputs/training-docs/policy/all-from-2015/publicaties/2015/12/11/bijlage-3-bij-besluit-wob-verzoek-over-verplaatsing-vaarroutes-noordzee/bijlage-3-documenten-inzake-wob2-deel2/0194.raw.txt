@@ -1,0 +1,101 @@
+Project:
+P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+The final part of this Rule requires vessels to slow down to their minimum steerage speed ifa fog
+signal from another vessel bas been heard to apparently
+come from forward of the beam, except in
+cases where it has been detern-tined that no risk
+of collision exists. 1f necessary, the vessel should
+stop in the water
+and proceed with extreme care until the danger has past. (The does not say
+Rule
+how to determine that there is no risk of collision because, even if a target on the radar is
+passing
+dear. it cannot be identified for certain as the
+source of the fog signal.)
+In my opinion, the final this Rule does
+part of not take the advances in navigational equipment
+(such as
+ARPA and AlS) sufficiently into account and 1 would question the wisdom of following
+it in most circumstances other than when a vessel’s radar is not functioning.
+Reducing a vessel’s
+speed in fog from 16 to 12 knots is one thing
+but to stop or creep along at a very slow speed in the
+middie of a busy traffic something different
+lane is altogether and T would not advise it unless the
+radar shows that all the other targets have also slowed down to similar
+speeds.
+Conclud Ing corn ment
+The Rules of the Road are drilled into all navigating officers from the start their
+moment they
+training to when they sit for their final certificate of competency
+examination. In the past, it was
+common practice lecturers
+by college to encourage their students to memorise them so that they
+could be
+quoted word for word in the oral exarninations (and this may still be the case in some
+parts of the World). 1-lowever, the rules are not totally prescriptive cannot lay
+because they down
+precise instructions to deal with every conceivable situation,
+so they often contain phrases such as
+“the practice
+of good seamanship” and “as far as possible”. Consequently, they should be taken in
+the spirit
+of co-operating with fellow rnariners to avoid collision (though spirit of self
+the
+preservation can be a useful motivator as well) and applied For
+with common sense. example,
+small alterations of course and/or speed should
+not be made 1f a risk of collision exists but they
+are
+quite acceptable to avoid getting into such a situation, so ships converging at the entrance of a
+traffic
+separation lane can usually adj List their courses and speeds to merge way that does not
+in a
+create a collision risk (this is au example of ships not impeding
+each other).
+1f the rules have a failing at all, It is the slight reluctance to openly acknowledge need to rely
+the
+upon navigational equipment, such as radar, AlS and
+electronic charts, that are now so necessary
+in areas
+of high density traffic in which ships can be encountered coming from all directions.
+These pieces of equipment have often been described as ‘just aids to navigation’ suggestion
+with a
+that they should not be fully trusted but everything used to charts
+navigate a ship, from the (paper
+or otherwise) to the watch keeper’s own
+eyes and the compass, is an aid to navigation. It is
+certainly
+true that officers on the bridge must know how to use the equipment and fully
+understand what it is showing them, as there is an unfortunate history
+of this not being the case
+when a new piece of equipment is first introduced (As
+testified by the number of ‘radar assisted
+collisions that occurred 1950’s
+in the and 1960’s when radar on merchant ships became widely
+used.)
+1-lowever, properly set up radar and AlS plots can provide more precise and readily
+available information about ship movements in both dear and
+reduced visibility situatioris than
+visual observations alone. This can allow traffic to merge
+and for ships to cross. main traffic flows
+without creating unnecessary
+collision risks in highly congested waters, such as off the Dutch
+Coast between the North Hinder light and the 0ff Texel traffuc separation scheme where the
+proposed wind parks are to be built. As regards to the
+wind parks themselves, It is believed that if
+they are properly sited in such a congested area, they
+can actually lower the risk of collisions
+ocdurring by imposing
+greater regulation on the directions of traffic flow in much the same way
+as roundabouts and traffic islands do on the road. There was much said at the meeting in Den
+Haag regarding the questionable competency of the
+bridge officers on some of the ships
+navigating these waters but it is still likely that even
+the most incompetent officer will alter course
+Date: Created on 27/03/2012 14:12:00
+Page: 1770f 192
+Doc: P60151/1 — Netherlands Wind park FSA

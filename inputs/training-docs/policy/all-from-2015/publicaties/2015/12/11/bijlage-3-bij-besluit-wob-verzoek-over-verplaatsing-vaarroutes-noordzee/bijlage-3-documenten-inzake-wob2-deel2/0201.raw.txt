@@ -1,0 +1,73 @@
+Project: P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+MSC/Circ.
+1053 suggests further tests that can define directional stability more precisely, such as
+the ‘puil out’ manoeuvre that consists of putting the ship’s helm to amidships at the end of the
+turning circie manoeuvre (see figure 5) and then measuring the decay of the rate of yaw. A
+directionally stable vessel will settie on directionally
+a steady heading in calm conditions but a
+unstable
+ship will retain a residual constant yaw rate for as long as the rudder stays amidships.
+Figure 10— The puil-out manoeuvre for directionally stable unstable
+and Ships
+At the end of the trial turning circles to port
+and starboard,
+the helm is put amidships at
+time 0’ and the decay in the rate of turn is
+E
+measured.
+Ship ‘A is directionally stabie
+50 turn rate dccays to zero
+Ship ‘B’is directionally unstable
+soa residua! turn rate persîsts
+The puil-out to port and starboard will not be
+identica! if the propeller affects the vessel’s
+steering
+The yawing moment required for a steady rate of tiirn increases more than centripetal force
+the
+with the rudder
+angle, so the neutral point moves closer to the bow as applied helm is increased
+and the steering control of a directionally unstable ship is regained at larger rudder angles. This is
+measured by the ‘spiral test’, which applies helm to port or starboard by a pre-determined arnount,
+say 25°, and records the resulting steady rate of turn. When this is completed, the helm is reduced
+by 5° and the new steady rate of turn is recorded after which the helm is reduced a further 5°
+by
+and, again the
+steady rate of turn is recorded before a further reduction of helm is made. The
+process is repeated until the helm is 25° in reverse direction at which point, the helm sequence is
+again reversed in 5° steps with the steady rate of turn being recorded for each step until the helm
+is returned to its initial value and the ship has followed a double spiral track.
+Rgure 11 — Results of the spiral test for directionally stable and unstable ships
+-‘Ii
+1
+Ship ‘A’isdirectionally
+stable af all helm angles
+VI
+• HELM TO STED
+20
+5’ 10” 15” 25”
+25 20” 15 10’ 5’
+HELMTO PORT
+1-
+z
+z
+Start
+Ship ‘8’ is direcfionaliy
+End unstable
+0 af helm angles
+0 •%%,,
+Start
+1-
+60
+less than to port and
+Is)
+End
+5° to starboard.
+When a ship is directîonally unstable below a cntical helm angle, then the steady rates and direction
+of tum at smaller helm angles are determined by the ship’s rate of tum when the ivdder angle is
+reduced. This is known as ‘steering hysteresis
+Date: Created on 27/03/2012 14:12:00 Page: 184 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

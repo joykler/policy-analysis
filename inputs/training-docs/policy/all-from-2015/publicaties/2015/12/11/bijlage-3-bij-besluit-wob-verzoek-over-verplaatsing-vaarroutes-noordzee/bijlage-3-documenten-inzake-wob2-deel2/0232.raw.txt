@@ -1,0 +1,28 @@
+Indeling scheepsgrootteklas5eil (T= Gross tonnagegewicht schip zonder lading)
+GT
+Grootteklasse
+Min. Max.
+1 100 1000
+2 1,000 1600
+3 1,600 5,000
+4 5,000 10,000
+5 10,000 30,000
+6 30,000 60,000
+7 60,000 10,000
+8 >100,000
+Omschrijving van leveren producten en diensten
+de te
+Rapportage met risico’s zoals geformuleerd in de onderzoeksvraag en korte beschrijving van de
+munitiedepots, inclusief soort munitie aanwezig, spreiding van de munitie, staat van de munitie,
+eventuele risico’s op automatische ontsteking/ontploffing, eventuele gerapporteerde
+(bijna)incidenten uit het verleden irt deze munitie.
+Lever en betalingstermijrien
+Voorlopige uitkomsten per half November 2011
+Eindrapportage eind December 2011
+Verzoeken m.b,t. de offerte
+—, Specificatie/indicatie van de te leveren berekeningen en dan met name de soort grootheden die
+zullen worden aangeleverd wijze resultaten zullen worden uitgedrukt).
+(of een andere waarop de
+Specificatie van de betrokken medewerkers? onderzoekers, inclusief hun curriculum Vitae
+—, Indicatie van relatieve
+inzet per deelvraag/deelopdracht

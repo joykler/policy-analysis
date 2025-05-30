@@ -1,0 +1,45 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Figure 5— The turning circie manoeuvre
+Tactical diameter ‘D’ S 5L
+t
+-J
+In
+VI
+0)
+t
+ce
+c.)
+900
+headlng
+Transfer
+@
+0)
+t
+change
+•0
+(no standard specifled)
+ce
+1
+0)
+The test must inciude turns to starboard and port to
+0 reveal any bias in the vessel’s tuming performance.
+1.)
+t
+ce
+>
+Helm put hard
+to starboard
+The
+Figure 6— initial turning manoeuvre
+Heading changed
+Heading changed
+10° to port
+10° to starboard
+100
+Helm put to starboard
+Helm put 10° to port
+Date: Created on 27/03/2012 14:12:00 Page: 180of192
+Doc: P60151/1 — Netherlands Wind park FSA

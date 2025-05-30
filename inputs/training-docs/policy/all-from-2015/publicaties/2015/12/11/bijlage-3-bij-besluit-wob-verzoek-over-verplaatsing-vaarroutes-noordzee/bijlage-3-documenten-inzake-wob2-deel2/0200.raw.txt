@@ -1,0 +1,103 @@
+1
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind
+park Formal Safety Assessment
+ARCADIS
+When the ship’s rudder
+is put over to starboard, it makes an angle
+of attack with the water flow
+and so
+acts as foil to generate a sideways force port
+to that swings the ships head to starboard
+whilst the ship simultaneously moves bodily,
+or ‘drfts’, out to port. The pressure increases the
+on
+port side whilst the huil develops
+an angle of attack, known as the drift or
+yaw angle’, with the
+water flow. Asymmetrical
+flow develops with the immersed
+huilform acting as a vertical
+hydrofoil
+to reduce the pressure on the starboard side
+and so create a pressure difference across
+the huil sides, which produces centripetal
+the force that makes the ship follow a curved track to
+starboard. The curved track
+becomes an arc of a circie when rate of
+the yaw in degrees / second
+equals
+the angular rate at which the vessel moves
+along the track.
+The effective point through
+which the hydrodynamic huli
+force acts is invariably forward of
+amidships because the boundary layer of disturbed
+water increases in thickness towards the stem
+and so reduces the etfectiveness the
+of aft half of the hull acting as an hydrofoil. The
+hydrodynamic buil
+force consequently also creates a yawing moment
+to reinforce that of the
+rudder. far
+How forward of amidships the hydrodynamic force
+buil acts depends on the shape of
+the underwater buil but, 1f It acts through
+a point aft of the bow, known as the ‘neutral point’, then
+its moment is sufficient to maintain
+the yaw required to follow the circular for
+track that particular
+rudder angle and
+the force on the rudder disappears. This condition
+is known as neutral directional
+stability
+and the neutral point moves closer to the
+bow as the rudder angie in increased. A ship is
+directionally stable if the hydrodynamic
+huil force acts aft of the neutral point but directionally
+unstable if the huil force acts
+forward of the neutral point.
+F1gure 9— The condition neutral
+of directional stability
+Water flow
+FH’ (X) = Turning moment for a
+turn rate
+of ‘w’ radians 1 second
+x
+‘No’ is the
+Neutral Point
+Hult hydrodynamic force ‘F11’
+‘Fc’
+Where centripetal
+force ‘Fc’ = = Mw V kN
+= The ship’s mass in tonnes,
+‘R’ = Tum radius in metres & V = The ship’s in mis
+speed
+The dnft angle at the stem
+produces a zero angle of attack on the rudder the athwartships rudder
+force is zero with
+the rudder remaining hard over.
+Directional Stability
+Directional Instability
+The buil farce acts aft of neutral
+‘FH’ paint ‘No’ The huil farce ‘FH’ acts fwd af neutral point
+Io’
+and is greater than the centripetal farce ‘Fc’
+and is Iess than the centripetal farce ‘Fc as It
+as if must counter the
+part rudder farce ‘FR is now re-inforced by the stbd rudder farce
+‘FR’
+Water
+flow Water flow
+At the stem
+At the stem
+Port
+force ‘FR’
+Huil hydrodynamic + hydrodynamic
+force ‘FH FC’ ‘FR’ Hult farce ‘F11’ = ‘Fc’ - ‘FR’
+Date: Created
+on 27/03/2012 14:12:00
+Page: 183 of 192
+Doc: P60151/1
+— Netherlands Wind park FSA

@@ -1,0 +1,25 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing (Variant 1)
+Risk
+No Variant 1 location ilazardous situation Outcome to be avoided Comment
+C L R
+lOf S going traffic pass explosives dump areas A ship sinking over the dump, or anchoring on Damage, pollution and loss 5 2 10 Supply vessels supporting the
+about 1 ml west of the lane boundary top of the dump, or losing containers or other of life due to an explosion manned Rijn platform also
+substantial objects overboard that then sink on (up to 10 tonnes of TNT) pass over these dumps and
+top of the dump there will also be considerable
+activity during the erection of
+the Scheveningen wind park
+lOg N and S going traffic pass the Beaufort Small vessels, such as maintenance craft Damage, pollution and 2 5 10
+wind park in the separating are between emerging without warning from the wind park possible loss of life due to a
+the lanes with clearances of 900m and 400 causing a collision or a ship breaking down vessel / vessel collision or a
+m respectively and drifting into a wind turbine vessel / turbine collision
+10h N going traffic passes wind park Q10 to Small vessels, such as maintenance craft Damage, pollution and 2 3 6
+starboard with a clearance of 900 m emerging without warning from the wind park possible loss of life due to a
+causing a collision or a ship breaking down vessel / vessel collision or a
+and drifting into a wind turbine vessel / turbine collision
+1290f
+Date: Created on 27/03/2012 14:12:00 Page:
+Doc: P60151/1 — Netherlands Windfarm FSA

@@ -1,0 +1,106 @@
+tjuzeindeze
+schepen met een hoge
+vaart zal men geneigd zijn dit niet direct doen. Hierdoor
+te zal
+draaicirkel groter worden.
+De noodzaak tot het maken van
+een rondtorn doet zich voor in een tweetal gevallen:
+Bij
+a. een uitwijkplichtlg schip van bakboord
+in dat niet aan zijn uitwijkplicht voldoet; in dat
+geval moet aanvaring
+een worden voorkomen waarbij een rondtorn overstuurboord
+noodzakelijk kan zijn;
+b. Als wordt
+uitgeweken voor een schip van stuurboord dat vervolgens
+géén koers en vaart
+houdt en naar bakboord
+uitwijkt; in dat geval rest slechts het maken van een rondtorn
+om
+een
+aanvaring te voorkomen.
+Overigens maakt het voor de ruimte benodigd
+voor het maken van een rondtorn niet uit of deze
+situatie zich
+in open water dan wel in een VSS voordoen.
+Noot: bij VSS situatie wordt de 500 meter
+veiligheidszone rondom objecten wordt niet bevaren.
+Indien
+cle 500 m veiligheidszone namelijk niet meegerekend
+wordt In benodigde ruimte voor een
+rondtorn is er een slgnlficant
+risico op alsnog aanvaring schip object.
+en
+B. Ruimte voor ultwilken
+niet routeciebonden verkeer uit oarken Indien
+doorvaarbaar ziin
+Kolom: Aanvaarde waarde van criterium
+en effecten op afstanden
+In deze situatie wordt uitgegaan van slecht
+zicht waardoor detectie plaats vindt d.m.v. radar.
+In het geval van een klein
+schip ontstaat pas een reële detectie kans als
+het ruim Vrij S van het
+windmolenpark; dit heeft te maken
+met de negatieve effecten op radarbeeld van collission
+het
+avoiding system (CAS), voor koopvaardij schepen
+bijna altijd een 10cm radar, door de intensieve
+echo’s die het park veroorzaakt.
+De reden daarvan is dat niet alleen de hoofdbundel maar ook
+de
+zijbundels van het uitgezonden radarsignaal
+ten gevolge van het grote reflecterende oppervlak van
+de windmolens voldoende
+sterkte hebben om echo’s
+van de windmolens te veroorzaken op het
+radarbeeld; dit betekent dat niet
+1 maar 3 echo’s worden terugontvangen van een
+enkele windmolen
+waardoor in het radarbeeld echo’s van kleine schepen
+dicht bij het park dusdanig worden onderdrukt
+dat de plotsystemen
+de terug signalen niet
+permanent detecteren. Op een afstand van ca, 0,5 mijl
+vanaf het windpark zal het signaal
+van een klein schip pas voldoende onderscheictend zijn van
+die
+van
+de windmolens dat permanente detectie
+mogelijk is.
+AlS is geen systeem voor collission
+avoiding. AlS is gebaseerd op GPS en dat registreert de
+snelheid
+over grond.
+de Voor collission avoiding is
+snelheid door het water benodigd, en het CAS rekent hier
+ook mee. AlS, die
+op schepen die hiermee zijn uitgerust, echter wel
+is beschikbaar en deze zijn dan
+ook zichtbaar. Je kuntde schepen
+dus wel zien als ze uitgerust zijn met AlS.
+Voor de benodigde afstand
+zijn de volgende aannames gehanteerd:
+• Vaart
+van verkeer uit park: 10 knopen
+• Afstand van Verkeer tot eerste paal
+voordat target te pletten is: 0,5 NM
+• Tijd nodig voor een betrouwbare
+plot: 6 minuten (conform rule 7C van International
+Regulations
+for Preventing Collisions at Sea)
+• Afstand die verkeer in de scheepvaartbaan
+aflegt in deze 6 minuten: 1,0 NM
+• Verkeer is dan NM verwijderd
+1,5 van eerste paal van het
+windturbinepark
+• Minimale afstand nodig om voor
+klein verkeer nog uit te wijken: 0,5 NM Ruimte voor
+of een
+noodmanoeuvre: rondtorn — 6L.
+2 opties?]
+• Conclusie:
+totaal benodigde ruimte [2] of NM
+£2,8]
+Noot; moet de Q,5NM
+niet Q,3NMjjn?

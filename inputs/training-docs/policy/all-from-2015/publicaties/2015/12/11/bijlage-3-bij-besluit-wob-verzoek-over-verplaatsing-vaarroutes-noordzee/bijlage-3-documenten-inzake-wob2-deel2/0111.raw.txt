@@ -1,0 +1,54 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing (present situation)
+Risk
+No Variant 1 location Hazardous situation
+Outcome to be avoided Comment
+CL R
+8c S’ly going shipsjoin SE going ships for
+Close quarters situations between merging Damage, pollution and 3 2 6
+the Maas Northwest TSS
+traffic at large aspect angles can cause doubt possible loss of life due to a
+as to whether it is a crossing or an overtaking vessel / vessel collision
+situation and which is the stand on vessel
+8d Ships for the 0ff Brown Ridge TSS Diverging traffic can lead to a poorly Damage, pollution and 3 2 6
+diverge from the NW going lane out of the positioned vessel cutting across ahead of a possible loss of life due to a
+Maas NW TSS as they turn to go NxW ship astern vessel / vessel collision
+8e SxE going ships from the 0ff Brown SxE going ships must give way to ENE going Damage, pollution and 3 1 This is a simple crossing
+at
+Ridge TSS cross ENE going ships for the ships possible loss of life due to a 90°
+IJmuiden inner fairway buoy vessel / vessel collision
+ENE going ships for the Ijmuiden inner ENE going ships must give way to NxW
+3 2 6
+fairway buoy, S going ships for the Maas going ships that must give way to SSW going
+Northwest TSS and NxW going ships from traffic and S going ships. SSW going traffic
+the Maas Northwest TSS cross SSW going must give way to ENE going ships
+traffic for Schouwenbank.
+8f Damage, pollution
+and
+SSW going traffic must
+give way to S going possible loss of life due to a 3 2 6 The give way ship must make
+ships in a crossing situation but a close vessel
+/ vessel collision a large course alteration if it
+quarters situation between ships at very
+does not reduce speed in a
+different speeds converging at a large aspect
+SSW going traffic crosses S going ships at large aspect angle close
+a large aspect angle angle can cause doubt as to whether it is a quarters
+crossing situation
+crossing or an overtaking situation and which
+is the stand on vessel
+8g ENE going ships for the IJmuiden inner ENE going ships must give way to NNE going Damage, pollution
+and 3 2 6 The give way ship must make
+fairway buoy cross NNE going traffic from traffic in a crossing situation but a close possible loss of life due to a large
+a course alteration if it
+Schouwenbank at a large aspect angle quarters situation between ships at very vessel / vessel collision does not reduce speed in
+a
+different speeds converging at a large aspect large aspect angle close
+angle can cause doubt as to whether it is a quarters crossing situation
+crossing or an overtaking situation and which
+is the stand on vessel
+Date: Created on 27/03/2012 14:12:00 Page: 94 of 192
+Doc: P60151/1 —Netherlands \Nindfarm FSA

@@ -1,0 +1,44 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing (Variant 1)
+Risk
+Variant location Hazardous situation Outcome to
+No 1 be avoided Comment
+CL R
+8— The sea area between the western edge ofthe Maas North TSS, the easterii edge of the NE laziefrom the Noord Hinder North TSS to the 0ff Texel TSS, the sozithern edge of
+the outborind lanefroni IJnzuiden and t/ze southern edge of the Maas Northwest TSS
+8a NNE going ships from Schouwenbank 2 5 10
+passing West Rijn wind park about 600 m
+to port
+. Small vesseis, such as maintenance craft Damage, pollution and
+8b WSW going ships out of Scheveningen 2 5 10
+. emerging without warning from the wind park possibie loss of life due to a
+passing Scheveningen wind park about
+causing a collision or a ship breaking down vessel / vessel collision or a
+600 m to stbd.
+and drifting into a wind turbine vessel / turbine collision
+8c SSW going ships for Schouwenbank pass 2 5 10
+West Rijn wind park about 600 m to stbd.
+8d SSW going ships for Schouwenbank cross NW going traffic must give way to SSW Damage, pollution and 3 5 The West Rijn wind park will
+NW / SE going traffic in and out of the going ships, which must give way to SE going possible loss of life due to a obscure onboard visual, radar
+Maas Northwest TSS traffic vessel / vessel collision and AlS detection of a close
+quarters situation between
+NW and SSW going ships
+until the range between them
+is only about 4 mis
+NW going traffic out of the Maas Small vessels, such as maintenance craft Damage, pollution and 2 3 6 See hazard 8d’ above
+8e
+Northwest TSS passes the West Rijn wind emerging without warning from the wind park possible loss of life due to a
+park 1 ml to stbd causing a collision or a ship breaking down vessel / vessel collision or a
+and drifting into a wind turbine vessel / turbine collision
+8f NNE going ships from Schouwenbank and NW going traffic must give way to WSW Damage, pollution and 3 4 12
+WSW going ships out of Scheveningen going ships, which must give way to SE going possible loss of life due to a
+cross NW / SE going traffic in and out of traffic that must give way to NNE going ships, vessel / vessel collision
+the Maas Northwest TSS which must give way to NW & WSW going
+ships.
+125 of
+Date: Created on 27/03/2012 14:12:00 Page:
+192
+Doc: P60151/1 — Netherlands Windfarm FSA

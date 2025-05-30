@@ -1,0 +1,66 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Nelherlands Windfarm Formal Safety Assessment
+ARADIS
+Section A: Offshore Routing (Variant 1)
+Risk
+No Variant 1 location Ilazardous situation Outcome
+to be avoided Comment
+CL R
+——
+NE going traffic must give way to NW, W &
+4 3 12
+WSW going ships, NW going ships must give
+NW 1 SE going tankers and deep draft Damage, pollution and
+way to W, WSW & SSW going ships,
+W
+ships, W, WSW and SSW going ships possible loss of life due
+to a
+going ships must give way to
+WSW, SSW &
+cross NE going traffic close by the
+vessel / vessel collision
+SE ships, going
+going WSW ships must give
+Horizon manned oil platform involving a laden tanker
+way SE going ships,
+to SSW & SSW going
+ships must give way to SE going ships
+& NE
+going traffic, SE going ships must give way to
+NE going traffic in close quarters crossing
+a
+situation.
+NW and W going ships cross at a large
+3 2 6
+aspect angle
+Close quarters situations between crossing
+traffic at large aspect angles can cause doubt
+W and WSW going ships cross at a large Damage, pollution and 2
+5d 3 6
+as to whether it is a crossing or an overtaking
+aspect angle possible loss of life due to a
+situation and which is the stand on vessel
+vessel / vessel collision —
+—
+WSW and SSW going ships cross at a 3 2 6
+large aspect angle
+All ships with a W going component give A ship colliding with the platform Damage, pollution, fire and 5 2 10
+way by altering course towards the oil possible loss of life due to a
+platform in the middle of
+the SSW going vessel / platform collision
+lane and on the edge of the NE going lane
+Laden tankers from the South for IJmuiden Diverging traffic can lead to a poorly Damage, pollution and 4 2 8
+diverge from NE going traffic as they turn
+positioned vessel cutting across ahead of a possible loss of life due to a
+to E ship astern vessel / vessel collision
+involving a laden tanker
+going
+5e S ships for the Maas North TSS S going ships must give way to NE going Damage, pollution and 3 2 6
+cross NE going traffic traffic possible loss of life due to a
+vessel / vessel collision
+117 of
+Date: Created on 27/03/2012
+14:12:00 Page:
+192
+Doc: P60151/1 — Netherlands Wrndfarm FSA

@@ -1,0 +1,33 @@
+51/1
+Project: P601
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADS
+(Variant 1)
+Section B: Inshore Routing
+Risk
+Variant 1 location Hazardous situation Outcome to be avoided Comment
+No
+CL R
+ships from the Maas Northwest W going traffic must give way to ESE going Damage, pollution and 3 4 12
+9g ESE going
+traffic outbound for ships crossing with a small aspect angle possible loss of life due to a
+TSS cross W going
+TSS vessel / vessel collision
+the Maas West
+Variant 1 provides a route for
+Scheveningen crosses in Damage, pollution and 4 2 8
+9h Southeast corner of the Maas Central Inbound traffic for
+west bound vessels out of
+traffic in the approach channel possible loss of life due to a
+Precautionary Area and outbound
+Scheveningen but does not
+vessel / vessel collision
+to Europoort
+specif’ a route into
+involving a laden tanker
+Scheveningen from the west
+of
+Page:
+Date: Created on 27/0312012 14:12:00
+Doc: P60151/1 — Netherlands Windfarm FSA

@@ -1,0 +1,35 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+CADIS
+Section B: Inshore Routing (IMO variant)
+Risk
+No Variant 12-12-2011 location Hazardous situation Outcome to be avoided
+Comment
+CL R
+7e Deep water area by the pilot station Possible collision between a vessel in the deep Damage, pollution and 3 2 6 Variant 12-12-20 11 makes no
+water channel and a vessel hampered in its possible loss of life due to a significant change to the level
+ability to manoeuvre whilst it is picking up or slow speed vessel / vessel of risk.
+disembarking pilot helicopter
+a by (or launch) collision involving a tanker
+7f Deep water channel between anchorages Possible collision between vessel in the deep Damage, pollution and 4 3 12 ‘Not impeding a vessel in a
+3A and 3C water channel and a ship crossing the channel possible loss of life due to a narrow channel that is
+to the main inbound lane from anchorage 3A. slow speed vessel / vessel restricted by its draft’ means
+Ships leaving the anchorage must not impede collision involving a tanker taking early action to avoid a
+deep draft vessels in the channel. close quarters situation such as
+reducing speed (Rules 8, 9 &
+18)
+7g Deep water channel crosses NxE / SxW Possible collision between a vessel in the deep Damage, pollution and 4 3 12 NxE / SxW going ships must
+going ships to and from Schouwenbank water channel and a ship crossing the channel. possible loss of life due to a not impede E / W going deep
+NNE / SSW going vessel / vessel collision draft ships confined to the
+involving a tanker channel
+7h Deep water channel by anchorage 3B to Possible collision between vessel in the deep Damage, pollution and 4 3 12 Ships leaving the anchorage
+the north water channel and a ship crossing the channel possible loss of life due to a must not impede deep drafi
+to the main inbourid lane from anchorage 3B. slow speed vessel / vessel vessels confined to the
+collision involving a tanker channel.
+7i Main W going outbound traffic lane abeam N going ships leaving the anchorage tojoin Damage, pollution and 3 3 9
+anchorage 3B to port the west bound lane must give way to W possible loss of life due to a
+going outbound traffic vessel / vessel collision
+1530f
+Date: Created on 27/03/2012 14:12:00 Page:
+Doc: P60151/1 — Netherlands Windfarm FSA

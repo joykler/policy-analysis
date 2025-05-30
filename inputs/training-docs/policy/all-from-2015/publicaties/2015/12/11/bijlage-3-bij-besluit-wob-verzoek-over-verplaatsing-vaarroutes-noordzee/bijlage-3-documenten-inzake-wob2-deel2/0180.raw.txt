@@ -1,0 +1,57 @@
+Level
+CL
+P60151/1
+Project:
+dient: of
+Port Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section C: Secondary Traffic (IMO
+variant)
+Risk
+No Variant
+IMO 12-12-2011 location Hazardous situation
+Outcome to be avoided
+Comment
+R
+12 Holland
+— Hook of to IJmuiden port area
+12a Scheveningen Encountering
+crossing traffic in and out of the Damage, pollution and
+3 2 6
+port
+possible loss of life due a
+to
+vessel / vessel
+collision
+13 —IJmuiden to Texel
+6
+13a IJmuiden as a fishing port
+Encountering fishing vessels in a crossing Damage,
+pollution and 3 2
+situation in any of the main shipping lanes possible
+loss of life due to a
+vessel vessel collision
+/
+6
+13b Den Helder naval
+base Encountering naval vessels in a crossing pollution
+Damage, and 3 2
+situation in any of the main shippin lanes
+possible loss of life due to a
+vessel
+/ vessel collision
+6
+13e Den Helder
+fishing port Encountering fishing vessels in a crossing
+Damage, pollution and 3 2
+situation in any of the main shipping possible
+lanes loss of life due to a
+vessel / vessel collision
+of risk for traffic 24
+Secondan’
+Hazard Score for IMO Variant (12.12.11)
+of
+Date: Created on 27/03/2012 14:12:00
+Page:
+Doc: P60151/1 — Netherlands \Mndfarm FSA

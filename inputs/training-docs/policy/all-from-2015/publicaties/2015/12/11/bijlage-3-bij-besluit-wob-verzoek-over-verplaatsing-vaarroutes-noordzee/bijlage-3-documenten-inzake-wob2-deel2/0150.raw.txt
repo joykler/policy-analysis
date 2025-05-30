@@ -1,0 +1,58 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands \Nindfarm Formal Safety Assessment
+ARCADIS
+Section B: Inshore Routing (Variant 1)
+Risk
+No Variant 1 location Hazardous situation Outcome to be avoided Comment
+CL R
+At the manoeuvring area west of the outer E’Iy going ships must pass W going traffic 4 2 8
+pilot station where outbound WxS going port to port in end on close quarters situations
+ships for the South cross the E / W going but WxS going ships must avoid passing too
+deep draft traffic close ahead of E going deep draft traffic
+Damage, pollution and Deep draft vessels are beyond
+possible loss of life due to a the channel and are no longer
+Laden inbound tankers from the South Ships must port to port in end on close 4 2
+pass 8
+vessel / vessel collision restricted in their ability to
+may encounter outbound and inbound deep the
+quarters situations. Tankers from South
+involving a loaded tanker manoeuvre due to their draft
+draft ships for and from the offshore deep should expect to give way to inbound ships
+water route from the North as their tracks merge
+1 in
+S going deep draft ships for the anchorage going ships must give way to S going 4
+W 2 8
+may cross the track of NE going inbound Which must give way NE going ships
+ships. to
+going
+tankers from the South and W
+aground on the wreck ifit
+A ship could go Damage and pollution ifa 2 6
+outbound tankers for the deep water route
+dragged its anchor tanker grounds on the wreck
+A buoyed wreck lies on the Northern edge
+of the deep water anchorage at a depth of
+A ship could drop its anchor on the wreck Damage and delay due to a 2 2
+20.5 m and an unmarked wreck at a depth
+tanker fouling its anchor on
+21.5 m lies atthe anchorage’s SW corner
+the wreck or hitting the buoy
+ho NE / SW going vessels pass the existing 4 4
+wind park 32 to starboard with no
+clearance
+12
+NNW outbound traffic for the 0ff Texel
+lip
+TSS passes the existing wind park 33 to Small vessels, such as maintenance craft Damage, pollution and A collision between a ro-ro
+starboard with about 500 m clearance emerging without warning from the wind park possible loss of life due to a passenger ferry and a wind
+causing a collision or a ship breaking down vessel / vessel collision or a turbine could have severe
+12
+1 lq NNW outbound traffic for the 0ff Texel
+and drifting into a wind turbine vessel / turbine collision consequences
+TSS passes the wind park Q4 to port with
+about 0.5 mis clearance
+of
+Date: Created on 27/03/2012 14:12:00 Page:
+Doe: P60151/1 Windfarm FSA
+— Netherlands
