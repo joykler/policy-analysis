@@ -1,0 +1,47 @@
+In onderstaande figuur staat het verschil tussen de initiële en actuele 
+kostenschatting. ICT-activiteiten zonder initiële kostenschatting staan hier 
+niet in.
+Organisatieomvang* Figuur 40 Inschatting totale meerjarige kosten ten opzichte van vorige jaren
+40%
+34%34% 34%34%
+30%
+24%24% 24%24%
+119%9%
+20%
+10%
+0%
+2018 2019 2020 2021 2022
+Verschil tussen de initiële en actuele kostenschatting
+* Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+Uit bovenstaande figuur blijkt dat de kostensc hatting vaak naar boven wordt 
+bijgesteld. Gemiddeld is dat in 2022 24 procent over de gehele looptijd van 
+de ICT-activiteit.
+In voorgaande jaren waren de meeste aanpassingen in de kostenschatting 
+minder dan tien miljoen euro. Dit jaar is het aantal ICT-activiteiten met een 
+grotere aanpassing gedaald van 9 naar 5 ICT-activiteiten. 2 ICT-activiteiten 
+hebben de kostenschatting met meer dan tien miljoen euro verlaagd. In 
+bijlage 2c staat welke ICT-activiteiten dat zijn.
+Grote aanpassingen in de kostenschatting zijn het gevolg van nieuwe 
+afspraken. De redenen voor dit soort nieuwe afspraken staan in onder­
+staande figuur.
+Organisatieomvang* 1
+Tabel 23 Aandeel redenen voor herijkingen per jaar
+Reden 2021 2022
+Tegenvallers binnen project 55% 56%
+Interne scopewijzigingen 19% 4%
+Aanpassing (business)doelen of eisen 14% 20%
+Overnemen aanbeveling extern advies 8% 9%
+Prijsontwikkeling 4% 2%
+Implementatie in organisatie 7%
+Wens vanuit Tweede Kamer 2%
+1 Het is niet mogelijk om de jaren over 2017 t/m 2020 weer te geven, omdat we dit niet uit de systemen kunnen 
+halen.
+* Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+Daadwerkelijke uitgaven in 2022
+Elk jaar rapporteren de ministeries per ICT-activiteit de daadwerkelijke 
+uitgaven. In 2022 is in totaal 638 miljoen euro uitgegeven aan alle in deze 
+JBR vermelde ICT-activiteiten. In 2021 was dit 746 miljoen euro.
+De uitgaven zijn in zes categorieën ingedeeld, zie onderstaand figuur.
+Jaarrapportage Bedrijfsvoering Rijk 2022 81

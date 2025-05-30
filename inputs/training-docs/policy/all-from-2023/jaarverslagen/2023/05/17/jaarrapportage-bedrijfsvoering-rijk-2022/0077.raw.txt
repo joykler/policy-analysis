@@ -1,0 +1,51 @@
+Organisatieomvang*
+Figuur 35 Aantal ICT-activiteiten op het Rijks ICT-dashboard naar status
+125
+111155
+111111
+110202
+100
+8989
+8080
+75
+50
+3333
+2525 2626
+2424
+25
+1133
+99
+33 33 44 33
+11 11 11
+00 00
+0
+2018 2019 2020 2021 2022
+In uitvoering In heroriëntatie Afgerond Geannuleerd
+* Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+De ICT van de Rijksoverheid blijft in ontwikkeling. Dit betekent dat er ieder 
+jaar weer ICT-activiteiten worden gestart. Hoewel het beleid is om ICT-activi­
+teiten vooral klein en behapbaar te houden, neemt het aantal grote ICT-
+activiteiten ook dit jaar weer toe. In 2022 was die stijging 6 procent. In 2021 
+was de stijging 10 procent en 2020 15 procent.
+In bijlage 2c staat het aantal ICT-activiteiten per ministerie over de afgelopen 
+vijf jaar. Het ministerie van Infrastructuur en Waterstaat heeft de meeste ICT-
+activiteiten op het Rijks ICT-dashboard.
+Ministeries kunnen niet altijd volledige openheid geven over de aanbe­
+steding van grote ICT-activiteiten. Dat komt onder meer door de manier van 
+aanbesteden. Als er bijvoorbeeld sprake is van een integrale resultaatver­
+plichting voor marktpartijen, dan is niet altijd duidelijk wat de kosten per 
+onderdeel zijn. Ook kan wet- en regelgeving bij ICT-activiteiten in uitvoering 
+tot gevolg hebben dat we de ICT-kosten van deze activiteiten niet mogen 
+laten zien. Denk aan de Aanbestedingswet. In bijlage 2c en op het Rijks ICT-
+dashboard staan zowel de gerealiseerde als de geraamde ICT-kosten van 
+deze ICT-activiteiten op 0 euro. Voorbeelden hiervan zijn de grond-, weg- en 
+waterbouw (GWW-)projecten van Rijkswaterstaat. Sinds 1 januari 2018 is 
+de situatie bij de (integrale) aanbesteding van GWW-projecten echter 
+gewijzigd. Partijen die een GWW-opdracht aannemen moeten de ICT-kosten 
+apart vermelden.
+Doorlooptijd
+De gemiddelde duur van de ICT-activiteiten is ten opzichte van 2021 
+gestegen. Deze is in 2022 ongeveer 5 jaar. Onderstaande figuur laat zien dat 
+ICT-activiteiten elk jaar gemiddeld langer duren.
+Jaarrapportage Bedrijfsvoering Rijk 2022 77

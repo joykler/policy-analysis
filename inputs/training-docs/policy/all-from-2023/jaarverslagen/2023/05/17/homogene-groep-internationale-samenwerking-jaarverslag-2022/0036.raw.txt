@@ -1,0 +1,36 @@
+Begroting Realisatie 
+ Mutatie Begroting/artikel
+2022 2022
+7. Sociale vooruitgang (incl. onderwijs)
+OCW
+06.70 Hoger beroepsonderwijs 2.873 0 2.873 VIII-06.70
+07.70/76 Wetenschappelijk onderwijs 47.953 1.617 49.570 VIII-07.70/76
+16.70 Onderzoek en wetenschappen 454 0 454 VIII-16.70
+BHOS
+03.01 Seksuele en reproductieve gezondheid en rechten en HIV/aids 527.508 45.758 573.266 XVII-03.01
+03.02 Vrouwenrechten en gendergelijkheid 51.643 32 51.675 XVII-03.02
+03.03 Versterkt maatschappelijk middenveld 197.644 2.842 200.486 XVII-03.03
+03.04 Onderwijs 69.550 265 69.815 XVII-03.04
+Totaal 897.625 50.514 948.139
+8. Versterkte kaders voor ontwikkeling
+JenV
+37.02 COA (Asieltoerekening) 307.472 402.098 709.570 VI-37.02
+37.02.21 Nationaal Programma Oekraïense Vluchtelingen 0 150.000 150.000 VI-37.02
+OCW
+01.70/76 Primair onderwijs (Asieltoerekening) 28.924 857 29.781 VIII-01.70/76
+03.70 Voortgezet onderwijs (Asieltoerekening) 9.316 276 9.592 VIII-03.70
+Financiën
+04.50.09 IDA (onderdeel Wereldbank) 219.550 0 219.550 IX-50.01
+BHOS
+05.01 Multilaterale samenwerking 151.410 196.765 348.175 XVII-05.01
+05.02 Overig armoedebeleid 96.665 -29.950 66.715 XVII-05.02
+05.04 Nog te verdelen i.v.m. wijzigingen BNI en/of toerekeningen 0 0 0 XVII-05.04
+Toerek. Opvang asielzoekers 0 0 0 Toerekening
+Totaal 855.670 719.597 1.575.267
+Algemeen
+Div. Overige uitgaven 305.546 -4.932 300.614 diversen
+Totaal 305.546 -4.932 300.614
+TOTAAL ODA 4.785.269 1.429.033 6.214.302
+ 
+  
+36

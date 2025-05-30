@@ -1,0 +1,51 @@
+Bijlage 2. Non-ODA uitgaven 2022 per beleidsthema (bedragen x EUR 1000) 
+ 
+Begroting Realisatie 
+Begroting/beleidsterrein/artikel/omschrijving Mutatie Begroting/artikel
+2022 2022
+1. Versterkte internationale rechtsorde, eerbiediging van mensenrechten en gastlandbeleid
+BZ 01.01 Goed functionerende internationale instellingen 31.636 4.254 35.890 V-01.01
+01.02 Bescherming en bevordering van mensenrechten 25.847 6.124 31.971 V-01.02
+01.03 Gastlandbeleid internationale organisaties 11.425 4.998 16.423 V-01.03
+JenV 33.03.01 Opsporing en vervolging; NFI 802 19 821 VI-03.10
+33.03.03 Overige Bijdrage medeoverheden 0 0 0 VI-03.10
+91.01 Europol en Eurojust 22.771 -10.786 11.985 VI-01.07
+91.01 WIPO 380 -140 240 VI-01.09
+IenW 17.01 Luchtvaart 1.311 589 1.900 XII-17.01
+18.01 Scheepvaart en havens 1.081 -37 1.044 XII18.01
+SZW 02.00 Bijstand, Participatiewet en Toeslagenwet; contributie CASS 9 -2 7 XV-02.00
+VWS 02.11 Curatieve zorg; Beschikbaarheid en productveiligheid 657 -357 300 XVI-02.11
+04.40 Zorgbreed beleid; Inrichten uitvoeringsactiviteiten 0 0 0 XVI-04.40
+Totaal 95.919 4.662 100.581
+2. Vrede, veiligheid en stabiliteit 
+BZ 02.01 Goede internationale samenwerking ter bevordering van de eigen 
+14.085 1.603 15.688 V-02.01
+en bondgenootschappelijke veiligheid
+02.02 Bestrijding internationale criminaliteit en terrorisme 14.670 2.206 16.876 V-02.02
+02.03 Wapenbeheersing 7.542 2.861 10.403 V-02.03
+02.04 Bevorderen van veiligheid, stabiliteit en rechtsorde 143.708 -28.224 115.484 V-02.04
+02.05 Bevordering van transitie in prioritaire gebieden 17.893 -2.242 15.651 V-02.05
+BHOS 04.01 Humanitaire hulp 1.017 -1.016 1 XVII-04.01
+JenV 36.02 Nationale veiligheid en terrorismebestrijding 414 -4 410 VI-03.21
+Defensie 01.01 Inzet (Budget Internationale Veiligheid) 182.785 106.718 289.503 X-01.01
+09.01 Inkomensoverdrachten 15.000 -6.386 8.614 X-09.01
+11 Geheime uitgaven 5.000 -247 4.753 X-02.33
+Totaal 402.114 75.269 477.383
+3. Effectieve Europese samenwerking
+BZ 03.01 Afdrachten aan de Europese Unie (HGIS-toerekening) 75.733 0 75.733
+03.02 Europees Ontwikkelingsfonds 0 0 0
+03.03 Een hechtere Europese waardengemeenschap 6.300 937 7.237 V-03.03
+03.04 Versterkte Nederlandse positie in de Unie 4.517 456 4.973 V-03.04
+03.05 Europese vredesfaciliteit 24.277 5.640 29.917
+Totaal 110.827 7.033 117.860
+4. Consulaire belangenbehartiging en internationaal uitdragen van NLse waarden en belangen
+BZ
+04.01 Consulaire dienstverlening Nederlanders in het buitenland 9.031 2.714 11.745 V-04.01
+04.02 Samen met (keten)partners het personenverkeer reguleren 18.467 1.483 19.950 V-04.02
+04.03 Grotere buitenlandse bekendheid met de Nederlandse cultuur 7.475 -837 6.638 V-04.03
+04.04 Uidragen Nederlandse waarden en belangen 18.375 3.644 22.019 V-04.04
+OCW
+08.77 Internationaal onderwijs; Cultuur 480 0 480 VIII-08.77
+14.71 Cultuur; subsidies 6.017 0 6.017 VIII-14.71
+Totaal 59.845 7.004 66.849
+33

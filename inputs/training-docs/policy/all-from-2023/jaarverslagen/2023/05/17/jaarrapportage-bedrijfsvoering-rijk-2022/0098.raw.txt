@@ -1,0 +1,54 @@
+2. Human centered design
+De gebruiker van de informatievoorziening staat centraal bij de
+inrichting van ondersteunende applicaties en onderliggende
+functies.
+3. Trust by design
+De informatievoorziening van de rijksinkoop is transparant,
+toegankelijk en herleidbaar, gericht op het voldoen aan privacyver­
+eisten en informatiebeveiliging. Dit draagt bij aan het vertrouwen
+in de dienstverlening van de rijksinkoop.
+4. Quality by design
+De kwaliteit van de dienstverlening is geborgd door een periodieke
+terugkoppeling over de informatievoorziening. Hierbij zijn drie
+zaken leidend. De menselijke maat, beschikbare vrije expertise­
+ruimte en een goede balans tussen kosten, op tijd zijn en kwaliteit.
+5. Learning by design
+De informatiehuishouding van de rijksinkoop is zo ingericht dat
+deze continu bijdraagt aan kennismanagement, kennisdeling en
+kennisintegratie. Dit verbetert de ontwikkeling van nieuwe
+inzichten en nieuwe digitale dienstverlening voor de rijksinkoop.
+6. Agile by design
+Dienstverlening en hierbij ondersteunende informatievoorziening
+is zo ingericht dat deze eenvoudig te hergebruiken, te vervangen
+en aan te passen is.
+Centrale voorzieningen
+De Rijksoverheid wil zoveel mogelijk op één manier zakendoen met leveran­
+ciers. Leveranciers hebben dan zo weinig mogelijk last van verschillen 
+tussen achterliggende systemen bij ministeries.
+DigiInkoop
+Ook in 2022 is gewerkt aan de uitfasering van DigiInkoop. DigiInkoop is de 
+centrale inkoopapplicatie van de Rijksoverheid. Om deze transitie goed te 
+begeleiden, is het programma Transitie DigiInkoop opgericht. Het 
+programma heeft in 2022 een aantal belangrijke mijlpalen bereikt:
+• De bouw van het centrale Catalogusplatform is afgerond. Ook zijn de
+eerste implementaties gestart. Met dit platform kunnen centrale inkoop­
+catalogi worden gekoppeld aan bestelapplicaties van de ministeries en
+kunnen leveranciers eenvoudig hun catalogus onderhouden. De eerste
+implementaties zijn gestart, zodat aan de hand van een aantal pilot-
+catalogi de werking van het Catalogusplatform getest kan worden door
+de ministeries. Definitieve besluitvorming over de ingebruikname van
+het Catalogusplatform vindt plaats na afronding van de testfase.
+• In september 2022 is het Leveranciersportaal in gebruik genomen.
+Hiermee kunnen leveranciers die hiervoor zelf geen faciliteiten hebben
+snel en eenvoudig een elektronische factuur (e-factuur) aanmaken.
+• De DigiInkoop Archief-applicatie is ontwikkeld en wordt nu (april 2023)
+getest. Deze nieuwe applicatie wordt naar verwachting 24 april 2023 in
+productie genomen. Hierdoor kunnen de rijksdiensten ook na het
+uitschakelen van DigiInkoop blijven voldoen aan de wettelijke bewaar­
+termijnen voor inkoopinformatie die tot dan toe in de applicatie stond
+opgeslagen.
+Dankzij deze mijlpalen is DigiInkoop volgens planning per 1 april 2023 
+stopgezet. Het Programma Transitie DigiInkoop eindigt per 31 mei 2023. 
+De ADR voert een evaluatie uit om de realisatie van de doelstellingen te 
+toetsen en verbeterpunten te identificeren.
+Jaarrapportage Bedrijfsvoering Rijk 2022 98

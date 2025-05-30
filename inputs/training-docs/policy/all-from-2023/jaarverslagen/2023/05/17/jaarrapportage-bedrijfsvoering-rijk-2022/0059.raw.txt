@@ -1,0 +1,52 @@
+3 INFORMATIEVOORZIENING RIJK
+3.1 Inleiding
+Dit hoofdstuk gaat over de informatievoorziening (IV of I) en ICT binnen 
+het Rijk en de belangrijkste ontwikkelingen in 2022. De opbouw van dit 
+25
+hoofdstuk volgt de thema’s van de I-strategie Rijk 2021-2025 . De I-strategie 
+Rijk beschrijft de gezamenlijke richting en daaruit voortvloeiende keuzes van 
+de Chief Information Officers (CIO’s) van het Rijk op het gebied van digita­
+lisering. De thema’s komen ook terug in de werkagenda Waardengedreven 
+26
+Digitaliseren .
+3.1.1 Ontwikkeling informatievoorziening 2022
+Dit jaar heeft de staatssecretaris voor Koninkrijksrelaties en Digitalisering 
+de werkagenda Waardengedreven Digitaliseren geïntroduceerd. De 
+werkagenda is de eerste stap in de invulling van de ambities van het kabinet 
+voor de waardengedreven digitale transitie. Het is een uitwerking van 
+elementen uit de brief Hoofdlijnen Beleid Digitalisering met concrete doelen 
+en acties. De werkagenda heeft vijf programmalijnen: (1) meedoen, (2) 
+vertrouwen, (3) regie in de digitale samenleving, (4) goede digitale overheid 
+en (5) versterken van de digitale samenleving in het Caribisch deel van 
+het Koninkrijk. De strategische I-agenda komt terug in de programmalijnen 
+2, 3 en 4. De vierde lijn ondersteunt de andere lijnen van de werkagenda. 
+Deze lijn is bovendien belangrijk voor hoe de rijksoverheid zelf functioneert. 
+De verdeling over de programmalijnen staat hieronder. Sommige thema’s 
+komen in meerdere programmalijnen terug:
+Tabel 21 Verdeling programmalijnen per thema I-strategie
+Programmalijn 
+Thema I-strategie
+werkagenda
+1. I in het hart 4
+2. Digitale weerbaarheid 2 + 4
+3. ICT-landschap 4
+4. Generieke voorzieningen 3 + 4
+5. Informatiehuishouding 4
+6. Data en algoritme 3 + 4
+7. I-vakmanschap 4
+8. Transparantie en inzicht 3
+9. I-besturing 4
+10. Markt en innovatie 2 + 4
+Bron: Inventarisatie.
+In de zomer van 2022 heeft de staatssecretaris de routekaarten van de I-
+strategie Rijk 2022-2025 gedeeld met de Tweede Kamer. Hiermee is de 
+Kamer geïnformeerd over de uitwerking van de I-strategie Rijk, de digitali­
+sering van de rijksoverheid en de belangrijkste uitdagingen voor de infor­
+matievoorziening van de rijksoverheid voor de komende jaren. In de 
+routekaarten geven we per thema aan wanneer we welke resultaten 
+bereiken. Of wanneer we met de uitwerking van een thema starten. We 
+25
+ Kamerstukken II, 2022, 2022D31778. 
+26
+ Kamerstukken II, 2022. 
+Jaarrapportage Bedrijfsvoering Rijk 2022 59

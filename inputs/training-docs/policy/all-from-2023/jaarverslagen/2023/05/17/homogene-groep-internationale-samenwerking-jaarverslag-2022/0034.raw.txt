@@ -1,0 +1,57 @@
+Begroting Realisatie 
+Begroting/beleidsterrein/artikel/omschrijving Mutatie Begroting/artikel
+2022 2022
+5. Duurzame economische ontwikkeling, handel en investeringen
+BHOS 01.01 Duurzaam handels- en investeringssyteem, incl. MVO 10.100 -2.410 7.690 XVII-01.01
+01.02 Versterkte Nederlandse Handels- en Investeringspositie 86.665 13.619 100.284 XVII-01.02
+01.03 Versterkte private sector en arbeidsmarkt in ontwikkelingslanden 2.280 -460 1.820 XVII-01.03
+EZK 1.55 Goed functionerende economie en markten; opdrachten 161 -161 0 XIII-1.55
+1.95 Goed functionerende economie en markten; bijdragen 
+2.752 -457 2.295 XIII-1.95
+(inter)nationale organisaties
+2.95 Bedrijvenbeleid: Innovatief en duurzaam ondernemen; bijdragen 
+2.560 -354 2.206 XIII-2.95
+(inter)nationale organisaties
+Totaal 104.518 9.777 114.295
+6. Duurzame ontwikkeling, voedselzekerheid, water en klimaat
+BHOS 02.03 Klimaat 1.150 -12 1.138 XVII-02.03
+IenW
+11.01 Algemeen waterbeleid (Partners voor Water/Blue deal) 12.397 -250 12.147 XII-11.01
+14.01 Wegen en verkeersveiligheid; Netwerk programma's 0 40 40 XII-14.01
+19.02 Internationaal beleid, coördinatie en samenwerking 5.052 -1.660 3.392 XII-19.02
+23.01 Meteorologie, seismologie en aardobservatie (contributie 
+3.352 257 3.609 XII-23.01
+WMO/ECMWF)
+97.01 IenW-brede programmamiddelen 0 0 0 XII-97.01
+EZK
+4.55 Een doelmatige en duurzame energievoorziening; opdrachten 285 -180 105 XIII-4.55
+4.95 Een doelmatige en duurzame energievoorziening; bijdragen aan 
+1.624 -303 1.321 XIII-4.95
+(inter)nationale organisaties
+LNV
+21.95 Bijdragen (inter)nationale organisaties (w.o. FAO en UNEP) 6.522 -2.062 4.460 XIV-11.95
+22.95 Bijdragen (inter)nationale organisaties 1.714 -179 1.535 XIV-12.95
+Totaal 32.096 -4.349 27.747
+7. Sociale vooruitgang (incl. onderwijs)
+OCW
+07.70/76 Wetenschappelijk onderwijs 7.566 -2.249 5.317 VIII-07.70/76
+08.71 Internationaal onderwijs; Subsidies 342 0 342 VIII-08.71
+VWS 09.10 Algemeen; Internationale samenwerking 3.868 0 3.868 XVI-09.10.07
+BHOS
+03.01 Seksuele en reproductieve gezondheid en rechten en HIV/aids 1.611 4.279 5.890 XVII-03.01
+Totaal 13.387 2.030 15.417
+8. Versterkte kaders voor ontwikkeling
+BHOS 05.02 Overig armoedebeleid 10.649 -8.516 2.133 XVII-05.02
+Financiën
+02.00.44 Financiële markten; opdrachten 0 850 850 IX-50.02
+04.52.01 Technische assistentie 1.817 -665 1.152 IX-52.01
+Totaal 12.466 -8.331 4.135
+Overige uitgaven
+Div. Overige uitgaven Div. Begrotingen
+653.473 65.021 718.494
+Totaal
+653.473 65.021 718.494
+Totaal non-ODA 1.484.645 158.116 1.642.761
+ 
+  
+34

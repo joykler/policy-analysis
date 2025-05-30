@@ -1,0 +1,42 @@
+de figuren noemen zijn schattingen en gaan over de ministeries en agent­
+schappen. Dus zonder de ICT-kosten van de zbo's en sui generis (OM, 
+Rechtspraak en politie).
+Vanaf 2021 kijken we ook naar de verhouding tussen de ICT-kosten voor 
+beheer en onderhoud en vernieuwing. Het levert de komende jaren 
+completere en meer verfijnde gegevens op over de ICT-kosten. Het bepalen 
+van deze verhouding is gebaseerd op inschattingen. Dat komt omdat niet 
+alle administraties de ICT-kosten precies opsplitsen. De ICT-kosten uit onze 
+bestaande financiële administraties zijn naar eigen inzicht verdeeld. Daarom 
+kunnen we de cijfers van de ministeries niet met elkaar vergelijken.
+Kosten voor intern ICT-personeel
+Elk jaar berekenen we ook de kosten van intern ICT-personeel. Ook voor deze 
+ICT-kosten moeten we een schatting maken. Dat komt omdat in de personele 
+administraties wel de functie is geregistreerd, maar niet de activiteiten van 
+de medewerker. Dat heeft tot gevolg dat de functie niet altijd te relateren is 
+aan ICT. Denk aan de functie van beleidsmedewerker. Om een beter beeld 
+van het interne ICT-personeel te krijgen, is het Kwaliteitsraamwerk Informa­
+tievoorziening (KWIV)-traject gestart (zie ook paragraaf 3.9). Met de 61 
+KWIV­profielen is een beter beeld van de ICT-kosten mogelijk.
+Voor 2022 bedragen de kosten voor intern ICT-personeel 1.253 miljoen euro. 
+Dat is een stijging van 11 procent ten opzichte van 2021. De kosten kwamen 
+toen uit op 1.128 miljoen euro. Deze stijgende trend is al meerdere jaren 
+zichtbaar. Dit komt onder andere door meer rijksmedewerkers, het stijgende 
+aantal ICT-vacatures en salarisverhogingen via de rijksbrede cao.
+Organisatieomvang Figuur 31 Kosten voor intern ICT-personeel Rijksoverheid in miljoenen euro
+1.500
+11.253.253
+1.250
+11.1.12828
+11.060.060
+971971
+1.000 907907
+750
+500
+250
+0
+2018 2019 2020 2021 2022
+Bron: P-Direkt, inventarisatie.
+Vanaf 2021 maken we voor intern ICT-personeel een onderverdeling in 
+activiteiten voor continuïteit (beheer en onderhoud) en vernieuwing. De 
+verhouding schatten we over 2022 als volgt in:
+Jaarrapportage Bedrijfsvoering Rijk 2022 74

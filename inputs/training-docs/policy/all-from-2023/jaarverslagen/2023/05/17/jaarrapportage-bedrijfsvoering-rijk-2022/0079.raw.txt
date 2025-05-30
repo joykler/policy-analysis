@@ -1,0 +1,62 @@
+Figuur 38 Verschil initiële doorlooptijd aandeel ICT-activiteiten met 
+Organisatieomvang*
+1
+actuele doorlooptijd
+40%
+34%34%
+33%33%
+32%32%
+29%29%
+30% 27%27%
+24%24%
+23%23%
+20%20%
+118%8% 118%8%
+20%
+114%4%
+113%3%
+10%
+6%6%
+5%5%
+4%4%
+0%
+2020 2021 2022
+Eerder Ongewijzigd Later ≤ 50%
+Later > 51 - 100% Later ≥ 100%
+1 Het is niet mogelijk om de jaren over 2017 t/m 2019 weer te geven, omdat we dit niet uit de systemen kunnen 
+halen.
+* Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+Uit deze figuur blijkt dat 20 procent van de ICT-activiteiten een actuele 
+doorlooptijd heeft die minstens twee keer zo lang is als eerder verwacht. 
+De reden voor de vertraging verschilt en is niet altijd ICT-gerelateerd. 37 
+procent van de ICT-activiteiten is binnen, of eerder, dan de aanvankelijk 
+geschatte doorlooptijd afgerond.
+Afgeronde grote ICT-activiteiten
+In 2022 zijn 24 ICT-activiteiten afgerond. Elke ICT-activiteit start met een 
+verwachte publieke waarde. Voor de burger betekent dit bijvoorbeeld dat 
+de ICT-activiteit voor minder administratieve lasten zorgt. Een ICT-activiteit 
+kan ook waarde hebben voor de overheid zelf, bijvoorbeeld omdat de 
+efficiëntie verbetert.
+PVR-Winkeldiefstal
+Er is een dringende noodzaak om het registratieve proces van de 
+politie optimaal te faciliteren op basis van moderne ICT-mogelijk­
+heden. Met het Programma Vernieuwend Registreren (PVR) wordt 
+invulling gegeven aan vernieuwing in het politiewerk en de onder­
+steunende systemen door toepassing van moderne mogelijkheden 
+van informatietechnologie. Het project Winkeldiefstal is het eerste 
+project van de vernieuwing van de registratieve applicaties. Met de 
+realisatie van de functionaliteit Winkeldiefstal zal tevens een 
+significant deel van de veelvoorkomende generieke functionaliteiten 
+worden gerealiseerd. Omdat deze generiek toepasbaar zijn voor vele 
+politieprocessen, die hierna worden opgepakt, is er binnen het 
+programma een sterke architectonische inbreng die in dit project 
+wordt toegepast.
+Klantoptimalisatie schenk- en erfbelasting (KOS)
+De opdracht is om het bestaande heffingssysteem voor de schenk- en 
+erfbelasting opnieuw te ontwerpen en bouwen, omdat de ontwik­
+keltool, waarin het systeem is gemaakt, wordt uitgefaseerd. Dit nieuwe 
+ontwerp sluit aan bij ontwikkelingen van elektronisch berichten 
+verkeer en zorgt voor een procesoptimalisatie. Herontwerp van de 
+processen en systemen van de schenk- en erfbelasting is het 
+Jaarrapportage Bedrijfsvoering Rijk 2022 79

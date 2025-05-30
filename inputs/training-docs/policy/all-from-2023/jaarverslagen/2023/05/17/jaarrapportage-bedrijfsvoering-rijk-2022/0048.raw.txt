@@ -1,0 +1,54 @@
+Definitie en omvang
+De Data Center infrastructure Efficiency (DCiE) is het jaarlijkse elektriciteits­
+gebruik van de IT-apparatuur, gedeeld door het jaarlijkse elektriciteitsge­
+bruik voor het gehele datacenter. Dit getal laat zien hoe groot het deel is dat 
+de IT-apparatuur gebruikt. Een hogere waarde betekent een betere datacen­
+terefficiency.
+2.2.7 CO -uitstoot van reizen
+2
+De Rijksoverheid wil het zakelijke verkeer van álle rijksambtenaren verduur­
+zamen. De ministeries moeten hiermee zelf aan de slag. Daarom is in 2019 
+als hulpmiddel de maatregelenmatrix ’Anders Reizen’ gemaakt en geïntro­
+duceerd. Het is een getallenschema dat bestaat uit 25 verschillende acties. 
+Het helpt ministeries de CO₂-uitstoot binnen hun eigen ministerie te 
+verlagen.
+Doelstelling
+Doelstelling 2030: Het halveren van de CO₂-uitstoot van zakelijke 
+mobiliteit in vergelijking met 2016.
+Doelstelling 2022: Voor dit jaar is geen tussendoelstelling vastgesteld.
+1
+Organisatieomvang*
+Figuur 25 Uitstoot reizen naar vervoersoort in ton CO
+2
+300.000 280.864
+265.040
+242.237
+249.396
+250.000
+200.000
+178.771
+172.914
+136.113
+150.000
+100.000
+50.000
+0
+2016 2017 2018 2019 2020 2021 2022
+Vliegreizen Privéauto woon-werk Privéauto dienstreizen
+Dienstauto's OV
+1 De uitstoot van privéauto woon-werkverkeer in 2020 is berekend op basis van een te hoog aantal kilometers in 
+P-Direkt. Dit kwam omdat de kilometervergoeding in 2020 doorliep, terwijl rijksmedewerkers vanwege de 
+COVID-19-maatregelen thuiswerkten.
+* Uitzonderingen organisatieomvang: Defensie maakt alleen bij vliegen en wagenpark onderdeel uit van de scope.
+Bij de overige vervoersoorten niet.
+Bron: Inventarisatie.
+Ontwikkeling
+De CO -uitstoot door dienstreizen stijgt. Dit komt vooral door een toename 
+2
+van dienstreizen per vliegtuig. Na een afname van het aantal dienstreizen 
+per vliegtuig door de beperkingen tijdens de coronacrises in 2020, neemt 
+het vliegen weer toe in 2021 en 2022 door het opheffen van de reisbeper­
+kingen. Verder is dit jaar het OV-vervoersmiddel ‘boot’ er nieuw bijgekomen, 
+deze cijfers zijn voor het eerst beschikbaar. Dit is dus mede een verklaring 
+voor stijging uitstoot OV.
+Jaarrapportage Bedrijfsvoering Rijk 2022 48

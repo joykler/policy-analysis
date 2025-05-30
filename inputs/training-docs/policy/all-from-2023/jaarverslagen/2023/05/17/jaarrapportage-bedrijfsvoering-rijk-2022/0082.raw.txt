@@ -1,0 +1,52 @@
+Organisatieomvang*
+Figuur 41 Uitgaven van ICT-activiteiten die in 2022 actief zijn naar 
+type in miljoenen euro
+1.500
+953953
+1.000
+818166
+616100
+500
+344344 342342
+9393
+0
+* Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+De ministeries verwachten voor de ICT-activiteiten die doorlopen in 2022 
+(119 ICT-activiteiten) nog 4.283 miljoen euro uit te geven.
+Baten en marktpartijen
+In 2022 zijn er 120 ICT-activiteiten die baten hebben gerapporteerd. In totaal 
+gaat het om 227 baten.
+Op het Rijks ICT-dashboard staat bij elke ICT-activiteit de betrokken 
+marktpartij. In de tabel hieronder staan de marktpartijen die per jaar in meer 
+dan vijf ICT-activiteiten deelnemen.
+Organisatieomvang*
+Tabel 24 Aantal marktpartijen die in meer dan vijf ICT-activiteiten 
+deelnemen
+Marktpartijen 2018 2019 2020 2021 2022
+Capgemini 20 17 12 13 13
+IBM 14 14 11 9 7
+ATOS 11 9 8 7 7
+KPN 7 7 5
+Ordina 6
+* Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+3.10.3 Overige rapportage, advisering en schikking
+Tussen ministeries is afgesproken om over mogelijke schikkingen bij ICT-
+opdrachten te rapporteren. In 2022 zijn geen schikkingen getroffen.
+BIT-adviezen
+Nieuwe grote ICT-activiteiten vragen advies aan bij het Adviescollege ICT-
+toetsing over de slagingskans en de risico’s van het ICT-traject. Dit noemen 
+we een BIT-advies. In 2022 zijn 18 BIT-adviezen uitgebracht. De Tweede 
+Kamer ontvangt jaarlijks de BIT-rapportage.
+ILCVPTMKXB
+Jaarrapportage Bedrijfsvoering Rijk 2022 82
+Hardware,
+standaardsoftware en
+dataverbindingen
+Extern personeel
+Intern personeel
+Uitbesteed werk
+Inbesteed werk
+Overige
+projectkosten

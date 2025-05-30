@@ -1,0 +1,50 @@
+De CISO Rijk monitort de implementatie van beleidskaders. Hij voert hiertoe 
+gesprekken met de CISO’s van de departementen en enkele uitvoeringsor­
+ganisaties. Daarnaast voert de Auditdienst Rijkoverheid (ADR) jaarlijks 
+onderzoek uit naar informatiebeveiliging. Ontwikkelingen en rode draden 
+worden geagendeerd in het CIO-Beraad. Ondanks hardnekkige bezettings- 
+en budgetteringsvraagstukken is er sprake van vooruitgang.CISO-Rijk stuurt 
+ook de Privacy Adviseur Rijk (PAR) aan die privacy-adviezen geeft over 
+rijksbrede voorzieningen. Het PAR team heeft dit jaar 20 PAR-adviezen 
+uitgebracht, het rijksbrede DPIA-model bijgesteld, de ‘Handreiking gebruik 
+IAMA (Impact Assessment Mensenrechten en Algoritmes) & DPIA’ gemaakt 
+en onderzoek uitgevoerd naar een nieuwe rijksbrede privacygovernance. 
+Ook zijn microlearnings ontwikkeld voor privacy en informatiebeveiliging.
+3.4 ICT-landschap
+Voor de digitale transformatie is aan de ‘achterkant’ een stevig fundament 
+nodig. Met andere woorden een toekomstvaste, flexibele digitale infra­
+structuur met rijksbrede ICT-diensten die schaalbaar zijn. Dit veranderen van 
+de achterkant kost tijd. We denken jaarlijks vooruit en maken capaciteit en 
+geld vrij om gedateerde systemen en processen (legacy) te vervangen.
+Daarbij kijken we naar de mogelijkheden van clouddiensten. Op 29 augustus 
+2022 heeft de staatssecretaris de Tweede Kamer geïnformeerd over het 
+31
+Rijksbreed Cloudbeleid 2022 . Dit vormt een goede basis voor verdere 
+uitwerking in bijvoorbeeld een handreiking over hoe we het beleid moeten 
+toepassen.
+Grote verandertrajecten in systemen en/of processen hebben effect op het 
+ICT-landschap. Het is daarom belangrijk eerst de uitgangspunten te bepalen. 
+Vervolgens moeten we die uitgangspunten toetsen aan afgesproken kaders 
+en standaarden en ervoor zorgen dat ze hieraan voldoen. Een actuele 
+Enterprise Architectuur Rijk (EAR) is hiervoor een onmisbaar fundament. 
+Een EAR geeft richting aan de optimalisering van de Rijksbrede Digitale 
+Infrastructuur (RDI) en het vervangen van legacy. De EAR is niet meer up-
+to-date. In 2022 is daarom gestart met het ontwikkelen van een nieuwe visie 
+en het verbeteren van de rol, positie en governance van de EAR. Deze visie 
+vormt de basis voor het oprichten van een Architectuurraad en een update 
+van de EAR in 2023. In 2022 is een team gestart met het uitwerken van de 
+visie. Dit team heeft al verbinding gelegd met stakeholders zoals de Chief 
+Technology Officers en Chief Information Officers van de departementen. 
+Ook is het team eind 2022 begonnen met een eerste opschoning die nodig 
+is om de EAR te updaten.
+We zijn gestart met het uitvoeren van het plan van aanpak om het inzicht in 
+IT-Beheer te verbeteren. Zoals ook in de kamerbrief JBR is aangegeven zijn 
+hierin al goede stappen gezet. Het gewenste eindresultaat is:
+• Inzicht in de status van het Rijksbreed IT-Beheer;
+• Verbeterplannen van de ministeries op de benoemde beheerdomeinen
+(waar nodig);
+• Verbeterplannen vanuit CIO Rijk voor de kaders waar CIO Rijk eigenaar
+van is.
+31
+ Kamerstukken II, 2022, 26643, nr. 904. 
+Jaarrapportage Bedrijfsvoering Rijk 2022 63

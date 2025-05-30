@@ -1,0 +1,36 @@
+Begroting/beleidsterrein/artikel/omschrijving Begroting 2022 Mutatie Realisatie 2022
+Totaal wv. ODA Totaal wv. ODA Totaal wv. ODA
+IXB Financiën
+01 Belastingen
+01.03.01 Belastingdienst; eigen personeel (attachés) 1.152 40 0 1.192
+01.04.01 Belastingdienst; ICT materieel (attachés) 371 13 0 384
+02 Financiële markten
+02.00.44 Financiële markten; opdrachten 850 0 850
+04 Internationale financiële betrekkingen 
+04.50.07 IBRD (onderdeel Wereldbank) 22.355 22.355 -237 -237 22.118 22.118
+04.50.08 IFC (onderdeel Wereldbank) 19.978 19.978 -212 -212 19.766 19.766
+04.50.09 IDA (onderdeel Wereldbank) 219.550 219.550 0 0 219.550 219.550
+04.52.01 Technische assistentie 1.817 -665 0 1.152
+21.01.01 Algemeen/apparaat (attachés) 1.167 41 0 1.208
+Totaal 266.390 261.883 -170 -449 266.220 261.434
+X Defensie
+01 Opdracht inzet
+01.01 Inzet (Budget Internationale Veiligheid) 182.785 106.718 0 289.503
+08 Defensie Ondersteuningscommando
+08.02 Apparaatsuitgaven; Attachés 21.699 -1.590 0 20.109
+09 Algemeen
+09.01 Inkomensoverdrachten 15.000 -6.386 0 8.614
+11 Geheime uitgaven 5.000 -247 0 4.753
+Totaal 224.484 0 98.495 0 322.979 0
+XII Infrastructuur en Waterstaat
+11.01 Algemeen waterbeleid (Partners voor Water/Blue deal) 12.397 -250 0 12.147
+14.01 Wegen en verkeersveiligheid; Netwerk programma's 40 0 40
+17.01 Luchtvaart 1.311 589 0 1.900
+18.01 Scheepvaart en havens 1.081 -37 0 1.044
+19.02 Internationaal beleid, coördinatie en samenwerking 5.052 -1.660 0 3.392
+23.01 Meteorologie, seismologie en aardobservatie (contributie WMO/ECMWF) 3.387 35 257 0 3.644 35
+98.01 Apparaatsuitgaven (attachés personeel en materieel) 2.340 997 0 3.337
+Totaal 25.568 35 -64 0 25.504 35
+ 
+  
+29

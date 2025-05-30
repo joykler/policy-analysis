@@ -1,0 +1,34 @@
+Het CIO-café is de (digitale) ontmoetingsplaats voor CIO’s, CTO’s, CISO’s, 
+bestuurders en (beleids)strategen alsmede hun tegenhangers uit het 
+bedrijfsleven. De maandelijkse CIO-cafés lopen al sinds 2020. In 2020 werd 
+aan de hand van diverse thema’s van de I-strategie Rijk  gereflecteerd,
+geïnspireerd en kennis(sen) gedeeld. Dat gebeurde onder meer over 
+thema’s als data en algoritmen, I-vakmanschap en hoe je als bestuurder kunt 
+zorgen voor meer transparantie en inzicht in je ICT-uitgaven. In navolging 
+op de CIO-cafés van 2020 kwamen het afgelopen jaar de resterende zes 
+thema’s van de I-strategie aan bod, zoals bestendigen ICT-landschap, Infor­
+matiehuishouding, Generieke voorzieningen, Digitaal leiderschap en Markt 
+en innovatie. 
+Vanaf de tweede helft van 2022 hebben de CIO-café’s ook fysiek plaatsge­
+vonden. In 2022 is tijdens de CIO-cafés aan de Werkagenda Waardenge­
+dreven Digitaliseren en thema’s van de I-strategie aandacht gegeven.
+In tabel 25 staat een overzicht van alle CIO-cafés met hun onderwerp en 
+deelnemersaantallen. De deelnemers zijn gesplitst in gasten vanuit de 
+overheid en het bedrijfsleven.
+1
+Tabel 25 Overzicht CIO-cafés 2022
+Deelnemers Deelnemers 
+Thema Overheid Bedrijfsleven Totaal
+Digitale weerbaarheid 46 14 60
+DUO 36 10 46
+Interbestuurlijke samenwerking 46 11 57
+CIO-stelsel 66 8 74
+Werkagenda digitalisering 52 3 55
+Informatiebeveiliging en privacy 21 10 31
+I-vakmanschap 11 0 11
+Cloudbeleid 82 19 101
+Totaal 360 75 435
+1 De CIO-cafés lopen sinds 2020. Het is niet mogelijk om eerdere jaren weer te geven, omdat de thema’s elk jaar 
+verschillend zijn.
+Bron: Inventarisatie.
+Jaarrapportage Bedrijfsvoering Rijk 2022 84

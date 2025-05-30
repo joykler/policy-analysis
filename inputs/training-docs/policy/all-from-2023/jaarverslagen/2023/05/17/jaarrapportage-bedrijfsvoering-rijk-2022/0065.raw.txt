@@ -1,0 +1,60 @@
+van de LCM-community zijn departementen en ICT-dienstverleners (IDV’s) 
+van het Rijk. Vooruitlopend op het handboek zijn in 2022 vier zaken 
+afgesproken en gerealiseerd:
+• Er is een convenant LCM vastgesteld door het CIO-Beraad;
+• Er is een start gemaakt met het verbeteren van de onderlinge connecti­
+viteit van de overheidsdatacenters (ODC’s);
+• De nieuwe omgeving voor de Samenwerkingsfunctionaliteit staat klaar
+voor gebruik;
+• Het Rijksportaal is gemigreerd, doorontwikkeld en digitaal toegankelijk
+gemaakt.
+Hybride werken
+Door het hybride werken hebben ambtenaren ook in 2022 veelvuldig video­
+diensten gebruikt. Denk aan Microsoft Teams en de rijksvideodienst Webex. 
+In onderstaande grafiek is het aantal Webex-verg aderingen per maand over 
+de jaren 2020 tot en met 2022 weergegeven. In 2022 lag de piek voor Webex-
+vergaderingen op 505.000 vergaderingen in maart, ten opzichte van ruim 
+640.000 vergaderingen in maart 2021. Het aantal Webex-vergaderingen is 
+gedaald doordat medewerkers in 2022 weer vaker op kantoor konden 
+vergaderen.
+1
+Figuur 27 Aantal Webex-vergaderingen per maand
+Organisatieomvang
+800.000
+700.000
+600.000
+500.000
+400.000
+300.000
+200.000
+100.000
+0
+2020 2021 2022
+1 Vanaf 2020 heeft het Rijk de Webex-videovergadersoftware van Cisco in gebruik genomen.
+Bron: Belastingdienst.
+3.6 Informatiehuishouding
+3.6.1 Programma Open op orde
+De verbetering van de informatiehuishouding is rijksbreed volop bezig met 
+32
+het programma Open op Orde , als onderdeel van het programma Open 
+Overheid. Er zijn meer dan 20 rijksbrede projecten gestart die rijksorgani­
+saties ondersteunen en verandering kunnen versnellen. Rijksorganisaties 
+hebben daarnaast zelf 53 actieplannen opgesteld voor de verbetering van 
+de informatiehuishouding. De 12 ministeries, 19 zbo’s, zes Hoge Colleges 
+van Staat, één inspectie, de Nationale Politie en de Rechtspraak hebben 
+een eigen plan ingediend. Zbo’s met minder dan 500 fte zijn opgenomen in 
+32
+ Kamerstukken II, 2021, 29362, nr. 291.
+Jaarrapportage Bedrijfsvoering Rijk 2022 65
+Januari
+Februari
+Maart
+April
+Mei
+Juni
+Juli
+Augustus
+September
+Oktober
+November
+December

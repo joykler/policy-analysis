@@ -1,0 +1,55 @@
+Organisatieomvang
+Figuur 34 Materiële ICT-kosten verdeeld in beheer en onderhoud en 
+1
+vernieuwing
+100%
+119%9%
+20%20%
+37%37%
+43%43%
+75%
+50%
+81%81%
+80%80%
+63%63%
+57%57%
+25%
+0%
+2021 (kas- 2021 (baten- 2022 (kas- 2022 (baten-
+verplichtingen- lasten- verplichtingen- lasten-
+stelsel) stelsel) stelsel) stelsel)
+Beheer en onderhoud Vernieuwing
+1 De jaren 2017 t/m 2020 zijn niet weergegeven omdat deze manier van uitvragen nieuw was vanaf 2021.
+Bron: Inventarisatie.
+Toelichting materiële ICT-kosten
+Kerndepartementen gebruiken meestal het kas-verplichtingenstelsel. Bij 
+de ministeries van Financiën en Defensie zijn de uitvoeringsorganisaties 
+ook in dit stelsel opgenomen. In het baten-lastenstelsel is de rest van de 
+uitvoeringsorganisaties en agentschappen opgenomen.
+3.10.2 Grote ICT-activiteiten in 2022
+ICT-ontwikkeling is continue in beweging. In 2014, bij de publicatie van het 
+rapport 'Grip op ICT', was het de gewoonte om grote wijzigingen in de ICT 
+met een ICT-project op te pakken. Meestal werd een lineaire werkwijze 
+gebruikt, zoals de Watervalmethode. Tegenwoordig worden binnen de 
+Rijksoverheid ook verschillende Agile-werkwijzen gebruikt en worden 
+wijzigingen in de ICT niet alleen meer in projectvorm opgepakt. Dit betekent 
+ook dat voortaan de term ICT-activiteit wordt gebruikt in plaats van ICT-
+project. De term ICT-project is weliswaar een bekend begrip, maar is 
+onvoldoende dekkend voor de scope van het gevraagde inzicht. Het is een 
+groeipad en het zal in de komende jaren steeds meer inzicht geven.
+Op het Rijks ICT-dashboard staan alle activiteiten met een meerjarige ICT-
+component van tenminste vijf miljoen euro. Dit noemen we de grote ICT-
+activiteiten. De ministeries rapporteren zelf over hun activiteiten op basis 
+van rijksbrede afspraken. Ook de publiekrechtelijke zbo’s melden de status 
+van hun ICT-activiteiten via het Rijks ICT-dashboard.
+Een beknopt overzicht van de grote ICT-activiteiten staat in bijlage 2c. De 
+gegevens staan ook op het Rijks ICT-dashboard. Deze paragraaf gaat in op 
+een aantal rapportage-onderdelen.
+Aantal ICT-activiteiten
+Het aantal actieve ICT-activiteiten op het Rijks ICT-dashboard neemt dit jaar 
+toe. In 2022 waren er in totaal 146 grote ICT-activiteiten, ten opzichte van 138 
+in 2021. 
+In 2022 zijn in totaal 35 ICT-activiteiten voor het eerst gerapporteerd. Onder­
+staande figuur bevat de status van de ICT-activiteiten in de afgelopen vijf 
+jaar.
+Jaarrapportage Bedrijfsvoering Rijk 2022 76

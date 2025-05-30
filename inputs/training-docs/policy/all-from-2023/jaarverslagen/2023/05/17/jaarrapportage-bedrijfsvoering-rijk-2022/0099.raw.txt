@@ -1,0 +1,52 @@
+Gebruik Peppol-netwerk en ontsluiting inkoopinformatie
+E-factureren via het internationale Peppol-netwerk
+De rijksinkoop heeft in 2022 verder ingezet op het Peppol-netwerk. Hierdoor
+steeg het aantal e-facturen dat de Rijksoverheid in 2022 ontving. Gebruik
+van het Peppol-netwerk heeft meerdere voordelen. Zo wisselt de Rijks­
+overheid eenvoudig, snel, veilig en betrouwbaar digitale inkoopgegevens
+zoals e-facturen uit met bedrijven en overheden. Denk aan gemeenten,
+provincies en waterschappen. Door als grote inkoper in te zetten op Peppol
+moedigt de Rijksoverheid gebruik van het Peppol-netwerk aan. Hiermee
+zorgen we ervoor dat bedrijven (B2B) en medeoverheden (B2G) dit netwerk
+ook versnelt voor eigen uitwisseling gaan gebruiken.
+Peppol-netwerk
+Peppol is de internationale standaard voor het verzenden, ontvangen 
+en verwerken van e-facturen, e-orders en andere zakelijke gegevens. 
+De Nederlandse Peppolautoriteit (NPa) is in Nederland toezichthouder 
+op het Peppol-netwerk.
+In 2022 is ook ingezet op het uitwisselen van andere soorten zakelijke 
+gegevens via het Peppol-netwerk dan inkomende facturen. Zo is een pilot 
+afgerond waarbij elektronische orders (e-orders) en uitgaande e-facturen 
+succesvol zijn verzonden van rijksdiensten naar andere organisaties. 
+Deelnemers aan deze pilot waren 4 rijksdiensten en 4 ontvangende organi­
+saties: een bedrijf, een gemeente, een provincie en een hoog college van 
+staat.
+Herbouw Digipoort en doorontwikkeling Rijksoverheid Accespoint op 
+Peppol (ROAP)
+Digipoort is de ICT-postkamer voor berichtenverkeer van de Rijksoverheid. 
+Hiervoor is een herbouwtraject bezig. Onderdeel van dat traject was in 2022 
+de herbouw van diverse berichtstromen voor de rijksinkoop, waaronder 
+de berichtstromen waarvan de rijksinkoop gebruik maakt. Daarnaast zijn 
+voorbereidingen getroffen om de eerste ketentesten uit te voeren met rijks­
+diensten en leveranciers. In 2022 zijn ook voorbereidingen gestart voor 
+een structureel ingaande en uitgaande koppeling op het Peppol-netwerk.
+Dienstverlening aan leveranciers bij e-factureren
+Leveranciers ondersteunen
+Digitaal zakendoen is voor veel ondernemers onderdeel van hun dagelijks 
+bedrijfsvoering. De Rijksdienst voor Ondernemend Nederland (RVO) heeft 
+als kenniscentrum voor e-facturatie in 2022 weer een zichtbare maatschap­
+pelijke impact gehad op dit gebied. Zo heeft RVO ondersteuning en advies 
+gegeven aan leveranciers die nog geen e-facturen verstuurden aan het Rijk. 
+Ook zijn enkele grote leveranciers succesvol begeleid in hun transitie naar 
+e-factureren aan de Rijksoverheid. Van de 313 geplande aansluittrajecten
+zijn er al 277 klaar in 2022. De overige aansluitingen ronden we in 2023 af.
+Helpdesk e-factureren
+De chatbot Efa heeft in 2022 leveranciers aanvullend ondersteund bij vragen 
+over e-factureren aan de Rijksoverheid. De chatbot van de Helpdesk e-
+facturen handelde in zijn eerste volledige jaar meer dan 6.500 vragen af. 
+De Helpdesk is onderdeel van RVO. Daarnaast is hard gewerkt aan andere 
+(digitale) klantcommunicatiekanalen. Zo is de website van de Helpdesk e-
+factureren verder verbeterd. In 2022 heeft het Klant Contactcentrum goede 
+scores behaald. Denk aan de score van 7,5 in het derde kwartaal op basis 
+van de feedback van (potentiële) leveranciers van de Rijksoverheid. 
+Jaarrapportage Bedrijfsvoering Rijk 2022 99

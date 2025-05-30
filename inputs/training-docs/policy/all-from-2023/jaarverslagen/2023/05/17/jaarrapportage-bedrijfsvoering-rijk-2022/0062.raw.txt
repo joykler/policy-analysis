@@ -1,0 +1,52 @@
+Het is de uitkomst van een proces om tot goede en veilige digitale 
+overheidsdienstverlening te komen. De informatieparagraaf is eigenlijk 
+een digitale uitvoeringstoets vooraf met aandacht voor de menselijke maat. 
+Er is een eerste interdepartementale verkenning gedaan naar wat we op dit 
+moment al doen aan vormen van toetsing op digitale consequenties van 
+nieuw beleid, uitvoering of handhaving.
+3.3 Digitale Weerbaarheid
+De Rijksoverheid is een veilige digitale partner: burgers en bedrijven 
+moeten erop kunnen vertrouwen dat we betrouwbaar onze taken uitvoeren 
+en zorgvuldig omgaan met hun gegevens. Het versterken van onze digitale 
+weerbaarheid draagt daaraan bij.
+Voor het thema Digitale Weerbaarheid is een routekaart vastgesteld met 
+15 trajecten. De trajecten staan onder regie van een stuurgroep met een 
+brede vertegenwoordiging uit de departementen en uitvoeringsorgani­
+saties. De CIO van JenV en CISO Rijk zijn trekker van de stuurgroep. Ook 
+de werkgroepen die de trajecten uitvoeren hebben een brede samen­
+stelling.
+In 2022 zijn onder meer de volgende resultaten behaald:
+• Cloud
+De ICBR heeft het rijksbrede cloudbeleid en het bijbehorende implemen­
+tatiekader vastgesteld voor verantwoord gebruik van de public cloud.
+De doorontwikkeling van de Handreiking risicobeheersing public cloud
+is gestart.
+• Ransomware
+Voor bescherming tegen ransomware verzamelen we best practices.
+De werkgroep werkt die uit tot praktische handreikingen. De eerste
+concepten zijn gereed.
+• Verplichte basisopleiding digitale weerbaarheid
+We maken beleid, inventariseren opleidingsbehoeftes en maken een
+stappenplan voor implementatie.
+• Nationaal Detectie Netwerk (NDN)
+In samenwerking met het NCSC sluiten we de laatste organisaties aan
+op het NDN. Doel van het NDN is het kunnen detecteren van geavan­
+ceerde aanvallen. Ongeveer de helft van de resterende organisaties heeft
+zich inmiddels aangesloten of zit in het aansluitproces.
+• Red-teaming
+Diverse departementen hebben red-teaming oefeningen uitgevoerd of
+zijn die aan het opstarten om de werking van beveiligingsmaatregelen
+te testen. Daarnaast hebben we een gereedschapskist ontwikkeld, is
+een community opgericht en is een rijksbrede coördinator aangenomen.
+• Versterking SOC-stelsel Rijk (VSSR)
+Het project heeft een producten- en dienstenportfolio opgesteld en is
+bezig om de eerste vier producten uit te werken. Ook zijn we bezig om
+de centrale SOC-voorziening onder te brengen bij het NCSC.
+Overige activiteiten digitale weerbaarheid
+hrijft de rijksbrede sturing en monitoring op 
+Het CIO-stelsel Rijksdienst besc
+informatievoorziening en informatiebeveiliging. De CISO Rijk coördineert 
+rijksbrede informatiebeveiligingsincidenten, stelt kaders op en geeft 
+adviezen en aanwijzingen. Met de rijksbrede CISO-raad bevordert hij de 
+samenwerking en de verbinding tussen de CISO’s.
+Jaarrapportage Bedrijfsvoering Rijk 2022 62

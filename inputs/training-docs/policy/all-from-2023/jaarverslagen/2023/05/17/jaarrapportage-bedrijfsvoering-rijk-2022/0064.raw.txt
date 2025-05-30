@@ -1,0 +1,50 @@
+3.5 Generieke voorzieningen
+Er bestaan verschillen en overeenkomsten in ICT-behoeften tussen de depar­
+tementen. De gezamenlijke overeenkomsten leiden tot een aantal rijksbrede 
+vraagstukken op ICT-gebied. Denk aan dataopslag en kantoorautomati­
+sering. Ons doel is om te komen tot een rijksbrede generieke ICT-infra­
+structuur.
+Door rijksbreed samen te werken kunnen we energiebesparing, schaal- en 
+kostenvoordelen behalen. Bovendien zijn door deze samenwerking 
+rijksbrede afspraken over beveiliging, governance en financiering mogelijk.
+In 2022 is door het CIO Beraad een Portfolioboard Rijksbrede Voorzieningen 
+ingesteld. Dit initiatief heeft een aantal doelen:
+• Kansen opsporen en beweging initiëren voor nieuwe rijksbrede ICT-
+voorzieningen;
+• Knelpunten formuleren en aanpakken bij bestaande voorzieningen.
+Tegelijk met de board is een nieuwe werkwijze geïntroduceerd. Hiermee 
+kunnen we op een aantal momenten (van idee, via ontwerp en pilot, tot 
+inbeheername) een potentieel nieuwe rijksbrede ICT-voorziening 
+beoordelen. Hiervoor hebben we een geactualiseerde set aan acceptatie­
+criteria in gebruik genomen.
+In 2022 is ook een aantal nieuwe voorzieningen goedgekeurd. Hiervan is 
+Webarchivering in 2022 toegevoegd aan het portfolio van de RijksBrede­
+Voorzieningen (RBV). De KamerDebatApp en Woo-tooling worden naar 
+verwachting in 2023 opgenomen. De KamerDebatApp is door enkele 
+directies binnen het ministerie van Binnenlandse Zaken en Koninkrijksre­
+laties gebruikt om debatten digitaal voor te bereiden en gedurende het 
+debat antwoorden accuraat en overzichtelijk aan de betrokken bewinds­
+persoon aan te bieden. In 2023 wordt de KamerDebatApp als pilot ook 
+ingezet bij andere departementen. De Woo-tooling wordt gebruikt om Woo-
+verzoeken sneller af te handelen.
+Daarnaast zijn we in 2022 gestart met de aanbesteding voor de uitbreiding 
+van de eenmalige aanmeldingsomgeving (Single Sign On, SSOn). Dit is 
+onder andere gedaan door een verbinding te maken naar applicaties in de 
+cloud van verschillende cloudaanbieders. Het inloggen op deze applicaties 
+gaat via SSOn. Verder is in 2022 de werkgroep Modernisering en Rationa­
+lisering ingesteld.
+In 2022 is een pilot met aanvraag en bezorging van de Rijkspas op het 
+huisadres succesvol afgerond. Bij 25.000 medewerkers van de Belasting­
+dienst is de pas thuis bezorgd. Hiermee besparen onze medewerkers tijd en 
+reiskosten. Voor ons is het een extra onderdeel van goed werkgeverschap. 
+Ook dragen we hiermee bij aan een duurzame samenleving door minder 
+reisbewegingen. In 2023 besluiten we of en hoe we de bezorgdienst 
+rijksbreed uitrollen.
+LifeCycle Management (LCM)
+Maatschappelijke en technische ontwikkelingen of incidenten maken dat we 
+applicaties en IV-infrastructuur continu moeten beoordelen om ze toekomst­
+bestendig en veilig te houden. LCM is daarom een randvoorwaarde voor 
+een goede inrichting van het IV-landschap. In 2022 is door het CIO-Beraad 
+besloten tot het oprichten van een rijksbrede LCM-community. Doel hiervan 
+is om samen te werken aan een Handboek LifeCycle Management. Leden 
+Jaarrapportage Bedrijfsvoering Rijk 2022 64

@@ -1,0 +1,44 @@
+jaren zijn bij het inzichtelijk maken van de label C verplichting zowel de huur- 
+en leasepanden als de panden in eigendom meegenomen in de cijfers. 
+Omdat het Rijk enkel verantwoordelijk is voor de panden in eigendom 
+worden vanaf dit jaar de panden in eigendom getoond, en dan enkel met 
+2
+brutovloeroppervlakte van 100m of meer.
+2.2.6 Energie-efficiënte datacenters
+Het Rijk is continu bezig met het verduurzamen van de ICT-voorzieningen. 
+Dit gebeurde de afgelopen jaren onder meer door de ongeveer 60 lokale 
+datacenters terug te brengen naar de huidige vier overheidsdatacenters 
+(ODC’s). Door minder datacenters te gebruiken en ervoor te zorgen dat de 
+ODC’s energie­efficiënt zijn, besparen we energie.
+Doelstelling
+Doelstelling 2030: De Data Center infrastructure Efficiency (DCiE) is 
+minimaal 50 procent.
+Organisatieomvang
+Doelstelling 2022: Voor dit jaar is geen tussendoelstelling vastgesteld.
+Figuur 24 Waarde Data Center infrastructure Efficiency (DCiE) per ODC
+100%
+84%84%
+83%83% 83%83% 83%83%
+82%82% 82%82% 82%82%
+81%81% 81%81% 81%81% 81%81%
+80%80% 80%80%
+79%79% 79%79%
+774%4%
+73%73% 73%73%
+72%72%
+75% 71%71%
+2030 (doel)
+50%
+25%
+0%
+ODC RWS-DJI ODC Belastingdienst ODC Haaglanden ODC Noord
+2018 2019 2020 2021 2022
+Bron: Inventarisatie.
+Ontwikkeling
+Alle ODC’s behalen jaarlijks een hogere DCiE-waarde dan het doel van 50 
+procent. In juni, juli en augustus waren de waardes in de datacenters hoger. 
+Dit komt door uitbreidingswerkzaamheden. In de nieuwbouw is energie 
+verbruikt om de lege datazalen te verwarmen en vochtvrij te krijgen. Dit 
+energieverbruik was dus niet voor ICT-doeleinden, maar zorgt wel voor 
+hogere DCiE-waardes in die maanden.
+Jaarrapportage Bedrijfsvoering Rijk 2022 47

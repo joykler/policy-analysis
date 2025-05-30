@@ -1,0 +1,54 @@
+1
+Organisatieomvang*
+Figuur 36 Gemiddelde doorlooptijd van de ICT-activiteiten in jaren
+6
+5,45,4
+5,05,0 5,05,0
+4,94,9
+5 4,74,7
+4
+3
+2
+1
+0
+2018 2019 2020 2021 2022
+1 Vanwege een herberekening zijn de gegevens van 2021 aangepast.
+ * Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+De doorlooptijd van een ICT-activiteit kan veranderen. Onderstaande  figuur 
+laat zien hoeveel ICT-activiteiten korter, even lang of langer duren.
+Organisatieomvang* Figuur 37 Verschil initiële doorlooptijd aantal ICT-activiteiten met actuele 
+doorlooptijd
+75
+6161
+5858
+5555
+5353
+4949
+4747
+50 4545
+4242
+3636
+3434
+3232
+2626
+2525
+2222
+2121
+25
+1111
+88 88
+55
+44
+0
+2018 2019 2020 2021 2022
+Eerder Ongewijzigd Later ≤ 1 jaar Later > 1 jaar
+1 Uitzonderingen organisatieomvang: onder andere exclusief wapensystemen Defensie.
+Bron: Rijks ICT-dashboard.
+Bovenstaande figuur toont alleen de absolute doorlooptijd. We kijken ook 
+naar de relatieve doorlooptijd. Want als een ICT-activiteit met een 
+doorlooptijd van twee jaar een jaar uitloopt, dan is de uitloop 50 procent. 
+Loopt een ICT-activiteit van vijf jaar met een jaar uit, dan is de uitloop 
+20 procent en dus relatief minder. Onderstaande figuur laat dit zien voor 
+de ICT-activiteiten in 2022.
+Jaarrapportage Bedrijfsvoering Rijk 2022 78

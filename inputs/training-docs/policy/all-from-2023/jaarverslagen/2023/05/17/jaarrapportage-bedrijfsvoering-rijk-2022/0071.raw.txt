@@ -1,0 +1,55 @@
+3.8 Data en algoritmen
+De ambities op data en algoritmen staan in hoofdstuk 6 van de i-Strategie 
+Rijk 2021-2025. Een deel van deze ambities is ook terug te vinden in 
+paragraaf 3.3   ‘Algoritmes reguleren’ en paragraaf 4.2 ‘Verbeteren 
+gegevens­huishouding’ van de werkagenda Waardengedreven 
+Digitaliseren, die in 2022 werd gepresenteerd.
+In 2022 is de inventarisatie van risicoprofielen uitgevoerd. Het gaat om de 
+profielen die gebruik maken van afkomstgerelateerde indicatoren (motie 
+38
+Marijnissen ). De Kamer heeft hierom gevraagd naar aanleiding van de 
+kinderopvangtoeslagaffaire. Na de ministers van Fin en SZW hebben in 
+2022 ook de ministers van AZ, BZK, IenW, JenV en VWS de Kamer hierover 
+per brief geïnformeerd. De ministers van BZ, Defensie, EZK, LNV en OCW 
+doen dat in 2023.
+Ook is in 2022 een algoritmeregister opgezet. Hierin staat informatie over 
+de eerste 109 algoritmes die we binnen de Nederlandse overheid gebruiken. 
+Het gaat om algoritmes van in elk geval de vier grote Nederlandse 
+gemeenten, ministeries en enkele grote uitvoeringsorganisaties.
+39
+In 2022 hebben alle departementen de rol van Chief Data Officer ingevuld . 
+Hiermee lopen ze voor op formele besluitvorming. De Chief Data Officer s 
+werken aan de versterking van het interne toezicht op het gebruik van data 
+en algoritmen. Dit is een verdere uitwerking van het CIO-stelsel.
+3.9 Toekomstbestendig I-vakmanschap
+Voor een goed functionerende digitale Rijksoverheid is voldoende I-kennis 
+en -kunde een vereiste. Niet alleen traditionele ICT, zoals beheer en ontwik­
+keling, maar ook op het gebied van informatiehuishouding en algoritme- of 
+datagestuurd werken De Rijksoverheid heeft echter te maken met een tekort 
+aan I-capaciteit. Dit wordt versterkt door onder meer de blijvende schaarste 
+op de arbeidsmarkt en de toenemende digitalisering. Daarom zijn de eerder 
+gestarte projecten binnen het programma Versterking HR ICT Rijksdienst 
+(sinds 2018) in 2022 voortgezet of uitgebreid. We gaan hieronder in op vier 
+projecten en programma’s.
+I-Arbeidsmarktcommunicatie
+Via een continue online campagne is de Rijksoverheid in 2022 neergezet als
+aantrekkelijke ICT-werkgever. Ruim 3.600 ICT’ers zijn aangehaakt bij deze
+campagne. En met 21 verschillende rijksorganisaties zijn aansprekende
+40
+verhalen vastgelegd . Deze zijn veel gelezen door websitebezoekers. Er zijn
+drie tech events gehouden met 750 inschrijvingen en elk met een eigen
+thema, zoals architectuur. Hoogtepunt is een succesvolle game die we
+samen met Tweakers hebben ontwikkeld. Deze game, Queeste der Lage
+Landen, heeft voor meer dan 212.000 bezoekers en 23.000 spelers gezorgd.
+38
+ Meer specifiek: Motie#21 betreft het tweede deel van de motie Marijnissen (Kamerstukken II 
+2020/21, 35510, nr. 21) en het eerste deel van de motie Klaver c.s. (Kamerstukken II 2020/21, 35510, 
+nr. 16). Over de voortgang van de uitvoering van het eerste deel van de motie Marijnissen (‘het 
+informeren van personen die op de zwarte-lijst staan (FSV)) is uw Kamer geïnformeerd door de 
+staatssecretaris van Financiën. Over de uitvoering van het tweede deel van de motie Klaver c.s. 
+wordt uw Kamer geïnformeerd via de Werkagenda Waardengedreven Digitaliseren.
+39
+ Kamerstukken II, 2021/22, 26643, nr. 899 bijlage 1041841.
+40
+ Zie hier de website met verhalen van ICT’ers bij de Rijksoverheid. 
+Jaarrapportage Bedrijfsvoering Rijk 2022 71
