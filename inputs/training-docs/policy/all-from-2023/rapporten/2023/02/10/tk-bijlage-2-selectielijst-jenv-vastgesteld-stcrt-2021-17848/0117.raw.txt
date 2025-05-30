@@ -27,5 +27,4 @@ BOD Bijzondere Opsporingsdienst
 BOPZ Zie: Wet BOPZ 
 BRP Basisregistratie Personen 
 BSD Basis Selectiedocument 
-Bvgt Besluit verstrekking gegevens telecommunicatie 
-117
+Bvgt Besluit verstrekking gegevens telecommunicatie

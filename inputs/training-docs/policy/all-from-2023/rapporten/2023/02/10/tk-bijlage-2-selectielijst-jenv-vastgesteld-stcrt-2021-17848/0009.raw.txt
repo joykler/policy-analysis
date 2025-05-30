@@ -49,5 +49,4 @@ is.
 De waardering ‘V x jaar’, of in enkele gevallen ‘V x maanden’, moet (tenzij anders aangegeven) 
 gelezen worden als ‘vernietigen na x jaar of x maanden na sluiting van het desbetreffende dossier’. 
 Bij sommige processen kan de waardering ‘V x jaar’ na (een bepaalde activiteit)’ staan. De 
-vernietigingstermijn start dan na de betreffende activiteit. 
-9
+vernietigingstermijn start dan na de betreffende activiteit.

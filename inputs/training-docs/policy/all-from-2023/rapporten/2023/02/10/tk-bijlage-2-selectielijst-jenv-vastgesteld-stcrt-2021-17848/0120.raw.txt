@@ -27,5 +27,4 @@ NRGD Nederlands Register Gerechtelijk Deskundigen
 NWM Nieuwe waarderingsmethodiek 
 OM Openbaar Ministerie 
 OvJ Officier van Justitie 
-Pbw  Penitentiaire beginselenwet 
-120
+Pbw  Penitentiaire beginselenwet

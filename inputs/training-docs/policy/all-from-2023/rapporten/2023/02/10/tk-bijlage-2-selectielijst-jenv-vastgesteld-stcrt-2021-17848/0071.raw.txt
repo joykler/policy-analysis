@@ -55,6 +55,4 @@ uitgesloten is
 - V12 na einduitspraak met een maximale straf van minder dan 6 jaar  
 - V20 na einduitspraak met een maximale straf van 6 jaar of meer 
 - V80 na einduitspraak met een straf voor een misdrijf dat niet aan verjaring 
-onderhevig is 
- 
-71
+onderhevig is

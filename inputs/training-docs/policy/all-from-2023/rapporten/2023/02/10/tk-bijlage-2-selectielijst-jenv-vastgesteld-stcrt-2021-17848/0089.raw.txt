@@ -53,5 +53,4 @@ informatiesystemen (Wbni), Wet justitiële en strafvorderlijke gegevens
 Product(en) Dreigingsanalyses, dreigingsbeelden, fenomeenanalyses, Dreigingsbeeld 
 Terrorisme Nederland (DTN), Cybersecuritybeeld Nederland (CSBN), integrale 
 aanpak plannen bij organisaties 
-Waardering SA-B3 
-89
+Waardering SA-B3

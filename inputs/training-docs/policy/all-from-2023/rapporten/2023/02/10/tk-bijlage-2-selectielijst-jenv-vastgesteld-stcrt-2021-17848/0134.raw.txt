@@ -43,5 +43,4 @@ selectielijst gehanteerd wordt voor vergelijkbare processen. Wel word de waarder
 archiefbescheiden  behouden, en dan met name voor de mutaties met betrekking tot de 
 Rijksbegroting.  Deze geven immers de verschuivingen weer in de meerjarige budgettaire 
 reeksen van de departementen en welke kosten- en uitgavencomponenten hieraan ten 
-grondslag liggen: voor hun reconstructie is het van belang deze informatie langere tijd te 
-134
+grondslag liggen: voor hun reconstructie is het van belang deze informatie langere tijd te

@@ -66,5 +66,4 @@ bedrijfsfunctiemodel in de Enterprise Architectuur Rijksdienst (EAR).
  Kamerstukken II, 2010-2011, 29362, nr. 186. 
 11
  Nationaal Archief / Ministerie van Onderwijs, Cultuur en Wetenschap, Belangen in balans. Handreiking voor 
-waardering en selectie van archiefbescheiden in de digitale tijd (versie 1.0, maart 2015). 
-11
+waardering en selectie van archiefbescheiden in de digitale tijd (versie 1.0, maart 2015).

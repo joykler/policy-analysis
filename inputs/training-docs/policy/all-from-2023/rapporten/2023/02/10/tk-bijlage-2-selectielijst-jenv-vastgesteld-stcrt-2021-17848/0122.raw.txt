@@ -27,5 +27,4 @@ Wor Wet op de ondernemingsraden
 WOTS Wet Overdracht Tenuitvoerlegging Strafvonnissen 
 Wpbr Wet particuliere beveiligingsorganisaties en recherchebureaus 
 Wpg Wet politiegegevens 
-Wro Wet op de rechtelijke organisatie 
-122
+Wro Wet op de rechtelijke organisatie

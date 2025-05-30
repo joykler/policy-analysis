@@ -27,5 +27,4 @@ DI&I Directie Informatievoorziening en Inkoop
 DJI Dienst Justitiële Inrichtingen 
 DOP Directeurenoverleg Personeel 
 DOR Departementale Ondernemingsraad 
-DPAN Digitaal Platform Aansluiting Nazorg 
-118
+DPAN Digitaal Platform Aansluiting Nazorg

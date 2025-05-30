@@ -56,5 +56,4 @@ is gedaan. In dat geval worden de justitiële gegevens vernietigd 20 jaar
 nadat het vonnis is uitgesproken of de strafbeschikking of transactie 
 volledig ten uitvoer is gelegd;    
 - V30 bij veroordeelden tot een straf van 6 jaar of meer, of V20 jaar na diens 
-overlijden.  Bij recidive wordt de termijn met 30 jaar verlengd indien tegen 
-63
+overlijden.  Bij recidive wordt de termijn met 30 jaar verlengd indien tegen

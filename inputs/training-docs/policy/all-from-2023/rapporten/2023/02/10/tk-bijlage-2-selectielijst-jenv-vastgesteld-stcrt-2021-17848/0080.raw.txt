@@ -62,5 +62,4 @@ de casemanager van DJI ook een informatieblad sturen naar de gemeente. Dit
 kan alleen als een justitiabele daarvoor toestemming geeft. Hij geeft per 
 basisvoorwaarde (werk en inkomen, onderdak, zorg, schulden, identiteitsbewijs 
 plus zorg voor thuis) toestemming. Samen vullen ze een informatieblad in, 
-waarin verschillende vragen over de leefgebieden worden gesteld. Doel is een 
-80
+waarin verschillende vragen over de leefgebieden worden gesteld. Doel is een

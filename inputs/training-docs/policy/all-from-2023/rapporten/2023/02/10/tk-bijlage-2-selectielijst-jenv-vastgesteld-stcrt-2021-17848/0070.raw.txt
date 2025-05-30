@@ -56,5 +56,4 @@ controleren of de DNA profielen in de databanken voor strafzaken en
 vermissingszaken niet vervuild zijn, vergelijkt het NFI deze profielen met DNA 
 profielen uit de in november 2002 in gebruik genomen eliminatiedatabank. De 
 eliminatiedatabank is een verzameling DNA-profielen van mensen die 
-betrokken zijn bij de vervaardiging van DNA-profielen of daar direct of indirect 
-70
+betrokken zijn bij de vervaardiging van DNA-profielen of daar direct of indirect

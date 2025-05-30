@@ -28,5 +28,4 @@ Sr Wetboek van Strafrecht
 Stcrt. Staatscourant 
 Sv Wetboek van Strafvordering 
 Tbs Terbeschikkingstelling 
-TR Tijdelijke registratie 
-121
+TR Tijdelijke registratie

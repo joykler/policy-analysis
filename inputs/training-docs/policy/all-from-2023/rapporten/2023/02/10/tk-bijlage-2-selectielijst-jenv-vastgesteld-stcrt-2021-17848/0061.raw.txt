@@ -53,5 +53,4 @@ Toelichting Dit soort lijsten zijn overzichtslijsten van bijvoorbeeld welke zake
 op zitting komen. Soms maakt een Officier van Justitie hier aantekeningen op, 
 die later in de het strafdossier verwerkt worden. Executielijsten: hierop houdt 
 de administratie bij of van een zaak het executieproces al in gang gezet is en 
-wat de voortgang daarvan is.  
-61
+wat de voortgang daarvan is.

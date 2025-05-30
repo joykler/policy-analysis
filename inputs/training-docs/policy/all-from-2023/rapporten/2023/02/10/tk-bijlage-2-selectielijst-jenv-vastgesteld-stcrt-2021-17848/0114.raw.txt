@@ -46,5 +46,4 @@ over datalekken en het uitvoeren van Privacy Impactanalyses (PIA).
 Zie voor informatieverzoeken de processen in categorie 6. 
 In dit proces gaat het om het beschikbaar stellen, het (door)ontwikkelen en 
 beheren van applicaties. Hieronder vallen ook lifecyclemanagement, 
-informatiebeveiliging, functioneel en technisch beheer. De informatie die 
-114
+informatiebeveiliging, functioneel en technisch beheer. De informatie die

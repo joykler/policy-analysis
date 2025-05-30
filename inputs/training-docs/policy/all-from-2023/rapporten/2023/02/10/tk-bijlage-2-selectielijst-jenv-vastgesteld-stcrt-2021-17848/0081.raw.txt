@@ -63,5 +63,4 @@ met een indicatiestellingformat. De plaatser kan vervolgens door Ifzo de meest
 geschikte zorgplek voor de patiënt vinden bij een gecontracteerde 
 zorgaanbieder. De plaatsingsfunctionaris beslist uiteindelijk bij welke 
 gecontracteerde zorgaanbieder de patiënt geplaatst wordt. Alle indicerende en 
-plaatsende medewerkers en gecontracteerde zorgaanbieders, die werken 
-81
+plaatsende medewerkers en gecontracteerde zorgaanbieders, die werken

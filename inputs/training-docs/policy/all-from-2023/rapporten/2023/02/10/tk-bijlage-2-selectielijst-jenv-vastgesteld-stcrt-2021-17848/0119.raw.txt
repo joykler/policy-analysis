@@ -27,5 +27,4 @@ HKOV Haags Kindontvoeringsverdrag
 IAO Interdepartementale Afstemmingsoverleg 
 ICCb Interdepartementale Commissie Crisisbeheersing 
 Ifzo Informatiesysteem forensische zorg 
-IJenV Inspectie Justitie en Veiligheid 
-119
+IJenV Inspectie Justitie en Veiligheid

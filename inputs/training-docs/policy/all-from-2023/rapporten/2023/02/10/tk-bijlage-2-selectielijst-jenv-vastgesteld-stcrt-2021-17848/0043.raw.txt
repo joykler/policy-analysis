@@ -58,5 +58,4 @@ eenvoudige aselecte steekproef met standaard parameters op homogene bestanden me
  https://www.nationaalarchief.nl/archiveren/waardering-en-selectie/handleiding-steekproeven. 
 47
  Aselecte steekproef: steekproef waarbij elk element uit een populatie op basis van toeval dezelfde kans heeft 
-om in de steekproef te worden opgenomen. 
-43
+om in de steekproef te worden opgenomen.

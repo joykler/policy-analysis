@@ -22,5 +22,4 @@ De bedrijfsfuncties zijn onderverdeeld in vier cluster:
 Cluster 1: Besturingsfuncties (politieke functies, bedrijfsvoering, verantwoording en toezicht); 
 Cluster 2: Primaire bedrijfsfuncties (beleid en uitvoering); 
 Cluster 3: Onafhankelijke functies (kennis en advies, controle, toezicht en onderzoek); 
-Cluster 4: Ondersteunende functies (PIOFACH). 
-8
+Cluster 4: Ondersteunende functies (PIOFACH).

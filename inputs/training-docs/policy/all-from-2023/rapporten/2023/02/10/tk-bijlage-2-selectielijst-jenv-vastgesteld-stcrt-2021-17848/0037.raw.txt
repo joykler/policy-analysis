@@ -9,5 +9,4 @@ Afhankelijk van de informatie in een systeem kan dan besloten worden op procesni
 selecteren of (als alle informatie in een systeem als te vernietigen geldt) integraal te vernietigen. 
 Selectie achteraf blijft in dat opzicht in een digitale omgeving lastig en soms uit 
 efficiencyoverwegingen, grofmazig. Daarnaast zal bij aanschaf en inzet van nieuwe applicaties de 
-archieffunctie by design in worden gericht. DigiJust is daar een eerste voorbeeld van. 
-37
+archieffunctie by design in worden gericht. DigiJust is daar een eerste voorbeeld van.

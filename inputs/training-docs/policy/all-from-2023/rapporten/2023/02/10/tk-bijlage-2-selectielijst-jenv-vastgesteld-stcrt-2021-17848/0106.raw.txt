@@ -20,5 +20,4 @@ Grondslag GWR 2.0, proces 12.2
 Product(en) Processtukken, vonnissen 
 Waardering V20 na uitspraak 
 Toelichting Het kan om civiel- en bestuursrechtelijke zaken gaan, bijvoorbeeld in kort 
-geding. 
-106
+geding.

@@ -55,5 +55,4 @@ Werkproces Het behandelen van verzoeken van particuliere
 beveiligingsorganisaties en/of recherchebureaus  
 Grondslag Wet, Regeling en beleidsregels particuliere beveiligingsorganisaties en 
 recherchebureaus (Wpbr, Rpbr) 
-Product(en) Vergunningen, ontheffingen, toestemming of ander besluit 
-100
+Product(en) Vergunningen, ontheffingen, toestemming of ander besluit

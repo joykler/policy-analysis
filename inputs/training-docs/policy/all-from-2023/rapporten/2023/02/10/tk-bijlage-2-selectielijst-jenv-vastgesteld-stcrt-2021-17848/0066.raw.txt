@@ -57,5 +57,4 @@ Telecommunicatiebedrijven zijn verplicht om  persoonsgegevens van hun
 klanten beschikbaar te stellen aan het CIOT. Het CIOT sluit deze bedrijven aan 
 op het CIOT-informatiepunt De provider levert elke 24 uur een actueel bestand 
 met klantgegevens aan. 
-De opsporingsdiensten mogen het informatiesysteem niet zomaar raadplegen. 
-66
+De opsporingsdiensten mogen het informatiesysteem niet zomaar raadplegen.

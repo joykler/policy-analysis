@@ -85,5 +85,4 @@ Toelichting
 organisatieonderdeel: (p)SG-cluster, DG-cluster, diensten, agentschappen, 
 penitentiaire inrichtingen, (Rijks) justitiële jeugdinrichtingen, de (voormalig) 
 Rijksklinieken tbs-gestelden en de onderdelen van het Openbaar Ministerie. 
-Onder dit werkproces valt ook de onderzoeksprogrammering zoals deze van 
-51
+Onder dit werkproces valt ook de onderzoeksprogrammering zoals deze van
