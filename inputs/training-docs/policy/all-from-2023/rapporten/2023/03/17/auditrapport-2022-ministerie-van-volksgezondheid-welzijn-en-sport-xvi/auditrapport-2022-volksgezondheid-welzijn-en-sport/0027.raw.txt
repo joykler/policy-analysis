@@ -1,0 +1,49 @@
+Inzicht in staatssteun risico’s specifieke uitkeringen moet worden ingeregeld
+VWS laat zich niet informeren door middel van de SiSa indicatoren over de uitkomsten van de 
+staatssteuntoets die is uitgevoerd door de gemeenten op het niveau van eindbegunstigden. 
+Hierdoor loopt het ministerie risico op onvoldoende inzicht in mogelijke onrechtmatigheden als gevolg 
+van staatssteun. Vanaf eind 2022 zal volgens VWS de toets op het niveau van eindbegunstigden 
+worden uitgevoerd door het ministerie indien op voorhand de eindbegunstigden zijn bepaald.
+3.8 Belangrijke key-controls inkoopbeheer werken niet voldoende
+Net als in de voorgaande jaren is uit de controle van 2022 gebleken dat belangrijke key-controls van 
+het inkoopbeheer niet voldoende hebben gewerkt. Hiermee wordt het risico op onrechtmatige 
+inkopen verhoogd en heeft VWS zelf onvoldoende inzicht in de omvang van de onrechtmatige 
+inkopen. Onderstaande key-controls werken niet goed:
+• De interne afwijkings- en uitzonderingsprocedure is binnen VWS niet altijd en vaak ook niet juist 
+vooraf gevolgd en gedocumenteerd. In een afwijkingsbesluit wordt de motivering voor de keuze 
+om onrechtmatig in te kopen en de reden om af te wijken van de aanbestedingswet vastgelegd. 
+VWS heeft in 2021 de afwijkings- en uitzonderingsprocedure aangescherpt en is deze in 2022 
+meer gaan monitoren. Het overzicht met afwijkingen en uitzonderingen is verbeterd ten opzichte 
+van 2021. Verbeterpunten blijven de aansluiting van de bedragen met de specifieke contracten en 
+de volledigheid van het overzicht.
+• VWS heeft eind 2022 een spendanalyse uitgevoerd over januari tot en met september 2022. 
+Deze gaf nog geen volledig beeld, omdat een aanzienlijk deel nog in onderzoek was. Omdat een 
+spendanalyse over geheel 2022 bij de afronding van de controle nog niet beschikbaar was en een 
+volledige lijst met afwijkingen en uitzonderingen ook ontbrak, kon VWS zelf onvoldoende inzicht 
+geven in de naleving van de aanbestedingswet.
+6 7
+• Verschillende inkopen zijn niet conform de afgesproken procedures via HIS en Inhuurdesk 
+uitgevoerd waardoor het risico op onrechtmatige inkopen hoger is. Inschakeling van HIS en 
+Inhuurdesk hebben immers als doel om gebruik te maken van de specialistische kennis die bij 
+deze organisaties beschikbaar is.
+• VWS heeft geen centraal en volledig contractenregister waarin alle lopende contracten zijn 
+opgenomen. Hierdoor ontstaat het risico dat niet tijdig ingespeeld wordt op aflopende 
+contracten, waardoor nieuwe aanbestedingsprocessen te laat worden opgestart.
+• Er is een format opgesteld voor de vastlegging van de afweging bij de keuze voor het verstrekken 
+van een inkoopopdracht, bijdrage of een subsidie. Deze formats zijn nog niet in de inkoopdossiers 
+opgenomen, waar dit wel verwacht wordt. Zowel bij het verstrekken van nieuwe inkoopopdrachten 
+als bij het verlengen van oude contracten vraagt dit de nodige aandacht. Tevens is het vastleggen 
+van juridisch advies en het opstellen van een contractbeheersplan hierbij belangrijk.
+• Sinds medio 2021 monitort VWS of bij raamovereenkomsten, de maximumhoeveelheid en/of –
+waarde van raamovereenkomsten is overschreden. Uitgaven boven de maximumhoeveelheid en/
+of –waarde zijn onrechtmatig. VWS heeft deze monitoring uitgevoerd, maar de uitkomsten 
+hiervan zijn nog niet in de spendanalyse opgenomen. De monitoring van overschrijding op 
+rijksbrede contracten moet nog rijksbreed geïmplementeerd worden.
+VWS verwacht de werking van de key-controls te verbeteren met het project ITB (Inkoop tot 
+Betaling), waaronder ook de aanbesteding van een Source-to-Pay applicatie valt. Met behulp van 
+deze applicatie kan VWS eind 2023 gemakkelijker inzicht krijgen in een overzicht met alle contracten 
+van VWS, de aangegane verplichtingen en de gedane uitgaven op deze contracten. 
+Tevens ondersteunt deze applicatie het uitvoeren van een betrouwbare spendanalyse.
+6 Haagse Ink oopsamenwerking (onderdeel van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties).
+7 Onderdeel van het ministerie van Binnenlandse Zak en en Koninkrijksrelaties.
+Auditrapport 2022 | Ministerie van Volksgezondheid, Welzijn en Sport (XVI) | 27

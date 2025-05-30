@@ -1,0 +1,29 @@
+3.8.1 Aansluiting en monitoring Nétive Job met financieel systeem gewenst
+VWS heeft gedurende 2022 gebruik gemaakt van de webapplicatie Nétive Job, dat gefaciliteerd wordt 
+door de UBR. Deze applicatie wordt gebruikt om voor externe inhuur van personeel contracten vast te 
+leggen, de uren te registreren, te accorderen en te factureren. Dit systeem staat los van de financiële 
+administratie. De financiële verwerking vindt plaats in SAP waarbij de financieel adviseurs de individuele 
+verplichtingen- en uitgavenstanden bewaken. Gedurende 2022 zijn er voorvallen geweest waarbij 
+bijgestuurd moest worden. Bijvoorbeeld door dubbele betalingen van facturen en correcties op de 
+verplichtingenstanden. 
+Wij adviseren de standen in Nétive Job periodiek integraal aan te sluiten met de financiële 
+administratie zodat VWS zelf preventief verschillen kan detecteren en aanpassen.
+3.9 Informatiebeveiliging - risicomanagement nog niet uniform
+In 2022 heeft de ADR geen Rijksbreed volwassenheidsonderzoek op informatiebeveiliging 
+uitgevoerd. Wel is voor VWS de opvolging van de bevindingen uit vorige jaren geïnventariseerd. 
+Daaruit blijkt dat de verbeterslagen zijn ingezet met nieuwe instrumenten. De oude werkwijze met 
+risicokaarten en een In Control Verklaring zijn komen te vervallen. Het volwassenheidmodel van de 
+NBA dat ook de ADR heeft gebruikt is nu intern ingevuld door alle onderdelen van VWS om een 
+beeld te krijgen bij de ontwikkelingen en daarmee ook aan de bestuursraad te rapporteren. 
+Daaruit blijken verschillende niveaus van volwassenheid. De Chief Information Security Officer 
+(CISO) organisatie heeft nog een aantal verbeterslagen gepland die komend jaar verder worden 
+uitgerold. Het is de bedoeling met meer frequentie site visits uit te voeren (nu 1 keer per jaar) om 
+centraal beter in zicht te krijgen.
+Hoewel verbeteringen zijn doorgevoerd blijven twee van onze aanbevelingen open om 
+risicomanagement verder te verbeteren:
+1. Beschrijf op centraal niveau aan de hand van duidelijke richtlijnen en uitgangspunten het risico -
+managementproces op decentraal niveau (risicoanalyses inbegrepen) om de volwassenheid van 
+het risicomanagementproces te verhogen.
+2. Zorg dat er op centraal niveau bij voortduring aantoonbaar inzicht is in uitgevoerde risico 
+analyses, audits en ontwikkelingen.
+Auditrapport 2022 | Ministerie van Volksgezondheid, Welzijn en Sport (XVI) | 28

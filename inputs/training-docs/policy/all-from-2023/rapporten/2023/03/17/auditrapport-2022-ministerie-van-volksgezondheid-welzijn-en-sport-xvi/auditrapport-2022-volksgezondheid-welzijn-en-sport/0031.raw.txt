@@ -1,0 +1,52 @@
+In 2022 is voor een bedrag van € 17,3 miljoen aan betalingen gedaan waarbij VWS niet voldoende 
+heeft kunnen aantonen of voldaan is aan de wettelijke vereisten op het terrein van aanbesteding en 
+staatssteun. 
+VWS heeft in 2022 de in 2021 aan Intravacc B.V. verstrekte voorschotten ad € 29,2 miljoen afgerekend. 
+Een onderbouwing waaruit blijkt dat VWS heeft vastgesteld dat de afgesproken diensten tegen de 
+afgesproken bedragen zijn geleverd, ontbreekt. VWS heeft zich bij de afrekening gebaseerd op de 
+goedgekeurde begroting en de opdracht-overeenkomst waarin een rapportageverplichting van 
+twee keer per jaar is opgenomen. Daarnaast ontvangt VWS jaarlijks als aandeelhouder een 
+controle verklaring bij de jaarrek ening van Intravacc B.V. VWS heeft aan Intravacc B.V. geen separaat 
+controleprotocol verstrekt aan de hand waarvan de accountant een controle moet uitvoeren. 
+Hierdoor ontbreekt zekerheid of de verantwoorde kosten betrekking hebben op de in de opdrachten 
+afgesproken diensten 
+Wij adviseren VWS een controleprotocol op te stellen, zodat VWS door specifieke controles en de 
+uitkomsten daarvan kan vaststellen of Intravacc B.V. de afgesproken diensten tegen de afgesproken 
+bedragen heeft geleverd. Tevens dient de inhoudelijke toets van de materiedeskundige te worden 
+vastgelegd. Op basis van deze onderbouwingen kan VWS de besluitvorming over de afrekening van 
+de verstrekte voorschotten onderbouwen. Belangrijk aandachtspunt bij de afrekening is of er 
+verschuivingsrisico is met andere geleverde diensten aan andere klanten van Intravacc B.V.
+4.4 ZJCN: Inzicht en werking van GITC’s ZJCN wordt in 2023 getoetst
+Goed werkende General IT Controls (verder: GITC) zijn van belang voor de beheersing van 
+geautomatiseerde processen en data waardoor de mogelijkheid wordt gecreëerd om te kunnen 
+steunen op het softwaresysteem Hecina. Door goed werkende GITC ontstaat de mogelijkheid om te 
+kunnen steunen op preventieve controls in het proces. In oktober 2020 is een interne nulmeting 
+over de werking van de GITC uitgevoerd. In oktober 2021 heeft Zorg en Jeugd Caribisch Nederland 
+(ZJCN) de opvolging van de bevindingen van de nulmeting in kaart gebracht. Dit onderzoek is 
+uitgevoerd vanuit de 1e lijn van de organisatie. Om doelmatig de effectiviteit van de GITC te toetsen 
+is ZJCN voornemens om na een grote update van de software in 2023 een IT-audit op de GITC van 
+Hecina uit te laten voeren.
+4.5 Algemene verordening gegevensbescherming (AVG)
+De ADR heeft in mei 2022 een onderzoek uitgevoerd naar de opzet van het privacymanagement in 
+het kader van de AVG dat bijdraagt aan het vertrouwen van de burger. Middels deelwaarnemingen 
+is een aantal onderwerpen bekeken zoals verantwoordingsverplichting, totstandkoming van 
+verwerkersovereenkomsten en de privacycriteria in de departementale cloudstrategie.
+Daarbij zijn zeven aanbevelingen gedaan om beschrijvingen nader aan te vullen, rapportages nader 
+in te richten en de ontwikkelingen van het Rijksbrede cloudbeleid mee te nemen. VWS heeft 
+aangegeven deze bevindingen deels al opgevolgd te hebben en de overige onderwerpen door de 
+Chief Privacy Officer mee te laten nemen in het verder uit te werken beleid.
+4.6 Inrichting beheer en verantwoording van het Herstel- en Veerkrachtplan
+Op 4 oktober 2022 is het Nederlandse Herstel- en Veerkrachtplan (HVP) goedgekeurd door de Raad 
+van de Europese Unie. Met dit plan maakt Nederland aanspraak op € 4,7 miljard uit de Europese 
+Herstel- en Veerkracht Faciliteit (HVF).
+Een aantal van de ingediende maatregelen heeft betrekking op het versterken van de publieke 
+gezondheidssector en pandemieparaatheid. De departementale beleidsdirecties en de directies FEZ 
+zijn verantwoordelijk voor de rechtmatige besteding van de middelen en het effectief functioneren 
+van de beheers- en controlesystemen voor de geselecteerde maatregelen uit het HVP.
+Een deel van het geld dat Nederland heeft geschaard onder de subsidieaanvraag voor het HVP is al 
+eerder uitgegeven aan bestaande projecten en plannen. De verantwoording over deze projecten 
+heeft soms al plaats gevonden of moet nog plaatsvinden. Mogelijk is bij de bestaande regelingen 
+geen rekening gehouden met aanvullende eisen uit EU-regelgeving, en kan het in een aantal 
+gevallen lastig en juridisch (nog) niet mogelijk zijn deze aanvullende informatie op te vragen. 
+Hierdoor ontstaat het risico dat een deel van de aangevraagde subsidies alsnog wordt afgekeurd. 
+Auditrapport 2022 | Ministerie van Volksgezondheid, Welzijn en Sport (XVI) | 31
