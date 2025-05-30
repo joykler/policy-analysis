@@ -38,5 +38,4 @@ tientallen keren benaderd zou moeten worden. Namelijk elke keer dat Nederland ga
 met een ander CRS-land, net zolang totdat dat het land is waar de rekeninghouder woont. Dit is 
 belastend voor rekeninghouders en zou ook telkens een gegevensstroom op gang brengen die 
 voorkomen kan worden in het geval de financiële instelling de eigen verklaring die bij het openen 
-van de rekening is verkregen, bewaart. De administratieve lasten van de financiële instellingen 
-15
+van de rekening is verkregen, bewaart. De administratieve lasten van de financiële instellingen

@@ -39,5 +39,4 @@ rekeninghouders de (fiscale) woonstaat onderzoeken. Ten aanzien van bestaande re
 betekent dit dat, kort gezegd, aan de hand van een onderzoek van de bij de financiële instelling 
 beschikbare gegevens moet worden vastgesteld of de rekeninghouder (fiscaal) woonachtig is in een 
 CRS-land. Bij het nakomen van de wettelijke rapportageverplichting kunnen financiële instellingen 
-er daarbij uit het oogpunt van efficiency voor kiezen om ook van bestaande rekeninghouders die 
-14
+er daarbij uit het oogpunt van efficiency voor kiezen om ook van bestaande rekeninghouders die

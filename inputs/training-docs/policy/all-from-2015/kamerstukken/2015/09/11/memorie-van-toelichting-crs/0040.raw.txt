@@ -35,5 +35,4 @@ doorgegeven:
 - de naam, het adres, de fiscale woonstaat en het fiscale identificatienummer van die entiteit; en 
 - de naam, het adres, de fiscale woonstaat, het fiscale identificatienummer, de geboortedatum en 
 de geboorteplaats van de te rapporteren persoon of personen. 
-Dit moet derhalve ook als de passieve NFE zelf niet een te rapporteren persoon is.  
-40
+Dit moet derhalve ook als de passieve NFE zelf niet een te rapporteren persoon is.

@@ -38,5 +38,4 @@ Belastingdienst gelden zullen zo veel mogelijk worden gevolgd. Zo zullen de Rich
 Beveiliging van persoonsgegevens van het College bescherming persoonsgegevens van februari 
 2013 worden nagevolgd door de bestaande beveiligingsregels binnen de Belastingdienst onverkort 
 toe te passen op de onderhavige verwerking van persoonsgegevens. Uitwisseling met lidstaten 
-vindt bovendien plaats via een beveiligd netwerk. Wat betreft de informatie-uitwisseling met derde 
-18
+vindt bovendien plaats via een beveiligd netwerk. Wat betreft de informatie-uitwisseling met derde

@@ -38,5 +38,4 @@ rekening een te rapporteren rekening is. Uit het tweede voorbeeld blijkt dat als
 jaar ophoudt een te rapporteren rekening te zijn, over dat jaar niet meer hoeft te worden 
 gerapporteerd. In dit tweede voorbeeld houdt de rekeninghouder van de rekening uit voorbeeld 1 
 met ingang van 24 maart 2002 op een te rapporteren persoon te zijn, zodat die rekening per die 
-datum niet meer een te rapporteren rekening is. In die situatie hoeft (in het jaar 2003) niet meer 
-39
+datum niet meer een te rapporteren rekening is. In die situatie hoeft (in het jaar 2003) niet meer

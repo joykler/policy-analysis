@@ -38,5 +38,4 @@ sommige financiële rekeningen begrepen die na genoemde datum zijn geopend, bijv
 rekening die op of na 1 januari 2016 is geopend door een rekeninghouder van een rekening die al 
 op 31 december 2015 werd gehouden bij de financiële instelling. De reden hiervoor ligt in het feit 
 dat deze rekeninghouder reeds bekend is bij de financiële instelling. Het kan ook gaan om een 
-rekening die na genoemde datum wordt geopend bij een financiële instelling door een 
-32
+rekening die na genoemde datum wordt geopend bij een financiële instelling door een

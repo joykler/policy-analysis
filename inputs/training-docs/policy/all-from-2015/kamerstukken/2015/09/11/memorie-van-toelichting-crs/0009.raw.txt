@@ -35,5 +35,4 @@ In het proces van de automatische gegevensuitwisseling op grond van Richtlijn 20
 MCAA en de CRS zijn vier stromen van gegevensverstrekking te onderscheiden en is sprake van 
 vier niveaus van gegevensverwerking. Deze stromen zijn: 
 A. De gegevensverstrekking van rekeninghouders aan financiële instellingen 
-B. De gegevensverstrekking van financiële instellingen aan de Belastingdienst 
-9
+B. De gegevensverstrekking van financiële instellingen aan de Belastingdienst

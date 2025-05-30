@@ -35,5 +35,4 @@ rekeninghouder verstrekken aan het land waar de betreffende rekeninghouder woont
 land zijn belastingwetgeving kan effectueren (stroom C).  
 De Belastingdienst verkrijgt op zijn beurt van andere landen financiële gegevens en 
 persoonsgegevens van in Nederland woonachtige rekeninghouders (stroom D), om de Nederlandse 
-belastingwet (adequaat) te kunnen toepassen.  
-11
+belastingwet (adequaat) te kunnen toepassen.

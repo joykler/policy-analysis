@@ -40,5 +40,4 @@ onderdelen p en q, vallen. Het begrip ‘deelnemend rechtsgebied’ wordt in het
 door niet onder dat begrip te laten vallen rechtsgebieden waarmee een overeenkomst is gesloten 
 op grond waarvan eenzijdig aan het land Nederland CRS-informatie moet worden verstrekt. Deze 
 situatie kan zich voordoen ingeval een land geen CRS-informatie wil ontvangen, bijvoorbeeld 
-omdat het geen inkomstenbelasting kent, maar wel bereid is informatie te verstrekken. In dat 
-37
+omdat het geen inkomstenbelasting kent, maar wel bereid is informatie te verstrekken. In dat

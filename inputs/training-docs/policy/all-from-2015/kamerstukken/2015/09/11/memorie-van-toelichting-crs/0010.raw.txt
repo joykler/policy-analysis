@@ -42,5 +42,4 @@ rekeninghouder niet een te rapporteren persoon is.
                                                 
 14
  Onder rekeninghouder wordt in het vervolg tevens verstaan: de uiteindelijk belanghebbende(n) van een passieve NFE die 
-rekeninghouder is. 
-10
+rekeninghouder is.
