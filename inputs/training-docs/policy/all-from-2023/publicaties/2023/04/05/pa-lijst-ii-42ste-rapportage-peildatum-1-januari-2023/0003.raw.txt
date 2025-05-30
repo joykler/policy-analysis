@@ -45,4 +45,4 @@ Curaçao Ja
 Nederland (in Beraden
 Europa)
 Sint Maarten Ja
-*Type procedure:IWT = procedure voor inwerkingtreding 3
+*Type procedure:IWT = procedure voor inwerkingtreding

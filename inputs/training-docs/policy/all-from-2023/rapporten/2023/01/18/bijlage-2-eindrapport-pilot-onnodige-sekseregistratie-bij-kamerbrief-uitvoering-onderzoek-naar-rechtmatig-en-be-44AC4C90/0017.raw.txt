@@ -32,4 +32,4 @@ hiervan op de hoogte zijn bij huisbezoek in het kader van controle op misbruik v
 uitwonende beurs. PGI gebruikt de sekse bij het traceren van debiteuren via social media. het digitaal uittreksel. Sinds eind maart 2022 wordt dit niet langer gedaan, mede naar 
 aanleiding van de Pilot onnodige sekseregistratie. Bij EMREX staat het geslacht in het 
 ELMO bericht (EU standaard berichten opmaak). NB EMREX is een onafhankelijk 
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 17
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

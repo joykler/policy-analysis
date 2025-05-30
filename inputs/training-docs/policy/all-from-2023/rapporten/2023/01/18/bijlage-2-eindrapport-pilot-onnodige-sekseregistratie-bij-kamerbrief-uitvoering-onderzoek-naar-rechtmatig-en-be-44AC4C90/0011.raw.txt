@@ -44,4 +44,4 @@ M2H Bijv. Geslacht wordt getoond in Webportaal
 H2H Bijv. Bij telefonische identificatie van burger
 8
  M= Machine H = Human; Dit zijn binnen ICT gangbare begrippen om de communicatie tussen computers of tussen mensen en computers aan te duiden. 
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 11
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

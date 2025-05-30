@@ -40,5 +40,4 @@ PERSOONSGEGEVENS: Nationaliteit, geboorteplaats
 PROCES: Bezwaar en beroep paspoortzaken 
 TOELICHTING / WETTELIJKE GRONDSLAG: Behandelen bezwaar, beroep en hoger beroep gericht 
 tegen afwijzingsbesluiten van aanvragen inzake Nederlandse reisdocumenten en optieverklaringen 
-Nederlanderschap, ter uitvoering van de Paspoortwet en de Rijkswet op het Nederlanderschap. 
-9
+Nederlanderschap, ter uitvoering van de Paspoortwet en de Rijkswet op het Nederlanderschap.

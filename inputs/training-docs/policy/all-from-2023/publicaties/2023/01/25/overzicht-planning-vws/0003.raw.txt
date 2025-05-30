@@ -24,5 +24,4 @@ Voortgang op de EHDS Q2
 AI in de zorg Q2 
  
 5
- EHDS: European Health Data Space – Europese ruimte voor gezondheidsgegevens 
-3
+ EHDS: European Health Data Space – Europese ruimte voor gezondheidsgegevens

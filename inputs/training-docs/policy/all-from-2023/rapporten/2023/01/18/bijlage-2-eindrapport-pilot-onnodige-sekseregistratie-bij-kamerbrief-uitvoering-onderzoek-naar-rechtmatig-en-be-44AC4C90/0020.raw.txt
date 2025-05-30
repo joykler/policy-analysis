@@ -32,4 +32,4 @@ register onderwijsdeelname en onderwijsresultaten, lerarenbeurs, internationale 
 diplomaregister, en examendiensten. De gegevens zijn vaak verkregen vanuit externe 
 registers of administraties (RvIG, Belastingdienst). Het gaat dan om gegevens als persoonsge-
 gevens uit BRP, inkomensgegevens en rekeninggegevens. 
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 20
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

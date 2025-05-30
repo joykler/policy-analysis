@@ -22,4 +22,4 @@ Waar registreert en/of gebruikt DUO seksegegevens en waar is dit niet (langer) n
 De analyse wordt uitgevoerd met behulp van de toolkit ‘Onnodige sekseregistratie’ van Atria en 
 Transgender Netwerk Nederland (TNN). Aan DUO is gevraagd om praktijkervaringen te verzamelen, 
 zowel voor de ontwikkelaars van de toolkit als voor volgende gebruikers.
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 2
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

@@ -45,4 +45,4 @@ Divisie Jeugd Dienst Justitiële Inrichtingen Den Haag 00000004000000136000
 Shared Service Center Dienst Justitiële Inrichtingen 00000004000000132000 
 Shared Service Center ICT Dienst Justitiële Inrichtingen 00000004000000133000 
  
-Versie: 9-6-2023 Pagina 2 van 2
+Versie: 9-6-2023 Pagina 2 van

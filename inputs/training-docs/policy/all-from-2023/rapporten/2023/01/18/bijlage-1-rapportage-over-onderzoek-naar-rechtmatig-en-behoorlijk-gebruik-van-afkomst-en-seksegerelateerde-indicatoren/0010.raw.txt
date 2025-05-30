@@ -52,5 +52,4 @@ informatie van burgers zoals nationaliteit, etniciteit en/of geboorteplaats en m
 gebruik van in zijn taakuitvoering. Het bureau ontvangt wel gegevens van burgers bijvoorbeeld via 
 burgerbrieven of bij sollicitaties. In deze gegevens kan informatie staan rondom de etniciteit en/of 
 de nationaliteit van de schrijver. Deze informatie wordt volgens de selectielijst van het bureau 
-bewaard of vernietigd.  
-10
+bewaard of vernietigd.

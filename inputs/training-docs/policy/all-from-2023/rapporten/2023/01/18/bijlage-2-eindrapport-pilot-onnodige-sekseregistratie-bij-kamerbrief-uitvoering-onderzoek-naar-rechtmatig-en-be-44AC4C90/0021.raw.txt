@@ -32,4 +32,4 @@ waarde X te gaan gebruiken in de BRP. • Ten behoeve van identificatie.
 •  Nu wordt volgens Wet Algemene Bepalingen BSN bij gebruik van BSN (wanneer dit niet 
 Binnen DUO spelen meerdere aspecten rondom het registreren van sekse. gekoppeld is middels DigiD) gecontroleerd of de geboortedatum en het geslacht overeen-
 komen. Hetzelfde gebeurt bij gebruik van het onderwijsnummer.
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 21
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

@@ -44,4 +44,4 @@ onderscheiden grondgebieden
 Nederland (in Ja
 Europa)
 Sint Maarten Nvt
-*Type procedure:IWT = procedure voor inwerkingtreding 4
+*Type procedure:IWT = procedure voor inwerkingtreding

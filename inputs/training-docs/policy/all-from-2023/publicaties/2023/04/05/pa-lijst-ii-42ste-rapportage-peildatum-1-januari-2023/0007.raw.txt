@@ -8,4 +8,4 @@ Curaçao Nvt
 Nederland (in Ja
 Europa)
 Sint Maarten Nvt
-*Type procedure:IWT = procedure voor inwerkingtreding 7
+*Type procedure:IWT = procedure voor inwerkingtreding

@@ -23,4 +23,4 @@ van het persoonsgegeven ‘geslacht’. De uitgangspunten hierboven zouden voldo
 richting moeten geven voor het gebruik ervan. Overal waar DUO het persoonsgegeven 
 ‘geslacht’ verwerkt moet de grondslag hiervoor in de DPIA’s (Data Protection Impact 
 Assessment) verantwoord zijn.
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 12
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

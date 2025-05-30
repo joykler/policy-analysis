@@ -42,4 +42,3 @@ bouwmaterialen die we moeten uitvoeren (LNV, BZK, lenW ism EZK, Tweede Kamer, ve
 CO2-reductie
 De CO2-reductie in de gebouwde omgeving wordt bepaald aan de hand van CO2-emissies in de 
 gebruiksfase. Reductie van CO2 in productiefase levert een bijdrage aan de CO2-opgave in de
-9

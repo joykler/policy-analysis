@@ -47,4 +47,4 @@ Curaçao
 Nederland (in Beraden
 Europa)
 Sint Maarten
-*Type procedure:IWT = procedure voor inwerkingtreding 4
+*Type procedure:IWT = procedure voor inwerkingtreding

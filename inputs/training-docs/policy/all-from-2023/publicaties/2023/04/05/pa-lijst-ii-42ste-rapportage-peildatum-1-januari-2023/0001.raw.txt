@@ -41,4 +41,4 @@ Curaçao Nee
 Nederland (in Beraden
 Europa)
 Sint Maarten Beraden
-*Type procedure:IWT = procedure voor inwerkingtreding 1
+*Type procedure:IWT = procedure voor inwerkingtreding

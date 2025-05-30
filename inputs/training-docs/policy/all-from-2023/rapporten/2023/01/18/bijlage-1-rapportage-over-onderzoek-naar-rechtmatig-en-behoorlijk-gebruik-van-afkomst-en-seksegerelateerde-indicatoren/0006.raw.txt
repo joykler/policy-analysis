@@ -51,5 +51,4 @@ voortkomen uit wettelijke verplichting. Ook is geslachtsregistratie nog nodig in
 identificatieproces, beleid en voor onderzoek. 
 Naar aanleiding van de pilot heeft DUO er voor gekozen de sekseregistratie in MijnDiploma’s te 
 beëindigen: “Op de diploma’s van burgers die wij binnen onze systemen hebben opgeslagen, staat 
-of de persoon in kwestie een man of vrouw is. Maar we kwamen erachter dat die informatie juridisch 
-6
+of de persoon in kwestie een man of vrouw is. Maar we kwamen erachter dat die informatie juridisch

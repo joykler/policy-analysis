@@ -46,5 +46,4 @@ https://wetten.overheid.nl/BWBR0012929/2005-02-06).
 De verwerking is noodzakelijk om te voldoen aan een wettelijke verplichting die op de 
 verwerkingsverantwoordelijke rust. Deze verwerking is noodzakelijk om uitvoering te geven aan 
 diverse onderdelen uit de Paspoortwet (Pw). 
-PERSOONSGEGEVENS: geboorteplaats , BSN , pasfoto 
-6
+PERSOONSGEGEVENS: geboorteplaats , BSN , pasfoto

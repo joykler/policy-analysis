@@ -45,5 +45,4 @@ diverse (bijzondere) persoonsgegevens vermeld die geregistreerd dienen te worden
 De registratie van deze persoonsgegevens is noodzakelijk om de (fiscale) privileges en 
 (strafrechtelijke) immuniteiten van de geprivilegieerden te verzekeren en de verdragsverplichtingen 
 van Nederland na te komen. De digitale foto is noodzakelijk voor het identificeren van de 
-geprivilegieerden en voor opname op het geprivilegieerdendocument (een WID-document ). 
-12
+geprivilegieerden en voor opname op het geprivilegieerdendocument (een WID-document ).

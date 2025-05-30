@@ -41,8 +41,4 @@ kandidaten aan de minimale vereisten van het JPO-programma voldoen.
 Rechtsgrond De verwerking is noodzakelijk voor de vervulling van een taak van algemeen belang of 
 van een taak in het kader van de uitoefening van het openbaar gezag dat aan de  
 verwerkingsverantwoordelijke is opgedragen 
-PERSOONSGEGEVENS: nationaliteit 
- 
- 
- 
-8
+PERSOONSGEGEVENS: nationaliteit
