@@ -1,0 +1,30 @@
+Vraag 34 
+Waarom is het ruilvoetverlies binnen het kader Sociale Zekerheid twee maal zo hoog als binnen het 
+BKZ? 
+ 
+Vraag 51 
+Wat zijn de oorzaken van het ruilvoetverlies binnen het BKZ? Kan worden toegelicht waarom in de 
+Voorjaarsnota het ruilvoetverlies binnen het kader Sociale Zekerheid (met 0,6 miljard) twee maal 
+zo hoog is als binnen het BKZ? 
+ 
+Antwoord op vraag 34, 51 
+De ruilvoet is de relatieve prijsontwikkeling van de collectieve sector ten opzichte van de markt.  
+De reële uitgavenkaders worden vastgesteld door het uitgavenniveau bij Regeerakkoord te defleren 
+met de geraamde prijsontwikkeling van de markt. Hiervoor wordt de prijs Nationale Bestedingen 
+(pNB) gebruikt. Daarna worden de reële uitgavenkaders geïndexeerd met de actuele 
+prijsontwikkeling (pNB) tot een nominaal uitgavenkader. Wanneer de prijs nationale bestedingen 
+harder stijgt dan eerder verwacht, wordt het nominale uitgavenkader opwaarts aangepast.  
+ 
+De uitgaven die onder de uitgavenkaders vallen worden geïndexeerd met de loon- en 
+prijsontwikkelingen van de collectieve sector (loon- en prijsbijstelling). Het karakter van de te 
+indexeren uitgaven onder de kaders (BKZ en Sociale Zekerheid) bepaalt welke specifieke loon- of 
+prijsindex toegepast wordt. Dit zodat de ontwikkeling van de betreffende index ook representatief 
+en passend is bij het karakter van de uitgaven. Doordat verschillende indexen een verschillende 
+ontwikkeling kennen en in verschillende combinaties toegepast worden per uitgavenkader, verschilt 
+de omvang van de loon- en prijsindexatie en daarmee ook de ruilvoet per kader. 
+ 
+Derhalve ontstaat de ruilvoetmutatie bij BKZ doordat het BKZ voor de nominale ontwikkeling wordt 
+aangepast op basis van de pNB en de netto-BKZ-uitgaven anderzijds worden aangepast voor de 
+nominale ontwikkeling op basis van de voor zorg relevante loon- en prijsontwikkeling.  In 2015 is 
+de voor de zorg relevante mutatie in loon- en prijsontwikkeling lager uitgevallen dan de mutatie 
+van de pNB.

@@ -1,0 +1,18 @@
+Vraag 89 
+Kunt u inzichtelijk maken welke onderliggende factoren in realisatie afwijken van de raming voor 
+de kinderopvangtoeslag en in welke mate dat het geval is? 
+ 
+Antwoord op vraag 89 
+We kunnen niet aangeven wat het geïsoleerde gedragseffect is van de maatregelen i.v.m. de 
+macro-economische en maatschappelijke ontwikkelingen. De afwijking van de raming wordt 
+verklaard door een grotere daling van het aantal kinderen en het aantal uren opvang per kind dan 
+verwacht. Dit geldt met name voor inkomens tot 1,5 modaal. In de Voorjaarsnota staat een 
+meevaller van 0,3 mld. euro gemeld. Vooral het gedragseffect van de eerder doorgevoerde 
+bezuinigingen lijkt sterker dan verwacht, zoals ook blijkt uit een recente studie van het CPB (2014, 
+MICSIM – A behavioral microsimulation model for the anlysis of tax-benefit reform in the 
+Netherlands). Vanwege deze inzichten zijn de aannames in het ramingsmodel aangepast en wordt 
+nu rekening gehouden met de nieuwe gedragseffecten conform de CBP studie. Daarnaast heeft 
+baanonzekerheid en baanverlies, mede vanwege de crisis, er voor gezorgd dat ouders 
+(noodgedwongen) minder gebruik zijn gaan maken van kinderopvang. De daling van het aantal 
+uren gebruik van kinderopvang wordt daarnaast ook verklaard door de toenemende flexibiliteit in 
+contracten bij de kinderopvang en in het werk.
