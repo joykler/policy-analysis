@@ -33,4 +33,3 @@ Havo 0,33 0,27 0,09 -0,08 0,04
 Vwo 0,70 0,72 0,49 0,26 0,39
 * gegevens gebaseerd op voorlopige cijfers
 Bron: Inspectie van het onderwijs, 2014
-118

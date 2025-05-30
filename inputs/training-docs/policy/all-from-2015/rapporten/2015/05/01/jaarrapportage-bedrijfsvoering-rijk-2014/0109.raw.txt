@@ -22,4 +22,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 14-07-09 Audit Dienst Defensie Audit, referentiemodel -
 Prince 2
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 109
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

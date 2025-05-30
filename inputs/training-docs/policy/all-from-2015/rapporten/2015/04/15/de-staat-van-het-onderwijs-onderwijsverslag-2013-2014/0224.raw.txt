@@ -44,4 +44,3 @@ VSNU  Vereniging van Samenwerkende Nederlandse Universiteiten
 vsv  voortijdig schoolverlaten
 vve  voor- en vroegschoolse educatie
 vwo  voorbereidend wetenschappelijk onderwijs
-224

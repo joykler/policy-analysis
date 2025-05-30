@@ -31,4 +31,4 @@ beheer- exploitatiefase.
 10-03-14 ADR Review Batenmonitor DigiInkoop (prognose baten).
 10-12-13 ADR en Dictu Onderzoek Uitvoering Afhankelijkheid- en kwetsbaarheidanalyse en opleveren informatiebeveiligingsplan. 
 BIR-toets zal begin 2014 worden uitgevoerd.
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 88
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

@@ -20,4 +20,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 14-11-13 1.0.0 nee Geautoriseerd door Stuurgroep CAB JIVC. Privacytoets nog niet uitgevoerd.
 3. Externe kwaliteitstoetsen
 Datum Uitvoerende partij Type Object (scope en onderzochte periode)
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 119
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

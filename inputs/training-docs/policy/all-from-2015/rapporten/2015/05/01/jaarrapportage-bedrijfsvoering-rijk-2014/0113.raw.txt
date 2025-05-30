@@ -19,4 +19,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 01-07-10 6.0 (eerste vastgestelde) nee Het Projectplan is volgens het format DMP-A opgesteld.
 3. Externe kwaliteitstoetsen
 Datum Uitvoerende partij Type Object (scope en onderzochte periode)
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 113
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

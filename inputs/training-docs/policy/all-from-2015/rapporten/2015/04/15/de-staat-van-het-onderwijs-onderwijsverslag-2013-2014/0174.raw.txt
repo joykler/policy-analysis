@@ -41,4 +41,3 @@ negatieve waarde iets afgenomen. De negatieve waarde van de derivaten betekent n
 nu als verlies geldt. Het betekent dat het derivaat momenteel geen voordeel oplevert en daardoor als 
 negatief gewaardeerd wordt. De instelling betaalt een premie voor de zekerheid dat de rente niet 
 boven een vooraf vastgestelde grens kan stijgen.
-174

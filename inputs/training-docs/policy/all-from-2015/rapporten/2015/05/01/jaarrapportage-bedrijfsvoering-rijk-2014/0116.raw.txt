@@ -21,4 +21,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 26-05-11 1.2 ja Verwerving loopt, ontvangen aanbiedingen geven een één op één afdekking op de wensen en eisen
 3. Externe kwaliteitstoetsen
 Datum Uitvoerende partij Type Object (scope en onderzochte periode)
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 116
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

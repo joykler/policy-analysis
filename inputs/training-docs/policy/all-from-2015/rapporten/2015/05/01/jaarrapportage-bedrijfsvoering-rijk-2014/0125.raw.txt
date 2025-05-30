@@ -26,4 +26,4 @@ Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 01-11-12 Graham Bolton Code review Kwaliteit van code
 01-11-12 HEC Functie punten analyse Omvang van applicatie
 01-11-12 HEC Algemene kwaliteitsreview Ontwikkelproces
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 125
+Jaarrapportage Bedrijfsvoering Rijk 2014 |
