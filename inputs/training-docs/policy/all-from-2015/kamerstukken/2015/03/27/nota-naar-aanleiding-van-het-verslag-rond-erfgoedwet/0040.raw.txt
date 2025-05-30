@@ -44,5 +44,4 @@ zodat gegevens over roerende zaken niet thuishoren in het rijksmonumentenregiste
 Kennisgegevens over ensembles zijn uiteraard wel van groot belang voor het behoud van 
 ensembles en zullen – voor zover ze voorhanden zijn – dan ook zoveel mogelijk door de 
 RCE digitaal worden ontsloten. 
- W10153.NAV 
-40
+ W10153.NAV

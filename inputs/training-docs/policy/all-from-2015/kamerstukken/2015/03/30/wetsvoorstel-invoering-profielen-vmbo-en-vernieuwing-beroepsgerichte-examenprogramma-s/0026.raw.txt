@@ -50,4 +50,4 @@ wordt verzorgd binnen een sector. De sectoren zijn als volgt opgebouwd:
 1. Er is een gemeenschappelijk deel dat de vakken Nederlands, Engels, 
 maatschappijleer, lichamelijk opvoeding en een kunstvak omvat en dat voor alle 
 leerwegen en sectoren gelijk is. 
-    W10336.K-2 26
+    W10336.K-2

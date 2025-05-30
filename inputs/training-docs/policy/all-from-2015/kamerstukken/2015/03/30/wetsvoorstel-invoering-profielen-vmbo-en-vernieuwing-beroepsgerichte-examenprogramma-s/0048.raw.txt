@@ -49,4 +49,4 @@ sector. Het profiel Dienstverlening en producten is niet gekoppeld aan een van d
 huidige sectoren. Wat betreft dat profiel krijgen leerlingen een keuze uit de volgende 
 algemeen vormende vakken, waarvan er twee gekozen moeten worden: wiskunde, 
 economie, biologie en natuur- en scheikunde I. 
-    W10336.K-2 48
+    W10336.K-2

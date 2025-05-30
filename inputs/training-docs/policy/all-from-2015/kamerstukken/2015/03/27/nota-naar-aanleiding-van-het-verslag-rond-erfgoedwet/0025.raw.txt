@@ -44,5 +44,4 @@ rijksmonument, maar daarvoor zijn andere bronnen. Het rijksmonumentenregister is
 het bijhouden van het wel en wee van een rijksmonument na aanwijzing niet geschikt. Zo 
 is er een vergunningenregister (artikel 20 Mw 1988, dat opgaat in het stelsel van de 
 Omgevingswet) en kunnen kennisgegevens over rijksmonumenten – waaronder gegevens 
- W10153.NAV 
-25
+ W10153.NAV

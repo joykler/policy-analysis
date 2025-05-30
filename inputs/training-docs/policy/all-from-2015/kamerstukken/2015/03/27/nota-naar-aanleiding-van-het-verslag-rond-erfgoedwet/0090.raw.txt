@@ -44,5 +44,4 @@ leegkomende gebouwen en gebouwen in krimpgebieden, zoals fabrieken, kloosters,
 kerken, scholen, stations en boerderijen, is een ander gebruik echter vaak het enige 
 middel voor behoud. Sommige gebouwen zijn onmogelijk te transformeren zonder 
 ingrepen en bovendien is het, zeker bij categorieën gebouwen zoals fabrieken, goed 
- W10153.NAV 
-90
+ W10153.NAV

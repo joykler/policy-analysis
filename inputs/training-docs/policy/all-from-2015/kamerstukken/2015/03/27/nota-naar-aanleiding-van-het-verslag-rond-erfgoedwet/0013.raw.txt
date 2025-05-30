@@ -43,5 +43,4 @@ instelling van toepassing zijn. Daarnaast zal de RCE, net zoals nu het geval is,
 ministeries, colleges van staat en overige instellingen informatie verschaffen over het 
 beheer van de rijkscollectie. 
  
- W10153.NAV 
-13
+ W10153.NAV
