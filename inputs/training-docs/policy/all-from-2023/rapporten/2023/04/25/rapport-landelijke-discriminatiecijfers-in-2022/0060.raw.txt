@@ -27,4 +27,4 @@ Noot
 8 Percentages zijn berekend over het totaal aantal meldingen. Per 
 melding kunnen meerdere wijzen van discriminatie zijn geregistreerd. 
 de optelsom van de percentages kan daardoor hoger dan 100% zijn.
-Discriminatiecijfers in 2022 60
+Discriminatiecijfers in 2022

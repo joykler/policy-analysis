@@ -23,4 +23,4 @@ Noot
 9 de percentages zijn berekend over het totaal aantal meldingen. Per 
 melding kunnen meerdere terreinen zijn geregistreerd. de optelsom 
 van de percentages kan daardoor hoger zijn dan 100%.
-Discriminatiecijfers in 2022 61
+Discriminatiecijfers in 2022

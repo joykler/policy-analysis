@@ -44,4 +44,4 @@ technologie wordt gestimuleerd, in plaats van een pallet aan verschillende techn
 matiek van de SDE++ kan wel gevolgd worden voor individuele technieken, maar vergt wel een dui-
 delijke referentietechnologie en niet al te veel diversiteit in de ingediende projecten. Als dat wel te 
 verwachten is, is waarschijnlijk een investeringssubsidie (zoals de DEI+) geschikter.  
-PBL | 43
+PBL |

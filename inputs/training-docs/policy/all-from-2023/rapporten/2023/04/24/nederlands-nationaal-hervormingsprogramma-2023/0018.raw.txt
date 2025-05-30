@@ -58,5 +58,4 @@ Europees beheersysteem voor het spoorverkeer (ERTMS). De oplevering van een fina
 40
  https://www.nationaalgroenfonds.nl/fondsen/investeringsfonds-duurzame-landbouw  
 41
- General overview and documents - Quantum Delta NL 
-18
+ General overview and documents - Quantum Delta NL

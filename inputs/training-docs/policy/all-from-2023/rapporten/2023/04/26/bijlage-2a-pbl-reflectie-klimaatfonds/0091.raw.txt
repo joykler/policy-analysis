@@ -42,4 +42,4 @@ derbouwd. Dit effect is niet plausibel voor innovaties. Oordeel: niet plausibel.
  
 8
  TRL staat voor technology readiness level, een maat voor de ontwikkelingsfase van een technologie. 
-PBL | 91
+PBL |

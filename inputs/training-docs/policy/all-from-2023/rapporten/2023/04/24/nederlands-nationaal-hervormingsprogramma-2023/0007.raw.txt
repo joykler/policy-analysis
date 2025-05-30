@@ -24,8 +24,4 @@ Koopkracht, statisch, mediaan alle huishoudens -2,7 -0,2 2,0
 Werkloze beroepsbevolking (in duizenden personen) 349 395 415 
 Werkloze beroepsbevolking (niveau in % beroepsbevolking) 3,5 3,9 4,1 
 EMU-saldo (%bbp) -0,7 -3,0 -2,6 
-EMU-schuld (%bbp) 49,3 48,4 48,7 
- 
- 
- 
-7
+EMU-schuld (%bbp) 49,3 48,4 48,7

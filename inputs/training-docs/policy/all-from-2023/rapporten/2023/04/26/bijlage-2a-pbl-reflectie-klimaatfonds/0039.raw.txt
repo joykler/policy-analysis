@@ -41,4 +41,4 @@ Vergassing: stimulering projecten vergassing 1 en 2 fase 600 300 300
 Vergassing: expertisecentrum, organisatie, haalbaarheidsstudies 25 25 0 
 Totaal 8.057 2.057 6.000 
 Restant voor MJP 2025   2.484 
-PBL | 39
+PBL |

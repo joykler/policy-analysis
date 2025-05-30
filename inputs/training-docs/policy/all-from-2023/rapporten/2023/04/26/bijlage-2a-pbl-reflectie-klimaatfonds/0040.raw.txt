@@ -43,4 +43,4 @@ Warmteopslag in de gebouwde omgeving 100 0 0
 Totaal 8.875 0 0 
  
   
-PBL | 40
+PBL |

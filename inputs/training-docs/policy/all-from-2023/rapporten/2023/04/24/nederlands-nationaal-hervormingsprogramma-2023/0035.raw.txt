@@ -36,6 +36,4 @@ bijdrage onder EuroQCI.
 Voor AI-Ned wordt aansluiting gezocht bij het EU-programma Key Digital Technologies Joint 
 Undertaking (KDT), waaruit ook €5 miljoen aanvullende financiering komt. Conform de vereisten van 
 het KDT-programma wordt met deze additionele financiering eenzelfde bedrag van €5 miljoen euro 
-aangevuld dat vanuit HVP wordt ingezet voor het nationale AI-Ned-budget. 
- 
-35
+aangevuld dat vanuit HVP wordt ingezet voor het nationale AI-Ned-budget.
