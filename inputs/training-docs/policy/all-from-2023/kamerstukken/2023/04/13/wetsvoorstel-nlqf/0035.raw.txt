@@ -1,0 +1,57 @@
+niet door het NCP NLQF zijn ingeschaald. In dit geval is er sprake van oneigenlijk 
+gebruik of misbruik van de niveau-aanduiding en kan er een bestuurlijke boete worden 
+opgelegd.  
+ 
+De verwerking van persoonsgegevens is derhalve nodig voor de volgende doelen: 
+ om een aanvraag voor inschaling te doen en om een inschalingsbesluit te nemen 
+(artikel 3.1); 
+ om vermelding in het NLQF-register mogelijk te maken en om het register actueel te 
+houden (artikel 3.1); 
+ om een bestuurlijke boete op te kunnen leggen (artikel 4.3). 
+ 
+6.2.3. Type persoonsgegevens en rechtsgrond 
+Wanneer er contact moet worden gelegd met (contact)personen in het kader van 
+communicatie over een aanvraag tot inschaling, een inschalingsbesluit of het opleggen 
+van een bestuurlijke boete, gaat het om de volgende persoonsgegevens: 
+- naam; 
+- voorvoegsel; 
+- adres; 
+- telefoonnummer; 
+- e-mailadres. 
+ 
+Als een opleiding door het NCP NLQF is ingeschaald, vermeldt het NCP NLQF ingevolge 
+artikel 3.1, tweede lid, de betreffende opleiding en de rechthebbende (dit kan een 
+rechtspersoon of een natuurlijk persoon zijn) in het NLQF-register, dat openbaar is. 
+ 
+Naast bovenstaande gegevens wordt in lagere regelgeving op grond van artikel 3.1, 
+derde lid, bepaald welke persoonsgegevens nog meer worden verwerkt in het kader van 
+de inschaling en het register, waarbij wordt gekeken naar de huidige uitvoeringspraktijk. 
+Het gaat dan bijvoorbeeld om opname in het register van data inzake de looptijd van de 
+inschaling, en een registernummer. Door in het register de opleiding, de aanbieder en 
+andere gegevens op te nemen, wordt de transparantie voor burgers en specifiek voor 
+personen die een bepaalde opleiding willen gaan volgen, bevorderd. 
+ 
+De rechtsgrond voor de verwerking van deze persoonsgegevens is het uitvoeren van de 
+wettelijke taak zoals vermeld wordt in artikel 6, eerste lid, onderdeel c, van de 
+Algemene verordening gegevensbescherming (hierna: Avg). 
+ 
+6.2.4. Bewaartermijnen 
+In het geval van contact onderhouden met een aanbieder die een non-formele opleiding 
+wil inschalen, verwerkt het NCP NLQF de persoonsgegevens zolang dat nodig is 
+gedurende de verwerking van een aanvraag voor de inschaling en, na een inschaling, 
+zolang de opleiding is opgenomen in het NLQF-register. Het bewaren van de 
+persoonsgegevens zolang er communicatie is over de inschaling van een opleiding is 
+functioneel, omdat er contact moet worden onderhouden met de aanbieder die een 
+aanvraag voor inschaling heeft gedaan. Na inschaling blijven de gegevens ten minste 
+zes jaar - de geldigheidsduur van de inschaling - in het openbaar register staan, tenzij er 
+in de tussentijd wordt besloten dat een opleiding haar inschaling verliest. De 
+geldigheidsduur van een inschaling kan na zes jaar worden verlengd. Omdat de 
+inschaling en daarmee het onderhouden van contact met een aanvrager derhalve per 
+casus kan verschillen, wordt er geen op voorhand gedefinieerde bewaartermijn 
+gehanteerd.  
+ 
+Wat betreft het opleggen van de bestuurlijke boete worden de persoonsgegevens door 
+de inspectie niet langer bewaard dan nodig is voor de uitvoering van het opleggen van 
+de bestuurlijke boete. Dat houdt in totdat de invordering voltooid is en het besluit tot het 
+opleggen van de bestuurlijke boete onherroepelijk is geworden. 
+    W6661.K-2 35

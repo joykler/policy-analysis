@@ -1,0 +1,57 @@
+6.2.5. Betrokkenen bij verwerking persoonsgegevens 
+Bij de gegevensverwerking zijn alleen het NCP NLQF en de minister(en namens de 
+minister: de inspectie) betrokken. Het NCP NLQF is verwerkingsverantwoordelijke inzake 
+de inschaling en het register, de minister (inspectie) is verwerkingsverantwoordelijke 
+inzake de bestuurlijke boete. Zij dienen zich te houden zich aan de bestaande wet- en 
+regelgeving inzake het verwerken van persoonsgegevens. Het wetsvoorstel maakt geen 
+uitzonderingen op de rechten die de betrokkenen hebben op grond van de Avg. Hiermee 
+zijn de rechten van aanbieders van non-formele opleidingen wat betreft verwerken van 
+hun gegevens gewaarborgd conform de huidige wet- en regelgeving. 
+ 
+Het NCP NLQF en de inspectie nemen maatregelen om mogelijke negatieve gevolgen bij 
+het verwerken van persoonsgegevens te voorkomen. Er bestaat altijd een risico op een 
+hack of datalek waardoor persoonsgegevens op straat komen te liggen, maar dit risico 
+wordt tot een minimum beperkt. Zo worden de medewerkers van het NCP NLQF en de 
+inspectie die inzage hebben in de persoonsgegevens, goed geïnstrueerd om deze 
+persoonsgegevens op een juiste en veilige manier te verwerken. Daarnaast worden er in 
+de ICT-infrastructuur voldoende voorzieningen ingebouwd om het risico op datalekken 
+en hacks te minimaliseren, dergelijke maatregelen zijn ook verplicht vanuit de Avg 
+(artikel 32). 
+ 
+Verder wordt, om te voorkomen dat meer persoonsgegevens worden verwerkt dan 
+noodzakelijk en de persoonsgegevens worden gebruikt voor andere doeleinden, in de 
+gedelegeerde regelgeving (op grond van artikel 3.1, derde lid) exact bepaald welke 
+gegevens voor welke doeleinden gebruikt worden.  
+ 
+Aan de Autoriteit Persoonsgegevens (hierna: AP) is advies gevraagd over de 
+privacyaspecten van onderhavig wetsvoorstel. In haar advies van 31 mei 2021 brengt de 
+AP een passage in de toelichting onder de aandacht waarin wordt gesuggereerd dat niet 
+alleen de gegevens van de aanvrager, maar ook van de contactpersoon in het register 
+worden vermeld. Dit is evenwel, zoals de AP terecht opmerkt, niet het geval, gezien ook 
+de tekst van het wetsvoorstel. Zij adviseert dan ook om in de toelichting te 
+verduidelijken dat de gegevens van de contactpersoon niet in het openbare register 
+worden vermeld. Ingevolge dit advies is in de toelichting (onderhavige paragraaf) 
+expliciet opgenomen dat de gegevens van de aanbieder in het register worden vermeld, 
+niet de gegevens van de contactpersoon. 
+ 
+Voorts merkt de AP in haar advies op dat het niet primair aan de AP is om advies uit te 
+brengen over het concept voor zover het Caribisch Nederland betreft. De AP geeft in 
+overweging het concept ook ter advisering voor te leggen aan de Commissie toezicht 
+bescherming persoonsgegevens BES, mocht dit nog niet zijn gebeurd. Naar aanleiding 
+hiervan merkt de regering op dat de AP geadviseerd heeft over het wetsvoorstel met 
+daarbij de Avg als kader, en dat het wetsvoorstel voor Bonaire, Saba en Sint Eustatius 
+hetzelfde regelt als voor Europees Nederland en ook de privacyregels voor de eilanden 
+niet anders zijn. De regering ziet daarom geen aanleiding om het wetsvoorstel ook voor 
+te leggen aan de Commissie toezicht bescherming persoonsgegevens BES.  
+ 
+7. Consultatie 
+ 
+In 2015 heeft een eerste internetconsultatie plaatsgevonden en is aanvullend een aantal 
+stakeholders separaat geconsulteerd die niet in het kader van de internetconsultatie 
+hadden gereageerd. Gedurende het consultatieproces bleek dat vertegenwoordigers van 
+werkgevers- en werknemersorganisaties, O&O-fondsen, publieke en private aanbieders 
+van opleidingen en toezichthouders het wetsvoorstel op hoofdlijnen steunen. Vervolgens 
+heeft in 2017 opnieuw consultatie van stakeholders plaatsgevonden in het kader van het 
+evaluatieonderzoek NLQF dat in dat jaar is uitgevoerd. Voorts zijn de Onderwijsraad, de 
+Algemene Rekenkamer (hierna: AR) en de Raad voor de Rechtspraak (hierna: RvdR) om 
+    W6661.K-2 36

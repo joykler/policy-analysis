@@ -1,0 +1,67 @@
+Gedurende de bestrijding van de epidemie van covid-19 zijn de effecten van de maatregelenpakketten en 
+de verspreiding van het virus gemonitord. Hierbij is gebruik gemaakt van modellering door het RIVM en 
+evaluatie van eerdere maatregelen. Deze modellering wordt voortdurend geëvalueerd en gevalideerd aan 
+de hand van het daadwerkelijke verloop van de epidemie en de actuele context. Inzichten hieruit worden 
+meegenomen bij het opstellen van nieuwe maatregelen. Zo wordt steeds wetenschappelijke toetsing 
+uitgevoerd om te controleren of het vooraf gemodelleerde effect in de werkelijkheid ook uitpakt zoals 
+voorspeld. Deze wetenschappelijke toetsing laat zien dat de effectiviteit van de ingevoerde 
+maatregelenpakketten voor het terugdringen van het aantal besmettingen evident is. Mede door de grote 
+druk waaronder het RIVM in deze periode werkte om het kabinet te informeren, is definitieve rapportage 
+in vorm van peer reviewed artikelen een doorlopend proces dat nu nog gaande is, Echter resultaten zijn 
+steeds gerapporteerd via technische briefings aan de Tweede Kamer. 
+ 
+Vraag 26b 
+Volgt uit die studies ook dat als geen verplichtende maatregelen zouden zijn opgelegd maar dringende 
+adviezen zouden zijn gegeven, het terugdringen van het aantal besmettingen niet zou hebben 
+plaatsgevonden? Zo nee, op grond van welke argumenten wordt die conclusie getrokken? 
+ 
+Verplichtende maatregelen zijn alleen genomen op momenten dat ‘dringende adviezen’ onvoldoende 
+bleken om de verspreiding van het virus te beperken.  
+Gedrag is een sterk bepalende factor in de effectiviteit van maatregelen. De mate waarin maatregelen 
+worden opgevolgd is dan ook meegewogen in de modellering van effectiviteit van maatregelpakketten. 
+ 
+Vraag 26c 
+Is het juist dat het reproductiegetal gebaseerd werd op uitslagen van testen? Zo nee, waarop dan? Zo ja, 
+zou het dan mogelijk zijn geweest dat bij onderzoek van het rioolwater geheel andere conclusies over de 
+wijziging van het reproductiegetal hadden moeten worden getrokken? 
+ 
+De gegevens die zijn gebruikt voor de berekening van het reproductiegetal zijn:  
+- Gegevens van de Nationale Intensive Care Evaluatie (NICE). Dit zijn cijfers over het aantal 
+ziekenhuisopnames in Nederland en het aantal opnames op de intensive care. 
+- Gegevens van de GGD-en. Zij zetten informatie over nieuwe patiënten met covid-19 in het 
+systeem OSIRIS, via dit systeem komt de informatie bij het RIVM.  
+- Gegevens van het LCPS. 
+Ziekenhuisopnames en IC-opnames hangen af van de ernst van infectieziekte en worden niet beïnvloed 
+door het aantal mensen dat zich laat testen. Het rioolwateronderzoek is een aanvulling op de andere 
+onderzoeken om het coronavirus te volgen. Met rioolwateronderzoek houden we zicht op de verspreiding 
+van het coronavirus, ook nu mensen zich vrijwel niet meer laten testen. Rioolwatersurveillance is tot nu 
+toe niet gebruikt voor het berekenen van het reproductiegetal. Op dit moment is er geen vertaling van 
+het aantal virusdeeltjes naar het aantal besmette mensen. Dit komt onder andere doordat niet precies 
+bekend is hoeveel virus een besmet persoon uitscheidt en daarbij kan de virusuitscheiding ook lang 
+aanhouden. Al deze inschattingen hangen wel samen, er zijn geen aanwijzingen dat bij onderzoek naar 
+rioolwater geheel andere conclusies over de wijzingen van het reproductiegetal hadden moeten worden 
+getrokken. 
+ 
+Vraag 26d 
+Voornoemde leden nemen aan dat met de reconstructie die de Onderzoeksraad voor Veiligheid (hierna: 
+OVV) heeft opgesteld, gedoeld wordt op de via de website van de OVV gepubliceerde interactieve tijdlijn? 
+Hoe is het effect van de maatregelenpakketten in deze tijdlijn terug te zien in de waarde van het 
+reproductiegetal? Is daar een analyse van gemaakt en, zo ja, door wie? 
+ 
+In mijn brief aan de kamer van 11 november 2022 verwijs ik naar de reconstructie van de OVV waarin de 
+timing van op- en afschaling van maatregelpakketten zichtbaar is gemaakt, in samenhang met R-
+97
+waardes en ziekenhuis cijfers rond die periodes. Hierop zijn geen specifieke vervolg analyses gemaakt. 
+Gedurende de bestrijding van de epidemie van covid-19 zijn de effecten van de maatregelenpakketten en 
+de verspreiding van het virus continue gemonitord. Hierbij is gebruik gemaakt van modellering door het 
+RIVM en evaluatie van eerdere maatregelen. Deze modellering wordt voortdurend geëvalueerd en 
+gevalideerd aan de hand van het daadwerkelijke verloop van de epidemie en de actuele context. 
+Inzichten hieruit worden meegenomen bij het adviseren van nieuwe maatregelen. Zo wordt steeds 
+modelmatige toetsing uitgevoerd om te controleren of het vooraf gemodelleerde effect in de werkelijkheid 
+ook uitpakt zoals voorspeld. Deze toetsing laat zien dat de effectiviteit van de ingevoerde 
+maatregelenpakketten voor het terugdringen van het aantal besmettingen evident is. 
+ 
+ 
+97
+ Kamerstukken II 2022/23, 25 295, nr. 1966. 
+53 / 121
