@@ -231,8 +231,8 @@ try {
     $SourceRootPath = "$(Resolve-Path '..\policy-evaluation-2\policy-documents\Archive')"
 
     $TargetRootPaths = @{
-        2015 = "$(Resolve-Path 'inputs\training-docs\policy\only-2015')"
-        2023 = "$(Resolve-Path 'inputs\training-docs\policy\only-2023')"
+        2015 = "$(Resolve-Path 'inputs\training-docs\policy\all-from-2015')"
+        2023 = "$(Resolve-Path 'inputs\training-docs\policy\all-from-2023')"
     }
 
     $Logging.Info_StartedCopyingPolicyDocs()
