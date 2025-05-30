@@ -1,0 +1,55 @@
+antwoord beperkt zich dus noodzakelijkerwijze tot de hoofdlijnen. De uitwerking moet antwoord 
+geven op de vraag hoe investeringen in de Belastingdienst kunnen leiden tot een organisatie die 
+beter, goedkoper 
+en meer in control is. In dit kader wordt onderzocht: 
+- op welke wijze de kosten van de Belastingdienst omlaag kunnen; het gaat daarbij om een 
+fundamenteel andere aanpak van de interactie tussen burgers en bedrijven en de 
+Belastingdienst; 
+- op welke wijze het nalevingstekort (de tax gap) kan worden verminderd door 
+informatiegestuurd toezicht en inning; in de business case zal ik voorbeelden opnemen van 
+hoe inmiddels in pilots is vastgesteld dat door data-analyse het nalevingstekort kan worden 
+teruggedrongen;  
+- op welke wijze de sturing en managementinformatie kunnen worden verbeterd. 
+ 
+ 
+22 
+(al. 2):‘Opgedane ervaring met pilots ‘: Kunt u aangeven welke pilots het hier betreft en welke 
+ervaring hier over wordt gesproken? 
+ 
+Antwoord  
+In de halfjaarsrapportage doelde ik op de volgende pilots: 
+- Een pilot met het dynamisch monitoren van vorderingen: de succesrate ten aanzien van 
+loonvorderingen is substantieel toegenomen. Dankzij de verbeterde selectie is het 
+daadwerkelijk mogelijk bij een zeer groot deel van de betrokkenen loonvordering toe te 
+passen. Bij een beperkt aantal van degenen bij wie wordt beoogd de loonvordering in te zetten 
+is uiteindelijk geen loon te vinden waarop iets kan worden ingehouden. Bovendien wordt de 
+behandeltijd per vordering aanzienlijk verkort. 
+- Een pilot met informatiegestuurd toezicht had tot doel het verhogen van de hit-rate (het 
+aantal aangiften dat wordt gecorrigeerd) bij het uitvoeren van inspecties/controles. Voor de 
+inkomstenbelasting particulieren is die hit-rate aanzienlijk gestegen. Dit is gevalideerd in 
+een uitgebreide pilot op random casussen. Tevens is er een value prediction model gemaakt 
+dat voorspelt welke omvang de eventuele correctie zal hebben. Ook dit model is gevalideerd.   
+- Ten slotte noem ik de pilot OB negatief (teruggave van OB); hierbij  is de hit-rate (het aantal 
+teruggaven dat is tegengehouden) eveneens aanmerkelijk omhoog gegaan. Op dit moment 
+wordt er op twee plekken in het land proefgedraaid met toezicht op basis van voorspellingen 
+uit dit risicomodel. 
+ 
+23 
+(al. 4):’’dat de aanpak radicaler moet’: Wat wordt hier bedoelt met radicaler ? Wat betekent dat 
+voor medewerkers, uitvoeringen en beschikbare systemen? 
+ 
+Antwoord  
+De Brede Agenda beschrijft een aantal acties, onderzoeken, aanpakken. In de uitwerking is 
+gebleken dat om de Belastingdienst beter, goedkoper en meer in control te doen zijn, deze 
+maatregelen krachtig en versneld moeten worden uitgevoerd. Het versnellen ziet bijvoorbeeld op 
+het sneller uitrollen van een volwaardig portaal voor burgers en bedrijven. Met radicaler bedoel ik 
+bijvoorbeeld dat niet langer moet worden nagedacht over de vervanging van het ene grote 
+automatiseringssysteem, bijvoorbeeld het Aanslagbelastingensysteem ABS, door een ander groot 
+systeem, een nieuw ABS, maar dat moet worden gekeken naar andere concepten waarbij een 
+zogeheten datalaag een cruciale rol speelt. Met name die datalaag en het gebruik ervan met behulp 
+van data-analyse biedt mogelijkheden die het afgelopen jaar met de uitwerking van de Brede 
+Agenda beschikbaar zijn gekomen. Inmiddels hebben pilots de werking en het nut ervan 
+aangetoond, zodat deze ontwikkeling nu met volle snelheid kan worden doorgezet. 
+De ‘radicalisering’ van de aanpak betekent voor medewerkers dat het werk sneller van karakter zal 
+veranderen. Dit heeft tot gevolg dat administratief en handmatig werk in volume zal afnemen. In 
+de processen waarin wordt geïnvesteerd (interactie, toezicht en inning), zullen de ontwikkelingen

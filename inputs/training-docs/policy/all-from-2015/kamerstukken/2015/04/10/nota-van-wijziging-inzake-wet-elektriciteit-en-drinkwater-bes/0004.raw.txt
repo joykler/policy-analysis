@@ -1,0 +1,10 @@
+aangesloten, ook wel uitgedrukt als het aantal fasen. Hierom is het nodig de capaciteit van een 
+aansluiting uit te drukken in het product van stroomsterkte (uitgedrukt in Ampères) en 
+spanningsniveau (uitgedrukt in Volt). Dit resulteert in een beschrijving van de capaciteitsgrens in 
+(kilo)Voltampères. 
+ 
+ 
+(w.g.) 
+De Minister van Economische Zaken, 
+ 
+4
