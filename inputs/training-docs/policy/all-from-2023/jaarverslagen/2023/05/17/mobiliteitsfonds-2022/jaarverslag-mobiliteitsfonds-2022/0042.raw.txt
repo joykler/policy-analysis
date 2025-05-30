@@ -53,4 +53,4 @@ goederenvervoer 0 0 0 10 10 divers divers
 Optimalisering 
 Goederencorridor 
 Rotterdam-Genua 1 0 ‒ 1 170 170 divers divers
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 A, nr. 1 42
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 A, nr. 1
