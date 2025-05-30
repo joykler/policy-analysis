@@ -1,0 +1,55 @@
+Kennis
+TER VOORBEREIDING
+Aan: MOCW, MPVO
+Van
+           
+               
+Datum
+05 oktober 2023
+Referentie
+41669529
+Bijlagen
+- achtergrondinformatie
+Gesprek 10 oktober 12.00 - 12.45 uur over reactie op
+- BIT-advies
+BIT-advies IT-project Doorontwikkelen
+- concept reactie
+Applicatielandschap Bekostigen DUO
+- presentatie (nalevering)
+Intern OCW afgestemd
+Aanleiding
+DUO
+Het Adviescollege ICT-toetsing heeft op 25 september haar BIT-advies
+uitgebracht over het IT-project Doorontwikkelen Applicatielandschap Bekostiging
+bij DUO. Uiterlijk 24 oktober moet de TK het advies ontvangen voorzien van een
+reactie van de minister. In een sessie van 3 kwartier praten DGDUO, HD
+Uitvoering DUO en CIO OCW u bij over het IT-project, het BIT-advies, opvolging
+van de adviezen en de concept-reactie. Omdat het IT-project gaat over de
+bekostiging van alle onderwijssectoren, is deze nota aan u beiden gericht.
+Bespreekpunten
+§       Concept reactie aan Kamer (zie bijlage).
+§       Ondertekening door MOCW, mede namens MPVO.
+Kernpunten
+§       Het Adviescollege ICT-toetsing heeft conform toezegging in het
+Commissiedebat DUO van 7 april 2022 opnieuw onderzoek gedaan naar het
+IT-project ‘Doorontwikkelen Applicatielandschap Bekostiging’ (DAB) bij DUO.
+§       Doel van het IT-project DAB is het moderniseren (en waar nodig vervangen)
+van de IT-systemen die DUO gebruikt voor de bekostigingsprocessen t.b.v.
+de onderwijsinstellingen.
+Adviezen Adviescollege
+§       Het Adviescollege is positief over de ingezette professionalisering DUO-breed
+via het transitieplan (verbeterplan). Er is een goede start gemaakt; advies is
+om focus te houden op daadwerkelijke implementatie ervan op tactisch en
+operationeel niveau.
+§       Het Adviescollege vindt echter dat de voortgang van DAB sterk achterblijft op
+de planning, de technische uitwerking niet het gewenste resultaat zal leveren
+en het terugvalscenario gebrekkig is. Het is hun inschatting dat het project
+veel langer zal duren en veel meer geld zal kosten. De gekozen
+oplossingsrichting zal wat het Adviescollege betreft niet leiden tot een flexibel
+en eenvoudig IT-systeem. Het Adviescollege komt tot de conclusie dat DUO
+zichzelf klem heeft gezet.
+§       Het Adviescollege adviseert de vernieuwing te pauzeren, te stoppen met de
+gekozen technologie van Blueriq, te investeren in het oude systeem, en eerst
+een grondige analyse uit te voeren naar mogelijke vereenvoudiging van het
+bekostigingsproces en een vernieuwing die wél werkt.
+Pagina 1 van 6
