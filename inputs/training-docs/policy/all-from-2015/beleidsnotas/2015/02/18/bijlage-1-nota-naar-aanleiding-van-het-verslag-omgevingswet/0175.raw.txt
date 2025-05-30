@@ -47,5 +47,4 @@ uitgevoerd. Daarmee wordt het milieubelang op projectniveau gewaarborgd. Als voo
 project geen mer uitgevoerd hoeft te worden, zal toch altijd voldaan moeten worden aan de 
 wettelijke milieuvoorschriften die op dat besluit van toepassing zijn, bijvoorbeeld de 
 instructieregels voor projectbesluiten, en als omgevingsvergunningen voor bepaalde activiteiten 
-zijn geïntegreerd in het projectbesluit ook de beoordelingsregels voor die activiteiten. 
-175
+zijn geïntegreerd in het projectbesluit ook de beoordelingsregels voor die activiteiten.

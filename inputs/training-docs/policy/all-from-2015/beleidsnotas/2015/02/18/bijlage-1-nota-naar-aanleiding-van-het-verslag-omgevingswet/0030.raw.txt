@@ -45,5 +45,4 @@ Reguleren flexibiliteit bij algemene maatregel van bestuur
 Verder worden alle flexibiliteitsbepalingen bij AMvB ‘aan’ of ‘uit’ gezet. Als ze ‘aan’ staan, kunnen 
 ze in diezelfde AMvB inhoudelijk worden ingekaderd, door bijvoorbeeld te bepalen dat een 
 flexibiliteitsbepaling alleen gebruikt mag worden in specifieke gevallen, of alleen mag worden 
-gebruikt voor een hoger beschermingsniveau en niet voor een lager beschermingsniveau.  
-30
+gebruikt voor een hoger beschermingsniveau en niet voor een lager beschermingsniveau.

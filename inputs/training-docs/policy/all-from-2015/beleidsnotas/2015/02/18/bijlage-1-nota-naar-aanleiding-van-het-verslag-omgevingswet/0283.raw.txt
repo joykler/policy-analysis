@@ -41,6 +41,4 @@ Artikel 10c Paragraaf 16.3.2 Zwemlocaties
 Artikel 10ca Afdeling 20.2 Gegevensbeheer en toegang tot 
 gegevens (artikel 20.13) 
 Artikel 10d  Paragraaf 4.3.2 Rijksregels (artikel 4.27) 
-Artikel 10e Paragraaf 4.3.2 Rijksregels (artikel 4.27) 
- 
-283
+Artikel 10e Paragraaf 4.3.2 Rijksregels (artikel 4.27)

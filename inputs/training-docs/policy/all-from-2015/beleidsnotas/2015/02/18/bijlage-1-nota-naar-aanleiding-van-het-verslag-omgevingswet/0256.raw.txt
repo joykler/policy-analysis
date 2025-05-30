@@ -40,5 +40,4 @@ benoeming van leden van gemeentelijke adviescolleges. De minimumeis is gerelatee
 scheiding tussen bestuur (college van burgemeester en wethouders) en controle op het bestuur 
 (gemeenteraad). Omdat de gemeentelijke adviescommissie is bedoeld om het college van 
 burgemeester en wethouders te adviseren, kan het college zelf geen onderdeel zijn van zijn 
-adviescommissie.  
-256
+adviescommissie.

@@ -46,5 +46,4 @@ ontwikkeld. Dit model kan berekenen of compenserende maatregelen voldoende zijn 
 bouwprojecten de luchtkwaliteit per saldo te verbeteren. Het model is ontwikkeld in kader van de 
 salderingsregeling die de Wet milieubeheer mogelijk maakt. 
 De Interimwet stad-en-milieubenadering kent ook de mogelijkheid voor compensatie. Die moet zijn 
-ingebed in het bestemmingsplan waarbij sprake is van een overschrijding van een milieunorm. 
-88
+ingebed in het bestemmingsplan waarbij sprake is van een overschrijding van een milieunorm.

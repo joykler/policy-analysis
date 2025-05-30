@@ -48,5 +48,4 @@ onderzoeklasten.
 Het kabinet is wel van plan om de mogelijkheden van beslissingsondersteunende informatie uit te 
 breiden. In aanvulling op de huidige gezondheidseffectscreening bij ruimtelijke beslissingen (GES) 
 en gebruik van verminderde levensjaren gecorrigeerd voor beperkingen (disability-adjusted life 
-years, DALY’s) ontwikkelt het RIVM momenteel een indicator die gezondheidseffecten kan 
-68
+years, DALY’s) ontwikkelt het RIVM momenteel een indicator die gezondheidseffecten kan

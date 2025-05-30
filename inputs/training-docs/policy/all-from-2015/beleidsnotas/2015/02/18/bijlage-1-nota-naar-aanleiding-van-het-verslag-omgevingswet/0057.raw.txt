@@ -47,4 +47,3 @@ Geluidsniveaus zijn inderdaad te meten, maar worden doorgaans berekend, bijvoorb
 meten nog niet kan (bij een nog aan te leggen weg), maar vooral ook omdat bij (kortstondig) 
 meten geen zinvolle relatie gelegd kan worden met de jaargemiddelde geluidnormen (L ). 
 den
-57

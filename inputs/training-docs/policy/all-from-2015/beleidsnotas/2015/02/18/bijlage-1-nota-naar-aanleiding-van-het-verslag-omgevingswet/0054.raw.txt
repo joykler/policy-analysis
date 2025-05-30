@@ -48,5 +48,4 @@ koppeling zou slechts leiden tot het niet doorgaan van een project zonder een al
 van de toestand. Via andere wegen, zoals het gebruik maken van een programma, kan aan de 
 omgevingswaarde worden voldaan. Zo kan een programma bijdragen door de maatregelen aan 
 verbetering, waarbij een deel van de gebruiksruimte desgewenst weer ten goede kan komen aan 
-maatschappelijk gewenste ontwikkelingen.  
-54
+maatschappelijk gewenste ontwikkelingen.

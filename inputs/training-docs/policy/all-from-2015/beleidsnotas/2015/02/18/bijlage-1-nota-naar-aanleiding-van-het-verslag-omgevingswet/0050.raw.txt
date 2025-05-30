@@ -49,5 +49,4 @@ Categorie  Wetsniveau, AMvB-niveau, of anders
 De veiligheid van bij AMvB aangewezen primaire Wetsniveau 
 waterkeringen en van overige primaire waterkeringen die in 
 beheer zijn van het Rijk 
-De chemische en ecologische kwaliteit van AMvB-niveau 
-50
+De chemische en ecologische kwaliteit van AMvB-niveau

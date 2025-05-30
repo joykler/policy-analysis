@@ -36,5 +36,4 @@ Paragraaf 16.3.6 Gedoogplichtbeschikking
 § 5. Gevaar voor waterstaatswerken Afdeling 19.4 Gevaar voor waterstaatswerken 
 Hoofdstuk 6. Handelingen in  
 watersystemen 
-§ 1. Watervergunning en algemene regels Afdeling 1.1 Begripsbepalingen + bijlage  
-276
+§ 1. Watervergunning en algemene regels Afdeling 1.1 Begripsbepalingen + bijlage

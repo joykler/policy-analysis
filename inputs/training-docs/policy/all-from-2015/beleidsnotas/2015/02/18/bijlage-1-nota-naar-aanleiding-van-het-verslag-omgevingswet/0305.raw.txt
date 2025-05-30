@@ -41,5 +41,4 @@ Hoofdstuk 10 Paragraaf 2.4.1 Toedeling van specifieke taken aan
 gemeenten, waterschappen, provincies en Rijk 
 Afdeling 2.5 Instructieregels en instructies 
 Afdeling 4.1Algemene bepalingen voor regels over 
-activiteiten 
-305
+activiteiten

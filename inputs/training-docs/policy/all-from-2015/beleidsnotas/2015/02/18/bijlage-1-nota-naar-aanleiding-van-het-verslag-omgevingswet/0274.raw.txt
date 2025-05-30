@@ -41,5 +41,4 @@ Paragraaf 2.3.4 Omgevingswaarden Rijk
 Paragraaf 2.4.1 Toedeling van specifieke taken aan 
 gemeenten, waterschappen, provincies en Rijk 
 Afdeling 2.6 Bijzondere beheerbevoegdheden (rangorde 
-bij waterschaarste) 
-274
+bij waterschaarste)
