@@ -43,7 +43,7 @@ $global:Logging = [PSCustomObject]::new()
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + 'Started pruning raw text from all pdf files...' + $R)
+        Write-Information $($S + 'Started pruning intro-pages from all raw-text files...' + $R)
     }
 
     Add-LoggingMethod 'Info_PruningIntroPagesFromFile' -Method {
@@ -54,7 +54,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Pruning raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+        Write-Information $($S + " * Pruning intro-pages from raw-text file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
     Add-LoggingMethod 'Warn_TargetFolderAllreadyExists' -Method {
@@ -214,28 +214,16 @@ function Export-IntroPagesFromSourceFile {
     }
 
     process {
-        $TargetFolderExists = Test-Path $TargetFile.Folder -PathType Container
-        if ($TargetFolderExists -and -not $OnlyUpdateExistingPages.IsPresent) {
-            $Logging.Warn_TargetFolderAllreadyExists($TargetFile)
+        $Logging.Info_PruningIntroPagesFromFile($SourceFile)
 
-        } else {
-            $Logging.Info_PruningIntroPagesFromFile($SourceFile)
+        try {
+            Export-IntroPages $Source_PdfReader
 
-            try {
-                if (-not $TargetFolderExists) {
-                    mkdir $TargetFile.Folder -Force | Out-Null
-                }
+        } catch {
+            $Logging.Warn_ExportIntroPagesFailed($TargetFile, $_)
 
-                $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourceFile.Path)
-
-                Export-IntroPages $Source_PdfReader
-
-            } catch {
-                $Logging.Warn_ExportIntroPagesFailed($TargetFile, $_)
-
-                if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
-                    Remove-Item $TargetFile.Path -Force
-                }
+            if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
+                Remove-Item $TargetFile.Path -Force
             }
         }
     }
