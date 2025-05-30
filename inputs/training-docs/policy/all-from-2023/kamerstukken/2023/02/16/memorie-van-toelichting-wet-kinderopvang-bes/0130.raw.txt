@@ -50,6 +50,4 @@ kinderopvangvergoeding bestaat en voor het bepalen van de hoogte van de
 kinderopvangvergoeding. Het zal dan gaan om persoonsgegevens van ouder en kind, 
 zoals geboortedata, en gegevens met betrekking tot de kinderopvang(organisatie). 
 Ook voor de uitvoering van dit artikel kan, waar nodig, op grond van artikel 4.2 nadere 
-informatie worden gevraagd. 
- 
-130
+informatie worden gevraagd.

@@ -50,6 +50,4 @@ worden ingedeeld?
  
 Het is mogelijk om verschillende varianten van eenzelfde type infectieziekte in verschillende groepen 
 in te delen. Zo is gewone influenza niet als infectieziekte in de Wpg opgenomen, terwijl een humane 
-infectie veroorzaakt door een dierlijk influenzavirus is aangewezen als B1-infectieziekte. 
- 
-58
+infectie veroorzaakt door een dierlijk influenzavirus is aangewezen als B1-infectieziekte.
