@@ -1,0 +1,62 @@
+Daarnaast heeft Z-CERT een publicatie over phishing gemaakt waarin maatregelen 
+4
+en een handelingsperspectief beschreven worden. Deze publicatie is terug te 
+vinden op website van Z-CERT en is door Z-CERT verspreid onder haar 
+deelnemers. Hierin staan naast bewustwordingsmaatregelen ook technische 
+maatregelen die zorginstellingen kunnen toepassen om beter beschermd te zijn 
+tegen phishing.  
+ 
+Vraag 5 
+Welke maatregelen neemt Z-CERT om de cyberbewustwording en weerbaarheid 
+bij Nederlandse ziekenhuizen en zorginstellingen te verhogen? 
+ 
+Antwoord op vraag 5 
+Z-CERT biedt hun deelnemers een breed pakket aan diensten om hun 
+cybersecurity bewustwording en weerbaarheid te verhogen. Zoals ik in mijn 
+antwoord op vraag 3 heb aangegeven gaat het hierbij onder andere om het 
+verspreiden van dreigingsinformatie, adviseren over preventieve maatregelen en 
+het ondersteunen bij het mitigeren van de impact van een cyberaanval. Concreet 
+gaat het bijvoorbeeld om adviezen over hoe te reageren op een 
+5
+ransomwareaanval, en hoe e-mailstandaarden en monitoring te implementeren. 
+Z-CERT helpt hun deelnemers daarnaast bij het organiseren van 
+cybercrisisoefeningen, en Z-CERT informeert deelnemers geregeld over 
+cyberbewustwordingsonderwerpen. Op de website van Z-CERT is eveneens een 
+kennisbank te vinden met daarin documentatie die informatie bevat over 
+verschillende thema’s. Het doel van deze publicaties is om het zorgveld 
+cyberweerbaar en cyberbewust te maken. Deze informatie is voor iedereen 
+toegankelijk. 
+ 
+Vraag 6 
+Hoe hoog wordt het dreigingsniveau van eventuele aanvallen door cybercriminelen 
+op Nederlandse ziekenhuizen en zorginstellingen, maar ook breder dan deze 
+sector, geschat? Hoe beoordeelt u de digitale weerbaarheid van Nederlandse 
+sectoren in vergelijking met de huidige toenemende digitale dreiging 
+waar Nederland nu mee te maken heeft? Welke maatregelen worden op dit 
+moment in Nederland genomen om weerstand te bieden aan deze toenemende 
+dreiging, ook in aanloop naar de implementatie van de NIS2? 
+ 
+Antwoord op vraag 6 
+In het dreigingsbeeld cybersecurity 2022 geeft Z-CERT per type cyberdreiging 
+voor het zorgveld een risico-inschatting. Zo wordt het dreigingsniveau met 
+betrekking tot de impact van ransomware-aanvallen op Nederlandse ziekenhuizen 
+6
+en zorginstellingen aangemerkt als ‘hoog’.  
+ 
+In het meest recente Cybersecuritybeeld Nederland staat genoteerd dat er sprake 
+is van een scheefgroei tussen de toenemende dreiging en de ontwikkeling van de 
+7
+weerbaarheid. Omdat digitale systemen het ‘zenuwstelsel’ van onze maatschappij 
+vormen, maakt het kabinet zich daarom hard voor de versterking van onze 
+digitale weerbaarheid via de verschillende ambities die omschreven staan in de 
+Nederlandse Cybersecuritystrategie (NLCS), zodat deze scheefgroei geadresseerd 
+ 
+4
+ TLPWHITE-Pak-phishing-aan-Maatregelen-voor-effectieve-preventie-1.0.pdf (z-cert.nl) 
+5
+ Cybermaand 2021: Tien tips tegen ransomware - Z-CERT 
+6
+ Z-CERT_RapportDreigingsbeeld2022.pdf 
+Pagina 4 van 7
+7
+  Tweede Kamer, vergaderjaar 2021-2022, kamerstuk 26 643, nr. 891

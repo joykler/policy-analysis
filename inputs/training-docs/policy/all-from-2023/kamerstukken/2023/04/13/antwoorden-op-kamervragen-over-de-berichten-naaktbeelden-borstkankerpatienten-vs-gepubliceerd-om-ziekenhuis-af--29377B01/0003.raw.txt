@@ -1,0 +1,54 @@
+Antwoord op vraag 3 
+Zorginstellingen nemen maatregelen om de gevolgen van cyberaanvallen te 
+beperken en zo spoedig mogelijk te mitigeren. Deze maatregelen vloeien voort uit 
+hun verantwoordelijkheden en zijn uitgewerkt in wettelijk verplicht gestelde 
+normen voor informatiebeveiliging in de zorg. Dit betreft de NEN7510, 7512 en 
+7513. Kern hierbij is de NEN 7510 norm, die met name voorschrijft dat 
+zorginstellingen de risico’s voor informatiebeveiliging in kaart brengen en hiervoor 
+passende maatregelen nemen. De norm vereist ook beheersmaatregelen voor de 
+bescherming van netwerken, bedrijfscontinuïteit en bereikbaarheid. De 
+aanvullende normen NEN 7512 en 7513 zien er daarnaast op toe dat er wordt 
+voldaan aan eisen voor veilige gegevensuitwisseling en logging.  
+ 
+Op dit moment zijn meer dan 300 instellingen uit verschillende sub-sectoren 
+aangesloten bij Z-CERT. Z-CERT voorziet hun deelnemers van advies en 
+dreigingsinformatie, en in het geval van een incident kan Z-CERT een 
+zorginstellingen ondersteunen bij het mitigeren van de gevolgen van een 
+cyberaanval. Z-CERT heeft dit in het verleden ook gedaan, bijvoorbeeld tijdens de 
+recente DDoS-aanvallen op Nederlandse ziekenhuizen. Door gebruik te maken van 
+de diensten van Z-CERT zoals het Zorgdetectienetwerk, kunnen zorginstellingen 
+informatie over incidenten met elkaar delen. Z-CERT monitort daarnaast actief op 
+signalen van incidenten bij haar deelnemers. Ook scant Z-CERT op internet naar 
+kwetsbare systemen bij de deelnemers en informeert deze daarover om zo 
+mogelijke incidenten te voorkomen.  
+ 
+Het ministerie van VWS ondersteunt het gefaseerd aansluiten van de gehele 
+zorgsector op basis van een risicogebaseerde aansluitstrategie, zodat steeds meer 
+zorginstellingen deelnemer worden van Z-CERT. Het ministerie van VWS blijft zich 
+inzetten om de dienstverlening van Z-CERT zo breed mogelijk beschikbaar te 
+stellen binnen de gehele zorgsector.  
+ 
+Vraag 4 
+Welke maatregelen worden genomen om te voorkomen dat een klik op een 
+verkeerde link door een (zorg)medewerker cybercriminelen toegang geeft tot de 
+meest gevoelige en kwetsbare informatie van patiënten? 
+ 
+Antwoord op vraag 4 
+Bewustwording van risico’s en het belang van zorgvuldig handelen door eigen 
+medewerkers is essentieel voor goede informatieveiligheid, ook in de zorg. Het 
+ministerie van VWS zet daarom ten eerste in op het stimuleren van 
+informatieveilig gedrag van zorgprofessionals. In de brief ‘Voortgang op 
+elektronische gegevensuitwisseling’ van 15 december 2022 heb ik u hier nader 
+ 3
+over geïnformeerd. In 2019 is het ministerie van VWS het project 
+informatieveilig gedrag gestart. Via dit project werkt het ministerie aan een 
+gestructureerde methode voor gedragsverandering op het gebied van 
+informatieveiligheid, toegespitst op de Nederlandse zorgsector. De methode is 
+uitgewerkt in een Wegwijzer, waarin manieren zijn opgenomen om informatie 
+veilig gedrag in de zorg te bevorderen. Hierin wordt onder andere ingegaan op 
+welke interventies mogelijk zijn om te voorkomen dat (zorg)medewerkers 
+slachtoffer worden van phishing.  
+ 
+Pagina 3 van 7
+3
+ Kamerstuknummer 27529-288

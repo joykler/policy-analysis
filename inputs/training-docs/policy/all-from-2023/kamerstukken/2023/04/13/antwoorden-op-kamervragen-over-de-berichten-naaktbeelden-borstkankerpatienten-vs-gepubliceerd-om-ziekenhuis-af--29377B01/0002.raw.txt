@@ -1,0 +1,57 @@
+Antwoorden op Kamervragen van de leden Hermans, Rajkowski en Rahimi (allen 
+VVD) over de berichten 'Naaktbeelden borstkankerpatiënten VS gepubliceerd om 
+ziekenhuis af te persen' en 'Paspoorten van dokters op straat na hack bij 
+oudereninstelling Gelderland' (2023Z03984, ingezonden 8 maart 2023). 
+ 
+ 
+Vraag 1 
+Bent u bekend met de berichten: 'Naaktbeelden borstkankerpatiënten VS 
+gepubliceerd om ziekenhuis af te persen', en 'Paspoorten van dokters op straat na 
+hack bij oudereninstelling Gelderland'? 1) 2) 
+ 
+Antwoord op vraag 1 
+Ja. 
+ 
+Vraag 2 
+Is bekend of meer Nederlandse ziekenhuizen of zorginstellingen slachtoffer zijn 
+(geweest), of doelwit zijn van ransomware-aanvallen waarbij patiëntgegevens en 
+gegevens van (zorg)medewerkers zoals foto’s en persoonsinformatie buit zijn 
+gemaakt? Om hoeveel gevallen gaat het? Welke stappen zijn gezet om de schade 
+voor patiënten zo veel mogelijk te beperken? 
+ 
+Antwoord op vraag 2 
+De afgelopen jaren zijn meerdere ziekenhuizen en zorginstellingen slachtoffer 
+geweest van ransomware-aanvallen. Uit het dreigingsbeeld cybersecurity van het 
+Computer Emergency Response Team voor de zorg (Z-CERT) blijkt dat er in 2022 
+vijf ransomware-incidenten bij Nederlandse zorginstellingen zijn geregistreerd 
+1
+door Z-CERT. In het jaar 2021 betrof dit ook vijf geregistreerde ransomware 
+2
+incidenten. In 2023 is er voorlopig sprake van twee  genoteerde incidenten. Het 
+is mij niet bekend bij hoeveel van deze incidenten er gegevens van patiënten of 
+(zorg-)medewerkers zijn ontvreemd.  
+ 
+Zorgaanbieders die geraakt worden door ransomware kunnen (technische) experts 
+inzetten om de gevolgen van het incident te beperken. Zorgaanbieders die zijn 
+aangesloten bij Z-CERT kunnen hierbij rekenen op ondersteuning door Z-CERT. 
+Het is daarnaast van belang dat zorginstellingen contact opnemen met de 
+betrokken patiënten of medewerkers om hen te informeren over de gevolgen die 
+het incident voor hen heeft, en in overleg met de ICT-leverancier maatregelen 
+treffen ten behoeve van de informatieveiligheid.   
+ 
+Vraag 3 
+Welke veiligheidsmaatregelen worden getroffen door Nederlandse ziekenhuizen en 
+zorginstellingen om patiëntgegevens, gegevens van (zorg)medewerkers en andere 
+gevoelige data zo goed mogelijk te beschermen, de continuïteit van zorgprocessen 
+te borgen en om cybercriminelen buiten de deur te houden? In hoeverre wordt de 
+zorgsector hierbij ondersteund door Z-CERT? In hoeverre wordt Z-CERT ook actief 
+benaderd en betrokken door de zorgsector zelf wanneer het gaat om bijstand bij 
+cyberaanvallen? Is Z-CERT ook in het verleden betrokken geweest bij 
+cyberaanvallen op Nederlandse ziekenhuizen en andere zorginstellingen? Zo ja, 
+wat was hun rol? 
+ 
+1
+ Z-CERT_RapportDreigingsbeeld2022.pdf 
+Pagina 2 van 7
+2
+ Home - Z-CERT

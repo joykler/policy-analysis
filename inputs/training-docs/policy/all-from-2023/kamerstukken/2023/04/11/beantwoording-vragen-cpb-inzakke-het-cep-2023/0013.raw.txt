@@ -1,0 +1,52 @@
+50 
+Kunt u een overzicht geven van bedrijven die hun winsten in 2022 meer dan hebben verdubbeld 
+ten opzichte van de periode 2017- 2021? 
+ 
+Antwoord  
+Het CPB heeft deze analyse niet gemaakt. 
+ 
+51  
+In hoeverre is het op peil blijven van de industriële productie toe te schrijven aan een prijseffect en 
+in hoeverre aan het volume van deze productie? 
+ 
+Antwoord  
+In het CEP (https://www.cpb.nl/sites/default/files/omnidownload/CPB-Raming-Centraal-
+Economisch-Plan-CEP-2023.pdf, pagina 3) wordt gesteld dat de industriële productie het afgelopen 
+jaar op peil is gebleven. Hierbij doelen we op het volume van de productie. Bij het CBS 
+(https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83838NED/table?dl=81F97) is dit terug te 
+vinden: de seizoensgecorrigeerde industriële productie ligt in december 2022 zelfs iets hoger dan 
+het niveau van januari 2022. In januari 2023 is de industriële productie wel gedaald, deze cijfers 
+zijn beschikbaar gekomen na publicatie van het CEP.  
+52  
+Wat is de CPI-reeks die is gebruikt voor de koopkrachtberekeningen en de armoedeberekeningen? 
+ 
+Antwoord  
+Omdat het CBS bij de berekening van de energieprijzen in de cpi op dit moment nog alleen kijkt 
+naar de prijzen van nieuwe energiecontracten, geeft de officiële cpi in de huidige situatie een 
+vertekend beeld van de gemiddelde inflatie die huishoudens daadwerkelijk (hebben) ervaren. In de 
+koopkracht- en armoedecijfers is daarom gebruikgemaakt van een alternatieve cpi-reeks. Met deze 
+alternatieve cpi wordt een inschatting gemaakt van de inflatie volgens een nieuwe CBS-
+meetmethode die rekening houdt met zowel nieuwe als bestaande energiecontracten (zie 
+https://www.cbs.nl/nl-nl/achtergrond/2023/09/cbs-introduceert-nieuwe-meetmethode-
+energieprijzen). Als gevolg van de verschillende behandelwijzen van de energieprijzen vallen de 
+officiële en de alternatieve inflatiestatistiek anders uit; zie onderstaande tabel. 
+Tabel Inflatie officiële cpi en alternatieve cpi 
+  2021 2022 2023 2024 
+  mutaties per jaar in % 
+Nationale consumentenprijsindex (cpi) 2,7 10,0 3,0 3,1 
+Alternatieve cpi (koopkracht- en 2,0 6,7 6,5 3,2 
+armoedecijfers) 
+ 
+53  
+Hoe werkt de inflatie precies door in fiscale parameters? 
+ 
+Antwoord  
+De inflatie werkt in veel gevallen door op fiscale parameters via de tabelcorrectiefactor. De 
+tabelcorrectiefactor wordt bijvoorbeeld gebruikt voor zowel de aanpassing van de schijfgrenzen en 
+de hoogte, opbouw en afbouw van heffingskortingen. De tabelcorrectiefactor in een specifiek 
+kalenderjaar is gebaseerd op de inflatie gedurende de periode van anderhalf tot een half jaar 
+daarvoor. Concreet gaat het om de verhouding van het gemiddelde van de afgeleide 
+consumentenprijsindex van de achttiende tot en met de zevende maand voorafgaande aan het 
+kalenderjaar, ten opzichte van het gemiddelde van de dertigste tot en met de negentiende maand 
+voorafgaande aan het kalenderjaar. In 2023 is de tabelcorrectiefactor daardoor 6,3% en in 2024 
+naar verwachting zo’n 9 à 10%.

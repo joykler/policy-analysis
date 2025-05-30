@@ -1,0 +1,48 @@
+12  
+Kunt u aangeven in hoeverre de raming inzake de consumentenprijsindex (cpi) (daling naar drie 
+procent in 2023 en 3,1 procent in 2024) nog realistisch is nu de nu de inflatie in januari en februari 
+2023 ver boven de drie procent lag? 
+ 
+Antwoord  
+Het maandelijks gepubliceerde inflatiecijfer meet de procentuele mutatie van de 
+consumentenprijsindex van die maand ten opzichte van dezelfde maand een jaar geleden (oftewel 
+de jaar-op-jaarmutatie van de cpi). In de loop van 2022 zijn de consumentenprijzen hard 
+opgelopen (zie https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83131ned/line?dl=840E9), wat 
+een dempend effect zal hebben op de inflatie in de loop van 2023. Mede door dit 'noemereffect' 
+was de cpi-inflatie in maart 2023 (op basis van de snelle raming van het CBS, zie 
+https://www.cbs.nl/nl-nl/nieuws/2023/13/inflatie-in-maart-4-4-procent-bij-snelle-raming) met 
+4,4% al een stuk lager dan de cpi-inflatie in januari en februari. Ter illustratie: als de prijzen in de 
+cpi gedurende de rest van dit jaar constant blijven op het prijsniveau van maart 2023, zal het 
+jaarcijfer van de cpi-inflatie in 2023 uitkomen op 2,6%. Daarmee acht het CPB de raming uit het 
+CEP nog altijd realistisch.  
+ 
+13  
+Kunt u de gevolgen schetsen voor de armoede- en de koopkrachtcijfers als de inflatie één procent, 
+twee procent, drie procent, vier procent, vijf procent, zes procent of zeven procent hoger uitvalt 
+dan geraamd? 
+ 
+Antwoord  
+Het CPB heeft deze berekeningen niet gemaakt. Voor de armoedegrens wordt gebruikgemaakt van 
+het niet-veel-maar-toereikendbudget van het SCP. Dit budget wordt geïndexeerd met de stijging 
+van de consumentenprijsindex. Daarnaast wordt dit budget ook geïndexeerd met het 
+vijfjaarsgemiddelde van de reële groei van de uitgaven aan basisbestedingen, zodat de 
+armoedegrens een weergave blijft van de ontwikkeling in het gemiddelde uitgavenpatroon in de 
+samenleving. Inflatie heeft echter ook invloed op die uitgaven, waardoor de doorwerking van de 
+inflatie op de armoedecijfers niet gemakkelijk in te schatten is. De doorwerking van de inflatie op 
+de koopkracht ligt minder complex. In het algemeen geldt dat op korte termijn een hogere inflatie 
+bijna één-op-één doorwerkt in een lagere koopkrachtontwikkeling: één procentpunt hogere inflatie 
+zorgt voor ongeveer voor een procentpunt lagere koopkrachtontwikkeling.  
+14  
+Hoe heeft de arbeidsinkomensquote zich over de afgelopen tien jaar ontwikkeld? 
+ 
+Antwoord  
+Het verloop van de arbeidsinkomensquote (aiq) bedrijven in de afgelopen tien jaar is te zien in 
+onderstaande figuur en te vinden in bijlage 1 van het CEP 
+(https://www.cpb.nl/sites/default/files/omnidownload/verzamelde-bijlagen-cep2023-
+9maart2023.xlsx). De aiq schommelde grofweg tussen 73 en 74,5 tot er in 2020 een duidelijke 
+stijging te zien was. Dit had te maken met de coronacrisis en de toen gevoerde steunmaatregelen: 
+dankzij met name de NOW bleef het looninkomen van de meeste werknemers in stand, terwijl het 
+bbp in reële termen daalde met 3,9%. In 2022 is juist een forse daling te zien. Het CEP (hoofdstuk 
+3) laat zien dat dit naar verwachting vooral veroorzaakt wordt door een sterke toename van de 
+toegevoegde waarde in de bedrijfstakken die profiteren van energieprijsstijging (delfstoffenwinning 
+en energievoorziening).

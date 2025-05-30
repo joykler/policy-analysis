@@ -1,0 +1,53 @@
+met verzorgers die bekend zijn bij de 
+kinderbijslag. Er wordt een mogelijkheid 
+geboden om ouderbijdrage te laten 
+verrekenen via kinderbijslag.  
+*Toestemming voor verrekening kan 
+gegeven worden via het portaal. Bij 
+toestemming wordt er een beschikking 
+verstrekt via het portaal.  
+ 
+b. Voor de gerechtigden en de kinderen voor 
+kinderbijslag is/wordt een koppeling gelegd 
+met de gegevens uit PIVA-V. Doelgroep waar 
+geen kinderbijslag wordt verstrekt (bv 
+uitgezonde ambtenaar) wordt dezelfde 
+koppeling voor gelegd op PIVA-V.   
+*Bij uitzondering kan het kind of verzorger 
+nog niet bekend zijn in PIVA-V, dan worden 
+gegevens vanuit toets op feitelijke 
+omstandigheden opgenomen in de SZW-
+back-office applicatie. 
+ 
+c. De persoonsgegevens worden binnen de 
+RCN-Unit SZW verwerkt op basis van de Wet 
+persoonsbescherming BES. 
+ 
+d. Samenwerking met het openbaar lichaam en 
+IvhO 
+* Termijn nader bepalen voor uitvraag.  
+* Manier van info verstrekken (mail etc.) 
+moet nog bepaald worden.  
+* SZW informeert het openbaar lichaam en 
+IvhO over tijdelijke stopzetting financiering 
+en verstrekt (op verzoek) aan IvhO 
+gegevens over aantal kinderen en dagdelen 
+waarvoor vergoeding is toegekend. 
+ 
+e. 1x per kwartaal een overzicht van de 
+opvangorganisatie  (50 op de BES) 
+Via het webportaal (CRIB-vereist/ 2-factor) 
+wordt overzicht van kinderen op de opvang 
+verzonden.  (*vorm: Excel etc., nader te 
+bepalen) Kind en verzorger-gegevens.  
+Wordt opgeslagen in de backoffice applicatie 
+van SZW.  In de backoffice krijgen alleen 
+medewerkers toegang die betrokken zijn bij 
+de uitvoering. 
+ 
+f. De SZW-backoffice en de module in het 
+webportaal zijn applicaties die specifiek 
+gebouwd worden voor de uitvoering van 
+deze regelingen. Bij de inrichting van deze 
+applicaties is rekening gehouden met de 
+Pagina 19 van 23

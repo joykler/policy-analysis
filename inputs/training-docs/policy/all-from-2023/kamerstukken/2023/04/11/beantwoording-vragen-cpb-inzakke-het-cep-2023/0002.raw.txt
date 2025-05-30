@@ -1,0 +1,62 @@
+Antwoord  
+Maatregelen in natura worden niet meegenomen in de armoederaming. Zie 
+https://www.cpb.nl/ramingsmethodiek-armoederaming voor een uitgebreide beschrijving van de 
+ramingsmethodiek en wat daarin wel en niet wordt meegenomen.  
+ 
+5  
+Kunt u aangeven welke aannames precies zitten onder de armoedecijfers, zowel voor volwassenen 
+als voor kinderen? Kunt u onderbouwen waar de afwijking zit ten opzichten van eerdere ramingen 
+van het CPB over de armoedecijfers (MEV en december) en dit toelichten? 
+ 
+Antwoord  
+In de armoederaming wordt het besteedbaar huishoudinkomen vergeleken met de armoedegrens. 
+Wanneer een huishouden een inkomen heeft dat beneden de armoedegrens valt, noemt het CPB 
+dat huishouden arm. De armoedegrens die het CPB hanteert, is het niet-veel-maar-
+toereikendcriterium van het Sociaal en Cultureel Planbureau. Zie 
+https://www.cpb.nl/ramingsmethodiek-armoederaming voor een uitgebreide omschrijving van de 
+ramingsmethodiek en de aannames die worden gedaan. 
+ 
+In de Scenario’s energieprijzen (december 2022) is geen armoederaming opgenomen, maar een 
+inschatting van het aantal huishoudens dat betalingsproblemen ondervindt in een aantal scenario’s 
+met verschillende energieprijzen. De MEV 2023 bevat wel een armoederaming. Er is een aantal 
+ontwikkelingen dat het verschil tussen de armoederaming in het CEP en de MEV 2023 voor de jaren 
+2022 en 2023 kan verklaren: 
+- Het kabinet kondigde op en na Prinsjesdag nieuwe maatregelen aan om huishoudens 
+financieel te ondersteunen: huishoudens ontvingen in de maanden november en december 
+2022 190 euro via de energierekening, gemeenten kregen de mogelijkheid om 500 euro 
+van de energietoeslag voor 2023 al in 2022 uit te keren, er is voor 2023 een prijsplafond 
+voor energiegebruik ingevoerd en het tarief van de btw op gas en elektriciteit werd 21% 
+per 2023. Deze maatregelen waren niet in de MEV verwerkt en zijn wel in het CEP 
+meegenomen.  
+- Voor zowel de koopkracht- als de armoederaming is in het CEP een andere definitie van de 
+consumentenprijsindex (cpi) gehanteerd dan in de MEV. Met deze alternatieve cpi wordt 
+een inschatting gemaakt van de inflatie volgens een nieuwe CBS-meetmethode die 
+rekening houdt met zowel nieuwe als bestaande energiecontracten (zie 
+https://www.cbs.nl/nl-nl/achtergrond/2023/09/cbs-introduceert-nieuwe-meetmethode-
+energieprijzen). Mede door deze aanpassing ligt de cpi in 2022 in het CEP lager dan in de 
+MEV (respectievelijk 6,7% en 9,9%); in 2023 komt de cpi hoger te liggen (6,5% in het CEP 
+en 2,6% in de MEV). Dit is van invloed op de indexatie van de armoedegrens.      
+- Ook ontwikkelingen in de economie beïnvloeden de armoedecijfers. Zo ligt de cao-loongroei 
+voor bedrijven in het CEP in zowel 2022 als 2023 hoger dan in de MEV: respectievelijk 
+3,1% en 5,0% in het CEP versus 2,9% en 3,7% in de MEV. Dit heeft een positief effect op 
+het besteedbaar huishoudinkomen en daarom een drukkend effect op de armoedecijfers. 
+ 
+6  
+Is de verwachting van het CPB dat de rente structureel significant hoger is dan voor 2022, dus ook 
+na 2031? 
+ 
+Antwoord  
+De rentes in het CEP zijn gebaseerd op marktverwachtingen (futures) met betrekking tot de rentes 
+(https://www.cpb.nl/sites/default/files/omnidownload/CPB-Backgrounddocument-March-2018-
+Forecasting-long-term-interest-rates.pdf). De futures zijn tot en met 2031 verwerkt; voor de 
+periode na 2031 zijn geen rentes opgenomen. Op basis van de bij het CEP verwerkte futures neemt 
+de lange rente voor Nederland in de MLT-periode geleidelijk af en bedraagt die 2,1% in 2031. 
+7  
+Kunt u in de armoederaming Caribisch Nederland specifiek uitlichten en de ontwikkeling van 
+armoede voor de komende jaren in Caribisch Nederland schetsen? 
+ 
+Antwoord  
+Het CPB kan de armoederaming niet toespitsen op Caribisch Nederland. De armoederaming wordt 
+– evenals de koopkrachtraming – berekend op basis van het Inkomenspanelonderzoek (IPO) van 
+het Centraal Bureau voor de Statistiek. Hierin zijn geen gegevens van huishoudens in Caribisch 
+Nederland beschikbaar.

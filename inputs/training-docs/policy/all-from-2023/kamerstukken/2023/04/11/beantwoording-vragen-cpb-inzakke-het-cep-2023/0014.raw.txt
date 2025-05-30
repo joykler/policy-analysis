@@ -1,0 +1,59 @@
+54  
+Wat is het precieze verschil tussen het bestedingenmandje voor de koopkrachtberekeningen en 
+voor de armoedeberekening? 
+ 
+Antwoord  
+De koopkrachtraming corrigeert de nominale toename in het besteedbaar inkomen met de stijging 
+van de consumentenprijsindex om de reële koopkrachtmutatie van een huishouden te bepalen. De 
+consumentenprijsindex wordt berekend op basis van de prijsstijgingen van uitgaven van een 
+gemiddeld huishouden. Details over het gebruikte bestedingenmandje van de 
+consumentenprijsindex zijn te vinden op https://www.cbs.nl/nl-nl/longread/diversen/2022/het-
+mandje-van-de-consumentenprijsindex-de-bestedingen-van-consumenten-en-de-meting-van-de-
+cpi-in-2022.  
+ 
+Het niet-veel-maar-toereikendcriterium (gebruikte armoedegrens) is gebaseerd op 
+referentiebudgetten voor maandelijkse uitgaven die het SCP in samenwerking met het Nibud heeft 
+opgesteld in 2017. Voor de jaren daarna wordt de armoedegrens geïndexeerd op basis van de 
+inflatie (consumentenprijsindex) en het vijfjaarsgemiddelde van de reële groei van uitgaven aan 
+basisbestedingen. Het niet-veel-maar-toereikendcriterium dekt de basisbehoeften die men in de 
+huidige samenleving als minimaal noodzakelijk acht, zoals voedsel, kleding, wonen en energie. 
+Daarbij is nog een bedrag voor participatie en sociale ontspanning opgeteld. Informatie over de 
+precieze posten van deze armoedegrens is te vinden in tabel 1 van het achtergronddocument van 
+de armoederaming (https://www.cpb.nl/sites/default/files/omnidownload/CPB-Publicatie-
+Ramingsmethodiek-armoederaming.pdf).  
+ 
+Al de uitgaven van het niet-veel-maar-toereikendcriterium zijn ook meegenomen in de 
+consumentenprijsindex. Luxere goederen zijn wel meegenomen in de consumentenprijsindex, maar 
+niet in het niet-veel-veel-maar-toereikendcriterium. 
+ 
+55  
+Welke inkomensbronnen worden meegerekend in de armoedeberekeningen? 
+ 
+Antwoord  
+De armoederaming is gebaseerd op het besteedbaar inkomen dat huishoudens overhouden na 
+aftrek van belastingen en het ontvangen van toeslagen. Inkomensbronnen zijn bijvoorbeeld loon, 
+winst, uitkering en aanvullend pensioen. Details over inkomensbronnen en het gehanteerde bruto-
+netto-traject zijn te vinden in https://www.cpb.nl/sites/default/files/publicaties/download/mimosi-
+microsimulatiemodel-voor-belastingen-sociale-zekerheid-loonkosten-en-koopkracht.pdf . 
+ 
+56  
+Worden gemeentelijke regelingen, buiten de 1.300 euro energietoeslag, meegerekend in de 
+armoedeberekeningen? 
+ 
+Antwoord  
+Gemeentelijke regelingen worden niet meegenomen in de armoederaming, omdat deze behoorlijk 
+variëren per gemeente en het CPB niet over de juiste data beschikt om dat te kunnen meenemen. 
+De 1300 euro energietoeslag is inderdaad wel meegenomen in de armoederaming. Omdat 
+gemeenten de mogelijkheid hebben gekregen om 500 van de 1300 euro energietoeslag voor 2023 
+al in 2022 uit te keren, is in de armoedeberekening in 2022 1800 euro aan energietoeslag 
+meegenomen en in 2023 800 euro.  
+ 
+57  
+In hoeverre wordt de stijging van het aantal huishoudens en kinderen in armoede verklaard door 
+de indexatie van het niet-veel-maar-toereikend criterium waarmee wordt gerekend? 
+ 
+Antwoord  
+Het CPB heeft hiervoor geen aparte berekening gemaakt. 
+58  
+In hoeverre wordt de toename van het aantal huishoudens in armoede verklaard door het aflopen 
+van de 1.300 euro energietoeslag?
