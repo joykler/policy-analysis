@@ -1,0 +1,18 @@
+3.21 Indexeren alcoholaccijns met tabelcorrectiefactor (tcf)  
+ 
+Korte beschrijving van de maatregel 
+De accijns op alcoholische producten wordt geïndexeerd met de tabelcorrectiefactor voor 2023 (6,3%) en 2024 
+(9,9%). Het gaat om de bieraccijns, wijnaccijns, accijns op tussenproducten met alcohol en de accijns op overige 
+alcoholhoudende producten.  
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2023 2024 2025 2026 2027 Struc. 
+Indexeren alcoholaccijns met tcf 2023 en 2024 0 
+153 153 153 153 153 
+ 
+Kern van de raming 
+Op basis van de raming van de totale opbrengsten van de bieraccijns, wijnaccijns en alcoholaccijns 
+(tussenproducten en overige alcoholhoudende producten) en een standaard gedragseffect van 20% is de 
+opbrengst berekend. De geraamde opbrengst in 2024 is € 1.183 miljoen. Deze opbrengst is vermenigvuldigd 
+met 16,2% (9,9% + 6,3%) en met 80% vanwege het gedragseffect.

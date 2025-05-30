@@ -1,0 +1,54 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage F Verklarende woordenlijst
+Onderwerp Omschrijving
+Indicatoren resultaten # =  de ongewenste gebeurtenis heeft zich in de afgelopen vijf jaar voorgedaan, maar er kan  
+geen schadebedrag worden bepaald omdat er onvoldoende (betrouwbare) informatie 
+is over het onderwerp. 
+De ILT zal dit in een volgende editie van de IBRA zo mogelijk kwantificeren 
+0 =  de ongewenste gebeurtenis heeft zich in de afgelopen vijf jaar niet voorgedaan, of de  
+schade uit de ongewenste gebeurtenis is in het kader van de IBRA te verwaarlozen.
+<leeg> =  Niet van toepassing
+Maatschappelijke schade Maatschappelijke schade is de schade aan de dagelijkse gang van zaken (maatschappij) waar de 
+Nederlandse gemeenschap voor opdraait. Dit betreft fysiek letselschade, economische schade, 
+milieuschade en gezondheidsschade.
+Marktwerking Er is sprake van marktwerking als er vrij handelsverkeer (goederen, personen, diensten en kapitaal) 
+is binnen een markt. De Europese Commissie stelt gelijke spelregels op voor alle deelnemers 
+binnen de interne Europese markt (level playing field) om concurrentievervalsing tegen te gaan. Zo 
+wil zij vrije marktwerking bevorderen.
+Milieuschade De ongewenste gebeurtenis veroorzaakt schaarste in een of meer grondstoffen, vervuilt het milieu 
+of vernietigt het milieu. De ILT rekent de milieueffecten met milieuprijzen (CE Delft) naar 
+schadebedragen.
+Omschrijving onderwerp Korte beschrijving van het onderwerp en de daaraan gerelateerde schade.
+Omschrijving ongewenste Korte beschrijving van de ongewenste gebeurtenis en de daaraan gerelateerde schade.
+gebeurtenis
+Onderwerp Thema, waar de ILT een taak heeft, met een of meer ongewenste gebeurtenissen.
+Ongewenste gebeurtenis Een gebeurtenis of incident met een negatieve maatschappelijke impact.
+Overzicht van ongewenste Een overzicht van alle ongewenste gebeurtenissen bij een onderwerp. De ILT heeft als taak deze 
+gebeurtenissen gebeurtenissen te voorkomen en te voorkomen dat ze tot maatschappelijke schade leiden.
+Populatie Beschrijving van de mensen die schade kunnen leiden door de ongewenste gebeurtenis kunnen 
+lopen. Tevens een indicatie van de hoeveelheid mensen die risico lopen. De ILT gebruikt hierbij de 
+volgende categorieën:
+1-10
+10-100
+100-1.000
+1.000-10.000
+10.000-100.000
+100.000-1.000.000
+1.000.000-10.000.000
+meer dan 10 miljoen
+Publieksperceptie onderzoek Onderzoek in opdracht van de ILT om inzicht te krijgen in de publieksopvattingen ten aanzien van 
+haar werkterreinen. 
+Regelgeving en doel De regelgeving gaat over wettelijke bepalingen die risicodragende activiteiten reguleren. Het doel 
+gaat over welk effect de regels moeten hebben in het kader van bijvoorbeeld veiligheid of kwaliteit 
+van de leefomgeving.
+Risicocategorie De verschillende categorieën, waarin de ILT de maatschappelijke schades verdeelt:
+Fysiek letselschade in aantal doden en zwaar/licht gewonden
+Gezondheidsschade in €, of ziektelast in DALY’s
+Milieuschade in €, of in aantal ton met soort stof 
+Economische schade in €
+Schade (z)onder norm Dit is maatschappelijke schade waarvoor in wetgeving nog geen norm is opgenomen (schade 
+zonder norm) of die onder de norm blijft, maar wel degelijk schadelijk is voor mens en milieu 
+(schade onder norm). Deze schadelijke activiteiten vallen buiten het toezicht van de ILT. 
+Taak van de ILT Bewaken en stimuleren van de naleving van wet- en regelgeving, waarvoor de ILT is aangewezen. 
+Hiermee wil de ILT een of meer ongewenste gebeurtenissen zoveel mogelijk voorkomen.
+Toezicht door de ILT Een beschrijving van hoe de ILT het toezicht vormgeeft.
+Inspectie Leefomgeving en Transport | 266

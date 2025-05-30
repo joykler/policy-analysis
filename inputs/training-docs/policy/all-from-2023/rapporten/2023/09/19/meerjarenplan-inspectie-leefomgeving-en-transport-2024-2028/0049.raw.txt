@@ -1,0 +1,35 @@
+13. Cybersecurity en fysieke veiligheid 
+Maatschappelijke doelen  
+De ILT zet zich in voor het voorkomen en beperken van maatschappelijke schade die ontstaat door cyberincidenten. Hiervoor 
+houdt de ILT toezicht op de sectoren drinkwater, luchtvervoer, spoorvervoer, wegvervoer en vervoer over water (inclusief 
+havens). In de Wet beveiliging netwerk- en informatiesystemen (Wbni) is vastgelegd dat aanbieders van essentiële diensten 
+(AED’s) passende en evenredige maatregelen moeten nemen om hun netwerk- en informatiesystemen te beveiligen 
+(zorgplicht). En dat zij incidenten met (mogelijk) ernstige gevolgen moeten melden (meldplicht). De ILT houdt toezicht op de 
+34 organisaties die op dit moment zijn aangemerkt als AED’s. 
+Namens de minister van IenW ziet de ILT erop toe dat de AED's, zoals drinkwaterbedrijven, hun digitale weerbaarheid op een 
+voldoende niveau brengen en houden. Op deze manier draagt de ILT bij aan de (digitale) veiligheid van de vitale infra-
+structuur. 
+Tegelijkertijd moet de ILT zorgen voor de cyberveiligheid van de eigen organisatie.  Hiervoor werkt de ILT aan een goede 
+beveiliging van informatie over toezicht, zodat deze niet in verkeerde handen kan komen en er maatschappelijke schade kan 
+ontstaan. 
+Ontwikkelingen 
+De ILT houdt rekening met een mogelijk flinke toename van het aantal AED's binnen het IenW-domein door de Europese 
+Richtlijn kritieke entiteiten (CER) en de Richtlijn Netwerk en Informatiebeveiliging (NIB 2). Deze gevolgen worden in kaart 
+gebracht in de zogeheten 'transpositiefase' in 2023 en 2024. De Wbni, het Besluit beveiliging netwerk- en informatiesystemen 
+(Bbni) en de Ministeriële regeling bestaan deels uit open normen. Om effectief en uniform toezicht uit te kunnen voeren, 
+heeft de ILT een aanvullend normen- en toetsingskader opgesteld. 
+De digitalisering van het toezichtdomein, en de ontwikkelingen in de wetgeving en technologie bieden de ILT mogelijkheden 
+om het toezicht verder te ontwikkelen. De ILT zal daarbij ook  de specifieke kennis van de organisatie van netwerk- en 
+informatiebeveiliging van kritieke entiteiten en sectoren moeten versterken.  
+De ILT zoekt actief de samenwerking met andere toezichthouders, bijvoorbeeld door het uitbrengen van een gezamenlijk 
+Inspectiebeeld en het uitwisselen van kennis en expertise. Regelmatig vindt overleg plaats met het Nationaal Cyber Security 
+Centrum (NCSC), om zowel dreigingsbeelden te delen als actuele dreigingen via het Computer Emergency Response Team 
+(CERT) van het NCSC te bespreken. 
+Focus van de ILT  
+De ILT verbetert de informatiepositie rondom de AED's. Gestart wordt met een self-assessment dat risicogericht wordt 
+opgevolgd met onder andere verdiepende en thematische inspecties, of bijvoorbeeld besturingstoezicht, door cybersecurity-
+inspecteurs in samenwerking met inspecteurs uit de betreffende sector. 
+Ook richt de ILT zich op de opbouw en uitwisseling van kennis, het ontwikkelen van toezichtmethodieken en het coördineren 
+en verder uitbreiden van nationale en internationale samenwerking. 
+  
+49

@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+2. Uitstoot door onveilig verkeersproduct en mobiele machine
+Omschrijving ongewenste gebeurtenis
+De emissiewaarden van verkeersproducten en de verbrandingsmotoren in mobiele machines zijn mogelijk te hoog als zij 
+geen typegoedkeuring hebben of niet voldoen aan de eisen van typegoedkeuring. Belangrijk hierbij is de uitstoot van 
+stikstof en fijnstof, maar ook roet door het ontbreken van een filter. Als het product niet voldoet aan de voorschriften 
+kan door te hoge emissiewaarden aanvullende gezondheids- en milieuschade ontstaan. 
+Toezicht door de ILT
+De ILT is belast met het markttoezicht op fabrikanten, importeurs en distributeurs van verkeersproducten waarvoor 
+goedkeuringseisen zijn vastgesteld of die zijn aangewezen door de Minister. Fabrikanten mogen geen verkeersproducten 
+en mobiele machines op de markt brengen die niet door de Europese Unie zijn goedgekeurd, voor zover ze over zo’n 
+goedkeuring moeten beschikken. Als producten een goedkeuring hebben betekent dit dat zij voldoen aan bepaalde 
+milieuvoorschriften. 
+Fijnstofemissies zijn een bron van luchtverontreiniging. Dit onderwerp valt niet binnen het toezichtveld van de ILT, 
+omdat emissienormen voor fijnstof ontbreken.
+Populatie
+Alle Nederlanders hebben hinder van deze uitstoot. De populatie valt dus in de categorie groter dan 10 miljoen.
+Frequentie
+Verkeersproducten en de interne verbrandingsmotoren van mobiele machines stoten voortdurend stikstof, fijnstof en 
+roet uit. De frequentie is dus continue.
+Effecten
+Milieu en Gezondheidsschade
+Er zijn bij de ILT geen rapporten bekend die gaan over de milieu- of gezondheidsschade veroorzaakt door verkeerspro-
+ducten en de interne verbrandingsmotoren van mobiele machines die niet aan de goedkeuringseisen voldoen. Wel 
+publiceert de CE Delft in 2002 een onderzoek, waarin staat dat de effecten van de uitstoot van alle verkeer in Nederland 
+ruim 40.000 DALYS per jaar zijn [21]. Als de ILT deze verloren levensjaren in geld uitdrukt, is de schade op het gebied van 
+gezondheid voor Nederland ongeveer € 3,5 miljard [21]. Verkeersproducten die niet voldoen aan de eisen van typegoed-
+keuring veroorzaken een deel van de uitstoot van alle verkeer. Niet bekend is welk deel.
+Uit onderzoek van de Radboud Universiteit in 2016 blijkt dat er in Europa door het emissieschandaal van Volkswagen 
+44.000 gezonde levensjaren verloren gaan door een te hoge uitstoot van stikstofoxide over een periode van 7 jaar [22].
+Autofabrikant Volkswagen had het verbrandingsgedrag van dieselmotoren gemanipuleerd. Wanneer de boordcomputer 
+zag dat een officiële test werd uitgevoerd, werd de stikstofuitstoot gereduceerd tot onder de maximale norm. Zo kon de 
+auto op de weg worden toegelaten. Het gezondheidseffect door dit emissieschandaal alleen al komt voor Nederland 
+neer op ongeveer 1.500 verloren levensjaren. Als de ILT deze verloren levensjaren in geld uitdrukt, is de gezondheids-
+schade voor Nederland ongeveer € 100 miljoen.
+Berekening: het Nederlands aandeel van de bevolking in Europa is 3,3%. Dit vermenigvuldigen met het aantal verloren 
+levensjaren in Europa (ongeveer 1.500). Dit vermenigvuldigen met de prijs voor een verloren levensjaar à € 70.000. Dit is 
+ongeveer € 100 miljoen.
+Dit voorbeeld geeft aan dat er grote schadebedragen aan de orde kunnen zijn bij de uitstoot van verkeersproducten en 
+mobiele machines. 
+De berekening hierboven zegt echter weinig over het totale jaarlijkse schadebedrag behorend bij deze ongewenste 
+gebeurtenis. Om deze reden kan de ILT geen schadebedrag vaststellen (#).
+Fysiek letsel en Economie
+Niet van toepassing.
+Inspectie Leefomgeving en Transport | 215

@@ -1,0 +1,58 @@
+3.23 Koopkrachtmaatregelen 
+ 
+Korte beschrijving van de maatregel 
+In het Belastingplan 2024 zijn enkele maatregelen in de Inkomstenbelasting (IB) opgenomen die de lasten (op 
+arbeid) van burgers beïnvloeden. De maatregelen vloeien voort uit de augustusbesluitvorming. 
+ 
+a. Verhogen tarief eerste schijf ter dekking zorgpremies en als invulling resterende taakstelling 
+belastingconstructies en fiscale regelingen 
+b. Verhogen tweede knikpunt in de arbeidskorting met € 115 
+c. Verlagen aanvangspunt toptarief IB door beperken indexatie (met 3,55% i.p.v. 9,9%) 
+d. Verlagen aanvangspunt tweede schijf voor gepensioneerden door beperken indexatie (met 3,55% 
+i.p.v. 9,9%) 
+ 
+Daarnaast is tijdens de augustusbesluitvorming ook het voornemen uit de startnota om de 
+jonggehandicaptenkorting te halveren teruggedraaid. Dit betekent dat de jonggehandicaptenkorting in 2024 en 
+2025 niet wordt verlaagd. Omdat deze verlaging nog niet was opgenomen in wetgeving, hoeft de halvering ook 
+niet teruggedraaid te worden in het Belastingplan 2024. Wel was de budgettaire opbrengst van halvering 
+eerder al verwerkt in het inkomstenkader, waardoor nu een corresponderende derving is ingeboekt. 
+ 
+Tabel 1: Budgettaire effecten maatregel 
+Bedragen in mln euro, ‘+’ = saldoverbeterend/lastenverzwarend.  
+Prijzen jaar van invoering (2024) 
+Maatregel 2024 2025 2026 2027 2028 Struc Struc 
+jaar 
+a. Aanpassen TES 272 420 384 488 387 338 2029 
+b. Verhogen AK 2e knikpunt met € 115 -207 -207 -207 -207 -207 -207 2024 
+c. Verlagen aanvangspunt toptarief 1622 1622 1622 1622 1622 1622 2024 
+d. Verlagen aanvangspunt 2e schijf 
+244 247 250 253 256 351 2060 
+AOW’ers 
+ 
+Kern van de raming 
+De budgettaire effecten waarop deze ramingstoelichting betrekking heeft zijn gebaseerd op berekeningen uit 
+het microsimulatiemodel MIMOSI van het Centraal Planbureau (CPB). Het model is gebaseerd op gegevens uit 
+de IPO-steekproef uit 2018 van het Centraal Bureau voor de Statistiek. Dit is een betrouwbaar model dat ook 
+gebruikt wordt door het CPB. De onzekerheid in de ramingen is daarom naar verwachting relatief beperkt. 
+De reeksen van bovenstaande maatregelen staan in bovenstaande tabel in prijzen jaar van invoering. Deze zijn 
+gebaseerd op de versie van MIMOSI op basis van de cMEV 2024. Om rekening te houden met de interactie 
+tussen de maatregelen zijn ze op volgorde doorgerekend. De maatregelen zijn doorgerekend op volgorde a – b 
+9
+- terugdraaien halveren jonggehandicaptenkorting – c - d.  
+ 
+De procentuele aanpassingen van het tarief eerste schijf zijn weergeven in onderstaande Tabel 2.  
+ 
+Tabel 2: TES mutaties 
+TES-boekhouding 2023 2024 2025 2026 2027 2028 struc struc jaar 
+ 
+basispad CEP2023 36,93% 36,91% 36,96% 36,96% 36,96% 36,88% 36,88% 
+ 
+taakstelling constructies 0,03% 0,05% 0,07% 0,08% 0,08% 0,08% 2027 
+ 
+basispad cMEV2024 36,93% 36,94% 37,01% 37,03% 37,04% 36,96% 36,96% 
+ 
+9
+ Het budgettaire effect van terugdraaien van de verlaging van de jonggehandicaptenkorting zoals opgenomen in het 
+inkomstenkader is niet de reeks o.b.v. Mimosi, maar betreft de tegengestelde reeks van de na de startnota al ingeboekte 
+opbrengst van verlagen. Hiermee is het effect van het voornemen + terugdraaien van dit voornemen per saldo 0. De 
+maatregel is wel geprogrammeerd in Mimosi vanwege de interactie met andere maatregelen.

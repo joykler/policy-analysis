@@ -1,0 +1,61 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+De ILT gaat er in deze schatting vanuit dat alle sectoren hieraan evenredig bij moeten dragen, dus dat dit krimppercenta-
+ge ook geldt voor de uitstoot door de luchtvaart. Daarbij beperkt de EU richtlijn deze doelstelling bij de luchtvaart tot de 
+uitstoot tijdens de start- en landingscyclus van vliegtuigen [13].
+De schade wordt berekend op basis van de uitstoot in kilogrammen maal de milieuprijzen uit het handboek van CE Delft 
+2023 [12].
+CO 
+2
+Volgens het CBS bedroeg de uitstoot van CO in 2021 7.948 miljoen kilogram [14]. De milieuprijs voor CO bedraagt  
+2 2
+€ 0,13 per kilogram [12]. 
+Op basis van de totale uitstoot door de luchtvaart bedraagt de schade in 2021 (7.984 miljoen kilogram x 0,13 =)  
+€ 1.033 miljoen.
+De uitspraak in de Urgendazaak betekent dat de uitstoot van CO in 2020 (minimaal) 25% lager moet zijn dan in 1990 [11]. 
+2
+In 1990 stootte de luchtvaart 5.298 miljoen kilogram CO uit. De uitstoot in 2020 zou dan maximaal (5.298 * 75%=) 3.974 
+2
+miljoen kilogram mogen zijn. Dit betekent dat door de luchtvaart in 2021 (7.948 - 3974=) 4.010 miljoen kilogram CO 
+2
+meer dan de Urgenda limiet is uitgestoten. De schade bedraagt dan (4.010 miljoen kilogram x 0,13) = € 521 miljoen. 
+NO
+x
+Volgens het CBS werd in 2021 werd 36,2 miljoen kilogram aan NO uitgestoten [14]. De milieuprijs voor NO bedraagt  
+x x
+€ 29,9 per kilogram. 
+Op basis van de totale uitstoot in 2021 bedraagt de schade (36,2 miljoen kilogram x € 29,9 =) € 1.082 miljoen.
+Voor het schadebeeld van uitstoot die hoger is dan de EU richtlijn in 2029 toestaat geldt de volgende berekening:
+• De EU richtlijn vermeldt expliciet dat voor de berekening van de reductie alleen gekeken wordt naar de uitstoot tijdens 
+de start- en landingscyclus. De ILT schat in dat circa 7% van de uitstoot van NO tijdens deze cyclus wordt uitgestoten. 
+x
+Voor de berekening van de schade zonder norm neemt de ILT aan dat de reductiedoelstelling geldt voor de totale 
+uitstoot door de luchtvaart. 
+• De EU richtlijn hanteert voor de periode 2020-2029 een reductiedoel van 45% ten opzichte van het basisjaar 2005. 
+In 2005 bedroeg de uitstoot van NO in 2005 46 miljoen kilogram [14]. Een reductie van 45% ten opzichte van 2005 zou 
+x
+betekenen dat de luchtvaart maximaal (46 miljoen kilogram * 55%=) 25,3 miljoen kilogram mag uitstoten in 2029. 
+• In 2021 is dus door de luchtvaart nog (36,2 miljoen kilogram - 25,3 miljoen kilogram =) 10,9 miljoen kilogram NO meer 
+x
+uitgestoten dan het beoogde EU doel.  
+• De schade door deze hogere uitstoot van NO bedraagt dan (10,9 miljoen kilogram x €29,9 =) € 326 miljoen. 
+x
+SO en NMVOS
+2
+Volgens het CBS bedroeg de uitstoot van SO en NMVOS door de luchtvaart in 2021 respectievelijk 4,1 miljoen kilogram 
+2
+en 1,1 miljoen kilogram [15]. De milieuprijs voor SO bedraagt € 57,5 per kilogram. De milieuprijs voor NMVOS bedraagt  
+2
+€ 2,71 per kilogram. 
+Op basis van de totale uitstoot van SO door de luchtvaart in 2021 bedraagt de schade door (4,1 miljoen kilogram x  
+2
+€ 57,5 =) € 120,8 miljoen.
+Op basis van de totale uitstoot van MNVOS door de luchtvaart in 2021 bedraagt de schade (1,1 miljoen kilogram x  
+€ 2,71 =) € 2,98 miljoen.
+Voor het schadebeeld van de uitstoot die hoger is dan de EU richtlijn in 2029 toestaat geldt de volgende berekening:
+• Ook voor SO en NMVOS vermeldt de EU richtlijn expliciet dat voor de berekening van de reductie alleen gekeken 
+2
+wordt naar de uitstoot tijdens de start- en landingscyclus. De ILT schat in dat circa 4% van de uitstoot van SO tijdens 
+2
+deze cyclus wordt uitgestoten. Voor NMVOS is dat 32%. Voor de berekening van de schade zonder norm hanteert de 
+ILT de reductiedoelstelling ook voor de totale uitstoot door de luchtvaart. 
+Inspectie Leefomgeving en Transport | 199

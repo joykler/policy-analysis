@@ -1,0 +1,46 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+2. Uitstoot van NO door wegverkeer 
+x
+Omschrijving ongewenste gebeurtenis
+Bij verbranding van brandstoffen, door het wegverkeer, komt stikstofoxide door uitstoot in de lucht terecht. Dit heeft 
+milieuschade tot gevolg. 
+Toezicht door de ILT
+In een Kamerbrief van het ministerie van Landbouw, Natuur en Voedselkwaliteit in 2020 [4] is opgenomen dat (gericht) 
+toezicht en handhaving geïntensiveerd moet worden, om manipulatie met AdBlue-systemen te voorkomen. Als 
+onderdeel van de set maatregelen om de stikstofdepositie te verminderen is er ook een verwachtingswaarde benoemd, 
+namelijk een stikstofdepositiereductie van 2,0 mol/ha/jaar in 2030. De ILT is niet de enige toezichthouder op het gebruik 
+van AdBlue; een additief voor dieselmotoren om de uitstoot van NO te beperken. De politie handhaaft eveneens.
+x
+Populatie
+Vrijkomen van stikstofoxide raakt de gehele bevolking, dus meer dan 10 miljoen personen.
+Frequentie
+Uitstoot van stikstofoxide door wegverkeer komt dagelijks, dus continu, voor.
+Effecten
+Milieu
+De ILT schat de emissietoename van stikstofoxiden, door de manipulatie van AdBlue, op 2,3 kiloton NO in 2020 en op 
+x
+2,7 kiloton NO in 2030. Deze schatting baseert de ILT op de aanname dat er AdBlue-manipulatie plaatsvindt bij 5% van 
+x
+alle Euro V en Euro VI vrachtwagens en dat de emissie van deze vrachtwagens toeneemt naar 10g NO per kilogram CO . 
+x 2
+Van beide aannamen wordt gesteld, dat het voorzichtige schattingen zijn.
+NO heeft een milieuprijs van € 29,90 per kilo [5]. De ILT berekent een maatschappelijke schade van € 68,7 miljoen.
+x
+Schade (z)onder norm
+Naast zwaveldioxide en stikstofoxide schaadt de uitstof van fijnstof het milieu en de gezondheid en de economie. Voor 
+de uitstoot van fijnstof door wegverkeer ontbreken emissienormen. In 2021 is het wegverkeer landelijk gezien verant-
+woordelijk voor de uitstoot van circa 3,5 miljoen kilogram fijnstof (PM). Dit is circa 14% van de totale uitstoot aan 
+10
+fijnstof binnen Nederland [7]. De uitstoot van fijnstof door het wegverkeer is al jaren dalende (1990: 19,33 miljoen kg; 
+2000: 11,88 miljoen kg; 2010: 6,57 miljoen kg; 2015: 4,45 miljoen kg; 2021 3,54 miljoen kg). 
+In deze IBRA berekent de ILT de schade door emissies van schadelijke stoffen op basis van de milieuprijzen in het 
+handboek Milieuprijzen van CE Delft 2017. Voor fijnstof hanteert CE Delft een milieuprijs van € 69,3/kg. Op basis van de 
+milieuprijzen voor fijnstof PM wordt de milieuschade van deze uitstoot geschat op (3,5 miljoen kg x € 69,3/kg =) € 242,6 
+10
+miljoen. 
+In een vorige versie van de IBRA (2021) kwam de berekende milieuschade als gevolg van uitstoot van luchtverontreini-
+gende stoffen in het wegverkeer nog uit op een bedrag tussen de €2 en €8 miljard. Op basis van nieuwe inzichten lijkt er 
+eerder sprake te zijn geweest van een overschatting door onjuiste vertaling van (de aannames uit) een eerdere RIVM 
+rapportage [8]. Daarom dat er in de IBRA 2023 een methodologische aanpassing is doorgevoerd. De ILT denkt hiermee 
+een meer correcte benadering van het werkelijke schadebedrag te geven. 
+Inspectie Leefomgeving en Transport | 211

@@ -1,0 +1,39 @@
+3.11 Aanpassing samenloopvrijstelling bij aandelentransacties 
+ 
+Korte beschrijving van de maatregel 
+De levering van nieuwe onroerende zaken is belast met btw. De verkrijging van bestaande onroerende zaken 
+wordt in de regel belast met overdrachtsbelasting. Door nieuwe onroerende zaken indirect te leveren, dat wil 
+zeggen door overdracht van de aandelen van de BV waartoe de onroerende zaken behoren, kan worden 
+bereikt dat geen btw en geen overdrachtsbelasting verschuldigd zijn. Dit is ongewenst. Het voorstel houdt in 
+dat de samenloopvrijstelling geen toepassing vindt bij de verkrijging van een kwalificerend aandelenbelang in 
+een zogenoemde onroerendezaakrechtspersoon als niet is voldaan aan het hieronder beschreven 90%-
+criterium. 
+ 
+De maatregel introduceert een nieuw tarief in de overdrachtsbelasting van 4%. De vaststelling op 4% voorkomt 
+de op grond van deze maatregel te heffen overdrachtsbelasting en mogelijk aanwezige btwvoordruk samen tot 
+een hogere uiteindelijke belastingdruk leiden dan wanneer de betreffende onroerende zaken rechtstreeks 
+waren geleverd en daarover btw tegen het algemene btw-tarief zou zijn geheven.  
+ 
+Voor de afbakening van de werkingssfeer steunt het voorstel op een criterium uit de btw: als de door middel 
+van aandelen indirect overgedragen nieuwe ongebruikte onroerende zaken of rechten waaraan zij zijn 
+onderworpen gedurende twee jaren na de verkrijging voor 90% of meer worden gebruikt voor btw-belaste 
+leveringen of diensten, blijft de samenloopvrijstelling van toepassing en wordt dus niet geheven volgens het 
+nieuw tarief. 
+ 
+De maatregel voorziet in overgangsrecht. De overgangsregeling ziet op verkrijgingen die plaatsvinden vóór 
+2030, en waartoe de intentie nu reeds blijkt uit een overeenkomst die is bereikt voorafgaand aan het moment 
+van indiening van het wetsvoorstel. 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Aanpassing samenloopvrijstelling bij aandelentransacties 0 0 0 32 64 
+ 
+Kern van de raming 
+Gegevens voor overdrachten die binnen de samenloopvrijstelling vallen worden geleverd door het 
+Vastgoedkenniscentrum (VKC) van de Belastingdienst.  Op basis van deze gegevens wordt geschat dat er 
+jaarlijks voor circa 1,6 miljard aan overdrachten plaatsvindt die gebruik maken van een 
+vastgoedaandelentransactie. Deze maatregel houdt in dat het OVB-tarief wordt verhoogd naar 4% voor deze 
+transacties. We nemen aan dat het transactievolume wegens gedragseffecten zal afnemen met 20%. Met de 
+inclusie van het overgangsrecht bedraagt de structurele opbrengst van deze maatregel € 64 miljoen per jaar 
+vanaf 2028 in prijzen van 2025.

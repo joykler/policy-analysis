@@ -1,0 +1,58 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage D IBRA schade en maatschappelijke opgaven
+Onderwerp Totale 
+factsheet Ongewenste gebeurtenis schade
+Drinkwater Verontreinigd drinkwater             ja     0,00
+Drinkwater Verontreinigd drinkwater BES-eilanden             ja     0,00
+Duurzame producten Gebruik van schaarse stoffen (ecodesign)     ja             0,00
+Duurzame producten Onnodig energieverbruik (ecodesign) ja                 201,00
+Duurzame producten Uitstoot van NOx (ecodesign)         ja   ja     22,43
+Duurzame producten Uitstoot van overige schadelijke stoffen             ja     0,05
+(ecodesign)
+Energielabels Onnodig brandstofverbruik, geluid en grip ja                  
+bij personenauto’s en autobanden
+Energielabels Onnodig energieverbruik in woonhuizen ja                 0,00
+en (utiliteits)gebouwen
+Geluid trilling           ja       0,00
+Geluid Geluidsoverlast luchtvaartuig regionale           ja       0,00
+luchthavens
+Geluid Geluidsoverlast luchtvaartuig Schiphol           ja       5,90
+Geluid Geluidsoverlast rail           ja       10,00
+Geluid Geluidsoverlast wegverkeer           ja       25,60
+Genetisch gemodificeerde Ongewenste verspreiding GGO             ja      
+organismen
+Infrastructuur weg Schade aan wegdek               ja   90,00
+Legionella legionellabesmetting opgelopen via                 ja 0,40
+drinkwaterinstallatie van prioritaire 
+inrichting BES-eilanden
+Legionella Legionellabesmetting via                 ja 264,44
+drinkwaterinstallatie van prioritaire 
+instelling
+Lozing scheepvaart Lozing van schadelijke stoffen door           ja       18,00
+scheepvaart (zeevaart, binnenvaart, visserij)
+Lozing scheepvaart Lozing van schadeljke stoffen door           ja       0,03
+scheepvaart op de BES-eilanden (SV TEAM)
+Ongeval busvervoer Ongeval personenvervoer bus               ja   133,41
+Ongeval luchtvaart Arbeidsongeval luchtvaartpersoneel                 ja 2,61
+Ongeval luchtvaart Arbeidsongeval luchtvaartpersoneel                 ja  
+BES-eilanden
+Ongeval luchtvaart Ongeval door onveilige luchtvaart               ja   41,42
+Ongeval luchtvaart Ongeval door onveilige luchtvaart op               ja   0,14
+BES-eilanden
+Ongeval onbemande Ongeval met onbemande luchtvaart               ja   0,00
+luchtvaart (drones)
+Ongeval railvervoer Ongeval door onveilige kabelbaan               ja   0,00
+Ongeval railvervoer Ongeval op onveilig hoofdspoor               ja   58,99
+Ongeval scheepvaart Ongeval met schade aan schip /               ja   51,69
+bemanning / lading / milieu
+Inspectie Leefomgeving en Transport | 257
+Klimaat en energie
+Klimaatadaptatie
+Circulaire economie
+Woningbouwopgave
+Stikstofopgave
+Slimme groene 
+mobiliteit
+Groene industrie
+Verkeer: veiligheid en 
+solide infrastructuur
+Overige opgaven

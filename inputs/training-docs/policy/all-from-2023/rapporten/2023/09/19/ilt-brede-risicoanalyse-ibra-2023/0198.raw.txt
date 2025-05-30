@@ -1,0 +1,58 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+1. Uitstoot van schadelijke stoffen door luchtvaart op Schiphol
+Omschrijving ongewenste gebeurtenis
+De ongewenste uitstoot van de luchtvaart draait volgens het LVB om de schadelijke stoffen stikstofoxiden (NO), fijnstof 
+x
+(PM ), zwaveldioxide (SO ), vluchtige organische stoffen (VOS) en koolmonoxide (CO). Deze stoffen veroorzaken 
+10 2
+milieu- en gezondheidsschade. De ongewenste gebeurtenis bestaat uit het overschrijden van de grenswaarden die 
+wettelijk vastgelegd zijn [3].
+Toezicht door de ILT
+De ILT ziet toe op de uitstoot van schadelijke stoffen in de luchtvaart boven de grenzen per hoeveelheid vliegtuiggewicht. 
+De gemiddelde uitstoot per vliegtuigbeweging neemt licht af door de schonere motoren van nieuwere vliegtuigen. 
+Echter, de groei van het aantal vliegtuigbewegingen op Schiphol kan de absolute hoeveelheid uitstoot van schadelijke 
+stoffen doen stijgen. Er is echter geen wettelijke norm in het Luchthavenverkeerbesluit Schiphol (LVB) voor deze totale 
+hoeveelheid uitstoot. Daarom kan de ILT daar niet op handhaven. De ILT stelt alleen vast of de jaarlijkse resultaten van 
+de uitstootberekeningen volgens de RMI binnen de in het LVB gestelde grenzen vallen [5]. Hier heeft de ILT de afgelopen 
+jaren geen overschrijdingen geconstateerd [7].
+Populatie
+Het aantal burgers binnen de invloedssfeer van Schiphol valt in de categorie: 100.000 - 1 miljoen personen.
+Frequentie
+Deze eeuw is eenmalig, in het jaar 2005, sprake van een mogelijk overschrijding geweest. Het betrof overschrijdingen 
+van de relatieve normen voor CO en VOS. Het LVB dat in 2005 gold, schreef voor om in een dergelijk geval naar de totale 
+uitstoot van de schadelijke stoffen te kijken. Deze viel wel binnen de normen voor beide stoffen. Daarmee is er dus geen 
+overschrijding geweest en is de frequentie niet van toepassing of nul.
+Effecten
+Milieu en gezondheidsschade
+De Staat van Schiphol toont de uitstoot per vliegtuigbeweging in de periode van 2016-2020 [8]. Alleen de waarden voor 
+de relatieve uitstoot van NO stijgen. Volgens de Emissieregistratie vormt in 2019 de uitstoot door de luchtvaart van NO 
+x x
+met 3,9 miljoen kilogram slechts 1,2% van de totale uitstoot in Nederland (329,8 miljoen kilogram). Het CBS gaat uit van 
+een meer zwaarwegende bijdrage van 14,1%. Zie ook de paragraaf ‘Schade (z)onder norm’ en de bijbehorende tabellen. 
+De politiek vraagt aandacht voor de schadelijke stof NO in verband met het NO-plafond. De uitstoot van alle schadelij-
+x x
+ke stoffen op Schiphol is in de periode van 2016-2020 binnen de normen van het LVB gebleven [8]. Het schadebedrag 
+voor milieu en ziektelast staat daarmee op €0,- en geen DALY’s.
+Schade (z)onder norm
+De ILT houdt toezicht op de naleving van normen en regels die voortvloeien uit de Wet luchtvaart. De normen die de ILT 
+op grond van de Wet luchtvaart hanteert gaan over de uitstoot tot 3000 voet. De ILT houdt wat betreft de uitstoot alleen 
+toezicht op Schiphol, omdat er voor de andere Nederlandse luchthavens waar ILT milieutoezicht uitoefent geen 
+grenswaarden zijn gesteld.
+Voor de schade (z)onder norm berekent de ILT alle uitstootschade door de luchtvaart in Nederland. Hierin wordt dus ook 
+de schade door uitstoot boven de 3000 voet meegenomen. De schadelijke effecten van de uitstoot beschrijft de ILT 
+hierna op twee manieren. Allereerst wordt de schade op basis van de totale uitstoot door de luchtvaart maal de 
+milieuprijs weergegeven. Daarna berekent de ILT de schade door de uitstoot die hoger is dan doelen van emissiereductie. 
+Deze laatste berekening is de basis voor de door de ILT berekende schade zonder norm. 
+Voor de emissie reductie van CO baseert de ILT zich op de rechterlijke uitspraak in de ‘Urgenda’ zaak, waarin de rechter 
+2
+bepaalde dat de uitstoot van CO in 2020 25% lager zou moeten zijn dan in 1990 [11]. 
+2
+Voor reductie van zwaveldioxide (SO ), stikstofoxiden (NO) en vluchtige organische stoffen met uitzondering van 
+2 x
+methaan (NMVOS) hanteert de ILT de doelen uit de EU-richtlijn voor de vermindering van de nationale emissies van 
+bepaalde luchtverontreinigende stoffen. Deze doelen dienen in de jaren 2020-2029 bereikt dienen te worden. Voor de 
+jaren 2020 tot en met 2029 hanteert de richtlijn de volgende reducties ten opzichte van basisjaar 2005: 28% (SO), 45% 
+2
+(NO ) en 8% (NMVOS) [13].
+x
+Inspectie Leefomgeving en Transport | 198

@@ -1,0 +1,34 @@
+3.5 Verruiming HIR inzake stoppersregelingen 
+ 
+Korte beschrijving van de maatregel 
+Voor ondernemers in de inkomstenbelasting geldt dat de herinvesteringsreserve per onderneming kan worden 
+toegepast. Op basis van de wetssystematiek is het niet mogelijk om de herinvesteringsreserve over de grens 
+van de onderneming toe te passen. Indien een ondernemer meerdere ondernemingen heeft, kan een 
+herinvesteringsreserve die is gevormd in de ene onderneming dus niet worden gebruikt voor een 
+(her)investering in een andere onderneming. Voorgesteld wordt om toepassing van de herinvesteringsreserve 
+voor ondernemers in de inkomstenbelasting over de ondernemingsgrens mogelijk te maken in geval van een 
+staking van een gedeelte van een onderneming als gevolg van overheidsingrijpen. 
+ 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Verruiming HIR inzake stoppersregelingen 
+-1 -1 -1 -1 0 
+ 
+Kern van de raming 
+De raming is gebaseerd op het aantal potentiële gebruikers van de verruiming en de geschatte omvang van het 
+bedrag dat door middel van deze verruiming geherinvesteerd kan worden. Hierbij is uitgegaan van data van het 
+CBS en data van de Belastingdienst met betrekking tot de aangifte inkomstenbelasting. De verruiming betreft in 
+feite een uitbreiding van een mogelijkheid om belastinguitstel te realiseren. In dat kader is rekening gehouden 
+met een derving in verband met tijdswaarde, verminderde progressiviteit doordat inkomsten gespreid over tijd 
+kunnen worden, en een eventuele derving door afstel.  
+Het is de schatting dat het gemiddeld over de komende 10 jaar om een zestigtal agrarische bedrijven en een 
+paar niet-agrarische bedrijven gaat per annum, die gebruik kunnen maken van de verruiming. Gemiddeld wordt 
+verwacht dat er voor circa € 300.000 wordt geherinvesteerd bij gedeeltelijke staking. In de berekening van het 
+budgettaire belang wordt uitgegaan van een discontovoet van 2,5% en een gemiddelde afschrijvingstermijn op 
+de nieuwe investering van 20 jaar. Daarnaast wordt aangenomen dat in plaats van het hoge tarief in de 
+inkomstenbelasting na mkb-winstvrijstelling (44,33%) er belasting wordt betaalt tegen het gemiddelde 
+gewogen marginaal tarief van 40,42% voor agrariërs en het gewogen marginaal tarief van 38,35%  voor niet-
+agrarische bedrijven. Tezamen geeft dit een budgettaire derving van € 1 miljoen per jaar over de komende 10 
+jaar. De structurele derving nadien bedraagt naar verwachting nihil.

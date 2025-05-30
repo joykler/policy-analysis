@@ -1,0 +1,52 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Populatie
+Vrijkomen van schadelijke stoffen raakt de gehele bevolking, dus meer dan 10 miljoen personen.
+Frequentie
+In 2016 voeren binnenvaartschepen in totaal 2.760 ontgassingen uit [14]. Uit de emissieregistratie blijkt een emissie van 
+1.530 ton NMVOS in 2021 [15]. De emissieregistratie rapporteert ook een emissie van 54 ton tolueen en 17 ton benzeen 
+[15]. Ontgassen van ladingrestanten komt dagelijks dus continu voor.
+Effecten
+Milieu
+Ontgassen aan de lucht geeft vervuiling met vluchtige koolstofverbindingen. Dat leidt tot schade aan het milieu die later 
+in gezondheidsschade kan resulteren. 
+NMVOS: 1.530.000 kg * milieuprijs € 2,71 [24] = € 4,15 miljoen.
+Tolueen: 54.000 kg * milieuprijs € 0,434 [24]= € 0,02 miljoen.
+Benzeen: 17.000 kg * milieuprijs € 0,365 [24]= € 0,01 miljoen.
+De totale maatschappelijke schade bedraagt € 4,2 miljoen.
+NB: Dit is een onderschatting, want andere stoffen zijn niet meegenomen.
+Gezondheidsschade
+De ILT kan de gezondheidsschade, die op termijn ontstaat door de vervuiling met vluchtige koolstofverbindingen, niet 
+berekenen (#).
+Fysiek letsel en Economie
+Niet van toepassing.
+2. Uitstoot van SO2 door scheepvaart (zeevaart, binnenvaart, visserij)
+Omschrijving ongewenste gebeurtenis
+De zeevaart mag steeds minder SO uitstoten. Specifiek in SECA-gebieden zoals het Nederlandse kustgebied zijn de 
+2
+toegestane emissieniveaus zeer laag. Deze ongewenste gebeurtenis betreft de bovennormse emissie van SO door de 
+2
+scheepvaart. Deze problematiek speelt in de zeevaart en in de binnenvaart.
+Toezicht door de ILT
+De ILT ziet (onder andere) toe op de certificering van de samenstelling van brandstof van leveranciers en het zwavel-
+gehalte in brandstof aan boord van schepen.
+Populatie
+Vrijkomen van SO raakt de gehele bevolking, dus meer dan 10 miljoen personen.
+2
+Frequentie
+Sinds 2015 geldt voor de Noordzee een zwavelnorm van 0,1% zwavel in de brandstof. Uit ILT inspecties blijkt dat bij 
+maximaal 2% van de scheepsbewegingen het schip vaart met een te hoog zwavelgehalte [16]. Dit is een sterke afname, in 
+2015 bedroeg de niet naleving nog zo’n 10% [16].
+De ILT rekent met een niet-naleving van 2% van de vaarbewegingen met een zwavelgehalte van 0,2% in plaats van de 
+toegestane 0,1%.
+De uitstoot van SO door de zeescheepvaart is volgens het CBS (2021) 3,5 miljoen kilo [18] en komt dagelijks dus continu 
+2
+voor.
+Effecten
+Milieu
+De 2% niet naleving (door schepen die met brandstof varen die teveel zwavel bevat) levert een overschrijding op van 
+70.000 kg SO .
+2
+De milieuprijs van SO is € 57,5 per kilo [24].
+2
+Totale schade: 70.000 x 57,5 = € 4,0 miljoen.
+Inspectie Leefomgeving en Transport | 207

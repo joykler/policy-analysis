@@ -1,0 +1,55 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage E Toelichting op de IBRA-methodiek
+Stap 2 inschatting van de frequentie
+Voorvallen binnen een ongewenste gebeurtenis vormen vaak een groep van verschillende kleinere en grotere gebeurte-
+nissen. Bij dezelfde soort lekincidenten kan dat bijvoorbeeld variëren van enkele tot honderden liters van een stof. De ILT 
+kan de schade dan berekenen op basis van een representatief geval. Het resultaat vermenigvuldigt zij vervolgens met de 
+frequentie per jaar.
+Een representatief geval is bijvoorbeeld het gewogen gemiddelde van bekende incidenten. Bij een extreem grote 
+diversiteit aan gevallen bepaalt de ILT de representativiteit op basis van een scenarioanalyse. Denk hierbij aan ongeval-
+len met verschillend geclassificeerde stoffen, in plaats van met cijfers voor elke mogelijke stof. 
+Stap 3 Inschatting van het effect
+Om het effect in te schatten berekent de ILT de jaarlijkse maatschappelijke schade van ongewenste gebeurtenissen, die 
+binnen een IBRA-onderwerp zijn gedefinieerd.
+Voor het effect kijkt de ILT naar de negatieve gevolgen van de ongewenste gebeurtenissen voor mens en milieu in de 
+volgende 4 schadecategorieën: 
+• Fysieke letselschade: het aantal doden en gewonden door ongevallen. 
+• Gezondheidsschade: het verlies van levenskwaliteit of levensduur door blootstelling aan ongezonde stoffen en straling, 
+uitgedrukt in verloren jaren in gezondheid  (Disability Adjusted Life Years, DALY)  
+• Milieuschade: het verlies van of schaarste aan natuurlijke hulpbronnen, biodiversiteit en kwaliteit van bodem, water en 
+lucht door negatieve effecten van menselijk handelen. 
+• Economische schade: is het verlies van maatschappelijk kapitaal.
+Uitgangspunten bij het berekenen van schade zijn: 
+• Het uitgangspunt is dat de IBRA de maatschappelijke schade in beeld brengt die boven de norm ligt waarop de ILT 
+toezicht houdt. Waar maatschappelijke schade ontstaat ondanks naleving van wet- en regelgeving kan de ILT met het 
+oog op de reflectieve functie van het toezicht in de IBRA een aanvullend maatschappelijke schade (signaalschade) 
+beschrijven om zo het probleem te signaleren.
+• Bij leefomgevingsonderwerpen berekent de ILT de schade die toegerekend kan worden aan het toezicht van de ILT. Bij 
+transportonderwerpen hanteert de ILT de totale schade (door illegaliteit). 
+• De IBRA berekent in principe een gemiddelde van de schade over de periode van de afgelopen 5 jaar. Daarvan wordt 
+afgeweken als hiervoor onvoldoende informatie beschikbaar is of dat een andere periode een beter beeld geeft van de 
+schade. Dit kan bijvoorbeeld het geval zijn als het schadebeeld een sterk stijgende of dalende trend kent. 
+• De ILT rondt individuele schadeberekeningen af om de suggestie van een te hoge nauwkeurigheid te vermijden. Zie 
+ook ‘hierna onder het kopje ‘Onzekerheden in de schadeberekening
+• In het verleden veroorzaakte schades kan de ILT niet meer voorkomen. Bijvoorbeeld gezondheidsschade door het 
+werken met asbest. Daarom staan deze schades niet in de schadeberekeningen. De ILT noemt dit historische schade. 
+Niet-berekenbare schade (#)
+Soms heeft een ongewenste gebeurtenis zich in de afgelopen 5 jaar voorgedaan, maar kan er geen schadebedrag worden 
+bepaald omdat er onvoldoende informatie is over het onderwerp, of doordat beschikbare informatie onvoldoende betrouw-
+baar is. In dat geval merkt de IBRA de schade aan als een gebeurtenis met niet-berekenbare schade (#). Omdat wel sprake is 
+van schade, scoren de ongewenste gebeurtenissen met # schade in de IBRA in beginsel hoger dan die met 0 schade. 
+Onzekerheden in de schadeberekening
+De berekende schadebedragen van de verschillende ongewenste gebeurtenissen kennen een onzekerheidsmarge. 
+Dit komt door verschillende factoren: 
+• Soms zijn de exacte naleefcijfers (bij normoverschrijding) voor de berekening onbekend.  Voor die gevallen maakt de 
+ILT een schatting, gebaseerd op cijfers uit vergelijkbare toezichtgebieden of gebaseerd op ervaring van inspecteurs. 
+• Een ander bron van onzekerheid komt voort uit het gebruik van de verschillende manieren in de IBRA om een ongewenste 
+gebeurtenis te “beprijzen”. Voor milieuschade gebruiken we de milieuprijzen van CE-Delft, Op het terrein van transportvei-
+ligheid gebruiken we de beprijzing (voor doden en gewonden) in het model Value of a Statistical life (VSL), en voor verlies 
+7
+van levenskwaliteit de DALY  Grosso modo betekent dit dat de basis van de beprijzing voor milieuonderwerpen enerzijds 
+en transport en veiligheidsonderwerpen anderzijds verschillend is. Grote verschuivingen in één van de genoemde 
+methodes kunnen zo zorgen voor een verschuiving van de schade van mileu- versus transport en veiligheidsonderwerpen. 
+7 
+Zie voor deze methoden ook de paragraaf “Nieuwe milieuprijzen en kentallen voor verloren levensjaren” in de 
+hoofdtekst van het rapport.
+Inspectie Leefomgeving en Transport | 262

@@ -1,0 +1,52 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage E Toelichting op de IBRA-methodiek
+• Er kan onzekerheid zitten in door de ILT gebruikte brongetallen. Ook kunnen bepaalde data niet beschikbaar zijn. 
+De ILT maakt dan een interpretatie of een schatting op basis van verwante gegevens die wel voorhanden zijn. 
+Bijvoorbeeld als cijfers betrekking hebben op verschillende jaren. 
+• Een groter of kleiner schadebedrag ten opzichte van een vorige IBRA-versie hoeft niet te betekenen dat de maatschap-
+pelijke schade daadwerkelijk stijgt of daalt. Een betere wijze van berekenen of de toepassing van andere bronnen kan 
+ook tot een andere uitkomst leiden. In de hoofdtekst zijn de grootste veranderingen op dit gebied toegelicht.
+• De ILT werkt de brongegevens van de berekeningen bij. Ook vindt zij nieuwe en beter toepasbare bronnen. 
+In de factsheets worden de onzekerheden in de gehanteerde berekening toegelicht.
+Stap 4 Identificatie van buitengewone gebeurtenissen
+Er zijn ongewenste gebeurtenissen die zelden – dat wil zeggen veel minder dan 1 x per 5 jaar – voorkomen. In de IBRA 
+noemen we deze gebeurtenissen met een zeer kleine kans ‘buitengewone gebeurtenissen’. Er bestaat een zeer kleine 
+kans dat de ongewenste gebeurtenis plaatsvindt, maar als dat gebeurt dan kunnen de gevolgen rampzalig zijn. Er zal dan 
+sprake zijn van maatschappelijke ontwrichting in een groot deel van Nederland.
+Een voorbeeld van een buitengewone gebeurtenis is een overstroming: de kans op een dijkdoorbraak is zeer klein. Toch 
+is het effect (de schade) daarvan zeer groot, vooral in een dichtbevolkt gebied. Er kunnen dan vele dodelijke slachtoffers, 
+gewonden en getroffenen zijn. Daarnaast kan er milieuschade ontstaan doordat rivieren afval en plastic meevoeren. Er is 
+economische schade en (tijdelijke) uitval van vitale infrastructuur.
+De samenleving ervaart het maatschappelijk risico, hoe klein ook, wel degelijk als bedreigend. Om een beeld te geven 
+van de mogelijke schade, beschrijft de ILT een voorbeeld van een buitengewone gebeurtenis. Dit kan op basis van een 
+scenario of een incident in het buitenland.
+De factsheet 
+In bijlage A staat per onderwerp een factsheet. In deze factsheets beschrijft de ILT alle ongewenste gebeurtenissen bij 
+een onderwerp. Een factsheet kan 1 of meer ongewenste gebeurtenissen bevatten. Buitengewone gebeurtenissen zijn 
+ook als ongewenste gebeurtenis in het factsheet opgenomen. 
+Een factsheet bevat een algemeen en specifiek deel. 
+Algemeen 
+In het algemene deel staan in elke factsheet de volgende onderwerpen:
+• Een korte omschrijving van het onderwerp en een samenvatting van de belangrijkste uitkomsten van de analyse . 
+• Een korte omschrijving van alle wettelijke bepalingen die bij dit onderwerp horen, en hun doel. 
+• Bijzonderheden, die relevant zijn voor het maatschappelijk schadebeeld. 
+• Discussiepunten rondom het onderwerp, als deze relevant zijn. 
+• Het van toepassing zijn van marktwerking binnen het onderwerp. 
+• Een overzicht van de schade van de ongewenste gebeurtenissen van de factsheet. 
+• Schade waarvoor geen norm is bepaald en de schade die optreedt onder de wettelijke norm. De ILT toont hier de 
+maatschappelijke schade van ongewenste gebeurtenissen, waarvoor in wetgeving nog geen norm is opgenomen: 
+‘schade zonder norm’. 
+• Toekomstige ontwikkelingen
+• Schadeoverzicht
+• Verwijzingen
+Specifiek 
+In het specifieke deel werkt de ILT alle relevante ongewenste gebeurtenissen uit. Per ongewenste gebeurtenis neemt de 
+ILT het volgende op: 
+• Een korte omschrijving van de ongewenste gebeurtenis. 
+• Het toezicht van de ILT op de ongewenste gebeurtenis. 
+• De populatie waar de ongewenste gebeurtenis op van toepassing is. De ILT hanteert geen exacte aantallen, maar 
+populatiecategorieën. 
+• De frequentie waarin de ongewenste gebeurtenis zich voordoet. De ILT hanteert geen exacte getallen, maar 
+frequentiecategorieën.
+• De effecten van de ongewenste gebeurtenis, berekend voor de 4 eerdergenoemde schadecategorieën (fysiek letsel-, 
+gezondheids-, milieu- en economische schade). 
+Inspectie Leefomgeving en Transport | 263

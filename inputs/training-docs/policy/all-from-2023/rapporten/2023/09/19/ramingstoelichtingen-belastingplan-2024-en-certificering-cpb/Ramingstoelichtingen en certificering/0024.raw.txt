@@ -1,0 +1,41 @@
+3.18 Verhogen vaste voet in de bpm 
+ 
+Korte beschrijving van de maatregel 
+Het betreft het voorstel om de vaste voet voor de belasting van personenauto’s en motorrijwielen (bpm) te 
+verhogen met € 200. 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Verhogen vaste voet in de bpm 
+0 104 108 111 119 
+w.v. nieuwverkopen 
+0 92 92 92 92 
+w.v. parallelimport 
+0 13 18 20 32 
+w.v. export 
+0 -1 -2 -2 -5 
+*Door afronding kunnen verschillen ontstaan in de optelling. 
+ 
+Kern van de raming 
+De verhoging van de vaste voet in de bpm geldt vanaf 2025 en bedraagt € 200 per personenauto in prijzen 
+2023, in prijzen 2025 is dat naar verwachting € 221. De verhoging geldt voor alle personenauto’s, ook voor 
+(PH)EV’s. Het verwachte gemiddeld aantal nieuw verkochte personenauto’s per jaar (periode 2025-2030) is 
+circa 418.000. Hiermee komt de raming voor de nieuwverkopen uit op structureel € 92 miljoen per jaar in 
+prijzen 2025 (jaar van invoering). 
+ 
+Bij parallelimport en export wordt ook bpm geheven/teruggegeven. Hierbij geldt de verhoging van de vaste 
+voet voor personenauto’s met een datum eerste toelating (DET) vanaf 1-1-2025. Voor auto’s met een eerdere 
+DET geldt de verhoging niet. De opbrengst kent daardoor een ingroeipad waarbij  de verdeling van de leeftijd 
+van parallelimport/export van belang is. Door afschrijving neemt het bedrag van de verhoging van de vaste 
+voet af voor geïmporteerde/geëxporteerde personenauto’s die niet meer nieuw zijn.  
+ 
+Berekeningen voor parellelimport en export zijn gemaakt op basis van belastingdienstdata. Doordat de 
+parallelimport hoger ligt dan de export levert dit netto extra inkomsten op. De netto extra inkomsten lopen op 
+van € 11 miljoen in 2025 tot structureel € 27 miljoen vanaf 2034. 
+ 
+Er wordt geen gedragseffect verwacht van deze kleine verhoging en de raming kent weinig onzekerheid  voor 
+de nieuwverkopen. Deze raming kent de onzekerheid dat benodigde gedetailleerde gegevens over de 
+leeftijdsverdeling van geïmporteerde en geëxporteerde auto’s vanaf 2019 niet beschikbaar zijn en alleen 
+totalen bekend zijn. Hierdoor is de raming een extrapolatie vanuit eerder jaren waarvoor nog wel 
+gedetailleerde gegevens beschikbaar zijn.

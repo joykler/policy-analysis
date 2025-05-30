@@ -1,0 +1,5 @@
+correctie zorgpremies 0,03% 0,04% 0,05% 0,04% 0,04% 0,04% 2027 
+  
+correctie door invullen taakstelling -0,04% -0,02% -0,04% -0,05% 2028 
+         
+basispad MEV 36,93% 36,97% 37,05% 37,04% 37,06% 36,96% 36,95%

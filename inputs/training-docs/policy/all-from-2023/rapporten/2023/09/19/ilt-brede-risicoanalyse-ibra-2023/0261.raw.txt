@@ -1,0 +1,44 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage E Toelichting op de IBRA-methodiek
+ Bijlage E Toelichting op de 
+IBRA-methodiek
+In deze bijlage beschrijft de ILT de werkwijze voor het maken van de IBRA.
+Algemeen
+De ILT wil haar taken uitlegbaar en objectief afwegen. Het maken van keuzes in het toezicht is een ingewikkelde zaak 
+vanwege het brede en diverse werkveld en de weging van het aanpakken van maatschappelijke risico’s op de terreinen 
+waarop zij toezicht houdt, de uitvoering van verplichtingen vanuit (inter-)nationale wet- en regelgeving en oog voor 
+politieke wensen, maatschappelijke en sociaalpsychologische aspecten (zoals dreiging van schade, gevoelde impact). 
+Ook speelt het handelingsperspectief van de ILT een rol. 
+De IBRA is het instrument dat de ILT gebruikt om maatschappelijke risico’s inzichtelijk te maken op de terreinen waarop 
+zij toezicht houdt. De IBRA doet dit door de jaarlijkse maatschappelijke schade van het niet naleven van normen door 
+ondertoezichtgestelden te berekenen. Om dit zo objectief mogelijk in te schatten berekent de ILT de schade zo veel 
+mogelijk in euro’s.
+De ILT merkt op dat de berekening op basis van de IBRA-methodiek verschillende onzekerheden kent; zo is niet altijd 
+voldoende informatie beschikbaar en zijn aannames en inschattingen nodig om een analyse te kunnen maken. Hierna 
+wordt dit nader toegelicht onder het kopje ‘Onzekerheden in de schadeberekening’. Het gevolg hiervan is dat de 
+berekende schadebedragen niet gezien moeten worden als een precieze vaststelling van de werkelijke schade, maar een 
+schatting met een onzekerheidsmarge betreffen. 
+Ondanks deze onzekerheden is het gebruik voor het maken van keuzes in het toezicht door de ILT gerechtvaardigd. 
+Daarbij gaat het immers vooral om de orde van grootte van de verschillende schaderisico’s en hun onderlinge vergelijk-
+baarheid inzichtelijk te maken. De schadeberekeningen zijn alleen bedoeld voor onderlinge vergelijking van de onge-
+wenste gebeurtenissen in de context van de IBRA, en nadrukkelijk niet voor andere doeleinden.
+Methode 
+Als basis voor de IBRA-berekening van maatschappelijke risico’s hanteert de ILT een analyse op basis van de volgende 
+formule: 
+Risico =
+Frequentie (jaarlijks, van normoverschrijding)
+x
+Effect (€ schade per normoverschrijding) =
+Jaarlijkse schade (€)
+Bijvoorbeeld: mensen overschrijden 1.000 keer per jaar de norm. Als 1 persoon de norm overschrijdt, levert dat een schade van 
+€50.000 per keer op. De ILT berekent het risico als volgt: 1.000 x €50.000 = €50 miljoen aan jaarlijkse maatschappelijke schade. 
+De analyse wordt in stappen uitgevoerd: 
+Stap 1 Identificatie van ongewenste gebeurtenissen
+De ILT definieert voor het werkveld waarop zij taken heeft ongewenste gebeurtenissen en de daaruit voortvloeiende 
+maatschappelijke schade. Een ongewenste gebeurtenis is een incident met direct effect op de maatschappij, mens of 
+milieu, waarvan je niet wilt dat deze plaatsvindt. Dit betreft een niet-naleving van normen uit wet- en regelgeving. Een 
+bijzondere vorm van een ongewenste gebeurtenis is de buitengewone gebeurtenis. Dat is een onwaarschijnlijke 
+gebeurtenis met mogelijk rampzalige gevolgen.
+Sinds 2021 toont de ILT de jaarlijkse maatschappelijke schade niet alleen per ongewenste gebeurtenis (risico) maar ook 
+per IBRA-onderwerp. Een onderwerp wordt gevormd door een groep van samenhangende ILT taken. In factsheets 
+(bijlage A) staan per onderwerp de berekeningen voor alle ongewenste gebeurtenissen uitgeschreven. 
+Inspectie Leefomgeving en Transport | 261

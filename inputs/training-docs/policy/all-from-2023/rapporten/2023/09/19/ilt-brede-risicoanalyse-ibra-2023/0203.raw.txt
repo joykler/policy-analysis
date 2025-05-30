@@ -1,0 +1,50 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+1. Uitstoot F-gassen
+Omschrijving ongewenste gebeurtenis
+F-gassen zijn synthetische koudemiddelen. Het vrijkomen van deze gassen in de atmosfeer draagt bij aan het broeikas-
+effect vanwege het hoge CO equivalent van deze stoffen. Er is dus sprake van milieuschade. Uitstoot kan bijvoorbeeld 
+2
+plaatsvinden door lekverliezen van koelinstallaties.
+Toezicht door de ILT
+De ILT wil bijdragen aan het terugdringen van het in de lucht vrijkomen van OAS en F-gassen. Dit wil zij doen door toe te 
+zien op legale en illegale handel in F-gassen, lekverliezen (emissies) van installaties en de certificering van onderhouds-
+bedrijven in de koelsector. Daarnaast houdt de ILT toezicht op de stelselverantwoordelijke keuringsinstanties en 
+exameninstellingen.
+Populatie
+Gehele bevolking, meer dan 10 miljoen personen.
+Frequentie
+Continu.
+Effecten
+Fysiek letsel, Economie, Gezondheidsschade
+Niet van toepassing.
+Milieu
+De totale geregistreerde uitstoot van F-gassen in 2021 bedraagt 1,5 Mton CO-eq [4]. Dit is een lichte stijging ten opzichte 
+2
+van 2020. Toen was de totale uitstoot 1,3 Mton CO-eq. De gemiddelde uitstoot van F-gassen over de afgelopen 5 jaar 
+2
+bedroeg 1,6 Mton CO-eq. De IBRA rekent € 0,13 per kilogram CO[8]. Het schadebedrag van de uitstoot komt daarmee 
+2 2
+op 1.600.000.000 kilogram x € 0,13/kilogram = € 208 miljoen.
+Een deel van de uitstoot van F-gassen wordt niet geregistreerd. De exacte omvang van de uitstoot van deze niet 
+gerapporteerde markt is onbekend. Wel wordt er geschat dat 16% tot 42% van de totale markt in F-gassen bestaat uit 
+illegale handel [11]. Het illegaal inkopen van F-gassen betekent echter niet automatisch dat de gemaakte emissies niet 
+geregistreerd worden. Daarnaast wordt een deel van deze niet gerapporteerde uitstoot al meegenomen in de methodiek 
+5
+van de emissieregistraties. 
+Het is wel aannemelijk dat illegaal verhandelde F-gassen vooral worden gebruikt en onderhouden door bedrijven zonder 
+certificaat. Daarmee is de kans op lekkages relatief groter dan bij de geregistreerde uitstoot. 
+Dit in overweging genomen schat de ILT dat de uitstoot van illegaal verhandelde F-gassen te vergelijken is met 30% van 
+de gerapporteerde uitstoot van F-gassen. Dit betekent 30% x €208 miljoen = €62 miljoen extra aan uitstoot van 
+F-gassen. De totale uitstoot van F-gassen in 2021 is daarmee € 208 miljoen + €62 miljoen = €270 miljoen. 
+2. Uitstoot ozonlaagafbrekende stoffen (OAS)
+Omschrijving ongewenste gebeurtenis
+OAS mogen nog als synthetisch koudemiddel aanwezig zijn in oude installaties. Verder mogen deze stoffen nog in de 
+zogeheten kritische toepassingen worden gebruikt. Uit deze toepassingen kan uitstoot vrijkomen, net als in het 
+afvalstadium. Denk aan CFK’s uit schuimen. Deze uitstoot schaadt de ozonlaag en versterkt het broeikaseffect.
+Toezicht door de ILT
+De ILT wil bijdragen aan het terugdringen van het in de lucht vrijkomen van ozonlaagafbrekende stoffen en F-gassen. 
+Dit wil zij doen door toe te zien op legale en illegale handel in OAS, lekverliezen (emissies) van installaties en de  
+5 
+De methodiek van de emissieregistraties zijn zodanig gekozen dat de registrerende bedrijven 85-90% van de totale emissie bestrijken. Dit 
+wordt verder aangevuld met een schatting over de bedrijven die niet verplicht zijn de emissies te registreren (bijschatting genoemd) [12].
+Inspectie Leefomgeving en Transport | 203

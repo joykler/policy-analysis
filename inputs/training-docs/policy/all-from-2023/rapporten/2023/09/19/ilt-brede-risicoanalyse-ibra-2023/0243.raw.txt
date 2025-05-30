@@ -1,0 +1,56 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage B Resultaattabellen
+Schade in € miljoen/jaar
+Ongewenste gebeurtenis omschrijving #
+Passagiersrechten-compensatie luchtvaart 5 5 
+Passagiersrechten-compensatie spoor 0 0 
+Passagiersrechten-compensatie water 0 0 
+Passagiersrechten-minder validen bus 0 0 
+Passagiersrechten-minder validen luchtvaart 0 0 
+Passagiersrechten-minder validen spoor 0 0 
+Passagiersrechten-minder validen water 0 0 
+Pleziervaartuig-geluid 0 0 
+Pleziervaartuig-milieuschade # # 
+Pleziervaartuig-ongeval 5 5 
+Transport gevaarlijke stoffen-BES # # # # # 
+Transport gevaarlijke stoffen BG         # 808
+Transport gevaarlijke stoffen-binnenvaart # # # # # 
+Transport gevaarlijke stoffen-LV # # # # # 
+Transport gevaarlijke stoffen-post # # # # # 
+Transport gevaarlijke stoffen-rail # # # # # 
+Transport gevaarlijke stoffen-wegverkeer # # # # # 
+Transport gevaarlijke stoffen-zeevaart # # # # # 
+Trilling-spoor 0 0 
+Uitstoot LV-Schiphol-schadelijke stoffen 0 0 0 
+Uitstoot OAS/F gassen-F gassen 270 270 
+Uitstoot OAS/F gassen-OAS 3 0 3 
+Uitstoot SV-binnenvaart schadelijke stoffen 4 # 4 # 
+Uitstoot SV-SO2 4 # 4 # 
+Uitstoot van NOx door scheepvaart # # # 
+Uitstoot weg-Nox 69 69 
+Uitstoot weg-SO2 0 0 0 0 
+Verkeersproduct&mobiele machine-geluid # # 
+Verkeersproduct&mobiele machine-ongeval # # 
+Verkeersproduct&mobiele machine-product-uitstoot # # # 
+VOS-blootstelling 0 0 
+Vuurwerk-consument # # 
+Vuurwerk-consumentenvuurwerk 38 38 
+Vuurwerk-professioneel 0 0 0 
+WABO-afval 53 53 
+WABO-fijnstof 2 2 
+WABO-Nox 8 8 
+WABO-ongeval 0 0 
+WABO-overige stoffen 3 3 
+WABO-SO2 7 7 
+Wonen # # 
+Inspectie Leefomgeving en Transport | 243
+Fysiek Letsel
+Economische 
+schade
+Milieuschade
+Gezondheids-
+schade  
+Totale schade
+in € miljoen/jaar
+Buitengewone 
+Gebeurtenis 
+in € miljoen

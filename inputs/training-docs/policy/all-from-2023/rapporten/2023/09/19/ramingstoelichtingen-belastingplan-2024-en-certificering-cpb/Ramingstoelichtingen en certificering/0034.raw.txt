@@ -1,0 +1,9 @@
+Tabel 2: Budgettaire effecten maatregel 
+Bedragen in mln euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 2028 Struc. 
+Afschaffen giftenaftrek in de Vpb (Vpb) 11 11 11 11 11 11 
+Derving door nieuwe giften (IB box 2) -6 -6 -6 -6 -6 -6 
+Derving opbrengst maatregel periodieke giften 
+-6 -12 -18 -24 -30 -30 
+(box 2) 
+Totaal 0 -6 -12 -18 -24 -24

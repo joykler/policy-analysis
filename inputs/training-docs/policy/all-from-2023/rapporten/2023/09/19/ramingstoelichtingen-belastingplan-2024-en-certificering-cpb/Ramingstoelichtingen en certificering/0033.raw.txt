@@ -1,0 +1,51 @@
+3.26 Aanpassen schenken vanuit de vennootschap 
+ 
+Korte beschrijving van de maatregel 
+Met deze maatregel wordt geregeld dat giften door de vennootschap niet worden aangemerkt als verkapte 
+winstuitdeling aan de aanmerkel ĳkbelanghouder en dus niet leiden tot een heffingvan IB (box 2) en 
+dividendbelasting. Daarb ĳ vervalt de giftenaftrek in de vennootschapsbelasting, waardoor giften niet langer 
+aftrekbaar z ĳn van de winst van de vennootschap.  
+ 
+Tabel 1: Budgettaire effecten maatregel 
+Bedragen in mln euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Aanpassen schenken vanuit de vennootschap 
+0 -6 -12 -18 -24 
+ 
+Kern van de raming 
+Onderdelen raming 
+De maatregel heeft drie elementen die van belang zijn voor het budgettaire effect. Ten eerste ontstaat er een 
+opbrengst door het afschaffen van de giftenaftrek in de Vpb. Ten tweede ontstaat er een derving doordat er 
+meer nieuwe giften gedaan zullen worden vanuit de vennootschap, waardoor er minder grondslag voor box 2 
+overblijft. Ten derde ontstaat er een derving doordat de invoering van het plafond van € 250.000 per 2023 voor 
+de aftrek van periodieke giften minder effectief wordt door de voorliggende maatregel. Dit wordt hieronder 
+verder toegelicht en is samengevat in onderstaande tabel.  
+ 
+Afschaffen giftenaftrek in de Vpb 
+In 2019 werd in de Vpb € 38,3 miljoen aan giften in aftrek gebracht door bijna 3.000 belastingplichtigen. 
+Geraamd wordt dat dit bedrag in 2024 zal zijn opgelopen naar € 47 miljoen. Dit wordt afgetrokken tegen een 
+gemiddeld tarief van 24%, hetgeen een budgettair beslag oplevert van € 11 miljoen. Door de giftenaftrek in de 
+Vpb af te schaffen, stijgt de opbrengst van de Vpb met dit bedrag. 
+ 
+Derving door nieuwe giften (IB box 2)  
+In 2019 liepen circa 300 belastingplichtigen in de Vpb aan tegen de fiscale begrenzing van de giftenaftrek 
+(maximaal € 100.000 en maximaal de helft van de winst) en daarmee de mogelijkheid om giften te doen vanuit 
+de vennootschap die niet in box 2 belast worden. Het bedrag aan giftenaftrek in de Vpb bij deze groep bedroeg 
+€ 18 miljoen. Op basis van het gedragseffect dat in 2012 optrad toen de begrenzing aangepast werd (toen 
+daalde het bedrag op het fiscaal maximum met naar schatting 2/3), is ingeschat dat het bedrag aan giften dat 
+nu nog beperkt wordt, zal verdubbelen. Opgehoogd naar 2024 is het een bedrag van € 21 miljoen dat niet meer 
+in box 2 belast zal worden. Tegen een gemiddeld tarief van 27,5% is dit een derving van € 6 miljoen in box 2 in 
+de IB. Dit onderdeel van de raming gaat uit van een waargenomen gedragseffect in 2012. Onbekend is het 
+risico dat door constructies, die niet meer beperkt worden door een maximum aan de uitdelingen, de 
+grondslag van box 2 verder kan eroderen.       
+ 
+Derving opbrengst maatregel periodieke giften (IB box 2) 
+Als gevolg van het Belastingplan 2023 is voor de aftrek van periodieke giften een plafond van € 250.000 per 1 
+januari 2023 ingevoerd. Die maatregel zou er, onder andere, toe leiden dat een deel van de giften afkomstig uit 
+het box-2-inkomen niet meer aftrekbaar zou zijn en dus de facto € 136 miljoen extra grondslag in box 2 
+opleveren. De voorliggende maatregel maakt het voor de betrokken aanmerkelijkbelanghouders mogelijk de 
+box-2-heffing te voorkomen door de betreffende gift niet meer vanuit privé te doen, maar vanuit de 
+vennootschap. Er is gerekend met een gedragseffect in de categorie groot (80%). Op die manier gaat € 109 
+miljoen aan grondslag verloren, hetgeen tegen een gemiddeld tarief van 27,5% een derving van € 30 miljoen 
+oplevert. Er is vanuit gegaan dat de derving in vijf jaar ingroeit, omdat periodieke giften niet meteen kunnen 
+worden aangepast.

@@ -1,0 +1,44 @@
+3.8 Verruiming vrijstelling OV-abonnementen en voordeelurenkaarten 
+ 
+Korte beschrijving van de maatregel 
+Tijdens de behandeling van het belastingplan 2023 is de Motie van Kamerlid De Jong en Van Ginniken 
+aangenomen. Deze motie verzoekt de regering om te onderzoeken hoe werkgevers beter gefaciliteerd kunnen 
+worden om hun werknemers OV-abonnementen te verstrekken. Voorgesteld wordt om het privégebruik van 
+een abonnement dat wordt vergoed, verstrekt of ter beschikking wordt gesteld te vereenvoudigen door deze 
+gericht vrij te stellen.  
+ 
+Dat betekent dat een OV-abonnement of voordeelurenkaart altijd onbelast kan worden aangeboden mits het 
+aannemelijk is dat het OV-abonnement dan wel de voordeelurenkaart ook (in welke mate dan ook) voor 
+zakelijke reizen (waaronder woon-werkverkeer) zal worden gebruikt. Als dat het geval is, hoeft een werkgever 
+geen registratie van privé- en zakelijk gebruik meer bij te houden om in aanmerking te komen voor de 
+vrijstelling. Hiermee is een vereenvoudiging ten opzichte van de huidige situatie beoogd. 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Verruiming vrijstelling OV-abonnementen en 
+voordeelurenkarten -18 -18 -18 -18 -18 
+ 
+Kern van de raming 
+Voor werkgevers die momenteel een OV-abonnement ter beschikking stellen verandert er door de maatregel 
+in dit opzicht niks in de verschuldigde loonbelasting. Er is geen loonbelasting verschuldigd over de OV-kaart 
+zolang deze ook zakelijk gebruikt wordt. Voor werkgevers die nu een OV-abonnement vergoeden of 
+verstrekken vervalt de nacalculatie van de kosten voor zakelijke reizen. Ook als de kosten voor zakelijke reizen 
+lager zijn dan de waarde van de OV-kaart, zijn deze voortaan onbelast voor de loonbelasting zolang mede 
+zakelijk gereisd is. Dit levert een budgettaire derving op. De hoogte van de budgettaire derving is de 
+loonbelasting die nu wordt afgedragen over het privévoordeel (waarde OV-kaart min kosten zakelijke reizen) 
+van vergoede en verstrekte OV-kaarten. 
+De raming is daarmee een product van de volgende factoren, waarvan de hoogte zoveel mogelijk onderbouwd 
+is door diverse onderzoeken en andere bronnen. 
+- 8.403.000 werknemers in Nederland 
+- 12% werknemers met OV-kaart van werkgever  
+- 20% waarbij OV-kaart vergoed of verstrekt wordt  
+- 25% werkgevers dat zakelijk/privégebruik in kaart brengt  
+- € 2.283 gemiddelde kosten OV-abonnement 
+- 22% waarde OV-kaart waarover loonheffing verschuldigd 
+- 49,54% marginaal tarief werknemers 
+De budgettaire derving in de loonbelasting bedraagt op basis van deze raming € 13 miljoen per jaar. 
+De raming bestaat uit een derving in de loonbelasting en een derving premies werknemersverzekeringen. Voor 
+de premieraming is uitgegaan van de mutatie in de premiegrondslag, vastgesteld op basis van de raming van de 
+derving voor de loonbelasting, vermenigvuldigd met de premiepercentages. De derving bedraagt € 5 miljoen 
+per jaar.

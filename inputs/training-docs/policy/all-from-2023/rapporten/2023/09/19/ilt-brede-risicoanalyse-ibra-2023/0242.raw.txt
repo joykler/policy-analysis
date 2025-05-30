@@ -1,0 +1,57 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage B Resultaattabellen
+Schade in € miljoen/jaar
+Ongewenste gebeurtenis omschrijving #
+Geluid-reg.luchthavens 0 0 
+Geluid-Schiphol 6 6 
+Geluid-wegverkeer 26 26 
+GGO # # # # # 
+GGO BG         9.300
+Hoogwater veiligheid BG         162.000
+Infrastructuur weg-overbelading 90 90 
+Legionella 264 264 
+Legionella-BES 0 0 
+Lozing SV-BES 0 0 +# 0 # 
+Lozing SV-NL 8 10 +# 18 # 
+Marktwerking-Bouwproduct 75 75 
+Marktwerking-Chemische stoffen en biociden # # 
+Marktwerking-Duurzame producten # # 
+Marktwerking-Goederenvervoer over de weg 3 +# 3 # 
+Marktwerking-Kabelbanen # # 
+Marktwerking-Overige pyrotechnische artikelen (ROPA) # # 
+Marktwerking-Pleziervaartuig 1 1 
+Marktwerking-Slotmisbruik Schiphol en overige 
+# # 
+gecoördineerde luchthavens in Nederland
+Marktwerking-Taxi 13 13 
+Marktwerking-Uitstoot scheepvaart # # 
+Marktwerking-Verkeersproducten # # 
+Ongeval bus 133 133 
+Ongeval goederenvervoer weg 25 +# # 25 # 
+Ongeval kabelbaan 0 0 
+Ongeval LV-arbo BES # # 
+Ongeval LV-arbo NL 3 0 3 
+Ongeval LV-BES 0 # 0 # 
+Ongeval LV-NL 41 # 41 # 
+Ongeval onbemande luchtvaart (drones)-Ongeval drones 0 0 0 0 
+Ongeval rail-hoofd 52 7 59 
+Ongeval SV-binnenvaart 12 40 0 +# 0 52 # 
+Ongeval SV-schip BES 0 # 0 +# 0 0 # 
+Ongeval SV-visserij 6 0 0 6 
+Ongeval SV-zeevaart 26 # 0 +# 0 26 # 
+Ongeval taxi 127 127 
+Onveilig goederenvervoer weg-ongeval 193 +# 193 # 
+Overige pyrotechnische artikelen-blootstelling # # 
+Overige pyrotechnische artikelen-ongeval # # 
+Passagiersrechten-compensatie bus 0 0 
+Inspectie Leefomgeving en Transport | 242
+Fysiek Letsel
+Economische 
+schade
+Milieuschade
+Gezondheids-
+schade  
+Totale schade
+in € miljoen/jaar
+Buitengewone 
+Gebeurtenis 
+in € miljoen

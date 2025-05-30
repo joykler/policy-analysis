@@ -1,0 +1,65 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Gezondheidsschade
+De ILT beschikt niet over gegevens om de gezondheidsschade van deze uitstoot te schatten (#).
+Fysiek letsel, Economie: niet van toepassing.
+3. Uitstoot van NO door scheepvaart (zeevaart, binnenvaart, visserij)
+x
+Omschrijving ongewenste gebeurtenis
+Met ingang van 2021 geldt strengere regelgeving voor de uitstoot van N door zeeschepen. VO oor nieuwe schepen 
+x
+(gebouwd vanaf 1 januari 2021 [6, 7]) moet een nabehandeling plaats vinden om tot een NO-uitstoot te komen die 70% 
+x
+lager ligt dan voorheen. Voor oudere schepen is de NO -uitstoot genormeerd via een motorcertificaat, afgegeven door 
+x
+de fabrikant van de motor.   
+Toezicht door de ILT
+De ILT houdt toezicht op de nabehandeling van uitlaatgassen door schepen gebouwd na 1 januari 2023 en de aanwezig-
+heid van de juiste motorcertificaten.
+Populatie
+Vrijkomen van NO raakt de gehele bevolking, dus meer dan 10 miljoen personen.
+x
+Frequentie
+Er zijn (nog) geen gegevens bekend over de uitstoot van NO boven de norm. Frequentie is dus onbekend.
+x
+Effecten
+ILT kan de maatschappelijke schade in de categorieën milieu en gezondheidsschade voor de uitstoot van NO door 
+x
+scheepvaart op dit moment niet inschatten (#).
+Schade (z)onder norm
+De milieuschade van de (toegestane) uitstoot van scheepvaart kan berekend worden met de milieuprijzen van CE Delft. 
+Daarnaast is er sprake van emissies die (nog) niet genormeerd zijn. Het gaat hier onder andere over fijnstof en CO.
+2
+NO -emissie 
+x
+De totale uitstoot van NO door scheepvaart is aanzienlijk. In 2021 bedroeg de uitstoot  door zeevaart 107 miljoen kg [18]. Dit 
+x
+is 34% van de totale uitstoot in Nederland [18]. Voor de binnenvaart betrof dit in 2021 26 miljoen kilogram. Dat komt overeen 
+met 8% van het totaal aan NO uitstoot in dat jaar. Voor de uitstoot van NO geldt een milieuprijs van € 29,9 per kilo [24]. De 
+x x
+6
+totale schade voor zee- en binnenvaart van uitstoot onder de norm bedraagt daarmee 133 x 10 x € 29,9 = € 4,0 miljard. 
+Fijnstof-emissie
+Regelgeving over de uitstoot van fijnstof is op dit moment nog niet van kracht. In 2021 bedroeg de uitstoot van de 
+zeevaart 2,7 miljoen kilo per jaar [18]. Dit is 10% van de totale uitstoot in Nederland in dat jaar [18]. De binnenvaart komt 
+in 2021 tot een uitstoot van 0,8 miljoen kilo per jaar. Dit komt overeen met 2,9% van de totale uitstoot.
+De uitstoot is (2,7 + 0,8) = 3,5 miljoen kilo per jaar [18].
+PM10 heeft een milieuprijs van € 69,3 per kilo [24].
+6
+Totale schade: 3,5 x 10 x € 69,3 = € 243 miljoen.
+CO -emissie
+2
+De CO -emissie van de zeevaart bedroeg in 2021 5,5 miljard kilogram. Voor de binnenvaart ging het in die periode 
+2
+gemiddeld om 2,0 miljard kilo. Voor de zeevaart komt dit overeen met 3,0 % van het totaal aan CO-emissie in Nederland 
+2
+en voor de binnenvaart met 1,2 % van het totaal [18]. De prijs voor CO-uitstoot is € 0,13 per kilo. Daarmee komt de 
+2
+milieuschade voor CO -uitstoot onder de norm op € 1,0 miljard per jaar. 
+2
+Toekomstige ontwikkelingen
+De nieuwe regels voor het beprijzen van CO uitstoot in de “fit for 55” plannen van de Europese Commissie zullen leiden 
+2-
+tot een lagere CO-uitstoot van de scheepvaartsector. Tegelijkertijd zal de ILT het toezicht op de CO-administratie van de 
+2 2
+scheepvaart intensiveren. 
+Inspectie Leefomgeving en Transport | 208

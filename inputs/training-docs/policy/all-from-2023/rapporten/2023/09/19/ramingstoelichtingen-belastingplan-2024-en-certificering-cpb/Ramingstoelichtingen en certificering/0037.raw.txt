@@ -1,0 +1,49 @@
+3.29 Beperken afschrijving gebouwen in de IB 
+ 
+Korte beschrijving van de maatregel 
+Net zoals sinds 1 januari 2019 geldt voor belastingplichtigen in de vennootschapsbelasting, wordt ook voor de 
+winstsfeer in de inkomstenbelasting de afschrijving op gebouwen in eigen gebruik beperkt tot de WOZ-waarde 
+als bodemwaarde (en dus niet meer 50% van de WOZ-waarde). De maatregel treedt in werking vanaf 
+boekjaren die aanvangen op of na 1 januari 2024. Overgangsrecht voor belastingplichtigen die met betrekking 
+tot een gebouw in eigen gebruik nog geen drie jaar hebben afgeschreven. Zij kunnen gedurende het restant 
+van de driejaarsperiode nog volgens de oude regels (tot 50% van de WOZ-waarde) afschrijven. 
+Tabel 1: Budgettaire effecten maatregel 
+Bedragen in mln euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Beperken afschrijving gebouwen IB 
+106 106 106 106 106 
+ 
+Kern van de raming 
+Opbrengst door aftrekbeperking 
+De post afschrijving op bedrijfsgebouwen in eigen gebruik in de IB bedroeg in 2020 € 991 miljoen bij 152.000 
+belastingplichtigen. Slechts een deel hiervan wordt geraakt door de maatregel, namelijk het deel dat zich 
+tussen 100% en 50% van de WOZ-waarde bevindt. Dit is € 471 miljoen bij 74.000 belastingplichtigen. Er is van 
+uitgegaan dat de mogelijkheid van afwaardering naar lagere bedrijfswaarde niet vaak zal voorkomen. Voor 
+2024 wordt het geraakte bedrag geraamd op € 532 miljoen. Er is uitgegaan van een effectief tarief van 37,8%, 
+waarmee het budgettaire belang van de aftrekbeperking uitkomt op € 201 miljoen per jaar.  
+ 
+Overgangsrecht 
+Het overgangsrecht heeft als gevolg dat in de jaren 2024, 2025 en 2026 een steeds afnemend aantal cohorten 
+nog kan afschrijven. Vanaf 2027 is er geen effect meer. 
+ 
+Derving door lagere belasting bij afwikkeling of vervreemding  
+De beperking van de afschrijving zal op langere termijn leiden tot een lagere belasting bij staking van de 
+onderneming, dan wel bij vervreemding van het gebouw. Structureel wordt de lagere belasting bij afrekening 
+geraamd op € 198 miljoen. Hierin is rekening gehouden met het verlies van belastingclaim door 
+faillissementen, door voorkoming van verliesverdamping en doorschuifmogelijkheden van stille reserves.  
+ 
+Totaal effect 
+Op korte termijn domineert het opbrengstverhogende effect van de afschrijvingsbeperking; structureel zorgt 
+de derving door lagere belasting bij staking en vervreemding voor een per saldo geringere opbrengst. Dit is in 
+onderstaande tabel weergegeven. Omdat de maatregel een schuif in de tijd van belastingopbrengsten betreft, 
+is de netto contante waarde van het totaal van de kasstromen berekend. Dit bedrag is omgerekend naar een 
+vlakke reeks met dezelfde netto contante waarde. Deze vlakke reeks is relevant voor het inkomstenkader en in 
+tabel 1 getoond. 
+ 
+Tabel 2: Budgettaire effecten maatregel 
+Bedragen in mln euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Beperking afschrijving gebouwen IB 201 201 201 201 201 
+Overgangsrecht -40 -27 -13 0 0 
+Derving afrekening gering gering gering  gering -198 
+Totaal 161 174 188 201 3

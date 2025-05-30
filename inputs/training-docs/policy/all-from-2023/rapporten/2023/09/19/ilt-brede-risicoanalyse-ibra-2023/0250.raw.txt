@@ -1,0 +1,49 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage C Marktwerking
+Toezicht door de ILT
+De ILT ziet toe op de volledigheid en de juistheid van de informatie die fabrikanten en overige marktdeelnemers 
+verstrekken. Ze controleert steekproefsgewijs of de eigenschappen van de pleziervaartuigen overeenkomen met de 
+waarde van de eigenschappen die de fabrikanten op de CE-markering vermelden. Ook controleert ze of het gebruik van 
+een CE-markering al dan niet geoorloofd is.
+Frequentie en effecten
+Er worden jaarlijks 1.200 nieuwe pleziervaartuigen verkocht [3]. Welk deel van deze vaartuigen niet voldoet aan de eisen 
+voor CE-markering is niet bekend. Wel is bekend van andere sectoren welk deel van de productie niet aan de eisen voor 
+CE-markering voldoet [2]. De ILT neemt deze sectoren als leidraad en stelt het aandeel van verkochte pleziervaartuigen 
+dat niet voldoet aan de eisen voor CE-markering op 10%. Handelaren en producenten ervaren hierdoor een concurren-
+tievoordeel vanwege vermijden van kosten.
+De ILT kent geen onderzoeken die specifiek ingaan op de causaliteit tussen de (juiste) CE-markering en veiligheid bij 
+pleziervaartuigen.
+Door te rekenen met vermeden kosten kan de ILT een schade aan dit concurrentievoordeel toekennen. Vermeden kosten 
+zijn kosten die handelaren en producenten niet maken omdat ze niet voldoen aan de Wet pleziervaartuigen 2016 en 
+onderliggende regelingen. Het gaat om kosten voor kwaliteitsbeheer, kosten voor advies en kosten voor het testen van 
+producten om deze toegelaten te krijgen tot de Europese markt.
+De gemiddelde kosten die een producent maakt om een pleziervaartuig aan de eisen te laten voldoen bedragen €4.500 
+[4]. Met een totaal aantal van 1.200 verkochte pleziervaartuigen bedragen de totale kosten in Nederland €5,4 miljoen 
+(2017). 10% van de Nederlandse pleziervaartuigen voldoet niet aan de eisen. 10% van €5,4 miljoen = circa €0,5 miljoen. 
+De ILT neemt aan dat er dan helemaal geen kosten zijn gemaakt om het product goed te keuren. Het kan echter ook zijn 
+dat importeurs of fabrikanten kosten maken, en het product toch niet voldoet.
+Verwijzingen wet- en regelgeving
+[1] Wet pleziervaartuigen 2016
+Verwijzingen algemeen
+[2] Producten op de Europese markt: CE-markering ontrafeld | Rapport | Algemene Rekenkamer
+[3] Onderzoek aantal nieuw verkochte boten in Nederland, Wateradvies 2017
+[4] kosten CE-Keuring, Brunsmann
+Onderwerp 7: Chemische stoffen en biociden
+Beschrijving marktwerking bij dit onderwerp
+De Europese regelgeving over chemische stoffen vraagt van de ILT ook dat zij toeziet op een ‘level playing field’ en een 
+eerlijke markt. De ILT draagt hieraan bij, door vanuit haar doelstellingen (veiligheid en duurzaamheid) de naleving van de 
+regels te bevorderen.
+Regelgeving en doel
+De regelgeving bestaat uit de Europese verordeningen voor REACH (Registratie, Evaluatie, Autorisatie en restrictie van 
+Chemische stoffen), CLP (indeling, etikettering en verpakking), POP (persistente organische verontreinigende stoffen), 
+PIC (in- en uitvoer van gevaarlijke chemische stoffen) en kwik en voor biociden de BPR (Europese Biocidenverordening) 
+[1 t/m 7] en relevante nationale wet- en regelgeving. Het doel van REACH en de BPR zijn onder andere het waarborgen 
+van het vrije verkeer van chemicaliën en biociden in de EU. En het versterken van de concurrentiekracht en innovatie. 
+Belangrijk doel van de BPR is tevens het harmoniseren van biocidengebruik op EU niveau. En het waarborgen van een 
+hoog beschermingsniveau van de gezondheid van mensen, dieren en het milieu.
+Volgens de regelgeving moeten bedrijven de schadelijke stoffen vervangen door minder schadelijke alternatieven. 
+Daarbij richt de regelgeving zich vooral op de groep SVHC (Substances of Very High Concern). De Nederlandse wetgeving 
+is bovendien gericht op terugdringen van emissies van de groep stoffen, die is in Nederland aangemerkt als ZZS (Zeer 
+Zorgwekkende Stoffen).
+Toezicht door de ILT
+De ILT controleert voor REACH onder andere de registratie van de stoffen bij het ECHA (European Chemicals Agency). 
+Inspectie Leefomgeving en Transport | 250

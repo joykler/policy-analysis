@@ -1,0 +1,58 @@
+3.27 Verhogen onbelaste reiskostenvergoeding 
+ 
+Korte beschrijving van de maatregel 
+De huidige onbelaste reiskostenvergoeding in de Wet op de loonbelasting 1964 en de Wet inkomstenbelasting 
+2001 bedraagt maximaal € 0,21 per kilometer in 2023 en € 0,22 per kilometer vanaf 2024. Voorgesteld wordt 
+de onbelaste reiskostenvergoeding per 1 januari 2024 verder te verhogen tot € 0,23 per kilometer. Deze 
+bedragen gelden voor zakelijke reiskosten, met inbegrip van de kosten van woon-werkverkeer. Voor de kosten 
+van openbaar vervoer mogen, net als nu het geval is, de werkelijke kosten worden vergoed. De verhoging van 
+het bedrag geldt ook voor de reiskosten van IB-ondernemers en resultaatgenieters. Ook de andere forfaits van 
+€ 0,21 (2023) per kilometer worden verhoogd. Het gaat om:  
+• de aftrek specifieke zorgkosten voor reiskosten ziekenbezoek;  
+• de kilometervergoeding voor weekenduitgaven gehandicapten;  
+• de giftenaftrek als een vrijwilliger afziet van reiskostenvergoeding 
+ 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in mln euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Verhogen onbelaste reiskostenvergoeding naar 23 cent 
+-109 -109 -109 -109 -109 
+ 
+Kern van de raming 
+Er zijn 5 verschillende situaties te onderscheiden waarop de verhoging van de maximale onbelaste 
+reiskostenvergoeding invloed heeft: 1) werknemers woon-werkverkeer, 2) werknemers dienstreizen, 3) 
+werknemers cafetarisering , 4) zelfstandigen woon-werkverkeer, en 5) zelfstandigen dienstreizen 
+De budgettaire gevolgen van verhoging zijn geraamd door voor deze 5 doelgroepen het product van diverse 
+factoren te berekenen volgens de volgende formule (die iets kan afwijken per doelgroep): 
+10
+ arbeidsjaren * % dat reist voor werk * % met kilometervergoeding * aantal werkbare dagen * aantal 
+11 12
+woon-werkkilometers per dag * % werkgevers dat reiskostenvergoeding verhoogt * marginaal 
+tarief * verhoging per kilometer  
+ 
+De waarde van deze factoren is gestoeld op diverse databronnen. Voor het aantal arbeidsjaren wordt 
+aangesloten bij data van het CBS. Het marginaal tarief kan worden afgeleid uit de belastingparameters, waarbij 
+rekening wordt gehouden met de afbouw van de algemene heffingskorting en de arbeidskorting. Het 
+reisgedrag van werknemers en zelfstandigen, het gebruik van de onbelaste reiskostenvergoeding en de 
+13
+gedragsreactie van werkgevers zijn onderbouwd op basis van onderzoek van Motivaction (2022). Voor alle 
+variabelen zijn vergelijkbare aannames gebruikt als voor de verhoging van de onbelaste reiskostenvergoeding 
+zoals opgenomen in het Belastingplan 2023. 
+Ten slotte is het budgettaire effect van het verhogen van de forfaits meegenomen in de totale budgettaire 
+reeks, hoewel dit effect heel beperkt is. Dit is bepaald op basis van aangiftegegevens. 
+Omdat geen aangiftegegevens beschikbaar zijn waaruit het huidige gebruik van de onbelaste 
+reiskostenvergoeding kan worden afgeleid is de raming gebaseerd op diverse aannames. Daardoor kent de 
+raming een grote mate van onzekerheid. 
+  
+ 
+10
+ Voor zelfstandigen worden de variabelen “% dat reist voor werk” en “% met kilometervergoeding” veranderd in de variabele “% dat 
+kilometervergoeding in aftrek neemt”. 
+11
+ Of in het geval van dienstreizen het aantal km voor dienstreizen per dag 
+12
+ Voor zelfstandigen: percentage zelfstandigen dat voortaan een hogere kilometervergoeding in aftrek neemt. Voor cafetarisering: 
+percentage werknemers dat gebruik maakt van de cafetariaregeling om de reiskostenvergoeding onbelast aan te vullen. 
+13
+ Motivaction (2022): Gebruik onbelaste reiskostenvergoeding

@@ -1,0 +1,49 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage F Verklarende woordenlijst
+ Bijlage F Verklarende woordenlijst
+Onderwerp Omschrijving
+Caribisch Nederland Dit zijn de eilanden Bonaire, Sint Eustatius en Saba (ook bekend als Caribisch Nederland).
+Buitengewone gebeurtenis Dit is een ongewenste gebeurtenis waarvan het zeer onwaarschijnlijk (zeer kleine kans) is dat ze 
+(BG) plaatsvindt. Als het toch gebeurt, zijn de gevolgen zeer groot of catastrofaal. Door de zeer kleine 
+kans komt het jaarlijkse schadebedrag relatief laag of zelfs op € 0 uit. Om toch inzicht te geven in 
+de schade rekent de ILT deze uit voor 1 buitengewone gebeurtenis.
+Bijzonderheden Bijzondere randvoorwaarden, die aan de orde zijn in het toezichtsveld. Bijvoorbeeld (niet 
+uitputtend): nieuwe eisen voortvloeiend uit wet- en regelgeving, lopende of komende verdragen 
+of gemaakte bestuurlijke afspraken.
+CE Delft CE Delft is een onafhankelijk onderzoeks- en adviesbureau, gespecialiseerd in het ontwikkelen van 
+innovatieve oplossingen van milieuvraagstukken. https://www.ce.nl/ 
+DALY(‘s) Disability Adjusted Life Years. Het aantal verloren levensjaren in volledige gezondheid. Het aantal 
+verloren levensjaren door vroegtijdige sterfte (<75 jaar). 1 DALY = €85.000 (CE Delft).
+Discussiepunten Beschrijft die punten waar nog discussie over bestaat rondom het onderwerp.
+Economische schade Dit betreft verlies van maatschappelijk kapitaal:. De ILT neemt hierbij ook de herstelkosten van 
+niet verzekerbare schade mee. Denk bijvoorbeeld aan schade aan het wegdek door overbelading.
+Effecten van de ongewenste De gevolgen door het optreden van de ongewenste gebeurtenis. 
+gebeurtenis Dit is meestal het gemiddelde effect van de afgelopen 5 jaren. Maar ook een trend van de 
+afgelopen jaren kan een goede indicatie leveren voor het effect per jaar.
+Frequentie van de ongewenste Beschrijving hoe vaak een ongewenste gebeurtenis zich in 1 jaar voordoet. 
+gebeurtenis Dit is meestal het gemiddelde van de afgelopen 5 jaren. Maar ook een trend van de afgelopen 
+jaren kan een goede frequentie voor het aantal per jaar opleveren. 
+De frequentie geeft de ILT in een van de volgende categorieën:
+continu
+1-7 dagen
+1-4 weken
+1-3 maanden
+3-6 maanden
+6-12 maanden
+1-5 jaar
+5-50 jaar
+50-100 jaar
+> 100 jaar
+nihil
+onbekend
+Fysiek letselschade Dit zijn de directe gevolgen voor personen bij het optreden van een ongewenste gebeurtenis. 
+Hierbij maakt de ILT onderscheid tussen directe doden (overlijden binnen 6-8 weken na de 
+gebeurtenis), zwaargewonden en lichtgewonden.
+Bij de berekening van de fysieke letselschade hanteert de ILT de volgende uitgangspunten (CE Delft): 
+1 dode = € 4,1 miljoen 
+1 zwaargewonde = € 408.000 
+1 lichtgewonde = € 29.000 
+Gezondheidsschade Het gaat hier om verlies van levenskwaliteit of levensduur door blootstelling aan 
+gezondheidsbeschadigende stoffen en straling. 
+De ILT drukt ziektelast uit in verloren jaren in gezondheid (DALY). Om gezondheidsschade in euro’s 
+uit te rekenen gebruikt de ILT: 1 DALY = € 85.000 (CE Delft)
+Inspectie Leefomgeving en Transport | 265

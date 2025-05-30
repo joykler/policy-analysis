@@ -1,0 +1,52 @@
+3.10 Aanpassingen minimumkapitaalregel in de vpb 
+ 
+Korte beschrijving van de maatregel 
+Het kabinet is voornemens om per 1 januari 2024 de minimumkapitaalregel (MKR) in de 
+vennootschapsbelasting (vpb) aan te passen. De MKR beperkt de aftrek van de verschuldigde rente en kosten 
+ter zake van geldleningen (hierna: renten) voor zover de bank of verzekeraar gefinancierd is met – onder huidig 
+recht – minder dan 9% eigen vermogen (EV) aan de hand van de formule (9-%EV)/(100-%EV). Als bijvoorbeeld 
+blijkt dat het percentage eigen vermogen 5% is, wordt over 4/95 deel van de verschuldigde renten de aftrek 
+geweigerd. Indien de verschuldigde renten van een bank of verzekeraar in aftrek worden beperkt, wordt de 
+fiscale winst hoger en stijgt de te betalen vpb. Het percentage eigen vermogen is voor de MKR gedefinieerd aan 
+de hand van de leverage ratio, die volgt uit de Europese verordening kapitaalvereisten.  
+ 
+Indien de leverage ratio lager is dan 9% beperkt de MKR  de renten op alle geldleningen in aftrek, ongeacht of 
+sprake is van een externe geldlening of een groepslening.  Hieronder vallen ook groepsleningen in het kader 
+van treasuryactiviteiten. Voorgesteld wordt om het rentebegrip zodanig aan te passen dat voortaan renten ter 
+zake van geldleningen die zijn verkregen van groepslichamen niet meer meetellen voor toepassing van de MKR, 
+voor zover de belastingplichtige aannemelijk maakt dat deze groepslening niet direct verband houdt met een 
+externe lening (anti-misbruikbepaling). De derving die door voornoemde aanpassingen ontstaat, wordt gedekt 
+door het percentage in de MKR te verhogen van 9% naar 10,6%.  
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Buiten beschouwing laten van rente op groepsleningen -73 -73 -73 -73 -73 
+Dekking: Verhogen percentage van 9% naar 10,6%  73 73 73 73 73 
+ 
+Kern van de raming 
+Deze berekening is op individuele basis uitgevoerd voor de Nederlandse grootbanken op basis van de laatste 
+commerciële jaarcijfers en de vpb-aangiftegegevens van 2020 van de Belastingdienst. In deze gegevens is de 
+toepassing van de MKR in 2020 terug te vinden. In sommige gevallen is ook het bedrag aan rente op schulden 
+bij groepsmaatschappijen ingevuld. De cijfers zijn opgehoogd om rekening te houden met de gestegen rente. 
+De bijdrage van kleinere banken, Nederlandse vestigingen van buitenlandse banken en van verzekeraars is 
+bijgeschat op basis van de vpb-aangiften over 2020. 
+ 
+Er wordt gerekend met een structurele situatie waarin de banken winstgevend zijn; er wordt dus geen rekening 
+gehouden met verliezen. Verder is rekening gehouden met de wijziging van de definitie van de leverage ratio in 
+het kader van promotionele leningen per 2022, waardoor enkele banken vermoedelijk niet meer geraakt 
+worden door de MKR. 
+ 
+Het buiten beschouwing laten van groepsleningen geeft een risico op gedragseffecten waarbij externe 
+financiering wordt omgezet in interne financiering via een groepslichaam, om zo de MKR te omzeilen. Om dit 
+verschuivingsgevaar te ondervangen wordt bij de uitwerking van de aanpassing van de MKR een 
+tegenbewijsregeling opgenomen die inhoudt dat de belastingplichtige aannemelijk dient te maken dat de 
+groepslening niet direct verband houdt met een externe lening. Bovendien is het vanuit prudentieel oogpunt 
+niet direct mogelijk om grote delen van het externe kapitaal via buitenlandse dochterbedrijven aan te trekken. 
+In de raming is daarom aangenomen dat bij Nederlandse banken geen gedragseffect optreedt. Bij Nederlandse 
+vestigingen van buitenlandse banken is wel de verwachting dat zij – voor zover dat niet al het geval was – meer 
+door de in het buitenland gevestigde moederentiteit gaan worden gefinancierd. Met dit gedragseffect is in de 
+raming wel rekening gehouden. 
+Voor de dekkingsmaatregel is, net als bij de invoering van de MKR, ook zonder gedragseffect gerekend. Als 
+banken en verzekeraars al besluiten om hun gedrag aan te passen door meer eigen vermogen aan te houden, 
+dan betekent dit naast minder renteaftrekbeperking ook minder renteafrek.

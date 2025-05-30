@@ -1,0 +1,49 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Een bedrijf spreekt een voorgenomen vergunningaanvraag vaak door met de provincie. Daarna volgt dan pas een 
+formele vergunningaanvraag. De ILT geeft advies op een vergunningaanvraag als er sprake is van afwijking van beleids- 
+doel of norm. De provincie en het bedrijf nemen dit advies meestal over. De ILT geeft een formele zienswijze af, als in de 
+ontwerpbeschikking blijkt dat de reactie op het advies onvoldoende is. Of als de ILT pas in de fase van de ontwerp- 
+beschikking een eerste zicht heeft op een ongewenste afwijking. Op een omvang van gemiddeld 200 aanvragen per jaar 
+gaat het gemiddeld om 60 adviezen en 20 zienswijzen, die de ILT als interventie inzet.
+In circa 1,5% van de gevallen leidt een zienswijze van de ILT niet tot het gewenste resultaat. Bij een ernstige afwijking, 
+van beleidsdoel of norm, gaat de ILT over tot een beroep bij de bestuursrechter. In de overige gevallen zijn de vergunnin-
+gen, na interventie van de ILT, wel op orde.
+Populatie
+Omwonenden (binnen invloedsgebied). De ILT hanteert de categorie 100.000-1.000.000 personen.
+Frequentie
+Binnen de groep van 770 bedrijven, zijn er 435 bedrijven met een potentieel EV-risico. De grens van het invloedsgebied 
+bepaalt men door, voor het grootst mogelijke ongeval, de afstand te berekenen waar nog juist 1% van de op die afstand 
+blootgestelde personen zal overlijden (de 1%-letaliteitsgrens). Dat betekent dat binnen het invloedsgebied (vanaf de 
+bron tot de 1%-grens) meer dan 1% van de blootgestelden zal overlijden bij het grootst mogelijke ongeval. Het RIVM 
+heeft voor de ILT de data van het Risicoregister gevaarlijke stoffen (RRGS) en de Basisadministratie gemeenten (BAG) 
+gecombineerd voor de grootste meest risicovolle bedrijven, waarvoor ILT de Wabo-adviestaak heeft (cijfers zijn van 
+2021). Uit deze inventarisatie blijkt dat circa 3,3 miljoen mensen wonen en werken in het invloedsgebied van alle (435) 
+risicobedrijven. Voor elk van deze 3,3 miljoen mensen geldt dus minstens een 1% overlijdenskans, in het onverhoopte 
+scenario van blootstelling aan het grootst mogelijke ongeval, bij het nabijgelegen risicobedrijf.
+Afhankelijk van de beoordelingscategorie mankeert er, in maximaal zo’n 31% van de gevallen, iets aan de aanvraag. Dit 
+betreft overigens de aanvragen die de ILT daadwerkelijk toetst; in principe zijn dit ook de aanvragen waarmee de 
+grootste problemen verwacht mogen worden. Het RIVM geeft aan dat er relatief weinig grootschalige ongevallen of 
+incidenten in Nederland zijn, waarbij mensen in de omgeving van een risicovolle activiteit overlijden. Dat hangt onge-
+twijfeld samen met de overheidsinspanningen rondom dit onderwerp. Het RIVM schat de huidige frequentie daarom op 
+0 [3, p37].
+Van de 348 afhandelde aanvragen, in de periode 2019-2022, bleek er na interventie slechts nog 1 (op onderdelen) niet in 
+orde te zijn. Omdat de ILT de vergunningsaanvragen niet random selecteert maar nadrukkelijk de aanvragen selecteert, 
+waarmee de grootste problemen verwacht mogen worden, wordt die 1 op 348 aanvragen als een bovengrens gezien. De 
+aanwezigheid van een afwijking kan onderdeel uitmaken van de oorzaak van een extern veiligheidsincident. Maar hierop 
+zijn nog veel meer factoren van invloed. Daarom nemen we voor de frequentie gelijk aan 0 gebeurtenissen per jaar over 
+van het RIVM.
+Effecten
+Fysiek letsel
+Voor de inschatting van externe (fysieke) veiligheid (doden, gewonden) beschouwen we de omvang van dit deel van het 
+risico (fysiek letselschade), gelet op de zeer lage frequentie van optreden, als verwaarloosbaar (€ 0).
+Economie, Milieu en Gezondheidsschade
+Niet van toepassing.
+2. Uitstoot van NO bij meest risicovolle bedrijven
+x
+Omschrijving ongewenste gebeurtenis
+Door een Wabo-vergunning af te geven, die niet voldoet aan de vereisten op het vlak van NO-emissie, kunnen er op dit 
+x
+vlak risico’s ontstaan. Die kunnen tot uiting komen in NO-emissies, die ruimer zijn dan de vergunning zou mogen 
+x
+toestaan.
+Inspectie Leefomgeving en Transport | 227

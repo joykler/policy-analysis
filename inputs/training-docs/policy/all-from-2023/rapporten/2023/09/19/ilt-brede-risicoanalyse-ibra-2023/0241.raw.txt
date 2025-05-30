@@ -1,0 +1,54 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage B Resultaattabellen
+2. Overzicht van de ongewenste gebeurtenissen uit bijlage A (alfabetisch gesorteerd)
+Schade in € miljoen/jaar
+Ongewenste gebeurtenis omschrijving #
+Aanslag met explosieven 0 0 0 
+Aanslag met explosieven-aanslag Wecg explosieven BG         # 1.620
+Aanslag met explosieven-aanslag Wpe precursoren BG         # 282
+Afval - Gemist hergebruik 1.089 # 1.089 # 
+Afval - niet geregistreerd 2.313 # 2.313 # 
+Asbest-blootstelling 74 0 0 74 
+BES-specifiek-electriciteit # # 
+BES-specifiek-op&overslag # # # # 
+Beveiliging SV-schip wereld 0 0 0 
+Beveiliging SV-schip/haven 0 0 0 0 
+Beveiliging SV-schip/haven BG         # 476
+Bodem- niet voldoen aan milieu- en kwaliteitseisen # # # 
+Bodem-Niet geregistreerd 400 # 400 # 
+Bodem-Onjuiste verwerking 560 # 560 # 
+Bouwproduct-milieuschade # # 
+Bouwproduct-ongeval # # 
+Buisleiding BG         # 140
+Buisleiding-buisleiding 0 0 +# 0 0 # 
+Chemische stoffen en biociden-blootstelling 1.032 1.032 
+Chemische stoffen en biociden-milieuschade # # 
+Cybersecurity-Cyber 0 0 0 0 0 
+Cybersecurity-drinkwater 13.310 # 0 +# 0 +# 13.310 # 
+Cybersecurity-LV 5.000 5.000 
+Cybersecurity-SV 5.000 5.000 
+Defensie-gebouw 4 4 
+Defensie-geluid 0 0 
+Defensie-ongeval 0 0 
+Drinkwater BG         25
+Drinkwater-te duur 0 0 
+Drinkwater-verontreinigd 0 0 0 0 
+Drinkwater-verontreinigd BES # # # # 
+Duurzame producten-energie 201 201 
+Duurzame producten-NOx 22 22 
+Duurzame producten-schaarse stoffen # # 
+Duurzame producten-schadelijke stoffen 0 +# 0 # 
+Energielabel-auto's # # # 
+Energielabel-gebouwen # # 
+Geluid-rail 10 10 
+Inspectie Leefomgeving en Transport | 241
+Fysiek Letsel
+Economische 
+schade
+Milieuschade
+Gezondheids-
+schade  
+Totale schade
+in € miljoen/jaar
+Buitengewone 
+Gebeurtenis 
+in € miljoen
