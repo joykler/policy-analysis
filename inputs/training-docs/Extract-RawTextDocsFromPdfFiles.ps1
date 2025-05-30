@@ -255,10 +255,10 @@ try {
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
         Export-RawTextFromSourceFile |
         ForEach-Object {
-            # $BatchProc.ForEachItem($PSItem)
+            $BatchProc.ForEachItem($PSItem)
         }
 
-    # $BatchProc.FlushItems()
+    $BatchProc.FlushItems()
 
 } finally {
     Pop-Location
