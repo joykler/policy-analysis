@@ -31,4 +31,4 @@ begrotingshoofdstukken 0 0 0 71.367 194.545 171.745 22.800
 Toegerekende uitgaven van Belastingen 0 0 0 71.367 194.545 171.745 22.800
 Ontvangsten 0 990 1.037 749 13.467 605 12.862
 Apparaatontvangsten 0 990 1.037 749 13.467 605 12.862
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 100
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1

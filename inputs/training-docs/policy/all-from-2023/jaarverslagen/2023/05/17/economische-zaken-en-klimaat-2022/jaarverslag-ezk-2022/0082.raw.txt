@@ -16,4 +16,4 @@ Peildatum voor de 2022-cijfers is 5 december 2022.
 waarden tot en met 2014. De realisatiewaarde betreft een cumulatief getal op basis van databestanden van ESA vanaf 1 januari 2015.
 5 De gewogen returnfactor is 1,09 – dit is lager dan voor 2000 omdat met ESA medio 2020 afspraken zijn gemaakt over aanpassing van de rekenmethode met als resultaat 
 dat de nominale contractwaarde in 2020 vergelijkbaar is met vorige jaren maar de gewogen waarde lager uitvalt; dit om de NL returnfactor reëler weer te geven.
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1 82
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIII, nr. 1
