@@ -37,5 +37,4 @@ kwijtgescholden. Betaalachterstanden die na 31 december 2020 zijn afbetaald op d
 kwijtgescholden worden gerestitueerd. 
  
 5
- Met deze peildatum wordt aangesloten bij de peildata die gelden voor gedupeerde aanvragers van kinderopvangtoeslag. 
-12
+ Met deze peildatum wordt aangesloten bij de peildata die gelden voor gedupeerde aanvragers van kinderopvangtoeslag.

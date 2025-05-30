@@ -36,5 +36,4 @@ introduceren om persoonsgegevens van derden te verwerken. Ook wordt een grondsla
 voor de uitwisseling van persoonsgegevens tussen Belastingdienst/Toeslagen, de Minister van 
 Financiën en andere bij de hersteloperatie betrokken organisaties. De beoogde verwerkingen door 
 de Belastingdienst/Toeslagen, de Minister van Financiën en andere bij de hersteloperatie betrokken 
-organisaties vinden enkel plaats voor zover dit noodzakelijk is voor het vaststellen van een recht op 
-36
+organisaties vinden enkel plaats voor zover dit noodzakelijk is voor het vaststellen van een recht op

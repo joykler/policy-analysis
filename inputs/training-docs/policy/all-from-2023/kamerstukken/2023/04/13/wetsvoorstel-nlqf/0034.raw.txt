@@ -55,4 +55,4 @@ de gegevens van de contactpersoon.
  
 Daarnaast kunnen gegevens verwerkt worden van degenen die onterecht een NLQF- en 
 EQF-niveau-aanduiding gebruiken bij één of meerdere van hun opleidingen omdat ze 
-    W6661.K-2 34
+    W6661.K-2
