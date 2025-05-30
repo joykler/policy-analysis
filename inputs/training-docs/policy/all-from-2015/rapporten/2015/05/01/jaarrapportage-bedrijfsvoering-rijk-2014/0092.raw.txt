@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+4.  Programma eID
+1b. Projectomschrijving
+Het programma eID heeft als hoofddoelstelling het opzetten van het eID Stelsel, dat het mogelijk maakt om de identiteit en bevoegdheid van burgers en bedrijven met een voor de relevante 
+transactiedienst voldoende mate van zekerheid vast te stellen.
+1c. Maatschappelijke relevantie
+De Nederlandse economie maakt dagelijks gebruik van de mogelijkheden die internet te bieden heeft en is er inmiddels sterk van afhankelijk. Denk aan het ophalen en uitwisselen van informa-
+tie, het delen van privacygevoelige gegevens en financiële transacties. Die afhankelijkheid zorgt voor een groot belang van vertrouwen in online identificatie en autorisatie. Het met grote 
+zekerheid kunnen vaststellen van iemands identiteit en bevoegdheid is cruciaal in een online samenleving. Daartegenover wordt fraudebestrijding steeds complexer en neemt de complexiteit 
+van systemen toe en daarmee ook het beheer en de kosten ervan.
+Een van de kerntaken van de Nederlandse overheid is om kaders en voorwaarden te scheppen voor een goed functionerende maatschappij, zo ook online. Een betrouwbare vaststelling van 
+iemands online identiteit en waartoe deze persoon bevoegd is om online transacties te mogen uitvoeren staat aan de basis hiervan. Er is binnen de overheid en het bedrijfsleven een sterke 
+behoefte aan een standaard in betrouwbare online identiteitsvaststelling die toekomstbestendig is en past binnen het Europese kader: het eID Stelsel. Vanwege die breed gedragen behoefte zijn 
+de overheid en het bedrijfsleven een samenwerking aangegaan in het eID-platform, dat fungeert als adviesorgaan voor de ambtelijke Stuurgroep eID. Daarmee geven zij aan samen te willen 
+werken aan een standaard voor toegang tot online dienstverlening.
+Betrouwbaarheid kent meerdere dimensies: allereerst de betrouwbaarheid van de identiteitsvaststelling die qua niveau moet passen bij de zwaarte en privacygevoeligheid van de transactie-
+dienst. Ten tweede de beschikbaarheid van de online identiteitsvaststelling, die zodanig moet zijn dat de transacties niet stilvallen als een middel tijdelijk uitvalt.
+Daarmee luidt de missie van het eID Stelsel als volgt:
+Het eID Stelsel maakt het mogelijk om de online identiteit en bevoegdheid van een persoon optimaal vast te stellen, zodat mensen kunnen vertrouwen op online dienstverlening van de 
+overheid en het bedrijfsleven.
+Baten
+In opdracht van de Stuurgroep eID hebben TNO en Deloitte een batenanalyse opgesteld. Over deze analyse is een second opinion gevraagd aan het Centraal Planbureau. Beide rapporten zijn in 
+maart 2014 aan de Tweede Kamer gezonden  (TK 26643, nr. 308).
+Relatie met regeerakkoord
+De hoofddoelstelling van het programma eID heeft het kabinetsvoornemen Digitale overheid 2017 als grondslag.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 92

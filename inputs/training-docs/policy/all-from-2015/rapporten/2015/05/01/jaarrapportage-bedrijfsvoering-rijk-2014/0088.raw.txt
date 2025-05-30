@@ -1,0 +1,34 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Centralisatiebaten
+ a. Minder lokale systemen
+ b. Minder lokale beheerorganisaties
+4. Kwalitatieve baten
+ a. Duurzamer
+ b. Beter imago door professioneel inkopen en tijdig betalen
+ c. Gebruiksgemak
+ d. Verhoging rechtmatigheid
+De doelen in het regeerakkoord waaraan door het project wordt bijgedragen
+DigiInkoop voorziet in een efficiëntere inrichting van de inkoop-, bestel- en de daarmee samenhangende factuurprocessen, en levert tevens een bijdrage aan het doelmatiger inkopen door het 
+Rijk. DigiInkoop vormt daarmee een belangrijk instrument voor de in het kader van de Compacte- Rijksdienstprojecten 5 (vermindering aantal inkooppunten) en 8 (bundeling Haagse inkoopaf-
+delingen) te realiseren baten. Andere doelen waar DigiInkoop, mede in combinatie met Tenderned, aan bijdraagt is het verminderen van de administratieve lasten voor het bedrijfsleven en het 
+door een marktplaatsfunctionaliteit bieden van de mogelijkheid aan ZZP-ers en MKB-ondernemingen om in (gesloten) marktplaatsrondes mee te dingen naar opdrachten van de Rijksoverheid.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+07-03-13 PID 1.0 definitief ja Projectinitiatiedocument implementatiefase
+05-03-11 1.0 definitief nee Deelplan. Lopende 2011 zal op onderdelen, waaronder een businesscase op het niveau van de deelne-
+mers nog een verdieping plaatsvinden.
+11-01-11 1.92 ja Het programmaplan is globaal, de rijksbrede afspraken komen terug in onderliggende stukken.
+01-09-09 0.7 concept nee Projectplan voldoet nagenoeg volledig aan de eisen geldend voor projectplannen opgesteld tussen
+12 december 2008 en 15 december 2009. Hoewel in december 2009 een Businesscase is opgesteld, 
+behoeft deze nog wel enige nadere verdieping. Daarbij is de scope van het project in de loop van 2009 
+aangepast.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+01-09-14 Gateway Gateway review Onderzoek of projectdeliverables in voldoende mate zijn opgeleverd en overgegaan kan worden naar de 
+beheer- exploitatiefase.
+14-06-14 BZK/Dictu/ADR Review Uitvoering BIR review + opstellen Information Security Management System.
+10-03-14 ADR Review Batenmonitor DigiInkoop (prognose baten).
+10-12-13 ADR en Dictu Onderzoek Uitvoering Afhankelijkheid- en kwetsbaarheidanalyse en opleveren informatiebeveiligingsplan. 
+BIR-toets zal begin 2014 worden uitgevoerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 88

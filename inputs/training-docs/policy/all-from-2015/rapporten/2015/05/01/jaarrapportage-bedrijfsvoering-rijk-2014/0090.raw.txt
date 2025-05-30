@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+Totale interne en externe beheerkosten voor de Electronic Procurement Voorziening (EPV) bedragen 21,8 mln. euro incl. BTW voor een periode van 8 jaar. Betreft kosten Logius incl. tijdelijke 
+ophoging 2014 en beheerkosten leverancier EPV.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Alle direct projectgerelateerde kosten zijn opgenomen in een projectbegroting. De kosten voor het voortraject t/m 2010 zijn als gerealiseerde (lumpsum) geboekt als inhuurkosten meegenomen. 
+De totale kosten inclusief de kosten voor het gebruik en beheer van de EPV en van de reeds bestaande Digipoortvoorziening (Berichtenverkeer) over de totale gebruikperiode van 8 jaar bedragen 
+60 mln. In dit bedrag zit in totaal over de gehele periode van 8 jaar een bedrag van 21,8 mln. aan beheerkosten begrepen (waarvan Logius voor beheer EPV 9,9 mln. en leverancier voor beheer 
+EPV 11,9 mln.) Aangezien de projectbegroting is opgezet op basis van het kopen van een samengestelde dienst in de markt (totaalprijs voor consultancy en gebruik van hard- en software) is een 
+vertaalslag gemaakt naar het budgettaire format in het rapportagemodel grote ICT-projecten. Abusievelijk zijn in 2011, 2012 en ten dele in 2013 de gebruikskosten van de Digipoort-
+(berichtenverkeer)voorziening tot de projectkosten gerekend. Dit betreft echter het gebruik van een reeds bij Logius bestaande voorziening en dit is daarmee geen onderdeel van het project. 
+Daarbij zijn tevens de hiermee samenhangende hard- en softwarekosten en de aansluitkosten deelnemers dubbel geteld. Hoewel hiervoor feitelijk de initiële projectbegroting zou moeten 
+worden verlaagd is besloten om de eerder gerapporteerde bedragen niet aan te passen. Wel is het projectbudget met een bedrag van in totaal €4,85 mln. gecorrigeerd. De in 2012 doorgevoerde 
+herijking van het projectbudget is op identieke wijze toegerekend naar de verschillende componenten.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Continueren inzet implementatieteam tot en met Q3 2014. Budget OBR.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-08-08 01-04-13 30-09-14
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 90

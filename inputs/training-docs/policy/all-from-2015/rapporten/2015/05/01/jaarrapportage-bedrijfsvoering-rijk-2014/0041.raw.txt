@@ -1,0 +1,40 @@
+Hoofdstukken Bijlagen
+1 2 3 4 55 1 2 3 4 5 6
+In de EAR worden verder de rijksregisters bijgehouden van generieke voorzieningen en open 5.6.2 Daadwerkelijk gemaakte kosten in 2014
+standaarden. Alle ‘bronnen’ zijn geordend naar zeven functionele informatiseringdomeinen  Naast schattingen hebben de departementen ook de daadwerkelijk door hen gemaakte  
+en samenhangend in kaart gebracht. De EAR is een referentiekader voor architecturen van kosten per project gerapporteerd. In 2014 is in totaal € 382 miljoen uitgegeven aan de in deze 
+departementen, departementale onderdelen en (rijksbrede) projecten. Het richt zich op de rapportage gemelde 46 ICT-projecten. Het feitelijke bedrag dat in 2014 werd uitgegeven, is 
+doelgroepen ambtelijk bestuurders/opdrachtgevers (bestuurlijk perspectief) en projectmana- eigenlijk lager. Dit komt doordat van een aantal projecten, die voor 2014 al waren gestart,  
+gers, adviseurs en architecten (bijvoorbeeld voor het opstellen van projectstartarchitecturen). alle uitgaven in 2014 zijn geboekt; deze projecten vielen pas in 2014 onder de rapportageplicht. 
+Elk ministerie is zelf verantwoordelijk voor het toepassen van de architectuurkaders volgens De departementen verwachten dat voor de 37 nog lopende projecten de komende jaren nog  
+het ‘pas toe of leg uit’-principe. € 667 miljoen zal worden uitgegeven. Voor de in 2014 afgeronde projecten is in totaal  
+(meerjarig) daadwerkelijk € 284 miljoen uitgegeven. Dat is gemiddeld € 31,5 miljoen per project. 
+5.6 Grote en risicovolle ICT-projecten 5.6.3 Belangrijkste aanpassingen in kostenschattingen
+De geschatte totale meerjarige kosten in 2014 van de 46 gerapporteerde ICT-projecten 
+Elk jaar rapporteert het Rijk over grote ICT-projecten met een meerjarig budget van meer dan  bedragen € 1.907 miljoen. Van 21 eind 2014 nog lopende projecten is zowel eind 2013 als eind 
+€ 20 miljoen en over risicovolle ICT-projecten vanaf € 5 miljoen. De selectie van projecten voor 2014 een raming gemaakt van de totale meerjarige kosten. Het totaal van deze ramingen in 
+deze lijst gebeurt door de departementen zelf. Zij schatten de risico’s in en beoordelen de 2014 was 9,14% hoger dan het totaal van de ramingen in 2013. Er zijn acht ramingen naar boven 
+projecten, ondermeer aan de hand van een uniform ‘risicoformulier’ voor het Rijk. Ook de bijgesteld en vijf naar beneden. Drie bijstellingen naar boven zijn groter dan € 20 miljoen: 
+publiekrechtelijke Zbo’s melden hun projecten aan, voor zover daar afspraken over gemaakt Modernisering Objectbediening Zeeland (MOBZ) van IenM, Programma Vernieuwing 
+zijn tussen het departement en de Zbo. De rapportagegegevens uit bijlage 6 zijn ook terug te Studiefinanciering (PVS) van OCW en Kwaliteit en Innovatie (KEI) van VenJ. Bij alle drie is dat voor 
+vinden op het Rijks ICT-dashboard (www.rijksictdashboard.nl). In bijlage 6 en de website is per een belangrijk deel veroorzaakt door een scopewijziging. Over deze drie projecten is de Tweede 
+project de ontwikkeling in de geschatte kosten en doorlooptijd te volgen. Van ieder project is Kamer intussen ingelicht. Alle herijkingen zijn met een toelichting opgenomen in bijlage 6.
+bovendien aangegeven wat het maatschappelijke belang en de opbrengst is. Ook is in deze 
+overzichten de correspondentie terug te vinden, die over het betreffende project tussen 5.6.4 Bevindingen Auditdienst Rijk (ADR)
+departement en Kamer is gevoerd en over de uitgevoerde externe kwaliteitstoetsen. De ordelijke, controleerbare en deugdelijke totstandkoming van de departementale rapporta-
+ges inzake grote ICT-projecten, zoals opgenomen in het Rijks ICT-dashboard, is door de 
+5.6.1 Aantal projecten Auditdienst Rijk onderzocht. Het onderzoek heeft betrekking op de totstandkoming van 
+Eind 2014 bevatte het Rijks ICT-dashboard informatie over 46 lopende of in 2014 afgeronde voornoemde rapportages en omvat geen beoordeling van individuele projecten.
+grote en risicovolle ICT-projecten bij het Rijk. Hiervan zijn er zestien nieuw ten opzichte van de 
+rapportage over 2013; 21 projecten waren ook in 2013 al in uitvoering. Er zijn in 2014 acht Het portfoliomanagement is ten opzichte van vorig jaar verder verbeterd. Drie departementen 
+projecten afgerond en er is er één geannuleerd. Het aantal projecten blijft de laatste jaren in zijn nog bezig met het formaliseren (procesbeschrijving) van het ingerichte proces. Doordat de 
+dezelfde orde van grootte. CIO-offices eerder bij de projecten betrokken zijn, zijn ze ook steeds beter in staat om de aan 
+hen opgeleverde projectinformatie voorafgaand aan de publicatie op het dashboard marginaal 
+te toetsen. Door twee departementen wordt deze toets nog niet uitgevoerd. De aansluiting van 
+Aantal projecten op ICT-dashboard per einde
+de gerapporteerde projectkosten met de financiële administratie krijgt ook steeds meer 
+2011 2012 2013 2014
+aandacht. Bij zes departementen wordt die aansluiting achteraf en met behulp van de 
+49 43 42 46
+financiële controllers en/of de ADR gemaakt.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 41

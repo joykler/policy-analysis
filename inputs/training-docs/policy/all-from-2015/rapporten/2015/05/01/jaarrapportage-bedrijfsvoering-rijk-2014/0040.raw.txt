@@ -1,0 +1,36 @@
+Hoofdstukken Bijlagen
+1 2 3 4 55 1 2 3 4 5 6
+5.2 Implementatie Baseline Informatiebeveiliging 5.3 Identiteiten en toegangsbeheer Rijk
+Rijksdienst (BIR) bij de departementen 
+Een veilige infrastructuur vereist dat identiteiten en toegangsbeheer rijksbreed geregeld zijn. 
+In 2014 hebben de departementen verder gewerkt aan de implementatie van de BIR.  Met het Rijks Identificerend Nummer (RIN) kunnen departementen personen registreren en 
+De minister voor Wonen en Rijksdienst heeft de BIR-procedures verder uitgewerkt, de deze koppelen aan een uniek identificeerbaar gegeven. Op 1 juli 2014 is het project RIN 
+implementatie gemonitord, gestimuleerd en ondersteund en waar nodig geïntervenieerd  succesvol en conform planning afgerond en is de beheervoorziening in productie genomen. 
+naar departementen. Intussen zijn ruim 100.000 actieve RIN’s uitgegeven.
+In februari 2015 hebben de departementen een ‘In Control Verklaring (ICV)’ aan de minister 
+voor Wonen en Rijksdienst afgegeven. Daarbij kon via het principe van ‘pas toe of leg uit’ De introductie van het RIN maakt het mogelijk om verder te gaan met het organiseren van 
+(comply or explain) worden aangegeven aan welke BIR-normen nog niet is voldaan en welke Rijks Identiteiten Management (RIdM). Hiermee wordt de fysieke en logische toegang 
+verbeterplannen er zijn om de explains weg te werken. gewaarborgd tot de juiste generieke fysieke en digitale voorzieningen. In 2014 is het streef-
+beeld vastgesteld. Onderzocht wordt wat de consequenties zijn van RidM voor de afzonderlijke 
+De ‘In Control Verklaringen’ moesten tenminste inzicht geven in de implementatie van de departementen en hun uitvoeringsorganisaties. Daarbij wordt ook het mogelijke hergebruik 
+BIR-maatregelen voor de tien meest kritische systemen van een departement en voor de van departementale Identiteiten Management-systemen onderzocht.
+meest urgente thema’s uit de BIR. Die thema’s zijn: 
+ • patch(stukjes herstelsoftware)management;
+ • beveiliging van externe koppelvlakken (met internet of de infrastructuur); 5.4 Rijkspas
+ • beheer van medewerkers en toegang;
+• de PlanDoCheckAct (PDCA)-cyclus; De Rijkspas is de generieke sleutel voor de toegang tot rijksgebouwen. In 2014 waren  
+ • logging (het automatisch vastleggen van handelingen) en monitoring (het toezien op 150.000 actieve passen in gebruik. Alle ministeries (exclusief Defensie) en een groot deel van  
+verstoringen en dergelijke). de uitvoeringsorganisaties gebruiken de Rijkspas voor toegang tot eigen en elkaars panden.  
+In 2014 is de Rijkspas verder ontwikkeld en geschikt gemaakt voor uitgebreidere toepassingen, 
+Vijf departementen hebben een ICV afgegeven over de hele informatievoorziening. De zoals het veilig inloggen op de werkomgeving op kantoor, thuis of onderweg. Sinds 2014 zorgt 
+overige departementen hebben zich beperkt tot hun kritische systemen en/of de vijf afge- een generiek card management systeem voor de aanvraag en het beheer van de Rijkspassen. 
+sproken thema’s. De meeste departementen geven aan redenen te hebben voor het niet-vol- Alle rijksoverheidsorganisaties die de Rijkspas in gebruik hebben, gaan hiervan gebruikmaken. 
+doen  en over verbeterplannen te beschikken voor het oplossen van deze ‘explains’. Een De eigen systemen kunnen daarmee verdwijnen.
+nadere uitvraag is gedaan naar de aard van de explains en de verbeterplannen.  
+De Auditdienst Rijk (ADR) heeft daarnaast in 2014 bij alle departementen steekproefsgewijs 5.5 Enterprise Architectuur Rijksdienst
+onderzoek gedaan naar deze vijf thema’s van de BIR. Per thema zijn de relevante maatregelen 
+van de BIR getoetst. De bevindingen zijn nog niet allemaal definitief vastgesteld en de In juni 2014 is de Enterprise Architectuur Rijksdienst (EAR) vastgesteld en gepubliceerd 
+uitvraag met betrekking tot de explains en de verbeterplannen loopt nog. Zodra deze zijn (www.earonline.nl). De EAR wordt actueel gehouden volgens het gelijktijdig vastgestelde beheer-
+vastgesteld en ontvangen, wordt rijksbreed gekeken welke vervolgstappen er nodig zijn. proces. De EAR is de opvolger van MARIJ: de Model Architectuur Rijksdienst. De EAR biedt een set 
+multilaterale afspraken en inrichtingsprincipes voor de informatisering binnen de rijksdienst. 
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 40

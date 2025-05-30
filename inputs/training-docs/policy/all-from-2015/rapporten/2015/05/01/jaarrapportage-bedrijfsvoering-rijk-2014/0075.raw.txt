@@ -1,0 +1,36 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+14 EZ Programma  10-07-14 31-12-17 31-12-17 36,00 1,80 0,00 34,20 36,00 36,00 nieuw
+Blik op NVWA 2017
+15 Fin Vervanging aangiftesystemen (AGS) 01-10-08 31-12-11 01-09-15 25,50 4,60 35,10 7,10 46,80 46,80 0,00 0,00%
+16 Fin Basisregistraties 01-07-06 31-12-11 01-01-16 35,00 3,10 37,80 1,60 42,50 43,70 -1,20 -2,75%
+17 Fin SEPA 23-09-11 01-01-13 01-02-14 20,83 0,01 18,29 0,00 18,30 18,35 -0,05 -0,27% afgerond
+18 Fin Cumulus 01-01-13 01-07-14 01-07-16 18,80 25,60 0,00 11,50 37,10 0,00 37,10 nieuw
+19 Fin Mijnbelastingdienst.nl 16-03-12 31-12-15 31-12-15 8,23 16,35 0,00 11,15 27,50 0,00 27,50 nieuw
+20 Fin Mini One Stop Shop (MOSS) 01-06-13 01-06-15 31-12-15 8,59 10,53 0,00 3,28 13,81 0,00 13,81 nieuw
+21 Fin Online Aangifte Voorziening (OLAV) 08-05-13 31-03-15 31-03-16 18,61 22,16 0,00 4,50 26,66 0,00 26,66 nieuw
+22 Fin Programma Rationalisatie 01-01-15 31-12-17 31-12-17 104,99 0,00 0,00 104,99 104,99 0,00 104,99 nieuw
+23 IenM Modernisering Objectbediening 02-05-05 01-01-10 01-01-20 23,14 10,29 31,72 30,15 72,16 51,58 20,58 39,90%
+Zeeland (MOBZ)
+24 IenM Programma Info-uitwisseling 01-01-11 31-12-13 31-12-14 10,15 1,90 6,68 0,00 8,58 11,49 -2,91 -25,33% afgerond
+Milieuhandhaving (PIM)
+25 IenM Vervanging Voice Communicatie 10-05-10 31-12-14 30-06-15 25,13 4,10 18,10 0,60 22,80 23,10 -0,30 -1,30%
+Systeem LVNL
+26 IenM Beveiligd werken Rijkswaterstaat 01-12-13 31-12-16 31-12-17 158,14 17,61 0,00 103,15 120,76 0,00 120,76 nieuw
+27 IenM CONNECT 01-01-13 31-12-15 30-06-16 18,66 12,47 0,00 15,40 27,87 0,00 27,87 nieuw
+28 OCW Invoeren BRON-HO 01-07-08 31-12-11 03-10-14 9,00 2,05 19,98 0,00 22,03 22,88 -0,85 -3,72% afgerond
+29 OCW Programma Vernieuwing 01-09-10 01-09-14 31-12-16 75,00 21,65 44,93 62,02 128,60 107,26 21,34 19,90%
+Studiefinanciering (PVS)
+30 OCW Digitale Taken Rijksarchieven (DTR) 01-01-14 31-12-15 31-12-15 28,01 7,59 0,00 23,71 31,30 0,00 31,30 nieuw
+31 SZW Veranderprogramma SVB TIEN 01-01-06 31-12-10 02-09-14 76,00 34,40 87,40 0,00 121,80 79,20 42,60 53,79% geannuleerd
+32 SZW UWV: ICT Transitie WERKbedrijf 01-04-11 31-12-15 31-12-15 68,09 21,70 63,10 12,60 97,40 96,60 0,80 0,83%
+33 SZW UWV: Kantoorautomatisering, 01-01-10 31-12-15 31-12-15 42,99 7,30 35,06 10,39 52,75 46,71 6,04 12,93%
+Werkplek en Netwerken
+34 SZW Continue screening kinderopvang 28-11-13 31-12-16 31-12-16 6,58 2,08 0,38 3,64 6,10 6,58 -0,48 -7,29%
+fase 2
+35 SZW Wijziging Ontslagstelsel en 29-04-14 01-10-15 10-02-15 9,20 20,30 0,00 0,00 20,30 - 20,30 nieuw
+Passende Arbeid (WOPA)
+36 SZW Wijziging Oude Werkloosheidswet 29-04-14 31-03-16 31-03-16 14,90 8,20 0,00 10,50 18,70 - 18,70 nieuw
+(WW)
+37 VenJ Kwaliteit en innovatie (KEI) 02-07-12 01-01-15 02-07-18 7,00 8,42 6,34 64,24 79,00 29,00 50,00 172,41%
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 75

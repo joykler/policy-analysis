@@ -1,0 +1,40 @@
+Hoofdstukken Bijlagen
+1 2 3 44 5 1 2 3 4 5 6
+4.10 ICT categoriemanagement en strategisch 4.11 Onderzoeksagenda i-Rijk 
+leveranciersmanagement 
+Samen met de wetenschap en het bedrijfsleven zet het Rijk ICT-onderzoeksvragen uit bij 
+Om de relatie met ICT-leveranciers te versterken, werkt de rijksoverheid aan de inrichting van wetenschappers en adviesbureaus. Daarvoor is eerder een rijksbreed mantelcontract voor 
+rijksbreed strategisch leveranciersmanagement en inkoop (categorie)management voor ICT. strategisch ICT-advies afgesloten. De onderzoeksvragen sluiten aan op belangrijke politiek- 
+bestuurlijke, maatschappelijke, informatiekundige en technologische trends. In 2014 is gewerkt 
+Categoriemanagement is onder te verdelen in verschillende inkoopcategorieën. Per categorie aan een gezamenlijke specificering van onderzoeksvragen, in lijn met de I-Strategie Rijk 
+kan optimaal worden ingekocht, kunnen contracten goed worden benut en kan invloed 2012-2015. Dat is de gemeenschappelijke strategie van het kabinet op ICT-terrein. Verder is de 
+worden uitgeoefend op de vraag van de overheid naar producten en diensten. Het gaat inzet van (wetenschappelijk) onderzoek bij de werkzaamheden van de Chief Information 
+daarbij om aanbesteden, inkopen en het sluiten van contracten met leveranciers. Ook is Officers (CIO’s) van de departementen in 2014 versterkt, onder andere door een specifieke, op 
+daarnaast het ontwikkelen van een visie op de levenscyclus van generieke producten of departementen gerichte, opdrachtformulering. 
+diensten zo beter mogelijk. In 2014 zijn de volgende ICT-categorieën vastgesteld: Inhuur 
+ICT-personeel, Standaard (pakket)software, ICT Werkomgeving Rijk, Datacenter, 
+Dataverbindingen, Totaaloplossingen (software en diensten gecombineerd) en ERP (bedrijfs- 4.12 Duurzame faciliteiten 
+voeringssoftware). Voor deze ICT-categorieën zijn op dit moment categorieplannen in de 
+maak. Als grootverbruiker van energie en grondstoffen kan en moet het Rijk een belangrijke bijdrage 
+leveren aan de noodzakelijke besparingen en vermindering van het gebruik van beschikbare 
+Voor de leveranciers SAP, Microsoft en Oracle zijn drie strategisch leveranciersmanagers op middelen. In september 2013 heeft het kabinet zich aan het Nationaal Energieakkoord 
+topmanagementniveau bezig met stapsgewijze invulling van hun rol namens het Rijk. Hierbij gecommitteerd. Dit sluit aan op de beleidsdoelen van het kabinet:
+wordt gestreefd naar een bijdrage van deze leveranciers aan de strategische doelen van het • 20% minder CO -uitstoot in 2020 (Duurzaamheidsagenda IenM);
+2
+Rijk en optimale benutting van de contractuele mogelijkheden. Hierdoor kunnen rijksbrede  • Een volledig duurzame energievoorziening in 2050 (regeerakkoord Rutte-2);
+voordelen worden behaald. Voor de uitvoering van deze doelstelling is in 2014 gestart met het  • Bijdragen aan de volgende (nationale) doelen in het Nationaal Energieakkoord:
+maken van strategische leveranciersplannen. - een besparing van het finale energieverbruik met gemiddeld 1,5% per jaar;
+- een toename van het aandeel hernieuwbare energieopwekking naar 14% in 2020 en een 
+Randvoorwaarde voor het realiseren van de doelstellingen van strategisch leveranciers- verdere stijging van dit aandeel naar 16% in 2023;
+management is dat inzichtelijk kan worden gemaakt welke softwareproducten er in gebruik  • Energieneutrale nieuwbouw vanaf 31 december 2018 (EU Energy Performance of Buildings 
+zijn, welke waarde deze producten vertegenwoordigen en welke gebruiksrechten van Directive recast);
+toepassing zijn. Daarom is eind 2014 een opdracht verstrekt voor een integrale beschrijving • Kosteneffectieve maatregelen in de rijksbedrijfsvoering om jaarlijks 2% te besparen op 
+van de huidige stand van zaken binnen de rijksoverheid en een (verbeter)plan om Software energie in de rijksgebouwen, oplopend tot 25% besparing in 2020 ten opzichte van 2008.  
+Assetmanagement binnen de rijksoverheid versneld op een beter niveau te brengen. Deze Dit past in de doelstellingen van het Nationaal Energieakkoord en van de Europese ernergie- 
+beschrijving en het (verbeter)plan worden in het eerste kwartaal van 2015 opgeleverd, efficiëntie richtlijn (EED);
+waarna, na besluitvorming, middels een meerjarenaanpak de acties uit het plan worden • Streven naar een circulaire economie en stimuleren van de (Europese) markt voor duurzame 
+uitgevoerd. De tot nu toe uitgevoerde Verkenning Software Assetmanagement rijksoverheid grondstoffen en hergebruik van schaarse materialen (Regeerakkoord Rutte-2).
+laat zien dat de mate waarin Software Assetmanagement bij de verschillende onderdelen van 
+de rijksoverheid is ingebed nogal verschilt. In de aanpak wordt naar een eenduidig volwassen-
+heidsniveau conform ISO normering gestreefd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 34

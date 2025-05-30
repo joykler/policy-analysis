@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+14-04-14 € 26,98 30-09-14 Continueren inzet implementatieteam tot en met Continueren inzet implementatieteam tot en met 
+Q3 2014. Budget OBR. Q3 2014. Budget OBR.
+08-10-13 € 26,37 30-06-14 Hoewel het project vergevorderd is, is besloten om Hoewel het project vergevorderd is, is besloten om 
+met name de implementatieondersteuning nog met name de implementatieondersteuning nog 
+enige maanden te verlengen. enige maanden te verlengen.
+22-10-12 € 25,43 31-12-13 Bij aanvang van het project is de complexiteit Bij aanvang van het project is de complexiteit 
+onderschat waarbij een te ambitieuze planning is onderschat waarbij een te ambitieuze planning is 
+opgesteld en waarbij te weinig marge is gereser- opgesteld en waarbij te weinig marge is gereser-
+veerd voor het uitvoeren van (voorzien) meerwerk. veerd voor het uitvoeren van (voorzien) meerwerk.
+05-07-11 € 21,49 01-07-13 In juli 2011 en (aanvullend) in oktober 2012 is door In juli 2011 en (aanvullend) in oktober 2012 is door 
+de ICBR vastgesteld dat onder andere a) het de ICBR vastgesteld dat onder andere a) het 
+oorspronkelijk in de markt gezette programma van oorspronkelijk in de markt gezette programma van 
+eisen een aantal hiaten vertoonde en b) op eisen een aantal hiaten vertoonde en b) op 
+onderdelen de complexiteit met name van het onderdelen de complexiteit met name van het 
+elektronische berichtenverkeer is onderschat. elektronische berichtenverkeer is onderschat.
+7a. Geschatte levensduur na oplevering
+De deelnemers sluiten gefaseerd aan. Afhankelijk van het instapmoment bedraagt de levensduur na oplevering circa 8 jaar.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Geen afwijking.
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+16-06-11 26643 nr. 184 Uitrolplanning DigiInkoop https://zoek.officielebekendmakingen.nl/kst-26643-184.html
+Wijziging contractvorm
+De contractvorm heeft geen wijziging ondergaan. In 2011 is leverancier Ordina gecontracteerd voor de realisatie en het beheer van de webwinkelmodule (EPV) van DigiInkoop.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 91

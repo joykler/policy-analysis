@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 55 1 2 3 4 5 6
+Rijk en ICT- infrastructuur
+Rijk en ICT-infrastructuur
+5
+In 2014 heeft de Tijdelijke commissie ICT-projecten bij de overheid (de commissie Elias) haar De Auditdienst Rijk heeft in 2014 in opdracht van de Chief Information Officer (CIO) Rijk 
+23
+eindrapport gepresenteerd. Het kabinet heeft inmiddels gereageerd op het rapport en heeft inzichtelijk gemaakt hoe de zogenaamde PDCA-cyclus (plan-do-check-act) van de fysieke 
+de meeste aanbevelingen overgenomen. beveiliging van de ODC’s is ingericht en functioneert. De aandachtspunten uit dit rapport zijn 
+meegenomen bij het opstellen van richtlijnen voor beveiligingsmaatregelen in de ODC’s, waar 
+In 2014 zijn de maatregelen uit de I-Strategie Rijk 2012-2015 en de gemeenschappelijke in de toekomst datasets worden ondergebracht met een rubricering Staatsgeheim Geheim.  
+strategie van het kabinet op ICT-terrein in uitvoering en voor een deel gerealiseerd. Eerder in De richtlijnen staan nu in een leidraad die inhoudelijk eind 2014 in een afrondend stadium is 
+deze rapportage (zie hoofdstuk 1) staat de voortgang beschreven van het terugbrengen van gekomen.
+het aantal interne dienstverleners en datacenters en van de realisatie van de generieke 
+werkplek voor ministeries. In het hoofdstuk Rijk als werkgever en organisatie (hoofdstuk 3) Vanwege de mogelijke effecten van de USA Patriot act zijn in de datacentercontracten 
+staat beschreven hoe de rijksoverheid doorgaat met professionaliseringsmaatregelen uit de voorwaarden opgenomen. Die maken ontbinding van contracten mogelijk als een bedrijf wordt 
+I-strategie, via gerichte opleidingsactiviteiten. Over de voortgang van de andere maatregelen overgenomen door een Amerikaans bedrijf dan wel een ongewenste partij, of daarmee een 
+uit de I-Strategie wordt hieronder gerapporteerd. relatie aangaat. Daarnaast zijn er in de desbetreffende ODC’s maatregelen getroffen om de 
+ongewenste effecten van de Patriot act tegen te gaan. Zo heeft personeel van bepaalde 
+partijen geen toegang tot de betreffende ODC en de daarin gehuisveste data en systemen van 
+5.1 Beveiliging overheidsdatacenters (ODC’s) en Rijkscloud het Rijk. 
+Bij de realisatie van de nieuwe overheidsdatacenters (ODC’s) is de beveiliging een belangrijk Sinds 24 juni 2014 gaat het programma Consolidatie Datacenters verder als het programma 
+aandachtspunt. Een groot deel van de gegevens van het Rijk gaat hier te zijner tijd opgeslagen Rijkscloud. Dit programma realiseert de standaardisatie van en interoperabiliteit (technische 
+worden. Eerder is afgesproken dat de ODC’s in staat moeten zijn gerubriceerde informatie wisselwerking) tussen de IT-infrastructuurlagen. Ook valt onder dit programma de realisatie 
+onder te brengen tot en met het niveau Staatsgeheim Confidentieel. Voor dit beveiligings- van de (glasvezel) verbinding tussen de ODC’s (de zogenaamde backbone). Tegelijkertijd wordt 
+niveau is medio 2012 een normenkader vastgesteld. De scope van het kader betreft het een uniforme voorziening geïmplementeerd, waarmee beveiligde koppelingen tussen 
+fysieke gedeelte van ODC’s, het zogenaamde Tactisch normenkader housing. hoofdnetwerken worden gecreëerd. Daarmee wordt een solide basis gelegd voor de Rijkscloud.
+23 TK 33326, nummer 13
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 39

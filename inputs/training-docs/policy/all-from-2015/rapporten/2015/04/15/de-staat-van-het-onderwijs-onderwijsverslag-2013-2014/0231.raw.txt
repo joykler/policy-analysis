@@ -1,0 +1,57 @@
+de staat van het onderwijs
+Selectie Toezichtarrangementen
+6, 13, 80, 158, 190, 192, 200 58, 59, 73, 84, 85, 96, 97, 116, 126, 143, 144, 167, 208, 214
+Slaag-/zakregeling Tussenjaar
+24, 101, 103 192
+Slagingspercentage / Slaagpercentage Tussenopbrengsten
+24, 99, 101, 102, 131, 207, 209 61
+Sociale kwaliteit Tweedegraads lerarenopleiding
+23, 24, 67, 105, 132 21, 183, 194, 201
+Sociale opbrengsten / sociale competenties / sociale 
+vaardigheden
+23, 24, 65, 67, 87, 105, 132, 139 U
+Sociale veiligheid(sbeleving) Uitleg
+47, 48, 49, 87, 90, 95, 105, 106 36, 37, 66, 67, 68, 70, 74, 75, 87, 90, 95, 98, 106, 107, 117, 
+Solvabiliteit 135, 145
+41, 42, 78, 79, 110, 111, 138, 173, 174, 198, 199, 219 Uitstroom
+Speciaal basisonderwijs 104, 127, 128, 129, 130, 132, 133, 134, 135, 141, 145, 194
+28, 54, 57, 60, 73, 74, 75, 90, 129, 130 Uitstroomprofiel
+Staatsexamen 133, 134, 135, 145
+109, 130 Uitval
+Stage(plaats) / stageplek 15, 18, 24, 33, 34, 158, 163, 183, 190, 191, 194, 195, 201, 207, 
+19, 132, 134, 145, 192, 195, 199, 213 215
+Stapelen Uitval eerstejaars
+13, 18, 104, 165 18, 188, 189, 207, 214, 215, 216
+Stelsel / onderwijsstelsel
+6, 15, 16, 18, 21
+Studenttevredenheid V
+172, 175, 183, 184, 185, 194, 200, 214, 220 Vakkennis
+Studieduur 70, 166
+15, 188, 189, 190 Veiligheid / veiligheidsbeleid
+Studiekeuze(check) 47, 48, 72, 87, 90, 95, 105, 106, 113, 132, 176
+159, 190, 192, 193 Verbetertraject
+Studieloopbaanbegeleiding 76, 80, 133, 136
+155, 156, 157, 158, 169, 170, 212, 213 Verschil schoolexamen – centraal examen
+Studierendement 95, 96, 99, 102, 105, 109, 118, 119, 209
+200, 220 Versnelling / versnellen
+Studiesucces 14, 57, 64, 81
+183, 184, 188, 194, 196, 201, 214 Vertraging
+Switch(ers) / Studieswitch / Opleidingsswitch 13, 14, 57, 63, 64, 81, 171, 198
+189, 190, 201, 210, 215, 216, 220 Vertrouwensinspecteurs
+48, 72, 73, 106, 125, 132, 133, 176, 198
+Vervolgonderwijs
+T 6, 80, 113, 128, 129, 141
+Taalachterstand Vervolgtoezicht
+66, 74, 80, 87, 90, 158 28, 152, 210
+Taalexamens Verwijdering
+161, 162 73, 106
+Tevredenheid / studenttevredenheid Verzuim / verzuimbeleid
+6, 25, 33, 34, 35, 36, 37, 105, 155, 158, 159, 160, 172, 175, 98, 113, 134, 135, 140, 145, 158, 166, 175
+183, 184, 185, 186, 187, 193, 194, 195, 200, 201, 213, 214, Voltijdstudenten
+217, 220 15, 183, 185, 186, 187, 188, 189, 190, 191, 192, 193, 214, 215, 
+Thuiszittende leerlingen / thuiszitters 216, 217
+49, 109, 113 Voortgezet algemeen onderwijs voor volwassenen (vavo)
+Toetsen 105, 108, 109, 118, 130
+24, 30, 38, 60, 61, 62, 63, 73, 80, 99, 100, 108, 127, 160, 171, 
+183, 187, 188, 195, 213
+231

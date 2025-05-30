@@ -1,0 +1,32 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+10-01-14 € 276,47 30-06-15 Verschuiving einddatum als gevolg van de Verschuiving einddatum als gevolg van de 
+gewijzigde migratiestrategie. gewijzigde migratieplanning. 
+02-11-12 € 276,47 31-12-14 Einddatum verschoven en budget aangepast Einddatum verschoven en budget aangepast 
+vanwege besluit dat SPEER de reorganisaties van vanwege besluit dat SPEER de reorganisaties van 
+Defensie zal volgen en ondersteunen. Besluit zorgt Defensie zal volgen en ondersteunen. Besluit zorgt 
+voor extra werkzaamheden en vertraging van het voor extra werkzaamheden en vertraging van het 
+migratietempo. migratietempo.
+03-03-09 € 268,10 30-06-14 Verschuiving einddatum als gevolg van de Verschuiving einddatum als gevolg van de 
+gewijzigde migratiestrategie. gewijzigde migratiestrategie. 
+20-10-08 € 268,10 31-12-13 Programmabudget met 27,1 mln. verhoogd Programmabudget met 27,1 mln. verhoogd 
+vanwege prijsstijgingen in de markt voor ICT vanwege prijsstijgingen in de markt voor ICT 
+dienstverlening en meerkosten als gevolg van dienstverlening en meerkosten als gevolg van 
+vertragingen. vertragingen.
+16-02-07 € 241,00 31-12-13 Wijziging doelstellingen en programma-aanpak. Wijziging doelstellingen en programma-aanpak.
+7a. Geschatte levensduur na oplevering
+Onbekend
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+De ingevoerde ERP-systemen binnen Defensie zullen voortdurend worden doorontwikkeld. Dat betekent dat geen bevroren toestand ontstaat van waaruit de levensduur kan worden berekend, 
+wel dat periodiek uitbreidingen, aanpassingen en verbeteringen worden uitgevoerd. Het is onbekend op wat voor termijn ingevoerde en doorontwikkelde ERP-systemen als (technisch) verou-
+derd moeten worden beschouwd.
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+09-03-15 TK 31 460, nr. 53 Project SPEER https://zoek.officielebekendmakingen.nl/kst-31460-53.html
+26-02-15 TK 31 460, nr 52 Project SPEER https://zoek.officielebekendmakingen.nl/kst-31460-52.html
+09-01-15 TK 31 460 nr. 51 Project SPEER https://zoek.officielebekendmakingen.nl/kst-31460-51.html
+27-11-14 TK 31 460 nr. 50 Project SPEER https://zoek.officielebekendmakingen.nl/kst-31460-50.html
+16-10-14 TK 31 460 nr. 49 Project SPEER https://zoek.officielebekendmakingen.nl/kst-31460-49.html
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 103

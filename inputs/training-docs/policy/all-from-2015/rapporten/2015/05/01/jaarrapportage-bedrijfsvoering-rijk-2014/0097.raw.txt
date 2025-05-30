@@ -1,0 +1,35 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+Relatie met regeerakkoord
+De rijksoverheid gaat goedkoper, flexibeler en efficiënter werken, met minder bestuurlijke en ambtelijke drukte en regeldruk. Dat moet bijdragen aan verbetering van de dienstverlening aan 
+burgers en bedrijven. Beleid en uitvoering worden vereenvoudigd, toezichtstaken en adviesfuncties samengevoegd, taken beëindigd of gedecentraliseerd naar andere overheden en de 
+deregulering met kracht voortgezet. Dit beleid leidt tot lagere kosten. Vanwege het grote belang en de complexiteit van deze opgave is de verantwoordelijkheid hiervoor ondergebracht bij een 
+nieuwe minister voor Wonen en Rijksdienst met doorzettingsmacht, op het ministerie van BZK. Aanvullend op besparingen uit de vorige kabinetsperiode wordt binnen de rijksdienst in 2017 
+nog eens 1,1 miljard structureel omgebogen. De bezuiniging richt zich op vastgoed en huisvesting, basisregistraties en keteninformatie en de bedrijfsvoering bij zelfstandige bestuursorganen 
+(ZBO’s) en daarmee vergelijkbare organisaties. Alle ministeries en ZBO’s dienen deel te nemen aan rijksbrede shared services onder meer op het gebied van bedrijfsvoering en dus ook aan het 
+onderbrengen van eigen datacenters bij één van de Overheidsdatacenters.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+19-04-13 2.0 ja Het projectplan is inhoudelijk geactualiseerd na afronding van fase 1, waarin een locatiekeuze tot stand 
+is gekomen. De voorgenomen werkwijze voor aanbesteding, een aanscherping in de governance en de 
+projectcalculatie zijn vastgesteld om de realisatiefase in te gaan. Het apart uitgewerkte programma van 
+eisen en de weergave hiervan in een vraagspecificatie aan de markt zijn opgenomen in de 
+aanbestedingsdocumentatie.
+22-06-12 1.0.1 ja Voor de sturing van het project is een stuurgroep ingericht waarin zowel de Rijksgebouwendienst als 
+SSC-ICT zijn vertegenwoordigd. De voorzitter is de directeur SSC-ICT die als opdrachtnemer optreedt 
+naar de opdrachtgever dgOBR.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+22-10-13 ADR Projectaudit Beheersmaatregelen in projectsturing - zomer 2013
+29-04-13 VKA Adviseurs Toetsing aanbesteding Consistentie in programma van eisen en aanbesteding in vergelijking met aanbesteding van 2 overige 
+ODC's - april 2014
+25-04-13 Programma PCDC Kadertoets PCDC Conformiteit programmakaders in aanbestedingsdocumenten - april 2014
+15-04-13 AIVD/NBV Security scan locatie Locatie, programma van eisen en aanbestedingdocumentatie - april 2013
+12-04-13 Landsadvocaat Review aanbesteding en Aanbestedingsdocumentatie en voorgestelde contract alvorens deze op de markt zijn uitgezet - april 
+contractstukken 2013
+16-01-13 Overdevest Adviseurs Review budgetraming Projectcalculatie RGD voor verbouwing en inrichting datacenter - december 2012
+installaties
+19-12-12 Capgemini Site survey Geschiktheid van het beoogd pand als ODC - najaar 2012
+29-10-12 Security officers RGD en Security scan locatie Te beveiligen risico's van het beoogd pand als ODC - najaar 2012
+SSC-ICT
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 97

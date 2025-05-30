@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 2,12 € 0,76 € 0,56
+ingehuurd extern personeel € 7,96 € 52,20 € 38,24
+intern personeel € 4,54 € 5,73 € 4,20
+uitbesteed werk € 10,20 € 3,08 € 2,25
+overige projectkosten € 4,77 € 13,29 € 6,81
+TOTALEN € 29,59 € 75,06 € 52,06
+4b. Verwachte kosten voor beheer en onderhoud
+Naast de kosten voor ontwikkeling en implementatie heeft Gartner ook de kosten voor beheer geraamd. Deze kosten (€ 114 miljoen) komen voor de totale periode tot en met 2018 nagenoeg 
+overeen met de huidige beheerkosten van de bestaande GBA-voorzieningen en worden daarmee binnen de huidige bekostigingssystematiek gefinancierd.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Bovenstaande bedragen zijn afgeleid uit de verhouding van de gerealiseerde cumulatieve kosten (naar kostensoort). In werkelijkheid kan de verdeling van de nog te maken kosten anders 
+uitpakken.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-03-09 01-05-15 31-12-18
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 82

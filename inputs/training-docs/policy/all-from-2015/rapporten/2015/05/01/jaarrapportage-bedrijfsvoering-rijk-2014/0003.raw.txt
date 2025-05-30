@@ -1,0 +1,51 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 6
+Bijlagen
+Rijk en  Bijlage 1 Bijlage 2.  Rijksbrede kengetallen personeel
+ICT-infrastructuur
+5
+5.1 Beveiliging overheidsdatacenters 1 Personele bezetting in fte’s  2.5 Stages 46 3.4 Opleiden en ontwikkelen 50
+Dashboard 43
+(ODC’s) en Rijkscloud 39 binnen alle sectoren 44
+2.6 Beloningen 46 3.5 Mobiliteit 50
+5.2 Implementatie Baseline 2 Sector Rijk 44
+2.7 Geregistreerde functionerings- 3.6 ABD TOPConsult 50
+Informatiebeveiliging Rijksdienst 
+2.1 Leeftijdsopbouw 44gesprekken 48
+(BIR) bij de departementen 40 3.7 ABD Interim 51
+2.2 Ontwikkeling gemiddelde  3 Algemene Bestuursdienst 48
+5.3 Identiteiten en  
+3.8 Beloningen  
+leeftijd 45
+toegangsbeheer Rijk 40
+3.1 Leeftijd en schaalverdeling 49 Topmanagementgroep 51
+2.3 M/V verdeling rijksambtenaren 45
+5.4 Rijkspas 40 3.2 Verbreding dienstverlening 49
+2.4 Specialistische  
+5.5 Enterprise Architectuur  3.3 Gevarieerd personeelsbestand  
+traineeprogramma’s 46
+Rijksdienst 40 Algemene Bestuursdienst 49
+5.6 Grote en risicovolle  
+ICT-projecten 41
+5.6.1 Aantal projecten 41
+Bijlage 3. Rijksbrede  Bijlage 4 Bijlage 5 Bijlage 6 
+5.6.2 Daadwerkelijk gemaakte  (kengetallen) Huisvesting
+kosten in 2014 41
+1 Huisvestingsnormen 52 Externe Inhuur 55
+Overzicht Kaderwet Adviescolleges  Grote en risicovolle ICT-projecten 74
+5.6.3 Belangrijkste aanpassingen in 
+en nieuwe commissies 57
+kostenschattingen 41
+2 Masterplannen 53
+5.6.4 Bevindingen Auditdienst Rijk (ADR) 41
+3 Ontwikkeling van 
+gebruiksvergoeding 
+5.7 Toegankelijke Overheidswebsites 
+kantoorhuisvesting 53
+(Webrichtlijnen) 42
+4 Beroep op leenfaciliteit ten 
+5.8 Rijks Application Store (RAS) 42
+behoeve van Rijkshuisvesting 54
+5.9 Digitale archivering Rijk 42
+5.10 Archiefachterstanden 42
+u

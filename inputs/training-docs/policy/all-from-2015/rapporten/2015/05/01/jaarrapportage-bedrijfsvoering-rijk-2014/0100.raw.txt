@@ -1,0 +1,31 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+6.  ERP/M&F (SPEER)
+1b. Projectomschrijving
+SPEER was het programma waarmee het ministerie van Defensie werkte aan de verbetering van haar financiële en materieel-logistieke processen. SPEER was een grootschalig verander -
+programma met een zware impact in grote delen van de defensieorganisatie. Dit veranderprogramma werd ondersteund door de ontwikkeling en invoering van een nieuw, geïntegreerd ERP.  
+Het programma SPEER is medio 2013 beeindigd en de voltooiing van de programmadoelen is belegd in de lijnorganisatie. Met het stopzetten van het programma spreken we niet meer over 
+SPEER, maar over de basisimplementatie ERP. De doelstellingen en reikwijdte zijn ongewijzigd, overeenkomstig de Tussenbalans 2010.
+1c. Maatschappelijke relevantie
+SPEER heeft vier doelstellingen: 
+(1) het ondersteunen van de defensiebrede bedrijfsvoering en het joint operationeel optreden, (2) het ondersteunen van het besturingsmodel van Defensie, (3) het realiseren van doelmatigheids-
+winst door de herbelegging van processen en (4) het realiseren van doelmatigheidswinst en betere beheersing van het IV-beheer door de uitfasering van legacysystemen. 
+De eerste doelstelling is gericht op het realiseren van een gesloten logistieke keten, waarin defensie-onderdelen kunnen samenwerken, ondersteund door één informatiesysteem. De tweede 
+doelstelling zorgt ervoor dat alle processen binnen Defensie worden gestandaardiseerd en geïntegreerd. De derde doelstelling levert een besparing op van 550 functies en 12 miljoen euro per 
+jaar op (tezamen afgerond 40 mln.) en is mogelijk omdat met de invoering van ERP grotere efficiency wordt bereikt en de vierde doelstelling wordt bereikt door de uitfasering van meer dan  
+20 legacysystemen.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+08-12-03 Projectplan versie 1 nee Aan projectplannen van vóór 12 december 2008 worden geen specifieke eisen gesteld
+(Bestuursvernieuwing en 
+ERP)
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+26-02-15 Audit Dienst Rijk Audit De beheersing van de inrichting en de functiescheiding in en rond ERP M&F
+(wettelijke controle taak)
+23-10-14 Audit Dienst Rijk Audit Onderzoek Get Clean en Stay Clean
+(wettelijke controle taak)
+18-07-14 Audit Dienst Rijk Audit Onderzoek geautomatiseerde factuurcontrole
+(wettelijke controletaak)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 100

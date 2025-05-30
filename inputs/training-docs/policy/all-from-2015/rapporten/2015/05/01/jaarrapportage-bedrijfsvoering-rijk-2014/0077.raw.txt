@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+1.  i-diplomatie (voorheen Programma Digitalisering)
+1b. Projectomschrijving
+Het programma iDiplomatie (dat tot februari 2014 Digitalisering heette) richt zich op alle (documentaire) informatiestromen binnen de beleids- en stafprocessen van BZ. Het programma heeft 
+tot doel te realiseren dat uiterlijk medio 2015:
+1.  de stukkenstroom in de beleidsprocessen volledig digitaal verloopt Dit betekent dat documenten vanaf het moment van ontvangst of creatie tot en met de archivering digitaal worden 
+opgesteld, gedistribueerd, geparafeerd en gearchiveerd.
+2.  een samenwerkingsplatform is ingericht voor de samenwerking op het departement en tussen departement en posten. Dit platform is de basis voor samenwerkingsfunctionaliteit met 
+externe partijen, die waarschijnlijk na 1 januari 2015 wordt gerealiseerd.
+3.  Medewerkers plaats-, tijd- en apparaat kunnen werken, waarbij wordt ingezet op het toepassen van Secure Remote Access (direct access).
+1c. Maatschappelijke relevantie
+iDiplomatie maakt onderdeel uit van het verandertraject Modernisering Diplomatie. BZ is toonaangevend in 2016, een flexibele netwerkorganisatie. BZ gaat volledig digitaal (any place, any time, 
+any device).
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+28-05-12 1.0 (Definitief) ja In 2014 is het programma hernoemt van Digitalisering naar iDiplomatie. In de nieuwe governance-
+structuur zijn aspecten van Informatiemanagement en HNW (de gedragscomponent) sterker verankerd 
+in het programma. Begin 2015 wordt een herijking van het plan van aanpak opgeleverd.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 77

@@ -1,0 +1,44 @@
+Hoofdstukken Bijlagen
+1 2 3 4 55 1 2 3 4 5 6
+5.7 Toegankelijke Overheidswebsites (Webrichtlijnen) platformen iOS en Android beschikbaar gesteld. In 2015 worden de mogelijkheden bezien tot 
+uitbreiding van de inhoud en het verzorgingsgebied van deze generieke voorziening.
+Voor de websites van het Rijk geldt dat de webrichtlijnen, zoals alle open standaarden,  
+moeten worden toegepast en wel volgens het regime ‘pas toe of leg uit’. Alleen bij zwaar-
+wegende redenen hoeven één of meer elementen niet te worden toegepast. Daarover wordt 5.9 Digitale archivering Rijk
+dan transparant verantwoording afgelegd op de website.
+Het Nationaal Archief ontwikkelt het DWR-Archief (Digitale werkomgeving Rijk) voor vijf van 
+Uit de cijfers, die zijn aangeleverd door de organisaties die de websites beheren (gepubliceerd de elf departementen, namelijk BZK, EZ, Financiën, OCW en SZW. Het project gaat enerzijds 
+in het ‘Websiteregister rijksoverheid’) blijkt, dat in april 2015 van de in totaal 930 actieve zorgen voor generieke archieffunctionaliteit en anderzijds voor een centraal digitaal archief 
+websites van de rijksoverheid (inclusief Zbo’s) 452 waren ingericht, conform de afspraken over waarin departementen documenten kunnen opslaan. In 2012 is afgesproken dat departemen-
+het verplicht gebruikmaken van de open standaard ‘webrichtlijnen’ (in totaal 48%).  tale en generieke voorzieningen met elkaar gecombineerd zullen worden. Dit kan geleidelijk 
+182 websites voldeden niet aan dit regime (20%) en van 296 websites (32%) is de status getransformeerd worden naar een volledig generieke voorziening. Door enige vertraging in het 
+onbekend. De laatste bevinding is aanleiding om opnieuw het gebruik van het ‘Websiteregister project zal het opschalen naar de overige departementen in 2015 gaan plaatsvinden. Er is 
+rijksoverheid’ onder de aandacht te brengen van de directeuren Communicatie en de Chief afgesproken dat deze departementen voor het eind van 2015 een plan van aanpak voor 
+Information Officers (CIO’s) van de departementen. aansluiting op het DWR-Archief hebben.
+Rijksoverheid en Zelfstandige bestuursorganen (Zbo’s) (Websiteregister rijksoverheid 29-04-2015)
+5.10 Archiefachterstanden
+Volgens regime verplicht gebruik open 452 websites Voldeed geheel en/of  
+48%
+In 2009 is besloten tot het in tien jaar wegwerken van archiefachterstanden over de periode 
+standaard webrichtlijnen legt uit
+1975-2004. In 2009 werd ingeschat dat de totale werkvoorraad circa 800 kilometer bedroeg, 
+Niet of niet aantoonbaar volgens  
+waarvan circa 300 kilometer te bewerken archief. Een herijking van de in 2009 geïnventariseer-
+182 websites Voldoen niet 20%
+regime verplicht gebruik open  
+de archieven leidde begin 2013 tot een bijstelling naar een totale werkvoorraad van 600,4 
+standaard webrichtlijnen
+kilometer waarvan 128 kilometer op dat moment nog om substantiële bewerking vroeg.
+296 websites Onbekend 32%
+Totaal 930 websites
+In 2014 heeft Doc-Direkt 11,7 kilometer archief bewerkt en voor een gedeelte overgedragen  
+aan het Nationaal Archief. In totaal heeft Doc-Direkt in 2014 24 kilometer archief vernietigd, 
+waarvan het merendeel zonder tussenkomst van het bewerkings- en selectieproces.  
+5.8 Rijks Application Store (RAS) De verwachting is dat de doelstelling in 2019 wordt gehaald, waarbij een substantieel deel  
+na 2019 nog wordt beheerd totdat de bewaartermijn formeel is verstreken.
+In de Rijkscloud kunnen diensten en app’s voor de rijksambtenaar op afroep worden geleverd  
+via een Rijks Application Store. De RAS gaat functionaliteiten voor rijksambtenaren op digitale 
+rijkswerkplekken distribueren. In 2014 is een ‘proof of concept’ in een beperkt verzorgings-
+gebied en met binnen de rijksoverheid beschikbare technologie afgerond. Vervolgens is deze 
+versie van de RAS in productie genomen. Daarin is een aantal applicaties voor de mobiele 
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 42

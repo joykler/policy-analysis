@@ -1,0 +1,32 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+12-11-13 Deloitte Onderzoek Quick scan inhuuroplossing. Toets opgeleverde functionaliteiten inhuurmodules teneinde vast te stellen 
+of de juiste modules, functionaliteiten en mate van maatwerk is gerealiseerd.
+01-06-13 ADR Onderzoek Nulmeting inregeling functioneel beheer bij lijnorganisatie Logius. Geconstateerde gaps worden voor 
+medio 2014 opgelost.
+12-12-12 ADR Onderzoek Vergelijking tussen toetsingskaders (departementale) auditdiensten m.b.t. de inkoopprocessen en de 
+afdekking hiervan in de inrichting van DigInkoop
+01-09-12 SIG, Gartner, Ventoux Toets Toets opgeleverde functionaliteiten aan eisen in pve teneinde evt. meerwerk te bepalen.
+01-08-12 ADR Quality Assurance Ingaande augustus 2012 wordt gedurende de resterende looptijd van het project de QA rol bij de ADR 
+belegd
+16-04-12 Gateway Gateway Review In 2012 is een Gateway review op hetprogramma uitgevoerd. Focus op governance project
+22-02-11 Gartner Review Marktconformiteitstoets inzet Logius
+22-02-11 RAD Onderzoek Onderzoek naar de kwaliteit van de project- en risicobeheersing door Ordina in relatie tot door Logius 
+gestelde eisen en doelstellingen uit het PVE.
+16-06-10 ICT Office Haalbaarheidstoets Haalbaarheidstoets
+01-06-10 KPMG Review In 2010 zijn dooor Gartner meerdere reviews op het programma EBF uitgevoerd
+01-06-10 Gateway Review Review In 2010 zijn dooor Gartner meerdere reviews op het programma EBF uitgevoerd
+01-06-10 Reviews Gartner Review In 2010 zijn dooor Gartner meerdere reviews op het programma EBF uitgevoerd
+01-06-10 Audit RAD Audit In 2010 zijn door de RAD meerdere audits op het programma EBF en het procesontwerp uitgevoerd
+01-06-09 Reviews Gartner Review In 2009 zijn dooor Gartner meerdere reviews op het programma EBF uitgevoerd
+01-06-09 Audit RAD Audit In 2009 zijn dooor de RAD meerdere audits op het programma EBF en het procesontwerp uitgevoerd
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 5,33 € 9,13 € 9,13
+ingehuurd extern personeel € 9,03 € 8,82 € 8,82
+intern personeel € 1,77 € 2,34 € 2,34
+uitbesteed werk € 1,79 € 5,12 € 5,12
+overige projectkosten € 0,80 € 1,57 € 1,57
+TOTALEN € 18,72 € 26,98 € 26,98
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 89

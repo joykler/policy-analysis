@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+27-10-09 1.0 ja Voor de sturing van het programma is de stuurgroep Operatie BRP in het leven geroepen die onder 
+voorzitterschap staat van de DGBK. De stuurgroep is samengesteld uit vertegenwoordigers van de VNG, 
+NVVB, VGS, afnemers, BPR en B&I. De stuurgroep wordt geadviseerd door een ambtelijke voorberei-
+dingsgroep, de programmabegeleidingsgroep.
+De inhoudelijke omschrijving van het programma is vastgelegd in de Definitiestudie en een daarop 
+gebaseerde Eisenlijst. De stuurgroep Modernisering GBA heeft deze documenten goedgekeurd op 27 
+oktober 2009. In een afzonderlijk document is de programmastartarchitectuur uitgewerkt, in lijn met 
+NORA, MARIJ en GEMMA. Deze overkoepelende programmastartarchitectuur vormt het kader voor de 
+projectarchitecturen. Operatie BRP is een programma, waarvoor cf. de methodiek van MSP een 
+programmaplan is opgesteld. Het definitieve programmaplan is vastgesteld door de Stuurgroep 
+Modernisering GBA op 27 oktober 2009. Voor de projecten binnen het programma worden cf. de 
+methodiek van Prince II, projectinitiatiedocumenten opgesteld die ter goedkeuring worden aangeboden 
+aan de Stuurgroep Operatie BRP.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+11-11-14 PBLQ HEC QA review Afronding initiele review QA Operatie BRP
+12-09-14 PBLQ HEC Asssurance rapportage Initiële QA-review Programma Operatie BRP – Hoofdlijnenrapport
+11-09-14 KPMG Review Software review BRP 
+28-10-13 Gartner Advies Doorontwikkelscenario's
+27-04-12 Bureau Gateway Gateway Review 0 -  gehele programma
+(strategische beoordeling)
+19-08-11 Bureau Gateway Gateway review 0  gehele programma
+(strategische review)
+18-04-10 Bureau Gateway Gateway review 0  gehele programma
+(strategische review)
+01-04-10 Deloitte Review gehele programma
+programmaprocessen
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 81

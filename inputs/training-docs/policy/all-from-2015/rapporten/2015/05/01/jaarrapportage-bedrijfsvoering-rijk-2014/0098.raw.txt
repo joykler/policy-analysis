@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,10 € 0,10 € 0,05
+intern personeel € 0,67 € 0,55 € 0,55
+uitbesteed werk € 22,20 € 24,03 € 24,03
+overige projectkosten € 2,00 € 1,75 € 0,90
+TOTALEN € 24,97 € 26,43 € 25,53
+4b. Verwachte kosten voor beheer en onderhoud
+De verwachte kosten voor beheer en onderhoud van het uitbestede werk van het ODC bedragen € 0,6 miljoen per jaar.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+De kosten voor dit project worden op een aparte kostenplaats bijgehouden in de administratie. De projectkosten zijn gebaseerd op de projectcalculatie vanuit de Rijksgebouwendienst en 
+geactualiseerd na de externe toetsingen en de doorlopen aanbesteding.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De oplevering van het ODC te Rijswijk is conform afspraak en planning verlopen. De oplevering door de opdrachtgever heeft plaatsgevonden op 31 oktober 2014. In de laatste periode vooraf -
+gaand aan de oplevering is gedurende 4-5 weken een intensieve testperiode doorlopen, waarin alle installaties zijn doorgemeten en getest. In november heeft de RVB aangegeven de oplevering 
+te accepteren, onder de voorwaarde dat de openstaande restpunten binnen afzienbare tijd worden afgedaan. Naar verwachting zullen deze restpunten in het eerste kwartaal van 2015 zijn 
+afgerond. Het ODC is inmiddels in beheer genomen door de beheerafdeling van SSC-ICT. Het projectbudget is toereikend voor de overeengekomen werkzaamheden. De decharge van het project 
+wordt in het eerste kwartaal van 2015 verwacht. De daadwerkelijk gerealiseerde kosten bestaan uit de gefactureerde bedragen (4,9 mio), aangevuld met de aangegane verplichtingen (21,27 mio), 
+waarvan 20,6 mio als opslag op de huur over 15 jaar vanuit het Rijksvastgoedbedrijf in rekening wordt gebracht.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+14-01-13 01-08-14 3-11-14
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 98

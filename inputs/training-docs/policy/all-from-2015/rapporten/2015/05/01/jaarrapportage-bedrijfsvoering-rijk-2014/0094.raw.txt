@@ -1,0 +1,19 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Het programma eID wordt uitgevoerd in samenwerking tussen de ministeries van BZK (waaronder Logius), EZ, I&M, VWS, SZW, V&J, de Belastingdienst, UWV (namens de Manifestpartijen)  
+en de RDW. Interne medewerkers worden niet meegenomen in de interne personeelskosten van het programma eID, deze worden door de verschillende departementen in principe ‘om niet’ 
+geleverd aan het programma. Het betreft enkele medewerkers (van de ministeries van BZK en EZ, de Belastingdienst en UWV) die parttime of deels van uit hun lijnfunctie werken aan het  
+eID Stelsel.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-14 31-12-16 31-12-16
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+7a. Geschatte levensduur na oplevering
+Tien Jaar.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 94

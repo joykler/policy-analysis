@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+5.  Overheidsdatacenter Haagse km2
+1b. Projectomschrijving
+Het realiseren van een datacenter voor de rijksoverheidsorganisaties, dat voldoet aan de 7 beleidskaders van het Programma Consolidatie Datacenters (PCDC). Het project behelst de realisatie 
+van het Overheidsdatacenter (ODC) Haagse km2 waarbij gebruik gemaakt wordt van een schaalbaar datacenterconcept en voor huisvesting primair de focus ligt op het hergebruik van een 
+bestaande overheidslocatie. Daartoe is samenwerking gevonden met de Rijksgebouwendienst. Voor connectiviteit van het datacenter wordt gebruik gemaakt van bestaande overheidsnetwer-
+ken en beheerpartijen. Het beheer van het ODC wordt vooralsnog bij SSC-ICT Haaglanden belegd. Het datacenter wordt beschikbaar gesteld aan organisaties die vooraf via het ICBR hebben 
+aangegeven aan het Programma Consolidatie Datacenters daar gebruik van te gaan maken. De deelnemende organisatie is zelf verantwoordelijk voor de aanpak van de migratie, inclusief het 
+vrijmaken van de benodigde middelen en het sluiten van het oude datacenter.
+1c. Maatschappelijke relevantie
+Het project is een onderdeel van het Programma Consolidatie Datacenters (PCDC), dat invulling geeft aan project 4 van het Uitvoeringsprogramma Compacte Rijksdienst (CRD-4), ICT-
+infrastructuur. Project 4 heeft als doel een einde te maken aan de verbrokkelde ICT-infrastructuur van het Rijk, zoals beschreven in de I-strategie. Het consolideren van de datacenters wordt 
+beschreven in maatregel 12 van de I-strategie en draagt bij aan het realiseren van de I-Infrastructuur voor de Rijksambtenaar.
+Het Programma Consolidatie Datacenters is op 3 januari 2011 formeel van start gegaan. Het programma is verantwoordelijk voor het realiseren van de krimp van het aantal datacenters in de 
+Rijksdienst van ruim 60 naar één datacentervoorziening Rijk met 4 á 5 datacenterlocaties in 2020.
+Doelstellingen hierbij zijn:
+-  kostenbesparing
+-  kwaliteitsverbetering
+-  duurzaamheidverbetering
+-  bijdrage aan één infrastructuur Rijk
+Baten
+In oktober 2011 is de business case voor de consolidatie van de datacenters in de ICBR vastgesteld als zakelijke rechtvaardiging voor de realisatie. De eindplaat 2020, waarin het streefbeeld voor 
+de datacentervoorziening Rijk in 2020 is beschreven, is opgesteld en vastgesteld. Het project Overheidsdatacenter Haagse km2is één van de realisatieprojecten om tot de nieuwe overheidsdata-
+centers te komen.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 96
