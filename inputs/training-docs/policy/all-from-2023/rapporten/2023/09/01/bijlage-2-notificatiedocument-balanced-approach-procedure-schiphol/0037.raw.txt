@@ -1,0 +1,35 @@
+7 
+Geluidsimpact en 
+kosteneffectiviteit
+In dit hoofdstuk worden de resultaten van de analyses van geluidsdoel relevante geluidscontouren (zie hoofdstuk 4). 
+de geluidsimpact en de kosteneffectiviteit van de maat­ Dit resultaat is vervolgens vergeleken met de referentie om 
+regelen op de shortlist gepresenteerd. Het hoofdstuk begint het relatieve effect van de maatregel te bepalen.
+met een korte introductie van de aanpak die is gebruikt. 
+Vervolgens worden de resultaten van de analyse gepresen­
+teerd. Het bepalen van de kosteneffectiviteit
+Voor elk van de maatregelen op de definitieve shortlist is  
+Daarnaast wordt een kwalitatieve afweging gemaakt van de vervolgens de kosteneffectiviteit bepaald.
+verwachte impact van de maatregelen op brede welvaarts­ 
+aspecten die specifiek aan mobiliteit zijn toe te schrijven Het operationele scenario dat wordt gebruikt om de 
+conform de uitwerking door het Planbureau van de Leef­ geluidshinder te bepalen is input om de kosten van een  
+40
+omgeving . maatregel te schatten. De geluidshinder wordt vervolgens 
+gebruikt om de kosteneffectiviteit te berekenen. In meer 
+detail:
+7.1 Aanpak • Er is een beoordeling gemaakt van de kosten van de 
+maatregelen voor vier categorieën belanghebbenden: 
+Het bepalen van de geluidsbelasting • Passagiers­ en luchtvrachtsector: Veranderingen in het 
+Voor elk van de maatregelen op de definitieve shortlist is de  consumentensurplus / gegeneraliseerde reiskosten 
+geluidsimpact bepaald. Dit wordt uitgedrukt als de bijdrage (ticketprijs, reistijd).
+van de maatregel in het bereiken van het geluidsdoel (de • Luchtvaartmaatschappijen, luchthaven en ANSP: 
+vier indicatoren). Elke maatregel is uitgedrukt in een opera­ Veranderingen in het producentensurplus /de winst 
+tioneel scenario voor het jaar 2024, dat is geanalyseerd met (overwinsten).
+behulp van de Doc29modelleertool. Het resultaat is uitein­ ­ • Andere bedrijven: Veranderingen in de productiviteit 
+delijk beoordeeld in relatie tot het aantal huizen, ernstig van bedrijven (agglomeratieeffecten).­
+gehinderden of ernstig slaapverstoorden binnen de voor het • Overheid: Veranderingen in belastinginkomsten en 
+uitgaven (bijvoorbeeld aan werkloosheidsuitkeringen).
+• Bevolking: Veranderingen in gezondheid, veiligheid 
+en klimaatimpact.
+40 
+Brede welvaart en mobiliteit | PBL Planbureau voor de Leefomgeving
+35 | Ministerie van Infrastructuur en Waterstaat | Notificatiedocument

@@ -1,0 +1,28 @@
+’13 ’14 ’15 ’16 ’17 ’18 ’19 ’20 ’21* ’22* 
+18- t/m 22-jarige vrouwen 
+Vermogen 6 5 4 4 3 3 4 4 2 2 
+Vernieling en openbare 1 1 1 1 1 1 1 1 1 1 
+orde 
+Geweld 2 2 2 2 1 1 1 1 1 1 
+Verkeer 2 2 2 2 1 1 1 1 1 2 
+Drugs 1 1 1 0 0 0 0 0 0 0 
+Vuurwapen 0 0 0 0 0 0 0 0 0 0 
+12- t/m 17-jarig totaal 
+Vermogen 11 10 10 9 8 7 9 7 6 8 
+Vernieling en openbare 5 5 4 4 3 3 3 3 3 3 
+orde 
+Geweld 5 4 4 4 3 3 3 3 3 3 
+Verkeer 1 1 1 1 1 1 1 1 1 1 
+Drugs 1 1 1 1 1 1 1 1 0 1 
+Vuurwapen 1 1 1 1 1 1 1 1 1 1 
+18- t/m 22-jarig totaal 
+Vermogen 12 11 10 8 7 7 7 8 5 5 
+Vernieling en openbare 7 6 5 5 4 4 4 4 4 4 
+orde 
+Geweld 9 8 7 6 6 5 5 4 4 4 
+Verkeer 6 6 5 5 5 5 6 6 6 7 
+Drugs 3 3 3 2 2 2 3 3 2 2 
+Vuurwapen 1 1 1 1 1 1 1 1 1 1 
+* Voorlopige cijfers. 
+  
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-13  |  50

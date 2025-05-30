@@ -1,0 +1,55 @@
+Tabel 8.1 Invloed op geluid en kosteneffectiviteit van te notificeren combinatie van maatregelen
+Kosteneffectiviteit (kosten per 
+Impact op doel gereduceerde eenheid in EUR)
+Doel: -20% -20% -15% -15%
+Ernstig Ernstig 
+Ernstig slaapver- Ernstig slaapver-
+Woningen gehinder- Woningen stoorden Woningen gehinder- Woningen stoorden 
+in de den in de in de in de in de den in de in de in de 
+Combinatie van maatregelen 58dB L 48dB L 48dB L 40dB L 58dB L 48dB L 48dB L 40dB L
+den den night night den den night night
+1. Inzet van stillere vliegtuigen in de nacht -17,3% -15,9% -18,9% -15,0% -623.062 -42.160 -710.361 -208.840
+2. Vermindering van het gebruik van de 
+secundaire landingsbanen
+3. Reductie van de capaciteit in de nacht 
+tot 28.700 vluchten
+4. Reductie van de capaciteit tot 452.500 
+vluchten in totaal 
+Een reductie van de capaciteit in de nacht verhoogt een deel van de passagiers besluiten niet meer te 
+kosten voor luchtvaartmaatschappijen. Een deel van vliegen of uit te wijken naar buitenlandse lucht­
+de nachtvluchten wordt verschoven naar de dag havens. Dit effect wordt ingeschat middels de halve ­
+waardoor de utilisatie van de vloot afneemt en de ringsregel (ruleof­ half­ ), waarbij de helft van de 
+operationele kosten stijgen. Ook hier geldt weer dat kostenstijging voor passagiers die wel blijven vliegen 
+transferpassagiers te maken kunnen krijgen met wordt ingeboekt als effect. Ook is er een effect op de 
+langere overstaptijden en hogere reiskosten. De werkloosheid door minder bedrijvigheid op Schiphol 
+arbeidskosten in de sector kunnen dalen, doordat er wat leidt tot minder belastinginkomsten en hogere 
+minder in de nacht gewerkt hoeft te worden. Dit uitgaven aan toeslagen van de overheid. Decisio 
+betekent echter ook dat werknemers in de sector neemt alleen het netto effect of frictiewerkloosheid 
+minder verdienen. Het betreft een herverdelingseffect op door banenverlies op Schiphol. Door de capaci­
+dat niet apart is gemodelleerd. Verplaatsing van teitsbeperking neemt de totale uitstoot van broeikas­
+vluchten van de nacht naar de dag kan leiden tot gassen en luchtverontreinigende stoffen af. Sommige 
+aantrekkelijkere vertrek en aankomsttijden voor ­ vluchten worden weliswaar verschoven naar andere 
+reizigers. Dit effect is niet apart gemodelleerd. luchthavens maar sommige vluchten zullen 
+ophouden te bestaan, waardoor de totale emissies 
+Een reductie van de totale capaciteit leidt ertoe dat dalen. Minder uitstoot van CO , PM10 en NOx bete­
+2
+een deel van de vloot overbodig wordt. Dat leidt tot kent positieve effecten op klimaat en lokale lucht ­
+extra afschrijvingskosten. Die extra kosten zijn kwaliteit. Voor de berekening van deze externe 
+gemodelleerd door een inschatting te maken van de effecten wordt verwezen naar bijlage A van het 
+lagere utilisatie van de vloot en de bijbehorende rapport over de kosteneffectiviteit.
+kosten. De infrastructuurkosten moeten over minder 
+eenheden (passagiers en vracht) worden omgeslagen, 
+waardoor de luchthaventarieven stijgen. De hogere 
+tarieven worden opgebracht door passagiers en Effecten van de maat regelen zichtbaar 
+verladers. Dit betreft een herverdelingseffect dat niet gemaakt in geluidscontouren
+apart is gemodelleerd. Door de capaciteitsreductie In onderstaande contourenkaart is de geluidsbelasting na 
+neemt de schaarste op Schiphol toe, wat luchtvaart­ implementatie van de per november 2024 te realiseren 
+maatschappijen in staat stelt hun prijzen te verhogen maatregelen te zien in relatie tot de referentie (base line).  
+en overwinsten te incasseren (in dit verband ook wel De eerste kaart betreft het etmaal (L ) en de tweede kaart 
+den
+schaarstewinsten genoemd). De hogere prijzen betreft de nacht (L ).
+night
+worden opgebracht door de passagiers. Het betreft 
+een herverdelingseffect dat niet apart is gemodel ­
+leerd. Door de hogere prijzen en lagere capaciteit zal 
+41 | Ministerie van Infrastructuur en Waterstaat | Notificatiedocument

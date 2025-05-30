@@ -1,0 +1,51 @@
+Bijlage 2 Methodologie 
+Jeugdige verdachten 
+Voor de ontwikkeling van het aantal jeugdige verdachten maken we gebruik van 
+informatie over geregistreerde verdachten in de Basisvoorziening Handhaving (BVH) 
+van de politie. De gerapporteerde aantallen betreffen unieke personen. Niet alle 
+verdachten die door de politie worden geregistreerd, worden ook daadwerkelijk 
+aangehouden. Tegen een deel van de geregistreerde verdachten wordt geen proces-
+verbaal opgemaakt, bijvoorbeeld vanwege een gebrek aan bewijs of omdat de ver-
+dachte onschuldig blijkt. Tussen 2005 en 2015 lag het aantal aangehouden jeugdige 
+verdachten ongeveer 30% lager dan het aantal geregistreerde verdachten (Van der 
+Laan & Beerthuizen, 2018). Onder minderjarigen was dit verschil groter dan onder 
+jongvolwassenen (respectievelijk 41% en 19% in deze periode), omdat minderjarigen 
+onder voorwaarden een Halt-sanctie opgelegd kunnen krijgen. Tegen hen wordt in dat 
+geval geen proces-verbaal van aanhouding opgemaakt. 
+ 
+Omdat de bevolkingsomvang per leeftijdsgroep niet gelijk is en over de tijd ook binnen 
+groepen kan veranderen, tonen we in de meeste figuren in dit deelrapport het 
+relatieve aantal aangehouden verdachten per 1.000 leeftijdgenoten in de Nederlandse 
+bevolking. 
+ 
+De in deze publicatie gebruikte gegevens over jeugdige verdachten zijn gekoppeld aan 
+12
+het Stelsel van Sociaal-Statistische Bestanden (SSB) van het CBS. In BVH geregi-
+streerde verdachten zonder geldig Nederlands adres komen in het SSB niet voor en 
+worden in dit deelrapport daarom niet meegeteld. In 2019 ging het om 8% van alle 
+geregistreerde jeugdige verdachten. 
+Bepaling leeftijd en andere achtergrondkenmerken die over de tijd kunnen variëren 
+De leeftijden waar de MJC zich op richt zijn 12- tot 18-jarigen (minderjarigen) en 18- 
+tot 23-jarigen (jongvolwassenen). Daarnaast maken we bij minderjarigen in sommige 
+gevallen onderscheid tussen 12- tot 16-jarigen en 16- tot 18-jarigen. Voor deze laatste 
+groep is potentieel het volwassenenstrafrecht toe te passen bij ernstige delicten. Bij 
+het bepalen van de leeftijd kijken we naar de leeftijd op de laatste vrijdag van 
+13
+september in het jaar waarin men als verdachte is geregistreerd. Dezelfde werkwijze 
+is gehanteerd voor de koppeling van andere achtergrondkenmerken die over de tijd 
+kunnen variëren, zoals de huishoudenssamenstelling en het huishoudinkomen. 
+Delicten  
+In paragraaf 2.2.6 van dit deelrapport wordt onderscheid gemaakt tussen vermogens-
+misdrijven, vernielingen en misdrijven tegen de openbare orde en gezag, gewelds-
+misdrijven, verkeersmisdrijven, drugsmisdrijven en (vuur)wapenmisdrijven. Wanneer 
+                                                
+12 
+Voor een meer uitgebreide beschrijving van het SSB wordt verwezen naar www.cbs.nl/nl-nl/onze-
+diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-
+statistische-bestanden--ssb--.  
+13  
+Deze werkwijze komt overeen met de CBS-verdachtenstatistieken, maar wijkt af van de manier waarop de 
+leeftijd van verdachten en strafrechtelijke daders in andere hoofdstukken in deze monitor wordt bepaald, 
+namelijk op de pleegdatum van het misdrijf. Als gevolg hiervan kunnen de aantallen minderjarige en 
+jongvolwassen verdachten in dit hoofdstuk licht afwijken van die in andere hoofdstukken. 
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-13  |  41

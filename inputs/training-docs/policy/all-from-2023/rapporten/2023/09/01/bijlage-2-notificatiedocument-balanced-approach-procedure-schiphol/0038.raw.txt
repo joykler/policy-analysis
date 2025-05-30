@@ -1,0 +1,63 @@
+• Bovendien is de impact van elke maatregel op de bruto De tabel moet dan als volgt worden gelezen:
+directe en indirecte (achterwaartse) werkgelegenheid en • Het implementeren van voorbeeldmaatregel 1 leidt tot 
+de toegevoegde waarde geschat. een reductie van 5,2% van het aantal huizen binnen de 
+• De beoordeling is waar mogelijk kwantitatief. Een paar 58 dB L contour in vergelijking met de referentie.
+den
+kostencategorieën zijn echter slechts kwalitatief bepaald. • Het resulteert ook in een reductie van 4,5% van het aantal 
+De volgende kostencategorieën zijn kwantitatief bepaald: ernstig gehinderden binnen de 48 dB L contour­ .
+den
+i) operationele kosten voor luchtvaartmaatschappijen, • Voor beide indicatoren is het geluidsdoel om een reductie 
+ii) kosten voor passagiers en vracht, door waardering van van 20% te bereiken. Voorbeeldmaatregel 1 op zich is dus 
+hun gegeneraliseerde reiskosten , overheidskosten (extra onvoldoende om het doel te bereiken.
+uitkeringen en wijzigingen in belastinginkomsten), • Voorbeeldmaatregel 1 heeft bijbehorende cijfers over de 
+klimaat­ en emissiekosten (NO , PM ) en de regionale kosteneffectiviteit. De kosten om het aantal woningen 
+x 10
+41
+economische impact (agglomeratie­effect). binnen de 58 dB L contour met één huis te vermin­ ­
+den
+• De analyse is uitgevoerd met een grensoverschrijdend deren bedragen €311.000. De kosten voor het vermin­
+perspectief om de impact op niet­Nederlandse actoren te deren van het aantal ernstig gehinderden binnen de 48 dB 
+onderkennen. Dit wijkt af van traditionele kostenbaten­ ­ L contour met één persoon bedragen €25.000.­
+den
+studies in Nederland waarin een nationaal perspectief • Voorbeeldmaatregel 2 levert een kleinere bijdrage aan het 
+wordt toegepast. geluidsdoel dan de eerste maatregel: 1,1% reductie van de 
+• Herverdelingseffecten zijn niet berekend of geschat. Dit huizen binnen de 58 dB L contour en 4,1% reductie van 
+den
+zijn effecten waarbij de kosten voor de ene actor een het aantal binnen de 48 dB L ­contour.
+den
+voordeel zijn voor een andere actor. • De kosteneffectiviteit van deze tweede maatregel is echter 
+• De totale kosten van een maatregel, dat wil zeggen de beter dan maatregel 1 voor de L ­indicatoren van het 
+den
+som van de kosten voor luchtvaartmaatschappijen, geluidsdoel, maar niet voor de L ­indicatoren. De 
+night
+passagiers/vracht, overheid en maatschappij, worden kosten van deze maatregel bedragen immers €105.000 
+gedeeld door de geluidsimpact van dezelfde maatregel, per huis dat niet langer binnen de 58 dBcontour valt en ­
+om de kosten per eenheid te berekenen voor de vermin­ €17.000 per persoon die niet langer binnen de 48 dB 
+dering van het aantal huizen/ernstig gehinderden/ernstig L contour valt­ .
+den
+slaapverstoorden. • Voorbeeldmaatregel 2 is dus kosteneffectiever dan 
+• Met deze uitkomsten kunnen de maatregelen onderling  voorbeeldmaatregel 1 voor de L ­indicatoren van de 
+den
+worden vergeleken. doelstelling. Geen van beide voorbeeldmaat regelen zou 
+het doel op zichzelf bereiken.
+• Een soortgelijke interpretatie van de resultaten kan 
+Interpretatie worden gemaakt voor de indicatoren die gerelateerd zijn 
+Zoals uiteengezet, zullen de resultaten voor geluid en aan de nachtperiode.
+kosteneffectiviteit worden uitgedrukt als een effect ten 
+opzichte van de referentie. Dit gebeurt voor de vier indica­
+toren van het geluidsdoel. Een voorbeeld van de resultaten 
+is als volgt. Opmerking: De getallen in de tabel zijn fictief en 
+uitsluitend ter illustratie.
+Tabel 7.1 Voorbeeldtabel
+Woningen in 58 dB L EGH in 48 dB L Woningen in 48 dB L ESV in 40 dB L
+den den night night
+Geluidsdoel -20% -20% -15% -15%
+Impact KE (€) Impact KE (€) Impact KE (€) Impact KE (€)
+Voorbeeldmaatregel 1 -5,2% -311.000 -4,5% -25.000 -1,9% -369.000 -1,6% -421.000
+Voorbeeldmaatregel 2 -1,1% -105.000 -4,1% -17.000 -0,7% -481.000 -0,3% -507.000
+EGH = ernstig gehinderden; ESV = ernstig slaapverstoorden; KE = kosteneffectiviteit
+41 
+Bij de kostenbeoordeling is rekening gehouden met de Nederlandse 
+richtlijnen voor kosten-batenanalyses op het gebied van de 
+luchtvaart: SEO, 2021 et al., Werkwijzer luchtvaartspecifieke MKBA’s.
+36 | Ministerie van Infrastructuur en Waterstaat | Notificatiedocument
