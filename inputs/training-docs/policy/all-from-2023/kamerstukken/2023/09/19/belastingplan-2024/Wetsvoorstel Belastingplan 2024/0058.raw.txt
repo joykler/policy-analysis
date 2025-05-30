@@ -1,0 +1,46 @@
+de rekening van de Belastingdienst, waardoor de belastingschuldige niet in aanmerking komt voor 
+de betalingskorting. Voorts kan een onjuist bedrag zijn overgemaakt. Wanneer dit bedrag lager is 
+dan het bedrag van de voorlopige aanslag IB minus de betalingskorting komt de belastingschuldige 
+eveneens niet in aanmerking voor de betalingskorting. Deze situaties zorgen nu voor klantvragen 
+en herstelwerkzaamheden. Deze komen na de inwerkingtreding van de voorgestelde afschaffing te 
+vervallen. Het afschaffen van de betalingskorting heeft een zeer beperkte impact op de 
+automatisering. Door het verwijderen van de rekenmodule wordt er geen rekening meer gehouden 
+met de betalingskorting. De betalingskorting zal ook niet meer zichtbaar zijn op de voorlopige 
+aanslag IB. 
+ 
+5.12 Minimumkapitaalregel in de vennootschapsbelasting 
+ 
+Met deze maatregel wordt een aanpassing in de minimumkapitaalregel in de Vpb voorgesteld. De 
+minimumkapitaalregel is een specifieke renteaftrekbeperking in de Vpb voor banken en 
+verzekeraars die is ingevoerd per 1 januari 2020. Om te komen tot een meer gelijke behandeling 
+van eigen vermogen en vreemd vermogen is in 2019 de generieke renteaftrekbeperking 
+(earningsstrippingmaatregel) uit ATAD1 geïmplementeerd in de Vpb. Omdat de 
+earningsstrippingmaatregel niet aangrijpt bij banken en verzekeraars is per 1 januari 2020 de 
+minimumkapitaalregel ingevoerd om ook voor hen het fiscale voordeel van de financiering met 
+vreemd vermogen te beperken. De maatregel beperkt de aftrek van de verschuldigde rente voor 
+47
+zover het vreemd vermogen meer bedraagt dan 91% van het balanstotaal.  
+ 
+De minimumkapitaalregel blijkt onevenwichtig uit te werken op het interne liquiditeitsbeheer van 
+banken en verzekeraars. In het kader van het interne liquiditeitsbeheer worden overtollige liquide 
+middelen van de ene groepsmaatschappij door tussenkomst van de interne treasury afdeling 
+uitgeleend aan andere groepsmaatschappijen. Op deze wijze worden de liquide middelen vanuit de 
+groep bezien op een zo efficiënt mogelijke wijze ingezet en wordt voorkomen dat op groepsniveau 
+onnodig vreemd vermogen dient te worden aangetrokken. De rentelasten op deze schulden aan 
+groepslichamen vallen momenteel onder het toepassingsbereik van de minimumkapitaalregel. 
+Vanuit het doel van de maatregel om financiering met vreemd vermogen te beperken wordt 
+voorgesteld de minimumkapitaalregel zodanig aan te passen dat rentelasten op schulden aan 
+groepslichamen voortaan onder voorwaarden niet in aftrek worden beperkt. Met andere woorden 
+rentelasten op schulden aan groepslichamen worden onder voorwaarden aftrekbaar. Om de 
+budgettaire derving van € 73 miljoen te dekken die voortvloeit uit de voorgestelde aanpassing 
+wordt aanvullend voorgesteld om het percentage van de minimumkapitaalregel per 1 januari 2024 
+te verhogen van 9% naar 10,6%. Dat wil zeggen dat de aftrek van rentelasten wordt beperkt voor 
+zover het vreemd vermogen meer bedraagt dan 89,4% van het balanstotaal. Hoewel voor de 
+financiële sector als geheel hiermee geen sprake is van een fiscale lastenverlichting of -verzwaring, 
+kunnen zich binnen deze sector herverdelingseffecten voordoen. 
+ 
+ 
+ 
+47
+ Dit percentage was bij invoering van de maatregel 92% en is nadien in het Belastingplan 2021 verlaagd naar 91%. 
+58

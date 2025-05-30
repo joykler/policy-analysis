@@ -1,0 +1,51 @@
+verschuldigde energiebelasting op de factuur van energieleveranciers en onjuist ingevulde 
+teruggaveformulieren door verzoekers. Ook het weer kan een rol spelen in de berekening van de 
+verschuldigde energiebelasting. Dat betekent kort gezegd dat de Belastingdienst bij de berekening 
+van de teruggave niet het daadwerkelijke verbruik van elke verbruiker achter een blokverwarming 
+kan meewegen. Daarom is ervoor gekozen om bij de teruggave een forfait te hanteren.  
+ 
+De berekening van de teruggave bij een blokverwarmingssituatie zal de Belastingdienst als volgt 
+gaan uitvoeren. Het aantal onroerende zaken (c.q. verbruikers) achter een blokverwarming wordt 
+vermenigvuldigd met een vast bedrag. Dat bedrag wordt vastgesteld door het verschil te nemen 
+3
+tussen de energiebelasting over de eerste 1.000 m bij toepassing van het tarief van de nieuwe 
+tweede schijf en bij toepassing van het tarief van de nieuwe eerste schijf.  
+ 
+Voorbeeld 2 
+Bij een verschil van 20 cent tussen de nieuwe eerste en tweede schijf bedraagt het forfait 
+82
+1.000 * (0,7055 – 0,5055) = € 200. 
+ 
+Op deze manier betalen verbruikers achter een blokverwarming in elk geval niet méér 
+3
+energiebelasting over het verbruik tot 1.000 m dan verbruikers met een individuele aansluiting. 
+ 
+De huidige wettelijke regeling inzake het blokverwarmingstarief wordt gewijzigd (zie hierover nader 
+3
+onder (b)). In de nieuwe regeling wordt ook bij blokverwarming de eerste 1.000 m belast met het 
+tarief van de eerste schijf, dus niet met het (hogere) blokverwarmingstarief. Omdat de 
+blokverwarming dus wel één keer het voordeel heeft van het lagere tarief van de eerste schijf, 
+wordt de teruggave verminderd met dit voordeel, dus met één keer het forfait. In formulevorm 
+berekent de Belastingdienst de teruggave per blokverwarmingssituatie als volgt, waarbij N staat 
+voor het aantal onroerende zaken achter de blokverwarming: (N-1) * forfait. 
+ 
+Voorbeeld 3 
+Bij een appartementencomplex met tien appartementen bedraagt de teruggave: (10-1) * 200 = 
+€ 1.800. 
+ 
+Het forfait gaat uit van de fictie dat elke verbruiker achter een blokverwarming ten minste (de 
+3
+warmte-equivalent van) 1.000 m verbruikt. 
+  
+3
+De verwachting is dat de meeste bedrijven met blokverwarming meer dan 1.000 m verbruiken en 
+dus niet worden overgecompenseerd. Voor wat betreft btw geldt het volgende. Over 
+energiebelasting wordt btw berekend. Bij de diverse teruggaven van energiebelasting wordt de btw 
+teruggegeven, tenzij degene die de teruggave krijgt, recht heeft op aftrek van in rekening 
+gebrachte btw. Omwille van de uitvoerbaarheid van de forfaitaire teruggaveregeling wordt niet 
+langer onderscheid gemaakt tussen verbruikers die wel of geen recht hebben op aftrek van in 
+rekening gebrachte btw. Dat betekent dat een verbruiker die recht heeft op aftrek van in rekening 
+ 
+82
+ Inclusief btw. 
+79

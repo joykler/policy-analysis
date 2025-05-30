@@ -1,0 +1,43 @@
+fiscale adviseurs en bij maatregelen die geen extra acties vergen (zoals een technische wijziging of 
+parameterwijziging) wordt door middel van de doenvermogenscan de inschatting gegeven dat 
+doenvermogen hierbij geen aandachtspunt zal zijn. Bij overige maatregelen zijn er drie oordelen 
+mogelijk: de maatregel doet een kleiner beroep op het doenvermogen, de maatregel doet een 
+groter beroep op het doenvermogen maar dit is geen aandachtspunt want de doelgroep zal naar 
+verwachting deze benodigde acties goed kunnen uitvoeren, de maatregel doet een groter beroep 
+op het doenvermogen en dit is wel een aandachtspunt. 
+ 
+Elke maatregel krijgt derhalve één van de volgende vier oordelen:  
+- Oordeel 1: doenlijkheid niet relevant of onveranderd; wanneer de maatregel ten opzichte 
+van de huidige situatie geen extra acties vergt van mensen, enkel grote ondernemingen 
+raakt, of een technische wijziging betreft  
+- Oordeel 2: kleiner beroep op het doenvermogen van belastingplichtigen; wanneer de 
+maatregel ertoe leidt dat burgers en/of MKB ondernemers minder acties hoeven nemen, 
+bijvoorbeeld wanneer een regeling die mensen voorheen zelf moesten toepassen nu 
+automatisch wordt toegepast.  
+- Oordeel 3: groter beroep op het doenvermogen van belastingplichtigen, geen 
+aandachtspunt; Wanneer de maatregel ertoe leidt dat burgers en/of MKB ondernemers 
+meer acties moeten nemen, maar zij deze naar verwachting correct zullen uitvoeren.  
+- Oordeel 4: groter beroep op het doenvermogen van belastingplichtigen, wel 
+aandachtspunt; wanneer de maatregel ertoe leidt dat burgers en/of MKB ondernemers 
+meer acties moeten nemen, en zij deze naar verwachting niet (altijd) goed kunnen/zullen 
+uitvoeren. Bij dit oordeel wordt ook een uitgebreidere doenvermogenscan doorlopen.  
+ 
+Tabel 17: doenvermogen per maatregel 
+Maatregel  Oordeel  
+Inkomensbeleid  Oordeel 1 
+Verhoging tarief box 3 in 2024 en niet indexeren heffingvrij Oordeel 1 
+vermogen 
+Verfijningen box 3 Oordeel 2 
+Verhogen gerichte vrijstelling reiskostenvergoeding Oordeel 1 
+Afschrijvingsbeperking gebouwen in de inkomstenbelasting Oordeel 1 
+Energie-investeringsaftrek, milieu-investeringsaftrek en willekeurige Oordeel 1 
+afschrijving milieubedrijfsmiddelen 
+Verruiming herinvesteringsreserve bij het staken van een gedeelte Oordeel 1 
+van een onderneming ten gevolge van overheidsingrijpen 
+MKB-winstvrijstelling Oordeel 1 
+Wijzigingen IACK Oordeel 1 
+Verruiming vrijstelling OV-abonnementen en voordeelurenkaarten Oordeel 2 
+Afschaffen betalingskorting voorlopige aanslag IB Oordeel 1 
+Minimumkapitaalregel in de Vpb Oordeel 1 
+Aanpassing samenloopvrijstelling bij aandelentransacties Oordeel 1 
+120
