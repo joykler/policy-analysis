@@ -128,7 +128,6 @@ function Get-FileInfo {
 
     [CmdletBinding()]
     param(
-        [Alias('FullName')]
         [Parameter(Mandatory, Position = 1)]
         [string] $FilePath,
 
@@ -159,10 +158,11 @@ function Get-TargetInfoFromSourceFile {
     )
 
     process {
-        $RelFilePath = [System.IO.Path]::GetRelativePath($SourceRootPath, $SourcePath)
+        $SourceDir = [System.IO.Path]::GetDirectoryName($SourcePath)
+        $RelFilePath = [System.IO.Path]::GetRelativePath($SourceRootPath, $SourceDir)
 
         $TargetDir = [System.IO.Path]::GetFileNameWithoutExtension($SourcePath)
-        $TargetPath = Join-Path $Dir_AbsPath -ChildPath $TargetDir -AdditionalChildPath '{0:4D}.raw.txt'
+        $TargetPath = Join-Path $SourceDir -ChildPath $TargetDir -AdditionalChildPath '{0:D4}.raw.txt'
 
         [PSCustomObject] @{
             SourceFile = Get-FileInfo $SourcePath -LoggedDir $RelFilePath
@@ -198,7 +198,7 @@ function Export-RawTextFromSourceFile {
 
                 Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
 
-                Write-Output $TargetPageText
+                Write-Output $TargetPageFile
             }
         }
     }
@@ -211,7 +211,7 @@ function Export-RawTextFromSourceFile {
             $Logging.Info_ExportingRawTextFromFile($SourceFile)
 
             try {
-                mkdir $TargetFile.Folder -Force
+                mkdir $TargetFile.Folder -Force | Out-Null
 
                 $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourceFile.Path)
 
