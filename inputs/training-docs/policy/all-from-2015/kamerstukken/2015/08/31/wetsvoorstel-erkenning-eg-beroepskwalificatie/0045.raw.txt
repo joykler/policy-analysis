@@ -1,0 +1,55 @@
+privacyrichtlijn. De privacyrichtlijn is in Nederland geïmplementeerd in de Wbp. Omdat er bij het 
+waarschuwingsmechanisme ook strafrechtelijke gegevens worden uitgewisseld is tevens sprake van 
+de verwerking van bijzondere persoonsgegevens. Daarmee is een verscherpt regime van toepassing, 
+dat is geregeld in hoofdstuk 2, paragraaf 2, van de Wbp.  
+ 
+De Europese Commissie beheert het IMI en is verantwoordelijk voor de technische integriteit, de 
+betrouwbaarheid en de veiligheid van het systeem. Het IMI wordt gereguleerd door EU-verordening 
+nr. 1024/2012 van het Europese Parlement en de Raad van 25 oktober 2012 betreffende de 
+administratieve samenwerking via het Informatiesysteem interne markt en tot intrekking van 
+Beschikking 2008/49/EG van de Commissie (de IMI-verordening). Bij het ontwikkelen van de functies 
+in IMI voor  uitvoering van Richtlijn 2013/55 werkt de Europese Commissie volgens het beginsel 
+privacy-by-design.  De Europese toezichthouder voor gegevensbescherming houdt toezicht op de 
+werking van het IMI. 
+ 
+3. Verwerking van gegevens door bevoegde autoriteiten voor het verrichten, ontvangen, 
+beëindigen of intrekken van een waarschuwing  
+Bij het opstellen van het PIA is bezien hoe bij het door Richtlijn 2013/55 voorgeschreven verrichten, 
+ontvangen, beëindigen en intrekken van waarschuwingen door bevoegde autoriteiten, de impact op 
+de privacy wordt geminimaliseerd tot het noodzakelijke.  
+ 
+Het IMI een besloten elektronisch systeem. De lidstaten moeten bevoegde autoriteiten aanwijzen die 
+waarschuwingen kunnen inzien in het IMI. Daardoor is de toegang tot de gegevens in het 
+waarschuwingsmechanisme beperkt tot geautoriseerde medewerkers van specifiek aangewezen 
+bevoegde autoriteiten in de verschillende lidstaten.  
+ 
+In het tweede lid van artikel 56 bis van richtlijn 2013/55 (voorgesteld artikel 31a, tweede lid, van het 
+wetsvoorstel) is limitatief opgesomd welke gegevens een waarschuwing bevat. Dit artikellid van de 
+richtlijn is in samenspraak met de Europese toezichthouder voor gegevensbescherming opgesteld 
+met als doel de verwerking van persoonsgegevens tot het noodzakelijke minium te beperken. Zo 
+mag de waarschuwing geen details vermelden over de omstandigheden die leidden tot het verbod, of 
+de redenen van het verbod.  
+ 
+De richtlijn beoogt een minimale opslagduur van de waarschuwing. De richtlijn voorziet hierin door in 
+art 56 bis, lid 7 te regelen dat gegevens binnen drie dagen nadat het besluit van intrekking is 
+genomen of zodra het verbod of de beperking afloopt, worden gewist. Daarmee is de periode dat de 
+waarschuwingen in het IMI geregisteerd staan tot een strikt noodzakelijk minimum beperkt. Het IMI-
+systeem stelt de initiator van de waarschuwing in staat de waarschuwing te beëindigen.  
+ 
+Implementatie verwerking persoonsgegevens tbv waarschuwingsmechanisme 
+Het waarschuwingsmechanisme voor beroepsverboden heeft als doel een bijdrage te leveren aan het 
+waarborgen van een hoog niveau van patiënten- en consumentenbescherming. Via het 
+waarschuwingsmechanisme worden gegevens uitgewisseld tussen de bevoegde autoriteiten van EU-
+lidstaten over beroepsbeoefenaars die in een lidstaat een beperking of verbod opgelegd hebben 
+gekregen op de uitoefening van een gereglementeerd beroep. Dit waarschuwingsmechanisme voor 
+beroepsverboden is geïmplementeerd in het voorgestelde artikel 31a van de Algemene wet. 
+Ingevolge de gewijzigde richtlijn dienen de Nederlandse bevoegde autoriteiten via IMI een 
+waarschuwing te zenden indien in Nederland een beperking of verbod is opgelegd op de uitoefening 
+van een in Nederland gereglementeerd beroep. De gewijzigde richtlijn bepaalt om welke beroepen 
+het gaat in artikel 56 bis, eerste lid. Dat zijn de sectorale beroepen (met uitzondering van de 
+architect), gereglementeerde beroepen met implicaties voor patiëntveiligheid, en gereglementeerde 
+beroepen in het onderwijs aan minderjarigen alsmede gereglementeerde beroepen in de 
+kinderopvang. 
+  
+45 
+ W10151.K-2

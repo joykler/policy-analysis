@@ -1,0 +1,55 @@
+Verwerking van persoonsgegevens dient tot een noodzakelijk minimum beperkt te blijven. De 
+gewijzigde richtlijn bepaalt limitatief welke gegevens in het IMI moeten worden opgenomen (artikel 
+56 bis, tweede lid). Het uitwisselen van deze gegevens is van belang voor het verbeteren van 
+patiënten- en consumentenbescherming. De gegevens zijn: de identiteit van de beroepsbeoefenaar, 
+het betreffende beroep, informatie over de instantie die het besluit tot beperking of verbod heeft 
+genomen, de reikwijdte van de beperking of het verbod, en de periode gedurende welke de 
+beperking of het verbod van kracht is. Deze gegevens zijn opgenomen in het voorgestelde artikel 
+31a, tweede lid, van de Algemene wet. De gegevens zullen aan de bevoegde autoriteit moeten 
+worden verstrekt door de rechterlijke instantie of andere bij of krachtens de wet bevoegde instantie 
+die het verbod of de beperking heeft opgelegd.  
+ 
+Het tweede lid van voorgesteld artikel 31a regelt dat een verbod of een beperking moet worden 
+gemeld zodra het effect ervan is dat een beroepsbeoefenaar daadwerkelijk beperkt is in de 
+uitoefening van zijn beroepswerkzaamheden. Dit betekent dat het kan voorkomen dat verboden of 
+beperkingen gemeld moeten worden waartegen nog bezwaar of beroep openstaat, mits van het 
+bovengenoemde effect sprake is. Heeft een ingesteld bezwaar of beroep opschortende werking van 
+het verbod of de beperking waardoor niet langer sprake is van het effect dat de beroepsbeoefenaar 
+daadwerkelijk in zijn beroepsuitoefening is beperkt, dan dient het IMI geen waarschuwing over deze 
+persoon te bevatten en dient een eventueel reeds gemaakte waarschuwing door de bevoegde 
+autoriteit te worden verwijderd. 
+In artikel 56 bis, vijfde lid, wordt bepaald dat bevoegde autoriteiten onverwijld in kennis worden 
+gesteld indien een verbod of een beperking eindigt, of indien de einddatum van het verbod of de 
+beperking is gewijzigd. Dit is geïmplementeerd in het voorgestelde artikel 31a, vierde lid, van de 
+Algemene wet. De gewijzigde richtlijn bepaalt tevens dat binnen drie dagen na die afloop de 
+waarschuwing uit het IMI wordt gewist (artikel 56 bis, zevende lid). Dit is overgenomen in het 
+voorgestelde artikel 31a, vijfde lid, van de Algemene wet. Zo is de periode waarin waarschuwingen 
+worden bewaard in het IMI duidelijk en beperkt tot het strikt noodzakelijke minimum. 
+ 
+Waarschuwingen aan de bevoegde autoriteiten lopen via het IMI (zie voor een toelichting op het IMI 
+ook paragraaf 3.4.5). Het IMI is een elektronisch systeem voor gegevensuitwisseling tussen EU-
+lidstaten dat door de Commissie wordt beheerd. Het is een besloten en beveiligd elektronisch 
+netwerk waarin bevoegde autoriteiten (zoals DUO en CIBG) uit verschillende EU-lidstaten 
+rechtstreeks met elkaar informatie uitwisselen. Bij de inrichting van het IMI is gebruik gemaakt van 
+‘privacy by design’, wat inhoudt dat er bij het ontwerp van de voorziening van het 
+waarschuwingsmechanisme rekening gehouden is met eisen uit privacyregelgeving en dat het 
+systeem voldoende waarborgen biedt voor adequate gegevensbescherming. De Commissie is 
+verantwoordelijk voor de technische integriteit, betrouwbaarheid en veiligheid. De Commissie vervult 
+geen rol in de gegevensuitwisseling tussen de bevoegde autoriteiten en heeft geen toegang tot de 
+persoonsgegevens.  
+ 
+Artikel 56 bis, zesde lid, van de gewijzigde richtlijn bepaalt dat de beroepsbeoefenaar over wie een 
+waarschuwing naar de andere EU-lidstaten wordt verzonden, op het zelfde ogenblik schriftelijk in 
+kennis wordt gesteld van het waarschuwingsbesluit (overgenomen in artikel 31a, zesde lid, van de 
+Algemene wet). Het besluit tot het verrichten van de waarschuwing in het IMI is een besluit in de zin 
+van artikel 1:3 van de Awb. Via toepasselijkheid van de algemene bepalingen met betrekking tot een 
+besluit die zijn neergelegd in de Awb geldt daarom onder meer dat tegen de waarschuwing de 
+mogelijkheid tot bezwaar en beroep openstaat. De bevoegde autoriteit is verplicht om het in het IMI 
+te melden indien de beroepsbeoefenaar van die mogelijkheid gebruik heeft gemaakt.  
+ 
+Het derde lid van artikel 56 bis van de richtlijn schrijft tevens de toepassing van het 
+waarschuwingsmechanisme voor voor gevallen waarin een beroepsbeoefenaar in het kader van de 
+richtlijnprocedures valse beroepskwalificaties heeft gebruikt. Deze toepassing van het 
+waarschuwingsmechanisme is niet beperkt tot een aantal specifieke beroepen - zoals wel het geval is 
+46 
+ W10151.K-2
