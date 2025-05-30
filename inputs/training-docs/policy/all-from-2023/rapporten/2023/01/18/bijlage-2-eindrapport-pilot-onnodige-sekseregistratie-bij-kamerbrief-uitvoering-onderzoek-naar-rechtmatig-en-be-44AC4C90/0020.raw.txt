@@ -1,0 +1,35 @@
+Als de persoon zich met DigiD meldt is daarmee ook het BSN bekend en geverifieerd. DUO Alle primaire diensten binnen DUO gebruiken Domein Persoon, het is een service onderdeel 
+levert dan (onder meer) het geslacht aan de instelling. Als de persoon echter niet met een ten behoeve van de primaire onderwijsdiensten. Domein Persoon stelt gegevens en gene-
+DigiD geverifieerd BSN de keten in komt moet de instelling het gegeven ‘geslacht’ aan DUO rieke werkprocessen beschikbaar voor alle diensten binnen DUO en onder strikte voorwaar-
+leveren. DUO heeft dit gegeven nodig om de persoon te registreren in BAP en het PGN den ook voor gegevensleveringen aan externe partijen, zoals instellingen en sectorraden.
+(onderwijsnummer) te genereren. Wanneer in een later stadium een BSN wordt uitgereikt kan 
+DUO de persoon op basis van de bekende gegevens koppelen. Vanuit domein Persoon bezien is het niet goed mogelijk om, aan de hand van de Toolkit 
+Onnodige Sekseregistratie, een inschatting te maken over de wettelijke noodzaak om de 
+In de wetgeving rondom het aanmelden, de selectie en de inschrijving in het HO (Wet op het sekse te registreren. Net zomin kan domein Persoon een juiste inschatting geven wat de 
+hoger onderwijs en wetenschappelijk onderzoek - WHW) is opgenomen dat de betrokkene gevolgen zijn voor de gegevens afnemende regelgeving, processen (analytisch, gegevensleve-
+(artikel 7.31e lid 2, artikel 7.39 lid 1) het persoonsgebonden nummer moet overleggen middels ringen) en uitvoeringstaken als de sekse niet geregistreerd is. Wel is duidelijk dat het 
+een identiteitsdocument waar de geboortedatum en het geslacht op zijn vermeld. In de generieke karakter van de huidige processen binnen DUO gaat wegvallen als de sekse nog 
+Regeling register onderwijsdeelnemers staat dat het bestuur van de onderwijsinstelling op maar door een handvol processen wordt aangeleverd en door andere processen niet.
+grond van artikel 15 lid 2 dit gegeven aan het register onderwijsdeelnemers levert.
+De onderstaande punten worden vanuit domein Persoon aangegeven als richting voor 
+Het gegeven wordt ten behoeve van het Register Onderwijsdeelnemers binnen DUO eventuele, toekomstige oplossingen:
+opgenomen in de basisadministratie Persoon met meerdere doelen:
+Output
+•  Om een persoon initieel en bij vervolg dienstverlening eenduidig te kunnen identificeren •  In de uitingsvormen (brieven, beschikkingen e.d.) die DUO naar een klant stuurt is een 
+•  Als gegeven om bij gebruik van het BSN invulling te geven aan de vergewisplicht uit de Wabb referentie naar de sekse zoveel mogelijk geschrapt
+•  Als gegeven in leveringen ten behoeve van beleidsevaluatie, onderzoek en wettelijke •  In specifieke gegevensleveringen kan het geslacht worden geschrapt als dit geen gevolgen 
+leveringen aan andere instanties, waaronder scholen en sectorraden. heeft voor de ontvanger
+•  In het geval van een persoon die actief wordt bijgehouden in BRP (ingeschrevene) de 
+gegevens bij te houden in BRP en te gebruiken direct vanuit BRP, en niet langer als een 
+4.7. Verzamelen en beheren van onderwijsgegevens in diverse kopie binnen DUO te registreren.
+•  Speciale aandacht verdient de aanschrijfwijze. Als dit moet wijzigen, is het beter om aan te 
+registraties sluiten bij de overheidsbrede ontwikkelingen. Zo zijn er bij RvIG al jaren plannen om dit in 
+BRP op te nemen. Nu maakt DUO weinig gebruik van de code uit BRP die het naamgebruik 
+Domein Persoon is een generiek domein voor alle onderwijsgerelateerde processen die regelt. Hier kan men kiezen voor de eigen achternaam (‘geslachtsnaam’ in BRP terminolo-
+persoonsgegevens gebruiken die niet in de interactie tussen burger en DUO ontstaan. Denk gie), achternaam partner, achternaam partner gevolgd door eigen achternaam en omge-
+onder meer aan processen voor studiefinanciering, tegemoetkoming scholieren, bekostiging, keerd. Als hiervoor gender neutrale varianten komen kan dat impact hebben. Voor nu is het 
+register onderwijsdeelname en onderwijsresultaten, lerarenbeurs, internationale diensten, ver buiten scope.
+diplomaregister, en examendiensten. De gegevens zijn vaak verkregen vanuit externe 
+registers of administraties (RvIG, Belastingdienst). Het gaat dan om gegevens als persoonsge-
+gevens uit BRP, inkomensgegevens en rekeninggegevens. 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 20

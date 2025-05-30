@@ -1,0 +1,35 @@
+Input Juridisch: er zijn wetten waarin staat dat het geslacht gevraagd en geregistreerd moet worden. 
+•  In Mijn DUO en andere digitale kanalen kan DUO waar mogelijk het tonen van sekse Denk bijvoorbeeld aan de Wet Register Onderwijsdeelnemers (ROD): artikel 9 lid 2 sub c. 
+gerelateerde informatie achterwege laten.
+•  In Mijn DUO of andere digitale kanalen is het niet nodig om geslacht op te vragen als men Communicatie
+met DigiD inlogt. Als men met eIDAS inlogt is de toegang ook alleen mogelijk als RvIG de Digitale kanalen
+persoon via het BSN Koppelregister (BSNk) uniek weet te koppelen aan een BSN. In deze •  Het klantportaal Mijn DUO is alleen toegankelijk met DigiD of eIDAS (alleen met BSN). DUO 
+gevallen kan DUO het gegeven geslacht uit BRP betrekken. vraagt hier geen sekse op, de identiteit is al vastgesteld. Mocht DUO op termijn ook eIDAS 
+•  Bij het papieren kanaal kan een BSN door een uitvoeringsmedewerker worden gecontro- gaan gebruiken voor digitale dienstverlening aan Europese onderdanen zonder BSN, dan 
+leerd op andere gegevens dan geslacht en geboortedatum. Op het formulier kunnen we in kan het ontbreken van een geslacht een aandachtspunt worden.
+zo’n geval het geslacht laten vervallen. •  Lastiger wordt het proces als een student zijn ouders handmatig opgeeft. Of een debiteur 
+•  Bij het papieren kanaal is het geslacht nodig op het moment dat een persoon op het zijn partner opgeeft. In die gevallen is geen sprake van DigiD van de personen die het 
+formulier niet te vinden is in BRP. Dat kan niet vervallen. betreft, en kan DUO de huidige implementatie van de vergewisplicht niet uitvoeren.
+•  Bij inschrijving via Studielink is het geslacht nodig bij buitenlandse studenten zonder BSN. 
+Indien in de uitwisseling tussen instelling en DUO (eventueel via Studielink) het geslacht M2M-kanalen
+niet meer aanwezig is in de set die naar DUO wordt gestuurd voor personen met een BSN, •  Studielink: bij buitenlandse studenten geen BSN, dus input geslacht nu nodig.
+raakt dit aan de vergewisplicht en de tooling die DUO generiek gebruikt om personen te •  Bij studenten met BSN zou in theorie geen geslacht meer doorgegeven hoeven te worden. 
+identificeren, en te controleren of een dergelijk persoon zónder BSN al geregistreerd is in DUO geeft echter invulling aan de vergewisplicht (Art. 12 Wabb) door middel van controle 
+de Basisadministratie Persoon. van het BSN mét geboortedatum en geslacht. Bovendien levert het eventueel wegvallen 
+van het gegeven ‘geslacht’ problemen op met de HQI tooling (High Quality Identify) die 
+Registratie in BAP DUO inzet, zie hieronder.
+•  Dit blijft nodig. Niet alleen vanwege juridische aspecten (de wet vraagt het) maar ook om in 
+later stadium onderzoek te kunnen doen. Bijvoorbeeld: hoeveel mannen doen een Papieren kanalen
+opleiding die momenteel vooral door vrouwen wordt gevolgd en is gender gericht beleid •  Als BSN is opgegeven kan de uitvoeringsmedewerker mogelijk op een ander gegeven 
+daarop gewenst? controleren om te zien of hij de juiste persoon in BAP of BRP kan vinden.
+•  Verder kan in BRP momenteel niet worden achterhaald hoe het geslacht daarin was •  Ook zonder BSN kan een persoon, op basis van opgegeven gegevens, gezocht worden in de 
+geregistreerd ten tijde van de dienstverlening. Alleen het actuele geslacht is beschikbaar. BRP. Als de persoon echter niet vindbaar is, heeft domein Persoon het geslacht nodig om 
+•  BRP kent drie waarden voor geslacht: M, V en O (Man, Vrouw, Onbekend). Andere waarden de persoon te registreren, aangezien geslacht een verplicht attribuut is in de BAP.
+dan deze moeten zeer zorgvuldig worden overwogen; de impact is naar alle waarschijnlijk-
+heid zeer groot. Dat komt ook naar voren in de globale impactbepaling van het amende- Procesmatig in de primaire dienstverlening
+ment Van Ginneken (in het kader van de Transgenderwet), waarin wordt voorgesteld om de Het geslacht wordt voor meerdere doeleinden geregistreerd:
+waarde X te gaan gebruiken in de BRP. • Ten behoeve van identificatie.
+•  Nu wordt volgens Wet Algemene Bepalingen BSN bij gebruik van BSN (wanneer dit niet 
+Binnen DUO spelen meerdere aspecten rondom het registreren van sekse. gekoppeld is middels DigiD) gecontroleerd of de geboortedatum en het geslacht overeen-
+komen. Hetzelfde gebeurt bij gebruik van het onderwijsnummer.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 21

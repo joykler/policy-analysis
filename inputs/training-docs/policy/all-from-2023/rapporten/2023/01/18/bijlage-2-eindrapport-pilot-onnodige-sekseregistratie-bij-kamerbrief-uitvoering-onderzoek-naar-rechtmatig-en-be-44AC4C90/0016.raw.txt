@@ -1,0 +1,41 @@
+Met betrekking tot B actuele rol wordt niet als problematisch ervaren. In de telefonische communicatie naar de 
+Voor aanvragers zonder een BSN, of met een Zwitserse of Britse nationaliteit of een nationali- klant is het genderneutraal en inclusief communiceren in het algemeen geen probleem. 
+teit van een ander EU/ERR land of van het Caribisch deel van Koninkrijk der Nederlanden, die Echter geldt dat het in specifieke situaties wenselijk is om de sekse te kennen. Een voorbeeld 
+naar Nederland komen om te studeren moet een aanvraag voor financiering door middel van hiervan is het respectvol schriftelijk of telefonisch communiceren vanuit het Centrale 
+een fysiek formulier worden ingediend. De persoonsgegevens (inclusief geslachtskenmerk) Meldpunt Overlijden. Daarnaast mogen helpdeskmedewerkers uit AVG-overweging aan 
+worden binnen de BAP geregistreerd onder het identificerende gegeven Onderwijsnummer ouders van meerderjarigen geen informatie verstrekken over financieringsgegevens; het 
+(hierna ON). Een ON wordt binnen de BAP gekoppeld aan het BSN nadat de EU burger raadplegen van het geslachtskenmerk is dan een indicatie of de juiste persoon telefonisch te 
+voorzien is van een BSN. Het correct koppelen hiervan kost minder tijd en levert meer woord wordt gestaan.
+zekerheid indien het geslachtskenmerk al in de BAP is geregistreerd.
+In september 2019 is een analyse uitgevoerd naar welke communicatieproducten nog 
+In een aantal gevallen is echter ook het geslacht benodigd voor achterliggende identificatie- voorzien kunnen worden van genderneutrale communicatie, inclusief een impactbepaling. 
+processen, ook indien het BSN wel bekend is van een klant. Dit geldt onder andere voor het Dit geldt bijvoorbeeld voor mailverkeer, klantschermen, IDG brieven (Interactieve 
+identificatieproces van opvragen gegevens van ouders indien een aanvullende beurs gewenst Documenten Generator) en/of medewerkersschermen. Impact voor doel communicatie is 
+is of ter identificatie van de partner indien Eenoudertoeslag is gewenst. overgenomen uit deze analyse. Daarnaast is een update toegevoegd door Contentbeheer en 
+ABL (Aanvragen en Beslissen Lerarenbeurs). Tevens is de impact bepaald voor het aanpassen 
+Conclusie: Registratie van sekse ten behoeve van identificatie (m.b.t. A en B) voor OVG is van de medewerkersschermen.
+evenredig. 
+Het niet meer vragen van het kenmerk “geslacht” van een persoon zal gevolgen hebben voor 
+Bron Uren
+de unieke identificatie van een persoon in de BAP en het BRP en kan leiden tot:
+Analyse Gender neutraal communiceren 5.600
+Update Contentbeheer 150 
+• meer problematische identificatie
+Update ABL 50
+• meer persoonsverwisselingen, en daarmee een datalek
+Totaal 5.800
+• meer dubbele registraties en dus dubbel uitgekeerde financiering
+•  meer verhangingen (een verhanging is een administratieve correctie achteraf om meerdere 
+nummers terug te brengen naar de ene persoon die ermee bedoeld wordt) Impact sekse achterwege laten in communicatie (naar medewerker)
+4.3.2. Communicatie OVG - klant
+Bron Uren
+Medewerkersschermen  900
+Binnen OVG wordt het geslachtskenmerk daarnaast gebruikt voor de schriftelijke en de 
+Service naar medewerkersschermen 900 
+telefonische communicatie tussen de klanten en OVG medewerkers waarbij OVG medewer-
+Totaal 1.800
+kers de gegevens van de klant raadplegen op de medewerkersschermen. Binnen OVG wordt 
+al gewerkt aan het genderneutraal communiceren naar de klant. Zo wordt in de algemene 
+berichtgeving de klant aangeschreven in de actuele rol (bijvoorbeeld: beste student óf beste NB De impact is exclusief een alternatief in het Bezwaar & Beroep proces en klachtenproces 
+debiteur). Het aanschrijven van de klant waarbij ‘meneer’ of ‘mevrouw’ is vervangen door de waarin de klant de keuze krijgt in aanhef in de communicatie.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 16

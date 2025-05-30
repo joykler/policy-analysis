@@ -1,0 +1,35 @@
+Conclusie Advies 
+Registratie van sekse ten behoeve van (externe) communicatie is niet altijd evenredig. Echter Verwijder het geslachtskenmerk op de medewerkersschermen (zie ook doel communicatie 
+in een aantal gevallen is er sprake van een wat meer formele relatie met de klant in de hiervoor), en in de DWH leveringen indien mogelijk. Voorzie medewerkers van een raadpleeg-
+communicatie. Bijvoorbeeld in de berichtgeving vanuit een Bezwaar & Beroep proces of een functie waarmee in uitzonderlijke gevallen het geslacht in de BAP geraadpleegd kan worden. 
+klachtafhandeling. Door de klant met meneer/mevrouw aan te spreken wordt toenadering Impact sekse achterwege laten in onderzoek
+gezocht. Het is niet eenvoudig hiervoor een alternatief te vinden.
+Bron Uren
+Advies
+DWH leveringen 120
+Verwijder de ’geslacht’ aanhef op alle output naar de klant (zogenaamde externe output). 
+Overweeg of in het Klachtenproces of B&B proces de klant een keuze kan worden aangebo-
+den, hoe de klant wil worden aangesproken in de communicatie in bijvoorbeeld het door de 4.3.4. Statistiek
+klant in te vullen (web)formulier. Het hanteren van de juiste aanspreekvorm zal leiden tot een 
+betere relatie. Vanuit OVG worden gegevens aangeleverd aan het Centraal Bureau voor de Statistiek (CBS), 
+Betreffende de interne output, naar de medewerker, geldt een ander advies. Bespreek binnen in het kader van de wettelijke taken van het CBS.
+Management OVG én in overleg met Management Service Eenheid Gegevens de optie om de Het CBS levert informatie en data inzicht in maatschappelijke vraagstukken waarmee tevens 
+geslachtsaanduiding niet meer standaard te tonen op de medewerkersschermen, waarbij het maatschappelijk debat, beleidsontwikkeling en de besluitvorming van de overheid 
+medewerkers van DUO die geautoriseerd zijn voor toegang tot persoonsgegevens de worden gevoed. 
+geslachtsaanduiding wel kunnen achterhalen via een raadpleegfunctie. Daarmee kan dan in Inzicht in sekse kan daarbij noodzakelijk zijn. 
+uitzonderlijke gevallen het geslacht in de BAP geraadpleegd worden. Overweeg hierbij of het 
+niet meer tonen van het geslacht op de schermen, zolang het geslachtskenmerk van een Advies Het vraagstuk of het nodig is dat DUO de geslachtskenmerken aan het CBS levert is 
+persoon in de BAP een verplicht gegeven is, bijdraagt aan het terugdringen van het gebruik. buiten scope. Deze vraag moet door het CBS beantwoord worden. Uitgangspunt is dat deze 
+Voor de aanpak van het gender neutraal communiceren is een Rijksbrede aanpak gewenst. DUO brede analyse geen oordeel geeft over de evenredigheid van de sekseregistratie aan 
+externe partijen. 
+4.3.3. Onderzoek
+De afdelingen Handhaving en Inspectie (hierna H&I) en Persoonsgebonden Innen (hierna PGI) 4.4. Erkennen van diploma’s, beheren diplomabank
+raadplegen de sekseregistratie voor het uitvoeren voor onderzoek. PGI kan het geslachtsken-
+merk raadplegen op een medewerkersscherm. H&I krijgt het geslachtskenmerk aangeleverd Binnen dit hoofdproduct zijn onderstaande onderdelen geanalyseerd aan de hand van de 
+via Datawarehouse (hierna DWH). Het gegeven ‘geslacht’ is daarbij niet altijd noodzakelijk Toolkit Onnodige Sekseregistratie met als belangrijkste inzichten:
+maar is voor het onderzoek in een aantal gevallen wenselijk om over te beschikken. H&I wil 
+hiervan op de hoogte zijn bij huisbezoek in het kader van controle op misbruik van de 1.   Bij Mijn diploma’s (voorheen bekend als Diplomaregister) werd het geslacht getoond op 
+uitwonende beurs. PGI gebruikt de sekse bij het traceren van debiteuren via social media. het digitaal uittreksel. Sinds eind maart 2022 wordt dit niet langer gedaan, mede naar 
+aanleiding van de Pilot onnodige sekseregistratie. Bij EMREX staat het geslacht in het 
+ELMO bericht (EU standaard berichten opmaak). NB EMREX is een onafhankelijk 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 17

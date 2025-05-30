@@ -1,0 +1,35 @@
+4.8.1. Samenvatting en conclusies De gebruiker heeft zelf volledig de controle over de persoonsgegevens waaronder de sekse 
+binnen Europass. Gebruikers kunnen dit achteraf aanpassen, alsook met wie en voor hoelang 
+Bij de afdeling Informatieproducten worden in de 1-cijferbestanden met onderwijsdeelne- zij die gegevens willen delen (voor bijvoorbeeld een sollicitatie).
+mers en examens en de bestanden met personeelsgegevens sekse/geslachtgegevens 
+geregistreerd en gebruikt. Het gebruik van deze gegevens gebeurt altijd voor beleidsonder-
+zoek, en vaak ten behoeve van positief beleid of het in kaart brengen van (on)gelijkheid. 4.10. DUO communicatie
+ 
+Maatregelen De afdeling Communicatie registreert zelf geen geslacht en kan vanuit haar verantwoordelijk-
+Het niet gebruiken van het sekse/geslacht gegeven is bij IP geen optie gezien het belang van heid niets zeggen over welke geslachtsregistratie binnen DUO wel of niet noodzakelijk is. De 
+het gegeven voor beleidsonderzoek. Het is goed mogelijk om andere opties naast man/vrouw afdeling is wel betrokken bij het uitvragen van de sekse van klanten en bij het gebruik van de 
+op te nemen in de bestanden en te gebruiken, mits dit gegeven in de BAP wordt geregi- sekse in externe communicatie. De analyse vanuit Communicatie heeft daarom alleen 
+streerd. Hieraan zijn nauwelijks kosten verbonden voor IP (uiteraard los van de kosten van betrekking op de input en de output van de sekseregistratie. Met input wordt bedoeld ‘hoe 
+aanpassing van de BAP en invoering van de gegevens daarin). Kosten verbonden aan krijgen we het geslacht aangeleverd’ en met output wordt bedoeld ‘hoe gebruiken we het 
+eventuele acties om het gegeven geslacht te verwijderen uit de open data bestanden op de geslacht in de communicatie met de klant’.
+website van DUO zijn nog niet geschat vanwege het nog lopende onderzoek. 
+Input (exclusief ophalen uit de registers)
+Binnen DUO is de afdeling Communicatie betrokken bij het beheer van en de redactie op de 
+4.9. Fungeren als Nationaal Europass Centrum Nederland klantenformulieren, zoals: aanvraagformulieren, wijzigingsformulieren en machtigingsformu-
+lieren. Bij iedere DUO hoofdtaak hoort een eigen set formulieren. De werkgroep 
+Het Nationaal Europass Centrum van Nederland is sinds 2005 gevestigd bij DUO (de afdeling ‘Communicatiemiddelen’ is op dit moment een overzicht aan het creëren van die sets. 
+Internationale Diensten van de directie RenE). Het Nationaal Europass Centrum is verant- Uitzondering hierop is het organisatieonderdeel OI/BKP (zie 5.1), dat zelf verantwoordelijk is 
+woordelijk voor promotie en voorlichting van Europass in Nederland en doet actief mee aan voor het beheer van de inhoud van de e-formulieren. De webredactie doet daarop overigens 
+de ontwikkeling van Europass door deelname aan werkgroepen en projecten. De medewer- wel een redactionele slag.
+kers belast met de Europass taken zijn in dienst bij DUO, maar voeren deze taak, in opdracht 
+van OCW, uit voor de Europese Commissie. Dat doen ze samen met diverse partijen in het In principe vraagt DUO op alle formulieren naar het geslacht door de aankruisopties man/
+onderwijsveld en bedrijfsleven in Nederland. Dat geheel vormt het Europass consortium, vrouw. Dit is niet van toepassing bij OI/BKP. Alleen voor de OVG-formulieren is er al een 
+waarvan DUO de voorzitter is. richtlijn voor de geslachtsvraag: alleen bij een initiële aanvraag mag naar het geslacht worden 
+gevraagd. Dus wel op een aanvraagformulier voor studiefinanciering, maar bijvoorbeeld niet 
+Binnen deze taak wordt door DUO zelf geen registratie of gebruik van het persoonsgegeven op een wijzigingsformulier. Voor de overige hoofdtaken is er geen richtlijn en wordt er op 
+geslacht gedaan. Echter in de online Europass tool wordt door de gebruikers zelf wel het ieder formulier naar het geslacht gevraagd.
+geslacht gebruikt en vastgelegd. De gebruiker maakt hierbinnen voor zichzelf een profiel aan 
+waarbij, in lijn met aanbevelingen van de Toolkit Onnodige Sekseregistratie, gekozen kan 
+worden of en hoe het geslacht moet worden geregistreerd en daarna moet terugkomen op 
+bijvoorbeeld de Europass CV en/of de andere Europass communicatie producten.   
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 23

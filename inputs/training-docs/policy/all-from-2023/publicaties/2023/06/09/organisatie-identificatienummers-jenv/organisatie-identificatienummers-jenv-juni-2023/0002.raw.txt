@@ -1,0 +1,48 @@
+Organisatie-identificatienummer Ministerie JenV 
+Dienst Justitiële Inrichtingen OIN 
+Apparaatskosten Dienst Justitiële Inrichtingen Den Haag 00000004000000086000 
+Detentiecentrum Rotterdam 00000004000000125000 
+Detentiecentrum Zeist 00000004000000126000 
+Dienst Geestelijke Verzorging Dienst Justitiële Inrichtingen Den Haag 00000004000000129000 
+Dienst Vervoer en Ondersteuning Dienst Justitiële Inrichtingen 00000004000000128000 
+Divisie Vreemdelingenbewaring Dienst Justitiële Inrichtingen 00000004000000138000 
+Forensisch Psychiatrisch Centrum Oostvaarderskliniek 00000004000000121000 
+Forensisch Psychiatrisch Centrum Veldzicht 00000004000000120000 
+Hoofdkantoor Dienst Justitiële Inrichtingen Den Haag 00000004000000085000 
+Justitieel Complex Alphen aan den Rijn 00000004000000090000 
+Justitieel Complex Schiphol 00000004000000124000 
+Justitieel Complex Zaanstad 00000004000000153000 
+Justitiële Inrichting Caribisch Nederland 00000004000000122000 
+Ned. Instituut voor Forensische Psychiatrie en Psychologie 00000004000000130000 
+Opleidingsinstituut Dienst Justitiële Inrichtingen 00000004000000131000 
+Penitentiaire Inrichting Achterhoek 00000004000000087000 
+Penitentiaire Inrichting Almelo 00000004000000088000 
+Penitentiaire Inrichting Almere 00000004000000089000 
+Penitentiaire Inrichting Arnhem 00000004000000091000 
+Penitentiaire Inrichting Dordrecht 00000004000000093000 
+Penitentiaire Inrichting Grave 00000004000000094000 
+Penitentiaire Inrichting Haaglanden 00000004000000095000 
+Penitentiaire Inrichting Heerhugowaard 00000004000000097000 
+Penitentiaire Inrichting Krimpen aan den IJssel 00000004000000099000 
+Penitentiaire Inrichting Leeuwarden 00000004000000100000 
+Penitentiaire Inrichting Lelystad 00000004000000101000 
+Penitentiaire Inrichting Middelburg 00000004000000103000 
+Penitentiaire Inrichting Nieuwegein 00000004000000104000 
+Penitentiaire Inrichting Rotterdam 00000004000000107000 
+Penitentiaire Inrichting Sittard 00000004000000102000 
+Penitentiaire Inrichting Ter Apel 00000004000000108000 
+Penitentiaire Inrichting Tilburg 00000004000000109000 
+Penitentiaire Inrichting Utrecht 00000004000000110000 
+Penitentiaire Inrichting Veenhuizen 00000004000000111000 
+Penitentiaire Inrichting Vught 00000004000000112000 
+Penitentiaire Inrichting Zuid-Oost 00000004000000115000 
+Penitentiaire Inrichting Zwaag 00000004000000113000 
+Penitentiaire Inrichting Zwolle 00000004000000114000 
+Rijks Jeugdinrichting 00000004000000155000 
+Sectordirectie Forensische Zorg Dienst Justitiële Inrichtingen Den Haag 00000004000000135000 
+Divisie Gevangeniswezen Dienst Justitiële Inrichtingen Den Haag 00000004000000134000 
+Divisie Jeugd Dienst Justitiële Inrichtingen Den Haag 00000004000000136000 
+Shared Service Center Dienst Justitiële Inrichtingen 00000004000000132000 
+Shared Service Center ICT Dienst Justitiële Inrichtingen 00000004000000133000 
+ 
+Versie: 9-6-2023 Pagina 2 van 2

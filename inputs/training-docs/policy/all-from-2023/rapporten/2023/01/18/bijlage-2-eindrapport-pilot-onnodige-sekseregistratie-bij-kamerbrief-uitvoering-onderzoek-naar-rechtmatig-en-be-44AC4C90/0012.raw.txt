@@ -1,0 +1,26 @@
+4. Resultaten en conclusies per hoofdtaak
+4.1. DUO Compliance AVG en Privacy
+Voorafgaand aan het verzamelen en verwerken van persoonsgegevens moet de verwerkings-
+verantwoordelijke bepalen en vastleggen wat de grondslag is voor de verwerking. Vaak is er 
+een wet of regeling die stelt dat de gegevens moeten of mogen worden verwerkt. Of er is 
+sprake van een overeenkomst tussen de verwerkingsverantwoordelijke en de degene op wie 
+gegevens betrekking heeft (de betrokkene). Ook is het mogelijk dat de betrokkene specifiek 
+toestemming heeft gegeven voor de gegevensverwerking. De AVG kent zes mogelijke 
+verwerkingsgrondslagen. Voor elk van de grondslagen geldt dat het doel van de verwerking 
+van persoonsgegevens te rechtvaardigen moet zijn en dit van tevoren kenbaar moet zijn 
+gemaakt aan de betrokkene.
+Twee belangrijke uitgangspunten van de wet- en regelgeving met betrekking tot de verwer-
+king van persoonsgegevens zijn het noodzakelijkheidsprincipe en het principe van datamini-
+malisatie. Dit houdt in dat de verwerkingsverantwoordelijke op basis van de vastgestelde 
+grondslag alleen die gegevens mag verwerken die aantoonbaar noodzakelijk zijn voor de 
+bewuste verwerking. Er moet dus een directe relatie zijn tussen een persoonsgegeven en het 
+doel waarvoor dit wordt verwerkt. Er mogen niet meer gegevens worden verwerkt dan 
+noodzakelijk is voor het te verwezenlijken doel. Wanneer persoonsgegevens worden verwerkt 
+die niet nodig zijn om het doel van de verwerking te bereiken is sprake van een onrechtmatige 
+verwerking. 
+De toezichthouder Autoriteit Persoonsgegevens geeft geen specifieke kaders voor het gebruik 
+van het persoonsgegeven ‘geslacht’. De uitgangspunten hierboven zouden voldoende 
+richting moeten geven voor het gebruik ervan. Overal waar DUO het persoonsgegeven 
+‘geslacht’ verwerkt moet de grondslag hiervoor in de DPIA’s (Data Protection Impact 
+Assessment) verantwoord zijn.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 12

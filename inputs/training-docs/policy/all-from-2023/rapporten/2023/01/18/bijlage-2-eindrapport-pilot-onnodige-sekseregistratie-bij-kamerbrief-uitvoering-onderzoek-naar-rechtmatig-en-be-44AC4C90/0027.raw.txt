@@ -1,0 +1,31 @@
+Aanmelden en selectie hoger onderwijs Communicatie
+Bij de aanmelding en selectie Hoger Onderwijs levert DUO enkele ondersteunende taken. De afdeling Communicatie van DUO heeft een ondersteunende rol bij de communicatie met 
+Wanneer de persoon zich meldt middels DigiD is het BSN beschikbaar en geverifieerd, en klanten. Dat geldt bij de inkomende communicatie zoals aanvraagformulieren en wijzigings-
+levert DUO een aantal persoonsgegevens waaronder geslacht aan de instelling. Zonder DigiD formulieren, en bij de uitgaande communicatie, zowel bij het handmatig opstellen van 
+moet de instellingen het gegeven ‘geslacht’ aan DUO leveren teneinde registratie mogelijk te brieven als bij het automatisch genereren van berichten. Ook heeft de afdeling de ‘DUO 
+maken en een onderwijsnummer uit te reiken. In een later stadium kan dan alsnog de schrijfwijzer’ gepubliceerd. Als vervolg op de pilot kan worden gedacht aan het bijstellen 
+koppeling met een BSN volgen. daarvan. De schrijfwijzer van P-Direkt, zoals aangehaald in deze paragraaf, biedt mogelijke 
+voorbeelden.
+Verzamelen en beheren van onderwijsgegevens
+In deze paragraaf worden het Domein Persoon en het systeem BAP beschreven. BAP is de HRM
+Basisadministratie Persoon van DUO. Het persoonsgegeven ‘geslacht’ is hier noodzakelijk DUO maakt gebruik van P-Direkt, beheerd door het ministerie van BZK. Sekseregistratie is 
+voor een goede identificatie en het voldoen aan de vergewisplicht die verbonden is aan het daarin verplicht. Voor bedrijfs- en managementinformatie blijft registratie van geslacht 
+gebruiken van een burgerservicenummer (‘klopt het nummer en hoort dit nummer bij de nodig. In diverse documenten maakt DUO nog gebruik van de aanhef de heer/mevrouw. 
+bedoelde persoon?). Veel afnemende processen hebben het gegeven ‘geslacht’ nodig voor Aanbeveling is om te onderzoeken hoe over te gaan op een neutrale aanhef.
+het uitvoeren van de wet- en regelgeving, en het gegeven is nodig voor gegevensleveringen 
+en informatieproducten. Aanvullende bevindingen
+De Europese Commissie stelt een institutioneel gendergelijkheidsplan (gender equality plan 
+Verrijking onderwijsgegevens tot informatieproducten of GEP) verplicht voor financiering vanuit Horizon Europe, het kaderprogramma voor 
+De afdeling Informatieproducten verzorgt een groot aantal gegevensleveringen en informa- onderzoek en innovatie. Dat is geen verplichting, maar vanuit financieel oogpunt wel zachte 
+tieproducten, onder meer voor beleidsonderzoek en -evaluatie en als basis voor planningen. dwang. Sekseregistratie is dan nodig voor financiering vanuit dat kaderprogramma, en tevens 
+Het gegeven ‘geslacht’ speelt daarin een belangrijke rol en kan niet worden verwijderd. Het moet er in een GEP aandacht zijn non-binaire en transgender personen. 
+eventueel hanteren van andere opties dan man/vrouw zou mogelijk zijn tegen relatief geringe 
+kosten. Voorwaarde is dan wel dat de eventuele andere opties geregistreerd zijn in het 
+systeem BAP.
+Nationaal Europass Centrum Nederland
+In opdracht van OCW voert de afdeling Internatonale Diensten van DUO de Nederlandse 
+taken met betrekking tot Europass uit voor de Europese Commissie. DUO kent bij deze 
+taakuitvoering geen eigen registratie of gebruik van het persoonsgegeven ‘geslacht’. In de 
+online Europass-tool heeft de gebruiker zelf de volledige controle over registratie en gebruik 
+van persoonsgegevens waaronder sekse.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 27

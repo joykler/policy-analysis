@@ -1,0 +1,40 @@
+•  In de huidige procesgang gebruikt DUO de HQi tooling, waarin gebruik gemaakt wordt van ook een belangrijke rol in gegevensleveringen aan scholen en instellingen, en voor leveringen 
+zogeheten signalemententabellen. Het verwijderen van het gegeven geslacht maakt dat en informatieproducten in het kader van beleidsevaluatie en onderzoeken. Kort samengevat: 
+deze tooling niet meer voor elk identificatiepad bruikbaar is. De impact hiervan is fors. sekseregistratie is niet onnodig bij Domein Persoon.
+•  Bovendien bestaat het risico dat een persoon tweemaal geregistreerd wordt (dubbele 
+dienstverlening of een administratieve koppeling tussen twee registraties). Het risico is ook 
+aanwezig dat een persoon verkeerd geïdentificeerd wordt. Dat betekent een datalek. 4.8. Verrijking van onderwijsgegevens tot InformatieProducten IP
+•  DUO genereert voor enkele oude systemen nog het correspondentienummer. Voor de 
+generatie van het nummer wordt het geslacht gebruikt. Deze systemen zullen worden Binnen dit hoofdproduct zijn alle activiteiten geanalyseerd met als belangrijkste inzichten:
+10
+uitgefaseerd. •  Het gegeven geslacht is onderdeel van alle 1-cijferbestanden leerlingen en examens PO, 
+•  Om eerder geregistreerde personen opnieuw op te zoeken. VO, MBO en HO en komt uit de BAP. Geslachtgegevens zijn in deze bestanden nodig als 
+grondslag voor (beleids)onderzoek. Bijzondere levering van deze bestanden (die tot op 
+Procesmatig in gegevensleveringen persoonsniveau herleidbaar zijn) aan externe partijen gebeurt altijd op wettelijke basis. 
+DUO moet in een aanzienlijk aantal gegevensleveringen het geslacht doorgeven. Voor klanten Daarbij gaat het altijd om geslacht oftewel juridische sekse, gekoppeld aan de BRP.
+die niet in de BRP voorkomen vereist dat registratie in de BAP, en daarin is geslacht een •  Het gegeven geslacht is ook onderdeel van de bestanden met personeelsgegevens, die via 
+verplicht gegeven. het zakelijk portaal bij de directie RNE worden aangeleverd door het bevoegd gezag van 
+scholen en instellingen. Ook in deze bestanden zijn geslachtgegevens nodig als grondslag 
+Procesmatig in het analytische onderzoek naar het effect van het beleid voor (beleids)onderzoek. Levering van deze bestanden op persoonsniveau aan externe 
+Voor analytisch of evaluatief onderzoek waarbij het geslacht nodig is zal dit gegeven al in het partijen heeft nu geen wettelijke basis, maar er vindt op dit moment overleg plaats over 
+primaire proces moeten worden opgeslagen. Bij personen die naderhand alsnog in BRP een passende oplossing.
+vindbaar zijn kan een nieuw proces worden ingericht om de gegevens tegen die tijd weer uit •  Het gegeven geslacht komt voor in bestanden die IP opstelt voor beleidsonderzoeksbu-
+de BRP te halen. Dit vergt juridisch overleg met de RvIG. Aan een dergelijk nieuw in te richten reaus en andere externe partijen. In alle gevallen is de grondslag voor het leveren van deze 
+proces is een lange doorlooptijd verbonden. bestanden en het gebruik van het gegeven geslacht gelegen in het gebruik voor (beleids) 
+onderzoeksdoeleinden en daarmee geoorloofd volgens de checklist Tegengaan onnodige 
+Technisch sekseregistratie 
+Het gegeven ‘geslacht’ is een verplicht attribuut bij registratie van een persoon in BAP. Een •  IP plaatst bestanden met het gegeven geslacht op de website van DUO (open onderwijs 
+aanpassing op een verplicht attribuut in een datamodel is een zeer forse en kostbare ingreep. data) in het kader van het overheidsbeleid “alle informatie is openbaar tenzij...”. Er is geen 
+zicht op wie deze bestanden met geslachtgegevens voor welk doel gebruiken. Op basis van 
+4.7.1. Samenvatting en conclusies de Toolkit is de opname van het gegeven geslacht dan ook onnodig. Er loopt nog een 
+onderzoek in verband met de soms kleine aantallen personen, waardoor herleidbaarheid 
+De rol en plaats van Domein Persoon, met een belangrijke rol voor het systeem BAP binnen mogelijk kan worden.
+de informatiehuishouding van DUO, maken het vrijwel onmogelijk om hierin registratie van 
+10 
+het gegeven ‘geslacht’ stop te zetten. Geslacht is onder meer nodig voor een goede identifi- Een 1-cijferbestand is een uniform geaccepteerd databestand met de gegevens over onderwijsinstellingen en 
+onderwijsdeelnemers in het bekostigd onderwijs in heel Nederland. De data komen uit het Register 
+catie en het voldoen aan de vergewisplicht (art. 12 Wabb). Verder hebben veel afnemende 
+Onderwijsdeelnemers (ROD) van DUO. De bestanden fungeren als onbetwiste basis voor het betreffende 
+processen het geslacht nodig, voor uiteenlopende (wettelijke) doeleinden. Het gegeven speelt 
+schooljaar en de betreffende sector.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 22

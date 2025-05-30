@@ -1,0 +1,47 @@
+22 Oberon 
+ 
+Een stap verder dan deze governancestructuur is nationalisatie op onderdelen, zoals geadviseerd door 
+het Rathenau Instituut (Karstens & Kool, 2022). Het instituut roept op te overwegen om delen van de 
+digitale infrastructuur (rond digitale identiteiten, of cloudservices) in publieke handen te brengen. Het 
+ministerie van OCW, de sectorraden voor po, vo en mbo, en de brancheorganisaties van uitgeverijen 
+(GEU, inmiddels MEVW), distributeurs (KBb-E) en van educatieve softwareleveranciers (VDOD) noemen 
+marktordening en -regulering vanuit overheid een te zwaar middel (OCW, 2021a). In de eerder 
+besproken kamerbrief wordt ook aandacht besteed aan de digitale infrastructuur van het onderwijs 
+(Kamerstukken II, 32663226, 2022). Er worden geen concrete plannen genoemd. Voor het opzetten van 
+de infrastructuur wordt inspiratie gezocht bij het hoger onderwijs, gemeenten en de zorgsector. 
+ 
+De eerder beschreven Noorse Digital Learning Arena (NDLA) grijpt ook in op de IT-infrastructuur door 
+alle scholen uit te rusten met computers en wifi, en een laptop voor elke leerling. Daarnaast zijn alle 
+scholen aangesloten op een centraal inlogsysteem, waardoor docenten en leerlingen kunnen inloggen 
+via de schoolinstelling. Andere platforms konden hier met single-sign-on-identificatie op door 
+ontwikkelen (Janssen & Van Casteren, 2021). 
+ 
+4.4 Ondersteuning van docenten 
+ 
+Open leermiddelen, open standaarden (om open en gesloten leermiddelen interoperabel te maken) en 
+publieke regie om dit af te dwingen zijn ingrepen die een deel van de geschetste problemen aanpakken. 
+In aanvulling hierop wordt gepleit om het onderwijs te ontzorgen en de ict-geletterdheid van docenten 
+te verbeteren. De implicaties van het onderzoek ‘Doorbraak ICT’ wijzen uit dat het nodig is beleidsmatig 
+sterker op het gebruik van ICT in het onderwijs te sturen (Kester et al., 2018). De onderzoekers 
+constateren dat besturen en scholen hier onvoldoende zelf toe in staat zijn.   
+ 
+Zo vraagt het Rathenau Instituut (Karstens & Kool, 2022) om ondersteuning van leerkrachten (ict-
+coördinatie en bijscholing) en kwalificatie van nieuwe leerkrachten door digitaal onderwijs een 
+speerpunt in lerarenopleidingen te maken. De Onderwijsraad (2017) bemerkt lastenverzwaring voor het 
+onderwijs als gevolg van digitalisering en stelt dat de overheid moet instaan voor cybersecurity en 
+privacy van onderwijsinstellingen. Janssen en Casteren (2021) stellen dat gezorgd moet worden voor 
+voldoende financiering van centrale functies en adequate technische ondersteuning om digitalisering in 
+het onderwijs tot een groter succes te maken. 
+ 
+De SUNY (State University of New York) OER Services (SOS) geeft professionele ondersteuning bij het 
+maken en gebruiken van open content in cursussen en helpt met de benodigde ondersteuning door 
+educatieve ontwerpers en bibliothecarissen beschikbaar te stellen. Ook wordt er gewerkt aan het 
+veranderen van de eisen die aan de aanstelling en promotie van medewerkers worden gesteld om 
+docenten die deelnemen aan open onderwijsinitiatieven te belonen (Janssen & Casteren, 2021). 
+ 
+De OECD (2022) bespreekt een aantal landen waar het onderwijsveld door overheidsbeleid wordt 
+ondersteund in het verhogen van de digitale geletterdheid van docenten en schoolleiders. In Spanje is 
+het bijvoorbeeld voor docenten in opleiding verplicht om een semester lessen te volgen over het 
+integreren van ICT in het onderwijs. Daarnaast moeten docenten om in aanmerking te komen voor een 
+salarisverhoging ook een vastgesteld aantal uren ‘goedgekeurde’ cursussen volgen. Veel van deze 
+cursussen zijn online en gaan over ICT-toepassingen in de klas. In de UK worden door het ministerie in

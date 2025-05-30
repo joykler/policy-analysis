@@ -1,0 +1,50 @@
+20 Oberon 
+4.2 Bevorderen van open standaarden en interoperabiliteit 
+ 
+De platforms die in het onderwijs worden gebruikt, beperken de flexibiliteit van het inzetten van 
+lesmaterialen (zie H3). Om deze flexibiliteit te bevorderen, wordt gepleit voor open standaarden en 
+interoperabiliteit.   
+ 
+Zo stelt de Onderwijsraad (2017) dat technische aspecten van leermiddelen collectief (volgens open 
+standaarden) worden vormgegeven, zodat niet iedere uitgever/ontwikkelaar dit voor zijn/haar eigen 
+product hoeft te doen. Het Rathenau Instituut (Karstens & Kool, 2022) bepleit modulariteit van de 
+digitale infrastructuur waarbij diversiteit en interoperabiliteit leidende voorwaarden zijn. Het Ministerie 
+van OCW pleit samen met de sectorraden voor po, vo en mbo, en enkele brancheorganisaties voor een 
+systeem van open standaarden in de vorm van een publiek-privaat afsprakenstelsel. Dit sluit ook aan bij 
+11
+het openstandaardenbeleid van de Nederlandse overheid . 
+ 
+Partijen concluderen dat bestaande afspraken over standaardisering (binnen Edu-K) onvoldoende 
+concreet zijn, versnipperd, onvoldoende in onderlinge samenhang zijn opgesteld en onvoldoende 
+afdwingbaar zijn (OCW, 2021a). Dit vereist een publiek-private governance (OCW, 2021a) (zie volgende 
+paragraaf). 
+ 
+Eerdere ervaringen met vakcommunities laten zien dat een gemeenschappelijk curriculum bevorderlijk 
+is; hierdoor is er ook daadwerkelijk behoefte aan door anderen gedeeld materiaal. Bij de vakcommunity 
+hbo-verpleegkunde speelde verder dat er een hiaat in het leermateriaal was door nieuwe 
+opleidingseisen, waardoor er nog geen commercieel ontwikkeld leermateriaal was en alle opleidingen 
+dezelfde behoefte deelden (Janssen & Van Casteren, 2021). In het universitair onderwijs in Hamburg is 
+met de Hamburg Open Online Universität (HOOU) gestart met het realiseren van een open source 
+platform voor leermateriaal. Dit portal bevat daarnaast een ‘marktplaats’ waar wetenschappers, 
+docenten, studenten, burgers en het bedrijfsleven elkaar kunnen ontmoeten om HOOU-applicaties te 
+bespreken en deze (verder) te ontwikkelen (Janssen & Van Casteren, 2021). In de portal kunnen 
+gebruikers direct doorklikken naar het leeraanbod die door de universiteiten op hun eigen infrastructuur 
+ter beschikking wordt gesteld en ook door hen beheerd en gecontroleerd. Leermaterialen die op het 
+platform zelf zijn ontwikkeld, worden opgeslagen in een centrale bibliotheek (repository) en zijn daar vrij 
+toegankelijk. Alle content in deze opslagplaats kan direct worden geïntegreerd in learning management 
+systems en andere websites, zodat de leermaterialen ook kunnen worden gebruikt in het leeraanbod 
+van de afzonderlijke universiteiten (Janssen & Van Casteren, 2021). 
+ 
+Estland is een goed voorbeeld van een land waar de overheid al lange tijd actief digitalisering stimuleert 
+en reguleert (OECD, 2020). Innovatie ontstaat daar vanuit een duidelijke visie en sturing vanuit de 
+overheid, waarbij bij de uitwerking en implementatie intensief wordt samengewerkt tussen het 
+onderwijs en het bedrijfsleven (Goede, 2019). De missie van e-Estonia, de overkoepelende term voor 
+het innovatieprogramma, is allerlei overheidstaken te digitaliseren. Daarbij is onderwijs cruciaal geweest 
+om alle vernieuwingen met succes door te kunnen voeren. Terwijl alle scholen van computers en een 
+infrastructuur met goed internet werden voorzien, werd ook ingezet op het bijscholen van alle burgers 
+in digitale vaardigheden, zodat iedereen mee kon doen met de digitale maatschappij. In een (veel) later 
+stadium zijn uit deze ‘innovatie impuls’ andere platforms als eKool (een managementsysteem voor 
+scholen, leerlingen en ouders), Stuudium (Suite van apps voor scholen, voor onder andere 
+ 
+11
+  https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie-en-architectuur/open-standaarden/

@@ -1,0 +1,55 @@
+Een voorbeeld van het gebruik van afkomst-en seksegerelateerde indicatoren betreft de advisering 
+van de IND over de verblijfsvergunning van een vreemdeling die zich als zelfstandig kunstenaar in 
+Nederland wil vestigen. In de aanvraag daartoe is ook het geboorteland en de geboorteplaats van 
+de vreemdeling opgenomen. De grondslag is de wettelijke verplichting (Vreemdelingenwet 2000, art. 
+13, 25, lid 2.). De betrokken kandidaat is op de hoogte en het gebruik van de gegevens die nodig 
+zijn om een advies aan de IND te kunnen uitbrengen over de verblijfsvergunning. De betreffende 
+gegevens worden niet gedeeld.  
+Een tweede voorbeeld waar afkomst-en seksegerelateerde indicatoren wordt benut betreft 
+beleidsonderzoeken voor het hoger onderwijs. Hier wordt geëvalueerd en statistisch onderzoek 
+gedaan naar beleid waarbij het kenmerk ‘geslacht’ relevant is; denk aan ‘meer meisjes in de techniek’ 
+of ‘meer mannen voor de klas’. De grondslag voor deze verwerking ligt in artikelen 15 tot en met 18 
+van de Wet register onderwijsdeelnemers. Er wordt kritisch gekeken naar de onder-zoeksvragen of 
+de indicator geslacht verstrekt mag worden en op welk niveau (op persoonsniveau of geaggregeerde 
+data). Steeds vaker wordt er van af gezien, maar soms is het juist van belang om deze indicator en 
+het daarmee samenhangende beleid te evalueren.  
+4.2 Dienst Uitvoering Onderwijs 
+ 
+Dienst Uitvoering Onderwijs (DUO) heeft als doel om onderwijs en ontwikkeling mogelijk te maken. 
+De wettelijke taken betreffen met name bekostiging, studiefinanciering en examens.  
+De dienst maakt geen gebruik van risicomodellen waarin indicatoren van herkomst en geslacht 
+worden benut. De dienst benut indicatoren van herkomst en geslacht overigens bij diverse 
+verwerkingen. Deze zijn bij de toetsing als rechtmatig en behoorlijk geduid. 
+Een voorbeeld van het gebruik van afkomstgerelateerde indicatoren betreft het aanvragen van 
+studiefinanciering. Om te bepalen of iemand recht op studiefinanciering heeft zonder de Nederlandse 
+nationaliteit (WSF2000 art. 2.2) is het nodig om de nationaliteitsgegevens van de aanvrager te 
+registreren. Als het recht op studiefinanciering eenmaal is vastgesteld worden de 
+nationaliteitsgegevens niet meer gebruikt. Er is geen toegevoegde waarde om dit naderhand nog 
+eens te controleren. 
+Een tweede voorbeeld van het gebruik van afkomstgerelateerde indicatoren betreft het vaststellen 
+van aanvullende bekostiging voor onderwijsinstellingen in het primair onderwijs. Onderwijs-
+instellingen in het primair onderwijs kunnen op grond van art. 19 van het Besluit bekostiging WPO 
+2022 extra bekostiging ontvangen voor Nederlands onderwijs aan anderstaligen. Om de hoogte van 
+deze bekostiging vast te kunnen stellen wordt de culturele achtergrond van de leerlingen benut zoals 
+vastgelegd in het Register Onderwijsdeelnemers. 
+DUO heeft voorafgaand aan dit onderzoek een Pilot Onnodige Sekseregistratie uitgevoerd. Deze pilot 
+is uitgevoerd gegeven de inzet in het Regeerakkoord 2017-2021 om registratie van geslacht waar 
+mogelijk te beperken. In het met deze rapportage aangeboden eindrapport zijn de bevin-dingen 
+opgenomen en aanbevelingen gedaan. De bevindingen zijn op hoofdlijnen de volgende:  
+ Er is een ervaren onderscheid tussen de ‘harde’ registratie van gegevens (waaronder sekse) ten 
+behoeve van het uitvoeren van wet- en regelgeving, identificatie en gegevensleveringen, en het 
+communiceren met de klant. Vooral in de communicatie worden mogelijkheden voor verbetering 
+gezien op een relatief korte termijn en met verhoudingsgewijs geringe inspanning. 
+ Binnen het onderdeel Onderwijsvolgers is binnen DUO al in een eerder stadium onderzoek verricht 
+en wordt al gewerkt aan het genderneutraal communiceren naar de klant. Zo wordt in de 
+algemene berichtgeving de klant aangeschreven in de actuele rol (bijvoorbeeld: ‘beste student’, 
+of ‘beste debiteur’).  
+ Wat betreft de ‘harde registratie’, is het niet registreren van sekse in de interne DUO registratie 
+Basisadministratie Personen (BAP) vooralsnog geen reële optie. Het gegeven ‘geslacht’ is in het 
+datamodel voor de BAP een verplicht gegeven en wordt ook gebruikt voor diverse doeleinden die 
+voortkomen uit wettelijke verplichting. Ook is geslachtsregistratie nog nodig in het 
+identificatieproces, beleid en voor onderzoek. 
+Naar aanleiding van de pilot heeft DUO er voor gekozen de sekseregistratie in MijnDiploma’s te 
+beëindigen: “Op de diploma’s van burgers die wij binnen onze systemen hebben opgeslagen, staat 
+of de persoon in kwestie een man of vrouw is. Maar we kwamen erachter dat die informatie juridisch 
+6

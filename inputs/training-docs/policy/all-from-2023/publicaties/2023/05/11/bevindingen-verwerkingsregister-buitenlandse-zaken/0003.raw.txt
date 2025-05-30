@@ -1,0 +1,48 @@
+Voor het resterende deel wordt gewerkt met publiek toegankelijke informatie. De verwerking is 
+noodzakelijk voor de vervulling van een taak van algemeen belang of van een taak in het kader van 
+de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen 
+PERSOONSGEGEVENS: geboorteplaats, nationaliteit 
+ 
+DIRECTIE DCV 
+PROCES: Register Verklaringen Bezit Nederlanderschap (VBN) 
+TOELICHTING / WETTELIJKE GRONDSLAG: Het doel is om de aanvraag van een VBN te faciliteren en 
+daarmee de kwaliteitseisen van deze dienst te garanderen. Door het bijhouden van dit register komt 
+een overzicht van het aantal aanvragen en kan de doorlooptijd worden gemeten. Voorts kan per 
+land worden gemeten hoeveel aanvragen verwerkt zijn en kunnen verdere managementvragen 
+worden beantwoord zodat inzicht verkregen wordt in de benodigde capaciteit voor deze dienst. De 
+verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is 
+PERSOONSGEGEVENS: nationaliteit, geboorteplaats 
+ 
+PROCES: Nederland Wereld Wijd (NWW) Contact Center : DigiD-balie 
+TOELICHTING / WETTELIJKE GRONDSLAG: Nederland Wereldwijd (NWW, tot 1 nov 2021 24/7 
+Contact Center) isv een virtuele balie (videobellen) van Logius (onderdeel van het 
+ministerie van Binnenlandse Zaken en Koninkrijksrelaties, BZK) waar burgers in het buitenland een 
+afspraak kunnen maken en waar via de service "Myroom" een online identificatie wordt verricht 
+door speciaal aangewezen en met E-Herkenning op naam uitgeruste voorlichters teneinde op deze 
+manier de activeringscode voor DigiD te kunnen verstrekken. Hiermee wordt NWW een virtuele 
+balie vergelijkbaar met de bestaande 14 balies wereldwijd (vestigingen BuZa en grensgemeenten) 
+waarbij Logius de baliemodule beheerinrichting doet. De applicatie Digid Balie en het proces vallen 
+onder de verantwoordelijkheid van Logius. Verwerkingsdoel: met gebruikmaking van gegevens uit de 
+baliemodule van Logius en via identiteitsverificatie (geen identificatie) de klant (d.w.z. niet-
+ingezetenen, EER-burgers die een relatie met de NL overheid hebben en overige vreemdelingen die 
+op grond van rechtmatig en bestendig verblijf in NL een relatie met de overheid hebben) van een 
+activeringscode voor DigiD voorzien teneinde deze te registreren op DigiD.nl. Daarmee kan de klant 
+zijn of haar eigen DigiD verder activeren conform de instructies op DigiD.nl. De verwerking is 
+noodzakelijk voor de vervulling van een taak van algemeen belang of van een taak in het kader van 
+de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen. 
+PERSOONSGEGEVENS: nationaliteit, BSN 
+ 
+PROCES: Inburgeringsexamen: basisexamen inburgering buitenland t.b.v. een MVV-aanvraag en 
+naturalisatietoets t.b.v. een naturalisatieverzoek. 
+TOELICHTING / WETTELIJKE GRONDSLAG: Verwerkingsdoel: Het in behandeling nemen van een 
+aanvraag voor het afleggen van een inburgeringsexamen t.b.v. het indienen van een verzoek tot 
+verstrekking van een Machtiging Voorlopig Verblijf (MVV) en het in behandeling nemen daarvan. 
+Het in behandeling nemen van een aanvraag voor het afleggen van een naturalisatietoets t.b.v. van 
+indienen van een verzoek tot het verkrijgen van het Nederlanderschap en het in behandeling nemen 
+Daarvan. Het in behandeling nemen van een vrijstellings-/ontheffingsverzoek voor  
+inburgeringsexamen.  
+De verwerking is noodzakelijk om te voldoen aan een wettelijke verplichting die op de  
+verwerkingsverantwoordelijke rust. 
+Opsomming van de relevante wet- en regelgeving voor het inburgeringsexamen: 
+- Wet Inburgering Buitenland, 22 dec 2005 
+3

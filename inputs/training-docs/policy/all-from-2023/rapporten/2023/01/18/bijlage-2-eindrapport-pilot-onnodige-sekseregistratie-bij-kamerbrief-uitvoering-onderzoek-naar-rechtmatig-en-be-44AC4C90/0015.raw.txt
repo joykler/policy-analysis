@@ -1,0 +1,33 @@
+overzichten nodig. Nadere analyse op detailniveau moet uitwijzen of dit inderdaad aan de orde Om te bepalen of binnen OVG sprake is van onnodige sekseregistratie of dat het gebruik 
+is en zo ja wat de impact daarvan is. Aansluiten bij toekomstig Rijksbreed beleid is een pre. daarvan onevenredig is wordt hieronder per doel de toepassing ervan uitgelegd en de 
+noodzaak daarvoor samengevat. 
+4.3. OVG - verstrekken van studiefinanciering, tegemoetkoming 4.3.1. Identificatie
+schoolkosten en innen van lesgelden en studieschulden DUO-breed geldt in het algemeen dat bij de dienstverlening aan burgers het kenmerk 
+‘geslacht’ van belang is voor het identificatieproces. Het gaat hierbij derhalve om de juridi-
+Voor het verstrekken van Studiefinanciering, tegemoetkoming schoolkosten en het innen van sche sekse, zoals vastgelegd in de BRP. Voor de identificatie zijn diverse zoekpaden beschik -
+lesgelden en studieschulden bestaat bij DUO de directie Onderwijsvolgers (hierna OVG). Voor baar; het kenmerk ‘geslacht’ is voor een aantal zoekpaden verplicht. Het kent de waarden M, 
+de primaire processen van OVG is de registratie van persoonsgegevens, en dus ook het V en O, voor man, vrouw en onbekend, conform de BRP. Voor OVG wordt het geslachtsken-
+geslachtskenmerk (m/v/o) centraal geregeld in de Basis Administratie Persoon (hierna BAP). merk intern geraadpleegd voor de identificatie van de persoon én vergeleken met de opgave 
+Het geslacht is binnen de BAP en de Basisregistratie Personen (hierna BRP) een verplicht van de aanvrager indien deze persoon niet in het bezit is van een BSN. Het achterwege laten 
+attribuut. Eigenaar van de BAP is DUO Domein Persoon, een onderdeel van Service Eenheid van het kenmerk ‘geslacht’ bij de aanvraag leidt tot verhoogde kans op problematische 
+Gegevens van de directie RNE (Registers en Examens). Het betreft een generiek domein voor identificatie. Hierbij is vooral het onterecht niet onderscheiden van twee verschillende 
+alle DUO processen die persoonsgegevens gebruiken. De persoonsgegevens worden personen een ernstige fout, omdat dit leidt tot een datalek. Bij het onterecht niet onderken-
+verkregen vanuit de BRP, indien de persoon in het bezit is van een BSN. De BRP bevat nen dat een persoon reeds geregistreerd is, is een groot risico de kans op dubbele dienstver-
+persoonsgegevens van Nederland (ingezetene) en van personen die Nederland hebben lening, waardoor voor de burger vervelende schulden kunnen ontstaan. In elk geval kan de 
+verlaten (niet ingezetene). De BRP registreert de juridische sekse (en geen sociale sekse). identificatie veel uitzoekwerk met zich meebrengen, wat een stagnerende werking kan 
+hebben voor:
+De aanvragers met een BSN kunnen digitaal worden bediend door in te loggen met DigiD of 
+eIDAS. NB: OVG processen registreren naast de persoonsgegevens van de aanvrager ook A. het aanmeldproces voor aanvragers die niet in het bezit zijn van een BSN én
+persoonsgegevens van ouders (m.b.t opvragen inkomen bij aanvraag aanvullende beurs) en B. voor het achteraf koppelen van een onderwijsnummer aan een BSN. 
+van partner en kinderen (m.b.t. aanvragen éénoudertoeslag). OVG is verantwoordelijk voor 
+het uitvoeren van de wetgeving WSF2000, WSFBES de WTOS, Les- en Cursusgeld, de Met betrekking tot A
+Lerarenbeurs en een aantal overige subsidieregelingen voor financiering leraren. Geen van de Voor deze aanvragers wordt eerst gecontroleerd in de BAP én BRP of ze wellicht toch in het 
+wetten en subsidie regelingen schrijft expliciet de registratie of gebruik van het geslachtsken- bezit zijn van een BSN. Het geslachtskenmerk dat bevraagd wordt op het formulier wordt 
+merk voor. OVG gebruikt gegevens over de sekse voor doelen waarvoor de wet dit niet gebruikt ten behoeve van de identificatie. Dit kan helpen voorkomen dat een persoon 
+expliciet voorschrijft te weten voor: tweemaal geregistreerd wordt. Het correct beoordelen hiervan levert meer handmatig werk 
+en een grotere foutkans op indien het geslachtskenmerk niet is opgegeven door de 
+1. Identificatie aanvrager.
+2. Communicatie
+3. Onderzoek
+4. Statistiek
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 15

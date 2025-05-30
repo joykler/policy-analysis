@@ -1,0 +1,49 @@
+De gevolgen van digitalisering op de leermiddelenmarkt 21 
+communicatie met ouders en leerlingen, planning van lessen en de monitoring van voortgang), e-
+Schoolbag (portal voor single-sign-on) en ELIIS (management en volgsysteem voor voor- en 
+vroegschoolse educatie) voortgekomen. Deze applicaties zijn co-ontwikkeld door het onderwijs, 
+bedrijfsleven en de overheid. Hierbij moet wel worden opgemerkt dat de centralisatie van digitale 
+voorzieningen in landen met een nationaal curriculum (zoals Estland) eenvoudiger te realiseren is. In 
+Nederland is de inrichting en organisatie van onderwijs (inclusief technische randvoorwaarden) een 
+verworvenheid van de vrijheid van onderwijs. In welke mate zijn we bereid samen te werken (en ook 
+concessies te doen) voor de benutting van digitale voorzieningen in het onderwijs? 
+ 
+Een voorbeeld uit Nederland waarmee single-sign-on op onafhankelijke manier wordt opgezet is de 
+12
+Entree Federatie van Kennisnet . Voor scholen en aanbieders is het portaal en de technische 
+ondersteuning hierbij gratis. Veel scholen (met name in het vo en mbo) zijn daarom al aangesloten bij de 
+Entree Federatie, waardoor het voor uitgeverijen en ELO’s interessant wordt om ook mee te doen. 
+Bekende ELO’s zoals It’s Learning, Magister en SOMtoday zijn voor het voortgezet onderwijs al op de 
+Entree Federatie aangesloten. Door de ondersteuning die Kennisnet aan aanbieders geeft, worden 
+drempels voor toetreding van nieuwe aanbieders ook verlaagt. Voor scholen is nieuw materiaal met sso 
+toegankelijk. De Entree Federatie geeft ook transparantie in welke applicaties data over leerlingen met 
+elkaar uitwisselen en hanteert normen voor de beveiliging van deze data. Hiermee ondersteunt de 
+Entree Federatie scholen bij hun rol als verwerkersverantwoordelijke voor data van leerlingen. Een 
+limitatie van de Entree Federatie is dat deze naast sso en transparantie over data geen brug vormt 
+tussen digitale producten van verschillende aanbieders (producten van aanbieders communiceren puur 
+voor sso met de Entree Federatie, er is geen sprake van andere uitwisseling tussen producten). Er is in 
+deze zin geen sprake van open standaarden en uitwisselbaarheid waardoor de keuzevrijheid van scholen 
+voor leermaterialen toeneemt. 
+ 
+4.3 Verbeteren van de regie op leermiddelenketen 
+ 
+De huidige afspraken rondom digitale leermiddelen - bijvoorbeeld binnen Edu-K - zijn afhankelijk van de 
+‘goede wil’ van de deelnemers en beperkt afdwingbaar. De partijen zijn niet bij machte toe te zien op 
+handhaving van de deelnemende partijen en niet alle partijen, waaronder mondiaal opererende 
+partijen, hebben zich eraan gecommitteerd. Het Rathenau Instituut roept het ministerie op 
+stelselverantwoordelijkheid te nemen en landelijke regie te nemen om privacy, keuzevrijheid en 
+onafhankelijkheid te waarborgen en prijsopdrijving en ongewenst datagebruik te voorkomen (Karstens 
+& Kool, 2022). Het Ministerie van OCW, de sectorraden voor po, vo en mbo, en de brancheorganisaties 
+van uitgeverijen (GEU, inmiddels MEVW), distributeurs (KBb-E) en van educatieve softwareleveranciers 
+(VDOD) pleiten daarom voor een nieuwe governance structuur (OCW, 2021a). Het afsprakenstelsel 
+grijpt in op de interoperabiliteit en toetredingsdrempels, maar moet ook de publieke waarden 
+databeveiliging en privacy verbeteren. De ministers van OCW en primair en voortgezet onderwijs 
+hebben onlangs in een kamerbrief te kennen gegeven meer centrale regie te gaan pakken 
+(Kamerstukken II, 32663226, 2022). Zo wordt een normenkader vastgesteld voor het po en vo voor de 
+beveiliging van data van leerlingen. Het onderwijs krijgt ondersteuning om aan deze normen te voldoen. 
+Tevens worden centraal DPIA’s uitgevoerd op veelgebruikte digitale producten in het onderwijs. 
+Hiervoor is specialistische kennis en expertise nodig, die niet redelijkerwijs van individuele scholen of 
+besturen verwacht kan worden.  
+ 
+12
+  Zie https://www.kennisnet.nl/entree-federatie/.

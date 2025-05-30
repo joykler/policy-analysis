@@ -1,0 +1,35 @@
+voor een Piet of Marie gekozen wordt, maar ook voor een Yasmin of William. Laatste punt invulveld. De DUO afdeling Personeelsbeheer haalt deze informatie van het ID-bewijs of het 
+van aandacht van de inclusieve schrijfwijzer is de samenstelling van een stel. In voorbeeldtek- ingevulde RIN-formulier. Op het RIN-formulier wordt dus wel naar het geslacht gevraagd. 
+sten kan er niet uitsluitend worden uitgegaan van man/vrouw stellen.
+Naast P-Direkt en SAP wordt bij de afdeling HRM gebruik gemaakt van het wervings- en 
+selectiesysteem Connexys. Bij het invullen van het online sollicitatieformulier wordt niet naar 
+4.11. DUO HRM het geslacht gevraagd. Connexys is een systeem dat DUO niet zelf in beheer heeft; het wordt 
+afgenomen via het UBRijk (Uitvoeringsorganisatie Bedrijfsvoering Rijk, onderdeel van het 
+Binnen de afdelingen HRM en Personeelsbeheer (DFS-BV-APK) van DUO wordt gebruik ministerie van BZK).
+gemaakt van de systemen P-Direkt, SAP, RIN B.V en Connexys. P-Direkt valt buiten de scope 
+van deze opdracht. Hierover heeft de directie Emancipatie rechtstreeks contact binnen de In de communicatie aan medewerkers wordt in de arbeidsovereenkomsten, stageovereen-
+Rijksoverheid. komsten, brieven en besluiten in de aanhef het geslacht gebruikt. Voor de eed/belofte en 
+jubilea wordt een brief of besluit opgemaakt waarin het geslacht wordt benoemd in de 
+Bij de indiensttreding van een nieuwe medewerker/stagiair(e) vult deze persoon op verzoek adressering etc. Daarnaast wordt voor de HR-dashboard ook het geslacht gebruikt. Deze 
+van de afdeling HRM een aantal formulieren in. Op geen enkel formulier wordt naar het informatie wordt uit SAP verkregen.
+geslacht gevraagd. Naast de formulieren levert de nieuwe medewerker/stagiair(e) een kopie 
+van een geldig ID-bewijs aan waarop het geslacht staat vermeld. De afdeling 4.11.1. Samenvatting en conclusies
+Personeelsbeheer voert de nieuwe medewerkers op in P-Direkt (zie afbeelding) waarbij het 
+geslacht moet worden geregistreerd aangezien dit een verplicht invulveld is. Hierbij bestaat Bij een aantal processen binnen DUO/HR komt het voor dat sekse/geslachtgegevens 
+echter ook de waarde ‘genderneutraal’. DUO HRM registreert het geslacht verder zelf niet. geregistreerd dan wel gebruikt worden. Registratie vloeit voort uit het gebruik van P-Direkt: 
+sekseregistratie is een verplicht invulveld. Het is aan P-Direkt (dat buiten de scope van de 
+Voor de medewerkers die alleen worden opgevoerd in SAP (te weten: uitzendkrachten, pilot valt) om te bepalen of hiervoor een wettelijke basis aanwezig is.
+externen en gedetacheerden) wordt de informatie aangeleverd door IUC, Randstad of HRM. Om bedrijfs- en managementinformatie (dashboard) aan te kunnen blijven leveren (bijv. 
+De afdeling Personeelsbeheer ontvangt de benodigde informatie, dus ook het geslacht, om verhouding m/v, aantal m/v in managementfuncties) blijft het voor HR noodzakelijk om in 
+de tijdelijke medewerker te kunnen opvoeren in SAP. In SAP wordt bij de persoonsgegevens P-Direkt/SAP het geslacht te registreren. P-Direkt heeft naast man/vrouw een tweetal 
+het geslacht geregistreerd, aangezien dit net als in P-Direkt, een verplicht invulveld is. invulvelden genderneutraal en ongespecificeerd toegevoegd. HR zal samen met de afdeling 
+Personeelsbeheer bekijken hoe deze twee nieuwe invulvelden kunnen worden geïntegreerd 
+Op het moment dat DUO een besluit neemt over de wijze van sekseregistratie kan het en hoe deze informatie aangeleverd kan worden vanuit de nieuwe medewerker of stagiair.
+gekozen besluit door de afdeling SAPCC worden doorgevoerd in SAP. Deze aanpassing kan 
+gevolgen hebben voor de interne afnemers die SAP gebruiken om (management)informatie HR maakt in brieven/besluiten/overeenkomsten bij de adressering en aanhef nog gebruik van 
+te verkrijgen dan wel om informatie te ontvangen (bijv. BIC, ICT-autorisatie, Facilitaire Dienst de aanhef ‘de heer/mevrouw’. De vraag is of dit nog gewenst is. Hierbij is aan te bevelen om 
+(Rijkspas), Adresboek (intern) en de Rijksbrede adressengids). te onderzoeken hoe over te gaan op een neutrale aanhef zoals bijvoorbeeld ‘Geachte 
+medewerker’ of ‘Beste J. Leeraar’.
+Voor alle medewerkers die worden opgevoerd in P-Direkt of SAP wordt via RIN B.V. een uniek 
+RijksIdentificatieNummer (RIN) aangevraagd. Ook in dit systeem is het geslacht een verplicht 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 25

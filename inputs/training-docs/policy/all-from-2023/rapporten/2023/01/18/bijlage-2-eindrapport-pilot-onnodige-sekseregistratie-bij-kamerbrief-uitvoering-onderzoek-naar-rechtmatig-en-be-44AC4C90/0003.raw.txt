@@ -1,0 +1,35 @@
+Bevindingen en conclusies •  In theorie is het mogelijk om persoonsgegevens via de BAP op te halen uit de BRP en 
+binnen DUO te gebruiken zonder dat die gegevens in de systemen van DUO worden 
+Dit rapport maakt onderheid tussen de registratie van seksegegevens en het gebruik van geregistreerd. Dit geldt ook voor de verzameling van persoonsgegevens uit de BRP voor 
+seksegegevens in de communicatie. De hier bedoelde registratie betreft vooral het registre- gegevenslevering of beleidsinformatie. Hiervan moeten forse consequenties worden 
+ren van gegevens óver de burger, in het kader van de uitvoering van wet- en regelgeving en verwacht, onder meer op technisch en op financieel vlak. Dit maakt het niet registreren van 
+van daaraan gerelateerde gegevensleveringen. De communicatie betreft de communicatie sekse in de BAP vooralsnog geen reële optie.
+mét de burger.
+Bevindingen en conclusies met betrekking tot de communicatie met de burger
+Bevindingen en conclusies met betrekking tot de registratie van seksegegevens
+•  Het lijkt mogelijk om in veel uitingen naar de klant de sekse achterwege te laten. Dit kan bij 
+•  Bij de registratie van gegevens over de burger maakt DUO gebruik van de Basisregistratie zowel de fysieke uitgaande post als de digitale uitingen. Bijvoorbeeld in persoonlijke 
+Personen (BRP). Binnen DUO is hier het systeem Basisadministratie Personen (BAP) aan berichten, beschikkingen, online formulieren en in de “Mijn” omgevingen (Mijn DUO, Mijn 
+gekoppeld. De BAP fungeert als centrale toegangspoort naar de BRP voor de DUO-interne Diploma’s). 
+systemen die persoonsgegevens gebruiken en als centrale plaats voor de registratie van •  De directie Onderwijsvolgers (OVG) heeft in september 2019 een analyse uitgevoerd naar 
+personen die wel een relatie met DUO hebben maar (nog) niet in de BRP vindbaar zijn. welke communicatieproducten nog voorzien kunnen worden van genderneutrale commu-
+•  Het gegeven ‘geslacht’ is (nu nog) nodig in het identificatieproces, wanneer een persoon nicatie, inclusief een impactbepaling. Dit geldt bijvoorbeeld voor mailverkeer, klantscher-
+geen BSN (burgerservicenummer) heeft of wanneer het BSN niet DigiD geverifieerd is. Dit men, IDG brieven (Interactieve Documenten Generator) en/of medewerkersschermen. 
+om te voldoen aan de vergewisplicht (art. 12 Wet Algemene Bepalingen •  De directie Registers en Examens (RnE) heeft in de loop van de pilot besloten om de sekse 
+Burgerservicenummer - Wabb). DUO hanteert (naast de geboortedatum) het geslacht als niet langer te tonen in de uittreksels van Mijn diploma’s (voorheen Diplomaregister).
+gegeven om zich ervan te vergewissen dat het aangeboden burgerservicenummer inderdaad 
+hoort bij de bewuste persoon. Het gegeven ‘geslacht’ heeft de voorkeur boven bijvoorbeeld 
+‘naam’ omdat geslacht, anders dan naam, geen twijfel oplevert geeft over de schrijfwijze. Aanbevelingen 
+•  Het gegeven ‘geslacht’ is in het datamodel voor de BAP in technische zin een ‘verplicht 
+gegeven’. Dat brengt met zich mee dat een verwijdering van dat gegeven een bijzonder •  Zorg voor een overheidsbreed uitvoeringsbeleid voor sekseregistratie. DUO kan op het 
+forse en kostbare aanpassing zou zijn. gebied van (onnodige) sekseregistratie niet los van de RvIG en andere overheidsinstanties 
+•  De Rijksdienst voor Identiteitsgegevens (RvIG), de beheerder van de BRP, heeft handelen.
+autorisatiebesluiten opgesteld voor DUO. Hierin is vastgelegd welke persoonsgegevens uit •  Onderzoek de mogelijkheid voor registratie van de sociale sekse in de BRP, zodat deze 
+de BRP beschikbaar zijn voor DUO. DUO heeft, geheel in lijn met de AVG, de beschikking gebruikt kan worden in gegevensleveringen voor onderzoeken die juist niet de juridische 
+over enkel de minimale set gegevens van een persoon die nodig is om onderwijswet- en sekse willen meten. Hiermee wordt voorkomen dat iedere overheidsinstantie een eigen 
+regelgeving uit te voeren. oplossing realiseert en dat de burger bij elke instantie afzonderlijk moet aangeven wat de 
+•  DUO verzorgt een groot aantal gegevensleveringen ten behoeve van beleidsdoeleinden, sociale sekse is.
+onderzoeksdoeleinden en toepassingen waarin het gegeven ‘geslacht’ (of met andere •  Ontwerp een algemene aanschrijfwijze en aanhef voor de communicatie met de burger. De 
+woorden de juridische sekse) is opgenomen. Het volledig achterwege laten van de sekse burger moet daarin zelf een keuze kunnen vastleggen tussen een genderneutrale of 
+maakt emancipatiebeleid onmogelijk. inclusieve variant of een meer traditionele.
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 3

@@ -1,0 +1,33 @@
+5.2. Aanbevelingen binnen DUO 5.3. Aanbevelingen voor het inventariseren
+Hier staan aanbevelingen die betrekking hebben op mogelijke vervolgacties binnen of vanuit Hier zijn aanbevelingen en best practices vermeld zoals DUO die tijdens de pilot heeft 
+DUO. verzameld voor andere organisaties die gaan onderzoeken en inventariseren wat er plaats-
+vindt binnen de eigen organisatie ten aanzien van registratie en gebruik van seksegegevens.
+DUO voert een groot aantal (onderwijs-) specifieke wetten en regelingen uit, en dient zich 
+daarbij te houden aan generieke wetgeving. Voor deze pilot zijn daarbij onder meer de AVG Het heeft het POS team goed op weg geholpen om een onderscheid te maken tussen 
+en de Wet algemene bepalingen burgerservicenummer van belang. Op een aantal punten situaties waarin ‘geslacht’ nodig is voor de identificatie van een persoon of voor beleids- en 
+heeft DUO mogelijk al ruimte om registratie en gebruik van het gegeven ‘geslacht’ terug te onderzoeksdoeleinden enerzijds, en situaties waarin het hoofdzakelijk gaat om communica-
+dringen. Als het een wijziging is van geringe omvang zou DUO dat bijvoorbeeld samen met tie met de burger. In de laatstgenoemde situaties zien we vaak meer ruimte om geslacht of 
+andere wijzigingen al kunnen meenemen. sekse achterwege te laten. Het beperken of achterwege laten van registratie van ‘geslacht’ 
+Aanbevolen wordt om dit per hoofdtaak nader te beoordelen en op te pakken. Voor grotere bleek, tijdens de pilot, voor DUO veel ingrijpender te zijn, onder meer doordat het gegeven in 
+wijzigingen is afstemming met OCW nodig. veel wet- en regelgeving voorkomt. 
+Daarnaast is het goed om in overleg met het bestuursdepartement OCW te onderzoeken of Registratie van persoonsgegevens, en in het geval van POS specifiek juridische sekse of 
+het gebruik van seksegegevens in de onderwijswetgeving naar huidige inzichten passend is. geslacht, is vaak nodig voor identificatie, en in de uitvoering van wet- en regelgeving. 
+Het aanpassen van de onderwijs wet- en regelgeving is aan OCW, het is aan DUO om daarvan Daarnaast is het gegeven (juridische) sekse of geslacht nodig voor een groot aantal informa-
+de uitvoeringsgevolgen te bepalen. Uiteraard moet er bij eventuele aanpassingen ook oog tieproducten voor beleids- en onderzoeksdoeleinden en gegevensleveringen. 
+zijn voor de middelen en de beschikbare capaciteit. DUO is een organisatie die veel wet- en regelgeving uitvoert. Daarvoor heeft DUO veel 
+gegevens nodig, waaronder persoonsgegevens. Nog afgezien van uitkomsten als het 
+Na de herziening van de Nederlandse ID-kaart, voorzien in 2024 of 2025, zal de aanduiding verstrekken van studiefinanciering, en naderhand het innen van ontstane studieschulden, en 
+van het geslacht daarop niet langer aanwezig zijn. Op het paspoort blijft de aanduiding het aan de scholen en onderwijsinstellingen toekennen van bekostiging levert DUO ook veel 
+vooralsnog wel aanwezig, in verband met Europese regelgeving. Bij gebruik van DigiD levert informatieproducten op. DUO kent vanwege al dergelijke processen een groot aantal 
+het ontbreken van de geslachtsaanduiding op de ID-kaart geen problemen op. Onder meer in gegevensverwerkingen.
+Duitsland is het geslacht nu al niet meer aanwezig op de ID-kaart. Bij het aanvragen van DUO is gehouden aan de verplichting vanuit de AVG tot het bijhouden van een register van 
+studiefinanciering door een student zonder DigiD maar met een Duitse ID-kaart levert dat verwerkingsactiviteiten (verwerkingsregister), vanwege de omvang van de organisatie én 
+problemen op bij de identificatie. De problemen doen zich voor bij de instellingen, omdat zij vanwege de gegevensverwerkingen.
+het gegeven ‘geslacht’ aan DUO moeten leveren. Het wordt aanbevolen om af te stemmen •  Elke organisatie met meer dan 250 medewerkers is volgens de AVG verplicht om een 
+tussen het bestuursdepartement OCW en DUO hoe met deze situatie om te gaan en tot een verwerkingsregister te hebben.
+definitieve oplossing te komen. Daarbij moeten ook de instellingen nauw betrokken worden. •  Elke organisatie, ongeacht omvang, die persoonsgegevens verwerkt op meer dan inciden-
+tele basis is verplicht een verwerkingsregister te hebben. De Autoriteit Persoonsgegevens 
+stelt daarbij: “In de praktijk zijn verwerkingen zelden incidenteel. Denk bijvoorbeeld aan de 
+persoonsgegevens van medewerkers die u verwerkt. Of van uw klanten, cliënten, patiënten 
+of inwoners.”
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 29

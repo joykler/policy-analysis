@@ -1,0 +1,50 @@
+De gevolgen van digitalisering op de leermiddelenmarkt 15 
+3.4 Adoptie van open leermaterialen komt moeilijk van de grond  
+ 
+In het Nederlandse onderwijs bestaan diverse initiatieven om de ontwikkeling en inzet van open 
+6
+leermateriaal te stimuleren, zoals Edurep, Wikiwijs, VO-content en de Onderwijsinnovatie etalage. 
+Binnen dergelijke initiatieven worden copyright, de vindbaarheid en de metadatering goed geregeld 
+(Baas et al., 2017). Verschillende onderzoeken laten de interesse voor open onderwijs zien (zie 
+Onderwijsraad, 2017) en beschrijven goede praktijken (Baas et al., 2017), maar tegelijkertijd benoemt 
+de Onderwijsraad (2017) dat in het funderend onderwijs leermiddelen weliswaar worden gedeeld en 
+hergebruikt, maar niet vaak worden bewerkt. In het hoger onderwijs wordt er juist wel ontwikkeld, 
+maar weer weinig gedeeld, hergebruikt en bewerkt (Baas et al., 2015 In Onderwijsraad, 2017). Naast 
+deze initiatieven bestaat ook een informeel circuit waar de meeste ontwikkelingen plaatsvinden (Baas et 
+al., 2017); het gaat dan bijvoorbeeld om “hbo-docenten die elkaar ontmoeten op een congres en elkaar 
+materiaal sturen. Ze kennen elkaar, maken zich geen zorgen over metadata en delen bijvoorbeeld een 
+Dropboxmap.” (Baas et al., 2017). Auteurs benoemen dat docenten onvoldoende tijd hebben voor de 
+ontwikkeling en het updaten van leermateriaal (van der Neut & Willemse, 2019), en de ontwikkeling van 
+open materiaal leunt op hobbyisme en altruïsme (Onderwijsraad, 2017). Bij materiaal dat ontwikkeld is 
+binnen digitale platforms is ook het eigendom onduidelijk (Hogan & Williamson, 2021). 
+ 
+In het hoger onderwijs wordt gewezen op onduidelijkheid van regelgeving (landelijk) en instellingsbeleid 
+op het inzetten van open leermateriaal, waardoor docenten voor de ‘veilige weg’ van reguliere 
+leermaterialen kiezen in plaats van open materiaal (van der Neut & Willemse, 2019). Dit argument 
+wordt ook benoemd in het funderend onderwijs (Kennisnet & SLO, 2017). Auteurs wijzen er op dat open 
+materiaal ook lastig te vinden is (SLO, 2018; OCW, 2021a; de Jong & van den Berg, 2022; Jansen et al., 
+2021). Ook andere partijen benoemen dat de vindbaarheid en metadatering verbeterd moet worden 
+(Onderwijsraad, 2017; van der Neut & Willemse, 2019). 
+ 
+7
+Schumer (2021 ) vat in een blogpost de literatuur (zie ook Schumer & Jansen, 2017) over de adoptie van 
+open leermaterialen samen in de onderstaande lijst van factoren die grootschalige adoptie verhinderen:  
+ 
+Bij docenten: 
+• Gebrek aan tijd 
+• Onduidelijkheid over de toegevoegde waarde van open leermaterialen  
+• Geen ervaren erkenning en waardering voor delen van open leermateriaal 
+• Onvoldoende skills wat betreft vindbaarheid van open leermaterialen, auteursrecht en 
+gebruiksmogelijkheden 
+• Onduidelijkheid over kwaliteit van zowel gevonden leermaterialen als te delen eigen leermateriaal 
+• Onvoldoende ervaren ondersteuning op het gebied van educational technology, ICT en 
+auteursrecht 
+• Geen totaaloplossing. Commercieel leermateriaal gaat vaak vergezeld met testbanken, slides en 
+ander aanvullend materiaal. Een dergelijke totaaloplossing ontbreekt veelal bij open leermateriaal. 
+ 
+Bij instellingen: 
+ 
+6
+  In de literatuur wordt gesproken over Open Educational Resources (OER). 
+7
+  De waarde van en vraagstukken rond open leermaterialen – Open Education (robertschuwer.nl)

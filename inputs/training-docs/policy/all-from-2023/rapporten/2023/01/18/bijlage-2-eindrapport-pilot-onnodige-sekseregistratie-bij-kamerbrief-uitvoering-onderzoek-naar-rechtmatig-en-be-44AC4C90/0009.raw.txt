@@ -1,0 +1,33 @@
+2.3.1. Afbakening ten opzichte van andere trajecten
+Amendement Van Ginneken
+Tijdens de uitvoering van de pilot werd DUO langs een ander spoor verzocht een globale 
+impactbepaling te doen van uitvoeringsgevolgen van het amendement Van Ginneken bij de 
+7
+Transgenderwet . Kort samengevat betreft dit het globaal bepalen van de impact voor DUO 
+wanneer in de BRP voor geslacht de waarde ‘X’ mogelijk wordt gemaakt. Dat is niet hetzelfde 
+onderwerp als (de pilot) onnodige sekseregistratie, maar het betreft deels ook de processen 
+en systemen die van belang zijn voor POS. In de eerste plaats betreft dat dan de BRP en 
+binnen DUO de BAP. Aangezien de BRP een basisregistratie is heeft DUO de plicht om de 
+gegevens te hanteren zoals de BRP ze registreert. DUO kan niet eigenstandig besluiten om 
+voor bepaalde gegevens andere waarden te hanteren. Keerzijde is dan uiteraard dat indien 
+besloten wordt om in BRP de waarde ‘X’ mogelijk te maken voor geslacht, DUO dan ook alle 
+daarvoor benodigde aanpassingen zal moeten doorvoeren. De motie Van Ginneken is niet 
+rechtstreeks een onderwerp voor de pilot, maar heeft indirect wel focus gebracht in het 
+denken over de relatie BRP – BAP en sekseregistratie. 
+Toekomstvisie Domein Persoon DUO
+Relevant vanwege de registratie van persoonsgegevens is de Toekomstvisie Domein Persoon 
+binnen DUO. In het kort gaat deze visie erover dat DUO in de toekomst een Domein Identiteit 
+vormt, als opvolger van het huidige Domein Persoon. Het Domein Identiteit wordt ontwor-
+pen om identificerende gegevens te vertalen naar een persoons-ID, waarmee intern gegevens 
+en processen aan elkaar gekoppeld kunnen worden. Pas bij de output wordt het persoons-ID 
+terug vertaald naar de daadwerkelijke persoon met behulp van gegevens uit BRP of gegevens 
+die binnen DUO geregistreerd staan. In de tussentijdse verwerking gaat het om de relevante 
+gegevens betreffende die persoon, niet om wie die persoon is. In de visie neemt DUO het 
+standpunt in geen gegevens te willen beheren die reeds (door een bij wet aangewezen 
+organisatie) beheerd worden. Enkelvoudig beheer en directe afname bij de bron vormt de 
+meest effectieve wijze om tot gegevensminimalisatie te komen. Zolang directe afname 
+vanwege technische beperkingen niet tot de mogelijkheden behoort maakt DUO gebruik van 
+proxy’s die door de bronhouder (als een extensie van de basisregistratie) beheerd worden. 
+7 
+Detail 2022D02346 | Tweede Kamer der Staten-Generaal
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 9

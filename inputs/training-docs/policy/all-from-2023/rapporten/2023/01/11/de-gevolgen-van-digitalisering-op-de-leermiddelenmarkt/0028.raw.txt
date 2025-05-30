@@ -1,0 +1,43 @@
+28 Oberon 
+Bijlage 1 Definities 
+ 
+We geven een aantal definities om het onderzoek af te bakenen. 
+ 
+Devices 
+We volgen de definitie die in de evaluatie van de wet gratis schoolboeken wordt gebruikt (Bisschop et 
+al., 2021). De device is een draagbaar apparaat waarmee een leerling digitaal lesmateriaal en 
+leermiddelen kan gebruiken. Voorbeelden zijn laptops en tablets. Vaste computers zijn geen device 
+omdat deze niet draagbaar zijn. Smartphones vallen ook buiten deze definitie, omdat een deel van het 
+digitale lesmateriaal niet toegankelijk is op een smartphone. 
+ 
+Leermiddelen 
+We volgen hier grotendeels de definitie van Janssen en Casteren (2021). Leermiddelen zijn alle middelen 
+die door leerlingen of docenten wordt gebruikt ten behoeve van het onderwijs of het leerproces. Onder 
+leermiddelen vallen naast materialen waarmee leerstof wordt overgedragen (zie leermaterialen), 
+administratiesoftware en platforms (bijv. ELO’s), etc. Binnen deze brede definitie van Janssen en 
+Casteren vallen ook apparaten (computers, devices, smartphones, smartboards) en verbruiksmiddelen 
+(pennen en schriften, digitale varianten als MS Word en Powerpoint). Wanneer wij het hebben over 
+leermiddelen, bedoelen we deze zaken niet. We vermelden het expliciet wanneer het over bijvoorbeeld 
+devices gaat. 
+ 
+Leermaterialen 
+Een deel van de leermiddelen kan geclassificeerd worden als leermateriaal. Leermaterialen bevatten 
+leerstof of leerinhoud (content) in een bepaalde vorm (Janssen & Casteren, 2021). Dit kan een leerboek 
+zijn, maar ook een afbeelding, een informatief filmpje, een geluidsfragment of bijvoorbeeld 
+oefensoftware zijn.  
+ 
+Lesmateriaal 
+We volgen de definitie die in de evaluatie van de wet gratis schoolboeken wordt gebruikt (Bisschop et 
+al., 2021). Lesmaterialen zijn een deelverzameling van leermaterialen die gebruikt worden voor 
+informatieoverdracht in onderwijsleersituaties (‘in de les’). Het gebruik ervan voor een specifiek leerjaar 
+is door het bevoegd gezag voorgeschreven.  
+ 
+Lesmethode 
+Een methode is de door een uitgeverij ontwikkelde/geregisseerde content voor een vak. Een methode 
+kan uit verschillende onderdelen bestaan, zoals een leerboek, werkboek, oefen- en toetsmateriaal. 
+Methoden kunnen digitaal, folio of in een mix van digitaal en folio door een uitgever worden 
+aangeboden. 
+ 
+Digitaal leermiddel/leermateriaal/lesmateriaal 
+Een middel of materiaal is digitaal wanneer de bron binair numeriek is. Toegang tot een digitale bron 
+wordt verkregen met bijvoorbeeld een computer, smartphone of device.

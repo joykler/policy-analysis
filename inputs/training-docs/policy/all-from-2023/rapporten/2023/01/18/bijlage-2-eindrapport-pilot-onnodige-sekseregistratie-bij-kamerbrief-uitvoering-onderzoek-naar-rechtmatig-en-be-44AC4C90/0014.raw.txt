@@ -1,0 +1,35 @@
+gemeenten) waarin indien bekend ook het geslacht is opgenomen. De overzichten worden worden gericht seksegegevens opgevraagd voor controle/identificatie doeleinden. Bij MRvNS 
+regelmatig geactualiseerd (d.m.v. een mailrondje met de vraag of gegevens nog kloppen). komen ook gegevens omtrent geslacht mee in de opgevraagde VOG-en en ouderverklarin-
+gen. Gebruik is gebaseerd op wet- en regelgeving. 
+8.  Deelproces uitvoeringstoets: in het format voor de brief aan de opdrachtgevers (vooral de 
+DG’s bij OCW) is zowel in adressering als in aanhef de keuze M/V opgenomen Bij de twee deelprocessen (B&B en VOI) die te maken hebben met afhandeling Bezwaar en 
+Beroep en WOB-verzoeken wordt gebruik gemaakt van het sekse/geslacht gegeven ter 
+9.  Deelproces bekostiging CN: de telgegevens worden per formulier (mail) ingediend. Het controle/identificatie. Daarnaast komt het gegeven vaak ongevraagd mee in de stukken. 
+formulier vraagt (ook) om aantallen jongens en meisjes (niet op de persoon herleidbaar). 
+Daarnaast wordt het geslacht van de directeur van de school ter controle/identificatie Ook bij sommige andere deelprocessen komen ongevraagd sekse/geslacht gegevens mee bij 
+gevraagd. De gegevens worden digitaal gearchiveerd. in te dienen stukken (bijvoorbeeld jaarverslagen). De gegevens worden niet gebruikt of 
+geregistreerd. 
+10. Deelproces Afstudeersteun: in dit proces worden geen seksegegeven s opgevraagd, maar Bij telefonisch klantcontact wordt het gegeven indien bekend gebruikt in de aanspreekvorm 
+die zijn soms wel opgenomen in de aanvragen/correspondentie. Gegevens worden niet en soms vastgelegd in CRM-systeem.
+gebruikt, wel gearchiveerd. Bij kleinere deelprocessen waarbij buiten de systemen om brieven/beschikkingen/mails 
+worden aangemaakt, wordt het sekse/geslachtgegeven (M/V) gebruikt als beleefdheidsvorm 
+11. Deelproces B&B: bij behandeling beroep en bezwaar door team B& B worden gegevens in aanhef. In sommige gevallen worden lijsten met contactpersonen (Excel) bijgehouden.
+omtrent geslacht gevraagd en geregistreerd als onderdeel van het identificatieproces van 
+gemachtigden. Ook in de stukken staan vaak gegevens omtrent geslacht. Bij WOB en in de Algemeen geldt: 
+toekomst WOO verzoeken idem. Gegevens van de indiener komen initieel binnen via Daar waar het gegeven wordt opgevraagd (voor controle/identificatie) is impliciet dat de 
+voorgeschreven formulieren (papier en vooral digitaal). Het geslachtgegeven is optioneel juridische sekse wordt bedoeld. Er wordt geen toelichting op gegeven. Bij het gebruik als 
+(M/V/O). in de stukken komen om diverse redenen gegevens omtrent geslacht/gegeven beleefdheidsvorm is geen sprake van opvragen, maar worden gegevens indien bekend 
+voor. Archivering o.b.v. AVG en archiefwet. gebruikt. Dat zal in de meeste gevallen de sociale sekse zijn (maar dat is niet nader 
+gespecificeerd). 
+12. Deelproces verzoek om informatie (V OI) bij bezwaar en beroep: in de stukken betreffende Omdat er geen echte registratie/opslag van de sekse gegevens plaatsvindt, is er ook geen 
+bezwaar en beroep die intern worden voorzien van informatie komen seksegegevens voor. mogelijkheid voor betrokkenen om het geregistreerde gegeven te laten wijzigen/verwijderen. 
+Deze zijn vaak niet van belang voor de behandeling van het verzoek om informatie (VOI). Uiteraard kan bij een voorkomend verzoek, het gegeven worden gelakt in alle stukken c.q. 
+Bij communicatie/ correspondentie met (externe) partners in de keten kunnen eveneens gewijzigd in bijvoorbeeld Superoffice. Er is geen specifiek beleid op dit punt.
+seksegegevens voorkomen.
+Maatregelen
+4.2.1. Samenvatting en conclusies Het niet of anders gebruiken van het sekse/geslacht gegeven vraagt bij BKP geen ingrijpende 
+maatregelen of grote ICT oplossingen. In de meeste gevallen volstaat het aanpassen van 
+Bij DUO/OI/BKP worden voor de uitvoering van het brede bekostigingsproces (componenten werkinstructies en overzichten die lokaal worden gebruikt. Bij MRvNS geldt dat geen invloed 
+en bij Doorontwikkeling Applicatielandschap Bekostiging - DAB) geen sekse/geslachtgege- kan worden uitgeoefend op inhoud VOG en weinig bij ouderverklaring. Bij Klant is wellicht een 
+vens uitgevraagd, gebruikt of geregistreerd. Bij deelprocessen MRvNS en bekostiging CN aanpassing in het systeem Superoffice nodig en bij B&B is wellicht een aanpassing in de Blueriq 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 14

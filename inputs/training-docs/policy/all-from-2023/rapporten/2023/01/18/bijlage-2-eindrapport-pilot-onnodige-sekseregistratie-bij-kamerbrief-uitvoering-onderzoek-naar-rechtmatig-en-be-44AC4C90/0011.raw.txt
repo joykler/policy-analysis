@@ -1,0 +1,47 @@
+Verzorgen van proces van aanmelding, selectie en plaatsing hoger onderwijs Ja Voor elke hoofdtaak is onder leiding van de betreffende deelnemer aan deze pilot de analyse 
+naar het gebruik van de sekse gedaan. Dit vond plaats via online interviews en op basis van 
+Verzamelen en beheren van onderwijsgegevens in diverse registraties
+Ja
+de verstrekte informatie uit verschillende documenten. De hoofdlijn voor de analyse is:
+Verrijken van onderwijsgegevens tot informatieproducten
+Ja
+Fungeren als Nationaal Europass Centrum Nederland.
+Ja
+Met behulp van de Toolkit onnodige sekseregistratie inventariseren:
+Verzamelen en beheren van gegevens in het landelijk register kinderopvang 
+Nee
+ a. Waar geslacht wordt geregistreerd,
+en peuterspeelzalen
+ b. Welke sekseregistraties onnodig zijn, 
+Inburgering
+Nee
+ c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet, 
+Wet op het Financieel Toezicht (WFT)
+Nee
+ d.  Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er, gebruik 
+daarvoor de OS-checklist
+DUO Bedrijfsvoering Binnen Scope POS
+Door deze analyse wordt inzichtelijk gemaakt wat er komt kijken bij het beperken van 
+Communicatie (Scope is ook de communicatie binnen de hoofdproducten)
+Ja
+onnodige registratie van geslacht en wat de kosten hiervan zijn.
+Human Resources (personeel van DUO)
+Ja
+Compliance, AVG en Privacy Ja
+Voor een eenduidige vastlegging van de resultaten van de interviews is door het team 
+onderstaande tabel gemaakt. 
+Hoofdtaak: ....
+8
+Flow Interface Omschrijving en doel van het gebruik van het Nodig of Indien Onnodig hoe Indien Nodig welke alternatieven 
+geslacht Onnodig? verminderen (zie OS checklist)
+Maatregelen Kosten Maatregelen Kosten
+Onnodig? M2M Bijv. Geslacht komt centraal van RvIG BRP in de eigen computer 
+systemen. 
+H2H Bijv. In het klantcontact vragen ambtenaren naar het geslacht
+Verwerking en opslag Bijv. Het geslacht wordt opgeslagen in systeem xyz?
+Output M2M Bijv. Doorleveringen aan CBS….
+M2H Bijv. Geslacht wordt getoond in Webportaal 
+H2H Bijv. Bij telefonische identificatie van burger
+8
+ M= Machine H = Human; Dit zijn binnen ICT gangbare begrippen om de communicatie tussen computers of tussen mensen en computers aan te duiden. 
+Eindrapport Pilot Onnodige Sekseregistratie (POS) 11

@@ -1,0 +1,48 @@
+10 Oberon 
+3 Overwegingen om in te grijpen 
+ 
+We hebben de overwegingen om in te grijpen uit onze literatuurscan gerubriceerd in een aantal 
+hoofdoverwegingen. In dit hoofdstuk beschrijven we deze. Omdat we ingaan op overwegingen om in te 
+grijpen, overbelichten we de negatieve kanten van digitalisering. Er zijn uiteraard ook positieve kanten 
+aan digitalisering in het onderwijs.  
+ 
+3.1 Publieke waarden staan onder druk 
+ 
+Auteurs waarschuwen voor de druk die vergaande digitalisering zet en heeft gezet op publieke waarden 
+zoals rechtvaardigheid, menselijkheid, autonomie en privacy. Zo schetst het Rathenau Instituut dat 
+digitale leermiddelen ongelijkheid versterken; zelfs als leerlingen gelijke toegang hebben tot digitale 
+leermiddelen (wat op zichzelf al geen gegeven is; OECD, 2021) profiteren de sterke leerlingen met groot 
+zelfsturend vermogen daar meer van (Karstens & Kool, 2022). Ook Hogan & Williamson (2021) 
+constateren dat digitalisering ongelijkheid versterkt. Doordat algoritmen worden ontwikkeld op basis 
+van historische data kunnen ‘biases’ in de data leiden tot discriminerende bestendiging van de 
+aanwezige patronen (zie ook Karstens & Kool, 2022; Hogan & Williamson, 2021; Kennisnet & SURF, 
+2021; OECD, 2021), bijvoorbeeld als bepaalde groepen leerlingen in het verleden meer herhaling nodig 
+hadden om stof te beheersen, of vaker afstroomden. Daarnaast zijn veel oefenprogramma’s met 
+adaptieve componenten vooral gericht op de gemiddelde leerling, waardoor bijvoorbeeld leerlingen met 
+een beperking of leerlingen die hoogbegaafd zijn soms niet van de programma’s kunnen profiteren 
+(Onderwijsraad, 2022). 
+Waar digitale tools mogelijkheden voor contact kunnen vergroten kan een toename in schermtijd ook 
+5
+juist ten koste gaan van betekenisvol contact met een docent (Onderwijsraad, 2022). Daarnaast is 
+overmatige schermtijd fysiek ongezond en kan (game-/social-media-)verslaving optreden 
+(Onderwijsraad, 2017). Uit onderzoek blijkt verder dat de directe feedback in digitale applicaties behalve 
+wenselijke kanten ook negatieve kanten kent; zo kan dit leiden tot angst om fouten te maken. Breder 
+bezien kan er een ‘chilling effect’ optreden als leerlingen (weten dat ze) geobserveerd worden; zij 
+onderdrukken bepaald gedrag uit angst voor de neerslag in hun dataprofiel. Dit staat haaks op de ruimte 
+die het onderwijs hoort te bieden om fouten te maken, rebels te zijn en van standpunt te veranderen 
+(Onderwijsraad, 2017).  
+ 
+De autonomie van leerkrachten staat onder druk als zij gebonden zijn aan het gebruiken van applicaties 
+van één aanbieder, of alleen die applicaties die werken binnen het (ooit) gekozen systeem (Karstens & 
+Kool, 2022; Pijpers et al., 2020; Onderwijsraad, 2022). In het hoger onderwijs wordt bijvoorbeeld 
+gewaarschuwd voor de impact die grote techbedrijven hebben op de keuze van (gast)sprekers die niet 
+binnen de voorwaarden van het gekozen streamingplatform vallen (Hogan & Williamson, 2021). De 
+Onderwijsraad (2017; 2022) constateert dat het vormgeven van nieuwe educatieve toepassingen vooral 
+buiten het onderwijs door commerciële partijen plaatsvindt. Dit remt eigenaarschap, betrokkenheid en 
+innovatie in het onderwijsveld. In de huidige situatie is het onderwijs onvoldoende betrokken. Het veld 
+heeft geen invloed op dat wat wordt ontwikkeld. 
+ 
+ 
+5
+  Aan de andere kant kunnen digitale tools ook de docent taken uit handen nemen, zodat deze juist meer tijd vrij kan maken 
+voor betekenisvol contact met de leerling (Kennisnet, 2020)
