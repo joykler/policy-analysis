@@ -1,0 +1,36 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 131 
+2. We koppelen de resulterende dataset aan de lijst SBI-codes uit Bijlage A. Hiermee filteren we het 
+merendeel van het bedrijfsleven uit de dataset, en zoomen we in op de relevante culturele sectoren. 
+3. We nemen de jaarlijkse NFO datasets, waarin balansgegevens staan, en koppelen deze vanaf 2017 aan 
+elkaar om ook tot een long format dataset te komen. Balansgegevens zijn geaggregeerd op het niveau van 
+een ondernemingsgroep, wat een collectie van één of meerdere bedrijfseenheden is. Daarom koppelen 
+we het NFO aan het ABR op het niveau van de ondernemingsgroep.  
+4. Ten slotte koppelen we het resultaat aan de COVID_REGELINGEN dataset. Hierin staat voor elke 
+bedrijfseenheid wanneer het gebruik heeft gemaakt van een generieke steunmaatregel. Hiermee kunnen 
+we dus een onderscheid maken tussen culturele bedrijven die wel of niet steun hebben aangevraagd 
+gedurende de pandemie. Doordat de dataset resulterende uit stap 2.c. de ondernemingsgroep als 
+aggregatieniveau gebruikt, is het noodzakelijk om  
+5. Een addendum is dat we ook hebben geprobeerd de jaarlijkse BTW datasets te gebruiken, om aanvullende 
+omzetcijfers te vinden voor 2022. Dit biedt echter slechts een zeer beperkt aantal aanvullende observaties. 
+B. Werkgelegenheid: 
+1. We beginnen nogmaals met het ABR, en koppelen alle jaarlijkse bestanden vanaf 2017 aan elkaar om tot 
+een long format dataset te komen. 
+2. Vervolgens doen we hetzelfde met BETAB. Deze tabel maakt het mogelijk om polisadministratie te 
+koppelen aan specifieke bedrijfseenheden. 
+3. Daarna nemen we de SPOLISBUS datasets, die gegevens bevatten over individuele werknemers. Deze 
+gegevens zijn, onder andere, de aanvangsdatum van de arbeidsovereenkomst en de einddatum. Hiermee 
+is te zien hoe lang en hoe regelmatig iemand in dienst is bij een bedrijfseenheid. We berekenen per 
+bedrijfseenheid hoeveel mensen er in dienst zijn geweest. 
+4. Daarna maken we gebruik van de COVID_REGELINGEN dataset, om bedrijfseenheden te filteren op 
+generiek steungebruik. 
+Bijlage D.3 Kanttekeningen 
+ 
+● Dekking van balansgegevens is niet alomvattend. Hierdoor vallen veel bedrijven (met name zzp`ers) weg, en 
+vertegenwoordigen de cijfers met name de grotere instellingen.  
+● Alle balansgegevens zijn bekend op ondernemingsgroep-niveau, maar niet per bedrijfseenheid. Hierdoor 
+moeten soms bedrijfseenheden worden samengevoegd, die mogelijk niet allen cultureel relevante activiteiten 
+verrichten. Het kan dus zijn dat de balansgegevens bij ondernemingsgroepen horen die naast culturele 
+activiteiten ook in andere sectoren actief zijn. 
+● Relevante datasets zijn veelal nog niet beschikbaar voor 2022. Dat is onfortuinlijk, want het is minder bekend in 
+hoeverre dit een hersteljaar was. De dataset BTW bevat onder culturele instellingen bijvoorbeeld nog vele 
+gaten, waardoor er geen nauwkeurige ontwikkelingen in de omzet kunnen worden gemaakt.
