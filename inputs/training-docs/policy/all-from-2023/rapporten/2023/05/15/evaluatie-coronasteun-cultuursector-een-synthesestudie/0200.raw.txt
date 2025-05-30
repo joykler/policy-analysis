@@ -1,0 +1,36 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 185 
+2017 2018 2019 2020 2021 
+ 
+Solvabiliteit (mediaan) 0,37 0,27 0,32 0,26 0,25 
+Solvabiliteit (spreiding) 5,85 4,92 5,23 5,90 5,85 
+Aantal instellingen 59 53 70 71 86 
+Uitgeverijen van tijdschriften      
+Solvabiliteit (gemiddeld) -1,36 -1,90 -0,37 -0,54 -0,47 
+Solvabiliteit (mediaan) 0,29 0,30 0,35 0,36 0,39 
+Solvabiliteit (spreiding) 10,19 23,47 3,99 4,97 5,05 
+Aantal instellingen 303 296 276 278 220 
+Vriendenkringen van cultuur      
+Solvabiliteit (gemiddeld) 0,37 0,35 0,16 0,42 0,50 
+Solvabiliteit (mediaan) 0,38 0,60 0,66 0,67 0,61 
+Solvabiliteit (spreiding) 0,53 0,67 1,35 0,92 0,62 
+Aantal instellingen 13 11 16 11 11 
+Bron: Analyse CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek 
+Tabel E.25 Ontwikkeling in liquiditeit van culturele instellingen tussen 2017 en 2021. 
+2017 2018 2019 2020 2021 
+ 
+     
+Architectenbureaus 
+Liquiditeit (gemiddeld) 14,62 12,78 12,34 12,95 14,09 
+Liquiditeit (mediaan) 3,46 3,67 3,77 3,66 3,82 
+Liquiditeit (spreiding) 57,78 41,90 46,21 47,51 51,04 
+Aantal instellingen 1011 1026 1061 1099 1001 
+Beoefening van podiumkunst      
+Liquiditeit (gemiddeld) 15,40 21,84 17,17 21,99 24,17 
+Liquiditeit (mediaan) 4,50 4,31 3,77 4,48 4,57 
+Liquiditeit (spreiding) 41,31 81,67 53,85 56,83 111,78 
+Aantal instellingen 175 193 191 224 230 
+Bioscopen      
+Liquiditeit (gemiddeld) 3,81 4,05 4,22 4,14 9,81 
+Liquiditeit (mediaan) 1,70 1,71 1,60 1,95 2,73 
+Liquiditeit (spreiding) 7,11 6,31 8,85 6,99 25,86 
+Aantal instellingen 47 38 34 39 33

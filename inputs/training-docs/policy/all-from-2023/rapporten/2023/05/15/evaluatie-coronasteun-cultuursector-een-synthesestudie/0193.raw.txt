@@ -1,0 +1,42 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 178 
+Liquiditeit (mediaan) 100,00% 102,45% 102,07% 100,18% 107,07% 
+Liquiditeit (spreiding) 100,00% 108,43% 75,94% 78,92% 118,92% 
+Weerstandsvermogen (gemiddeld) 100,00% 109,32% 48,64% 47,77% 61,96% 
+Weerstandsvermogen (mediaan) 100,00% 102,29% 106,09% 90,36% 95,40% 
+Weerstandsvermogen (spreiding) 100,00% 129,08% 62,92% 47,00% 55,79% 
+Aantal instellingen 9155 9451 9699 9956 9389 
+Bron: Analyse van CBS Microdata (2023), uitgevoerd door SEO Economisch Onderzoek. 
+Deze tabel toont dat de ontwikkelingen onder alle tezamen genomen culturele instellingen verschillen van de 
+structureel gesubsidieerde instellingen. De gemiddelde solvabiliteit is gedurende de gehele periode negatief. 
+Culturele instellingen staan er gemiddeld genomen financieel niet sterk voor. De solvabiliteit wordt gedurende de 
+periode echter minder negatief, wat duidt op een verbetering van de financiële positie. De mediaan van solvabiliteit 
+is ook toegenomen gedurende de jaren. Deze mediaan is gedurende de gehele periode positief. Ook de spreiding 
+is gestegen, hetgeen duidt dat de heterogeniteit tussen de bedrijven is toegenomen. Opmerkelijk is, echter, dat de 
+verandering in solvabiliteit al in 2019 te zien is, ondanks dat er in dat jaar nog geen sprake was van lockdowns.  
+ 
+De liquiditeitspositie is voor de bekeken culturele instellingen verbeterd sinds 2017. In 2019 is de spreiding 
+gedaald, waarna het gedurende 2021 weer is toegenomen naar een niveau boven het startjaar. Net als bij 
+solvabiliteit is er in 2019 al sprake van relatief grote veranderingen in de maatstaaf, ondanks het gebrek van 
+lockdowns.  
+ 
+Het weerstandsvermogen is in 2019 gemiddeld ruim gehalveerd, ook voordat er sprake was van een pandemie. In 
+2021 is dit gemiddelde weer toegenomen. De mediaan van het weerstandsvermogen daalt in 2020, tegelijk met 
+het begin van de pandemie. Deze daling is kleiner dan de daling in het gemiddelde. De spreiding neemt net zoals 
+het gemiddelde al vóór de pandemie af. De daling in de spreiding toont dat instellingen meer op elkaar zijn gaan 
+lijken qua weerstandsvermogen sinds 2019.  
+ 
+De ontwikkelingen in solvabiliteit, liquiditeit en weerstandsvermogen zijn ook beschikbaar per culturele subsector. 
+Ter wille van de leesbaarheid van deze sectie, zijn de bijbehorende omvangrijke tabellen beschikbaar gesteld in 
+Bijlage E.  
+ 
+In tabel E.22 en tabel E.23 staan de ontwikkelingen in de solvabiliteit, liquiditeit en weerstandsvermogen van 
+culturele instellingen die gebruik hebben gemaakt van generieke steunmaatregelen. Voor deze groep instellingen 
+is te zien dat de solvabiliteit voor de pandemie gemiddeld negatief was, en afnam. Instellingen stonden er in 2019 
+gemiddeld genomen financieel slechter voor dan in 2017. In 2020 vertoont de gemiddelde solvabiliteit een lichte 
+stijging, waarna het in 2021 positief werd. De mediaan van deze solvabiliteit volgt een ander traject, en is van 2017 
+tot en met 2020 relatief constant gebleven. In 2021 nam deze maatstaaf toe. De spreiding van solvabiliteit laat zien 
+dat er in 2019 het meeste sprake was van heterogeniteit onder de culturele instellingen. De gegevens laten zien dat 
+instellingen in 2021 het meest op elkaar leken qua solvabiliteit, en dat de spreiding het kleinste was.  
+ 
+Wat liquiditeit betreft staan culturele instellingen er in 2021 gemiddeld sterker voor, en in de mediaan gelijk aan de 
+positie in 2017. In tegenstelling tot solvabiliteit is er in 2021 sprake van een grotere spreiding, hetgeen duidt dat er

@@ -1,0 +1,41 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 160 
+ 
+2017 2018 2019 2020 2021 
+Omzet (mediaan) 100% 94% 105% 40% 38% 
+Omzet (gemiddeld) 100% 113% 141% 53% 44% 
+Omzet (spreiding) 100% 126% 168% 87% 54% 
+Aantal instellingen 76 75 65 88 78 
+Scheppende kunst      
+Omzet (mediaan) 100% 93% 95% 103% 100% 
+Omzet (gemiddeld) 100% 417% 553% 658% 87% 
+Omzet (spreiding) 100% 690% 1032% 1267% 136% 
+Aantal instellingen 310 332 352 360 347 
+Televisie-omroepen      
+Omzet (mediaan) 100% 96% 88% 128% 116% 
+Omzet (gemiddeld) 100% 35% 12% 15% 186% 
+Omzet (spreiding) 100% 45% 16% 19% 276% 
+Aantal instellingen 16 12 19 18 18 
+Theaters, schouwburgen en concertgebouwen     
+Omzet (mediaan) 100% 69% 66% 37% 37% 
+Omzet (gemiddeld) 100% 94% 60% 90% 38% 
+Omzet (spreiding) 100% 103% 72% 88% 45% 
+Aantal instellingen 30 39 35 41 33 
+Uitgeverijen van boeken      
+Omzet (mediaan) 100% 105% 104% 108% 112% 
+Omzet (gemiddeld) 100% 78% 83% 696% 472% 
+Omzet (spreiding) 100% 71% 68% 1462% 774% 
+Aantal instellingen 369 360 372 352 311 
+Uitgeverijen van kranten      
+Omzet (mediaan) 100% 100% 80% 76% 90% 
+Omzet (gemiddeld) 100% 106% 148% 8% 50% 
+Omzet (spreiding) 100% 106% 167% 4% 45% 
+Aantal instellingen 79 89 89 80 67 
+Uitgeverijen van software      
+Omzet (mediaan) 100% 85% 95% 115% 107% 
+Omzet (gemiddeld) 100% 53% 52% 54% 55% 
+Omzet (spreiding) 100% 40% 37% 36% 37% 
+Aantal instellingen 59 53 70 71 86 
+Uitgeverijen van tijdschriften      
+Omzet (mediaan) 100% 101% 106% 86% 92% 
+Omzet (gemiddeld) 100% 113% 123% 127% 102% 
+Omzet (spreiding) 100% 105% 119% 119% 104%

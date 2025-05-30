@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 171 
+ 
+2017 2018 2019 2020 2021 
+Resultaat (gemiddeld) 100% 207% 11% 85% -126% 
+Resultaat (mediaan) 100% 200% 233% 2183% 567% 
+Resultaat (spreiding) 100% 262% 12% 111% 370% 
+Aantal instellingen 16 12 19 18 18 
+Theaters, schouwburgen en concertgebouwen      
+Resultaat (gemiddeld) 100% 74% 5% 5% -24% 
+Resultaat (mediaan) 100% 308% 123% 62% 554% 
+Resultaat (spreiding) 100% 84% 6% 5% 32% 
+Aantal instellingen 30 39 35 41 33 
+Uitgeverijen van boeken      
+Resultaat (gemiddeld) 100% 178% 129% 619% 1800% 
+Resultaat (mediaan) 100% 100% 90% 170% 240% 
+Resultaat (spreiding) 100% 114% 129% 628% 1785% 
+Aantal instellingen 369 360 372 352 311 
+Uitgeverijen van kranten      
+Resultaat (gemiddeld) 100% 60% 164% 3% 287% 
+Resultaat (mediaan) 100% 72% 108% 128% 185% 
+Resultaat (spreiding) 100% 58% 160% 2% 264% 
+Aantal instellingen 79 89 89 80 67 
+Uitgeverijen van software      
+Resultaat (gemiddeld) 100% 21% 14% -4% 3% 
+Resultaat (mediaan) 100% 100% 67% 167% 117% 
+Resultaat (spreiding) 100% 23% 22% 45% 41% 
+Aantal instellingen 59 53 70 71 86 
+Uitgeverijen van tijdschriften      
+Resultaat (gemiddeld) 100% 65% 71% 78% 51% 
+Resultaat (mediaan) 100% 42% 83% 83% 200% 
+Resultaat (spreiding) 100% 62% 69% 69% 58% 
+Aantal instellingen 303 296 276 278 220 
+Vriendenkringen van cultuur      
+Resultaat (gemiddeld) 100% -30% -267% -1370% -372% 
+Resultaat (mediaan) 100% 30% -10% 30% 0%

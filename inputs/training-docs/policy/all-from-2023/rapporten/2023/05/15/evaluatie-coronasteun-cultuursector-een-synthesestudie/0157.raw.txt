@@ -1,0 +1,42 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 142 
+hetzelfde niveau bereikt als het begin van de reeks. Ook uitgeverijen van boeken zien een lichte groei in de 
+werkgelegenheid. 
+Bijlage E.3 Bedrijfsprestaties en financiële positie 
+Veranderingen in non-subsidiebaten en subsidiebaten 
+Figuur E.8 Relatie tussen de verandering in non-subsidie inkomen, en de verandering in subsidie inkomen 
+338
+tussen 2019 en 2020. 
+25
+20
+15
+10
+5
+0
+-20 -15 -10 -5 0 5 10 15 20
+-5
+-10
+-15
+-20
+Verandering in non-subsidie baten
+ 
+Bron: Gegevens verstrekt door het ministerie van OCW (2023), geanalyseerd door SEO Economisch Onderzoek  
+Van instellingen die structureel subsidies ontvangen is het bekend wat de samenstelling is van de baten. Voor deze 
+instellingen berekenen we de verandering in de baten uit subsidies en de baten uit overige bronnen tussen 2020 
+en 2019. Instellingen die tussen 2020 en 2019 het meeste inkomen uit overige bronnen kwijt zijn geraakt, hebben 
+de grootste behoefte aan subsidiair inkomen. Figuur E.8 laat zien in hoeverre inkomens uit subsidies complementair 
+zijn aan overig inkomen. Instellingen die linksboven in de figuur staan hebben meer subsidie ontvangen in 2020 
+dan in 2019, maar hebben tegelijk minder inkomen uit overige bronnen ontvangen. Het overgrote merendeel van 
+de instellingen staat in dit kwadrant van de grafiek, hetgeen aangeeft dat de subsidies zijn verstrekt aan instellingen 
+die er de meeste behoefte aan hadden. De instelling die rechtsonder in de figuur staat heeft in 2020 minder subsidie 
+ontvangen, maar ook hogere overige baten, waardoor de subsidie minder hard nodig was. Instellingen die 
+rechtsboven in de figuur staan hebben zowel meer subsidie als baten uit overige bronnen in 2020 dan in 2019. Deze 
+instellingen hebben dus een groei in baten meegemaakt vanuit publieke bronnen, maar ook uit overige bronnen. 
+ 
+338
+  De veranderingen zijn getransformeerd door een areaalsinus hyperbolicus. Deze transformatie lijkt zeer veel op het 
+nemen van een logaritme, maar heeft het voordeel dat het negatieve waardes kan verwerken. De interpretatie van de 
+assen is tevens vergelijkbaar met hoe logaritmische assen moeten worden gelezen, namelijk als een soort exponenten: 
+asinh(1000) is ongeveer 7.6, terwijl asinh(10000) ongeveer 9.9 is. De input vergroten met factor 10 leidt tot een output 
+die ~2.3 groter is. 
+ 
+Verandering in subsidie baten

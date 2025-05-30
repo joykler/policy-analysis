@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 183 
+2017 2018 2019 2020 2021 
+ 
+Solvabiliteit (spreiding) 3,23 1,98 6,96 7,17 12,26 
+Aantal instellingen 32 37 32 29 33 
+Producenten van podiumkunst      
+Solvabiliteit (gemiddeld) -0,24 -0,07 -0,23 -2,68 -1,81 
+Solvabiliteit (mediaan) 0,54 0,50 0,49 0,52 0,54 
+Solvabiliteit (spreiding) 3,55 2,56 3,29 26,41 24,44 
+Aantal instellingen 147 150 139 169 166 
+Productie van films (geen televisiefilms)      
+Solvabiliteit (gemiddeld) -0,83 -1,21 -1,65 -1,32 -2,06 
+Solvabiliteit (mediaan) 0,44 0,44 0,44 0,48 0,51 
+Solvabiliteit (spreiding) 11,91 13,25 23,51 18,31 44,40 
+Aantal instellingen 554 593 595 611 583 
+Productie van televisieprogramma's      
+Solvabiliteit (gemiddeld) -1,29 -0,10 0,02 -0,37 -0,83 
+Solvabiliteit (mediaan) 0,46 0,46 0,42 0,46 0,50 
+Solvabiliteit (spreiding) 11,88 3,36 3,02 8,25 10,06 
+Aantal instellingen 161 158 170 187 160 
+Public relationsbureaus      
+Solvabiliteit (gemiddeld) -0,10 0,13 0,16 -0,22 0,11 
+Solvabiliteit (mediaan) 0,50 0,53 0,50 0,56 0,57 
+Solvabiliteit (spreiding) 3,32 2,33 1,82 8,90 4,47 
+Aantal instellingen 365 398 399 404 438 
+Radio-omroepen      
+Solvabiliteit (gemiddeld) -0,65 -0,60 -0,88 -1,89 -0,46 
+Solvabiliteit (mediaan) 0,12 0,24 0,17 0,25 0,20 
+Solvabiliteit (spreiding) 3,19 3,34 4,04 7,20 2,68 
+Aantal instellingen 18 15 21 18 11 
+Reclamebureaus      
+Solvabiliteit (gemiddeld) -0,38 -0,35 -0,08 -0,16 0,06 
+Solvabiliteit (mediaan) 0,40 0,44 0,45 0,47 0,50 
+Solvabiliteit (spreiding) 8,15 13,42 3,90 8,60 2,86 
+Aantal instellingen 2331 2329 2385 2289 2046

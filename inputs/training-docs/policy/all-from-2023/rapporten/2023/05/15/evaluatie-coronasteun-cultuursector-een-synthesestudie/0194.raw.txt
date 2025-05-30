@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 179 
+meer heterogeniteit is onder de instellingen: Er zijn meer instellingen die er zeer goed of zeer slecht voor staan dan 
+in de voorgaande jaren. 
+Tabel E.22 Ontwikkelingen in de gemiddelde solvabiliteit van culturele instellingen die generieke steun hebben 
+ontvangen, tussen 2017 en 2021. 
+0,1
+0,05
+0
+-0,05
+-0,1
+-0,15
+-0,2
+2017 2018 2019 2020 2021
+ 
+Bron: Analyse van CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek. 
+Tabel E.23 Ontwikkelingen in solvabiliteit, liquiditeit en weerstandsvermogen van culturele instellingen die 
+generieke steun hebben ontvangen, tussen 2017 en 2021. Indexcijfers (2017 = 100%) 
+ 
+2017 2018 2019 2020 2021 
+Solvabiliteit (mediaan) 100,0% 99,4% 100,1% 102,5% 115,9% 
+Solvabiliteit (spreiding) 100,0% 107,8% 170,3% 119,9% 62,0% 
+Liquiditeit (gemiddeld) 100,0% 106,4% 98,4% 109,8% 123,5% 
+Liquiditeit (mediaan) 100,0% 97,9% 98,0% 91,1% 100,5% 
+Liquiditeit (spreiding) 100,0% 117,6% 90,5% 124,7% 173,7% 
+Weerstandsvermogen (gemiddeld) 100,0% 108,9% 32,8% 26,4% 44,2% 
+Weerstandsvermogen (mediaan) 100,0% 97,5% 95,9% 63,4% 65,2% 
+Weerstandsvermogen (spreiding) 100,0% 117,1% 58,3% 42,4% 28,3% 
+Aantal instellingen 2440 2947 3641 3813 3402 
+Bron: Analyse van CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek 
+Het weerstandsvermogen laat een uniforme daling zien in het gemiddelde, de mediaan en de spreiding. Dit houdt 
+in dat het eigen vermogen relatief harder is gedaald dan de totale baten. Ondanks de ontvangen steun, hebben 
+culturele instellingen in het algemeen dus een kleinere buffer in het eigen vermogen vergeleken met de totale 
+baten. 
+ 
+Gemiddelde solvabiliteit

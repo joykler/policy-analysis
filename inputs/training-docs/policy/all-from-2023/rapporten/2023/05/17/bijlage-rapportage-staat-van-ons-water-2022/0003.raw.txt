@@ -1,0 +1,31 @@
+H1 H2 H3 H4 H5 H6 H7 H8
+X1 X2
+Leeswijzer Inhoud
+Voorwoord 4
+Navigeer naar verschillende hoofdstukken via de balk boven.
+1. Beleid en bestuur:  6
+heldere kaders voor het waterbeheer
+Hyperlinks: (bijv.) website Vewin
+2. Water en klimaat:  15
+omgaan met klimaatverandering
+Verwijzingen naar een infographic
+(Links in de kantlijn voor linker kolom, 
+Extra katern 1: Droogte en watertekort 22 
+rechts in de kantlijn voor rechterkolom) 
+3. Waterveiligheid:  33
+veilig leven in de delta
+Terug naar bijbehorende tekst (interne link) 
+  
+4. Waterkwaliteit en Waterketen:  40
+gezond leven in de delta
+Naar colofon / naar volledige inhoudsopgave
+Extra katern 2: Waterkwaliteit 53
+5. Grote wateren: 60
+robuuste waternatuur in de delta
+6. Water en duurzaamheid:  65
+bijdragen aan een duurzame delta
+7. Internationale samenwerking:  70
+samen sterk voor wateropgaven wereldwijd
+8. Financiën van het waterbeheer 76
+ Lijst van afkortingen 82
+De Staat van Ons Water 2022  |          3

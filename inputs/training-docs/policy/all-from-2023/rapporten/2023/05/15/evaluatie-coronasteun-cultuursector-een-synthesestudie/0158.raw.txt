@@ -1,0 +1,51 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 143 
+Instellingen die linksonder in de figuur staan hebben lagere baten uit subsidies, en tegelijk lagere baten uit overige 
+bronnen. Voor deze instellingen zijn de totale baten dus vanuit alle bronnen gedaald.  
+Solvabiliteit, liquiditeit en weerstandsvermogen (specifiek/structureel gesubsidieerden) 
+Drie alternatieve maatstaven die naast de omzetontwikkelingen inzicht geven in de gezondheid van de culturele 
+sector zijn solvabiliteit, liquiditeit en weerbaarheid. Een korte uitleg van deze maatstaven is als volgt: 
+● Solvabiliteit is gebaseerd op de verhouding tussen het eigen vermogen van een bedrijf en de totale omvang 
+van het vermogen. Als de ratio tussen eigen vermogen en totaal vermogen groot is, kan een instelling in geval 
+van liquidatie alle langetermijnschulden gemakkelijk aflossen. Negatieve solvabiliteit houdt in dat een instelling 
+op papier bankroet is, en niet in staat is om langetermijnschulden af te betalen. 
+● Liquiditeit meet het vermogen om op korte termijn schulden te kunnen betalen. Deze maatstaaf is gebaseerd 
+op de verhouding tussen liquide middelen op de balans en de omvang van de kortlopende schulden. Hoe 
+groter de ratio tussen de liquide middelen en het kortlopende vreemd vermogen, hoe beter de instelling in 
+staat is om de schulden te betalen. 
+● Het weerstandsvermogen meet de capaciteiten om een klap van wegvallende inkomsten te kunnen overleven. 
+Het weerstandsvermogen bestaat uit de ratio tussen het eigen vermogen en de totale baten. Hoe groter deze 
+ratio, hoe groter de buffer van een instelling is om wegvallend inkomen op te vangen.  
+ 
+339
+Uit Tabel E.9 blijkt dat het gemiddelde en de mediaan van solvabiliteit van structureel gesubsidieerde instellingen 
+340
+tot het begin van de pandemie stabiel waren, en in 2020 sterk is toegenomen. De spreiding is in dezelfde periode 
+juist licht afgenomen. Structureel gesubsidieerde instellingen staan er vanaf 2020 qua solvabiliteit dus sterker voor 
+dan voorheen. Ook het gemiddelde en de mediaan van liquiditeit is sterk toegenomen. Voor deze maatstaaf is 
+echter ook de spreiding al sinds 2017 toegenomen. De minima en maxima van liquiditeit evolueren minimaal. De 
+groeiende spreiding is dus niet het gevolg van extreme uitschieters, maar duidt grotere heterogeniteit onder de 
+instellingen.  
+ 
+De cijfers voor weerstandsvermogen vertonen de grootste verandering. In 2020 neemt deze maatstaaf zowel in het 
+gemiddelde als de mediaan sterk toe. Dit is het gevolg van een sterk stijgend eigen vermogen. De totale baten 
+vallen voor deze instellingen hoger uit in 2020 dan in de voorgaande jaren, mede dankzij een sterke toename in de 
+verstrekte subsidies. Het eigen vermogen is in de mediaan echter verdubbeld sinds 2017. De spreiding neemt in 
+2020 explosief toe. Deze grote toename in de spreiding is het gevolg van één uitschieter onder de instellingen. 
+341
+Zonder deze ene uitschieter ligt de spreiding op vrijwel hetzelfde niveau als in de voorgaande jaren (op 98,33%). 
+Tabel E.9 Ontwikkelingen in solvabiliteit, liquiditeit en weerstandsvermogen van instellingen die OCW 
+structureel subsidieert. De spreiding van  Indexcijfers (2017 = 100%) 
+2017 2018 2019 2020 
+ 
+Solvabiliteit (gemiddelde) 100,0% 104,2% 105,1% 131,3% 
+Solvabiliteit (mediaan) 100,0% 87,9% 99,9% 135,3% 
+Solvabiliteit (spreiding) 100,0% 99,0% 92,6% 96,0% 
+ 
+339
+  De mediaan is minder gevoelig voor extreme uitschieters dan het gemiddelde. 
+340
+  De spreiding laat zien in hoeverre er (extreme) uitschieters te vinden zijn in de gegevens. 
+341
+  Er zijn enkel gegevens beschikbaar voor 2020 voor deze uitschieter. Hierdoor is het niet mogelijk om te achterhalen of 
+de instelling in voorgaande jaren ook een uitschieter vormde, of het bijvoorbeeld een typefout in de achterliggende 
+data betreft.

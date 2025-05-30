@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 186 
+2017 2018 2019 2020 2021 
+ 
+Circus en variété      
+Liquiditeit (gemiddeld) 7,34 6,04 8,43 11,44 11,22 
+Liquiditeit (mediaan) 3,39 2,69 4,00 3,44 3,06 
+Liquiditeit (spreiding) 11,52 8,77 10,44 20,76 22,41 
+Aantal instellingen 34 38 35 44 30 
+Culturele uitleencentra, Musea, Kunstgalerieën      
+Liquiditeit (gemiddeld) 11,31 25,35 11,22 13,49 17,33 
+Liquiditeit (mediaan) 2,27 3,00 3,01 2,55 3,61 
+Liquiditeit (spreiding) 24,75 141,07 24,39 35,17 55,41 
+Aantal instellingen 100 86 95 110 105 
+Dansscholen      
+Liquiditeit (gemiddeld) 4,88 17,29 5,99 7,16 9,31 
+Liquiditeit (mediaan) 1,68 2,23 2,22 2,53 2,26 
+Liquiditeit (spreiding) 5,97 56,64 8,18 10,57 31,93 
+Aantal instellingen 29 29 30 35 31 
+Databanken      
+Liquiditeit (gemiddeld) 7,03 8,45 7,67 8,67 7,73 
+Liquiditeit (mediaan) 2,38 2,66 3,11 2,57 3,04 
+Liquiditeit (spreiding) 15,05 20,20 12,49 16,57 18,47 
+Aantal instellingen 59 67 65 64 68 
+Dienstverlening voor uitvoerende kunst      
+Liquiditeit (gemiddeld) 10,18 12,25 10,93 13,47 13,76 
+Liquiditeit (mediaan) 2,42 2,43 2,48 2,26 2,81 
+Liquiditeit (spreiding) 42,38 69,51 52,63 58,52 61,20 
+Aantal instellingen 789 828 833 882 855 
+Distributie van films en televisieproducties      
+Liquiditeit (gemiddeld) 5,79 5,28 8,55 9,80 10,08 
+Liquiditeit (mediaan) 1,52 1,43 1,84 1,85 1,89 
+Liquiditeit (spreiding) 14,89 11,19 19,58 24,53 22,93 
+Aantal instellingen 30 35 36 37 37 
+Facilitaire activiteiten voor film- en televisieproductie      
+Liquiditeit (gemiddeld) 9,50 10,96 13,62 9,09 9,35

@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 194 
+ 
+2017 2018 2019 2020 2021 
+Producenten van podiumkunst      
+Weerstandsvermogen (gemiddeld) 4,67 2,21 3,25 0,85 1,36 
+Weerstandsvermogen (mediaan) 0,43 0,43 0,43 0,34 0,40 
+Weerstandsvermogen (spreiding) 53,47 27,65 24,41 8,22 9,87 
+Aantal instellingen 147 150 139 169 166 
+Productie van films (geen televisiefilms)      
+Weerstandsvermogen (gemiddeld) 7,80 2,53 3,28 -0,49 2,96 
+Weerstandsvermogen (mediaan) 0,82 0,70 0,79 0,83 0,92 
+Weerstandsvermogen (spreiding) 88,45 49,24 34,14 122,66 55,51 
+Aantal instellingen 554 593 595 611 583 
+Productie van televisieprogramma's      
+Weerstandsvermogen (gemiddeld) 2,62 5,67 4,15 2,06 -0,74 
+Weerstandsvermogen (mediaan) 0,75 0,79 0,86 0,79 0,69 
+Weerstandsvermogen (spreiding) 36,95 94,46 15,98 29,55 18,81 
+Aantal instellingen 161 158 170 187 160 
+Public relationsbureaus      
+Weerstandsvermogen (gemiddeld) 5,62 3,54 1,94 3,12 2,26 
+Weerstandsvermogen (mediaan) 0,91 0,96 0,96 0,95 1,14 
+Weerstandsvermogen (spreiding) 44,82 22,83 27,87 33,55 28,02 
+Aantal instellingen 365 398 399 404 438 
+Radio-omroepen      
+Weerstandsvermogen (gemiddeld) 10,63 7,47 6,56 5,39 9,77 
+Weerstandsvermogen (mediaan) 1,28 0,92 0,73 0,44 0,97 
+Weerstandsvermogen (spreiding) 24,80 28,73 28,19 25,37 30,55 
+Aantal instellingen 18 15 21 18 11 
+Reclamebureaus      
+Weerstandsvermogen (gemiddeld) 4,24 2,64 1,79 2,96 5,12 
+Weerstandsvermogen (mediaan) 1,36 1,44 1,48 1,26 1,27 
+Weerstandsvermogen (spreiding) 57,79 79,98 84,11 40,48 87,07 
+Aantal instellingen 2331 2329 2385 2289 2046 
+Reisinformatie- en reserveerbureaus      
+Weerstandsvermogen (gemiddeld) 9,85 2,71 13,53 3,15 2,03

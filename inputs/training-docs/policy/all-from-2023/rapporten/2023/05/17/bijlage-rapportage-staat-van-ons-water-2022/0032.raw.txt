@@ -1,0 +1,14 @@
+H1 H2 H3 H4 H5 H6 H7 H8
+X1 X2
+Actuele droogte-informatie
+Iedereen kan zelf online de stand van zaken raadplegen over het droogteseizoen via de droogtemonitor.
+De droogtemonitor geeft de actuele situatie over droogte, Daarnaast toont de droogtemonitor de actuele 
+waaronder het neerslagtekort en de SPI. Informatie is onder grondwaterstanden van honderden meetpunten in 
+meer afkomstig van het KNMI en het droogteportaal. Nederland en vergelijkt deze met eerdere jaren.
+In het oosten van het land
+De Standardized Precipitation Index (SPI) geeft aan of de afgelopen 
+waren de grondwaterstanden
+periode relatief nat (blauw) of droog (rood) was.
+begin dit jaar nog niet hersteld
+Droogtemonitor: https://waterberichtgeving.rws.nl/owb/droogtemonitor
+De Staat van Ons Water 2022  |          32

@@ -1,0 +1,35 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 184 
+2017 2018 2019 2020 2021 
+ 
+Reisinformatie- en reserveerbureaus      
+Solvabiliteit (gemiddeld) -0,46 -0,16 -1,64 -2,07 -0,66 
+Solvabiliteit (mediaan) 0,37 0,35 0,33 0,23 0,28 
+Solvabiliteit (spreiding) 3,77 1,97 16,48 16,45 3,31 
+Aantal instellingen 76 75 65 88 78 
+Scheppende kunst      
+Solvabiliteit (gemiddeld) 0,11 -0,04 0,14 -0,03 0,29 
+Solvabiliteit (mediaan) 0,62 0,64 0,65 0,68 0,70 
+Solvabiliteit (spreiding) 2,56 3,61 3,30 6,54 2,85 
+Aantal instellingen 310 332 352 360 347 
+Televisie-omroepen      
+Solvabiliteit (gemiddeld) -0,10 -0,21 -0,41 -0,46 0,27 
+Solvabiliteit (mediaan) 0,39 0,33 0,20 0,34 0,37 
+Solvabiliteit (spreiding) 2,30 1,66 2,52 2,74 0,87 
+Aantal instellingen 16 12 19 18 18 
+Theaters, schouwburgen en concertgebouwen      
+Solvabiliteit (gemiddeld) -0,41 -0,35 -0,77 -0,70 -1,30 
+Solvabiliteit (mediaan) 0,23 0,21 0,19 0,22 0,17 
+Solvabiliteit (spreiding) 3,88 3,76 4,20 4,03 7,57 
+Aantal instellingen 30 39 35 41 33 
+Uitgeverijen van boeken      
+Solvabiliteit (gemiddeld) -1,83 -0,64 -0,67 -0,27 0,14 
+Solvabiliteit (mediaan) 0,43 0,41 0,44 0,46 0,52 
+Solvabiliteit (spreiding) 29,46 6,74 6,69 6,23 1,61 
+Aantal instellingen 369 360 372 352 311 
+Uitgeverijen van kranten      
+Solvabiliteit (gemiddeld) -0,40 -0,55 -1,27 -0,86 -0,76 
+Solvabiliteit (mediaan) 0,35 0,35 0,43 0,43 0,46 
+Solvabiliteit (spreiding) 4,00 7,08 12,80 8,85 8,98 
+Aantal instellingen 79 89 89 80 67 
+Uitgeverijen van software      
+Solvabiliteit (gemiddeld) -0,97 -1,33 -0,81 -0,82 -0,77

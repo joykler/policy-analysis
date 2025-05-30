@@ -1,0 +1,35 @@
+H1 H2 H3 H4 H5 H6 H7 H8
+X1 X2
+Met betrekking tot het interne gebruik van data bij het • Er is gestart met een plan van aanpak voor een ketenana­
+directoraat­ generaal Water en Bodem (DGWB) is in 2022 lyse van het hoofd­ en regionaal watersysteem als vervolg 
+gestart met de nulmeting van een datavolwassenheidsscan. op de drie casussen die afgelopen jaar zijn uitgevoerd.
+Hierbij wordt getoetst hoe verschillende programma’s met • Tenslotte heeft IenW een extern adviesbureau opdracht 
+data omgaan. Het gaat hierbij onder andere om datakwali­ gegeven een evaluatie van het programma te maken. In 
+teit, het delen van data en de herbruikbaarheid van data. 2023 zullen de aanbevelingen met de waterpartners 
+Deze scan komt voort uit het doel van DGWB om datage­ omgezet worden in verbeteracties voor het programma en 
+dreven te werken. bestuurlijke afspraken.
+Cybersecurity Deltaprogramma 2023
+Onder regie van IenW heeft het programma ‘Versterken Het Nationaal Deltaprogramma beschermt Nederland tegen 
+cyberweerbaarheid in de watersector’ in 2022 een groot overstromingen, zorgt voor voldoende zoetwater en draagt 
+aantal projecten uitgevoerd op het gebied van trainen, bij aan een klimaatbestendige en waterrobuuste ruimtelijke 
+testen en oefenen, ketens en risicomanagement, monitoring inrichting. Rijk, provincies en waterschappen zijn belangrijke 
+en detectie, maatregelen en implementatie, en samenwer­ partners in dit programma. Op Prinsjesdag 2022 heeft de 
+king en expertise. minister van IenW het Deltaprogramma 2023 aan de Staten­
+Concrete resultaten en activiteiten in 2022: Generaal aangeboden. 
+• De Baseline Industriële Automatisering Cyber Security De hoofdboodschap is dat rijk, provincies, gemeenten en 
+(BIACS) zijn opgesteld. Deze zijn ontleend uit de waterschappen de komende jaren meer tempo moeten 
+Cybersecurity Implementatie Richtlijn (CSIR), een normen­ maken met de uitvoering van de maatregelen uit het 
+kader opgesteld door Rijkswaterstaat in samenwerking Nationaal Deltaprogramma zodat Nederland in 2050 en 
+met de waterschappen. De BIACS is een vereenvoudigde daarna beschermd is tegen hoogwater, weersextremen en 
+versie van de CSIR. zoetwatertekorten. Het klimaat verandert, de tijd om ons 
+• Het haalbaarheidsonderzoek om objecten van de voor te bereiden wordt korter en de opgaven worden groter. 
+Waterschappen aan te sluiten op het Security Operations Daarnaast moeten overheden meer maatregelen nemen om 
+Center (SOC) van Rijkswaterstaat is afgerond. de schade te beperken als het vanwege extreem nat of 
+• Er zijn stappen gemaakt in het toepassen van de Red droog weer onverhoopt een keer misgaat
+Teaming testmethodiek in de watersector. Bij deze 
+testmethode worden op basis van de meest actuele 
+dreigingsinformatie geavanceerde cyberaanvallen uitge­
+voerd in een gecontroleerde omgeving. Deelnemende 
+organisaties in de sector wisselen lessons learned uit om 
+zo de gezamenlijke cyberweerbaarheid te verhogen.
+De Staat van Ons Water 2022  |          13

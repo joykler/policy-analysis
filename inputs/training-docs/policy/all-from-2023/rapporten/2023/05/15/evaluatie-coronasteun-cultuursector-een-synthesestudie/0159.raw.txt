@@ -1,0 +1,36 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 144 
+Liquiditeit (gemiddelde) 100,0% 106,6% 103,6% 132,1% 
+Liquiditeit (mediaan) 100,0% 110,4% 105,0% 130,5% 
+Liquiditeit (spreiding) 100,0% 117,5% 127,4% 142,5% 
+Weerstandsvermogen (gemiddelde) 100,0% 102,1% 100,1% 167,9% 
+Weerstandsvermogen (mediaan) 100,0% 103,0% 117,1% 159,6% 
+Weerstandsvermogen (spreiding) 100,0% 99,2% 93,5% 343,4%* 
+Aantal instellingen 93 93 94 94 
+Bron: Data van het ministerie van OCW (2023) en berekeningen door SEO Economisch Onderzoek. 
+Ter aanvulling laat Tabel E.10 zien hoeveel instellingen er elk jaar zijn die negatieve solvabiliteit, liquiditeit of 
+weerstandsvermogen vertonen, onder de structureel gesubsidieerde instellingen. Hierin is te zien dat de financiële 
+positie van de financieel zwakste instellingen in 2020 is verbeterd. Er is anno 2020 slechts één instelling met 
+342
+negatieve solvabiliteit en een negatief weerstandsvermogen. Deze cijfers tonen dat de financiële gezondheid van 
+structureel gesubsidieerde instellingen gedurende 2020 is versterkt.  
+Tabel E.10 Aantal structureel gesubsidieerde instellingen met negatieve solvabiliteit, liquiditeit en 
+weerstandsvermogen. 
+2017 2018 2019 2020 
+ 
+Solvabiliteit 4 5 4 1 
+Liquiditeit 0 0 0 0 
+Weerstandsvermogen 4 5 4 1 
+Bron: Data van het ministerie van OCW (2023) en berekeningen door SEO Economisch Onderzoek 
+Via een eigen analyse van CBS-microdata bekijken we hoe de solvabiliteit, liquiditeit en het weerstandsvermogen 
+zich ontwikkelen voor culturele instellingen (op het niveau van ondernemingsgroepen) die specifieke steun hebben 
+ontvangen. In deze tabel is meer heterogeniteit te zien in de drie maatstaven dan de instellingen die OCW 
+structureel subsidieert. In de mediaan staat deze groep bedrijven er financieel gezien zwakker voor dan voor de 
+pandemie. Opmerkelijk in deze cijfers is dat er in 2019 al een keldering plaatsvindt in de gemiddelde solvabiliteit, 
+en dat er qua liquiditeit enorme uitschieters onder de instellingen zitten (waardoor de spreiding extreem hoog ligt 
+vergeleken met omringende jaren). Het is niet bekend waar deze grote uitschieters door zijn ontstaan, of welke 
+instellingen het betreft.  
+ 
+ 
+342
+  Doordat zowel solvabiliteit als het weerstandsvermogen gebaseerd zijn op een ratio met eigen vermogen in de noemer 
+is, heeft elke instelling met negatieve solvabiliteit per definitie geen positief weerstandsvermogen.

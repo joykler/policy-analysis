@@ -1,0 +1,15 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 196 
+ 
+2017 2018 2019 2020 2021 
+Aantal instellingen 59 53 70 71 86 
+Uitgeverijen van tijdschriften      
+Weerstandsvermogen (gemiddeld) 2,89 8,34 1,38 1,17 1,45 
+Weerstandsvermogen (mediaan) 1,18 0,98 1,03 0,80 1,03 
+Weerstandsvermogen (spreiding) 21,16 85,62 33,16 15,11 15,79 
+Aantal instellingen 303 296 276 278 220 
+Vriendenkringen van cultuur      
+Weerstandsvermogen (gemiddeld) -1,80 0,04 0,44 1,44 1,15 
+Weerstandsvermogen (mediaan) 0,44 0,43 0,25 0,18 0,20 
+Weerstandsvermogen (spreiding) 9,59 6,91 3,66 3,29 2,23 
+Aantal instellingen 13 11 16 11 11 
+Bron: Analyse van CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek

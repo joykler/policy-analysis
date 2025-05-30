@@ -1,0 +1,40 @@
+EVALUATIE CORONASTEUN CULTUURSECTOR 147 
+Tabel E.14 Verhouding tussen het gebruik van generieke steunmaatregelen en specifieke steun. Onder 
+specifieke steun verstaan we bedragen die zijn ontvangen vanuit steunpakketten 1-5 plus inkomsten 
+uit fondsen. Een percentage van meer dan 100% betekent dat er meer steun vanuit generieke 
+bronnen is ontvangen dan specifieke steun. 
+Jaar Gemiddeld Mediaan Aantal instellingen 
+2020 295,5% 147,4% 259 
+2021 592,9% 25,9% 850 
+Bron: Analyse CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek 
+Uit tabel Tabel E.14 blijkt dat instellingen die zowel generieke als specifieke steun hebben ontvangen in 2020 relatief 
+meer gebruik hebben gemaakt van generieke steun. Zo ontvingen deze instellingen in de mediaan anderhalf keer 
+zoveel generieke steun als specifieke steun in 2020. In 2021 is dit echter andersom, en ontvangen instellingen 
+ongeveer 4 keer zoveel financiële steun vanuit de steunpakketten en fondsen dan uit generieke maatregelen. Er is 
+sprake van veel heterogeniteit onder deze instellingen, te zien aan het grote verschil tussen de mediaan en het 
+gemiddelde: Sommige instellingen zijn in zeer grote mate ondersteund door generieke maatregelen, en hebben 
+slechts in beperkte mate gebruik gemaakt van specifieke steun.  Deze cijfers hebben betrekking op zowel zzp’ers 
+als grotere instellingen. 
+Tabel E.15 Verhouding tussen totaal ontvangen subsidies van meerjarig structureel ondersteunde instellingen, 
+en de jaarlijkse omzet op basis van btw-aangiften. Een percentage van meer dan 100% geeft aan dat 
+de totale ontvangen subsidies meer bedragen dan de eigen omzet op basis van de btw-aangiften. 
+Jaar Gemiddeld Mediaan Aantal instellingen 
+2017 523,8% 244,5% 90 
+2018 407,5% 221,7% 92 
+2019 764,2% 235,1% 96 
+2020 10325,6% 603,1% 95 
+Bron: Analyse van CBS microdata (2023), uitgevoerd door SEO Economisch Onderzoek 
+In Tabel E.15 staan de jaarlijkse verhoudingen tussen de totale subsidies ontvangen door structureel 
+gesubsidieerde instellingen, vergeleken met de jaarlijkse omzet (op basis van btw-aangiften). Hieruit blijkt dat de 
+totale subsidies een groot aandeel vormen in de baten van de instellingen, vergeleken met de eigen omzet. In 2020 
+is er een duidelijke toename te zien in de relatieve bijdrage van subsidies vergeleken met de voorgaande jaren. 
+Tegelijk neemt ook de verscheidenheid tussen de instellingen toe, gezien het zeer sterk stijgende gemiddelde 
+vergeleken met de mediaan. Voor 2021 zijn de gegevens slechts in beperkte mate bekend (slechts 14 instellingen 
+in totaal), waardoor ze uit de tabel zijn weggelaten. 
+ 
+Ten slotte laat Figuur E.9 zien hoe de omzet zich heeft ontwikkeld voor de instellingen die structurele en/of 
+specifieke steun hebben ontvangen, op basis van btw-aangiften. Hieruit blijkt dat zowel de gemiddelde en de 
+mediane omzet hard zijn gedaald gedurende 2020, en pas in de tweede helft van 2021 herstellen naar een 
+vergelijkbaar niveau als voor de pandemie. Ook de spreiding van de omzet is in deze periode gedaald, wat aangeeft 
+dat de instellingen allen tezamen een daling hebben meegemaakt, en de pandemie niet slechts een subset van 
+instellingen heeft aangetast. Medio 2022 ligt de gemiddelde en mediane omzet op een vergelijkbaar niveau als aan
