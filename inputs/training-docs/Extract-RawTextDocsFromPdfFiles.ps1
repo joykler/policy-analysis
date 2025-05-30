@@ -181,7 +181,9 @@ function Export-RawTextFromSourceFile {
         [PSCustomObject] $SourceFile,
 
         [Parameter(Mandatory, ValueFromPipelineByPropertyName)]
-        [PSCustomObject] $TargetFile
+        [PSCustomObject] $TargetFile,
+
+        [switch] $OnlyUpdateExistingPages
     )
 
     begin {
@@ -191,32 +193,42 @@ function Export-RawTextFromSourceFile {
             for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
 
                 $TargetPageFile = Get-FileInfo $($TargetFile.Path -f $PageNr) -LoggedDir $TargetFile.LoggedDir
+                $TargetPageFileExists = Test-Path $TargetPageFile.Path -PathType Leaf
 
-                $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr).Trim()
-                if ($TargetPageText.EndsWith("$PageNr")) {
-                    $TargetPageText.Substring(0, $TargetPageText.Length - "$PageNr".Length).Trim()
+                if (($OnlyUpdateExistingPages.IsPresent -and $TargetPageFileExists) -or -not $OnlyUpdateExistingPages.IsPresent) {
+
+                    $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr).Trim()
+
+                    foreach ($EndOfPage in $("$PageNr", "-$PageNr-", "- $PageNr -")) {
+                        if ($TargetPageText.EndsWith($EndOfPage)) {
+                            $TargetPageText = $TargetPageText.Substring(0, $TargetPageText.Length - $EndOfPage.Length).Trim()
+                        }
+                    }
+
+                    Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
+
+                    Write-Output $TargetPageFile
                 }
-
-                Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
-
-                Write-Output $TargetPageFile
             }
         }
     }
 
     process {
-        if ($(Test-Path $TargetFile.Folder -PathType Container)) {
+        $TargetFolderExists = Test-Path $TargetFile.Folder -PathType Container
+        if ($TargetFolderExists -and -not $OnlyUpdateExistingPages.IsPresent) {
             $Logging.Warn_TargetFolderAllreadyExists($TargetFile)
 
         } else {
             $Logging.Info_ExportingRawTextFromFile($SourceFile)
 
             try {
-                mkdir $TargetFile.Folder -Force | Out-Null
+                if (-not $TargetFolderExists) {
+                    mkdir $TargetFile.Folder -Force | Out-Null
+                }
 
                 $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourceFile.Path)
 
-                Export-RawText $Source_PdfReader -TargetPath $TargetFile.Path
+                Export-RawText $Source_PdfReader
 
             } catch {
                 $Logging.Warn_ExportRawTextFailed($TargetFile, $_)
@@ -254,7 +266,7 @@ try {
     $Logging.Info_StartedExportingRawTexts()
     Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
-        Export-RawTextFromSourceFile |
+        Export-RawTextFromSourceFile -OnlyUpdateExistingPages |
         ForEach-Object {
             $BatchProc.ForEachItem($PSItem)
         }
