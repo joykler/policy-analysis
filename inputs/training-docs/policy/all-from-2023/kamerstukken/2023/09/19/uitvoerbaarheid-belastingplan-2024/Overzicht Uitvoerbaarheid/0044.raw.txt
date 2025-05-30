@@ -50,5 +50,4 @@ geprogrammeerd worden. De afgelopen periode is gewerkt aan het betaalgemak: via
 klantportalen kan men actuele financiële en statusinformatie over vorderingen inzien en kan er 
 steeds vaker betaald worden via iDeal. De komende jaren wordt dit uitgebreid. Ook hebben we 
 binnen deze keten met de lopende vernieuwingen in de applicaties de uitbetaling 
-compensatieregeling Toeslagen kunnen realiseren.  
-44
+compensatieregeling Toeslagen kunnen realiseren.

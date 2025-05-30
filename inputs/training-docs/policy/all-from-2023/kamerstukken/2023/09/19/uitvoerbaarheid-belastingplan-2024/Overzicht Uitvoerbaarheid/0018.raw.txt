@@ -35,5 +35,4 @@ inwerkingtredingsdatum (t-1). Voor elke wijziging moet met een uitvoeringstoets 
 vastgesteld of die in het beschreven stramien valt, of om wat voor reden dan ook een andere 
 doorlooptijd vergt. Voor ingrijpende wijzigingen moet rekening worden gehouden met een langere 
 doorlooptijd. Bij de bepaling van de feitelijke doorlooptijd moet in ieder geval worden gekeken 
-naar: 
-18
+naar:

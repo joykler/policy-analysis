@@ -52,5 +52,4 @@ Analytics
 Bij het domein Analytics is geen sprake van technische schuld. Wel is er sprake van grote 
 systemen die opnieuw aanbesteed moeten worden, omdat contracten aflopen. Dit is een 
 integrale moderniseringsopgave (opvolger Data Warehouse Application -DWA-) in samenwerking 
-met Gegevens en heeft migratie-impact voor alle ketens. De focus ligt in het domein Analytics op 
-45
+met Gegevens en heeft migratie-impact voor alle ketens. De focus ligt in het domein Analytics op

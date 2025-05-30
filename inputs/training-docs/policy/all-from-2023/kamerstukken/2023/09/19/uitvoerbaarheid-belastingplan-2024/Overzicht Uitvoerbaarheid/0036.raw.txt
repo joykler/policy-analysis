@@ -53,5 +53,4 @@ Noodvoorziening ex-partners geel beperkt
 Aangepaste vooraankondiging hersteloperatie geel beperkt 
 Loslaten koppeling rentepercentage belastingrente voor toeslagen geel beperkt 
 Gegevensdeling ex-partners met derden groen beperkt 
-Co-ouderschap toeslagen groen beperkt 
-36
+Co-ouderschap toeslagen groen beperkt

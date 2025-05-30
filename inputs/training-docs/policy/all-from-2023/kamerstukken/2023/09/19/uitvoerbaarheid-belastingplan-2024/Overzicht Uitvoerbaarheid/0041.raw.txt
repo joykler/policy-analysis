@@ -48,5 +48,4 @@ Omzetbelasting
 Implementatie EU Richtlijn PSP (betalingsdienstaanbieders)  rood groot 
    
 Overige middelen     
-Wet tijdelijke solidariteitsheffing rood middelgroot 
-41
+Wet tijdelijke solidariteitsheffing rood middelgroot

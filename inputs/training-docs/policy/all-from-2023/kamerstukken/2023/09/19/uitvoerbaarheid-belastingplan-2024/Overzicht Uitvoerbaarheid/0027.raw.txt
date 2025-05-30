@@ -56,5 +56,4 @@ leidingwater, vliegbelasting.
  De mrb is een tijdvakbelasting die voor aanvang van het tijdvak moet worden betaald. Om de 
 belastingplichtige voldoende tijd te geven om aan de verplichting te kunnen voldoen, moet de rekening een 
 maand voor aanvang van het tijdvak al op de mat liggen. Daarmee rekening houdend moet de berekening 
-van de aanslagen anderhalve maand voorafgaand aan het tijdvak worden gestart.  
-27
+van de aanslagen anderhalve maand voorafgaand aan het tijdvak worden gestart.

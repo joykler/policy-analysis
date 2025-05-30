@@ -45,5 +45,4 @@ totale verbruik binnen een blokverwarming niettemin zelden de eerste schijf van 
  In de Wbm wordt niet gerept van “verbruikers” achter een blokverwarming, maar van “onroerende zaken” die worden verwarmd door 
 een installatie voor blokverwarming (art. 47, eerste lid, onderdeel h, Wbm). In deze memorie van toelichting wordt met “verbruiker” kort 
 gezegd bedoeld de bewoner (huishouden) of gebruiker (bedrijf) van een onroerende zaak die wordt verwarmd door een installatie voor 
-blokverwarming. 
-74
+blokverwarming.

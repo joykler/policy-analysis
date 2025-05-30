@@ -33,5 +33,4 @@ Figuur 2: Scenario blokverwarmingstarief gelijk aan tarief nieuwe tweede schijf
 Als het blokverwarmingstarief wordt gelijkgesteld aan het tarief van de nieuwe eerste schijf (zie 
 figuur 3), betalen verbruikers achter een blokverwarming minder energiebelasting dan verbruikers 
 3
-met een individuele aansluiting voor het verbruik boven de 1.000 m . In dit scenario wordt het in 
-76
+met een individuele aansluiting voor het verbruik boven de 1.000 m . In dit scenario wordt het in

@@ -40,5 +40,4 @@ incasso. Dit kan resulteren in klantvragen. Tot slot kunnen belastingschuldigen 
 maandelijkse overboeking, met de kans dat een termijn wordt vergeten of een fout wordt gemaakt 
 bij de overboeking. Dit zorgt voor uitval en invorderingswerkzaamheden. Daarentegen komt het op 
 dit moment regelmatig voor dat belastingschuldigen in de veronderstelling zijn dat ze de voorlopige 
-aanslag IB tijdig hebben voldaan, maar dat betaling pas na de eerste vervaldag is bijgeschreven op 
-57
+aanslag IB tijdig hebben voldaan, maar dat betaling pas na de eerste vervaldag is bijgeschreven op

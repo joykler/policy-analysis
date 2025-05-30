@@ -46,5 +46,4 @@ Afschrijvingsbeperking gebouwen in de inkomstenbelasting 0 -1 Beperkt
 Inning en betalingsverkeer       
 Invoeren hardheidsclausule in de Invorderingswet 1990 0 1,7 Beperkt 
     
-Loonheffingen       
-38
+Loonheffingen

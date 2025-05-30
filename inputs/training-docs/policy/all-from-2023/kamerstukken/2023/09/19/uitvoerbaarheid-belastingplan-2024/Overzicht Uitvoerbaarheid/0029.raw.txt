@@ -42,5 +42,4 @@ jaar te kunnen toepassen.
 Voor de bankenbelasting moet aangifte worden gedaan voor het eind van de 10e maand na de 
 datum waarop de balans of de geconsolideerde balans is opgemaakt. De bankenbelasting kent 2 
 tarieven. Een tarief voor kortlopende schulden (looptijd minder dan 1 jaar) en een tarief voor 
-langlopende schulden (looptijd langer dan 1 jaar). De parameterwaarden voor de bankenbelasting 
-29
+langlopende schulden (looptijd langer dan 1 jaar). De parameterwaarden voor de bankenbelasting

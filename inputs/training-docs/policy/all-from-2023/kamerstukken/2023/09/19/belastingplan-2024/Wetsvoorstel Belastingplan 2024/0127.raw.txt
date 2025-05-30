@@ -42,5 +42,4 @@ prijsplafond al te maken met twee verschillende maximumtarieven bij de levering 
 individuele verbruikers. De leveranciers van stadsverwarming die aan een collectief warmte 
 leveren, dat wil zeggen aan centrale aansluitingen die warmte doorleveren, werken in 2023 voor 
 die situaties met één maximumtarief als het aansluitingen betreft met een vermogen boven 100 
-kW, en met twee tarieven als het gaat om aansluitingen onder 100 kW. Zoals hiervoor is toegelicht 
-127
+kW, en met twee tarieven als het gaat om aansluitingen onder 100 kW. Zoals hiervoor is toegelicht

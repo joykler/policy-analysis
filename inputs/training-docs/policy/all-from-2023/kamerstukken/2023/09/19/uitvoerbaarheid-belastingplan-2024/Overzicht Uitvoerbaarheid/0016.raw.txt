@@ -50,5 +50,4 @@ Belastingdienst, Douane en Toeslagen werkt zijn parameters, maar niet alle. De v
 sprake is van een parameter moet van geval tot geval plaatsvinden met een uitvoeringstoets. 
 21
  Bij wijzigingen na 17 november moet tussentijds per 1 april een nieuwe set loonbelastingtabellen worden 
-uitgebracht.  
-16
+uitgebracht.

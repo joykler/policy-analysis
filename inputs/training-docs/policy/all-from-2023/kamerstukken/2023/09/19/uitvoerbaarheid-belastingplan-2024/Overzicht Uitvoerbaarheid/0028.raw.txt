@@ -46,5 +46,4 @@ De parameterwaarden waarmee de aangifte kansspelbelasting wordt berekend moeten 
 jaar te kunnen toepassen.  
 4.12.2 Andere aanpassingen 
 De specificaties voor andere wijzigingen aan de systemen voor de kansspelbelasting moeten 
-afhankelijk van de complexiteit uiterlijk 6 tot 18 maanden van het jaar voorafgaand (t-1) vaststaan 
-28
+afhankelijk van de complexiteit uiterlijk 6 tot 18 maanden van het jaar voorafgaand (t-1) vaststaan

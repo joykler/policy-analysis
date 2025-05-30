@@ -27,7 +27,4 @@ Minimumkapitaalregel in de vennootschapsbelasting 0 2 Beperkt
 Aanpassing fonds voor gemene rekening en vrijgestelde 
 24,1 0 Beperkt 
 beleggingsinstelling 
-Aanpassing fiscale beleggingsinstelling 19,6 0 Beperkt 
- 
-  
-39
+Aanpassing fiscale beleggingsinstelling 19,6 0 Beperkt

@@ -46,5 +46,4 @@ oktober (t-1) bij Toeslagen aanleveren. Zodra de parameterwaarden binnen zijn, w
 de systemen geladen en wordt het MAC-proces voor deze toeslagen gestart. Omdat de 
 premievaststelling voor de Zorgverzekeringswet niet eerder bekend is, wordt de standaardpremie 
 uiterlijk 13 november (t-1) aangeleverd. Dit is net op tijd om dit laatste element van de 
-zorgtoeslag nog aan het verder al geheel gereedstaande MAC-proces toe te voegen. Nadat het 
-24
+zorgtoeslag nog aan het verder al geheel gereedstaande MAC-proces toe te voegen. Nadat het

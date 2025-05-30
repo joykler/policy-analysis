@@ -40,5 +40,4 @@ Voorbeeld 2
 Belastingplichtige Bank NL heeft twee deelnemingen Bank A en Bank B. Bank NL is verbonden met Bank A 
 en Bank B in een groep. Bank NL verricht het interne liquiditeitsbeheer van de groep. In dit kader lenen 
 Bank A en Bank B gedurende het jaar op dagelijkse basis overtollige liquide middelen aan Bank NL en stelt 
-Bank NL omgekeerd naar behoefte liquide middelen beschikbaar aan Bank A en Bank B.  
-157
+Bank NL omgekeerd naar behoefte liquide middelen beschikbaar aan Bank A en Bank B.

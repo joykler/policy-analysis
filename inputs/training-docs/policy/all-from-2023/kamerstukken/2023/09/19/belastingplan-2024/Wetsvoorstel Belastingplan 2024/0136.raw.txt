@@ -47,5 +47,4 @@ hoeveelheid gas dat wordt toegepast ter bevordering van het groeiproces. Het kom
 gasaansluiting voor een glastuinbouwbedrijf ook een of meerdere woonhuizen zijn aangesloten. 
 Indien deze situatie zich voordoet, dienen in beginsel afzonderlijke gasmeters aanwezig te zijn. 
 3
-Indien er geen afzonderlijke meters zijn, geldt dat per jaar per woonhuis 5.000 m aardgas als 
-136
+Indien er geen afzonderlijke meters zijn, geldt dat per jaar per woonhuis 5.000 m aardgas als

@@ -41,5 +41,4 @@ CNG en LNG motorrijtuigenbelasting (MRB)
 Versoberen lagere tarieven MRB kampeerauto 0 0 0 0 80 80 
 Versoberen oldtimersregeling MRB 0 0 0 0 0 76 
 Beëindigen kwarttarief MRB paardenvervoer  0 0 0 0 2 2 
-Naheffing buitenlands ingezetenen MRB 0 0 0 0 0 0 
-103
+Naheffing buitenlands ingezetenen MRB 0 0 0 0 0 0

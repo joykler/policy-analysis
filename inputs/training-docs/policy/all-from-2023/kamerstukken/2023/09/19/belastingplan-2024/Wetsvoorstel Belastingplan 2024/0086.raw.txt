@@ -36,5 +36,4 @@ TAM beschikt. RVO vult de TAM al in voor onder andere de MIA en VAMIL. RVO is ee
 98
  Indien een begunstigde (klant) onder één KVK-nummer meerdere aansluitingen heeft bij een belastingplichtige (energieleverancier) 
 ten aanzien waarvan een steunbedrag onder dezelfde regeling wordt verleend, worden de steunbedragen door de belastingplichtige 
-geaggregeerd. De energieleveranciers maken de berekening van het steunbedrag op de peildatum. 
-86
+geaggregeerd. De energieleveranciers maken de berekening van het steunbedrag op de peildatum.

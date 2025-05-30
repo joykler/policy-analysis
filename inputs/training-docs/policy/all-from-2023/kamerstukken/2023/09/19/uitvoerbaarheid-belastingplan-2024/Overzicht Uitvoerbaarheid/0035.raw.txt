@@ -54,5 +54,4 @@ Afschaffen doelmatigheidsmarge groen beperkt
 Verruimen vrije ruimte werkkostenregeling groen beperkt 
    
 Omzetbelasting     
-Implementatie EU Richtlijn PSP (betalingsdienstaanbieders)  geel middelgroot 
-35
+Implementatie EU Richtlijn PSP (betalingsdienstaanbieders)  geel middelgroot

@@ -39,8 +39,4 @@ aanvangen op of na 1 januari 2024 voor belastingplichtigen die het bedrijf van v
 uitoefenen het gedeelte van de renten ter zake van geldleningen dat op grond van deze bepaling 
 niet in aftrek komt, wordt bepaald aan de hand van de formule (10,6-ER)/(100-ER). Als gevolg van 
 deze wijziging worden de renten ter zake van geldleningen in aftrek beperkt voor zover de 
-eigenvermogenratio minder bedraagt dan 10,6%. 
- 
- 
- 
-158
+eigenvermogenratio minder bedraagt dan 10,6%.

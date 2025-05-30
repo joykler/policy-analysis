@@ -38,7 +38,4 @@ Burgers en bedrijven als verbruikers van gas en elektriciteit
 Een verlaging van het tarief van de nieuwe eerste schijf ten opzichte van het tarief van de nieuwe 
 tweede schijf gas zou geen directe gevolgen hebben voor de administratieve lasten voor burgers en 
 bedrijven als verbruikers, omdat de energieleveranciers de tarieven verwerken in hun systemen en 
-facturen voor verbruikers.  
- 
- 
-134
+facturen voor verbruikers.

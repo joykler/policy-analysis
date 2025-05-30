@@ -40,8 +40,4 @@ Verhogen onbelaste reiskostenvergoeding met 1 0 0 -109 -109 -109 -109
 cent  
 Verhogen accijns op stookolie 0 0 26 26 26 26 
 Beperken afschrijven gebouwen in de IB 0 0 106 106 106 106 
-Totaal -2 -40 2637 2837 2940 3079 
- 
- 
- 
-104
+Totaal -2 -40 2637 2837 2940 3079

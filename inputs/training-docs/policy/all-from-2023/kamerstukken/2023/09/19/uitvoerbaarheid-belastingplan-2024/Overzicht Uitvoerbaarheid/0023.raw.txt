@@ -54,5 +54,4 @@ van een novelle, worden deze aanpassingen enkele dagen na de stemmingen in de Ee
 burgerportal doorgevoerd. In deze situatie wordt de verwerking van verzoeken om een voorlopige aanslag 
 aangehouden, zodat met de definitieve parameterwaarden kan worden gerekend. Het gevolg hiervan is dat de 
 voorlopige aanslagen later worden verstuurd dan gepland en er aanvullende opdrachten nodig zijn om 
-parameters aan te passen. 
-23
+parameters aan te passen.

@@ -39,5 +39,4 @@ a. partner: de echtgenoot, alsmede de ongehuwde meerderjarige persoon waarmee de
 ongehuwde meerderjarige belastingplichtige een notarieel samenlevingscontract is aangegaan of 
 met wie hij staat ingeschreven op hetzelfde woonadres in de basisregistratie personen op de BES 
 eilanden of een daarmee naar aard en strekking overeenkomstige registratie buiten de BES 
-eilanden; 
-14
+eilanden;

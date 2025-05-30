@@ -43,5 +43,4 @@ dat wordt gebruikt in de hulpketels bij deze duurzame verwarmingsbronnen wordt b
  
 85
  EAN staat voor Europese Artikel Nummering. De EAN-code is een 18-cijferige code die dient als uniek identificatienummer van een 
-energieaansluiting. 
-82
+energieaansluiting.
