@@ -108,4 +108,4 @@ huisvesting, studiekosten, collegegeld, overige grote bijdragen in natura, boods
 ziektekosten, telefoon/internet, kosten zorg kinderen).  
 85 Bedragen zijn gecorrigeerd voor outliers. Alleen valide records zijn verwerkt. In de categorie ‘overig’ zijn opgenomen: 
 profileringsfonds, eigen vermogen, uitkeringen en overige inkomsten. 
-Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 219
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 |

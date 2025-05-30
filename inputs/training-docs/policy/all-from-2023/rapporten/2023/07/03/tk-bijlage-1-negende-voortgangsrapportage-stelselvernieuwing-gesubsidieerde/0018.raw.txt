@@ -40,12 +40,4 @@ voorbereidende werkzaamheden uitgevoerd voor de ontwikkeling van het platform. D
 voorbereidende fase zal ongeveer negen maanden in beslag nemen. Daarna wordt een eerste versie 
 van het platform gebouwd in samenwerking met dezelfde twee gemeenten en in de praktijk uitgetest 
 om zo ervaring op te doen met het functioneren, tevredenheid van gebruikers (burgers en 
-ambtenaren), de kosten en de organisatorische consequenties.  
- 
- 
- 
- 
- 
- 
- 
-18
+ambtenaren), de kosten en de organisatorische consequenties.

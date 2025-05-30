@@ -52,5 +52,4 @@ I. Algemeen deel
 9. Uitvoerings- en handhavingsaspecten  
 10. Verwerken persoonsgegevens 
 11. Regeldruk en financiële aspecten 
-11.1. Aantallen 
-2
+11.1. Aantallen

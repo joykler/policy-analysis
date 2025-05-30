@@ -125,4 +125,4 @@ studenten die lenen is de totale leensom berekend tot en met augustus 2022. Ook 
 ongeacht of zij zijn afgestudeerd, uitgevallen, geswitcht of nog studeren. Er is geen rekening gehouden met 
 aflossingen. Dit houdt in dat voor alle cohorten wordt gekeken naar de schuld op 31-8-2022, waardoor de 
 studieschuld van een cohort (t) ten opzichte van het cohort een jaar later (t+1) altijd een jaar 'achterloopt'.  
-Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 214
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 |

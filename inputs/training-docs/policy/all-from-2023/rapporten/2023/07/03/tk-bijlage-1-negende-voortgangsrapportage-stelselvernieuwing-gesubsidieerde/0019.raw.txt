@@ -18,35 +18,4 @@ Er wordt gewerkt aan een instrument dat door middel van vormtaal de deelnemers a
 helpt om sneller tot de kern van het probleem te komen en te zoeken naar die oplossingen waarmee 
 de burger het meest geholpen is. Momenteel wordt de vormtaal ontwikkeld, die daarna op kleine 
 schaal in een experimentele omgeving wordt uitgetest. Als de pilot succesvol is, zal bekeken worden 
-hoe het breder toegepast kan worden.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-19
+hoe het breder toegepast kan worden.

@@ -47,6 +47,4 @@ digitale assistent van het Juridisch Loket, verder worden uitgebreid met twee ni
 (‘routes’). Tot slot onderzoekt het Juridisch Loket of de toegankelijkheid van de website verder kan 
 worden vergroot door bijvoorbeeld het aanbieden van eenvoudige filmpjes en door bestaande 
 voorbeeldbrieven interactief te maken, zodat rechtzoekenden een gepersonaliseerde brief kunnen 
-downloaden. 
- 
-8
+downloaden.
