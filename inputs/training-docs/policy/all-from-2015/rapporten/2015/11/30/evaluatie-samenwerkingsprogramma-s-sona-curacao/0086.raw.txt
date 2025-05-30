@@ -1,0 +1,62 @@
+-    
+B.2.2. 2009099 Realiseren basisregistratie 
+ 
+Effectiviteit 
+Prestaties: beoogd vs. Beoogd:  
+Gerealiseerd 1. Creëren van draagvlak onder gebruikers en leveranciers van 
+authentieke gegevens. 
+5. Duidelijkheid over stand van zaken met betrekking tot de diverse 
+databestanden en hoe het veranderingsproces het beste 
+geïmplementeerd kan worden. 
+6. Duidelijkheid bij alle betrokkenen wat er aan basisregistraties moet 
+worden opgebouwd. 
+7. Duidelijke identificatie, standaardisatie en procedures om 
+belangrijke koppelgegevens zoals adressen, perceelnummers en 
+gebouwen nummers correct te registreren. 
+8. Kundigheid om gegevens te kunnen registreren en eventueel 
+analyses te kunnen plegen. 
+9. Vijf gekoppelde basisbestanden met authentieke gegevens en 1 
+geïntegreerd systeem. 
+10. Alle (semi)-overheidsinstanties, nutsbedrijven en relevante 
+gebruikers moeten informatie inwinnen uit de geïmplementeerde 
+basisregistraties en meldingen doen aan deze wanneer de gegevens 
+niet kloppen. 
+Gerealiseerd: 
+ Resultaat 1: 60% 
+ Resultaat 2: 100% 
+ Resultaat 3: 80% 
+ Resultaat 4: 80% 
+ Resultaat 5: 50% 
+ Resultaat 6: 70% 
+ Resultaat 7: 10% (vanwege testomgeving) 
+Maatschappelijke effectiviteit: Beoogd doel (uit gesprek met projectleider): 
+beoogd vs. Gerealiseerd 
+ Corruptie tegengaan 
+ Dienstverlening aan de burger verbeteren: sneller, tijdiger, met de 
+juiste informatie. 
+ Ter kwaliteitsverbetering van de bestaande registratiesysteem. 
+Gerealiseerd:  
+ Koppeling tussen personen en adressen 
+ BAG voor het ROP gemaakt 
+ Piva Nobo bestond al, maar moest gemigreerd worden naar nieuwe 
+omgeving. Licenties zijn aangeschaft en de koppeling is gerealiseerd.  
+ Koppeling gerealiseerd voor KvK met de personen/adressen register 
+ Wetgeving in concept klaar voor de koppelingen. 
+ Aangesloten registers:  
+ Motorrijtuigen 
+ KvK 
+ BAG 
+ Personenregister 
+ Topografische basiskaart (er bestond al een uitwisseling onder de 
+belangrijkste afnemers) 
+ 
+Duurzaamheid 
+Financiële duurzaamheid De projectdoelstellingen uit 2007 worden nog steeds nagestreefd. Het 
+project heeft een redelijke kans van 100% slagen. Vanuit de kapitaaldienst 
+worden middelen ter beschikking gesteld ter afronding van het project 
+(2015: ANG 1,9 mln.) 
+Institutionele duurzaamheid 
+ Er ligt een voorstel voor een beheerorganisatie 
+ Er ligt een voorstel voor conceptwetgeving 
+  
+PwC Pagina 86 van 112

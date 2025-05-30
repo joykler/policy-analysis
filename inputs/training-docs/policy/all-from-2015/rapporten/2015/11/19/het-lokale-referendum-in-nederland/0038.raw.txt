@@ -1,0 +1,50 @@
+Tabel 6. Combinatie referenda met andere verkiezingen (1906-2014) 
+Soort verkiezing  % Aantal 
+Referendum Europese Grondwet 4,3 3 
+Europese verkiezingen 11,4 8 
+Gemeenteraadsverkiezingen 40,0 28 
+Provinciale Statenverkiezingen 25,7 18 
+Tweede Kamerverkiezingen 18,6 13 
+Waterschapsverkiezingen - 0 
+Totaal 100 70 
+Bron: databestand lokale referenda Van der Krieken (2014)    
+ 
+ Met behulp van de dataset is na te gaan of referenda die gecombineerd worden met een andere 
+verkiezing minder geld kosten en een hogere opkomst hebben. De gewogen gemiddelde opkomst bij referenda 
+129
+in combinatie met een verkiezing bedraagt 55,46%. Dit gemiddelde is bij referenda die als zelfstandige 
+130
+verkiezingen zijn georganiseerd 35,22%. Wanneer referenda gecombineerd worden met een andere 
+verkiezing ligt de opkomst dus een stuk hoger. Een dergelijk beeld is ook te zien na de berekening van de 
+gemiddelde kosten per kiesgerechtigde bij referenda die wel en niet worden gecombineerd met een verkiezing. 
+De kosten van referenda die als zelfstandige stemming plaatsvonden liggen gemiddeld 43% hoger dan 
+referenda die op dezelfde dag als een verkiezing zijn gehouden (zie de paragraaf ‘de kosten van referenda’ voor 
+meer informatie). 
+ 
+3.2.6 Vraagstellingen en lokale referenda 
+Bij 51,3% van de Nederlandse lokale referenda is gekozen voor een enkelvoudige vraagstelling waarop burgers 
+met een ‘ja’, ‘nee’ of ‘voor’, ‘tegen’ konden antwoorden. In 29,5% van de gevallen was er sprake van een 
+vraagstelling waarbij kiezers een keuze konden maken uit meerdere antwoordopties. Bij 13,5% van de lokale 
+referenda kregen burgers meerdere vragen voorgelegd die bestonden uit een mix tussen dichotome 
+antwoordopties, meerdere opties en/of open vragen. Daarnaast is er een aantal referenda waar werd 
+geëxperimenteerd met andere manieren van beantwoorden (zie tabel 7). 
+Een voorbeeld van een dergelijk experiment is het Duivense referendum in 2008 over het project 
+‘Vitaal Centrum Duiven’. Er was sprake van een enkelvoudige vraagstelling waar burgers meerdere 
+131
+antwoorden op konden geven indien zij dit wensten. In de Limburgse gemeente Onderbanken werd voor het 
+                                                           
+129
+ Dit percentage is berekend door de totale absolute opkomst (incl. blanco en ongeldige stemmen) te delen door het aantal 
+kiesgerechtigden. Er zijn in totaal 70 referenda die gecombineerd zijn met een verkiezing. Van 52 van deze referenda waren 
+gegevens over zowel de absolute opkomst als het aantal kiesgerechtigden beschikbaar. De rekensom is: 
+(1.566.325/2.824.033)*100. 
+130
+ Dit percentage is berekend door de totale absolute opkomst (incl. blanco en ongeldige stemmen) te delen door het aantal 
+kiesgerechtigden. Er zijn in totaal 116 referenda die niet zijn gecombineerd met een verkiezing. Van 107 van deze referenda 
+waren gegevens over zowel de absolute opkomst als het aantal kiesgerechtigden beschikbaar. De rekensom is: 
+(2.357.139/6.691.809)*100. 
+131
+ De vraagstelling in Duiven was als volgt: ‘U stemt op een plan door het stemvak vóór dat plan rood te maken. U mag 
+stemmen op zoveel plannen als u wilt. Welk plan krijgt, of welke plannen krijgen, uw stem? Plan A: De Tuinen van Duiven; Plan 
+B: Een uitnodigend Dorpshart; Plan C: Groen Hart Duiven’.  
+38
