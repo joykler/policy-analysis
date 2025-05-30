@@ -1,0 +1,52 @@
+In deze rapportage over 2010, samengevat in onderstaande tabel, zijn ook de effecten van de 
+revisie aangegeven voor de EMU –saldo en –schuld. Voor andere verslagjaren is een dergelijke 
+analyse niet beschikbaar en wordt deze ook niet gemaakt. 
+ 
+Revisie-effect in 2010 verdeeld naar oorzaak 
+Mln. euro Voor revisie Na revisie Verschil   
+   Totaal Methode Bronnen 
+(ESA2010) 
+BBP 586.789 631.512 44.723 17.482 27.241 
+BNI 577.787 635.504 57.717 19.623 38.094 
+EMU-saldo -30.109 -31.866 -1.757 -574* -2.331 
+EMU-schuld 372.028 372.627 599 - 599 
+*Betreft het effect van de definitiewijziging van het EMU-saldo (swaps tellen niet meer mee in het 
+EMU-saldo)  
+Vraag 11 
+Kunt u de verbetering van het EMU-saldo met 0,3% vanwege kas-transactieverschillen nader 
+toelichten? 
+ 
+Antwoord 11 
+Kas-transactieverschillen betreffen verschillen tussen het moment van betalen/ontvangst (de 
+kasmutatie) en het moment van de transactie. De internationale richtlijnen van het ESR2010 
+bepalen het moment waarop een transactie verwerkt moet worden voor de Nationale Rekeningen. 
+Aangezien het EMU-saldo als onderdeel van de Nationale Rekeningen op transactiebasis bepaald 
+wordt, dienen bij sommige kasbetalingen en –ontvangsten correcties aangebracht te worden om de 
+overheidsuitgaven en -ontvangsten van kasbasis om te zetten naar transactiebasis. Een voorbeeld 
+hiervan betreft het vooruitbetalen van de OV-jaarkaart aan de vervoersbedrijven. Deze is in 2014 
+deels vooruitbetaald voor 2015. Voor het EMU-saldo moeten deze kosten echter wel aan 2015 
+worden toegerekend. Deze toerekening vindt plaats middels een correctie van het zogenoemde 
+kas-transverschil (KTV). Dit KTV belast het EMU-saldo van 2015 en ontlast het EMU-saldo in 2014. 
+ 
+Vraag 12 
+Hoe hoog is het begrotingstekort (in %) in andere EU-landen t.o.v. Nederland? 
+ 
+Antwoord 12 
+In het Financieel Jaarverslag Rijk is gebruik gemaakt van de begrotingstekorten uit de Winter 
+Forecast van de Europese Commissie. De meest recente actualisatie van Eurostat staat in 
+onderstaande tabel. 
+ 
+EMU-saldo (in procenten bbp) 2014 
+België -3,2 
+Bulgarije -2,8 
+Tsjechië -2,0 
+Denemarken 1,2 
+Duitsland 0,7 
+Estland 0,6 
+Ierland -4,1 
+Griekenland -3,5 
+Spanje -5,8 
+Frankrijk -4,0 
+Kroatië -5,7 
+Italië -3,0 
+Cyprus -8,8
