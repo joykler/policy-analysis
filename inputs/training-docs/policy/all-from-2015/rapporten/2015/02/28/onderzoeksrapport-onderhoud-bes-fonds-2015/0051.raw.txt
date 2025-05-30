@@ -89,5 +89,4 @@ B  E
 ICT- /  
  40.000 50.000 0 0 0 
 11 B 0 PM 0 PM 0 PM 
-12 B 0 PM 0 PM 0 PM 
- 51
+12 B 0 PM 0 PM 0 PM
