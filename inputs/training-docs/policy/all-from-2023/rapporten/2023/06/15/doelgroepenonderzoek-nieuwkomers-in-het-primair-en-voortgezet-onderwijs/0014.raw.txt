@@ -1,0 +1,52 @@
+NIEUWKOMERS IN HET PRIMAIR EN VOORTGEZET ONDERWIJS 7 
+Voor de bekostiging van het onderwijs aan nieuwkomers is het onder andere van belang hoe lang nieuwkomers in 
+Nederland zijn. De bijzondere bekostiging van het nieuwkomersonderwijs biedt extra middelen voor leerlingen die 
+korter dan twee jaar in Nederland zijn. Vanwege het Nationaal Programma Onderwijs is die periode tijdelijk 
+verruimd naar maximaal vier jaar. 
+ 
+In de microdata identificeren we deze nieuwkomers als volgt:  
+● We starten met de identificatie van nieuwkomers vanuit de onderwijsregistraties van DUO. Daarmee is direct 
+voldaan aan het derde criterium die DUO hanteert; dat personen zijn ingeschreven als schoolgaand;  
+● Om aan het eerste criterium te voldoen, selecteren we uit de onderwijsregistraties leerlingen met een niet-
+2
+Nederlandse nationaliteit;  
+● We verwijderen vervolgens uit deze groep de leerlingen die Internationaal Georiënteerd Basisonderwijs 
+3
+(IGBO) , Engelse stroom, European Secondary School of Internationaal Baccalaureaat volgen. Hiermee wordt 
+voldaan aan het tweede criterium van DUO;  
+● Tot slot houden we alleen leerlingen over die een netto verblijfsduur in Nederland hebben van korter dan drie 
+jaar (36 maanden). Een maximum netto verblijfsduur van drie jaar wil zeggen dat de leerling in totaal op het 
+4
+peilmoment maximaal drie jaar in Nederland is verbleven. In de analyses wordt telkens onderscheid gemaakt 
+tussen leerlingen die (1) korter dan één jaar, (2) tussen één en twee jaar en (3) tussen twee en drie jaar in 
+Nederland zijn. In het begin van dit hoofdstuk brengen we ook in beeld hoe groot de groep nieuwkomers is als 
+in plaats van een maximale netto verblijfsduur van 3 jaar (36 maanden), een maximale duur van 4 jaar (48 
+maanden) of van 7 jaar (84 maanden) wordt aangehouden.  
+Nieuwkomers met de Nederlandse nationaliteit 
+Het ministerie van OCW krijgt vanuit de onderwijspraktijk signalen dat er meer leerlingen zijn die extra 
+ondersteuning nodig hebben omdat zij de Nederlandse taal niet voldoende machtig zijn. Deze leerlingen vallen 
+niet onder de nieuwkomersdefinitie van DUO, bijvoorbeeld omdat zij wel de Nederlandse nationaliteit bezitten. In 
+de kwantitatieve analyse worden vijf extra groepen onderscheiden die mogelijk ook behoefte hebben aan 
+intensiever taalonderwijs. De groepen zijn samengesteld in overleg met het ministerie van OCW en naar aanleiding 
+van de resultaten uit de interviews met experts. Voor alle groepen geldt dat ze géén internationaal georiënteerd 
+onderwijs volgen. Het gaat om de volgende groepen: 
+● Leerlingen met een maximale netto verblijfsduur van X jaar (zie uitleg hieronder), die bij aankomst in Nederland 
+niet in het bezit waren van de Nederlandse nationaliteit, maar op de peildatum wel; 
+● Kleuters met de Nederlandse nationaliteit, waarvan de ouders korter dan X jaar geleden naar Nederland zijn 
+gekomen, en waarvan de ouders bij binnenkomst niet in het bezit waren van de Nederlandse nationaliteit; 
+● Leerlingen met de Nederlandse nationaliteit met een maximale netto verblijfsduur van X jaar, die geïmmigreerd 
+zijn uit (voormalig) Caribisch Nederland; 
+● Leerlingen met de Nederlandse nationaliteit van wie beide ouders remigranten zijn die korter dan X jaar 
+geleden naar Nederland zijn teruggekeerd; 
+ 
+2
+  In de microdata wordt één nationaliteit geregistreerd. Indien een leerling een Nederlandse nationaliteit heeft, dan heeft 
+die in de registratie altijd voorrang ten opzichte van een eventuele tweede nationaliteit.  
+3
+  Van leerlingen in het po wordt geen onderwijstype geregistreerd. Wel is bekend of de school waarop leerlingen zitten, 
+ook een school is waarop (o.a.) IGBO aangeboden wordt. De aanname is dat leerlingen met een niet-Nederlandse 
+nationaliteit die naar een school gaan waar IGBO wordt aangeboden, ook zelf IGBO volgen. Via een (niet up-to-date) lijst 
+van de Inspectie van het Onderwijs, hebben we de scholen kunnen identificeren die IGBO aanbieden. 
+4
+  De term netto wil zeggen dat eventuele perioden in het buitenland tussen twee perioden in Nederland van de 
+verblijfsduur worden afgetrokken bij het bepalen van de totale verblijfsduur.

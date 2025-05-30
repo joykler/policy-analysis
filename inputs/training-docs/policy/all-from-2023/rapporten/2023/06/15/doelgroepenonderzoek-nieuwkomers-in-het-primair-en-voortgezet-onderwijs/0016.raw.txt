@@ -1,0 +1,31 @@
+NIEUWKOMERS IN HET PRIMAIR EN VOORTGEZET ONDERWIJS 9 
+Overzicht groepen nieuwkomers in kwantitatieve analyse 
+Tabel 2.1 Overzichtstabel groepen nieuwkomers 
+# Omschrijving NL- NL- Netto Aanvullende toelichting Benaming 
+nationaliteit nationaliteit verblijfsduur 
+op 1 okt bij (eerste) in 
+2020? aankomst in Nederland 
+Nederland? 
+1 Leerlingen zonder NL-nationaliteit, die tot 1 jaar in Nee Nee 0 tot 1 jaar  Geen NL-nat, tot 1 
+Nederland zijn jaar in NL 
+2 Leerlingen zonder NL-nationaliteit, die 1 tot 2 jaar in Nee Nee 1 tot 2 jaar  Geen NL-nat, 1 tot 2 
+Nederland zijn jaar in NL 
+3 Leerlingen zonder NL-nationaliteit, die 2 tot X jaar in Nee Nee 2 tot X jaar  Geen NL-nat, 2 tot X 
+Nederland zijn jaar in NL 
+4 Leerlingen die bij aankomst in Nederland geen NL- Ja Nee 0 tot X jaar  Naturalisatie, X jaar 
+nationaliteit hadden, maar op het peilmoment wel in NL 
+5 Kleuters met NL-nationaliteit, waarvan ouders korter dan X Ja n.v.t. n.v.t. Beide ouders verblijfsduur Kleuters met ouders 
+jaar geleden naar Nederland zijn gekomen en toen geen tot X jaar en geen NL- geen NL-nat, X jaar 
+NL-nationaliteit hadden nationaliteit bij aankomst in NL 
+6 Leerlingen met NL-nationaliteit die korter dan X jaar Ja Ja 0 tot X jaar  Voormalig CN, X 
+geleden geïmmigreerd zijn uit (voormalig) Caribisch jaar in NL 
+Nederland 
+7 Leerlingen met NL-nationaliteit van wie beide ouders Ja Ja 0 tot X jaar Beide ouders bezitten NL- Remigrant beide 
+remigranten zijn die korter dan X jaar geleden naar nationaliteit ouders, X jaar in NL 
+Nederland zijn teruggekeerd 
+8 Leerlingen met NL-nationaliteit van wie één ouder Ja Ja 0 tot X jaar Eén ouder bezit NL- Remigrant één 
+remigrant is die korter dan X jaar geleden naar Nederland nationaliteit ouder, X jaar in NL 
+is teruggekeerd 
+9 O-nummers (en S-nummers) die op type I of type II school Onbekend Onbekend Onbekend Niet gekoppeld met BRP- O-nummers 
+zitten, of die niet in een grensgebied naar school gaan. bestanden 
+Bron: SEO Economisch Onderzoek / Kohnstamm Instituut (2022)

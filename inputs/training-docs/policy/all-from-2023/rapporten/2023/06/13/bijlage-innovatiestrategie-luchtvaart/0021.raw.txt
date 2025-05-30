@@ -1,0 +1,37 @@
+4.1 Beschrijving innovatiegebied Hiermee kan bijvoorbeeld de capaciteit worden vergroot van de aanvliegroutes die de 
+minste (geluids)overlast geven. Cross-border arrival management (XMAN) zorgt dat 
+IenW en het ministerie van Defensie dragen zorg voor de inrichting en het beheer van het naderingsroutes ook over landsgrenzen heen kunnen worden geoptimaliseerd. Hiermee 
+Nederlandse luchtruim. Deze regulering is erop gericht dat gebruikers, zoals de commerciële kan duurzaam vliegen worden gefaciliteerd door middel van continu dalen middels vaste 
+luchtvaart, militaire vluchten en de kleine luchtvaart, op een veilige en efficiënte manier  naderingsroutes.
+van het luchtruim gebruik kunnen maken, met een minimale impact op de leefomgeving  
+en het klimaat. Onbemand
+Het kabinet wil onbemande luchtvaartuigen de ruimte geven en vernieuwende 
+Op dit moment spelen er verschillende zaken en ontwikkelingen die om een herziening van technologieën en diensten mogelijk maken vanwege het mogelijk grote aantal 
+de huidige regulering vragen: maatschappelijk waardevolle toepassingen (zie kader).
+• Vliegroutes zijn historische gezien niet ingericht op het beperken van hinder en uitstoot.
+• De behoefte aan militaire oefenruimte is aan het veranderen.
+• Drones worden steeds vaker ingezet. Het huidige luchtverkeersmanagementsysteem  
+Voorbeeldinnovatie: Drones
+is niet geschikt om geautomatiseerd vliegende drones op een veilige manier te integreren  
+in het luchtruim.
+4.2 Stand van zaken innovatiegebied
+Bemand
+Op Europees niveau wordt gestreefd naar één Europees luchtruim (Single European 
+4
+Sky). Hiertoe is onder meer het Europese publiek-private partnerschap SESAR (Single 
+European Sky ATM Research) opgericht. SESAR richt zich op vliegveldoperaties, verkeers-
+managementsystemen (ATM), verkeersleidingsdiensten en infrastructuur. Daarin wordt 
+onder andere gewerkt aan free route airspace zodat gebruikers zelf een (efficiënte) route 
+kunnen kiezen in plaats van een voorgeschreven route. Daarnaast wordt gekeken naar 
+verdere integratie van luchthavens in het ATM netwerk.
+Indien drones veilig geïntegreerd worden in het luchtruim, kan deze technologie 
+Ook het Trajectory Based Operation concept (TBO) is onderdeel van SESAR. TBO worden ingezet voor allerlei maatschappelijke toepassingen. Drones zijn bijvoorbeeld 
+ondersteunt de implementatie van verschillende technologische ontwikkelingen op geschikt voor het met spoed vervoeren van bloedmonsters of vergankelijke trans-
+het gebied van navigatie en planning. Het ondersteunt concreet het gebruik van vaste plantatieweefsels. Een politiedrone kan vliegensvlug ter plaatse zijn bij een ongeval, 
+naderingsroutes. Met technieken zoals RECAT-EU, Pair-wise Separation, Interval Management zonder het wegverkeer te verstoren en ook op lastig bereikbare plekken. Ook kunnen 
+en Time Based Separation kunnen aankomende vliegtuigen veilig korter achter elkaar drones worden ingezet voor onder meer het inspecteren van gebouwen, het zoeken 
+geplaatst worden. van drenkelingen, het bepalen van de oorzaak van een brand of het meten van  
+de luchtkwaliteit in een industriegebied.
+4 
+ https://sesarju.eu/sites/default/files/documents/reports/Innovation%20pipeline%202022.pdf
+21 | Innovatiestrategie Luchtvaart

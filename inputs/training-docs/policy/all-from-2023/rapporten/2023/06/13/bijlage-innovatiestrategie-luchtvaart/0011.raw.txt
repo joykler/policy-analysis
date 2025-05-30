@@ -1,0 +1,41 @@
+2.1 Beschrijving innovatiegebied 2.2 Stand van zaken innovatiegebied
+De afgelopen decennia heeft de luchtvaartsector zich toegelegd op het verlagen van de Internationaal
+geluidsuitstoot en brandstofgebruik (per passagier-kilometer) van luchtvaartuigen. Dit heeft De markt voor nieuwe luchtvaartuigen wordt gedomineerd door grote internationale spelers 
+voor wat betreft brandstofgebruik een vlootbrede besparing opgeleverd van gemiddeld als Airbus, Boeing en Embraer. Deze producenten maken ieder gebruik van een wereldwijd 
+1,5% jaar per jaar. Ook is het geluidsniveau van nieuwe vliegtuigen substantieel lager. netwerk van gespecialiseerde toeleveranciers. Hiernaast zijn er verschillende nieuwe en 
+innovatieve toetreders in de markt (startups).
+Een deel van de innovaties in de sector richt zich op het verder vergroten van deze efficiency 
+en duurzaamheid, zoals lichtgewicht (circulaire) structuren, nieuwe motoren of radicaal Een voorbeeld van waterstofvliegtuigen in ontwikkeling zijn de ZEROe concepten van Airbus 
+andere vliegtuigvormen. die naar verwachting rond 2035 op de markt komen. Waterstofaandrijving lijkt geschikt voor 
+vluchten tot 2000 kilometer met in eerste instantie een beperkt aantal passagiers. Dit komt 
+Daarnaast zijn luchtvaartuigen in ontwikkeling die vliegen zonder CO -emissie mogelijk doordat, om dezelfde hoeveelheid energie te leveren, voor waterstof veel grotere tanks 
+2
+maken: nodig zijn dan voor kerosine.
+• Waterstof-aandrijving: vliegtuigen die waterstof gebruiken voor voortstuwing. Dit kan 
+door een brandstofcel die waterstof aan boord omzet in elektriciteit of door directe De eerste batterij-elektrische vliegtuigen zijn al op de markt. Zo is er momenteel een 
+verbranding van waterstof. elektrische tweezitter, de Pipistrel Velis Electro, beschikbaar waarvan er ook in Nederland 
+• Batterij-elektrisch vliegen: vliegtuigen die gebruik maken van in batterijtechnologie enkele exemplaren rondvliegen. Grotere elektrische vliegtuigen zijn over de hele wereld in 
+opgeslagen elektriciteit in combinatie met elektromotoren voor voortstuwing. ontwikkeling. Daarbij worden ook hybride-elektrische vliegtuigen ontwikkeld (als tussenstap 
+naar volledig elektrisch).
+Het gebruik van duurzame kerosine maakt CO -neutraal vliegen mogelijk. Hierbij is er  
+2
+wel sprake van uitstoot, maar wordt deze gecompenseerd bij de productie van deze De technologische uitdagingen bij het ontwikkelen van elektrische luchtvaartuigen zijn 
+brandstof. Voor de ontwikkeling en toepassing van deze technologieën zijn echter geen mogelijk nog groter dan bij waterstof. Huidige batterijen zijn relatief zwaar per hoeveelheid 
+radicale innovaties aan luchtvaartuigen nodig. Deze ontwikkeling bespreken we daarom  geleverde energie. Vluchten met een batterij-elektrische aandrijving blijven daardoor 
+in hoofdstuk 3. het komende decennium waarschijnlijk nog beperkt tot korte vluchten (<500 km) met 
+een beperkt aantal passagiers (9-19). Er zijn toekomstige disruptieve ontwikkelingen in 
+Tot slot worden onbemande luchtvaartuigen, oftewel drones, ontwikkeld voor civiele batterijtechnologie nodig om batterij-elektrische vliegtuigen met een groter bereik en/of 
+toepassing. Dit geldt ook voor luchtvaartuigen die met beperkte ruimte kunnen opstijgen  passagierscapaciteit mogelijk te maken.
+en landen, de zogenoemde EVTOLs en STOVLs. Drones bieden naar verwachting met name 
+nieuwe toepassingen voor inspectie en transport van goederen. Drones werken over het Het (voorlopig) beperkte bereik van deze nieuwe luchtvaartuigen (batterij en waterstof),  
+algemeen op elektriciteit en/of waterstof en bieden dus een vorm van duurzame mobiliteit betekent dat zij geen realistische oplossing zijn voor het verduurzamen van intercontinen-
+en logistiek. Gezien hun bereik en capaciteit zijn zij echter slechts zeer beperkt een tale vluchten. Het genoemde gebruik van duurzame kerosine (zie hoofdstuk 3) is dit wel. 
+3
+alternatief voor bestaande luchtvaartuigen. Aangezien 70 procent van de CO -uitstoot door luchtvaart door deze intercontinentale 
+2
+vluchten komt, is ook duurzame kerosine van groot belang bij het verduurzamen van  
+Zie bijlage 1 voor een compleet overzicht van alle ontwikkelingen. de luchtvaart.
+3 
+CO -emissie van luchtvaart op de lange termijn, Planbureau voor de Leefomgeving, 2020
+2
+11 | Innovatiestrategie Luchtvaart
