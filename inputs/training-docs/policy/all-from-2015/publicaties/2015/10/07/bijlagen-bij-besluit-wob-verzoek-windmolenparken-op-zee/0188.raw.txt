@@ -1,0 +1,64 @@
+huidige modellen. Dat de resultaten van route 2 en route 3 vergelijkbaar zijn,
+suggereert dat de resultaten verkregen met gebruik van deze waarde voor micro
+empirisch
+ontwijking (in route 3), vergelijkbaar is resultaten die verkregen worden met
+verzamelde gegevens in referentie parken (zoals in route 2).
+4.4 Het SOSS Band model 2012
+dezelfde ‘route 3’. In
+Het SOSS Band model 2012 werkt in principe op manier als
+tijdens vlucht rotor-bestreken
+beide modellen is de kans op aanvaring een door het
+aanvaringskans
+gebied geschat op basis van dezelfde theoretische berekening. Deze
+van turbines in het
+wordt opgeschaald naar het windpark. De grootte en het aantal de
+vluchten door het rotor-bestreken
+park, samen met het aantal vogels levert het aantal
+deze
+gebied op. Hierop wordt nog een bepaalde mate van ontwijking toegepast. In
+Route 3 maakt gebruik van het aantal
+tweede stap verschillen de twee methodes.
+van gebied en de
+vluchten door het windpark (flux), de verhouding het rotor-bestreken
+maakt echter
+windpark en twee niveaus van ontwijking. Het SOSS Band model 2012
+turbines en slechts één
+gebruik van de dichtheid van vliegende vogels, het aantal
+door de rotor-bestreden gebieden
+ontwijkingsniveau. Hoe het aantal vluchten
+windparken tussen
+berekend zijn levert kleine verschillen tussen op. De ruimte
+berekend met Route 3 maar niet op het
+turbines heeft effect op het aantal slachtoffers
+2012.
+aantal berekend met het SOSS Band model
+van de twee modellen komen de
+Ondanks het verschil in de berekeningsmethode
+Verder komen de schattingen voor
+berekende aantallen slachtoffers redelijk overeen.
+overeen komen met die van route 2.
+het aantal aanvaringen ook grotendeels
+4.5 Conclusies
+vanuit Dirksen et al. (2012) gaf nieuwe inzichten in het foerageergedrag
+De informatie
+en foerageerbereik broedende kleine mantelmeeuwen. Dit was van belang voor
+van
+aantal aanvaringsslachtoffers in offshore windparken. Het lagere
+het schatten van het
+Noordzee en het kleinere foerageerbereik
+aantal foerageervluchten boven de
+resulteerden voor alle beoordeelde windparken in een afname in het aantallen
+windpark. Daarmee werden in alle rekenmethodes ook het aantal
+vluchten door het
+aanvaringsslachtoffers kleiner doordat deze proportioneel gerelateerd zijn aan het
+aantal vluchten door het windpark. Aanvullende nieuwe informatie uit Krijgsveld et al.
+(2011) over parameters als uitwijking en uit Cook et al. (2012) over vlieghoogtes
+zorgen ook voor aangepaste gevonden aantallen aanvaringsslachtoffers. In
+tegenstelling tot in de oorspronkelijk PB’s werd in de huidige berekeningen een lagere
+macro-uitwijking, een hogere micro-uitwijking, en een marginaal lager percentage
+leverde
+vogels op rotor hoogte gebruikt. Het verschil in macro- en micro-uitwijking
+waardoor een
+ongeveer een halvering van de aantallen uitwijkende vogels op,
+verdubbeling in het aantal slachtoffers werd gevonden in de nieuwe berekeningen.
+22

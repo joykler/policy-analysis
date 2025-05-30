@@ -1,0 +1,198 @@
+until —1 h after sunrise
+recording began within 1 h of sunset and continued
+risk. I3ats be acting upon the expectation of resources rather
+may
+addhiori to the thermal carneras, we simultaneously recrded supple
+In
+than the actual presence of resources. Fatalities of buis al turbines
+imagery (St
+mental naar infrared (NUl) video Methods),
+may be thc consequcnce of behaviors that evolved to provide se
+lective udvantages when elicitcd by tail trees, but aee now malad
+af Video lrnagery.We manually reviewed video imagery at high speed
+Resuiew
+aptive when eLicited bywind turbines. Paradoxicafly, direct cvidcnce
+with vlewing software (VirtualDub,
+(scan speed —1 mlnih of recorded imaçjery)
+wind turbines may nol be
+of the causes of tree bal susccptibility to
+www virsualdub erg; VLÇ wwv,vdeolan,org) and then a second time using
+observable al wind turbines, but instead al the trees and their as
+statistical software
+custom-written code (Dataset 51) and rnatrix-based
+1
+where potcnthslly eausal behaviors evolved.
+sociated resources (Matiab with Image Processing Toolbox, Mathworks) that automatically
+the thermai video scenes
+Our observations have practical implicutions. Although our detected events in which animals flew through
+small
+Automatic processing algorithms identified fracties with motiors of
+scope of in[erencc is .limjted to ccrtain trec buis (L. boreahs,
+PA
+blades. Although video was
+objects not assaclated with the rnoving turbine
+L. cinereus, and L. iwcsisagans), areas of turbines from the rotor
+recorded al 30 frames per iecond. only every 3Oth video frame was analyzed
+swcpl one around the nacefle to neur ground (diffcrent
+the
+automated processing, resulting In detection
+because of time corsstralnts on
+behaviors may occur higher in the airspacc), and ure based on
+of events rriostly lasting 1 s. However, because bat usually took several
+observations from just three turbines midwestem North America,
+in
+of of alrspace around the turbine, we 58w
+seconds to traverse the tens meters
+efforts to monitor baL activity near turbines (c.g., acoustic detectors
+evidence that this sampling rate corrsislently rnhssed bats when they wero
+no
+video cameras), or deter buis from turbines [c.g., dcviccs
+and of bets observed iikcly 1 ly at speeds 7 mis (53). The size
+present Species we
+producing siartling sounds (51 )J may benefit by niming instrumerits of the fie!d of view was about 55 x 40 m given the —1 10-m resolution range
+that height would require eI leest
+from the back of the nacelic into the Iceward airspacc, tin area of the cameras We estimate that a bal al
+5—6 s to traverse the imaged area and would be detected in as many video
+where we consistently observed highcr baL activity regardless of
+with misilng bali passing through the
+frames. Therefore, any bus associated
+changing wind directions. Strategies for mitsimizing fatalities of
+camera
+video scenes in <1 s would involve those passing relatively close to the
+buis aL turbines currenhly focus on preventing blades from spin
+of bets at nacelle height.
+and not effect the detection
+II
+ning during low wind periods (4, 11, 12). Our observations that
+scanning or software
+All potential flying objects detected by high-speed
+tree bats show u tendency to closely investigate inert turbines and
+visually and charactorized by as Ieasttwo observer
+algorithms ware revlewed
+sometimes linger for minutes to perhaps hours (in the cases of
+(1’ M.C and P,M.G). These detections included lnsects flylng close to the
+5-
+scenario in
+clustcred observutions) high)ight the plausihility of a
+(whlch ware lgriored and not tabufated), as well as bets and small
+cameras
+whicli buis are drawn toward turbines in low winds, but sometimes
+birds flying around the turbines up to the airspace abovc the nacelle, larger 0
+1.l
+w
+birds flying highar above the rotor-swept zone, and alrplanes and clouds
+remain long cnough to hc put al risk when wind pieks up and
+cameras
+much higher Based oct the pied resolution of the thermal and
+hiades reach higher speeds. Therefore, iiie frequeney nf in
+the distance at which a bal could be resolved with more than 1 pixel, we
+1
+vind low-wind
+lermiltent, blade-spinning gusts within such pen
+of 110 m
+estiruate our range of cletecting bets witt’ the cameras was upwardi
+ods inighi he tin important predictor of [atalily risk; fatulities may
+thermal cameras situatd 1? m trom the base of the turbine and the
+With the
+from
+occur more oficn when turbine blades are transitioning
+camera to nacelle was
+nacelles sitting dop 80 m towers, the distarsce from
+potentially atiructive (stationary or slow) to letlial (fust) speeds.
+Bi Our video obsarvations from the Ihermal cameras and supplamentery
+m
+rniglit benefit
+Efforts to minimize bui fatalities al wind facilities
+revealad that smaller bats (for
+imagery from the NIR cameras (5f Mestods)
+by averaging wind-speed curtuilment ihresho)ds over longer pen
+crxample, cattern red bets, iderrtified acoustlcally) (5? Method) werd easily
+intcrmitlently less
+ods of time (e,g., >10 min) to prcvent gusts from detectable up to rsacetfe height bul tended to become much detctable
+thay mosed higher than the riacelle, whereas larger bets (for example,
+pushing bladcs to lcthal speed cluring low-wind periods. Finally, as
+alrspaco 20—40 m
+hoary bats, iderrtifiod acoustlcally) ware detectable in the
+appeararice of turbines.
+fatalities may be reducihie by aliering the
+above the nacella Although spatiel positions of objects are sometimes dif
+Fewer fatalities of castem red buis were found under turbines with
+typically able to judga
+ficult to determine in 2D video Imagery, we ware
+rcd aviation lights al ii large wind facility in Texas (52),
+Ilashing
+locatloris of bats in the airspace using reflcctioos In the thermal imagery
+hinting at the possibility that suppiemenial Iighting of turbines
+thermal reilactions of bets could be seen oct the
+(e.g - during close approaches
+make some buIs Icss tikely to misiake thcm for irees.
+might
+turbine tower). shadows in the correspondlrrg NIR imagery (eg., bat passing
+riacelfe), and visually observing the parallas of the
+close under bottom of by
+Methods
+bat from th different view angles of the thermal and NIR cameras
+Study Area and Esperimental Design. We cocrducted this study at a wind
+detoction of ict the thermal imagery we recorded the
+For each a bal
+turbine facility (Fowler Ridgc Wind Farm, BP Alternative Energy. Oak)and, CA
+of the
+tollowing information: number of individuals present, orlentation
+and Dominion Rcrsourccs mc., Richmorsd, VA) in Benton Courity. iN, which
+nacelle. predominant area of bal activity relalive to
+nosecone on the turbine
+corssisted of 355 wind turbines with a totai nameplate capacity of 600
+windward),
+direction the turbine nose was pointing (leeward, rotor speed
+megawatts (MW). The 20,234-ha site is dominated by agricuitural lands
+course response to the presence of the
+(rpm), whather the bat altered in
+(mostly soybean and corn with buildings and forested areas corn
+fields) (<2 rn) approachcs to
+turbine (local behavlor), whether thc bat made date
+posing <5% of the total area, Th topography is rnostty fiat wtth elevations
+nacelle, or blades duririg the event, whethcr the bat
+the turbine monopo)e,
+V82,
+ranging from about 210-225 in. The threc turbines monitored (Mode) moving turbine blada, es well as
+appeared to be ttruck or displaced by a
+Vostas Wind 5ystems) aach had a narneplate capacity of 1.65 MW. 82 m rotor
+descriptivo cornments about the event, Turbine orientation was character
+diameter, and B0-m-hlgh monopole. and
+izd from video, but we also analyzed meteorological operatlonal data
+To observe bat interactiont with turbines across a rarige of weather end the turbine nacelle. These data inciucied wind speed (mis) and
+gathered at
+(t) proportlon of iunar disk
+operating conditions. turbines ware run urider three different scenarios: rotor speed. Moon iilurnlnatton was recorded as the
+blades never rotating, (ii) blades not rotating (curtailed) ursti) wind speeds illuminated given that it was visible above the horiion. Moon iilumination
+(iii) opetating conditions Applications Department of the
+reached 6,5 mis, and blades rotating uridr normal data ware obtained from the Astroj,csmlcal
+(begin rotating al about 2 mis wind speed). We randomly assigned operation US Navel Observatory (aa usno navy niilrindev php).
+one of the three turbines
+treatmeats cach night to that on any given night,
+was randomly assigned to be oever rotating, curtailed, or futly operational.
+Assalysis of Eet Behavior from Video Datectlons. Patterns of bal detection in
+wind turbine operation were esamined witt’
+relaticri to behavior, speed, and
+Ko)mogorov—
+Recarding Video Iniagery. We morritored the three turbines usinçj video Kolmogorov—Smirnov and tests and logistic regression.
+2
+with sensors that operate the ‘thermal spectrum of behavlor compared coridltioris (eg.. moon lllurrrination)
+surveillance cameras in Smlrnov tests of bat
+throughout
+infrared light (-.9,000—14,000 om; Model Q1921.E with a 19-mm lens, Axis during bat detections relative to that recorded the study period
+and which require no supplemental illumination. The ef for all nighttime 10-min iritervals. All statistical analyses ware performed iii
+Communications)
+Team, 8: A Language and Envi
+fective sensor-array size of the cameras was 384 x 28.8 pisels, and we program II (v2.15.l; 8 Development Core
+using netbook Statistical Computing. 2011), The temporal clustering of bat
+recorded digital video at a cate of 30 frames per second ronment for
+turbine was evaluated witt’ act index de
+computers (Mode) 1104 A7K67UT. Hewiett-Packard) equipped with exterrral detectians within a night al each
+from veloped for usa witt’ terriporal sequences where the data are grouped into
+hard drises. We positioned these cameras 12 m the base of each tur
+intervals Octections were grouped by 10-min intervals,
+bine so that they imaged about two-thirds of the rotor.swept zone. Video equally-spaced (14).
+Editior, of 6
+Cryan al FNAS Early S
+es

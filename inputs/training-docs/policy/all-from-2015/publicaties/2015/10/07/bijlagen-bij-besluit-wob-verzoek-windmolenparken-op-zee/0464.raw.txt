@@ -1,0 +1,59 @@
+2. Doel
+van de opdracht
+Het doel van de opdracht is om tot een update
+te komen van het rapport ‘Risico voor de scheepvaart
+bij aanwijzing
+windgebied “Hollandse Kust” (rapportnummer 26455-2-MSCN-rev.2)’, waarin zowel
+een nieuwe doorrekening van de scheepvaartrisico’s
+van de minimumvariant Hollandse Kust en de
+bepaling
+van de scheepvaartrisico’s van de nog nader te bepalen voorkeursvariant Hollandse
+Kust
+plaatsvindt. De resultaten van de
+analyses dienen verwerkt te worden in de huidige rapportage.
+3. Producten
+Er
+wordt een update van het rapport ‘Risico voor de
+scheepvaart bij aanwijzing windgebied
+“Hollandse Kust” (rapportnummer
+26455-2-MSCN-rev.2)’ gevraagd. Het rapport dient op de
+volgende punten te worden aangepast:
+- aanpassing
+van de minimum variant Hollandse Kust. Dit houdt in een nieuWe doorrekening
+van de minimumvariant tekstaanpassingen.
+en
+- Opnemen van de voorkeursvariant Hollandse Kust. Dit in een
+houdt doorrekening van de
+voorkeursvariant en de
+resultaten in het rapport beschrijven.
+Rijkswaterstaat is
+verantwoordelijk voor het verstrekken van de shapefiles van de minimum variant
+Hollandse Kust en de voorkeursvariant
+Hollandse Kust aan MARIN. Verder kan MARIN ervan uitgaan
+dat er
+geen verdere wijzigingen zijn opgetreden ten opzichte van scheepvaartverkeersstelsel.
+het
+4. Tijd
+De start de opdracht
+van begint bij oplevering van de shapefiles (minimum variant
+HK en
+voorkeursvariant HK) door Rijkswaterstaat aan MARIN.
+Naar verwachting wordt de voorkeursvariant
+half juni vastgesteld.
+Indien hier veranderingen in optreden, dan geeft de opdrachtgever
+dit zo
+spoedig mogelijk door aan de opdrachtnemer.
+Enige flexibiliteit van de opdrachtnemer wordt dan
+ook
+verwacht.
+MARIN wordt gevraagd om 2 weken de start
+na van de opdracht de berekeningen van de
+scheepvaartrisico’s (in
+tabelvorm), voor zowel de minimum als de voorkeursvariant op te leveren.
+Dit, zodat de resultaten van deze
+studie meegenomen kunnen worden in de afronding van de
+PIanMER
+Hollandse Kust door Royal Haskoning/DHV. De definitieve versie van de rapportage
+dient 4
+weken na de start van de opdracht
+te worden opgeleverd.

@@ -1,0 +1,63 @@
+in
+Tabel 2.8 Dichtheid (vogels/km van kleine mantelmeeuwen uit de kolonies hef
+Duinen Land van Texel in windparken
+Natura 2000-gebied en Lage
+vergund in ronde 2’.
+Q4
+Den Helder 1 Tromp Binnen
+0 0
+januari 0
+0 0
+februari 0
+maart 0 0 0
+0,0038
+april 00022 0,00001
+0,0080 0,00003 0,0138
+mei
+0,0081 0,00003 0,0140
+juni
+0,0079 0,00003 0,0136
+juli
+0,00001 0,0071
+augustus 0,0041
+september 0 0
+0
+0
+oktober 0 0
+0 0 0
+november
+0 0 0
+december
+2.9 Dichtheid (vogels/km van kleine mantelmeeuwen uit de kolonies in het
+Tabel
+actuele
+Natura 2000-gebied Duinen en Lage Land van Texel in de nu
+windparken.
+Den Tromp Q4 Helmveld Q4
+1 Binnen subsidiair West
+Helder
+januari 0 0 0 0 0
+februari 0 0 0 0 0
+maart 0 0 0 0 0
+0,0046
+april 0,0022 0,00001 0,0038 0,0089
+0,0329 0,0168
+mei 0,0080 0,00003 0,0138
+0,0170
+juni 0,0081 0,00003 0,0140 0,0332
+0,0166
+juli 0,0079 0,00003 0,0136 0,0325
+0,0071 0,0169 0,0086
+augustus 0,0041 0,00001
+september 0 0 0 0 0
+0 0
+oktober 0 0 0
+0 0
+november 0 0 0
+0 0
+december 0 0 0
+16
+)
+)
+2
+2

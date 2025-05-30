@@ -1,0 +1,44 @@
+Overzicht van parameters voor fluxberekeningen van kleine
+Tabel 2.7
+mantelmeeuwen voor de nu actuele windparken.
+fractie trips bird flux
+windpark foerageer trips
+door windpark
+op Noordzee
+1 3.357.480 0,00148 4.952,69
+Den Helder
+Binnen 3.357.480 0,00001 21,91
+Tromp
+3.357.480 0,00221 7.436,64
+Q4
+Helmveld subsidiair 3.357.480 0,00657 22.062,19
+0,00344 11.549,45
+Q4 West 3.357.480
+vogels om
+SOSS Band model 2012 maakt gebruik van de dichtheid van vliegende
+Het
+Verder de
+aantal vluchten door het rotor-bestreken gebied te berekenen. zijn
+het
+wat kennis over de
+aantallen aanvaringsslachtoffers op rnaandbasis berekend,
+maandelijkse dichtheid van vliegende vogels vereist. De maandelijkse dichtheden van
+op de
+vliegende kleine mantelmeeuwen van de kolonies op Texel zijn gebaseerd
+Hiervoor
+fluxen (tabellen 2.6 en 2.7) en de grootte van het windpark (zie bijlage 1). zijn
+omgerekend naar
+eerste de 15 weken broedtijd van kleine mantelmeeuwen
+ten
+maanden verspreid over de periode vanaf de laatste week van april t/m de tweede
+geven samen de
+week van augustus. De maand en breedtegraad van het windpark
+nachtelijke activiteit,
+actuele daglengte. Dit, gepaard met een correctie factor voor
+windpark. Uiteindelijk
+resulteert in de tijd dat kleine mantelmeeuwen actief zijn in een
+per
+levert dit een maandelijkse dichtheid van vliegende kleine mantelmeeuwen
+op (tabellen 2.8 en 2.9).
+windpark
+15

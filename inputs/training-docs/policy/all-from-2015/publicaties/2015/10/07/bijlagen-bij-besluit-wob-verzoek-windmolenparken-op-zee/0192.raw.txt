@@ -1,0 +1,74 @@
+1
+2002):
+van route 2 en route 3 (cf. Troost,
+Berekeningsformules
+Route 2
+*
+* * * * *
+c2 = b h a_macro r/r_ref e/e_ref pcor p2
+year calculated with Route 2
+c2 = no. collisions per
+year
+b = no. of bird crossings per
+height
+h fraction of birds flying at turbine
+farm whole
+= fraction of birds avoiding the as a
+a_macro
+of rotor area and passage area per turbine
+r = ratio
+= in ref. farm
+of rotor area and passage area per turbine
+ratio
+encountered per crossing
+e average no. of turbines
+encountered per crossing in the reference farm
+e_ref average no. of turbines
+size with reference farm
+p_cor = correction of p2 for differences in rotor
+height
+crossing of the reference farm at turbine
+p2 = average no. of collisions per
+Route 3
+c3=b*h*a_macro*r*e*a_micro*p3
+year calculated with route 3
+c3 = no. collisions per
+b = no. of bird crossings per year
+h = fraction of birds flying at turbine height
+a whole
+a_macro fraction of birds avoiding the farm as
+ratio of rotor area and passage area per turbine
+r
+encountered per crossing
+e= average no. of turbines
+course avoiding the rators
+a_micro = fraction of birds at collision
+turbine
+collisions per crossing the rotor of a single
+p3 = estimated no. of
+Band 2012):
+van flux naar dichtheld (aangepast van
+Berekeningsformule
+/V)*1000000
+D ((p112) F
+(birds/km
+D = density
+factor for angle of flight
+piI2 = correction
+(birds/m/sec)
+F = Flux
+bird (mlsec)
+V = flight speed of
+windpark geven samen de actuele
+N.B. De maand en breedtegraad van het
+activiteit, resulteert in
+Dit, met een correctie factor voor nachtelijke
+daglengte. gepaard
+windpark.
+kleine mantelmeeuwen actief zijn in een
+de tijd dat
+27
+2
+)
+Bijlage Berekeningsformules
+rref

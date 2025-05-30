@@ -1,0 +1,69 @@
+Bijlage 2 model 2012
+SOSS Band
+2012 Crown Estate’s Strategic Ornithological Support Services (SOSS)
+In heeft The
+en spreadsheets gepubliceerd om het
+stuurgroep een leidraad document bijhorende
+gebruik daarvan voor offshore windparken te
+aanvaringsrisico-model en het
+beschrijven. leidraad erkent een onzekerheid in het modelleren van
+De
+wat betreft leidraad voorziet in een
+aanvaringsriscio’s, met name de invoer-data. De
+reeks de belangrijkste parameters, in het bijzonder voor
+voorstellen voor input
+Daarnaast worden een aantal optionele model-uitbreidingen
+ontwijkingsfracties. ook
+gegeven document.
+in het
+Eén van deze optionele uitbreidingen is te gebruiken bij windparken met een groot
+aantal Hier voor het afnemende
+turbinelijnen achter elkaar. kan gecorrigeerd worden
+aantal passeren van het eerste turbinelijn overleeft maar is
+vogels dat het
+de aanvaringsrisico volgende lijnen. Deze berekening is
+geconfronteerd met met de
+aantal turbines (minstens honderden)
+vermoedelijk slechts relevant bij een zeer groot
+van deze component van het model is relatief
+en bij lage ontwijkingsfracties. Het effect
+klein en zelfs gevallen honderden turbines neemt het geschatte aantal
+in van
+aanvaringsslachtoffers een fractie af. Omdat het verschil in
+met van een procent
+resultaat beschouwd kan worden, vooral in verhouding met de
+als verwaarloosbaar
+onzekerheid andere parameters, wordt deze uitbreiding van het model hier
+omtrent
+niet gebruikt.
+andere uitbreiding betreft vlieghoogtes van vogels en omvat componenten die
+Een
+gerelateerd en b) de verdeling van vogels op rotorhoogte. Deze
+zijn aan a) getijden
+berekening aan vlieghoogtes die op een relatief hoge resolutie (1 m
+vereist informatie
+intervallen) verzameld zijn, en het gebruik van standaard data zoals gepresenteerd
+door al. (2012). Het eerste betreft het gebruik van gedetailleerde data
+Cook et aspect
+over Deze gegevens zijn gebruikt om de vlieghoogte van vogels aan te
+getijen-cycli.
+passen, relatief tot het waterniveau en de turbine in een gekozen periode
+(bijvoorbeeld Het tweede aspect is een herberekening van de
+een jaar).
+aanvaringsrisico door het rotor-bestreken gebied, wat gebaseerd is op de
+per passage
+verdeling vogels op rotorhoogte. Deze berekening veronderstelt een lagere
+van
+trefkans aanvaringsrisico bij uiterste einde van de rotors. Volgens de
+en lagere het
+leidraad ken de geschatte aanvaringen met 50% en 10%, respectievelijk,
+dit
+reduceren.
+De component gerelateerd aan de getijen past de veronderstelde risico-vlieghoogtes
+aan op de frequentie van getijhoogtes. De leidraad benadrukt dat het effect van deze
+component in het algemeen klein is en daarom buiten beschouwing gelaten kan
+worden.
+kan
+Het niveau van onzekerheid in de uitkomsten van het aanvanngsrisico-model
+afgeleid worden van de onzekerheid in de gebruikte input parameters en van de
+29

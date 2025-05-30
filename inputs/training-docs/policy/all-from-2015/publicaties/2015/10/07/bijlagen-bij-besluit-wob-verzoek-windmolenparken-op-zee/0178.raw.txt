@@ -1,0 +1,84 @@
+vergund in ‘ronde 2’.
+Tabel 2.2 Overzicht van gebruikte parameters voor windparken
+Den Helder 1 Tromp Binnen 04
+6 5 3
+MW
+90
+126 126
+rotordiameter(m)
+65
+ashoogte(m) 100 89
+688,82
+afstand tussen turbines (m) 776,096 81 8,688
+3,6
+max. chord (m) 4,6 4
+40
+aantal turbines 78 59
+3
+aantal rotorbladen 3 3
+3,7
+rotatieduur (s) 4,3 4,3
+7,744
+noord-zuid lengte (km) 8,914 10,908
+52,6
+breedtegraad (dd,d) 52,8 52,8
+windparken.
+Tabel2.3 Overzicht van gebruikte parameters voor actuele
+Tromp Q4 Helmveld 04
+Den
+Binnen subsidiair West
+Helder 1
+3
+6 6 3 3,6
+MW
+112
+126 126 90 104
+rotordiameter(m)
+80,8
+100 89 65 77
+ashoogte(m)
+afstand tussen
+1.0601
+(m) 776,096 1.008 575,535 611,255
+turbines
+4
+max. chord (m) 4,6 4 3,6 4,2
+70
+turbines 78 48 26 90
+aantal
+3
+rotorbladen 3 3 3 3
+aantal
+4,3
+rotatieduur(s) 4,3 4,3 3,7 4,6
+9,650 9,885
+noord-zuid lengte (km) 8,914 10,908 7,744
+52,6
+breedtegraad (dd,d) 52,8 52,8 52,6 52,8
+1
+schatting op basis van andere windparken
+qua type turbine sinds de Passende
+Een aantal van de windparken is in configuratie of
+Binnen en
+voor ‘ronde 2’ veranderd. Zo nam het aantal turbines in Tromp
+Beoordeling
+de turbines (tabel 2.3).
+Q4 af, wat resulteerde in een grotere nominale afstand tussen
+De specificaties voor Den Helder 1 bleven ongewijzigd.
+is een puur theoretische
+In de route 3 en het SOSS Band model 2012 berekeningen
+op aanvaring met de rotor vereist
+benadering gebruikt, die een schatting van de kans
+volgens SNH-Band model (Band
+(zie bijlage 1). In route 3 is deze kans berekend het
+gebruik van deze berekening, maar
+2000). Het SOSS Band model 2012 maakt ook
+praktijk betekent dit een minimale
+met een kleine aanpassing in de rotorvorm. In de
+dezelfde. Het model is per
+verandering in de berekeningen en blijven de uitkomsten
+toepasbaar om tot, een schatting van de
+soort en per type turbine
+De gebruikt voor kleine mantelmeeuwen
+aanvaringsslachtoffers te komen. parameters
+12

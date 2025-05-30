@@ -1,0 +1,113 @@
+wel populatie effecten optreden is niet
+populatieniveau zal leiden, Bij welk percentage
+(een individuele
+omdat hierbij onder andere het schaalniveau
+eenduidig aan te geven,
+broedpopulatie) een
+een Natura 2000-gebied of de gehele Nederlandse
+populatie in
+modelparameters. Echter, een waarde van
+rol speelt in de keuze van de verschillende
+effecten optreden, is op basis
+additionele sterfte alvorens significante
+minimaal 5%
+om aan te houden.
+van Lensink & Van Horssen (2012) zeker verantwoord
+3
+2
+3’ de manier waarop de kans op
+belangrijkste verschil route 2’ en ‘route is
+Het
+van beide routes zie
+berekend wordt (voor de berekeningsformules
+aanvaringen
+gebruikt die is op empirisch
+bijlage 1). In route 2 is een correctiefactor
+windpark. Route 3 gebruikt echter
+data, opgeschaald naar het betreffende
+verzamelde
+op een wiskundige formule, het
+een theoretische kans op aanvaringen,
+SNH-Band model (Band 2000).
+aanvaring voor een bepaalde vogelsoort
+Het SNH-Band model schat de kans op
+rotor-bestreken gebied van een bepaalde
+tijdens een enkele vlucht door het
+met de grootte en
+windturbine. De grootte en snelheid van de vogelsoort,
+vormen de basis voor de
+rotatiesnelheid van de windturbine
+3 (Troost 2008) wordt deze
+aanvaringskansberekeningen. Binnen route
+van vluchten in het rotor
+in combinatie met flux, vlieghoogte, fractie
+aanvaringskans
+(macro- en micro- ing) gebruikt
+bestreken gebied en twee ontwijkingsfactoren
+om tot het jaarlijkse aantal aanvaringen te komen.
+vHeghoogte en fractie van vluchten in
+Route gebruikt naast de flux,
+2,
+ontwijkingsfactor (macro-ontwijking).
+het rotor-bestreken gebied maar één enkele
+data het aantal aanvaringen per
+Desalniettemin wordt wel gebruik gemaakt van over
+over het aantal en grootte van de
+vlucht bij windparken, en van data
+met het windpark in kwestie. Met behulp
+turbines, om te corrigeren voor de verschillen
+gecorrigeerd.
+van deze correctiefactor wordt in feite voor micro-ontwijking
+macro-ontwijking (ontwijking van het hele
+In route 2 en ook in route 3 wordt voor
+van windturbines binnen het windpark)
+windpark) en voor micro-ontwijking (ontwijking
+hele
+De fractie van vogels die het
+getallen uit Krijgsveld et al. (2011) gebruikt.
+al. (2011)
+is soortsafhankelijk. Krijgsveld et
+windpark ontwijkt (macro-ontwijking)
+het OWEZ windpark binnenvlogen,
+hebben gedocumenteerd dat meeuwen geregeld
+(micro
+ontwijking van individuele turbines
+wat erop wijst dat voor soorten
+de
+is. is een belangrijke component van
+ontwijking) een belangrijkere factor Ontwijking
+grote hebben op het aantal
+route 3 berekeningen en kan effecten
+0,99
+micro-ontwijkingswaarde van 0,98 naar
+aanvaringen. Een in de
+aanvaringen. De
+een 50% afname in het aantal
+resulteert bijvoorbeeld in
+bij Egmond
+Nederlandse offshore windpark
+data afkomstig van studies bij de
+micro-ontwijking vertoont
+de fractie van vogels die
+aan Zee (OWEZ) dat
+is dus ook gerekend in de
+(Krijgsveld et al. 2011). En
+op minstens 0,976 ligt
+21
+tussen route
+Verschil
+route en
+4.3
+tussen
+gebaseerd
+gebaseerd
+samen
+daarentegen,
+bestaande
+deze
+geschatte
+toename
+geschatte
+eerste
+suggereren
+daarmee

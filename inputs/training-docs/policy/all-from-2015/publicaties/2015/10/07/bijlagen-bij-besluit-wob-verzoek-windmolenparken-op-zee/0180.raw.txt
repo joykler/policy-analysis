@@ -1,0 +1,37 @@
+Tabel 2.5 Geschatte kans op aanvaring tijdens een enkele vlucht door het rotor
+bestreken gebied van een windturbine. Gebaseerd op het SNH-Band
+model (Band 2000) en het SOSS Band model 2012 (Band 2012).
+windpark geschatte kans op aanvaring tijdens vlucht door rotor-bestreken gebied
+SNH-Band model (route 3) SOSS Band model 2012
+Den Helder 1
+0,105 0,103
+Tromp Binnen
+0096 0,094
+Q4
+0,107 0106
+Heimveld subsidiair
+0097 0,097
+Q4 West 0,098
+0,097
+Het jaarlijkse aantal vluchten van kleine mantelmeeuwen door elk windpark werd
+bepaald op basis van berekeningen zoals beschreven door Dirksen et al. (2012). Er
+wordt uitgegaan van gemiddeld vluchten per paar per dag, gedurende 15 (12-18)
+4
+weken. Dit moet vermenigvuldigd worden met de 14.000 paren die in de kolonie
+broeden om het jaarlijkse totaal aantal vluchten van broedvogels te verkrijgen. Van
+deze vluchten was 57,1% naar de Noordzee gericht, gemiddeld over de twee
+geslachtel,. De berekening resulteert in 3.357.480 vogelvluchten boven de Noordzee
+voor de hele kolonie op Texel. Van deze vluchten ging slechts een bepaalde fractie
+door de verschillende windparken (tabellen 2.6 — 2.7). Deze fractiegetallen werden
+berekend op basis van de oppervlakte van de verschillende windparken en de daar
+geldende vluchtintensiteiten van kleine mantelmeeuwen bepaald door Dirksen et al.
+(2012).
+Tabel 2.6 Overzicht van parameters voor fluxberekeningen van kleine
+mantelmeeuwen voor windparken vergund in ‘ronde 2’.
+windpark foerageer trips fractie trips bird flux
+op Noordzee door windpark
+Helder
+Den 1 3.357.480 0,00148 4.952,69
+Tromp Binnen 3.357.480 0,00001 21,91
+Q4 3.357.480 0,00221 7.436,64
+14

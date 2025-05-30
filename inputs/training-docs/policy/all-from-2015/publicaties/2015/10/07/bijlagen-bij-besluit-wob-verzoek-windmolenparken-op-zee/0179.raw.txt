@@ -1,0 +1,90 @@
+de kans op aanvaringen
+in deze modellen zijn in tabel 2.4 weergegeven, en
+SOSS Band model 2012 in tabel 2.5.
+berekend door het SNH-Band model en door het
+is het aantal
+aanvaringsslachtoffers te berekenen
+In de verschillende modellen om
+het aandeel vogels dat op rotorhoogte
+slachtoffers proportioneel gerelateerd aan
+flux, dat wil
+invloed van dit aandeel op de
+vliegt. Dit wordt veroorzaakt door de directe
+(2011)
+rotoroppervlak vliegt. Uit Krijgsveld eI aL
+het aantal vogels dat door het
+het OWEZ
+rotorhoogte te vliegen in
+bleek 66% van de kleine mantelmeeuwen op
+kwam met de 67% die in 2009 in de
+windpark, hetgeen goed overeen
+echter in een
+Recent is door Cook eI al. (2012)
+beoordelingen was aangehouden.
+en
+van vliegtuig- en punttellingen
+review op van
+aan
+om vanuit deze diversiteit
+een model gemaakt
+te bepalen.
+hoogteverdeling van diverse soorten vogels
+vlieghoogteverdelingen de
+Hierin
+op rotorhoogte vliegen.
+Hieruit bleek dat 25.2% van de kleine mantelmeeuwen
+Cook eI al.
+bron meegenomen. De informatie uit
+zijn de OWEZ gegevens ook als
+(2012) is hier aangehouden.
+Overige gebruikt in aanvaringsslachtofferberekeningen.
+Tabel 2.4
+waarde
+parameter
+30
+pitch
+(°)
+1
+vogels op rotorhoogte
+2
+macro-uitwijking
+2
+micro-uitwijking
+macro- en micro-uitwijking gecombineerd
+0,98032
+0,56
+lengte kleine mantelmeeuw (m)
+(m) 1 34
+vleugelspanning kleine mantelmeeuw
+(mis) 13,1
+vliegsnelheid kleine mantelmeeuw
+3
+activiteit (1-5)
+nachtelijke factor
+gemiddeld aantal aanvaringen per
+referentie windpark 0,0037
+vlucht door
+2
+eI (2011)
+uit Krijgsveld al.
+Snow & Perrins (1997)
+uit
+uit Alerstam eI al. (2007)
+(2004)
+uit Garthe & Hüppop
+13
+T
+uitÖooketaL
+geschatte
+zeggen
+Passende
+basis onderzoeksgegevens
+scheeps-,
+radargegevens
+parameters
+aandeel
+0252
+018
+0976
+1((10,18)*(10,976))
+(Ö12)
