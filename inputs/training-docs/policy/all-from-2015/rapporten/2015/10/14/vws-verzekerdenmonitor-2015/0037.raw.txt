@@ -51,6 +51,4 @@ Slowakije 0,1  0,1
 Spanje 0,3 31,4  36,6 
 Tsjechië 0,2  0,3  
 Tunesië  0,1  0,1 
-Turkije  43,7  34,8 
- 
-37
+Turkije  43,7  34,8

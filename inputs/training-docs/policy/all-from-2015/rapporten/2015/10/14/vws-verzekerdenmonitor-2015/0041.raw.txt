@@ -22,8 +22,4 @@ Zorgvraag 2 4
 Algemeen 4 3 
 Overig 35 33 
 NCP - Niet voor NCP 73 11 
-Totaal 179 104 
- 
-  
- 
-41
+Totaal 179 104

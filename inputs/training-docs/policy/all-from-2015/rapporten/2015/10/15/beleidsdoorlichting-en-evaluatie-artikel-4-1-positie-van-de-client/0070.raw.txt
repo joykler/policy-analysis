@@ -50,5 +50,4 @@ en administratieve ondersteuning. Ook heeft PGOsupport een rol bij de kwaliteits
 die door het Kwaliteitsinstituut (onderdeel van het Zorginstituut Nederland) worden uitgevoerd met 
 behulp van pg-organisaties. 
  
-Beleidsdoorlichting en evaluatie 
-70
+Beleidsdoorlichting en evaluatie

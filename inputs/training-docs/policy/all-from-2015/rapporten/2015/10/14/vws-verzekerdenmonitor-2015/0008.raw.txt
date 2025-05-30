@@ -54,7 +54,4 @@ tabellen kunnen kleine afrondingsverschillen voorkomen. Om de kenmerken van de g
 wanbetalers in het bestuursrechtelijk regime te bepalen gaat het CBS uit van de wanbetalers die 
 zijn ingeschreven in de basisregistratie personen (BRP). Een deel van de wanbetalers is niet in de 
 BRP ingeschreven, waardoor het aantal wanbetalers waarvan achtergrondgegevens bekend zijn 
-afwijkt van het aantal wanbetalers bij het Zorginstituut.  
-  
- 
-8
+afwijkt van het aantal wanbetalers bij het Zorginstituut.

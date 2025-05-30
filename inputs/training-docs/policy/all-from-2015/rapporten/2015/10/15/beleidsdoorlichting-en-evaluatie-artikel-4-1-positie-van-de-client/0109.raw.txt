@@ -50,5 +50,4 @@ Dubbele rol PGOsupport bij Top20 projecten
 Bij de Top20 projecten ondersteunt PGOsupport de pg-organisaties bij het maken van plannen en 
 hiernaast heeft zij een controlerende functie. Slechts enkele organisaties hebben ervaring met 
  
-Beleidsdoorlichting en evaluatie 
-109
+Beleidsdoorlichting en evaluatie

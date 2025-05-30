@@ -51,5 +51,4 @@ is dat het per organisatie verschilt of men ondanks de bezuiniging de output in 
   Twee voorbeelden: het Nivel heeft een online communicatie-interventie voor patiënten (PatientTIME) getest en in het AMC 
 wordt onderzoek gedaan naar een ‘Vragenhulp’ (Question Prompt List) voor patiënten met kanker. 
  
-Beleidsdoorlichting en evaluatie 
-90
+Beleidsdoorlichting en evaluatie

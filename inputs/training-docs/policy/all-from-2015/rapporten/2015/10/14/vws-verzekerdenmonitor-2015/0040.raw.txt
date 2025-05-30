@@ -55,7 +55,4 @@ door het NCP zijn ontvangen. De tabel geeft ook inzicht in het onderwerp van de 
  De bedragen 2013 zijn geactualiseerd.  
 24
  Richtlijn 2011/24/EU (9 maart 2011) van het Europees Parlement en de Raad betreffende de toepassing van 
-de rechten van patiënten bij grensoverschrijdende gezondheidszorg (L 88/45). 
- 
- 
-40
+de rechten van patiënten bij grensoverschrijdende gezondheidszorg (L 88/45).

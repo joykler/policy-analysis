@@ -60,5 +60,4 @@ LPGGz, PCOB, Unie KBO, NOOM, LOC, LSR, Mezzo, MEE, Koepel Wmo-raden, Zorgbelang 
 30
   Bron: http://www.meldjezorg.nl/. 
  
-Beleidsdoorlichting en evaluatie 
-55
+Beleidsdoorlichting en evaluatie

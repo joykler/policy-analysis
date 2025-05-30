@@ -56,5 +56,4 @@ Bron: PG-Monitors 2011, 2013 en 2015 PGOsupport, bewerking Ecorys .
 40
   Enkele categorieën van uitgaven zijn verwijderd, die door een beperkt deel van de organisaties is genoemd(n<40). 
  
-Beleidsdoorlichting en evaluatie 
-77
+Beleidsdoorlichting en evaluatie
