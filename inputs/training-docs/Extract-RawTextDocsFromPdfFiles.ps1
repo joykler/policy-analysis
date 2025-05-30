@@ -187,14 +187,12 @@ function Export-RawTextFromSourceFile {
     begin {
         function Export-RawText([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
 
-            $PdfTextExtractionStrategy = [iTextSharp.text.pdf.parser.LocationTextExtractionStrategy]::new()
-
             $PageMax = $Source_PdfReader.NumberOfPages
             for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
 
                 $TargetPageFile = Get-FileInfo $($TargetFile.Path -f $PageNr) -LoggedDir $TargetFile.LoggedDir
 
-                $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr, $PdfTextExtractionStrategy)
+                $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr)
 
                 Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
 
