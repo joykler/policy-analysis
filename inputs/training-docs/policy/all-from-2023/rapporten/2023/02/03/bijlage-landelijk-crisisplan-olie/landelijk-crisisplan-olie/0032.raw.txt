@@ -1,0 +1,47 @@
+TypenFiguur 4. Typen maatregelen in relatie tot de LCP maatregelen in rel-O escalatiefasenatie tot de LCP-O escalatiefasen
+Type maatregel Escalatiefasen
+Fase 0: voorfase
+1. Verkleinen afhankelijkheid
+2. Communicatie
+Fase 1: Alertering
+3. Monitoring
+4. Vraagbeperkend (vrijwillig)
+Fase 2: Vroegtijdige waarschuwing
+5. Aanbodverruimend (vrijwillig)
+6. Vraagbeperkend (dwingend)
+Fase 3: Alarm/ alarmering
+7. Aanbodverruimend (dwingend)
+8. Juridisch (relevant in elke fase)
+Fase 4: Afkondiging oliecrisis/ noodtoestand
+*let op: voor de meeste maatregelen geldt dat er een groot risico is op weglek naar het buitenland, het is daarom raadzaam om in NW-Europees / Europees verband 
+  -
+afstemming te organiseren voordat maatregelen geïmplementeerd worden.
+Verkleinen Voor veel processen geldt dat op korte termijn de afhankelijkheid van een olieproduct 
+afhankelijkheid verkleind kan worden. Bijvoorbeeld door over te stappen op andere brandstof, 
+elektriciteit of waterstof als energiebron. Let op: afhankelijk van het aantal uren duurzame 
+opwek betekent overstap naar elektriciteit een verhoging van het gasverbruik. 
+Communicatie Er zijn communicatieboodschappen denkbaar die afnemers van een olieproduct ertoe 
+kunnen bewegen hun gedrag aan te passen, bijvoorbeeld door bewustwording campag-
+nes. Voorzichtigheid is hierbij geboden om hamstergedrag niet in de hand te werken 
+door verontrusting te creëren door inzet van alarmerende communicatie boodschappen. 
+Daarnaast vraagt elke escalatiefase om een communicatie aanpak op maat. 
+Monitoring Het is van belang om goede sturingsinformatie te hebben. Zowel aan de aanbodkant 
+als aan de verbruikskant. Additionele monitoringacties dienen wel in werking gesteld 
+te worden ten tijde van een (dreigend) tekort, waarbij interactie met het bedrijfsleven 
+cruciaal is. 
+Vrijwillige Voor enkele sectoren zijn er maatregelen denkbaar, zoals een dringende publieke 
+vraagbeperking oproep voor beperking van olieverbruik. Een voorbeeld hiervan is de Regeling 
+Autovrije Zondag. 
+Vrijwillige Voor enkele sectoren zijn er maatregelen denkbaar die kunnen leiden tot aanbodver-
+aanbodverruiming hoging (evt. via een convenant) door bijvoorbeeld raffinaderijen te verzoeken om 
+biobrandstof bij te mengen, of door bepaalde beperkende wetgeving (tijdelijk) te 
+versoepelen. 
+Dwingende Voor de meeste sectoren zijn er maatregelen van dwingende aard denkbaar die leiden 
+vraagbeperking tot vraagbeperking. Hiervoor zal de crisis geëscaleerd dienen te zijn naar fase 3 of 4.  
+Hiervoor is een brede inventarisatie van mogelijke maatregelen uitgevoerd. 
+Dwingende Maatregelen van dwingende aard die leiden tot aanbodverhoging in fase 3 en 4. Er is  
+aanbodverruiming een aantal opties geïdentificeerd. 
+Juridisch Er is een aantal juridische maatregelen denkbaar die tijdens een (dreigende) olie- of 
+olieproductcrisis ingezet kunnen worden. Deze juridische maatregelen zijn ondersteu-
+nend en randvoorwaardelijk voor inzet van dwingende maatregelen.
+32 | Landelijk Crisisplan Olie

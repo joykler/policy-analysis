@@ -1,0 +1,48 @@
+Tabel 3. Expertinschatting ruwe olie en olieproduct afhankelijkheid (direct) vitale processen
+Vitale processen Categorie Sector Ministerie Olie(product) afhankelijkheid
+Landelijk transport, distributie en A Energie EZK
+productie elektriciteit
+Regionale distributie elektriciteit B
+Gasproductie, landelijk transport en A
+distributie gas
+Regionale distributie gas B
+Olievoorziening A
+Internet en datadiensten B ICT/Telecom EZK
+Internettoegang en dataverkeer B
+Spraakdienst en SMS* B
+Plaats- en tijdsbepaling middels GNSS B IenW
+Drinkwatervoorziening A Drinkwater IenW Oude (pomp)systemen en gemalen
+Keren en beheren waterkwantiteit A Water IenW Idem
+Vlucht- en vliegtuigafhandeling B Transport IenW
+Scheepvaartafwikkeling B
+Vervoer van personen en goederen B Rangeerterrein en goederenvervoer 
+over (hoofd)spoorweginfrastructuur en regionale netten
+Vervoer over (hoofd)wegennet B
+Grootschalige productie/verwerking B Chemie IenW m.n. nafta
+en/of opslag (petro)chemische stoffen
+Opslag, productie en verwerking A Nucleair IenW
+nucleair materiaal
+Toonbankbetalingsverkeer B Financieel FIN
+Massaal giraal betalingsverkeer B
+Hoogwaardig betalingsverkeer tussen B
+banken
+Effectenverkeer B
+Communicatie met en tussen B OOV JenV
+hulpdiensten middels 112 en C2000
+Inzet politie B Tankstation
+Basisregistraties personen en B Digitale BZK
+organisaties overheids-
+processen
+Interconnectiviteit (transactie-infra- B
+structuur voor informatie uit 
+basisregistraties)
+Elektronisch berichtenverkeer en B
+informatieverschaffing aan burgers
+Identificatie en authenticatie van B
+burgers en bedrijven
+Inzet defensie B Defensie DEF Eigen voorraad vanwege NAVO/ 
+arrangementen. Wel is er er 
+afhankelijkheid van civiele supply 
+chains om militaire taken en civiele 
+crisistaken uit te kunnen voeren
+Landelijk Crisisplan Olie | 53

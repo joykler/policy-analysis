@@ -1,0 +1,53 @@
+De categorieën werkprocessen uit het Generiek Waarderingsmodel Rijksoverheid (GWR 2.0) zijn 
+vervolgens ondergebracht in vier clusters van bedrijfsfuncties uit de EAR. De processen en 
+waarderingen uit dit model zijn als vertrekpunt gebruikt voor deze selectielijst. 
+Afbeelding 2: Categorieën (GWR 2.0) per bedrijfsfunctie (EAR) 
+Cluster 1: Besturingsfuncties (politieke functies, bedrijfsvoering, verantwoording, toezicht) 
+Categorie 1 Maken en uitvoeren van afspraken betreffende de inrichting en besturing van de 
+organisatie 
+Categorie 2 Het (mede-) opstellen van de Rijksbegroting en de ramingen voor de volgende jaren 
+Categorie 3 Het uitoefenen van toezicht op overheidsorganisaties 
+Cluster 2: Primaire bedrijfsfuncties (beleid en uitvoering) 
+Categorie 4 Het maken, verantwoorden en uitdragen van beleid 
+Categorie 5 Het maken van wet- en regelgeving 
+Categorie 6 Het geven van voorlichting en het verstrekken van informatie aan burgers, bedrijven 
+en instellingen 
+Categorie 7 Het controleren op de naleving van wet- en regelgeving en de handhaving daarvan 
+Categorie 8 Het leveren van producten en diensten aan personen, bedrijven, instellingen en (lagere 
+of andere) overheden 
+Categorie 9 Het vertegenwoordigen van de Minister of de Staat in bestuursrechtelijke procedures 
+voor (inter-)nationale gerechtelijke instanties 
+Categorie 10 Het onderhouden van (internationale) betrekkingen en samenwerkingsverbanden 
+Categorie 11 Het leveren van overheidsdiensten bij crises en calamiteiten 
+Cluster 3: Onafhankelijke functies (kennis en advies, controle toezicht en onderzoek) 
+Categorie 12 Het (laten) verrichten van onderzoeken en het rapporteren hierover 
+Cluster 4: Ondersteunende bedrijfsfuncties (PIOFACH) 
+Categorie 13 Het verlenen van ondersteunende diensten 
+Elke categorie bestaat uit een aantal werkprocessen. Voor elk werkproces vermeldt de selectielijst: 
+ een uniek volgnummer;
+ een procesomschrijving;
+ een (wettelijke) grondslag;
+ de producten uit het proces;
+ de waardering en de grondslag voor de waardering, met verwijzing naar de criteria indien
+archiefbescheiden voor blijvende bewaring in aanmerking komen;
+ een eventuele toelichting op het proces en de waardering, voorzien van voorbeelden.
+Een voorbeeld: 
+Volgnummer 1.1 
+Werkproces Het inrichten van de organisatie 
+Grondslag GWR 2.0, proces 1.1 
+Product(en) Instellings- en opheffingsbesluiten, onder andere van agentschappen en 
+zelfstandige bestuursorganen, adviesorganen en commissies, directies van 
+JenV.  
+Waardering SA-B1 
+Onder deze categorie valt alle neerslag met betrekking tot de inrichting van 
+Toelichting 
+de organisatie, zoals bijvoorbeeld het instellen van dienstonderdelen of het 
+reorganiseren van dienstonderdelen.  
+De waardering ‘SA-B’ betekent blijvend bewaren en overbrengen naar een archiefbewaarplaats. 
+Het bijhorende nummer verwijst naar het Systeem Analyse – Bewaarcriterium dat van toepassing 
+is.  
+De waardering ‘V x jaar’, of in enkele gevallen ‘V x maanden’, moet (tenzij anders aangegeven) 
+gelezen worden als ‘vernietigen na x jaar of x maanden na sluiting van het desbetreffende dossier’. 
+Bij sommige processen kan de waardering ‘V x jaar’ na (een bepaalde activiteit)’ staan. De 
+vernietigingstermijn start dan na de betreffende activiteit. 
+9

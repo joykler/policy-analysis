@@ -1,0 +1,49 @@
+Quick Scan KRM-Haaienactieplan 2015- 2021                    
+ruimtelijk beheer, vermijding van soorten door de visserij alsook bijdragen aan meer 
+nauwkeurige bestandsschattingen. 
+- Een meer gedetailleerde analyse van de vangstgegevens vanuit surveys en commerciële 
+schepen. Bijvoorbeeld door het modelleren van CPUE data om abundantie hotspots in kaart 
+te brengen of visserij-afhankelijke gegevens op te werken als input voor 
+bestandsschattingen.  
+ 
+Het verkrijgen van kwalitatief goede vangstgegevens uit de commerciële visserij blijft 
+problematisch. Met name goede schattingen van discards. Om meer en betere commerciële 
+gegevens te verkrijgen, zou ingezet kunnen worden op het implementeren van Electronic 
+Monitoring (EM). EM is een systeem waarbij de vangst automatisch wordt geregistreerd met 
+behulp van video-opnamen. Omdat geen directe inzet van personeel (waarnemer) aan boord 
+nodig is, kan m.b.v. EM op een kostenefficiënte manier de vloot worden gemonitord. Dit heeft 
+tot gevolg dat er in vergelijking met bijvoorbeeld een waarnemers-programma een hogere 
+ruimtelijke en periodieke dekking van de vangsten/visserijactiviteiten gemonitord kunnen 
+worden. 
+ 
+Zoals in hoofdstuk 5 vermeld, is reeds een start gemaakt met de implementatie van EM aan 
+boord van enkele demersale visserijschepen. Een haalbaarheidsstudie binnen INNORAYS heeft 
+aangetoond dat met behulp van “computer vision technology” soorten rog nauwkeuriger 
+herkend kunnen worden dan wanneer camerabeelden handmatig worden geanalyseerd. Deze 
+technologie wordt ook verder ontwikkeld in het EFMZV project ‘Fully Documented Fisheries’ 
+(FDF). Echter, op dit moment moeten er nog stappen gezet worden in de doorontwikkeling 
+richting de inzetbaarheid van het systeem aan boord van schepen of visafslagen. 
+Doorontwikkeling zal zich in de eerste plaats richten op het ontwikkelen en onderzoeken van 
+robuuste beeldherkenningsalgoritmen voor het detecteren en classificeren van de gevangen 
+roggen op soort en lengte. Vervolgens zal er een haalbaarheidsstudie naar de implementatie 
+van automatische beeldherkenning op de schepen/visafslagen plaats moeten vinden waarbij 
+gekeken wordt welke technische aanpassingen er in het sorteerproces aan boord of visafslagen 
+nodig zijn om vangsten automatisch te kunnen registeren. Hierbij is het van belang gebruik te 
+maken van de methodes en ervaringen die worden opgedaan binnen FDF waarin o.a. het 
+toepassen van computer vision technologie, “deep machine learning” en het ontwikkelen van 
+technische aanpassingen van het sorteerproces belangrijke onderdelen zijn. De verkregen 
+gegevens kunnen worden geanalyseerd met behulp van statistische methodes zodat 
+voorspellingen van de ruimtelijke verdeling van roggen in relatie tot de visserij gemaakt 
+kunnen worden. Dergelijke informatie kan bijdragen aan het tot stand komen van ruimtelijk 
+beheer, vermijding van soorten door de visserij alsook bijdragen aan meer nauwkeurige 
+bestandsschattingen.  
+ 
+Een van de opties om tot discard reductie te komen, is het inzetten van selectiviteits-
+maatregelen. Deze kunnen in twee onderzoeksrichtingen opgedeeld worden. Ten eerste, 
+technische selectiviteit, dit wil zeggen aanpassingen aan het ontwerp van het vistuig. Een 
+tweede mogelijkheid om selectiviteit te veranderen is het aanpassen van het visgedrag door 
+middel van vermijding. In beide gevallen is de implementatie een grote uitdaging omdat 
+dergelijke maatregelen vaak gepaard gaat met verlies van marktwaardige vis of juist de 
+retentie van andere ongewenste vangsten.  
+ 
+25

@@ -1,0 +1,59 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+ 
+ Het beschermen van jeugdigen, zoals beslissingen over het ouderlijk gezag en 
+adoptieverlening. 
+ 
+Migratieketen 
+De migratieketen (voorheen: vreemdelingenketen) omvat processen over migratie, naturalisatie 
+(Nederlanderschap) en vreemdelingenbewaring. Hierin spelen de volgende cruciale processen: 
+ Het toe- of afwijzen van aanvragen van migranten tot permanent verblijf in Nederland en 
+het behandelen van aanvragen voor het verkrijgen van het Nederlanderschap. 
+ 
+Veiligheidsdomein 
+Het veiligheidsdomein betreft de (inter)nationale samenwerking om Nederland te beschermen 
+tegen dreigingen van binnenuit en van buitenaf. Hierin spelen de volgende cruciale processen: 
+ Het voorkomen van aanslagen door het bestrijden van extremisme en terrorisme; 
+ Het beschermen van Nederland tegen statelijke actoren, ook op het gebied van cyber 
+security; 
+ Het leveren van overheidsdiensten bij crises, calamiteiten, rampen. 
+2.2.7 (Basis)registraties van JenV 
+Binnen JenV worden onder de verantwoordelijkheid van de minister van JenV grootschalige 
+registraties aangelegd en bijgehouden. Het gaat momenteel om de volgende registraties: 
+ Het Openbaar Ministerie is belast met het beheer van strafvorderlijke gegevens in het 
+Geïntegreerd Processysteem Strafrecht (GPS) en in het Nieuw Appel Systeem (NIAS); 
+ de Strafrechtsketendatabank (SKDB), identiteitsvaststelling in de strafrechtketen; 
+ het Justitieel documentatiesysteem (JDS), In JDS worden alle misdrijven en een groot 
+aantal overtredingen (Justitiële Documentatie) geregistreerd aangaande natuurlijke en 
+rechtspersonen, zoals benoemd in de Wet justitiële en strafvorderlijke gegevens (Wjsg); 
+ het Informatieportaal Justitiabelen (Injus), gegevensuitwisseling over gedetineerden tussen 
+de Dienst Justitiële Inrichtingen (DJI) en gemeenten; 
+ het Generiek Casus Ondersteunend Systeem (GCOS), waarmee gegevens over jeugdigen 
+met complexe casussen worden uitgewisseld tussen de Veiligheidshuizen en andere 
+partijen binnen de Justitiële Jeugdketen voor een gezamenlijke analyse en plan van aanpak 
+voor kinderbescherming en het voorkomen en terugdringen van jeugdcriminaliteit; 
+ de Basisvoorziening Vreemdelingen (BVV), in de BVV worden biometrische en andere 
+gegevens verwerkt die op grond van de Vreemdelingenwet 2000 zijn afgenomen. Tevens 
+wordt er een uniek nummer per vreemdeling in de BVV gegenereerd; 
+ Bij de DJI wordt het register bijgehouden voor de inschrijving van justitiabelen gedurende 
+hun verblijf in een inrichting; 
+ Binnen de IND worden het register van Erkende Referenten en het Nationaliteitenregister 
+bijgehouden en beheerd in het Centraal Digitaal Depot. 
+2.3 Archiefsystemen en ordening 
+2.3.1 Archiefsystemen 
+In de periode van 1945 tot 1975 werd ongeveer elke inkomende en uitgaande brief en elk memo 
+geregistreerd. Door de groeiende omvang van de informatiehuishouding werd de registratiegraad 
+lager. In de jaren ‘90 werd nog slechts een deel van de inkomende en uitgaande informatie 
+geregistreerd. Dit gebeurde in diverse document management systemen, onder andere in Postdos 
+en Decos-Join. Maar met name de snel in omvang toenemende stroom e-mail werd niet 
+geregistreerd en ging vrijwel geheel buiten het officiële registratiesysteem om. Veel informatie 
+werd ook opgenomen op persoonlijke en gemeenschappelijke netwerkschijven, zonder in een 
+registratiesysteem te zijn vastgelegd. Een deel van die informatie werd ‘geschoond’ als de 
+schijfruimte vol dreigde te raken, of als er een bepaalde periode verstreken was. Daarnaast werden 
+binnen de bedrijfsvoering ook applicaties gebruikt, waarvan sommige voldeden aan 
+archiveringseisen en andere niet.  
+ 
+In de periode vanaf 1945 tot aan 2014 was het archiefsysteem van JenV fysiek. Elk 
+organisatieonderdeel vormde en beheerde zijn eigen papieren archief. Postdos is op het 
+departement in gebruik geweest vanaf 1990 tot 2014. In deze applicatie werden documenten niet 
+digitaal opgenomen, maar wel vanaf binnenkomst vastgelegd, inclusief de registratie van de 
+35

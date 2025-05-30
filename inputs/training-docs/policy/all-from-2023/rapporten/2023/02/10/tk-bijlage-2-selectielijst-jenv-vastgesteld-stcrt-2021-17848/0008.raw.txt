@@ -1,0 +1,26 @@
+Leeswijzer 
+Deze selectielijst bestaat uit twee delen: een toelichting (deel I) en de lijst met werkprocessen en 
+waarderingen (deel II). 
+Toelichting op de selectielijst (deel I) 
+Hoofdstuk 1 bevat het doel en de aanleiding voor het maken van een nieuwe selectielijst voor het 
+ministerie van Justitie en Veiligheid (JenV). Daarbij is kort ingegaan op de politieke, 
+maatschappelijke en praktische achtergronden om te komen tot een nieuwe selectielijst en tevens 
+op de reikwijdte van de lijst. Hoofdstuk 2 geeft een schets van de organisatorische en inhoudelijke 
+context, zoals de taken en verantwoordelijkheden van het ministerie JenV, de aanwezige 
+archiefsystemen en ordening in die systemen. Ten slotte komen in hoofdstuk 3 de inhoudelijke 
+totstandkoming van de selectielijst en een verantwoording van de waarderingen aan de orde. 
+Lijst met processen en waarderingen (deel II) 
+Deel II vormt het hart van de selectielijst. Het bevat de gestructureerde opsomming van 
+werkprocessen en de waarderingen (bewaartermijnen) van de informatie in relatie tot processen. 
+Informatie komt na bepaalde tijd voor vernietiging in aanmerking of is blijvend te bewaren.  
+De werkprocessen kennen waar mogelijk een hoog abstractieniveau. De indeling van de lijst is 
+gebaseerd op het bedrijfsfunctiemodel uit de Enterprise Architectuur Rijksdienst (EAR). Dit model is 
+een organisatie-onafhankelijke beschrijving van de taakgebieden (bedrijfsfuncties) van de 
+Rijksdienst.  
+Afbeelding 1: Bedrijfsfunctiemodel Rijksdienst 
+De bedrijfsfuncties zijn onderverdeeld in vier cluster: 
+Cluster 1: Besturingsfuncties (politieke functies, bedrijfsvoering, verantwoording en toezicht); 
+Cluster 2: Primaire bedrijfsfuncties (beleid en uitvoering); 
+Cluster 3: Onafhankelijke functies (kennis en advies, controle, toezicht en onderzoek); 
+Cluster 4: Ondersteunende functies (PIOFACH). 
+8

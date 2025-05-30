@@ -1,0 +1,43 @@
+Versiebeheer 
+Versie Datum Opmerkingen 
+0.1 21-11-2018 Aanpassingen Nationaal Archief verwerkt 
+0.2 29-1-2019 Aanpassingen Nationaal Archief verwerkt 
+0.3 13-2-2019 Aanpassingen Nationaal Archief verwerkt 
+0.4 27-3-2019 Commentaar Expert Meeting JenV verwerkt 
+0.5 20-11-2019 Opbouw document conform Belangen in Balans 
+0.6 13-12-2019 Commentaar Justis, WODC, IND, NCTV verwerkt 
+Nummering werkprocessen (deel II) aangepast 
+0.7 16-1-2020 Aanpassingen Nationaal Archief verwerkt 
+0.8 25-2-2020 Aangevuld met informatie uit onderzoek naar en gesprekken 
+met het Nederlands Forensisch Instituut (NFI), de Dienst 
+Terugkeer en Vertrek (DT&V), de Raad voor de 
+Kinderbescherming (RvdK), het Centraal Justitieel 
+Incassobureau (CJIB), de Justitiële Informatiedienst (JustID), 
+het Bureau Adviescollege verloftoetsing tbs (BAvt), het 
+secretariaat van de Adviescommissie voor Vreemdelingenzaken 
+(secretariaat ACVZ), het College voor de Rechten van de Mens 
+(CRM), het secretariaat van de Raad voor de 
+Strafrechtstoepassing en Jeugdbescherming (secretariaat RSJ), 
+en het secretariaat van de Commissie Schadefonds 
+Geweldsmisdrijven (CSGM) 
+0.81 30-4-2020 Opmerkingen Nationaal Archief op deel I verwerkt 
+0.82 15-5-2020 Besproken in de Privacy Board JenV 
+0.83 26-6-2020 Aanpassingen Openbaar Ministerie, aanscherping 
+onderbouwing deelname particuliere justitiële inrichtingen, 
+aanvullingen Justis, NCTV, DJI 
+0.9 2-6-2020 Finale review ten behoeve van het Nationaal Archief 
+0.91 9-6-2020 Aanvullingen diverse JenV onderdelen 
+0.92 12-6-2020 Aanvullingen diverse JenV onderdelen 
+0.93 1-7-2020 Geschoond en voorzien van opmerkingen Nationaal Archief 
+0.94 6-7-2020 Bespreking in het overleg “Migratieketen Archivering” en in de 
+“Stuurgroep Stukken Beter” 
+0.95 10-7-2020 Geschoond en voorzien van opmerkingen Nationaal Archief 
+0.96 15-7-2020 Aanvullingen van NFI, NCTV, CJIB 
+0.97 20-7-2020 Bespreking in het VSIP (voorportaal CIO-Raad) 
+0.98 12-8-2020 Bespreking in de CIO-Raad, na verwerking reacties VSIP 
+0.99 26-8-2020 Verwerking reacties CIO-Raad 
+0.991 1-9-2020 Ter advisering naar de externe deskundige 
+0.992 14-12-2020 Ter vaststelling naar het Strategisch Informatie Overleg 
+0.993 22-12-2020 Bestemd voor terinzagelegging 
+1.0 9-4-2021 Bestemd voor vaststelling en publicatie 
+7

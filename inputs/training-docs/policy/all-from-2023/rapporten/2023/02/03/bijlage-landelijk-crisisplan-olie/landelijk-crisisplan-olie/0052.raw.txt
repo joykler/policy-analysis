@@ -1,0 +1,43 @@
+Wij voorzien in ieder geval drie groepen prioritaire gebruikers. Afhankelijk van de mate van fysiek tekort en/of 
+kennis over de duur van het tekort kan naast groep 1 (meest prioritair) ook groep 2 en/of groep 3 van product 
+worden voorzien. De wijze waarop distributie plaatsvindt is uitgewerkt in het distributieplan en geen onderdeel 
+van het LCP-O.
+• Groep 1: Hulpdiensten en toe-/aan levering voedselvoorziening
+• Groep 2: Reparatie, onderhoudsdiensten vitale infrastructuur 
+• Groep 3: Overige verbruik binnen NL (via rantsoenering realiseren)
+Deze drie groepen zijn verder uitgewerkt in onderstaande concept-indeling, op basis van het theoretisch denkka-
+der en de lijst met ‘cruciale beroepsgroepen’ die ten tijde van de COVID-crisis is opgesteld. Het is aan de maatre-
+gelgroep prioritaire gebruikers (in afstemming met de vakdepartementen) om nadere detaillering aan te brengen. 
+Groep 1. Hulpdiensten en toe-/aan levering voedselvoorziening
+• Defensie
+• Zorg, inclusief productie en transport van medicijnen en hulpmiddelen
+• Voedselketen: de gehele voedselketen & bedrijfsprocessen van landbouwbedrijven (nadere differentiatie volgt) 
+• Transport van brandstoffen zoals kolen, olie, benzine en diesel, etc.
+• Media en communicatie: t.b.v. noodzakelijke informatievoorziening
+• Hulpverleningsdiensten (politie, ambulance, etc)
+• Noodzakelijke overheidsprocessen (Rijk, veiligheidsregio, OV-diensten zonder alternatief)
+• Infectieziektenbestrijding bij mens en dier 
+• Uitvaartdiensten (waar mogelijk inzet andere brandstof).
+• Infrastructuur en diensten met back-up voorzieningen hebben die draaien op diesel (noodzaak om een bepaalde 
+reserve voor dit doel achter de hand te houden)
+Groep 2. Reparatie, onderhoudsdiensten vitale infrastructuur 
+• Noodzakelijke overheidsprocessen (provincie en gemeenten, OV-diensten)
+• Vervoer van afval en vuilnis (waar mogelijk inzet van waterstof, elektrisch, benzine om diesel te besparen)
+• Reparatiewerkzaamheden-/onderhoud aan  onderdelen van vitale processen/ vitale infrastructuur 
+• Openbaar Vervoer & speciaal vervoer voor onderwijs (waar mogelijk inzet van waterstof, elektrisch, benzine om diesel 
+te besparen)
+• Leraren en medewerkers op scholen (differentiatie volgt).
+Groep 3. Overig binnenlands verbruik
+Overige binnenlandse verbruikers die niet onder de eerste twee groepen vallen, vallen in groep 3. Via rantsoe-
+nering aan de pomp wordt ervoor gezorgd dat verbruik binnenlands blijft, en dat buitenlandse verbruikers geen 
+diesel kunnen tanken. Dit zou bijvoorbeeld kunnen door een pasje of bonnetjessysteem. In het distributieplan 
+diesel dient dit nader uitgewerkt te worden.
+7.5 Afhank elijkheid vitale processen van olie(product)
+Onderstaande tabel geeft de lijst van vitale processen weer, met daarbij een duiding van de afhankelijkheid van 
+ruwe olie of een olieproduct. Een rood vlak in de laatste kolom geeft een hoge mate van afhankelijkheid weer. 
+Een oranje vlak geeft aan dat er wel enige afhankelijkheid is, maar dit geldt alleen voor een (regionaal) deel van 
+het vitale proces. Een groen vlak duidt op een (zeer) beperkte directe afhankelijkheid. Hierbij moet opgemerkt 
+worden dat er bij de uitval van elektriciteit in veel processen een afhankelijkheid van noodstroom aggregaten 
+optreedt. Deze afhankelijkheid in geval van elektriciteitsuitval is niet meegenomen in de duiding van 
+olie(product) afhankelijkheid van de vitale processen.
+52 | Landelijk Crisisplan Olie

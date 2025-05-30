@@ -1,0 +1,53 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+distributie naar de behandelende afdeling / ambtenaar en de bewaking van de voortgang van de 
+behandeling. Na afhandeling kwamen de stukken in het fysieke archief terecht.. 
+De processen voor beleidsvorming, besluitvorming en besturing door de onderdelen van het 
+departement worden sinds 2014 digitaal ondersteund met het document managementsysteem 
+(DMS) DigiJust. Ook de hoofdkantoren van de dienstonderdelen maken voor deze processen 
+gebruik van de applicatie of hebben een aansluiting gemaakt. De onderdelen hebben de keuze om 
+hier van af te wijken (comply or explain).  
+Centraal Digitaal Depot 
+Het bewaren van archiefbescheiden geschiedt bij een dienstonderdeel, tenzij het beheer is 
+ondergebracht bij een interne of externe dienstverlener. De permanent te bewaren 
+archiefbescheiden dienen te worden geplaatst in het Centraal Digitaal Depot (CDD+) beheerd door 
+de Justitiële Informatiedienst. De Bestuursraad heeft in november 2007 besloten het CDD+ aan te 
+wijzen als instrument binnen het ministerie voor de opslag van langdurig te bewaren 
+39
+archiefbescheiden, vooraf aan het overbrengen naar het Nationaal Archief.  
+De dossiers kunnen handmatig worden gevuld, maar ook automatisch via een koppeling tussen 
+CDD+ en informatiesystemen van de gebruikers. DJI maakt bijvoorbeeld gebruik van het CDD+ 
+voor dossiers over justitiabelen. Daarnaast wordt de archivering en uitwisseling van informatie in 
+de migratieketen ondersteund door het CDD+. Organisaties die hier onder meer van gebruik 
+maken zijn de IND, de DT&V en de DJI. Momenteel is een koppeling tussen DigiJust en het CDD+ 
+in de maak. Daarmee wordt beoogd om informatie over de besturing, beleids- en besluitvorming 
+duurzaam toegankelijk te beheren.  
+Leonardo en Exact 
+Daarnaast wordt op het departement Leonardo gebruikt. Dit is de naam van het (Oracle) 
+applicatie-landschap voor financiële administratie en inkoop voor de meeste onderdelen van JenV 
+en tevens voor de arbeidsadministratie van DJI. Het CJIB maakt gebruik van Exact.  
+Webarchieven 
+Voor webarchieven gelden de eisen uit de Richtlijn archiveren overheidswebsites (Nationaal Archief, 
+december 2018). Openbare websites van JenV zijn opgenomen in het Webregister Rijksoverheid. 
+Dagelijks wordt deze website geharvest via een Rijksbrede voorziening.  
+2.3.2 Ordening 
+Qua archief- en ordeningssystematiek heeft JenV na 1945 in principe altijd het dossierstelsel (ook 
+wel: zaaksgewijze ordening) gehanteerd. Dit houdt in dat dossiers zoveel mogelijk zijn gevormd 
+over een zaak (zaakdossier) of in een serie over soortgelijke zaken (seriedossier). Dossiers werden 
+veelal aangelegd door archiefmedewerkers op basis van een vooraf bepaalde ordening. Deze 
+ordening kwam voornamelijk neer op zogenaamde A-dossiers (zaaksdossiers) en C-dossier 
+(seriedossiers), waarvoor jaarlijks een actuele lijst werd gemaakt. In de basis hanteerde het hele 
+ministerie dezelfde nummeringssystematiek. 
+Met de introductie van DigiJust is deze werkwijze min of meer aangehouden. Ambtenaren dienen 
+tegenwoordig zelf hun documenten in DigiJust op te slaan. Als ordening worden in Digijust 
+categorieën uit het GWR model gebruikt, deels zonder dat de behandelende ambtenaren dit 
+merken. Deze ordeningscategorieën zijn in de loop der jaren aangevuld. De gehanteerde lijst geldt 
+als de voorloper voor voorliggende selectielijst.  
+Met de vaststelling van de voorliggende selectielijst zal de nummering van de daarin opgenomen 
+werkprocessen als ordening worden gehanteerd. Daarmee worden zaken / dossiers in DigiJust 
+vooraf gekoppeld aan een werkproces met een bewaartermijn, voor zover die in DigiJust worden 
+opgenomen (zoals eerder uiteengezet worden lang niet alle documenten opgenomen in DigiJust: 
+het betreft met name informatie over beleids- en besluitvorming en PIOFACH).  
+39
+ Uitvoeringsregeling archiefbeheer Veiligheid en Justitie 2014, https://zoek.officielebekendmakingen.nl/stcrt-
+2014-17939.html. 
+36
