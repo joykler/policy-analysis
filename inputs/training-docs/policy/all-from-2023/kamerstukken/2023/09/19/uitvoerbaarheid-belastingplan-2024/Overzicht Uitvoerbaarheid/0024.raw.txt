@@ -1,0 +1,50 @@
+4.3 Inkomstenbelasting winst 
+4.3.1 Aanpassing parameterwaarden 
+Voor de inkomstenbelasting winst (IH-winst) gelden dezelfde termijnen als voor de 
+inkomstenbelasting niet-winst. Verschil met de inkomstenbelasting niet-winst is dat het winstbegrip 
+niet gedetailleerd in de voorlopige-aanslagregeling is ingebouwd. Dit betekent dat ondernemers die 
+in de voorlopige aanslag al rekening willen houden met wijzigingen in het winstbegrip in de meeste 
+gevallen zelf initiatief moeten nemen om een gewijzigde voorlopige aanslag aan te vragen. In de 
+praktijk leidt dit niet tot problemen, omdat ondernemers er aan zijn gewend dat hun definitieve 
+aanslag, mede als gevolg van de fluctuaties in de winst, kan afwijken van de voorlopige aanslag.  
+Een beperkt aantal vrijstellingen, waaronder de ondernemersaftrek en de mkb-winstvrijstelling, zijn 
+wel als parameters in de voorlopige aanslag ingebouwd. Sommige parameterwaarden zijn 
+uitsluitend in de toelichting bij de voorlopige aanslag opgenomen.  
+4.3.2 Andere aanpassingen 
+Voor andere dan parameteraanpassingen gelden dezelfde termijnen als beschreven in 
+paragraaf 4.2.2 voor de inkomstenbelasting niet-winst.  
+4.4 Vennootschapsbelasting 
+4.4.1 Aanpassing parameterwaarden 
+De parameterwaarden in de (voorlopige) aanslagregeling vennootschapsbelasting (Vpb) zijn de 
+Vpb-tarieven en de schijflengten. Het uiterste moment voor aanpassing van parameterwaarden in 
+de vennootschapsbelasting wordt gedicteerd door de voorlopige aanslag. Om de voorlopige-
+aanslagregeling tijdig in productie te kunnen nemen, moeten de parameterwaarden uiterlijk 
+1 december van het jaar voorafgaand aan het belastingjaar (t-1) bekend zijn. De voorlopige 
+aanslag wordt aan het begin van boekjaar verstuurd. Het boekjaar kan het kalenderjaar zijn. Een 
+aantal belastingplichtigen kiest voor een gebroken boekjaar. 
+Omdat het tarief van de bronbelasting op basis van de wet gelijk is aan het hoge Vpb-tarief, moet 
+het tarief van de bronbelasting in de systemen worden aangepast als ook het hoge Vpb-tarief 
+wijzigt. Zie ook 4.18. 
+4.4.2 Andere aanpassingen 
+De specificaties voor de voorlopige-aanslagregeling – anders dan aanpassingen van 
+parameterwaarden – voor het belastingjaar t moeten bekend zijn op 1 maart (t-1).  
+De specificaties voor de definitieve aanslagregeling – anders dan wijzigingen van 
+parameterwaarden – voor belastingjaar t moeten vaststaan op 1 februari van datzelfde jaar t. Op 
+1 maart ontvangen de softwareleveranciers de specificaties. 
+4.5 Toeslagen 
+4.5.1 Aanpassing parameterwaarden 
+Voor toeslagen geldt net als voor de inkomstenbelasting dat de Dienst Toeslagen al vóór de 
+jaarwisseling begint met het vaststellen van rechten. Daarvoor start de Dienst Toeslagen in de 
+tweede helft van oktober (t-1) het proces massaal automatisch continueren (MAC), waarin circa 
+zes miljoen unieke huishoudens bericht krijgen over de hoogte van hun toeslag per 1 januari van 
+het volgende jaar (t). De toeslag voor januari wordt al in de tweede helft van december aan de 
+toeslaggerechtigden overgemaakt.  
+ 
+Met de verantwoordelijke beleidsdepartementen is de afspraak gemaakt dat zij de benodigde 
+parameterwaarden voor huurtoeslag, kinderopvangtoeslag en kindgebonden budget uiterlijk 16 
+oktober (t-1) bij Toeslagen aanleveren. Zodra de parameterwaarden binnen zijn, worden deze in 
+de systemen geladen en wordt het MAC-proces voor deze toeslagen gestart. Omdat de 
+premievaststelling voor de Zorgverzekeringswet niet eerder bekend is, wordt de standaardpremie 
+uiterlijk 13 november (t-1) aangeleverd. Dit is net op tijd om dit laatste element van de 
+zorgtoeslag nog aan het verder al geheel gereedstaande MAC-proces toe te voegen. Nadat het 
+24

@@ -1,0 +1,48 @@
+later investeert X ten behoeve van zijn campingbedrijf inderdaad in een bedrijfsmiddel C met een kostprijs 
+van € 2.000.000. Het bedrag van de herinvesteringsreserve ad € 800.000 wordt bij het campingbedrijf op de 
+balans in mindering gebracht op de aanschaffingskosten ad € 2.000.000 van het bedrijfsmiddel C dat door X 
+is aangeschaft, waardoor bedrijfsmiddel C voor een boekwaarde van € 1.200.000 op de balans van het 
+campingbedrijf komt te staan. In het veeteeltbedrijf (waarin de herinvesteringsreserve is gevormd) leidt dit 
+tot een opname in de winst van € 800.000 op basis van het voorgestelde artikel 3.54aa, tweede lid, Wet IB 
+2001, terwijl dit bij het campingbedrijf tot een negatief resultaat van € 800.000 leidt (de boekwaarde van 
+bedrijfsmiddel C ad € 2.000.000 is immers verminderd met het bedrag van de bij het veeteeltbedrijf 
+gevormde herinvesteringsreserve ad € 800.000, waarna het bedrijfsmiddel C voor een boekwaarde van 
+€ 1.200.000 op de balans van het campingbedrijf komt te staan). Het gezamenlijke bedrag van de winst die 
+X in dat jaar als ondernemer geniet uit beide ondernemingen (op basis van artikel 3.2 Wet IB 2001) is 
+derhalve – afgezien van andere opbrengsten – per saldo nihil. 
+ 
+Het voordeel van de voorgestelde maatregel is dat over de € 800.000 boekwinst niet direct hoeft te worden 
+afgerekend en dat het bedrag van de herinvesteringsreserve uit het veeteeltbedrijf een jaar later kan worden 
+benut voor een investering in het campingbedrijf. Doordat op basis van het voorgestelde artikel 3.54aa, 
+tweede lid, Wet IB 2001 het bedrag van de bij het veeteeltbedrijf gevormde herinvesteringsreserve ad 
+€ 800.000 bij het campingbedrijf in mindering wordt gebracht op de aanschaffingskosten van 
+bedrijfsmiddel C ad € 2.000.000, resulteert dit in een boekwaarde van bedrijfsmiddel C ad € 1.200.000, 
+waardoor de afschrijvingsbasis van dat bedrijfsmiddel lager is geworden en dus in de toekomst minder 
+afschrijvingskosten ten laste van de winst in aanmerking kunnen worden genomen. Door de lagere 
+afschrijving bij het campingbedrijf zal X in de loop van de jaren over de betreffende € 800.000 alsnog 
+belasting betalen. 
+Voor de duidelijkheid worden hierna de journaalposten bij de verschillende stappen weergegeven. 
+ 
+Stap 1 
+Verkoop bedrijfsmiddel B en vormen van een herinvesteringsreserve bij veeteeltbedrijf. 
+Aan Bedrijfsmiddel B (boekwaarde)      €    200.000 
+Kas      € 1.000.000 
+Aan Herinvesteringsreserve       €    800.000 
+ 
+ 
+Stap 2 
+Aanschaf bedrijfsmiddel C voor € 2.000.000 door campingbedrijf. 
+Bedrijfsmiddel C     € 2.000.000 
+Aan Kas         € 2.000.000 
+ 
+ 
+Stap 3a 
+Ingevolge het voorgestelde artikel 3.54aa, tweede lid, Wet IB 2001 wordt het bedrag van de 
+herinvesteringsreserve ad € 800.000 bij het campingbedrijf in mindering gebracht op de aanschaffingskosten 
+van bedrijfsmiddel C ad € 2.000.000, resulterend in een boekwaarde van bedrijfsmiddel C ad € 1.200.000. 
+Aan Bedrijfsmiddel C (vermindering  
+met bedrag herinvesteringsreserve)     €    800.000 
+Verlies     €    800.000 
+  
+Stap 3b 
+149

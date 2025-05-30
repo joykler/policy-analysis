@@ -1,0 +1,51 @@
+de Belastingdienst, omvang van de geraakte doelgroep, hoogte van financieel belang voor Schenk- 
+en Erfbelasting, beschikbaarheid van contra-informatie, aanpasbaarheid in papieren biljetten, 
+benodigd communicatietraject, technische omvang van de wijziging, etc. 
+4.7 Omzetbelasting 
+4.7.1 Aanpassing parameterwaarden 
+Zoals is beschreven in de ICT-ontwikkelaanpak voor de Belastingdienst, vraagt het omzetbelasting-
+28
+systeem sinds 2014 bijzondere aandacht . Het huidige systeem kan maximaal drie tarief-
+combinaties bevatten: de geldende tariefcombinatie en de twee voorafgaande tarieven. Onder een 
+tariefcombinatie wordt verstaan: een combinatie van het algemene en het verlaagde tarief. Als één 
+van de twee of beide tarieven veranderen, ontstaat een nieuwe combinatie. Een tariefcombinatie 
+moet tot 10 jaar na zijn geldigheid beschikbaar blijven in het systeem. Als gevolg hiervan is het 
+naar de huidige stand sinds 1 oktober 2022 (en tot 1 januari 2029) eenmalig mogelijk de 
+tariefspercentages voor de omzetbelasting aan te passen. Een daaropvolgende aanpassing is pas 
+mogelijk als de nieuwbouw van het omzetbelastingsysteem gereed is. Dit is naar verwachting op 
+zijn vroegst na het jaar 2026. Een wijziging van een tariefscombinatie moet uiterlijk 1 oktober 
+bekend zijn om deze per 1 januari van het volgende jaar te kunnen toepassen. Het bedrijfsleven 
+heeft een langere doorlooptijd nodig.  
+ 
+ 
+4.7.2 Wijzigingen in tariefsindelingen 
+Wijzigingen in de tariefsindelingen voor bepaalde goederen en diensten, bijvoorbeeld van het 
+verlaagde naar het algemene tarief binnen de bestaande tariefsstructuren, moeten voor de 
+Belastingdienst minimaal een maand van tevoren bekend zijn. Deze wijziging vergt geen 
+systeemaanpassing maar de 1-maandsperiode is nodig om wijzigingen te verwerken in de 
+communicatie (zoals op Belastingdienst.nl). Het bedrijfsleven dient de wijzigingen in de 
+administratie te verwerken en kan daarvoor een langere doorlooptijd nodig hebben. Dit is ervan 
+afhankelijk welke bedrijven door de wijziging worden geraakt en welk overgangsrecht van 
+toepassing is. 
+ 
+4.7.3 Andere aanpassingen 
+De dringend noodzakelijke systeemvernieuwing is gestart in 2022 en loopt minimaal door tot en 
+met 2026. Nieuwe wetgevingswensen en eventuele herprioritering van de systeemvernieuwing 
+kunnen hieraan in de weg komen te staan en kunnen leiden tot continuïteitsrisico’s en een latere 
+ingebruikname van een nieuw systeem. 
+ 
+Andere aanpassingen in het omzetbelastingsysteem moeten daarom per wijziging worden 
+onderzocht. Aanpassingen aan de structuur van het omzetbelastingsysteem zijn niet mogelijk tot 
+het huidige systeem is vervangen. De inpassing van nieuwe (Europese) wetgevingstrajecten gaat 
+ten koste van de beschikbare capaciteit voor andere trajecten zoals het vernieuwen van het btw-
+aangiftesysteem en het ketenplan omzetbelasting. Dit leidt tot een toenemend risico voor de 
+continuïteit van de btw-heffing.  
+ 
+De berichtenuitwisseling over de omzetbelasting met andere EU-lidstaten wordt ondersteund met 
+separate, wel aanpasbare applicaties. Wijzigingen van de van toepassing zijnde Europese 
+regelgeving worden door de Belastingdienst beoordeeld om te bezien of en op welke termijn deze 
+in de systemen kunnen worden verwerkt.  
+ 
+28
+ ‘Van werkend naar robuust’, p. 10, bijlage bij Kamerstukken II 2014/15, 31066, nr. 215. 
+26

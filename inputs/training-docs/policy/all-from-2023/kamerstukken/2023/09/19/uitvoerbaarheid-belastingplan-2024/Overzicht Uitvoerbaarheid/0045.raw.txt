@@ -1,0 +1,56 @@
+Voor veel maatregelen die primair bij middelketens liggen geldt dat ook I&B werkzaamheden 
+moet verrichten. Dit geldt voornamelijk wanneer deze raken aan de wijze van Innen en Betalen, 
+bijvoorbeeld wanneer dit een nieuw middel betreft. 
+Gegevens, inclusief Massale productie  
+De keten gegevens kent een moderniseringsinspanning en daarnaast moet er ook (met name 
+internationale) wetgeving geïmplementeerd worden binnen deze keten. Dit staat op gespannen 
+voet met elkaar. Er is ruimte nodig om modernisering tijdig te kunnen afronden, onder meer 
+samenhangend met de vervanging van de Data Warehouse Application (DWA). Ook na 2026 ligt 
+er in deze keten nog een moderniseringsopgave.  
+Generiek Kantoor en Toezicht (GKT) inclusief Bezwaar, Beroep en Klachten  
+GKT heeft een moderniseringsopgave. Om invulling te geven aan informatie-gestuurd toezicht en 
+in aansluiting op de uitvoerings- en handhavingsstrategie in het bijzonder worden er nieuwe ICT-
+oplossingen voor kantoorprocessen en toezicht ontwikkeld. Deze oplossingen worden gebaseerd 
+op generieke voorzieningen die o.a. functionaliteit bieden voor zaakgericht werken, 
+dossiervorming, regie en klantbeeld. We noemen deze voorzieningen generiek omdat ze 
+inzetbaar zijn in verschillende kantoorprocessen en voor verschillende belastingmiddelen. 
+Daarnaast richten we voor generiek kantoor o.a. zaakgericht werken, need to know e.d. in. Dit is 
+niet alleen voor toezicht- en handhavingsactiviteiten, maar ook rechtstreeks van belang voor 
+inning en betalingsverkeer, gegevens/klantbeheer, Interactie/Belastingtelefoon en 
+uitvalbehandeling voor alle middelen.  
+Tot eind 2025 ligt de prioriteit bij het ontwikkelen van de betreffende generieke voorzieningen en 
+bij de toepassing ervan voor ondersteuning van het bezwaarproces. GKT ontwikkelt generieke 
+voorzieningen die randvoorwaardelijk zijn voor de modernisering van het IV-landschap. Bij 
+knelpunten binnen GKT komt de planning om voor de meeste ketens het overgrote deel van het 
+achterstallig onderhoud in 2026 opgelost te hebben, onder druk. 
+Bedrijfsvoering (BV)  
+Het domein Bedrijfsvoering richt zich op de modernisering van de ICT-voorzieningen van de niet-
+primaire processen van de Belastingdienst en op het verder verbeteren van de administratieve 
+organisatie en interne controle. Een belangrijk speerpunt is het voldoen aan de Archiefwet en de 
+Wet open overheid (Woo). Het afgelopen jaar is onder andere gewerkt aan het project 
+datamanagement SAP: hiermee zijn grote bestanden geschoond, waardoor een stap is gezet om 
+te voldoen aan de archiefwet en de AVG. Het IV-landschap bestaat uit voorzieningen die 
+rijksbreed beschikbaar zijn, zoals het personeelssysteem, en uit oplossingen uit de markt, zoals 
+t.b.v. de financiële systemen. De inschatting is (op basis van het nu actuele beeld), dat voor 
+deze keten geen dilemma’s te verwachten zijn bij de implementatie van wetgeving. 
+Interactie, inclusief Ontvangen & Mededelen   
+De keten is verantwoordelijk voor de systemen waarmee de interactie met de buitenwereld 
+plaatsvindt. Wetgevingsinitiatieven die wijzigingen inhouden voor de interactie met de burger en 
+verwerkt moeten worden in aanpassingen in de aangifteformulieren vragen om inspanningen van 
+de keten. Per onderwerp gaat het om beperkte aanpassingen. In de totale stapeling kan dat 
+mogelijk tot knelpunten leiden en vertraging van de ambities t.a.v. modernisering. Grote 
+dossiers voor de keten zijn Single Digital gateway (2018-1084-2), eIDAS (2021-1101) en Pijler 2 
+(2022-R067).  
+Het aantal applicaties met technische schuld vermindert gestaag (nog 10 resterend t.o.v. 16 
+vorig jaar). Ook deze applicaties zullen in het kader van de moderniseringsprogramma’s de 
+komende jaren verder worden uitgefaseerd. Dit zal op termijn de onderhoudslast van de keten 
+gaan verminderen. Daartoe worden veel IT-projecten uitgevoerd die nodig zijn in het kader van 
+systeemvernieuwing en -vervanging en daarnaast om compliant te blijven aan Europese en 
+Nederlandse wet- en regelgeving. E.e.a. gaat hand in hand met een continue verbetering van de 
+dienstverlening aan burgers, bedrijven en intermediairs.  
+Analytics  
+Bij het domein Analytics is geen sprake van technische schuld. Wel is er sprake van grote 
+systemen die opnieuw aanbesteed moeten worden, omdat contracten aflopen. Dit is een 
+integrale moderniseringsopgave (opvolger Data Warehouse Application -DWA-) in samenwerking 
+met Gegevens en heeft migratie-impact voor alle ketens. De focus ligt in het domein Analytics op 
+45

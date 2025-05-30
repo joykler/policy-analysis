@@ -1,0 +1,46 @@
+Stel dat de rentelasten ter zake van geldleningen die Bank NL heeft verkregen van Bank A in het kader van 
+het interne liquiditeitsbeheer over een jaar 100 bedragen en de rentelasten ter zake van geldleningen die 
+Bank NL heeft verkregen van Bank B in dit kader 120 bedragen. Onder de huidige toepassing van de 
+minimumkapitaalregel worden - afhankelijk van de leverage ratio van de groep - de renten ter zake van de 
+geldleningen die Bank NL heeft verkregen van Bank A en Bank B van 100, onderscheidenlijk 120, in aftrek 
+beperkt. 
+Het voorgestelde artikel 15bd, tweede lid, aanhef en onderdeel b, Wet Vpb 1969 regelt dat de renten ter 
+zake van geldleningen die zijn verkregen van groepslichamen van in totaal 220 (100 Bank A en 120 Bank B) 
+niet onder renten ter zake van geldleningen worden begrepen onder de voorwaarde dat de belastingplichtige 
+aannemelijk maakt dat deze geldleningen die zijn verkregen van groepslichamen niet direct verband houden 
+met geldleningen die zijn verkregen van niet-groepslichamen. 
+ 
+Voorbeeld 3 
+Belastingplichtige Bank NL heeft een deelneming in Bank C. Bank NL is verbonden met Bank C in een groep. 
+Bank C is gevestigd in land X. Bank NL verricht het interne liquiditeitsbeheer van de groep. Bank NL wenst 
+nieuwe financiering aan te trekken van een derde. Bank NL bepaalt onder welke voorwaarden zij bereid zou 
+zijn een geldlening aan te gaan en leidt het onderhandelingsproces met de derde partij. Vervolgens draagt 
+zij Bank C op de overeenkomst van geldlening met deze derde af te sluiten en de ingeleende gelden binnen 
+de groep aan Bank NL door te lenen. Buiten het in opdracht van Bank NL ondertekenen van de contracten en 
+de juridische afhandeling hiervan heeft Bank C geen rol bij de externe geldlening. De geldlening die Bank NL 
+heeft verkregen van Bank C, en de daarbij behorende rentelasten, worden daarom geacht direct verband te 
+houden met een geldlening die is verkregen van een niet-groepslichaam en tellen daarom niet mee voor de 
+in het voorgestelde artikel 15bd, tweede lid, aanhef en onderdeel b, Wet Vpb 1969 opgenomen uitzondering.  
+ 
+Artikel XIII, onderdeel E (artikel 15be van de Wet op de vennootschapsbelasting 1969) 
+De voorgestelde aanpassing van artikel 15be, eerste lid, Wet Vpb 1969, in samenhang met het 
+voorgestelde artikel XLII (inwerkingtredingsbepaling), regelt dat met ingang van boekjaren die 
+aanvangen op of na 1 januari 2024 voor belastingplichtigen die het bedrijf van bank uitoefenen het 
+gedeelte van de renten ter zake van geldleningen dat op grond van deze bepaling niet in aftrek 
+komt, wordt bepaald aan de hand van de formule (10,6-L)/(100-L). Als gevolg van deze wijziging 
+worden de renten ter zake van geldleningen in aftrek beperkt voor zover de leverage ratio minder 
+bedraagt dan 10,6%. Daarnaast wordt in genoemd artikellid een tekstuele onvolkomenheid 
+hersteld. 
+ 
+Artikel XIII, onderdeel F (artikel 15bf van de Wet op de vennootschapsbelasting 1969) 
+De voorgestelde aanpassing van artikel 15bf, eerste lid, Wet Vpb 1969, in samenhang met het 
+voorgestelde artikel XLII (inwerkingtredingsbepaling), regelt dat met ingang van boekjaren die 
+aanvangen op of na 1 januari 2024 voor belastingplichtigen die het bedrijf van verzekeraar 
+uitoefenen het gedeelte van de renten ter zake van geldleningen dat op grond van deze bepaling 
+niet in aftrek komt, wordt bepaald aan de hand van de formule (10,6-ER)/(100-ER). Als gevolg van 
+deze wijziging worden de renten ter zake van geldleningen in aftrek beperkt voor zover de 
+eigenvermogenratio minder bedraagt dan 10,6%. 
+ 
+ 
+ 
+158

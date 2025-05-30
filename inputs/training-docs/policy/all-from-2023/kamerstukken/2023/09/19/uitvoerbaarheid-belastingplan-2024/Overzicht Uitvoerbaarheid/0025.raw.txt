@@ -1,0 +1,56 @@
+MAC-proces is gestart, is het niet meer mogelijk om met gewijzigde parameterwaarden in de 
+voorschotverstrekking in te grijpen. 
+ 
+4.5.2 Doorwerking wijzigingen in het toetsingsinkomen 
+De hoogte van een toeslag is onder meer afhankelijk van het toetsingsinkomen. In de praktijk is dit 
+het verzamelinkomen, of – indien geen aanslag inkomstenbelasting wordt opgelegd – het 
+belastbare loon in het jaar waarop de toeslag betrekking heeft. Het MAC-proces draait voorafgaand 
+aan het jaar (t-1), terwijl het toetsingsinkomen pas na afloop van het jaar (t+1) vaststaat. Dienst 
+Toeslagen maakt in het MAC-proces zoveel mogelijk gebruik van laatst bekende 
+inkomensgegevens. 
+ 
+In het verleden is het meermaals voorgekomen dat een wijziging in de loon-/inkomstenbelasting 
+per 1 januari doorwerkte naar het toetsingsinkomen voor toeslagen voor datzelfde jaar. In de 
+praktijk beschikt Dienst Toeslagen in de meeste gevallen niet over informatie waarmee kan worden 
+vastgesteld wat voor individuele toeslaggerechtigden het effect van die wijziging is voor hun 
+toetsingsinkomen. Dat blijkt pas als het toetsingsinkomen na afloop van het jaar is vastgesteld en 
+wordt gebruikt bij het definitief toekennen van de toeslag(en). 
+ 
+Om deze effecten te minimaliseren heeft Dienst Toeslagen de mogelijkheid om de inkomens te 
+indexeren naar een volgend jaar. Daarnaast wordt op basis van inkomens uit het verleden waar 
+nodig een aanpassing gedaan aan het inkomen in het MAC proces. Gedurende het jaar worden er 
+op inkomen activiteiten ondernomen om bijvoorbeeld snelle stijgers te attenderen op het 
+doorgeven van actuele inkomens. 
+ 
+Daarnaast kunnen toeslaggerechtigden ook zelf actie ondernemen om wijzigingen in hun 
+toetsingsinkomen die het gevolg zijn van aanpassingen in de loon-/inkomstenbelasting te laten 
+verwerken in de hoogte van hun toeslagenvoorschot. Doen zij dat niet, dan trekt Dienst Toeslagen 
+dat na afloop van het jaar recht in de vorm van een nabetaling aan de toeslaggerechtigde, of een 
+door de toeslaggerechtigde te betalen terugvordering.  
+ 
+4.5.3 Andere aanpassingen 
+De uiterste datum waarop andere aanpassingen moeten vaststaan, is sterk afhankelijk van de aard 
+van de wijziging. Kleine wijzigingen, waarbij op basis van bestaande gegevens regels worden 
+aangepast, moeten uiterlijk 6 tot 12 maanden voorafgaand aan het toeslagjaar vaststaan (t-1). 
+Grote wijzigingen waarbij bijvoorbeeld gebruik moet worden gemaakt van nieuwe gegevens 
+moeten minimaal 12 tot 18 maanden van tevoren vaststaan, afhankelijk van de mate van 
+ingrijpendheid van de aanpassing.  
+4.6 Schenk- en erfbelasting 
+4.6.1 Aanpassing parameterwaarden 
+De aangifte schenkbelasting wordt vaak na afloop van het kalenderjaar waarin de schenking 
+plaatsvond gedaan, maar kan al worden gedaan vanaf eind februari van het jaar waarop de 
+schenking ziet. Om de aangifte daartoe tijdig gereed te hebben, moeten aanpassingen van 
+parameterwaarden (bijv. hoogtes van vrijstellingen en tarieven) uiterlijk op 1 december in het jaar 
+daaraan voorafgaand (t-1) bekend zijn. De parameterwaarden voor de erfbelasting moeten uiterlijk 
+op 1 december van het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari van het volgende 
+jaar in de systemen van de Belastingdienst verwerkt te hebben. 
+ 
+4.6.2 Andere aanpassingen 
+In geval van wijzigingen van de aangifteproducten moeten de specificaties – anders dan 
+aanpassingen van parameterwaarden – voor het belastingjaar t bekend zijn op 1 maart (t-1) dit 
+i.v.m. een tijdige uitlevering van specificaties aan de softwareleveranciers. 
+ 
+Mogelijke aanpassingen die opkomen tijdens de parlementaire behandeling van het Belastingplan-
+pakket worden door de Belastingdienst beoordeeld om te bezien of het nog mogelijk is deze voor 
+jaar t te verwerken. In deze weging wordt onder andere gekeken naar stapeling in het portfolio van 
+25

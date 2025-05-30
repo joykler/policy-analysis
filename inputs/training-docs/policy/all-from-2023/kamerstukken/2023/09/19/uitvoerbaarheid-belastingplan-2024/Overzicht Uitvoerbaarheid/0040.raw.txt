@@ -1,0 +1,55 @@
+ICT 
+• In onderstaande tabel 4 zijn gegeven de gekozen scope (uitvoeringstoetsen Financiën 
+gepubliceerd zijn tussen Prinsjesdag 2022 en Prinsjesdag 2023) zijn er 68 maatregelen die een 
+beslag leggen op het IV-portfolio.   
+• Deze maatregelen zijn geclusterd naar keten/belastingmiddel. 
+• De tabel laat alleen de lead keten zien. Vaak levert een maatregel ook follow werk op voor een 
+of meerder ketens. 
+• In de kolommen ‘maakbaarheid systemen’ en ‘beslag portfolio’ is de inschatting uit de 
+uitvoeringstoets opgenomen. Deze oordelen kunnen als volgt zijn: 
+o ‘maakbaarheid systemen’: 
+▪ Groen: een groene vlag geeft aan dat de noodzakelijke aanpassingen in de 
+systemen tijdig kunnen worden verwerkt.  
+▪ Geel: een gele vlag geeft aan dat de aanpassing haalbaar is, maar dat daarbij 
+bepaalde risico’s moeten worden geaccepteerd of bijvoorbeeld in eerste 
+instantie bepaalde onvolledigheden zullen optreden.  
+▪ Rood: een rode vlag geeft aan dat niet alle vereiste aanpassingen van de 
+automatisering haalbaar zijn, met als gevolg dat aanzienlijke risico’s op fouten 
+optreden bij burgers en bedrijven of bij de Belastingdienst, Douane of 
+Toeslagen.  
+o ‘beslag portfolio’. Hier wordt een inschatting gegeven welk beslag het voorstel legt op 
+het IV-portfolio van de Belastingdienst, Douane en Toeslagen. Dit wordt aangegeven op 
+vijf niveaus:  
+▪ geen (NB: niet opgenomen in onderstaande tabel); 
+▪ jaaraanpassing; 
+▪ beperkt; 
+▪ middelgroot; 
+▪ groot. 
+ 
+Tabel 4: ICT 
+voorstel maakbaar- impact 
+heid portfolio 
+   
+Autoheffingen     
+Aanpassing forfaits in de BPM geel beperkt 
+Wijziging van de Wet op de motorrijtuigenbelasting 1994 - I groen beperkt 
+Wijziging van de Wet op de motorrijtuigenbelasting 1994 - III groen beperkt 
+Wijziging van de Wet op de bpm 1992 - beëindigen teruggaaf bpm groen beperkt 
+geldtransport 
+Verzamelsjabloon automaatregelen groen beperkt 
+Wijziging van de Wet op de bpm 1992 - verhogen vaste voet bpm groen beperkt 
+Herwaardering proceskostenvergoedingen WOZ en bpm groen jaaraanpassing 
+verzamelsjabloon eindejaarsregeling groen jaaraanpassing 
+waar 
+aangegeven 
+   
+BES     
+Belastingplan BES-eilanden 2024 - deel II groen middelgroot 
+Belastingplan BES-eilanden 2024 - deel I groen beperkt 
+Nultarief en vrijstelling voor de algemene bestedingsbelasting op de groen beperkt 
+invoer, levering en installatie van zonnepanelen, zonnecollectoren en 
+windturbines 
+   
+Douane     
+Implementatiebesluit richtlijnen accijns rood groot 
+40

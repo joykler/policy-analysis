@@ -1,0 +1,44 @@
+doorlooptijd voor een bepaalde wijziging te kunnen vaststellen. Door een gunstige samenloop van 
+wijzigingen of ontwikkelingen kunnen doorlooptijden soms korter blijken dan aangegeven.  
+ 
+De genoemde data en termijnen behoeven periodiek actualisering, als gevolg van onder meer 
+ontwikkelingen binnen het systeemlandschap en de beschikbaarheid en verdeling van capaciteit 
+binnen de Belastingdienst, Dienst Toeslagen en Douane. Het systeemlandschap is het geheel aan 
+software, hardware, licenties, koppelingen, etc. waarmee de informatievoorziening van de 
+Belastingdienst, Dienst Toeslagen en Douane wordt ondersteund. Het systeemlandschap van de 
+Belastingdienst, Dienst Toeslagen en Douane heeft afhankelijkheden met andere uitvoerders en 
+softwareleveranciers van het bedrijfsleven, maar ook met banken, notarissen, verzekeraars, etc.  
+ 
+ 
+ 
+Voorbeeld: inkomstenbelasting 2024 
+ 
+Ter illustratie van het in dit overzicht beschrevene is een voorbeeld uitgewerkt met de uiterste 
+data voor de inkomstenbelasting voor het belastingjaar 2024. Hierbij wordt uitgegaan van een 
+regulier parlementair behandelingstraject voor het Belastingplan.  
+ 
+• Op 21 september 2022 (ruim 15 maanden voor het betreffende belastingjaar) heeft de 
+Belastingdienst de specificaties vastgezet voor de voorlopige aanslag 2024. Vanaf dat 
+moment bouwt de Belastingdienst de programmatuur waarmee vanaf eind 2023 de 
+voorlopige aanslagen 2024 zullen worden opgelegd. 
+• Uiterlijk 17 november 2023 om 12:00 uur (ruim 1 maand voor het betreffende belastingjaar) 
+moeten bij de Belastingdienst de parameters bekend zijn waarmee de op initiatief van de 
+Belastingdienst massaal opgelegde voorlopige aanslagen 2024 worden berekend. Na 
+verwerking van deze parameters in de systemen start de productie van deze voorlopige 
+aanslagen. De verzending start zo snel mogelijk na de eerste week van december 2023. 
+• Begin december 2023 wordt in het burgerportal mijn.belastingdienst.nl de aanvraag voor de 
+voorlopige aanslag 2024 opengesteld. Daarmee kunnen burgers zelf een nieuwe, of 
+gewijzigde voorlopige aanslag aanvragen. Het burgerportal rekent op dat moment met de 
+parameters van na de stemmingen in de Tweede Kamer. 
+• Na stemmingen in de Eerste Kamer (medio december 2023) zet de Belastingdienst de 
+specificaties voor de definitieve aanslagregeling 2024 vast. Vanaf dat moment bouwt de 
+Belastingdienst de programmatuur waarmee de definitieve aanslagen 2024 zullen worden 
+opgelegd. 
+• Op 1 maart 2025 wordt het burgerportal mijn.belastingdienst.nl opengesteld voor de 
+aangifte inkomstenbelasting 2024. 
+• Ondertussen heeft de Belastingdienst op 19 september 2023 de specificaties vastgezet voor 
+de voorlopige aanslag 2025. Dit is precies een jaar na de start van de cyclus voor de 
+inkomstenbelasting 2024. 
+ 
+  
+15

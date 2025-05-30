@@ -1,0 +1,45 @@
+23
+• mogelijke samenloop met andere wijzigingen, bijvoorbeeld stapeling in het IV-portfolio , 
+bij handhavingsteams of bij de BelastingTelefoon; 
+• aanpassingen aan werkinstructies; 
+• benodigde doorlooptijd voor marktpartijen, voor zover een maatregel ook van hen een 
+aanpassing in de systemen of processen vraagt; 
+• omvang en kenmerken van de geraakte doelgroep; 
+• ontsluiting van nieuwe (contra)gegevens; 
+• tijdige aanpassing van de papieren en de digitale aangifte; 
+• benodigde communicatie. 
+ 
+INDICATIES OVERIGE WIJZIGINGEN  VOORBEREIDINGSPERIODE 
+  
+Loonheffingen  
+structuuraanpassingen in de rekenvoorschriften 6 maanden 
+(voor o.a. de loonbelastingtabellen) 
+ 
+beperkte wijzigingen op de gegevensset voor de 
+7 maanden 
+loonheffingen 
+ 
+rubriekswijzigingen in de gegevensset voor de 
+loonheffingen 9 maanden 
+ 
+  
+Inkomstenbelasting niet-winst  
+specificaties voor voorlopige aanslag 15,5 maanden 
+  
+  
+Inkomstenbelasting winst  
+specificaties voor voorlopige aanslag 15,5 maanden 
+specificaties voor de definitieve aanslag 31 december (t-1) 
+ 
+  
+Vennootschapsbelasting  
+specificaties voor de voorlopige aanslag 1 maart (t-1) 
+specificaties voor de definitieve aanslag 1 februari (t) 
+ 
+23
+ Het IV-portfolio is het geheel van aanpassingen in de software en hardware van de Belastingdienst, Dienst 
+Toeslagen en Douane waarvan het noodzakelijk/wenselijk is dat die op enig moment worden doorgevoerd. 
+Het portfolio bevat zowel noodzakelijk beheer en onderhoud als nieuw beleid en modernisering van het IV-
+landschap zelf. Binnen het portfolio moet prioritering plaatsvinden welke aanpassingen het meest 
+dringend/noodzakelijk zijn en welke voorstellen langer moeten wachten.  
+19

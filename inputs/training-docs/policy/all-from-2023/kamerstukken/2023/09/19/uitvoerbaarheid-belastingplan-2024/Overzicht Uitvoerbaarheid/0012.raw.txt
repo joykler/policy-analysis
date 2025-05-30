@@ -1,0 +1,52 @@
+wendbaarheid blijft echter beperkt zolang voor een deel van de stromen nog de oude applicaties 
+nodig zijn.  
+Door de keten Loonheffing zijn er stappen gezet binnen het project Vernieuwing Privé Gebruik 
+Auto en Bestelbus. Het systeem is nu wendbaarder en er is minder handmatig werk te doen in het 
+bezwaarproces. De keten Overige middelen heeft de modernisering van de bankenbelasting 
+afgerond en binnen de keten Schenk- en Erfbelasting zijn de moderniseringswerkzaamheden voor 
+het heffingssysteem voor de schenk- en erfbelasting (KOS) conform planning opgeleverd. Middels 
+de lopende vernieuwingen in de applicaties binnen de Keten Inning en Betalingsverkeer hebben we 
+de uitbetaling compensatieregeling Toeslagen kunnen realiseren. 
+Naast de moderniseringswerkzaamheden is de afgelopen periode onder hoge druk een applicatie 
+ter ondersteuning van het proces blokaansluiting gemaakt. Via deze applicatie kan een 
+tegemoetkoming voor energiekosten aangevraagd worden.   
+Vier grote opgaven op het gebied van modernisering zijn: uitfaseren Cool:Gen (gebruikt in de 
+ketens Vpb, IH en LH), modernisering OB, modernisering I&B en gegevenshuishouding op orde in 
+2025 in het kader van de AVG. Voor de vervanging van de grote Cool:Gen systemen van de ketens 
+LH, IH, en Vpb geldt dat deze in alle ketens onderweg is, en gepland is om eind 2026 te worden 
+afgerond. Het actuele beeld is dat die planning haalbaar is. Voor de omzetbelasting geldt dat de 
+eerste fase van de aanbesteding van een nieuw systeem is afgerond. De planning is dat 
+ondersteuning van het binnenlandse OB-proces in 2026 met het nieuwe systeem gerealiseerd zal 
+zijn. Overige OB-regelingen (zoals e-commerce en VAT-refund) worden in de jaren daarna 
+overgezet naar het nieuwe systeem. Voor de modernisering van de ICT voor Inning en 
+Betalingsverkeer geldt dat de planning op dit moment worden herijkt. Ten aanzien van het op orde 
+brengen van de gegevenshuishouding is de ambitie dat de gegevensmodellen voor alle als 
+'essentieel' aangemerkte administraties in 2024 op orde worden gebracht. 
+Modernisering is een grote opgave. ICT-systemen verouderen continu. Systemen die vandaag op 
+orde zijn, kunnen in de toekomst achterstallig onderhoud vormen. Het technisch op orde houden 
+van het ICT-landschap vraagt dus continu aandacht. Om te voorkomen dat er opnieuw 
+achterstallig onderhoud ontstaat moet nu en in de toekomst blijvend in modernisering worden 
+geïnvesteerd. De Belastingdienst stelt jaarlijks domeinarchitecturen, met daarin de gewenste en 
+noodzakelijke ontwikkelingen, en beheer- en onderhoudsplannen op, waardoor continu vooruit 
+wordt gekeken en geanticipeerd op ontwikkelingen.  
+In bijlage 2 wordt de stand per keten in meer detail toegelicht. U wordt daarnaast uitgebreider 
+geïnformeerd via het informatieplan Belastingdienst 2024-2028 dat naar verwachting in het laatste 
+kwartaal van dit jaar aan de Kamer verstuurd wordt. 
+Op basis van het actuele inzicht zijn de aandachtspunten: 
+• De keten Inkomensheffing (IH) staat voor grote uitdagingen (uitfaseren Cool:Gen in 
+combinatie met de implementatie van wetgeving die reeds is aangenomen). Gegeven deze 
+uitdagingen is het noodzakelijk beleidsmaatregelen in deze keten de komende jaren nog te 
+beperken tot aanpassingen van parameters en toelichtingen, totdat de modernisering is 
+afgerond. Er worden in deze keten de komende jaren extra medewerkers ingezet om de 
+moderniseringsactiviteiten conform de afgegeven planning te kunnen afronden.  
+• Voor de keten omzetbelasting wordt de modernisering van het binnenlandse systeem op 
+zijn vroegst voorzien in 2026. De livegang van het Hoofdspoor van het programma EU btw 
+e-Commerce is uitgesteld van december 2023 naar juni 2024. De Belastingdienst 
+waarborgt de dienstverlening door er zorg voor te dragen dat het Noodspoor onverminderd 
+blijft functioneren. Burgers (eenmanszaken), bedrijven en andere lidstaten ondervinden 
+geen hinder van de gewijzigde datum van de livegang. 
+• Ook voor andere ketens wordt het actuele meerjarige inzicht gegeven in bijlage 2. Op 
+hoofdlijnen is het beeld dat ook de andere ketens komende jaren zijn volgepland met 
+wetgeving en modernisering. Het is dus ook hier belangrijk dat beleidswijzigingen met 
+grotere impact op de ICT later in de tijd weg te zetten, na 2026. 
+12

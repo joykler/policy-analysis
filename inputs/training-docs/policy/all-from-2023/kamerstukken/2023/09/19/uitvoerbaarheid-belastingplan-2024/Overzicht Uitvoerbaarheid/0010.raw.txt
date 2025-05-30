@@ -1,0 +1,51 @@
+B. ICT 
+15
+Via de technische briefing afgelopen februari en via de ICT-brief die uw Kamer eveneens in 
+februari ontvangen heeft, bent u geïnformeerd over de ICT van de Belastingdienst. In deze brief 
+staat ook de toezegging uw Kamer jaarlijks in het actuele beeld mee te nemen via dit overzicht 
+uitvoerbaarheid behorende bij het Belastingplan. 
+Allereerst wordt nogmaals kort de context geschetst. Vervolgens wordt ingegaan op de stand van 
+de moderniseringsopgave en tot slot wordt u kort meegenomen in de voorliggende 
+prioriteringskeuzes die de komende periode op ons afkomen. 
+B.1 Context 
+Om beter overzicht over het geheel aan benodigde IV-werkzaamheden te krijgen en bewuster 
+beslissingen te nemen, is er een IV-portfolio ontwikkeld, het MJP, met een horizon van vijf jaar. 
+Dit MJP wordt driemaal per jaar geactualiseerd o.b.v. actuele ontwikkelingen binnen lopende 
+projecten en nieuw aangemelde initiatieven, waaronder nieuwe beleidsopdrachten, en kijkt ook 
+dan weer vijf jaar vooruit. Door beleidsvoornemens in een vroeg stadium inzichtelijk te maken kan 
+rekening gehouden worden met de mogelijkheden en onmogelijkheden in het ICT-landschap van 
+de Belastingdienst.  
+Het MJP van de Belastingdienst laat de volgorde, de planning en de toewijzing van ICT-capaciteit 
+zien. Het portfolioproces voor het MJP ondersteunt reguliere beleidsontwikkelingen en acute 
+ontwikkelingen. De impact is dan direct zichtbaar te maken. Denk bijvoorbeeld aan onvoorziene 
+maatregelen als gevolg van arresten zoals box 3 of de afgelopen periode genomen 
+energiemaatregelen.  
+Het MJP is de komende jaren volgepland (zie bijlage 2 voor de stand van zaken per keten). Het is 
+dus belangrijk beleidswijzigingen met grotere impact op de ICT later in de tijd weg te zetten, na 
+2026. Als urgente zaken toch in het portfolio moeten worden ingevoegd, gaat dat ten koste van 
+eerder geplande werkzaamheden en de bijbehorende toezeggingen. Zo'n herplanning leidt tot 
+inefficiëntie, omdat ingeplande specialistische ICT-capaciteit niet meer aansluit bij de gewijzigde 
+vraag.  
+B.2 Stand van zaken moderniseringsopgave  
+De moderniseringsopgave is voor sommige aandachtsgebieden (“ketens”) groter dan voor andere 
+(zie onderstaande figuur 2). We spreken van een grote moderniseringsopgave (kleur rood) als veel 
+of belangrijke systemen van een keten zodanig technisch verouderd zijn dat zij continuïteitsrisico’s 
+opleveren of aanpassingen belemmeren. Er zijn extra inspanningen nodig om de verouderde 
+systemen te moderniseren, bovenop het reguliere werk. We spreken van een kleine 
+moderniseringsopgave (kleur groen) als de meeste/belangrijkste systemen van een keten 
+technisch op orde zijn, zodat zij geen continuïteitsrisico’s of belemmering voor aanpassingen 
+opleveren.  
+In nagenoeg alle ketens is de moderniseringsopgave kleiner geworden en loopt de modernisering 
+conform planning. In figuur 2 laten we de voortgang zien ten opzichte van 2020 (lichtgekleurde 
+icoontjes) met een vooruitblik naar 2026 (de beweging 2020-2023-2026 is van rechts naar links 
+met de pijlen weergegeven). De situatie is daarmee verbeterd ten opzichte van vorig jaar: diverse 
+applicaties zijn gemoderniseerd en de technische schuld is afgenomen. Er ligt ook nog een 
+behoorlijke opdracht waarvoor komende paar jaar ruimte nodig is zodat deze modernisering tot 
+het gewenste resultaat leidt. In 2018 bevatte 52% van de applicaties van de ICT-organisatie 
+technische schuld. Begin 2023 was het percentage technische schuld gedaald tot 26%. De huidige 
+prognose, juli 2023, is dat de technische schuld eind 2023 23% bedraagt. 
+ 
+ 
+15
+ Kamerstukken II 2022/23, 31066, nr. 1174. 
+10

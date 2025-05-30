@@ -1,0 +1,50 @@
+Als gevolg van het internationale karakter van de belasting zware motorrijtuigen moeten 
+tariefsaanpassingen voor deze belasting ook door de andere verdragslanden worden bekrachtigd. 
+Na bekrachtiging van de tariefsaanpassing is de doorlooptijd voor de aanpassing 3 maanden (t-1). 
+Aanpassingen van de belasting zware motorrijtuigen kunnen ook op een ander moment dan 
+1 januari in werking treden.  
+4.10.2 Andere aanpassingen 
+Voor alle wijzigingen in de autoketen dient met een uitvoeringstoets te worden beoordeeld wanneer 
+ruimte voor de betreffende wijziging ontstaat. Voor mrb is een voorbehoud aan de orde op het 
+oude systeem voor personenauto’s. Mede in verband met de aankondiging van een volledig nie uwe 
+systematiek ‘betalen naar gebruik’ per 2030, zijn komende jaren geen aanpassingen mogelijk in de 
+oude IT-systemen. Ingrijpende aanpassingen op het mrb-stelsel kunnen alleen opgestart worden 
+als de IT-omgeving volledig is gemoderniseerd. Dit beeld wordt in de komende 2 jaar duidelijker. 
+Ingrijpende wijzigingen zijn daarom op zijn vroegst in 2026 aan de orde. 
+ 
+In verband met systeemvernieuwing voor de mrb en de overvolle IV-portfolio voor de bpm kunnen 
+tot 2025 geen ingrijpende wijzigingen in de bpm worden voorbereid (analyse etc.). Realisatie en 
+implementatie van wijzigingen in de bpm kan daarom op zijn vroegst in de loop van 2025 
+plaatsvinden. Dit ook gezien de (verwachte) benodigde werkzaamheden in de raakvlakken met 
+aanpalende systemen. Hiernaast wordt in de bpm een ingrijpende aanpassing gedaan i.v.m. de 
+afschaffing van de bpm-vrijstelling voor bestelauto’s van ondernemers (maatregel uit het 
+regeerakkoord). 
+ 
+De specificaties voor andere wijzigingen aan de systemen voor de belasting zware motorrijtuigen 
+moeten uiterlijk 1 april van het jaar voorafgaand (t-1) vaststaan om deze per 1 januari van het 
+volgende jaar te kunnen toepassen.  
+4.11 Dividendbelasting 
+4.11.1 Aanpassing parameterwaarden 
+De parameterwaarden waarmee teruggaafverzoeken dividendbelasting worden berekend 
+(percentages van de inhouding of het percentage van de teruggaaf), moeten uiterlijk op 1 
+november van het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari van het volgende jaar 
+te kunnen toepassen. Voor de aangifte dividendbelasting geldt dat op 1 november de 
+parameterwaarden helder moeten zijn, omdat er voor 2024 nog aanpassingen aan de applicatie 
+plaatsvinden.   
+4.11.2 Andere aanpassingen 
+De specificaties voor wijzigingen aan de systemen voor teruggaaf dividendbelasting moeten 
+uiterlijk 6 tot 12 maanden van het jaar voorafgaand (t-1) vaststaan om deze per 1 januari van het 
+volgende jaar te kunnen toepassen. Het systeem voor de aangifte dividendbelasting is recent nieuw 
+opgezet om nieuwe wetgeving te kunnen implementeren, maar deze vernieuwing is nog niet 
+afgerond. Daarna moet de ondersteuning voor de Wet Bronbelasting en (naar verwachting) de Wet 
+Minimumbelasting aan dit nieuwe systeem worden toegevoegd. Dat betekent dat (complexe) 
+wijzigingen in 2024 niet mogelijk zijn. 
+4.12 Kansspelbelasting 
+4.12.1 Aanpassing parameterwaarden 
+De parameterwaarden waarmee de aangifte kansspelbelasting wordt berekend moeten uiterlijk op 
+1 december van het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari van het volgende 
+jaar te kunnen toepassen.  
+4.12.2 Andere aanpassingen 
+De specificaties voor andere wijzigingen aan de systemen voor de kansspelbelasting moeten 
+afhankelijk van de complexiteit uiterlijk 6 tot 18 maanden van het jaar voorafgaand (t-1) vaststaan 
+28

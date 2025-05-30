@@ -1,0 +1,58 @@
+BIJLAGE 2: toelichting moderniseringsopgave per keten  
+ 
+ 
+Belastingmiddelen 
+ 
+Omzetbelasting (OB)   
+De systemen voor de omzetbelasting draaien nog op zeer oude technologie en moeten 
+vervangen worden. De helft van de applicaties (10 van de 20) van deze keten kent een 
+technische schuld. De omzetbelasting wordt gemoderniseerd met als doelstelling dat het ICT-
+systeem van de binnenlandse OB-regeling op zijn vroegst in 2026 gemoderniseerd is. De 
+aanbesteding voor het nieuwe systeem loopt nu. De eerste selectiefase is afgerond en er wordt 
+nu een dialoogfase gestart met de drie geselecteerde partijen.  
+Als dit is afgerond, worden andere regelingen in het nieuwe systeem opgenomen (zoals EU Btw-
+e-commerce en VAT-refund). Ook komt er na de modernisering weer ruimte voor het verwerken 
+van beleidswensen (veelal ook uit Europa) in de systemen. 
+De livegang van het Hoofdspoor van het programma EU Btw e-Commerce is uitgesteld van 
+december 2023 naar juni 2024. De Belastingdienst waarborgt echter de dienstverlening door er 
+zorg voor te dragen dat het Noodspoor onverminderd blijft functioneren. Burgers 
+(eenmanszaken), bedrijven en andere lidstaten zullen ook geen hinder ondervinden van deze 
+vertraging. 
+Autoheffingen  
+Bij de keten Autoheffingen is het percentage applicaties met een technische schuld sterk 
+afgenomen (van 100% in 2018 naar 21% in 2023). Dit komt omdat voor de keten 
+gemoderniseerde systemen in ontwikkeling zijn voor de MRB (vrachtwagens) en bpm 
+(parallelimport). Ook wordt er hard gewerkt aan de grote trajecten van zoals vrijstelling bpm 
+bestelauto’s en voorbereiden betalen naar gebruik. De ruimte voor nieuwe wijzigingen voor de 
+korte termijn is beperkt. O.a. de verdere modernisering MRB en bpm legt een groot beslag op 
+het portfolio. Als er nieuwe beleidswensen zijn, vergt dit goed overleg over 
+inwerkingtredingsdata. Aansluitend aan vernieuwing en wetgeving staan diverse gewenste 
+vernieuwingen gepland (digitalisering, dienstverlening, risicomodellen, etc.), die het voor 
+gebruikers van voertuigen gemakkelijker maken om aan hun belastingverplichtingen te voldoen. 
+Parameterwijzigingen en aanpassingen van werkinstructies zijn zonder herplanning mogelijk. 
+Inkomensheffing (IH)  
+De komende jaren (t/m 2026) werkt IH aan het moderniseren van het IV landschap 
+(rationalisatie Cool:Gen) en het implementeren van wetgeving die reeds is aangenomen (zoals 
+excessief lenen en het afschaffen van de middelingsregeling). Er worden in deze keten de 
+komende jaren extra medewerkers ingezet om de moderniseringsactiviteiten conform de 
+afgegeven planning te kunnen afronden. 
+De beschikbare Cool:Gen expertise zowel binnen als buiten de Belastingdienst wordt steeds 
+schaarser. Het aanpassen van dit systeem is nodig om wijzigingen in wetgeving voor de IH en 
+jaaraanpassingen te kunnen blijven verwerken. Hiernaast bestaat het risico dat storingen niet 
+goed meer opgelost kunnen worden, met gevolgen voor de belastingontvangstenstroom ten 
+aanzien van de inkomensheffing en gedeeltelijk de vennootschapsbelasting. Gegeven de 
+uitdagingen waar de keten IH voor staat is het noodzakelijk beleidsmaatregelen in deze keten te 
+beperken tot aanpassingen van parameters en toelichtingen. 
+Ook is de vormgeving van Werkelijk Rendement box 3 nog niet volledig rond met het risico dat 
+een grotere IV-inspanning nodig is dan nu voorzien. 
+Loonheffingen (LH)   
+Binnen de Keten Loonheffingen is er sprake van een relatief hoge technische schuld; deze 
+32
+problematiek is op 28 mei 2019 aan de Tweede Kamer gemeld ; in het vervolg hierop is het 
+Ketenplan Loonheffingen opgesteld. In de periode tot 1/1/2027 wordt onder meer de 
+modernisering van de twee kernapplicaties uitgevoerd (vernieuwing Heffen Loonbelasting en 
+Premies en vernieuwing Werkgeversadministratie). Ook zijn er door de keten stappen gezet 
+ 
+32
+ Kamerstukken II 2018/19, 31066, nr. 486. 
+43

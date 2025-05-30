@@ -1,0 +1,55 @@
+4.1 Loonheffingen 
+4.1.1 Aanpassing parameterwaarden 
+Voor de loonheffingen moeten wijzigingen veelal worden verwerkt in de software van externe 
+leveranciers die de aangepaste software leveren aan circa 775.000 inhoudingsplichtigen. Deze 
+inhoudingsplichtigen moeten op hun beurt tijdig hun loonadministratie op orde brengen. De 
+Belastingdienst onderhoudt hierover nauwe contacten met de softwareleveranciers. Daags na de 
+voorziene stemmingen over het Belastingplanpakket 2024 in de Tweede Kamer start bij de 
+Belastingdienst de verwerking van de parameterwaarden. De definitieve parameterwaarden voor 
+de loonheffingen 2024 worden uiterlijk op 17 november 2023 aan de softwareleveranciers 
+aangeleverd. 
+ 
+4.1.2 Andere aanpassingen 
+Binnen de Keten Loonheffingen is er sprake van een relatief hoge technische schuld; deze 
+24
+problematiek is op 28 mei 2019 aan de Tweede Kamer gemeld ; in het vervolg hierop is het 
+Ketenplan Loonheffingen opgesteld. In de periode tot 1 januari 2027 wordt onder meer de 
+modernisering van de twee kernapplicaties uitgevoerd (vernieuwing Heffen Loonbelasting en 
+Premies en vernieuwing Werkgeversadministratie). In de periode tot 2027 blijven kleine 
+beleidswijzigingen mogelijk. Bijvoorbeeld rubriekswijzigingen die op 1 april van het jaar 
+voorafgaand (t-1) bekend zijn, kunnen veelal per 1 januari daaropvolgend worden doorgevoerd. Na 
+1 april worden in beginsel alleen nog wijzigingen op de gegevensset doorgevoerd op grond van 
+wet- en regelgeving. Met de softwareleveranciers, UWV en CBS is de afspraak gemaakt dat zij de 
+conceptspecificaties voor de loonaangifte voor het volgende belastingjaar uiterlijk op 1 juli van het 
+25
+jaar voorafgaand (t-1) ontvangen.  De wijzigingen worden in de maand juni voorbereid en 
+moeten daarom begin juni bekend zijn. In de periode vanaf 2027 ontstaat er meer ruimte om 
+nieuwe wetgeving te implementeren.   
+4.2 Inkomstenbelasting niet-winst 
+4.2.1 Aanpassing parameterwaarden 
+Het uiterste moment voor aanpassing van parameterwaarden in de inkomstenbelasting wordt 
+gedicteerd door de voorlopige-aanslagregeling. Deze wordt uiterlijk op 17 november om 12:00 uur 
+van het jaar voorafgaand aan het belastingjaar (t-1) in productie genomen. Het doel van de 
+voorlopige-aanslagregeling is belastingplichtigen de verschuldigde inkomstenbelasting gespreid 
+over het jaar te laten betalen (‘pay as you earn’), dan wel hun teruggaaf in maandelijkse termijnen 
+te laten ontvangen. Hierdoor kan bijvoorbeeld de teruggaaf voor hypotheekrenteaftrek worden 
+ingezet voor de betaling van hypotheekrente. 
+ 
+Bij de doorlooptijden voor de aanpassing van parameterwaarden in de voorlopige-aanslagregeling 
+moet onderscheid worden gemaakt tussen: 
+a. de massaal op initiatief van de Belastingdienst opgelegde voorlopige aanslagen; en 
+b. de op verzoek van de belastingplichtige opgelegde voorlopige aanslagen. 
+ 
+• Ad a: de massaal op initiatief van de Belastingdienst opgelegde voorlopige aanslagen.  
+De Belastingdienst legt vanaf de tweede helft van december van het jaar voorafgaand aan het 
+belastingjaar (t-1) circa vier miljoen voorlopige aanslagen op. In de weken daarvóór vindt de 
+selectie plaats van belastingplichtigen die een voorlopige aanslag moeten ontvangen en wordt 
+berekend hoe hoog de voorlopige aanslagen moeten zijn. De parameterwaarden waarmee deze 
+selecties en berekeningen worden gemaakt, moeten uiterlijk op 17 november 12:00 uur (t-1) 
+bekend zijn. In de praktijk betekent dit dat de Belastingdienst bij het berekenen van de 
+ 
+24
+ Kamerstukken II 2018/19, 31066, nr. 486. 
+25
+ De gegevensset voor jaar t wordt uiteindelijk in december van jaar t-1 gepubliceerd in de Staatscourant. 
+22

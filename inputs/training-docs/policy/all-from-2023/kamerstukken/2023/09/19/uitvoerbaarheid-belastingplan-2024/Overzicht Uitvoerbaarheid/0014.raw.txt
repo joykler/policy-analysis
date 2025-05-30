@@ -1,0 +1,62 @@
+C. UITERSTE DATA AANPASSINGEN WAARDEN PARAMETERS EN 
+STRUCTUURWIJZIGINGEN BELASTINGDIENST, DOUANE EN TOESLAGEN 2023 
+1 Inleiding 
+ 
+De afgelopen zeven jaar heeft uw Kamer een overzicht ontvangen van uiterste data om 
+aanpassingen aan parameterwaarden en structuurwijzigingen tijdig en zorgvuldig te kunnen 
+17
+doorvoeren. Dit treft een actualisatie van het overzicht uit 2022.  
+ 
+Parameters zijn bestaande bedragen en percentages in de systemen van de Belastingdienst, 
+Douane en Dienst Toeslagen waarvan de waarden zich eenvoudig in een reguliere cyclus laten 
+aanpassen. Dit betreft dan niet alleen de wijziging van de parameter in de systemen, maar ook in 
+communicatie (website, instructies, rekenhulpen, brieven etc.). Veruit de meeste bedragen en 
+percentages waarmee de Belastingdienst, Douane en Dienst Toeslagen werken zijn parameters. 
+Voor de loon- en inkomstenbelasting kan bijvoorbeeld worden gedacht aan de tariefpercentages 
+voor de belastingschijven, de lengte van de belastingschijven, en de bedragen en percentages van 
+heffingskortingen per 1 januari.  
+ 
+Niet alle percentages en bedragen zijn echter parameters. Geen parameters zijn bijvoorbeeld: 
+1. getallen die ‘hard zijn geprogrammeerd’. Het gaat om percentages/bedragen die rechtstreeks 
+in de programmeercode zijn opgenomen; 
+2. getallen die niet uniform in de systemen zijn opgenomen. Een voorbeeld van deze laatste 
+categorie zijn de verhogingspercentages voor de specifieke zorgkosten. Deze worden toegepast 
+in de aangifteprogrammatuur, waarna het resultaat als onderdeel van een meeromvattend 
+bedrag aan de centrale systemen wordt aangeboden. Gevolg hiervan is dat het niet moge lijk is 
+bij de voorlopige-aanslagregeling rekening te houden met aanpassingen van de 
+verhogingspercentages. 
+ 
+De vaststelling of wel of niet sprake is van een parameter moet van geval tot geval plaatsvinden 
+door middel van een uitvoeringstoets. De introductie van een nieuw bedrag of een nieuw 
+percentage is nooit een aanpassing van de waarde van een parameter, maar vergt een 
+(ingrijpender) structuurwijziging. Voorbeelden van dergelijke structuurwijzigingen zijn de 
+introductie of het vervallen van een schijf in de loon- en inkomstenbelasting, of van een extra 
+‘knikpunt’ in een heffingskorting. 
+ 
+Hierna wordt een overzicht gegeven van de uiterste data waarop de waarden van parameters 
+kunnen worden gewijzigd (onderdeel 2). In het geval een genoemde datum is gepasseerd is het 
+niet meer mogelijk de parameter aan te passen en kan een wijziging bijvoorbeeld leiden tot 
+verschillen tussen de voorlopige en de definitieve aanslag inkomstenbelasting of de noodzaak 
+18
+tussentijds nieuwe loontabellen uit te brengen . Ook zijn de doorlooptijden voor andere 
+aanpassingen dan wijzigingen van de waarde van parameters opgenomen in het overzicht 
+(onderdeel 3). Deze doorlooptijden zijn sterk afhankelijk van de precieze aard en omvang van de 
+voorgestelde wijzigingen, waarbij in het bijzonder ook van belang is of: 1) een wijziging tot 
+aanpassing van de geautomatiseerde systemen moet leiden; en 2) een wijziging inpasbaar is in, of 
+juist moet concurreren met andere aanpassingen die in de systemen moeten worden 
+19
+doorgevoerd. De beschreven doorlooptijden geven dus weliswaar richting, maar van geval tot 
+geval is een individuele beoordeling in de vorm van een uitvoeringstoets noodzakelijk om de echte 
+ 
+1 
+Kamerstukken II 2015/16, 34302, nr. 118; bijlage bij Kamerstukken II 2016/17, 31066, nr. 352; bijlage bij 
+Kamerstukken II 2018/19, 31066, nr. 430; bijlage bij Kamerstukken II 2019/20, 35302, 6; bijlage bij 
+Kamerstukken II 2020/21, 35572, nr. 5 en bijlage bij Kamerstukken II 2021/22, 35927, nr. 6; bijlage bij 
+Kamerstukken II 2022/23, 36202, nr. 6. 
+18 
+Dit was het geval bij de novelle bij het Belastingplan 2016 (Uitvoeringstoets Novelle Belastingplan 2016; 
+bijlage bij Kamerstukken II 2015/16, 34360, nr. 3). 
+3 
+Het kan bijvoorbeeld gaan om klein en groot onderhoud van systemen, of andere (eerder) voorgenomen 
+wetswijzigingen die dezelfde systemen raken. 
+14

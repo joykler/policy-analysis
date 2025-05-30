@@ -1,0 +1,54 @@
+binnen het project Vernieuwing Privé Gebruik Auto. Er is minder handmatig werk te doen in het 
+bezwaarproces. En is het nu mogelijk om geautomatiseerd gegevens van het meldloket van het 
+ministerie van Sociale Zaken en Werkgelegenheid (SZWE) binnen te halen. Dit is nodig voor de 
+vaststelling van de belasting- en premieplicht in het kader van WagwEU (Wet 
+arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie). Met deze 
+geautomatiseerde koppeling kan dit efficiënter plaatsvinden. In de periode tot 2027 blijven 
+kleine beleidswijzigingen mogelijk. Bijvoorbeeld rubriekswijzigingen die voor 1 april bekend zijn, 
+kunnen veelal per 1 januari worden doorgevoerd. In de periode vanaf 2027 ontstaat er meer 
+ruimte om nieuwe wetgeving te implementeren.   
+Vennootschapsbelasting en dividendbelasting (VpB)   
+De keten VpB kent weinig eigen applicaties met een technische schuld. Het portfolio is echter wel 
+vol, waardoor nieuwe maatregelen idealiter met parameters worden ingevuld. De keten VpB 
+maakt gebruik van een grote applicatie van de keten Inkomensheffing, die gebaseerd is op het 
+oude technische platform Cool:Gen. De keten VpB staat de komende jaren voor een grote 
+moderniseringsopgave om onafhankelijk te worden van deze verouderde applicatie en deze 
+functionaliteit zelf in een nieuwe applicatie te realiseren. Tegelijkertijd wordt gewerkt aan veel 
+wijzigingen in wet- en regelgeving in internationaal verband, die invloed zullen hebben op de 
+keten, zoals EU-richtlijnvoorstel Pijler 2.  
+Overige middelen (OVM)   
+Van de 12 applicaties uit het applicatielandschap van Overige Middelen resteren er nog 4 met 
+een technische schuld, namelijk kansspelbelasting, teruggaaf milieubelastingen, aangifte 
+milieubelastingen en de oude applicatie bankenbelasting. De modernisering van de 
+bankenbelasting is dit jaar afgerond. Deze belastingmiddelen worden stapsgewijs aangesloten op 
+een nieuw generiek platform. Het tijdspad loopt naar verwachting tot eind 2026. 
+Beleidsvoornemens kunnen verwerkt worden, maar stapeling van wensen is een aandachtspunt. 
+Bij de keten liggen op dit moment veel vragen in het kader van de afbouwstrategie energieprijs. 
+Die leggen potentieel een fors beslag op de beschikbare capaciteit, zeker als het de introductie 
+van een nieuw middel betreft 
+Schenk- en Erfbelasting (S&E)  
+De keten Schenk- en Erf is technisch beter in staat om nieuwe voorstellen voor aanpassingen 
+voortvloeiend uit wet- en regelgeving te verwerken: meer beleidswijzigingen kunnen als 
+parameter worden ingevoerd. Dit komt onder andere doordat de moderniseringswerkzaamheden 
+zoals Klantoptimalisatie schenk- en erfbelasting (KOS) van de keten conform herijking zijn 
+opgeleverd. Verder is doorontwikkeling nodig om meer wendbaar te zijn ten behoeve van de 
+digitale interactie met burgers en bedrijven en ter ondersteuning van onze medewerkers, en 
+heeft de keten de komende jaren capaciteit nodig om achterstallig en noodzakelijk onderhoud & 
+beheer uit te voeren. Mochten er nieuwe beleidswensen zijn, dan ligt er een 
+prioriteringsvraagstuk.  
+FIOD  
+De IT-systemen die de dienstverlening van de FIOD ondersteunen zijn modern en geschikt om te 
+kunnen omgaan met nieuw beleid. Voor de FIOD is het essentieel om te blijven moderniseren, 
+om wendbaar te blijven en haar opsporingstaken goed uit te kunnen blijven voeren. 
+ 
+Generieke voorzieningen 
+Inning en Betalingsverkeer (I&B)  
+Het portfolio staat de komende jaren geheel in het teken van de vervanging van de systemen 
+voor de invordering. Ook na 2026 ligt er in deze keten nog een moderniseringsopgave. Nieuwe 
+wensen implementeren kan betekenen dat deze dan zowel in de oude als nieuwe omgeving 
+geprogrammeerd worden. De afgelopen periode is gewerkt aan het betaalgemak: via 
+klantportalen kan men actuele financiële en statusinformatie over vorderingen inzien en kan er 
+steeds vaker betaald worden via iDeal. De komende jaren wordt dit uitgebreid. Ook hebben we 
+binnen deze keten met de lopende vernieuwingen in de applicaties de uitbetaling 
+compensatieregeling Toeslagen kunnen realiseren.  
+44

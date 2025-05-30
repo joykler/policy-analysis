@@ -1,0 +1,58 @@
+voorlopige aanslagen de cijfers na de stemmingen over het Belastingplanpakket in de Tweede 
+26
+Kamer gebruikt. 
+• Nadat de berekening van de massaal opgelegde voorlopige aanslagen is gestart, is het niet 
+meer mogelijk daarin in te grijpen.  
+• Aanpassingen van parameterwaarden voor de inkomstenbelasting van na 17 november 12:00 
+uur (t-1), bijvoorbeeld in het geval van een novelle, kunnen nog wel worden verwerkt in de 
+definitieve-aanslagregeling voor jaar t die na afloop van het belastingjaar (t+1) wordt 
+opgelegd. Ook kunnen burgers zelf een nieuwe voorlopige aanslag vragen waarin wel met de 
+bijgestelde parameterwaarden wordt gerekend (zie hierna). De praktijk leert echter dat de 
+meeste burgers zo’n aanvraag niet doen. Optredende verschillen moeten worden 
+rechtgetrokken bij de definitieve-aanslagregeling na afloop van het jaar en resulteren dan in 
+terug te vorderen bedragen, of nabetalingen. Afhankelijk van de aangepaste 
+parameterwaarde(n) kan verrekening voor werknemers al eerder geheel of gedeeltelijk 
+verlopen via de loonheffingen. 
+ 
+• Ad b: verwerking van door belastingplichtigen zelf aangevraagde voorlopige aanslagen.  
+De Belastingdienst stelt belastingplichtigen in staat de door hen ontvangen voorlopige aanslag 
+bij te stellen, of zelf initiatief te nemen een voorlopige aanslag aan te vragen. Daartoe kunnen 
+zij gebruik maken van het burgerportal (mijn.belastingdienst.nl). Het burgerportal voor het 
+aanvragen van een nieuwe of gewijzigde voorlopige aanslag voor het eerstvolgende jaar gaat 
+begin december voorafgaand aan het belastingjaar (t-1) live. Het burgerportal rekent op dat 
+moment met de parameterwaarden zoals daarover in de Tweede Kamer bij het 
+27
+Belastingplanpakket is gestemd.  
+ 
+4.2.2 Andere aanpassingen 
+De specificaties – anders dan aanpassingen van parameterwaarden – voor de voorlopige aanslag 
+voor het jaar t moeten 15,5 maand voorafgaand aan het belastingjaar (t-2) bekend zijn om in de 
+voorlopige-aanslagregeling verwerkt te kunnen worden. Mogelijke aanpassingen die opkomen 
+tijdens de parlementaire behandeling van het Belastingplanpakket worden door de Belastingdienst 
+beoordeeld om te bezien of het nog mogelijk is deze ook in de voorlopige-aanslagregeling voor jaar 
+t te verwerken. In deze weging wordt onder andere gekeken naar stapeling in het portfolio van de 
+Belastingdienst, omvang van de geraakte doelgroep, hoogte van financieel belang voor 
+belastingplichtigen, beschikbaarheid van contra-informatie, aanpasbaarheid in papieren biljetten, 
+benodigd communicatietraject, technische omvang van de wijziging, etc. 
+ 
+Indien mogelijke afwijkingen tussen de voorlopige aanslag en definitieve aanslag worden 
+geaccepteerd, kunnen de specificaties voor de definitieve aanslag voor jaar t anders dan 
+wijzigingen van parameterwaarden worden gewijzigd tot 31 december van het jaar voorafgaand 
+aan het belastingjaar (t-1). Op 1 maart ontvangen de softwareleveranciers de specificaties. 
+ 
+ 
+26
+ De Belastingdienst legt voorafgaand aan 17 november (t-1) al 300 positieve en 300 negatieve voorlopige 
+aanslagen inkomstenbelasting t op. Dit is noodzakelijk om de verwerkingsstraat voor de voorlopige-
+aanslagregeling te testen. Na stemmingen Tweede Kamer beoordeelt de Belastingdienst of 
+parameterwijzigingen tijdens de behandeling in de Tweede Kamer voor deze aanslagen tot een andere 
+berekening leiden. De aanslagen waarvoor dit het geval is, worden aangepast. De belastingplichtigen die het 
+aangaat worden daarover geïnformeerd. 
+27
+ Indien onverhoopt parameterwaarden in de tweede helft van december moeten worden aangepast als gevolg 
+van een novelle, worden deze aanpassingen enkele dagen na de stemmingen in de Eerste Kamer in het 
+burgerportal doorgevoerd. In deze situatie wordt de verwerking van verzoeken om een voorlopige aanslag 
+aangehouden, zodat met de definitieve parameterwaarden kan worden gerekend. Het gevolg hiervan is dat de 
+voorlopige aanslagen later worden verstuurd dan gepland en er aanvullende opdrachten nodig zijn om 
+parameters aan te passen. 
+23

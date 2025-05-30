@@ -1,0 +1,46 @@
+om deze per 1 januari van het volgende jaar te kunnen toepassen. Tot in 2024 wordt het 
+aangiftesysteem vernieuwd. Dit kan invloed hebben op de doorlooptijd van gewenste wijzigingen. 
+4.13 Inning 
+Bij de introductie van een nieuw belastingmiddel moet ook altijd de aansluiting op de 
+inningssystemen worden gerealiseerd. De Belastingdienst werkt aan een vervangend systeem voor 
+de inning (uitfaseren ETM (Enterprise Tax Management). Op dit moment wordt de planning herijkt, 
+naar verwachting loopt dit project tot minimaal 2024. Tot aan de afronding hiervan zijn er beperkte 
+mogelijkheden voor wijzigingen vanuit wet- en regelgeving. Wijzigingen binnen heffingssystemen 
+die aansluiten op ETM zijn wel mogelijk, zoals bijvoorbeeld parameteraanpassingen of wijzigingen 
+van een heffingspercentage in de energiebelasting. Voor ingrijpender wijzigingen zoals nieuwe 
+middelen met impact op het traject uitfaseren ETM is in deze periode in beginsel geen ruimte.  
+Na deze periode moet rekening worden gehouden met een realisatieperiode van een half tot 1 jaar 
+voor aansluiting van nieuwe belastingmiddelen, mits wordt voldaan aan de standaard 
+aansluitvoorwaarden van heffen en innen. Als bijzondere variaties gewenst zijn, dan zal hiervoor 
+altijd een specifieke inschatting moeten worden gedaan hiervoor om te bepalen hoe ingrijpend het 
+is. 
+4.14 Assurantiebelasting 
+4.14.1 Aanpassing parameterwaarden 
+De parameterwaarden in het aangifteformulier voor de assurantiebelasting moeten uiterlijk op 
+1 november van het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari van het volgende 
+jaar te kunnen toepassen. Het bedrijfsleven heeft een langere voorbereidingstijd nodig, vanwege 
+onder andere het aanpassen van het in rekening te brengen bedrag bij hun klanten en de 
+communicatie hierover richting hun klanten. 
+4.14.2 Andere aanpassingen 
+De specificaties voor andere wijzigingen aan de systemen voor de assurantiebelasting moeten 
+afhankelijk van de complexiteit uiterlijk 6 tot 18 maanden van het jaar voorafgaand (t-1) vaststaan 
+om deze per 1 januari van het volgende jaar te kunnen toepassen.  
+4.15 Overdrachtsbelasting 
+4.15.1 Aanpassing parameterwaarden 
+De overdrachtsbelasting is een tijdstipbelasting. De notaris moet daarvoor op enig moment weten 
+welk tarief moet worden toegepast. De notaris geeft de verschuldigde belasting aan. De 
+parameterwaarden voor de overdrachtsbelasting moeten uiterlijk op 1 december van het jaar 
+voorafgaand (t-1) bekend zijn, om deze per 1 januari van het volgende jaar te kunnen toepassen. 
+ 
+4.15.2 Andere aanpassingen 
+De specificaties voor andere wijzigingen aan de systemen voor de overdrachtsbelasting, zoals 
+bijvoorbeeld toevoegen van extra vrijstellingen, moeten afhankelijk van de complexiteit uiterlijk 3 
+tot 9 maanden van het jaar voorafgaand (t-1) vaststaan om deze per 1 januari van het volgende 
+jaar te kunnen toepassen.  
+4.16 Bankenbelasting 
+4.16.1 Aanpassing parameterwaarden 
+Voor de bankenbelasting moet aangifte worden gedaan voor het eind van de 10e maand na de 
+datum waarop de balans of de geconsolideerde balans is opgemaakt. De bankenbelasting kent 2 
+tarieven. Een tarief voor kortlopende schulden (looptijd minder dan 1 jaar) en een tarief voor 
+langlopende schulden (looptijd langer dan 1 jaar). De parameterwaarden voor de bankenbelasting 
+29

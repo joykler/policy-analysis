@@ -1,0 +1,27 @@
+het blijven waarborgen dat voldaan wordt aan bestaand beleid. Een groot deel van het IT-werk is 
+gericht op het verbeteren van de kwaliteit van managementinformatie, de informatiebeveiliging 
+en de privacybescherming. Het domein Analytics blijft continu moderniseren zodat ook nieuwe 
+technieken en technologieën door de Belastingdienst veilig kunnen worden ingezet. Ook is er een 
+overstap gemaakt naar een nieuw platform voor data-analytics, dit verkleint de kans op 
+datalekken. De inschatting is (op basis van het nu actuele beeld), dat geen dilemma’s te 
+verwachten zijn bij de implementatie van wetgeving.  
+Infrastructuur “Rekencentrum” (IV)   
+De technische infrastructuur van de Belastingdienst wordt aangepast zodat aangesloten kan 
+worden op nieuwe technologieën zoals cloud en nieuwe methoden zoals Agile en DevOps 
+waardoor de kwaliteit, snelheid en wendbaarheid van de applicatieontwikkeling en –onderhoud 
+verbetert. 
+ 
+Douane en Toeslagen 
+Douane en Toeslagen 
+Om de aansturing te versterken zijn Douane en Toeslagen ontvlochten van de Belastingdienst en 
+als zelfstandige directoraten-generaal binnen het ministerie van Financiën gepositioneerd.  
+De IV-organisatie van de Belastingdienst levert ICT-systemen en -diensten niet alleen voor 
+het DG Belastingdienst, DG Douane en DG Toeslagen. Om die raakvlakken goed te laten werken, 
+zijn basis- samenwerkingsafspraken gemaakt. Bij de tweede herijking van 2023 zijn geen issues 
+op de raakvlakken geconstateerd. 
+Douane en Toeslagen informeren via de reguliere voortgangsrapportages de Kamer over de 
+status van de moderniseringsopgave 
+ 
+ 
+ 
+46

@@ -1,0 +1,37 @@
+moeten uiterlijk op 1 december van het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari 
+van het volgende jaar te kunnen toepassen.  
+4.16.2 Andere aanpassingen 
+De specificaties voor andere wijzigingen aan de systemen voor de bankenbelasting moeten 
+afhankelijk van de complexiteit uiterlijk 4 tot 18 maanden van het jaar voorafgaand (t-1) vaststaan 
+om deze per 1 januari van het volgende jaar te kunnen toepassen.  
+4.17 Bronheffing renten & royalty’s 
+4.17.1 Aanpassing parameterwaarden 
+De parameterwaarden voor de bronheffing renten & royalty’s moeten uiterlijk op 1 december van 
+het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari van het volgende jaar te kunnen 
+toepassen. Omdat het tarief van de bronbelasting op basis van de wet gelijk is aan het hoge Vpb-
+tarief, moet het tarief van de bronbelasting in de systemen en het aangifteformulier voor de 
+bronbelasting worden aangepast als ook het hoge Vpb-tarief wijzigt. De tariefsaanpassing is 
+beperkt in omvang en kan tijdig worden aangepast in de systemen. 
+ 
+4.17.2 Andere aanpassingen 
+De specificaties voor andere wijzigingen aan de systemen voor de bronheffing op renten & royalty’s 
+moeten afhankelijk van de complexiteit uiterlijk 9 tot 12 maanden van het jaar voorafgaand (t-1) 
+vaststaan om deze per 1 januari van het volgende jaar te kunnen toepassen.  
+4.18 Mijnbouwheffingen 
+4.18.1 Aanpassing parameterwaarden 
+De mijnbouwheffingen hebben betrekking op één aanslagbelasting (winstaandeel, welke is 
+gerelateerd aan de vennootschapsbelasting), en op twee aangiftebelastingen (cijns en 
+oppervlakterecht). De parameterwaarden voor al deze drie heffingen, moeten uiterlijk op 1 
+december van het jaar voorafgaand (t-1) bekend zijn om deze per 1 januari van het volgende jaar 
+te kunnen toepassen.  
+ 
+4.18.2 Andere aanpassingen 
+De specificaties voor andere wijzigingen aan de applicatie voor de mijnbouwwet, moeten, 
+afhankelijk van de complexiteit, uiterlijk 4 tot 18 maanden van het jaar voorafgaand (t-1) 
+vaststaan om deze per 1 januari van het volgende jaar te kunnen toepassen.  
+ 
+ 
+ 
+ 
+ 
+30
