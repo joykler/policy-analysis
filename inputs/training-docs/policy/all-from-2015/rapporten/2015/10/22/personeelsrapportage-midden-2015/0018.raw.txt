@@ -35,7 +35,4 @@ BP 12.450 12.273 4.021 3.443 16.471 15.716
 DEFENSIE MP 38.004 38.003 3.869 3.869 41.873 41.872
 TOTAAL 50.454 50.276 7.890 7.312 58.344 57.588
  
-* Door het gebruik van afrondingen kunnen er afwijkingen in de totalen ontstaan. 
- 
- 
-- 18 -
+* Door het gebruik van afrondingen kunnen er afwijkingen in de totalen ontstaan.

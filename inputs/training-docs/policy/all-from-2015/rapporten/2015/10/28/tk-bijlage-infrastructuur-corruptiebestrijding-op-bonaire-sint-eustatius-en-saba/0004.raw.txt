@@ -21,6 +21,4 @@ TI     Transparency International
 UNDP     United Nations Development Programme  
 VenJ     Veiligheid en Justitie  
 VNG     Vereniging Nederlandse Gemeenten  
-WolBes     Wet Openbare Lichamen Bonaire, Sint Eustatius en Saba 
- 
-4
+WolBes     Wet Openbare Lichamen Bonaire, Sint Eustatius en Saba

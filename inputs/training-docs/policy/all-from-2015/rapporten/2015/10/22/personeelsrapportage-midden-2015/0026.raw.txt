@@ -57,6 +57,4 @@ afhankelijk van het verloop van de gesprekken.
 Schaarstecategorieën betreft functiegebieden waarbij de bezetting gedurende langere tijd 
 achterblijft bij de geplande vulling. Dit kan meerdere oorzaken hebben zoals het meerjarig 
 onderrealiseren van de geplande instroom, een structureel vergrote irreguliere uitstroom, stagnatie 
-in de doorstroom of een combinatie van de drie factoren.  
- 
-- 26 -
+in de doorstroom of een combinatie van de drie factoren.

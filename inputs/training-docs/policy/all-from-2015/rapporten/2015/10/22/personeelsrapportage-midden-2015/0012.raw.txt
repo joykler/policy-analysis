@@ -42,6 +42,4 @@ TOTAAL militairen (inclusief NBOF) 40.676 40.678 41.189
 TOTAAL personeel Defensie 52.549 52.658 53.476
  
 * De aantallen voor schaal 16 t/m 18 en generaal zijn inclusief hoogleraren NLDA, die niet als 
-topfunctionarissen worden aangemerkt. 
- 
-- 12 -
+topfunctionarissen worden aangemerkt.
