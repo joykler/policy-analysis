@@ -1,0 +1,50 @@
+7.000
+6.000
+5.000
+4.000
+3.000
+2.000
+1.000
+0
+11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22
+Havo Mbo Vwo
+ 
+Figuur 2.11: Aantal instroomgerechtigde jongeren met een migratieachtergrond dat direct is doorgestroomd vanuit 
+havo, mbo en vwo naar het hoger onderwijs: (jaartal betreft jaar behalen diploma); betreft alle diplomacohorten 
+vanaf eindexamenjaar 2011-2012 (bron: DUO stroomdata) 
+Figuur 2.12 toont de directe doorstroom vanuit havo, mbo en vwo naar het opleidingsniveau van de ouders. 
+Dat opleidingsniveau is onderscheiden naar twee niveaus: beide ouders hebben geen ho-diploma (studenten 
+zijn dus de eerste generatie hoger onderwijs) en ten minste een van de ouders heeft een ho-diploma (geen 
+eerstegeneratiestudent). Gediplomeerden met een havo- of vwo-diploma waarvan beide ouders geen 
+diploma in het hoger onderwijs hebben (eerstegeneratiestudenten) stromen iets vaker direct door naar het 
+hoger onderwijs dan gediplomeerden van wie minstens één ouder hoogopgeleid is. De verschillen zijn klein 
+(vanuit havo 70% vs. 66% en vanuit vwo 79% vs. 75%). In het mbo is het patroon omgekeerd: daar stromen 
+(traditioneel) eerstegeneratiestudenten minder vaak direct door naar het ho dan studenten met ouders die 
+zijn opgeleid op ho-niveau. Dit verschil was er ook al voordat het studievoorschot is ingevoerd, maar is 
+sindsdien wel iets groter geworden. In dezelfde periode is ook de arbeidsmarkt aangetrokken. We kunnen 
+niet spreken van een causale relatie.  
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22
+Eerste generatie ho (havo) Eerste generatie ho (mbo) Eerste generatie ho (vwo)
+Ouder(s) ho-diploma (havo) Ouder(s) ho-diploma (mbo) Ouder(s) ho-diploma (vwo)
+ 
+Figuur 2.12: Gediplomeerden havo/vwo/mbo (%) die direct zijn ingestroomd in het ho naar opleiding ouders t.o.v. alle 
+gediplomeerden: betreft alle diplomacohorten vanaf eindexamenjaar 2011-2012 (bron: CBS microdata) 
+Om inzicht te krijgen in de achterblijvende doorstroom van eerstegeneratiestudenten met een mbo-
+diploma, toont figuur 2.13 zowel de directe als de indirecte (na 1 jaar) doorstroom van mbo-
+gediplomeerden. Het betreft hier alle studenten met een mbo-diploma die direct of na één jaar na 
+diplomering zijn ingestroomd in het hoger onderwijs. Diplomacohort 2021-2022 is hier niet getoond omdat 
+voor dit cohort alleen directe doorstroom nog maar mogelijk is. De achterblijvende doorstroom van eerste-
+generatiestudenten wordt een jaar later niet gecompenseerd met de indirecte instroom; ook als de directe 
+en indirecte doorstroom worden samengenomen, blijft de doorstroom van eerstegeneratiestudenten achter.  
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 34

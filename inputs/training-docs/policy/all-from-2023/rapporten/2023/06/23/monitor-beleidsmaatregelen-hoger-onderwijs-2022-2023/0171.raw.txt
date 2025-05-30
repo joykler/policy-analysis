@@ -1,0 +1,52 @@
+Omdat dit onderzoek zich met name richt op het stelsel en de landelijke stromen is ervoor gekozen een 
+onderscheid te maken tussen uitval (groep 1) en switch (studenten die in het hoger onderwijs blijven: groep 
+2). In een aantal figuren zijn deze twee groepen samengenomen onder het kopje ‘uitval en switch’: 
+studenten die de initieel gekozen opleiding niet voortzetten. Voor het bepalen van de status na twee jaar is 
+steeds de opleiding op T1 vergeleken met de opleiding op T3. Hierbij zijn de volgende groepen 
+aangemaakt: 
+Tabel 7.2: Indeling status na twee jaar (bron: 1cHO, eerstejaarscohorten 2010-2021) 
+Categorie Indeling 
+Niet meetbaar [instroom 2020 en 2021] - 
+Jaar 2 herinschrijver, jaar 3 herinschrijver Volgt nog steeds de opleiding van eerste inschrijving 
+Jaar 2 herinschrijver, jaar 3 switch 
+Tenminste 1x geswitcht 
+Jaar 2 switch, jaar 3 in ho 
+Jaar 2 uit ho, jaar 3 in ho Teruggekeerd in het ho na uitval 
+Jaar 2 herinschrijver, jaar 3 uit ho 
+Jaar 2 switch, jaar 3 uit ho Na 2 jaar uitgevallen 
+Jaar 2 uitval, jaar 3 uit ho 
+Studenten de Caribische delen van het Koninkrijk: CBS microdata 
+Om studenten de Caribische delen van het Koninkrijk zo goed mogelijk te identificeren wordt een koppeling 
+met de CBS microdata gemaakt om zo de migratiegeschiedenis van studenten te bepalen. Door een 
+combinatie van de migratiegeschiedenis en de onderwijshistorie kan zo bepaald worden wie in het 
+67
+(Europees) Nederlandse hoger onderwijs instroomt vanuit de Caribische Koninkrijksdelen. Dit gebeurt met 
+de volgende definitie: 
+▪ ingestroomd zijn in het hoger onderwijs (ad of bachelor); 
+▪ geen (bekende) eindexamenuitslag hebben in het voortgezet onderwijs in Europees Nederland; 
+▪ gemigreerd zijn van één van de Caribische eilanden naar Nederland; 
+▪ gemigreerd zijn in het kalenderjaar van eerste inschrijving in het hoger onderwijs of één kalenderjaar 
+daarvoor; én 
+68
+▪ 25 jaar of jonger zijn (ten tijde van eerste inschrijving in het hoger onderwijs). 
+ Omvang van uitval en switch in het eerste studiejaar 
+Figuur 7.1 laat zien dat de uitval en switch tot instroomcohort 2018-2019 redelijk stabiel was (tussen de 31 
+en 35%). Onder instroomcohorten 2019-2020 en 2020-2021 daalde de uitval en switch naar 25 procent, om 
+voor het laatste instroomcohort weer met vijf procentpunten toe te nemen naar dertig procent. Deze dertig 
+procent omvat ruim 40.000 eerstejaars ho-studenten die stopten met hun (in eerste instantie gekozen) 
+studie. Dit waren 27.552 hbo-studenten (34% van alle hbo-eerstejaars) en 12.869 wo-studenten (25% van 
+alle ho-eerstejaars).  
+ 
+Ruim 24.000 ho-studenten (18% van alle ho-eerstejaars) uit instroomcohort 2021-2022 kozen in het tweede 
+jaar voor een andere studie in het ho (switch), ruim 16.000 studenten (12% van alle ho-eerstejaars) 
+verlieten het hoger onderwijs (uitval). Onder instroomcohorten 2019-2020 en 2020-2012 was een sterke 
+daling (gevolgd door een stabilisering) in de uitval en switch te zien. Deze daling was naar alle 
+waarschijnlijkheid een gevolg van de coronamaatregelen: er waren voor studenten weinig alternatieven 
+voor doorstuderen zoals reizen en werken. Het aandeel uitval en switch onder studenten uit het 
+instroomcohort 2021-2022 ligt in hbo zo’n acht procentpunt hoger dan in het wo. Het verschil in uitval en 
+switch tussen wo en hbo is daarmee, na een aantal jaren daling, iets toegenomen (2 ppnt.). 
+ 
+67 Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba. 
+68 De leeftijdgrens van 25 jaar wordt gehanteerd omdat de focus ligt op doorstroom vanuit vervolgonderwijs en niet op postinitiële 
+onderwijsvolgers en ook omdat voornamelijk wordt vergeleken met ba-vt (m.n. 25 j. en jonger). 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 171

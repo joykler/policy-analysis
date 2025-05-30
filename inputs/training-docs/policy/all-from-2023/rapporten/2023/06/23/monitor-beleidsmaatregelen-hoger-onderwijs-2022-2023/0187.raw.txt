@@ -1,0 +1,52 @@
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+12 13 14 15 16 17 18 19 20 21 12 13 14 15 16 17 18 19 20 21 12 13 14 15 16 17 18 19 20 21 12 13 14 15 16 17 18 19 20 21
+Vwo > hbo: Vwo > hbo: Vwo > wo: Vwo > wo:
+eerste generatie ho ouder(s) ho-diploma eerste generatie ho ouder(s) ho-diploma
+Switch Uitval
+ 
+Figuur 7.26: Type eerstejaars uitval en switch (%) in hbo en wo naar opleiding ouders en vooropleiding (alleen vwo) 
+(bron: CBS microdata; van 65% van de records was het opleidingsniveau van de ouders bekend) 
+Figuur 7.27 laat een analyse van de uitval- en switchcijfers van studenten naar inkomensniveau van ouders 
+zien. Ook bij deze analyse is gebruikgemaakt van CSB microdata. In de CBS-analyses zijn alleen de uitval- 
+en switchcijfers van studenten geanalyseerd waarvan het inkomensniveau van de ouders bekend is: de 
+percentages kunnen afwijken van de hiervoor beschreven resultaten, omdat het om ongeveer 85 procent 
+van alle records gaat. Het inkomensniveau is ingedeeld in kwintielen: Q1 staat voor de laagste twintig 
+procent inkomens en Q5 voor de hoogste twintig procent. We zien dat studenten met ouders uit de laagste 
+inkomensgroep in zowel het hbo als het wo het vaakst uitvallen. Ho-studenten met ouders uit de op één na 
+laagste inkomensgroep switchen het vaakst. 
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+11 12 13 14 15 16 17 18 19 20 21 11 12 13 14 15 16 17 18 19 20 21
+Hbo Wo
+Q1 (uitval) Q2 (uitval) Q3 (uitval) Q4 (uitval) Q5 (uitval)
+Q1 (switch) Q2 (switch) Q3 (switch) Q4 (switch) Q5 (switch)
+ 
+Figuur 7.27: Eerstejaars uitval en switch (%) van voltijd bachelor instroom naar inkomen ouders (85% bekend) (Bron: 
+CBS microdata) 
+Om de onderlinge invloed van afzonderlijke kenmerken te bepalen en na te gaan of studentkenmerken in 
+samenhang elkaar mogelijk versterken, is een multivariate logistische regressieanalyse uitgevoerd op basis 
+71
+van CBS microdata. Hierin is de kans om na het eerste jaar uit te vallen of te switchen van studie afgezet 
+tegen de kans om na het eerste jaar binnen dezelfde opleiding en instelling door te gaan.  
+ 
+ 
+71 Met daarin geslacht, migratieachtergrond, opleidingsniveau van de ouders, huishoudensinkomen van de student, sector, jaar van 
+instroom en vooropleiding. 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 187

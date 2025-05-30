@@ -1,0 +1,54 @@
+Voor de instroom in associate degrees is een selectie gemaakt van de opleidingscodes groter dan 80000 en 
+lager dan 81000 (of de code type hoger onderwijs = ad) met een hoofdinschrijving die voldoet aan de 
+voorwaarde eerstejaars hoger onderwijs (‘=1’). Hiermee wordt alle eerstejaars instroom in een associate 
+degree meegenomen van degenen die voor het eerst in het hoger onderwijs instromen. Ook hier geldt dat 
+de studenten die bijvoorbeeld switchten van een hbo-bachelor naar een associate degree buiten 
+beschouwing zijn gelaten. In de figuren is steeds aangegeven of de figuur betrekking heeft op 
+voltijdstudenten of ook op duale studenten en deeltijdstudenten. 
+ 
+Voor de indeling in bètatechniek en overige studies is gebruikgemaakt van de indeling die de Platform 
+Talent voor Technologie hanteert (voorheen Platform Bèta Techniek). Deze indeling wordt geactualiseerd 
+door DUO en is door DUO verstrekt aan ResearchNed. Hierin zijn opleidingen per instelling in het hoger 
+onderwijs ingedeeld in vijf clusters, waarvan de eerste twee clusters (*) gelden als bètatechniek, te weten: 
+bèta natuur & techniek (*); studies met een bètagehalte >50% (*); lerarenopleiding bètatechniek; studies 
+met een bètagehalte <50% en overig hoger onderwijs. De typering van bètatechniek en niet-bètatechniek 
+(voor de berekening van de bètatoegang) voor het toeleverend onderwijs is gedaan op basis van de 
+profielen (havo-vwo) en de domeincodes (mbo). De opleidingen met de techniekindicatie ‘Technisch’ in het 
+crebo zijn aangemerkt als bètatechnische opleidingen, evenals de profielen (of combinatieprofielen) met 
+NG of NT in havo en vwo. 
+ 
+Voor de definitie van internationale studenten is gebruikgemaakt van de definitie zoals die is opgenomen in 
+het 1cHO. Internationale studenten zijn studenten die een vooropleiding hebben behaald in het buitenland, 
+óf een vooropleiding hebben die wordt geplaatst in de categorie ‘overig’ of in de categorie ‘onbekend’. 
+Verder hebben zij een niet-Nederlandse nationaliteit. Studenten met meerdere nationaliteiten waarvan er 
+een Nederlands is, worden niet beschouwd als internationale student. De definitie van ‘internationale 
+studenten’ is hiermee gebaseerd op velden uit het 1cHO: hoogste vooropleiding vóór het hoger onderwijs en 
+nationaliteit. De hoogste vooropleiding vóór het hoger onderwijs is daarnaast ook gebruikt in een aantal 
+figuren om na te gaan met welke diploma de bachelorstudenten zijn ingestroomd. Dit veld kan de volgende 
+waarden hebben: 
+▪ v(m)bo (regulier Nederlands diploma vmbo); 
+▪ havo (regulier Nederlands diploma havo); 
+▪ mbo (regulier Nederlands diploma mbo); 
+▪ vwo (regulier Nederlands diploma vwo); 
+▪ buitenlands (studenten met buitenlandse diploma of Europese school); 
+▪ overig (dit bevat: toelatingsexamens, colloquium doctum, vooropleidingsonderzoek, beschikkingen, 
+verklaringen toetsingscommissie, ministeriele beschikking, overige getuigschriften en niet voltooide 
+vooropleidingen); 
+▪ onbekend. 
+ 
+Van de categorie ‘onbekend’ wordt de grootste groep (indien deze categorie gecombineerd wordt met de 
+nationaliteit) gevormd door internationale studenten. Van hen zijn geen ‘officiële’ vooropleidingen 
+geregistreerd, maar door de combinatie met de nationaliteit is een groot deel van deze groep wel als 
+internationale student in dit rapport opgenomen.  
+ 
+Daarnaast is gebruikgemaakt van de Studentenmonitor hoger onderwijs (2015-2021) en de Startmonitor 
+Hoger Onderwijs (2009-2021) voor schattingen van de sociale herkomst van studenten en de vaststelling van 
+studenten met functiebeperking. Hierbij is gekeken naar studenten die ook daadwerkelijk in het onderwijs 
+belemmeringen ondervinden als gevolg van hun functiebeperking. Hiervoor is een selectie gemaakt van 
+19
+studenten met veel tot zeer veel belemmeringen tijdens hun studie als gevolg van hun functiebeperking.  
+ 
+19 In de Startmonitor is deze vraag de laatste drie jaar veranderd (het hebben van belemmeringen is in een filtervraag opgenomen). 
+Voor beide onderzoeken geldt dat na invoering van de AVG in 2018 een toestemmingsvraag is opgenomen bij de vraag over 
+functiebeperking. Dit kan verschillen geven met voorgaande jaren. Hiermee moet rekening gehouden worden bij de interpretatie. 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 28

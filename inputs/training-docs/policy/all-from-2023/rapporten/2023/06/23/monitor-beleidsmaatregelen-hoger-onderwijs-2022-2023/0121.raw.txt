@@ -1,0 +1,52 @@
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+08-09 09-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19
+Man Vrouw Wo
+ 
+Figuur 5.16: Opleidingsrendementen in het wo na 4 jaar (nominaal + 1) instroomcohorten 2008 t/m 2017 naar geslacht 
+(bron: ResearchNed, definities afgestemd met UNL) 
+Figuur 5.17 laat opleidingsrendementen zien van studenten in het hbo en wo naar opleidingsniveau van de 
+ouders. Studenten waarvan de ouders een ho-diploma hebben behaald, kennen, met name in het hbo, een 
+iets hoger opleidingsrendement, maar de verschillen zijn klein, net als in de voorgaande jaren. Om te 
+controleren voor andere studentkenmerken, is de kans op het behalen van een bachelordiploma in de 
+58 
+nominale duur plus één jaar ook onderzocht met behulp van een logistische regressieanalyse. Hieruit 
+blijkt, net als voorgaande jaren, dat voor hbo en wo het ouderlijke opleidingsniveau niet van invloed is op 
+het behalen van een diploma binnen de gestelde termijn. Het huishoudinkomen lijkt wél van invloed op het 
+opleidingsrendement; studenten afkomstig uit huishoudens met hogere inkomens behalen vaker het diploma 
+in de gestelde termijn. Studenten met een niet-westerse migratieachtergrond behalen hun diploma minder 
+vaak binnen de gestelde termijn (dit geldt sterker binnen het hbo). De sterkste voorspeller van het behalen 
+van het diploma is echter het geslacht; vrouwen behalen het diploma vaker binnen de nominale duur plus 
+één jaar dan mannen. In het hbo doen studenten met een mbo-achtergrond het nauwelijks beter of slechter 
+dan havisten. Wel blijkt over de gehele linie dat studenten een vwo-achtergrond, ook gecontroleerd voor 
+andere kenmerken, betere rendementen laten zien. Voor alle uitkomsten geldt dat, indien studenten aan 
+meerdere kenmerken voldoen, gevonden resultaten elkaar versterken. 
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+11-12 12-13 13-14 14-15 15-16 16-17 17-18 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19
+Hbo Wo
+Ouder(s) ho Eerstegeneratie
+ 
+Figuur 5.17: De ontwikkeling van opleidingsrendementen in het hbo na 5 jaar en wo na 4 jaar (nominaal +1) naar 
+opleidingsniveau ouders (bron: CBS microdata) 
+ 
+58 Op basis van CBS microdata.  
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 121

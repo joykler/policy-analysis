@@ -1,0 +1,55 @@
+In figuur 5.18 wordt het bachelorrendement van hbo- en wo-studenten weergegeven naar het inkomen van 
+hun ouders, gebaseerd op CBS microdata. Alleen de rendementen van die studenten waarvan van de ouders 
+bekend is wat het inkomensniveau is, zijn meegenomen in deze analyse; dat is 85 procent van alle 
+59
+records. De percentages kunnen hierdoor afwijken van de hiervoor beschreven resultaten. Zowel in het 
+hbo als in het wo is het aandeel studenten dat binnen de nominale tijd het diploma haalt het laagst onder 
+studenten waarvan de ouders in de laagste inkomensgroep vallen. Zeker in het hbo geldt: hoe hoger het 
+inkomen van de ouders, hoe hoger het bachelorrendement. Ook hier wijken rendementen tussen de 
+inkomensgroepen niet noemenswaardig af van voorgaande jaren; we zien geen groot COVID-19-effect. 
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+11-12 12-13 13-14 14-15 15-16 16-17 17-18 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19
+Hbo Wo
+Q1 Q2 Q3 Q4 Q5
+ 
+Figuur 5.18: Bachelorrendement (nominaal+1) voor hbo (diploma binnen 5 jaar) en wo (diploma binnen 4 jaar) naar 
+inkomen ouders (86% bekend) (bron: CBS microdata) 
+ Rendementen van studenten uit de Caribische delen van het Koninkrijk 
+Figuur 5.19 toont het aandeel studenten dat binnen de nominale tijd die voor de studie staat plus één jaar 
+het bachelordiploma heeft behaald. Daarbij wordt onderscheid gemaakt tussen studenten uit de Caribische 
+delen van het Koninkrijk, studenten met een niet-westerse migratieachtergrond en studenten met een 
+Nederlandse of westerse achtergrond. Studenten met een vooropleiding uit de Caribische delen van het 
+Koninkrijk halen zowel in het hbo als wo minder vaak (nominaal +1) hun diploma dan andere studenten, 
+ongeacht of zij een migratieachtergrond hebben. Van studenten uit de Caribische delen van het Koninkrijk 
+die in 2017-2018 aan een hbo-opleiding begonnen, haalde slechts één op de vijf het diploma binnen 
+nominaal plus één jaar. Ter vergelijking: onder Nederlandse studenten met een niet-westerse migratie-
+achtergrond ging het om 36 procent, bij hbo-studenten met een Nederlandse of westerse achtergrond was 
+dit 51 procent. Voor al deze groepen liggen de percentages hoger onder wo-studenten (resp. 25, 24 en 10 
+ppnt. hoger). Naar aanleiding van aanhoudende signalen over de achterblijvende studieprestatie van 
+studenten uit de Caribische delen van het Koninkrijk in Nederland, is onderzoek verricht naar belemme-
+ringen en verbeterpunten in de aansluiting van Caribische vooropleidingen naar het Nederlandse hoger 
+60
+onderwijs. Van de wo-studenten uit de Caribische delen van het Koninkrijk die in 2018-2019 met hun 
+studie startten, heeft iets minder dan de helft (46%) deze binnen nominaal plus één jaar afgerond. Onder 
+de groep studenten die in 2016-2017 startte, zagen we een lichte stijging in het percentage dat nominaal+1 
+afrondde, dit jaar en vorig jaar is dit echter weer iets gedaald. Studenten met een Nederlandse of westerse 
+achtergrond die in 2016-2017 en 2017-2018 startten, kenden haalden net iets minder vaak nominaal+1 hun 
+diploma dan studenten met niet-westerse migratieachtergrond. Inmiddels is dat weer net omgedraaid: 
+onder de laatstgenoemde groep gaat het om 60 procent, bij studenten met een Nederlandse of westerse 
+achtergrond om net iets meer dan zestig procent (61%). 
+ 
+59 Met name van internationale studenten zijn deze gegevens niet voorhanden in de CBS-omgeving. 
+60 Casteren, W. van, Cuppen, J., Termorshuizen, T., Sacré, R., Vegt, J. van der, Klooster, N. van ‘t & Leeuwen, J. (2021). 
+Studiesucces en -ervaringen van studenten uit de Caribische delen van het Koninkrijk. Nijmegen/Utrecht: ResearchNed/Andersson, 
+Elffers Felix 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 122

@@ -1,0 +1,53 @@
+Om de directe en indirecte doorstroom van bachelor naar master in kaart te brengen is een selectie 
+gemaakt van alle records van bachelorgediplomeerden. Aan deze gegevens is het jaar toegevoegd waarin 
+deze studenten voor het eerst zijn ingeschreven voor een master. Vervolgens is het jaar waarin de bachelor 
+is behaald vergeleken met het eerste jaar dat deze student is ingestroomd in de master. Hieruit komen de 
+volgende variaties in type doorstroom naar voren: 
+▪ (nog) geen doorstroom; 
+▪ doorstroom in het studiejaar voordat het bachelordiploma is behaald; 
+▪ doorstroom in hetzelfde studiejaar als waarin het bachelordiploma is behaald; 
+▪ doorstroom in het studiejaar nadat bachelordiploma is behaald; 
+▪ één of meer tussenjaren alvorens in te stromen in de master. 
+ 
+Tabel 4.2 toont de aantallen studenten naar type doorstroom per bachelor diplomacohort. De gearceerde 
+cellen worden beschouwd als de ‘directe doorstroom’. Deze groep bevat zowel de studenten die naar een 
+master doorstromen voordat zijn hun bachelor hebben behaald, studenten die doorstromen in hetzelfde 
+studiejaar als dat ze hun bachelor hebben behaald en studenten die aan een master beginnen in het studie-
+jaar volgend op het jaar waarin zij hun bachelor hebben behaald. In het vervolg van dit hoofdstuk vatten 
+we deze groepen samen als ‘directe’ doorstroom. De indirecte instroom bevat de groep ‘een of meer 
+tussenjaren’ (tussen de bachelor en de master, incl. studenten die een schakeljaar doen). De overige groep 
+is nog niet begonnen met een master. In de grafieken is (tenzij anders vermeld) de directe doorstroom 
+steeds afgezet tegen het totale diplomacohort. Informatie over de studieduur en researchmasters is 
+ontleend aan het CROHO. 
+Tabel 4.2: Bachelor diplomacohorten voltijd naar type doorstroom (bron: 1cHO 2010-2020) 
+  2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Hbo 
+(Nog) geen doorstroom 41.016 43.893 41.193 43.005 46.810 48.060 50.998 52.537 50.937 50.511 55.134 55.410 
+Vóór behalen bachelor 18 19 9 10 13 16 9 9 9 9 16 15 
+Zelfde studiejaar 57 29 27 36 23 25 19 21 30 27 117 70 
+Studiejaar na bachelor 1.565 1.729 1.635 1.792 1.651 1.768 1.796 1.939 2.084 2.383 2.710 2.266 
+Tussenjaren 6.311 6.292 5.661 5.673 6.012 6.399 7.049 7.021 6.585 6.160 4.171 0 
+Wo 
+(Nog) geen doorstroom 3.326 3.826 3.405 3.762 4.255 4.477 4.713 4.915 5.468 6.246 8.459 14.945 
+Vóór behalen bachelor 708 783 285 175 79 50 35 30 25 14 27 193 
+Zelfde studiejaar 2.485 1.830 811 392 336 179 212 239 237 193 3.047 2.215 
+Studiejaar na bachelor 18.586 22.411 22.454 22.822 23.941 22.333 22.165 21.962 23.017 25.037 25.363 22.591 
+Tussenjaren 2.878 3.960 3.809 4.076 4.781 5.930 6.533 6.356 6.207 5.183 4.431 0 
+Grijs gemarkeerde cellen zijn aangemerkt als ‘directe doorstroom’. 
+De ‘internationale studenten’ zijn gemarkeerd door DUO (en opgenomen in het 1cHO). Internationale 
+studenten zijn als volgt gedefinieerd: zij hebben hun voortgezet onderwijs (hoogste opleiding vóór het 
+hoger onderwijs of secondary education) behaald in het buitenland óf hun vooropleiding is ‘onbekend’ én 
+zij bezitten niet de Nederlandse nationaliteit. Als uitsluitend gekeken wordt naar de vooropleiding vóór het 
+hoger onderwijs, dan kan het zijn dat de officiële registratie van vooropleiding ‘buitenlands’ en 
+vooropleiding ‘onbekend’ apart worden weergeven. 
+ 
+De definitie van migratieachtergrond is ontleend aan het CBS (2016, oude definitie, zie voor toelichting de 
+inleiding): ‘Bij personen met een migratieachtergrond is ten minste één ouder in het buitenland geboren’. 
+Een persoon heeft volgens de definitie van het CBS bovendien een westerse achtergrond als hij, zij of één 
+van de ouders in Europa (exclusief Turkije), Noord-Amerika of Oceanië is geboren. Ook Indonesië en Japan 
+worden tot de westerse landen gerekend. Als een persoon of één van de ouders in een ander land is 
+49
+geboren, heeft deze persoon volgens de definitie van CBS een niet-westerse migratieachtergrond. 
+ 
+49 Zie: www.cbs.nl/nl-nl/achtergrond/2016/47/afbakening-generaties-met-migratieachtergrond 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 94

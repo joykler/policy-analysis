@@ -1,0 +1,57 @@
+Voor de doorstroom naar het hoger onderwijs zijn drie groepen onderscheiden naar de route die ze hebben 
+gevolgd; gediplomeerden op de niveaus mbo niveau 4, havo of vwo. Voor gediplomeerden uit het mbo zijn 
+alleen studenten uit de (voltijd) bol meegenomen. Voor studenten afkomstig uit de bbl geldt dat zij vaak 
+ouder zijn en al een baan hebben wat het minder waarschijnlijk maakt dat zij zullen doorstromen naar het 
+hoger onderwijs. Gediplomeerden uit de schooljaren 2010-2011 tot en met 2020-2021 zijn meegenomen in 
+deze analyses. Voor elke student is bepaald of hij het schooljaar na diplomering (t+1) of het schooljaar 
+daarna (t+2) is ingestroomd in het (bekostigd) hoger onderwijs (hbo of wo). Havisten die na diplomering zijn 
+ingestroomd in het vwo zitten in deze jaren nog in het vwo en kunnen dus (nog) niet zijn ingestroomd in het 
+hoger onderwijs. Zij zijn daarom buiten beschouwing gelaten bij de analyses over instroom in het hoger 
+onderwijs. In een aparte analyse is de doorstroom naar vwo vanuit havo bekeken. Voor de doorstroom-
+analyses is nagegaan of mbo, havo en vwo-gediplomeerden 1 en 2 jaar na hun diplomering zijn ingeschreven 
+in het hoger onderwijs. Daarnaast zijn voor elke student de ouder(s) opgezocht in het databestand en is, 
+indien bekend, het opleidingsniveau van de ouder(s) toegekend. Hierbij is een indeling gemaakt naar twee 
+categorieën: ten minste één van de ouders heeft een diploma behaald in het hoger onderwijs (geen eerste 
+generatie hoger onderwijs) of geen van beide ouders heeft een diploma behaald in het hoger onderwijs 
+(eerste generatie hoger onderwijs). Het hoogst behaalde niveau van één van de ouders is leidend. Indien 
+voor beide ouders het opleidingsniveau onbekend is, is de categorie ‘onbekend’ toegekend. 
+ 
+Daarnaast is er een koppeling met de CBS microdata gemaakt om zo de migratiegeschiedenis van studenten 
+te bepalen. Door een combinatie van de migratiegeschiedenis en de onderwijshistorie kan zo bepaald 
+worden wie in het (Europees) Nederlandse hoger onderwijs instroomt vanuit de Caribische 
+16
+Koninkrijksdelen. Dit gebeurt met de volgende definitie:  
+▪ ingestroomd zijn in het hoger onderwijs (ad of bachelor); 
+▪ geen (bekende) eindexamenuitslag hebben in het voortgezet onderwijs in Europees Nederland; 
+▪ gemigreerd zijn van één van de Caribische eilanden naar Nederland; 
+▪ gemigreerd zijn in het kalenderjaar van eerste inschrijving in het hoger onderwijs of één kalenderjaar 
+daarvoor; 
+▪ 25 jaar of jonger zijn (ten tijde van de eerste inschrijving in het hoger onderwijs). 
+Instroom in de bachelor 
+De analyse van de bachelorinstroom en de instroom in associate degrees is grotendeels gedaan op basis van 
+het 1cHO. Voor de definities van de instroomcohorten is aangesloten bij de definities die zijn afgesproken 
+met OCW. Dit houdt in dat de februari-instroom in alle jaren buiten beschouwing is gelaten en dat alleen 
+17
+degenen zijn meegenomen die voor het eerst zijn begonnen in het (domein) hoger onderwijs. Studenten 
+die switchen van hbo naar wo en vice versa en studenten die zijn geswitcht binnen het hbo of wo worden 
+dus niet gerekend tot de eerstejaars instroom in het hoger onderwijs, tenzij anders is vermeld. Dus 
+studenten die in een bepaalde ho opleiding eerstejaars zijn en al eerder in het hoger onderwijs hebben 
+gezeten tellen niet mee voor de instroom voor dat studiejaar. De volgende cohortdefinitie is gebruikt: 
+▪ hoofdinschrijvingen in het domein hoger onderwijs (in het hbo de code 1; in het wo de code 1 of A); 
+ 18
+▪ type hoger onderwijs is bachelor; 
+▪ het eerste jaar in het hoger onderwijs is gelijk aan het inschrijvingsjaar: dit houdt in dat alleen 
+studenten die staan ingeschreven op 1 oktober van desbetreffend studiejaar zijn meegenomen in de 
+instroomcohorten; 
+▪ de hoogste vooropleiding van de student is gelijk aan de hoogste vooropleiding vóór het ho: dat 
+betekent dat de student nog geen enkel diploma in het hoger onderwijs heeft behaald en dus een echte 
+eerstejaars hoger onderwijs is. 
+ 
+16 Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba 
+17 Cijfers die door de VH en VSNU worden berekend zijn (VSNU) inclusief de februari-instroom en gaan (VSNU en VH) uit van studenten 
+die voor het eerst in het hbo c.q. wo instromen. Bij de in dit hoofdstuk gepresenteerde cijfers wordt elke student in het hoger 
+onderwijs slechts één keer meegeteld, namelijk bij de hoofdinschrijving in het hoger onderwijs en is voor elk jaar de februari-instroom 
+buiten beschouwing gelaten. 
+18 Studenten die zijn ingestroomd in een associate degree zijn in een aantal tabellen afzonderlijk genoemd. Ze zijn niet 
+samengenomen met de bachelor, tenzij dit expliciet is vermeld. 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 27

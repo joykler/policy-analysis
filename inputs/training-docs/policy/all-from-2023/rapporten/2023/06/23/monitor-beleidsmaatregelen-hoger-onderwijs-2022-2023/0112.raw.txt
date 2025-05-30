@@ -1,0 +1,50 @@
+Studenttevredenheid 
+Gegevens over studenttevredenheid zijn ontleend aan de Studentenmonitor hoger onderwijs, waarin al 
+jaren een aantal dezelfde vragen uit de Nationale Studentenenquête (NSE) is opgenomen. Het gaat om een 
+aantal algemene tevredenheidsvragen. Voor deze editie is (wederom) geen gebruikgemaakt van gegevens 
+uit de (NSE). Reden hiervoor is het gebrek aan betrouwbare cijfers van de afgelopen twee jaren. In 2019 
+bevatte de NSE door problemen met het veldwerk niet voor alle opleidingen betrouwbare gegevens; in 2020 
+is de NSE vanwege COVID-19 niet doorgegaan.  
+Rendementscijfers 
+De rendementscijfers die zijn gebruikt zijn afkomstig uit het 1cHO. Voor de berekening van de 
+rendementen zijn de definities van de VH en de UNL gebruikt. Deze cijfers geven een beeld van de mate 
+waarin de studenten die starten aan een bacheloropleiding binnen nominaal plus één jaar (vier jaar wo of 
+vijf jaar hbo) een diploma halen. De rendementen zijn berekend op basis van de instroomcohorten voor de 
+cohorten 2009 t/m 2018 (wo) en 2008 t/m 2017 (hbo). De rendementsdefinities van hbo en wo komen niet 
+overeen; dat heeft te maken met een zuivere cohortdefinitie. Deze is voor het wo moeilijker te maken dan 
+voor het hbo (vanwege bijv. de doorstroom van hbo naar wo die verschillende vormen kan aannemen). Voor 
+het wo is berekend hoeveel studenten van een cohort binnen nominaal plus één jaar (binnen 4 jr.) een 
+diploma behalen in het wo (hierbij zijn switchers meegenomen: ‘rendement wo’) of in dezelfde opleiding 
+(bachelorrendement opleiding, excl. switchers: ‘rendement opleiding’). De cohortdefinitie betreft alle 
+studenten met een vwo-diploma die direct instromen in het wo (max. 1 jr. tussen behalen vwo-diploma en 
+instroom) en zich ook het tweede inschrijfjaar inschrijven (herinschrijvingen) in het wo en/of in dezelfde 
+opleiding. Voor het hbo zijn de cijfers gebaseerd op studenten die aan een opleiding beginnen in het hbo en 
+vervolgens binnen vijf jaar (nominaal +1) een diploma in het hoger onderwijs behalen (niet per se bij de 
+opleiding waaraan de student gestart is; ook ad-diploma’s worden meegeteld). Dus ook studenten die 
+switchen naar een andere opleiding worden meegerekend. Het betreft alle hoofdinschrijvingen van 
+studenten die zich in een bepaald studiejaar (cohort) voor het eerst hebben ingeschreven aan een 
+bacheloropleiding in het hbo. In het hbo zijn naast de totale rendementen ook de rendementen van de 
+belangrijkste vooropleidingsgroepen (vwo, mbo, havo) opgenomen. 
+Studievoortgang 
+De voortgang van studenten is met twee begrippen in kaart gebracht. Allereerst is direct aan studenten 
+gevraagd of zij op schema lopen of niet (ten opzichte van het schema van hun opleiding en ten opzichte van 
+de eigen ambities). Een tweede berekening is gebaseerd op het aantal studiepunten. Hierbij is het aantal 
+studiepunten dat behaald is gedeeld door het aantal studiepunten dat behaald had moeten worden. Een 
+waarde van ‘100’ betekent dat een student precies op schema loopt. 
+Inzet 
+De variabele inzet is gebaseerd op een serie stellingen in de Studentenmonitor over dit thema. Studenten 
+geven op een vijfpuntschaal aan in hoeverre de stellingen op hen van toepassing zijn. Voor de cursief weer-
+gegeven items geldt dat de scores zijn omgezet naar dezelfde richting (alpha 0,821) om de inhoud 
+eenduidig te maken. Het gaat om de volgende stellingen: 
+▪ Ik gebruik alle beschikbare tijd zoveel mogelijk om snel af te studeren; 
+▪ Ik probeer steeds een zo hoog mogelijk cijfer te halen; 
+▪ Ik vind het moeilijk om zelfstandig mijn studie te plannen; 
+▪ Mijn bezigheden buiten mijn studie verhinderen mij volledig op te gaan in mijn studie; 
+▪ Waarom zou ik de studie sneller afronden dan nodig is, het is de mooiste tijd van mijn leven; 
+▪ Ik kan alleen bij vlagen goed studeren; 
+▪ Ik ben tevreden over de studieprestaties die ik tot nu toe heb geleverd; 
+▪ Ik vind het moeilijk me in te spannen voor oninteressante studieonderdelen; 
+▪ Ik heb de neiging verplichtingen uit te stellen; 
+▪ Mijn zelfdiscipline is goed; 
+▪ Ik zou eigenlijk meer tijd moeten besteden aan mijn studie. 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 112

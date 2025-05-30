@@ -1,0 +1,50 @@
+Tabel 6.1: Ongewogen steekproefaantallen Studentenmonitor hoger onderwijs 
+ 
+11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22 Alle jaren 
+Hbo 3.959 7.404 6.171 6.041 5.239 7.079 6.918 7.570 4.082 4.535 2.568 70.442 
+Wo 7.864 8.925 6.939 9.102 6.116 7.231 8.494 7.562 10.974 12.683 7.205 105.870 
+Ho 11.823 16.329 13.110 15.143 11.355 14.310 15.412 15.132 15.056 17.218 9.773 176.312 
+Bachelor- en masterstudenten (voltijd); bij analyses is een weegfactor toegepast (bron: Studentenmonitor 2010-2021) 
+Een aantal van de getoonde indicatoren is bevraagd in de vorm van een Likertschaal (score 1-5). In de 
+figuren zijn doorgaans percentages weergegeven: dit is in de meeste gevallen het percentage van de groep 
+die een score van 4 of 5 invulde. De significantietoetsen zijn in die gevallen wel allemaal gebaseerd op de 
+Likertschalen (oorspronkelijke scores) dus niet op de percentages. 
+Studieachterstand en studievoortgang 
+In dit hoofdstuk worden twee begrippen gebruikt om na te gaan of studenten op schema lopen. Allereerst is 
+aan studenten direct gevraagd of zij op schema liggen ten opzichte van het schema van hun opleiding en 
+ten opzichte van hun eigen ambities. Dit wordt aangeduid met studieachterstand. Ten tweede wordt in dit 
+hoofdstuk ingegaan op studievoortgang. Deze is berekend op basis van het aantal studiepunten. Hierbij is 
+het aantal studiepunten dat behaald is, gedeeld door het aantal studiepunten dat behaald had moeten 
+worden. Een waarde van ‘100’ betekent dat een student precies op schema loopt. Tevens is in dit hoofdstuk 
+voor een aantal indicatoren een grafische presentatie weergegeven van de resultaten voor hbo, wo en het 
+totale hoger onderwijs en is getoetst of verschillen significant zijn. 
+Studie-inzet 
+Studie-inzet is gebaseerd op een serie stellingen in de Studentenmonitor over dit thema. Studenten geven 
+op een vijfpuntschaal aan in hoeverre onderstaande stellingen op hen van toepassing zijn. Voor de cursief 
+weergegeven items geldt dat de scores worden omgezet (1=5, 2=4, 4=2, 5=1) om de inhoud eenduidig te 
+maken. Het gaat om de volgende stellingen: 
+▪ Ik gebruik alle beschikbare tijd zoveel mogelijk om snel af te studeren 
+▪ Ik probeer steeds een zo hoog mogelijk cijfer te halen 
+▪ Ik vind het moeilijk om zelfstandig mijn studie te plannen 
+▪ Mijn bezigheden buiten mijn studie verhinderen mij volledig op te gaan in mijn studie 
+▪ Waarom zou ik de studie sneller afronden dan nodig is, het is de mooiste tijd van mijn leven 
+▪ Ik kan alleen bij vlagen goed studeren 
+▪ Ik ben tevreden over de studieprestaties die ik tot nu toe heb geleverd 
+▪ Ik vind het moeilijk me in te spannen voor oninteressante studieonderdelen 
+▪ Ik heb de neiging verplichtingen uit te stellen 
+▪ Mijn zelfdiscipline is goed 
+▪ Ik zou eigenlijk meer tijd moeten besteden aan mijn studie 
+ 
+Voor elke respondent wordt een gemiddelde score berekend voor ‘inzet’ op basis van de voorgaande elf 
+stellingen. Het gemiddelde ligt rond de 3,5; studenten die hoger dan 3,5 scoren worden ingedeeld in de 
+categorie ‘inzet bovengemiddeld’. 
+ Bijzondere groepen studenten 
+Zoals gezegd is sinds 2019 voor het eerst een uitgebreidere groepsindeling gemaakt van studenten die onder 
+bijzondere omstandigheden een opleiding volgen. Naast functiebeperking, zorg voor kinderen en mantel-
+zorgtaken is ook gekeken naar bijzondere of problematische omstandigheden (echtscheiding ouders, over-
+lijden van familieleden, verslaving, woon-/leefproblemen, relatieproblemen en zwangerschap/bevalling.  
+Deze groepsindeling in de Studentenmonitor staat in tabel 6.2. Hieruit valt af te lezen dat 57 procent van 
+de studenten tijdens de studie te maken heeft (gehad) met een functiebeperking en/of belast is met één of 
+meerdere bijzondere omstandigheden in de persoonlijke sfeer.  
+ 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 146

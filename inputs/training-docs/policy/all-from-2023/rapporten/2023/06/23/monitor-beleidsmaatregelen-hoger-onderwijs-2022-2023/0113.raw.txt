@@ -1,0 +1,51 @@
+Voor elke respondent wordt een gemiddelde score berekend voor ‘inzet’ op basis van de voorgaande elf 
+stellingen. Het gemiddelde ligt rond de 3,5; studenten die hoger dan 3,5 scoren, worden ingedeeld in de 
+categorie ‘inzet bovengemiddeld’. 
+ 
+In dit hoofdstuk is voor alle indicatoren een grafische presentatie weergegeven van de resultaten voor hbo, 
+wo en het totale hoger onderwijs, en is voor alle indicatoren getoetst of verschillen significant zijn. Waar 
+relevant en interessant zijn de extra uitsplitsingen (die niet in de figuur staan) beschreven in de tekst. Er 
+zijn dit jaar geen uitsplitsingen gemaakt naar wel of geen bètaopleiding, omdat deze variabele niet meer is 
+opgenomen in de Studentenmonitor. 
+Studenten uit de Caribische delen van het Koninkrijk: CBS microdata 
+Om studenten uit de Caribische delen van het Koninkrijk zo goed mogelijk te identificeren is een koppeling 
+met de CBS microdata gemaakt om zo de migratiegeschiedenis van studenten te bepalen. Door een 
+combinatie van de migratiegeschiedenis en de onderwijshistorie kan bepaald worden wie in het (Europees) 
+54
+Nederlandse hoger onderwijs instroomt vanuit de Caribische Koninkrijksdelen . Dit gebeurt met de 
+volgende definitie: 
+ 
+▪ ingestroomd zijn in het hoger onderwijs (ad of bachelor); 
+▪ geen (bekende) eindexamenuitslag hebben in het voortgezet onderwijs in Europees Nederland; 
+▪ gemigreerd zijn van één van de Caribische eilanden naar Nederland; 
+▪ gemigreerd zijn in het kalenderjaar van eerste inschrijving in het hoger onderwijs of één kalenderjaar 
+daarvoor; 
+▪ 25 jaar of jonger zijn (ten tijde van eerste inschrijving in het hoger onderwijs). 
+ Studieachterstand 
+Figuur 5.1 toont het percentage voltijd bachelorstudenten dat naar eigen zeggen een studieachterstand of 
+studievertraging heeft. Net als vorig studiejaar heeft bijna veertig procent van de bachelorstudenten een 
+studieachterstand. In vergelijking met vorig jaar is dit aandeel binnen het hbo significant veranderd 
+(afname van 2 ppnt.; binnen wo geen significant verschil). Wo-studenten geven in het laatste jaar vaker aan 
+een achterstand te hebben dan hbo-studenten. In dit jaar geven tevens studenten met een niet-westerse 
+migratieachtergrond, eerstegeneratiestudenten, mannen, ouderejaars, uitwonende studenten en studenten 
+waarvan de ouders onder modaal verdienen vaker aan dat zij een studieachterstand hebben dan hun directe 
+vergelijkingsgroepen.  
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22
+Hbo Wo Ho
+ 
+Figuur 5.1: Percentage voltijd bachelorstudenten met studieachterstand (bron: Studentenmonitor 2012-2021) 
+  
+ 
+54 Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba. 
+Monitor Beleidsmaatregelen hoger onderwijs 2022-2023 | 113
