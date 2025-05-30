@@ -1,0 +1,56 @@
+ontvangen
+r:
+Kostensoort
+gedeclareerde
+1
+Dec
+146943
+reisdeclaratie
+mme
+tijdstip
+u
+reis: tim
+Toelichting:
+Wijze van
+Te
+[
+ratien
+Naam;
+17:00
+en
+Route: Vertrekpunt: Haag
+Den
+vervoer:
+Kosten
+09/09
+35,20
+.sovertd
+Reisgegevens:
+Reisdatum 09/09/2013 09/09/2013
+21:00
+Reden:
+vervoer:
+Rijnstraat
+Bestemming Enkhuizen Stationsplein
+Datum
+(Euro)
+vervoer
+35,20
+Pagina:
+Overzicht
+la
+Personeelsnummer:
+Openbaar vervoer
+openbaar
+Bedrag
+t
+Ri
+Betaalbewijs
+Openbaar
+kosten
+vereist
+3520
+Subtotaal
+X
+/
+1
