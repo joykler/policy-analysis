@@ -44,5 +44,4 @@ species (goats, rats, green iguanas).
 Goat control project 
 In January of 2022, the OLS started a bounty period as part of its goat control project. Here 
 local goat owners are incentivized to take part in the removal of their goats. A year later, 
-approximately 2,000 goats have been removed. Phase 2 of the bounty period will be executed 
-8
+approximately 2,000 goats have been removed. Phase 2 of the bounty period will be executed
