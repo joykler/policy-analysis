@@ -42,4 +42,3 @@ Ontvangsten internationaal ondernemen 9.315 -4.183 5.132
 21 Ontvangsten OS 31.176 33.110 64.286
 Totaal  68.558 35.814 104.372
 TOTAAL ONTVANGSTEN 144.390 74.081 218.471
-32

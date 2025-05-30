@@ -39,4 +39,3 @@ belangen; 54.167
 investeringen; 397.429
 milieubeheer; 583.377
 1.078.049
-2

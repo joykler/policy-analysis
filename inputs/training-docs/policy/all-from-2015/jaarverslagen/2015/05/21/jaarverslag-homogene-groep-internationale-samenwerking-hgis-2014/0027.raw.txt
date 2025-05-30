@@ -38,4 +38,3 @@ begrotingshoofdstukken; cultuur
 16.70 Onderzoek en wetenschappen; WOTRO 454 454 0 0 454 454
 16.71 Onderzoek en wetenschappen; Attaché China  70 0 70
 Totaal  62.887 53.988 1.294 608 64.181 54.596
-27

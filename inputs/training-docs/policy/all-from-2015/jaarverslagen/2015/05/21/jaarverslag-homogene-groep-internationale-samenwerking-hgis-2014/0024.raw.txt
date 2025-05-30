@@ -57,4 +57,3 @@ SZW 96.20.01 Apparaatsuitgaven (attachés) 499 0 0 0 499 0
 VWS 1.186 0 71 0 1.257 0
 organisaties/WHO-partnerschap
 Totaal 870.598 225.819 -149.543 -53.937 721.055 171.882
-24

@@ -48,4 +48,3 @@ organisaties in Nederland
 07.00 Algemeen
 07.01 Apparaatsuitgaven 744.195 225.819 -79.405 -53.937 664.790 171.882
 Totaal  1.424.270 516.335 -166.796 -78.022 1.257.474 438.313
-26

@@ -46,4 +46,3 @@ corruptie
 05.02 Overig armoedebeleid -119.306 -131.737 201.958 210.356 82.652 78.619
 05.03 Bijdrage aan migratie en ontwikkeling 9.000 9.000 -935 -935 8.065 8.065
 Totaal  2.795.676 2.331.985 17.455 393.324 2.813.131 2.725.309
-30

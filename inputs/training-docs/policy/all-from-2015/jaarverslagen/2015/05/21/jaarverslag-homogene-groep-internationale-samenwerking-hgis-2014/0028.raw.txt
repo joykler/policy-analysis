@@ -42,4 +42,3 @@ XII Infrastructuur en Milieu
 98.01 Apparaatsuitgaven (attachés personeel) 2.255 -601 0 1.654
 98.02 Apparaatsuitgaven (attachés materieel)  257 0 257
 Totaal  24.011 27 2.272 8 26.283 35
-28

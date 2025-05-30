@@ -61,4 +61,3 @@ I&M 23.01 Meteorologie en seismologie (contributie WMO) 27 8 35 XII-23.01
 EZ 16.95 Bijdragen (inter)nationale organisaties (FAO) 3.556 -345 3.211 XIII-16.95
 16.95 Bijdragen (inter)nationale organisaties (UNEP) 243 6 249 XIII-16.95
 Totaal  585.078 -34.059 551.019
-33
