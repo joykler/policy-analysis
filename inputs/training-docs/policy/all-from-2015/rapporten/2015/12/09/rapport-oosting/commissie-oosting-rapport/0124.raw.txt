@@ -34,4 +34,3 @@ reporter: ‘Is het uitgesloten dat er nog een aparte overeenkomst komt? Kan
 het zijn dat afzonderlijk nog wat omliggende dingen worden afgesproken?’
 steenhuis: ‘Neen. Dat is uitgesloten. Het schikkingsvoorstel is het schik-
 kingsvoorstel. Je moet niet twee schikkingsvoorstellen hebben. Of een
-124

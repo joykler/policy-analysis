@@ -35,5 +35,4 @@ zegd: ‘Dit is met het college besproken waarbij aan de orde kwam dat het
 toch een zaak van het Openbaar Ministerie was en dat daarvoor grote kennis
 van het Openbaar Ministerie nodig was. De heer Van Brummen stond bui-
 ten de organisatie en had de vrijheid om onafhankelijk naar het college te
-rapporteren.’ 
-160
+rapporteren.’
