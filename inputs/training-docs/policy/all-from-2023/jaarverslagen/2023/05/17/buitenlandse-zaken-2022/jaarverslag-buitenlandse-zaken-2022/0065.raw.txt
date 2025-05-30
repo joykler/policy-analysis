@@ -1,0 +1,53 @@
+accreditaties en risicomanagement en incidentmanagement weg te nemen. 
+Hiervoor zijn o.a. de Governance Risk management & Compliance (GRC)-
+tool en Incidentregistratietool geïmplementeerd. Daarnaast zijn beheers­
+maatregelen uit de BZ-baseline nader uitgewerkt en deels 
+geïmplementeerd. Ook zijn in 2022 accreditaties verleend en heeft BZ het 
+proces van bewaken, aanvragen en afgeven van accreditaties geborgd in 
+de lijnorganisatie. Tot slot zijn de controles op toegang tot gevoelige 
+informatie aangescherpt. Het verder aanscherpen van de toegang tot BZ-
+informatie wordt de komende jaren programmatisch aangepakt.
+Algemene Verordening Gegevensbescherming (AVG) 
+In 2022 heeft BZ de verantwoordelijkheid voor het verwerken van persoons­
+gegevens in de lijn versterkt door het reeds bestaande AVG-coördinatore­
+noverleg en het AVG-managementoverleg aan te vullen met themasessies. 
+Onder meer over het updaten van de Standard Contractual Clauses. Dit met 
+het oog op het actualiseren van het overzicht van de persoonsgegevens die 
+doorgegeven worden buiten de Europese Economische Ruimte (EER), 
+waarvoor BZ in 2022 een start heeft gemaakt. Op basis van dit overzicht zijn 
+directies gestart met het uitvoeren van Data Transfer Impact Assessments 
+(DTIA’s) en het updaten van de Standard Contractual Clauses (SCC’s) aan 
+de hand van de nieuwe modellen. Uit onderzoek van het privacyteam in 
+2022 blijkt dat het huidige AVG Verwerkingsregister geen mogelijkheid biedt 
+voor het publiceren van gegevensverwerkingen die geregistreerd zijn in 
+het verwerkingsregister. In 2023 wordt verdere invulling gegeven aan de 
+opgestelde planning voor publicatie.
+Op basis van feedback van de AVG-coördinatoren heeft het privacyteam in 
+het vierde kwartaal een aanpassing in de werkwijze gemaakt. Het team 
+werkt bijvoorbeeld met het vier-ogen-principe, wat onder meer de unifor­
+miteit en kwaliteit zal bevorderen in gegeven adviezen. Hierbij is de focus 
+verlegd van kwantiteit naar kwaliteit. In 2022 is de Informatiebeveiliging- & 
+privacyvragenlijst verstuurd naar alle risicovolle directies en posten. Naast 
+opvolging van de aanbevelingen uit de vragenlijst monitort het Information 
+Security Centre de opvolging van aanbevelingen door de Autoriteit 
+Persoonsgegevens (AP) op de gegevensverwerking met betrekking tot het 
+Schengen Visa.
+In februari 2022 heeft de AP BZ een boete opgelegd die betrekking heeft op 
+de huidige applicatie die wordt gebruikt bij het afhandelen van Schengen 
+visumaanvragen. BZ informeerde visum-aanvragers onvoldoende over de 
+gegevens die gedeeld werden met andere partijen (art. 13 AVG). Ook was 
+de beveiliging van de verwerking van de persoonsgegevens onvoldoende 
+gewaarborgd (art. 32 AVG). Op beide onderdelen heeft de AP tevens een last 
+onder dwangsom opgelegd om de overtreding te beëindigen. BZ heeft in 
+maart 2022 aan de opvolging van het eerste lastonderdeel voldaan. Dit is 
+schriftelijk bevestigd door de AP. Om opvolging te geven aan het tweede 
+lastonderdeel heeft BZ een Plan van Aanpak opgesteld en voorgelegd aan 
+de AP. In oktober zijn de benodigde documenten ingeleverd bij de AP. De AP 
+heeft op onderdelen ingestemd met de maatregelen die door BZ zijn 
+voorgedragen en doorgevoerd. Goedkeuring op de resterende onderdelen 
+en een formele bevestiging over het voldoen aan het tweede lastonderdeel 
+is eind 2022 nog niet gegeven.
+Paragraaf 2: Rijksbrede bedrijfsvoeringsonderwerpen
+Grote ICT-projecten 
+Het project FOBO (Front Office Back Office ) heeft tot doel consulaire klanten 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 V, nr. 1 65

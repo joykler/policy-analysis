@@ -1,0 +1,48 @@
+Omdat de administratie en de liquide middelen stroom voor beide 
+begrotingen via één administratief systeem verlopen is er voor gekozen alle 
+lopende rekeningen op te nemen op de balans van BZ en het saldo van de 
+uitgaven m.b.t. BHOS achteraf middels een intern verrekenstuk tussen de 
+RHB rekeningen van BZ en BHOS te verrekenen.
+Tabel 20 Rekening-courant (credit 3.557.047 x EUR 1.000)
+31 december 31 december 
+Specificatie x 1.000 EUR 2022 2021
+Rekening-courant RHB BHOS 3.558.461 3.126.336
+Te verrekenen tussen BuZa en BHOS ‒ 1.414 ‒ 11
+Totaal 3.557.047 3.126.325
+Op de rekening-courant met de Rijkshoofdboekhouding is de financiële 
+verhouding met het Ministerie van Financiën weergegeven. Het verschul­
+digde saldo op de rekening-courant met de Rijkshoofdboekhouding is in 
+overeen- stemming met de opgave van de RHB. Door de splitsing van de 
+balans tussen BHOS en BZ is er een te verrekenen bedrag tussen de twee 
+balansen noodzakelijk om evenwicht te creëren. Het te verrekenen bedrag 
+ontstaat doordat er ná de verrekening van de maand december nog 
+correcties plaatsvinden en invloed hebben op de verhouding BZ en BHOS. 
+De verrekening van dit bedrag zal bij de RHB plaatsvinden met verreken­
+stukken in het komende jaar.
+5 Rekening-courant RHB (begrotingsreserve)
+Tabel 21 Rekening-courant RHB (begrotingsreserve) (debet 117.501 x 
+EUR 1.000)
+31 december 31 december 
+Specificatie x 1.000 EUR 2022 2021
+Begrotingsreserve DGGF 47.114 52.097
+Begrotingsreserve FOM 29.022 30.640
+Begrotingsreserve DRIVE 18.368 12.500
+Begrotingsreserve DTIF 22.997 24.086
+Totaal 117.501 119.323
+5a Begrotingsreserve
+Tabel 22 Begrotingsreserve (credit 117.501 x EUR 1.000)
+Toevoe­ Onttrek­ Saldo Verwijzing 
+31 december gingen kingen 31 december naar Begro­
+Specificatie x 1.000 EUR 2021 2022 2022 2022 tingsartikel
+Begrotingsreserve DGGF 52.097 5.746 10.729 47.114 1.3
+Begrotingsreserve FOM 30.640 0 1.618 29.022 1.2
+Begrotingsreserve DRIVE 12.500 5.868 0 18.368 1.3
+Begrotingsreserve DTIF 24.086 6.149 7.238 22.997 1.2
+Totaal 119.323 17.763 19.585 117.501
+In 2016 is besloten het Fonds Opkomende Markten (FOM) voor nieuw af te 
+geven garanties stop te zetten ten gunste van het Dutch Trade and 
+Investment Fund (DTIF). Ter dekking van eventuele schades dient tegen 
+hefboom 1:2 de helft van het uitstaande bedrag aan garanties te worden 
+aangehouden in de begrotingsreserve. In 2022 zijn geen provisies 
+ontvangen. Er is een schade uitgekeerd van EUR 1,618 miljoen. 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVII, nr. 1 77
