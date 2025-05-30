@@ -1,0 +1,56 @@
+Bijdragen agentschappen
+Gezondheidsbescherming algemeen
+De voortgang van de aanpak om voedselinfecties te voorkomen, wordt door 
+het RIVM gemonitord via de vaststelling van zogenoemde DALYs (disability 
+adjusted life year). In onderstaande tabel is weergegeven hoe het aantal 
+verloren levensjaren door voedselinfecties, veroorzaakt door de verschil­
+lende pathogenen, zich ontwikkelt.
+ 
+Tabel 6 Kengetallen voedselveiligheid: Aantal verloren gezonde levensjaren ten gevolge van voedselinfecties door 
+ziekteverwekkende micro-organismen in voedsel in Nederland gegevens 2014-2021
+1 2
+Micro-organismen Aantal verloren gezonde levensjaren (DALY=Disability Adjusted Life Year)
+3
+2014 2015 2016 2017 2018 2019 2020 2021
+Campylobacter 1.869 1.691 1.501 1.291 1.345 1.387 1.268 1.400
+STEC O157 61 61 61 61 61 61 60 61
+L. monocytogenes 191 165 310 191 181 126 145 410
+Salmonella 649 643 757 675 617 600 393 470
+B. cereus toxine 28 28 28 29 29 29 29 29
+C. perfringens toxine 177 177 177 178 179 180 180 180
+S. aureus toxine 193 192 192 192 193 193 190 190
+Hepatitis-A virus 6 5 5 6 8 8 6 10
+Hepatitis-E virus 3 3 3 70 71 63 54 43
+Norovirus 285 301 375 269 324 308 141 240
+Rotavirus 78 165 88 143 154 145 51 120
+Cryptosporidium spp. 11 19 22 14 19 15 4 7
+Giardia spp. 29 29 29 29 28 29 7 13
+T. gondii 1.088 1.063 1.062 1.062 1.064 1.042 1.061 1.100
+Totaal 4.668 4.542 4.609 4.209 4.270 4.186 3.587 4.273
+1 https://www.rivm.nl/publicaties/disease-burden-of-food-related-pathogens-in-netherlands-2021 https://www.nvwa.nl/voedselveiligheid/documenten/consument/eten-
+drinken-roken/overige-voedselveiligheid/publicaties/consumentenmonitor-voedselveiligheid-2021 pagina 9
+2 De getallen over 2012 t/m 2015 zijn enigszins afwijkend van de getallen die in eerdere begrotingen zijn gerapporteerd dit vanwege: a) nieuwere incidentie schattingen voor 
+hepatitis-E virus, Cryptosporidium spp. and Giaria spp.; en b) noodzakelijke modelaanpassingen (zoals m.n. het gebruik van nieuwe «disability weights» afkomstig uit 
+een recente Europeese studie waarbij : >30,000 mensen waren betrokken (Bron: Haagsma et al. 2015; Popul Health Metr.)). Meer details zijn te vinden in Mangen et al., 
+2017 RIVM Letter Report 2017-0097 (http://www.rivm.nl/bibliotheek/rapporten/2017-0097.pdf). Deze noodzakelijke modelaanpassingen hebben er toe geleid dat de ranking 
+veranderd is ten opzichte van vroegere berekeningen.
+3 Het gemelde getal voor het jaar 2017 wijkt af van het eerder genoemde getal in het beleidsverslag 2021. Het getal is aangepast naar de meest recente RIVM bijgewerkte 
+attributie inschattingen, die het resultaat zijn van de toepassing van een aangescherpte methodologie. Dit geldt ook uiteraard voor het kengetal voor het jaar 2021.
+Nederlandse Voedsel- en Warenautoriteit
+De minister voor Medische Zorg en Sport (MZS) is opdrachtgever van het 
+agentschap Nederlandse Voedsel- en Warenautoriteit (NVWA) voor de VWS 
+domeinen. De NVWA heeft als toezichthouder een centrale rol bij het 
+bewaken van de veiligheid van voedsel- en consumentenproducten op 
+grond van wettelijke normen. Ook hebben zij toezichtstaken voor de 
+handhaving van de Drank- en Horecawet en de Tabaks- en rookwarenwet. 
+Voor deze taken is in 2022 in totaal € 105 miljoen beschikbaar.
+ 
+Nederlandse Voedsel- en Warenautoriteit (NVWA)
+De totale realisatie op het budget van de NVWA bedroeg in 2022 
+€ 111,5 miljoen, dat is € 6,6 miljoen hoger dan de oorspronkelijk vastgestelde 
+begroting in 2022. Er zijn bij de eerste suppletoire begroting € 9 miljoen 
+regeerakkoordmiddelen van de aanvullende post aan het budget 
+toegevoegd en € 0,9 miljoen voor additionele werkzaamheden bij de 
+bestrijding van muggen en ten behoeve van werkzaamheden inzake het 
+wietexperiment.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 39
