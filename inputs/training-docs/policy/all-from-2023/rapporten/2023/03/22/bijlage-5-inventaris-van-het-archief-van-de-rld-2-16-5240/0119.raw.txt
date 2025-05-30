@@ -1,0 +1,44 @@
+2.16.5240 VW / Rijksluchtvaartdienst 119
+3165 1960
+div.nrs. European-Mediterranean Communications Region.
+1951-1970
+2045 Algemeen,1951-1959
+2195 Aeronautical fixed telecommunications network (AFTN),1961-1970
+2197 Aeronautical fixed telecommunications network; Panel; 
+correspondentie,1965-1967
+4050 European-Mediterranean Communications Region,1951-1954
+3181 Regional Plan; faciliteiten op het luchtvaartterrein Zuid-
+Limburg,1967-1968
+3169-3170, 4042-4043
+Codes and abbreviations.
+1951-1971
+4043 Notices to Airmen-code,1951-1959
+4042 Location indicators,1958-1959
+3169 Aeronautical authorities; services and aircraft operating 
+agencies,1961-1971
+3170 Location indicators,1964-1970
+3062-3064 Phonetic alphabet.
+1952-1955
+3062 Gebruik bij Luchtverkeersbeveiliging,1952-1953
+3064 Onregelmatigheden,1952-1953
+3063 Gebruik door militaire instanties,1952-1955
+3076 Region; South-East Asia; mobile communications.
+1953-1955
+208 Radio-telephony.
+1960-1971
+3183 Region; South American/South Atlantic.
+1964-1965
+209 Requirements for the carriage of radio aids to navigation.
+1967-1969
+247 Annex 10; aeronautical telecommunications; amendments; 50 - 61.
+1972-1979
+Air Navigation (Commission); Aeronautical Maps Division (AN MAP)
+AIR NAVIGATION (COMMISSION); AERONAUTICAL MAPS DIVISION (AN MAP)
+203 Annex 4; amendments; 34 - 42.
+1960-1974
+Air Navigation (Commission); Meteorology Division (AN MET)
+AIR NAVIGATION (COMMISSION); METEOROLOGY DIVISION (AN MET)
+3088 Landingen op Groenland.
+1951-1958
+2064 Region; North Atlantic; procedures.
+1953-1954

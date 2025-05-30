@@ -1,0 +1,11 @@
+Monitoring report progress Saba Package 2.0 
+ 
+ 
+Text space to comment on the progress by the Public Entity and give a general view on 2023. 
+ 
+ 
+Legenda 
+ Implementation is going according to (finished by June 
+’23, including comments/first results) 
+ Implementation delayed (incl. comments) 
+ Implementation stalled (incl. comments)

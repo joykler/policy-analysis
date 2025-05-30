@@ -1,0 +1,40 @@
+58 VW / Rijksluchtvaartdienst 2.16.5240
+1960-1968
+4140, 12526 Uitwisselen operationele meteogegevens (Meteorological Operational 
+Telecommunications Network Europe Panel) correspondentie
+1960-1971
+4140 1960-1964
+12526 1965-1971
+2269, 4144-4145
+South American / South Atlantic
+1960-1972
+2269 Algemeen., 1972
+4145 Regional Plan., 1960-1971
+4144 Recording and dissemination of air-reports., 1962-1971
+4139 Runway visual range.
+1963-1971
+2183 Region; African-Indian; Regional Plan.
+1964-1971
+4135 Weather conditions encountered during initial and final phase of flight.
+1968-1969
+4133 Area forecasts system.
+1968-1970
+3262 Meteorologische onderzoeken en berichtgeving.
+1971-1979
+4219 Region; African; Regional Plan.
+1972-1976
+4216 Meetings.
+1973-1979
+2267 Region; Middle East/South-East Asia; Regional Plan.
+1974-1978
+3266 Low-level wind shear and turbulance.
+1975-1979
+4217 Panel of Experts on Operational Flight Information Service (OFIS Panel).
+1975-1979
+3263 Study Group on Runway Visual Range and Runway Lighting.
+1975-1979
+Air Navigation Commission; Operation Division (AN OPS)
+AIR NAVIGATION COMMISSION; OPERATION DIVISION (AN OPS)
+191 Algemeen.
+1960-1968
+3047 Region; African-Indian Ocean/South-East Asia; altimeter setting procedure.

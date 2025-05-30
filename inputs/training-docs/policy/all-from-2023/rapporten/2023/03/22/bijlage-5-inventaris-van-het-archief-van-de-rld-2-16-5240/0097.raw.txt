@@ -1,0 +1,55 @@
+2.16.5240 VW / Rijksluchtvaartdienst 97
+1796 Manual; aeronautical information services manual; 1961 - 1968.
+7895 Manual; airport planning manual.
+1781 Manual; airport services manual; 1975 - 1977.
+1768 Manual; airworthiness technical manual; 1974.
+7893 Manual for construction of holding areas.
+7891 Manual; heliport manual.
+7892 Manual; ocean station vessel manual.
+1794 Manual of aeronautical meteorological practice; 1971 - 1977.
+1775 Manual of air traffic procedures for pilots; 1962.
+1798 Manual of aircraft accident investigation.
+1813 Manual of airports and air navigation facility tariffs; 1954 - 1958.
+12277 Manual of airports and air navigation facility tariffs; 1959 - 1961.
+1842 Manual of airports and air navigation facility tariffs; 1970 - 1971.
+12284 Manual of airports and air navigation facility tariffs; 1972 - 1973.
+1843 Manual of airports and air navigation facility tariffs; 1974 - 1975.
+12285 Manual of airports and air navigation facility tariffs; 1976 - 1977.
+1844 Manual of airports and air navigation facility tariffs; 1978.
+12286 Manual of airports and air navigation facility tariffs; 1979.
+1778 Manual of civil aviation medicine; 1974.
+1793 Manual of International Civil Aviation Organisation standard 
+atmosphere; 1954 - 1964.
+1779 Manual of licensing practices and procedures; 1974.
+1777 Manual of procedures for operations certification and inspection; 
+1963 - 1974.
+1786 Manual of teletypewriter operating practices; 1959 - 1965.
+1797 Manual on air traffic forecasting; 1972.
+7894 Manual on airport master planning.
+1780 Manual on route air navigation facility economics; 1976.
+1772 Manual on testing of radio navigation aids; 1960 - 1969.
+1807 Manual on the International Civil Aviation Organisation statistical 
+programme.
+1773 Manual on the planning and engineering of the aeronautical fixed 
+telecommunications network; 1962 - 1973.
+1785 Manual; radiotelephony training and reference manual; 1961.
+7919 Manual; Region; European-Mediterranean; International Civil 
+Aviation Organisation regional manual.
+7924 Manual; Region; North Atlantic; International Civil Aviation 
+Organisation regional manual.
+1776 Manual; search and rescue manual; 1952 - 1968.
+1799 Manual; security manual for the prevention of unlawful acts against 
+civil aviation.
+8744 Manual; stolport manual; 1e editie; 1976.
+1782 Manual; training manual; part 01 - 04; 1950 - 1959.
+12271 Manual; training manual; part 05 - 10; 1960 - 1972.
+1783 Manual; training manual; part 11 - 13.
+12272 Manual; training manual; part 14 - 28.
+1784 Manual; training manual; part C1 - E2.
+1826 Memoranda on helicopter operations.
+1809 Meteorological Operational Telecommunications Network, Europe 
+(MOTNE) handbook.
+8816 Meteorological Operational Telecommunications Network, Europe 
+(MOTNE) handbook.
+1795 Meteorological tables for international air navigation; 1962 - 1968.
+12274 Meteorological tables for international air navigation; 1969 - 1970.

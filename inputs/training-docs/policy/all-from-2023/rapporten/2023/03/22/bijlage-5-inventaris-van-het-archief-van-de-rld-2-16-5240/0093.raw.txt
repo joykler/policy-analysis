@@ -1,0 +1,55 @@
+2.16.5240 VW / Rijksluchtvaartdienst 93
+7820 Digest of statistics; traffic; 1966 - 1967.
+7821 Digest of statistics; traffic; 1968 - 1970.
+12883 Digest of statistics; traffic; 1971 - 1972.
+7827 Digest of statistics; traffic commercial air carriers; 1973 - 1978.
+12887 Digest of statistics; traffic commercial air carriers; 1975 - 1979.
+12866 Digest of statistics; traffic flow (01); 1947 - 1951.
+7803 Digest of statistics; traffic flow (02); 1947 - 1951.
+12867 Digest of statistics; traffic flow (03); 1952 - 1955.
+7804 Digest of statistics; traffic flow (04); 1952 - 1955.
+12868 Digest of statistics; traffic flow (05); 1956 - 1959.
+7805 Digest of statistics; traffic flow (06); 1956 - 1959.
+12869 Digest of statistics; traffic flow (07); 1960 - 1963.
+7806 Digest of statistics; traffic flow (08); 1960 - 1963.
+12870 Digest of statistics; traffic flow (09); 1964 - 1968.
+7807 Digest of statistics; traffic flow (10); 1964 - 1968.
+12871 Digest of statistics; traffic flow (11); 1969.
+7808 Digest of statistics; traffic flow (12); 1969.
+7809 Digest of statistics; traffic flow (13); 1970 sep..
+12872 Digest of statistics; traffic flow (14); 1970 dec. - 1971 juni.
+7810 Digest of statistics; traffic flow (15); 1971 sep. - dec..
+12873 Digest of statistics; traffic flow (16); 1972 mrt. - sep..
+7811 Digest of statistics; traffic flow (17); 1972 dec. - 1973 mrt..
+12874 Digest of statistics; traffic flow (18); 1973 juni - sep..
+7812 Digest of statistics; traffic flow (19); 1973 dec. - 1974 mrt..
+12875 Digest of statistics; traffic flow (20); 1974 juni - sep..
+7813 Digest of statistics; traffic flow (21); 1974 dec..
+12876 Digest of statistics; traffic flow (22); 1975 mrt. - juni.
+7814 Digest of statistics; traffic flow (23); 1975 sep. - dec..
+7823 Digest of statistics; traffic flow (24); 1976 mrt. - dec.; (traffic by flight 
+stage).
+12885 Digest of statistics; traffic flow (25); 1977 mrt. - sep.; (traffic by flight 
+stage).
+7824 Digest of statistics; traffic flow (26); 1977 - 1978 dec. - juni; (traffic by 
+flight stage).
+12886 Digest of statistics; traffic flow (27); 1978 - 1979 sep. - mrt.; (traffic by
+flight stage).
+7825 Digest of statistics; traffic flow (28); 1979 juni - dec.; (traffic by flight 
+stage).
+7826 Digest of statistics; traffic scheduled services; 1951 - 1963, 1951 - 
+1965.
+12884 Digest of statistics; traffic; supplements, addenda en corrigenda; 
+1969 - 1971.
+7822 Digest of statistics; traffic; supplements, addenda en corrigenda; 
+1971 - 1973.
+8686 Directives for panels of the Air Navigation Commission.
+8688 Directives to regional air navigation meetings and rules of procedure
+for their conduct.
+8863 Directors of Civil Aviation meeting between Guyana, French Guyana 
+and Suriname; 5e vergadering; Paramaribo, 1966; summary of 
+discussions.
+7948 Directory of aviation training facilities asissted through International
+Civil Aviation Organisation.
+7947 Directory of training courses open to foreign students and 
+abbreviations; 1e - 3e editie.

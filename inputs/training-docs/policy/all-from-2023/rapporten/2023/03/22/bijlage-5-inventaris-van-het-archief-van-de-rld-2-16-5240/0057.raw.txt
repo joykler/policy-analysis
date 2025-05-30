@@ -1,0 +1,46 @@
+2.16.5240 VW / Rijksluchtvaartdienst 57
+3085 Regional Plan., 1958-1959
+2185 Regional Plan., 1961-1971
+4220 Regional Plan., 1972-1979
+div.nrs. European-Mediterranean
+1951-1979
+3086 Algemeen., 1951-1956
+2186 Algemeen., 1965-1969
+2059 Upper air observations., 1952-1956
+2057 Regional Plan; Meteorological Surface Observations Plan., 1953-1955
+2056 Regional Plan., 1954-1959
+2058 Uitwisselen operationele meteogegevens; Meteorological 
+Operational Telecommunications Network Europe (MOTNE-PANEL).,
+1958-1959
+2187 Regional Plan; correspondentie., 1960-1963
+12301 Regional Plan; correspondentie., 1964-1971
+4221 Regional Plan., 1972-1979
+4222 Uitwisselen operationele meteogegevens., 1972-1979
+div.nrs. Zittingen
+1952-1961
+4065 3e - 4e., 1952-1954
+3079 5e., 1957-1959
+2181 5e., 1960-1961
+4060, 4137 Combined meteorolgical tables. Document 7155
+1952-1971
+4060 1952-1956
+4137 1960-1971, 1960-1971
+2544 Weerschepen; invoering communicatieplan; meteorological communications (MET-
+COM).
+1954-1962
+2068 Region; South American; Regional Plans.
+1955-1959
+2061, 4141 Middle East, Regional Plan
+1951-1969
+2061 1955-1958
+4141 1964-1965
+div.nrs. South-East Asia
+1955-1978
+2270 Algemeen., 1976-1978
+2069 Regional Plan., 1955-1958
+4146 Regional Plan., 1960-1968
+2066, 4143 Pacific, Regional Plan
+1956-1971
+2066 1956-1959
+4143 1960-1971
+4136 Meteo forms.

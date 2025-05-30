@@ -1,0 +1,52 @@
+40 VW / Rijksluchtvaartdienst 2.16.5240
+4006 Fourth,1959
+2144 Fourth,1960-1965
+2145 Fourth; recommendations,1966
+10413 Fourth up to seventh,1966-1970
+4110 Fifth up to seventh,1966-1971
+12524 Fifth up to seventh,1966-1971
+2236 Fifth; recommendations,1972
+4200 Seventh and eighth,1972-1979
+12529 Seventh and eighth,1972-1979
+1901 Seventh up to ninth,1971-1975
+3240 Ninth,1974-1976
+3241 Ninth; recommendations,1976-1979
+div.nrs. Region; Caribbean.
+1951-1979
+3018 Second meeting,1951
+3019 Third meeting,1951-1959
+3017 Special meeting,1956-1959
+4113 Fourth meeting,1963-1968
+4114 Regional Plan,1966
+2241 Regional Plan; Caribbean/South American regional air navigation 
+meeting; correspondentie,1974-1979
+4206 Regional Plan; recommendations,1977-1978
+div.nrs. Region; European-Mediterranean.
+1951-1979
+3021 Third meeting,1951-1956
+3020 Oost-Europa-Aziebureau; lijst met afkortingen van landen; overzicht 
+vergaderingen (regional air meetings),1952-1957
+3022 Fourth meeting,1956-1958
+2147 First and second meeting,1960-1961
+4118 Regional Plan; correspondentie,1960-1965
+2148 Fifth meeting,1964-1966
+4117 VHF-meetings (very high frequency),1966-1968
+2149 Fifth meeting; recommendations,1966-1970
+2146 Meetings,1968-1971
+4115, 23004 Sixth meeting,1969-1971
+Met 1 tekening, aan te vragen onder inv.nr. 23.004
+4115 Sixth meeting,1969-1971
+23004 Tekening.
+4116 Meetings; air traffic forecast,1970-1971
+4119 Regional Plan; opschorting; wijziging,1971
+3245 Meetings; air traffic forecast,1971-1979
+238 Sixth regional air navigation meeting,1972
+239 Sixth regional air navigation meeting; recommendations,1972-1976
+233-237, 4208
+European Air Navigation Planning Group.1972-1979
+237 Instelling,1972
+4208 Meetings,1972-1979
+233 Werkgroepen,1973-1979
+235 Working Group on Meteorological Services to 
+International General Aviation,1974-1979
+234 Airspace and Traffic Management Group,1975-1979

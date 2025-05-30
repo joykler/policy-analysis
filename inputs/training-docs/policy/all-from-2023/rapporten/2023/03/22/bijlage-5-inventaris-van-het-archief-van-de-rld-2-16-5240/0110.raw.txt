@@ -1,0 +1,55 @@
+110 VW / Rijksluchtvaartdienst 2.16.5240
+8846 AN; AIR Division; 1e - 2e zitting; verslagen.
+13062 AN; AIR Division; 1e zitting; 1945 - 1946.
+9024 AN; AIR Division; 1e zitting; 1946.
+9025 AN; AIR Division; 2e zitting; 1946 - 1947.
+13063 AN; AIR Division; 2e zitting; 1947.
+9060 AN; COM Division; 2e zitting; supporting papers.
+7970 AN; MAP Division; 1e - 2e zitting.
+8850 AN; MET Division; 2e zitting; final report.
+8852 AN; OPS Division; 1e - 2e zitting; verslagen.
+9083 AN; OPS Division; 2e zitting; supporting papers; 1945 - 1947.
+13091 AN; OPS Division; 2e zitting; supporting papers; 1947.
+7969 AN; PEL Division; 1e - 2e zitting.
+10047 AN; PEL Division; 2e zitting.
+9129 AN; PEL Divison; Documents 1156 PEL/35 - 2669 PEL/111.
+Voor vervolg zie nummer 9130
+7968 AN; RAC Division; 1e - 2e zitting.
+13111 AN; RAC Division; rules of the air and air traffic control practices; 2e 
+zitting; supporting papers.
+10051 AN; RAC Division; rules of the air and air traffic control practices; 2e 
+zitting; supporting papers.
+10049 AN; RAC Division; rules of the air and air traffic control practices; 
+documents.
+8844 AN; SAR Division; 2e zitting; final report.
+9034 AN-Documents 105/AN/1 - 3038/AN/333.
+9033 AN-Drafts 27 - 31, 236, 273 - 280.
+7962 Annex B; communications procedures and systems; 
+recommendations for additions, deletions and amendments.
+7961 AT; FAL Division; 1e zitting.
+8968 AT; FAL Division; 1e zitting.
+8845 AT; proceedings; multilateral agreement on commercial rights in 
+international civil air transport.
+7966 Communications subcommittee; 1e zitting en Draft of Provisional 
+Civil Aviation Organization Communication Standards.
+8851 Conference; North Atlantic route service conference; Dublin, 1946; 
+Committee on Communications; 1e zitting; verslag.
+10093 Conference; North Atlantic route service conference; supporting 
+papers.
+9055 Interim Councel; Documents 24 - 3104-C/389.
+8827 Interim Council; report of the decisions.
+8832 Manual; Notices to Arimen; regional manual South Pacific.
+8853 Manual of the North Atlantic route service; draft of revised Q code.
+8854 Manual of the North Atlantic route service; section I route guide, 
+section II operating procedures.
+7959 Ocean weather observation stations in the North Atlantic.
+7963 Procedures for air navigation services; aerodromes and ground aids.
+8842 Procedures for air navigation services; air traffic control.
+8849 Procedures for air navigation services; communication procedures 
+codes and abbreviations.
+8847 Procedures for air navigation services; meteorology.
+8848 Procedures for air navigation services; procedures for international 
+Notices to Airmen-services.
+7957 Procedures for air navigation services; search and rescue; 1e editie.
+8829 Recommendations for standards, practices and procedures; 
+aerodromes, air routes and ground aids.

@@ -1,0 +1,54 @@
+104 VW / Rijksluchtvaartdienst 2.16.5240
+ordination of air traffic in Western Europe.
+7915 Region; European-Mediterranean; vergaderingen; 1947 - 1950.
+12933 Region; European-Mediterranean; vergaderingen; 1951 - 1960.
+7916 Region; European-Mediterranean; vergaderingen; 1961 - 1966.
+12934 Region; European-Mediterranean; vergaderingen; 1968 - 1971.
+10087 Region; Middle East; 2e regional air navigation meeting; supporting 
+papers.
+7920 Region; Middle East; meetings; 1950.
+12935 Region; Middle East; meetings; 1954 - 1965.
+10085 Region; Middle East; Region Plan.
+10089 Region; Middle East; special Middle East communication meeting; 
+supporting papers.
+10090 Region; Middle East/South-East Asia; joint Middle East/South-East 
+Asia regional air navigation meeting; supporting papers.
+10091, 26568
+Region; Middle East/South-East Asia; regional air navigation 
+meeting; supporting papers.
+Met 1 tekening, aan te vragen onder inv.nr. 26.568
+10091 Region; Middle East/South-East Asia; regional air 
+navigation meeting; supporting papers.
+26568 Tekening 1.
+7899 Region; Middle East/South-East Asia; regional air navigation 
+meetings.
+10094 Region; North Atlantic; 3e air navigation meeting; supporting papers.
+13117 Region; North Atlantic; 4e air navigation meeting; supporting 
+papers.
+10095 Region; North Atlantic; 5e air navigation meeting; supporting papers;
+1970.
+13118 Region; North Atlantic; 5e air navigation meeting; supporting papers;
+1970 - 1976.
+13116, 26569-26578
+Region; North Atlantic; air navigation meetings; working papers.
+Met 10 tekeningen, aan te vragen onder inv.nrs. 26.569 - 26.578
+13116 Region; North Atlantic; air navigation meetings; 
+working papers.
+26569 Tekening 1.
+26570 Tekening 2.
+26571 Tekening 3.
+26572 Tekening 4.
+26573 Tekening 5.
+26574 Tekening 6.
+26575 Tekening 7.
+26576 Tekening 8.
+26577 Tekening 9.
+26578 Tekening 10.
+10092 Region; North Atlantic; air navigation meetings; working papers.
+7921 Region; North Atlantic; meetings; 1948 - 1951.
+12936 Region; North Atlantic; meetings; 1954 - 1959.
+7922 Region; North Atlantic; meetings; 1961 - 1964.
+12937 Region; North Atlantic; meetings; 1965 - 1976.
+13119 Region; North Atlantic; special North Atlantic meeting; 1965.
+10099 Region; North Atlantic; special North Atlantic meeting; 1965.
+10098 Region; North Atlantic; special North Atlantic meteorological

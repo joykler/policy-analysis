@@ -1,0 +1,55 @@
+92 VW / Rijksluchtvaartdienst 2.16.5240
+1801 Designators for aircraft operating agencies, aeronautical authorities 
+and services; 1973 - 1976.
+12276 Designators for aircraft operating agencies, aeronautical authorities 
+and services; 1977 - 1979.
+7954 Development and co-ordination of technical annexes to the 
+Convention.
+7834 Digest of statistics; air transport; 1947 - 1949.
+7815 Digest of statistics; airline traffic; 1968 - 1972.
+12877 Digest of statistics; airline traffic; 1969 - 1973.
+12878 Digest of statistics; airline traffic; 1970 - 1974.
+7816 Digest of statistics; airline traffic; 1971 - 1975.
+12879 Digest of statistics; airline traffic; 1972 - 1976.
+7829 Digest of statistics; airport traffic; 1960 - 1962.
+12888 Digest of statistics; airport traffic; 1963 - 1966.
+7830 Digest of statistics; airport traffic; 1967 - 1969.
+12889 Digest of statistics; airport traffic; 1970 - 1972.
+7831 Digest of statistics; airport traffic; 1973 - 1974.
+12890 Digest of statistics; airport traffic; 1975 - 1976.
+7832 Digest of statistics; airport traffic; 1977 - 1978.
+12891 Digest of statistics; airport traffic; 1979.
+7839 Digest of statistics; civil aircraft on register; 1961 - 1968.
+12895 Digest of statistics; civil aircraft on register; 1969 - 1975.
+7840 Digest of statistics; civil aircraft on register; 1976 - 1979.
+7844 Digest of statistics; financial data; 1949 - 1952.
+12899 Digest of statistics; financial data; 1953 - 1956.
+7845 Digest of statistics; financial data; 1956 - 1959.
+12900 Digest of statistics; financial data; 1961 - 1963.
+7846 Digest of statistics; financial data; 1964 - 1967.
+12901 Digest of statistics; financial data; 1968 - 1970.
+7847 Digest of statistics; financial data; 1971 - 1973.
+12902 Digest of statistics; financial data; 1974 - 1975.
+7848 Digest of statistics; financial data; 1976 - 1977.
+12903 Digest of statistics; financial data; 1978 - 1979.
+7841 Digest of statistics; fleet personnel; 1947 - 1950.
+12896 Digest of statistics; fleet personnel; 1951 - 1956.
+7842 Digest of statistics; fleet personnel; 1957 - 1962.
+12897 Digest of statistics; fleet personnel; 1963 - 1969.
+7843 Digest of statistics; fleet personnel; 1970 - 1974.
+12898 Digest of statistics; fleet personnel; 1975 - 1979.
+7837 Digest of statistics; non-scheduled air transport; 1971 - 1973.
+12893 Digest of statistics; non-scheduled air transport; 1974 - 1976.
+7838 Digest of statistics; on-flight origin and destination; 1977.
+12894 Digest of statistics; on-flight origin and destination; 1978 - 1979.
+7833 Digest of statistics; origin and destination of passengers; 1947 - 1952.
+7835 Digest of statistics; scheduled airline operations; 1949 - 1950.
+12892 Digest of statistics; scheduled airline operations; 1951.
+7836 Digest of statistics; scheduled airline operations; 1952 - 1953.
+7828 Digest of statistics; taxes - subsidies; 1947 - 1952.
+7817 Digest of statistics; traffic; 1955 - 1956.
+12880 Digest of statistics; traffic; 1957 - 1958.
+7818 Digest of statistics; traffic; 1959 - 1960.
+12881 Digest of statistics; traffic; 1961 - 1962.
+7819 Digest of statistics; traffic; 1963 - 1964.
+12882 Digest of statistics; traffic; 1965.

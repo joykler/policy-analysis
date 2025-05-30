@@ -1,0 +1,55 @@
+2.16.5240 VW / Rijksluchtvaartdienst 73
+7866 Air navigation plan; Region; European; 1975 - 1977.
+7867 Air navigation plan; Region; European; 1979.
+7874 Air navigation plan; Region; European-Mediterranean; 1958.
+12919 Air navigation plan; Region; European-Mediterranean; 1962.
+7875 Air navigation plan; Region; European-Mediterranean; 1963 - 1964 
+jan..
+12916 Air navigation plan; Region; European-Mediterranean; 1964 juli - 
+1965.
+7876 Air navigation plan; Region; European-Mediterranean; 1966 - 1968.
+12917 Air navigation plan; Region; European-Mediterranean; 1970 - 1972.
+7859 Air navigation plan; Region; Middle East; 1959 - 1963.
+12912 Air navigation plan; Region; Middle East; 1964 - 1967.
+7868 Air navigation plan; Region; Middle East and South-East Asia; 1967 - 
+1969.
+7869 Air navigation plan; Region; Middle East and South-East Asia; 1970 - 
+1972.
+12914 Air navigation plan; Region; Middle East and South-East Asia; 1973 - 
+1974.
+7862 Air navigation plan; Region; Middle East and South-East Asia; 1975 - 
+1976.
+7864 Air navigation plan; Region; Middle East and South-East Asia; 1977 - 
+1978.
+7860 Air navigation plan; Region; North Atlantic; 1962 - 1963.
+12913 Air navigation plan; Region; North Atlantic; 1964.
+7861 Air navigation plan; Region; North Atlantic; 1965 - 1967.
+7857 Air navigation plan; Region; North Atlantic/North American and 
+Pacific; 1968 - 1970.
+12910 Air navigation plan; Region; North Atlantic/North American and 
+Pacific; 1971 - 1973.
+7858 Air navigation plan; Region; North Atlantic/North American and 
+Pacific; 1974 - 1975.
+12911 Air navigation plan; Region; North Atlantic/North American and 
+Pacific; 1976 - 1977.
+7872 Air navigation plan; Region; Pacific; 1956 - 1962.
+7873 Air navigation plan; Region; Pacific; 1963 - 1964.
+12918 Air navigation plan; Region; Pacific; 1965 - 1967.
+12904 Air navigation plan; Region; South American/South Atlantic.
+7850 Air navigation plan; Region; South American/South Atlantic.
+7870 Air navigation plan; Region; South-East Asia; 1959 - 1962 apr..
+12525 Air navigation plan; Region; South-East Asia; 1959 - 1963.
+7871 Air navigation plan; Region; South-East Asia; 1964 - 1966.
+10074 Air Traffic Control Committee; Region; European-Mediterranean; 2e 
+speciale vergadering.
+8692 Air Traffic Services/communications, informel meeting, Mexico, D.F. 
+17 - 22 october 1960; summary of discussions and conclusions.
+7849 Air transport reporting forms filed with International Civil Aviation 
+Organisation.
+7890 Aircraft type designators.
+1828 Airport and route facilities; financial data and summary traffic data.
+8815 Airports; a selected bibliography.
+1792 Airworthiness Committee; 02e - 06e vergadering; 1958 - 1964.
+12273 Airworthiness Committee; 07e - 13e vergadering; 1966 - 1980.
+8919 Airworthiness Committee; 09e vergadering; Montreal, 1970; 
+memoranda 084 - 149.

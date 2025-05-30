@@ -1,0 +1,49 @@
+52 VW / Rijksluchtvaartdienst 2.16.5240
+3068 Meetings; Frequency Co-ordinating Body,1958-1959
+2189 VOLMET broadcast (meteorological information for aircraft in 
+flight),1960-1962
+3180 Very high frequency; correspondentie,1960-1965
+2196 Aeronautical fixed telecommunications network; Panel,1960-1967
+4149 Meetings; Frequency Co-ordinating Body,1960-1971
+4148 Mobile communications,1960-1971
+2199 Meetings,1961-1968
+2198 Aeronautical fixed telecommunications network; sanering,1963-1967
+div.nrs. Regional Plan; correspondentie.1965-1974
+3178 1965 - 1967 sep.1965-1967
+12351 1967 okt. - 19691967-1969
+3179 1970-1971
+2274 1973
+2368 1974
+4225 Aeronautical fixed telecommunications network,1972-1979
+div.nrs. North Atlantic.
+1951-1979
+2053 Algemeen,1954-1958
+2200 Algemeen,1960-1971
+2055 Mobile telecommunications; North Atlantic Frequency Plan,1951-
+1959
+141 Radio-telephony broadcast of meteorological information,1952
+2054 Mobile telecommunications,1954-1955
+142 Regional Plan,1955-1959
+139 Procedures,1958-1959
+2201 Mobile telecommunications; Frequency Plan,1960
+2203 Regional Plan; correspondentie,1960-1971
+251 Wijziging van het Regional Plan en van de Regional Supplementary 
+Procedures,1972-1979
+div.nrs. Pacific.
+1952-1968
+140 Algemeen,1953-1959
+143 Mobile communications,1952-1957
+2202 Regional Plan,1960-1968
+2038-2039, 2191
+African-Indian Ocean.
+1952-1969
+2038 African-Indian Ocean,1952-1955
+2039 Regional Plan,1956-1959
+2191 Regional Plan,1961-1969
+div.nrs. Caribbean.
+1952-1979
+2192 Algemeen,1961-1970
+2240, 3269 Caribbean/South American regional air navigation meeting; informal
+implementation meeting 1/77.1977-1978
+3269 1/77,1977
+2240 1/77,1977-1978

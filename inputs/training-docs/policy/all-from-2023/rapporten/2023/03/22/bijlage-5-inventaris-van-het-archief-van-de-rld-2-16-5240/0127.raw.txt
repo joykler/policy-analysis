@@ -1,0 +1,55 @@
+2.16.5240 VW / Rijksluchtvaartdienst 127
+transport; 1e - 2e zitting.
+10034 Study group on instruments and equipment, including radio, 
+required for varying flight conditions in aeroplanes of less than 
+12500 LBS or 5700kg; 1e - 2e vergadering.
+9128 Study group on instruments and equipment, including radio, 
+required for varying flight conditions in aeroplanes of less than 
+12500 LBS or 5700kg; 1e - 2e vergadering.
+10041 Study group on international exchange of pilot licences; 1e 
+vergadering.
+9126 Study group on international exchange of pilot licences; 1e 
+vergadering.
+9118 Study group on multilateral agreement relating to certificates of 
+airworthiness.
+9100 Study group on national fares regulations; 1e vergadering.
+10001 Study group on non-scheduled services and inclusive tours; 1e - 5e 
+zitting.
+10010 Study group on non-scheduled services and inclusive tours; 6e 
+zitting; 07e - 10e vergadering.
+10039 Study group on the application of Civil Aviation Organisation annex 
+6 to non-scheduled operations; 1e - 3e vergadering.
+9122 Study group on the application of International Civil Aviation 
+Organisation annex 6 to non-scheduled operations; 1e - 3e 
+vergadering.
+10042 Study group on the consequences of the introduction of jet aircraft 
+on the economy and operating conditions of air transport in Europe, 
+including airport investments and revenue; 1e vergadering.
+10033 Study group on the interchange of aircraft; 1e - 2e vergadering.
+9127 Study group on the interchange of aircraft; 1e vergadering.
+9103 Study group on the report of the Economic Committee of the Council
+of Europe on certain financial and economic aspects of air transport 
+operations; 1e - 2e vergadering.
+9099 Study group on the study of European traffic lanes; 1e - 2e 
+vergadering.
+10040 Study groups concerning the basic training of flight personnel and 
+the training of air navigation services ground personnel.
+10025 Task force on competition in intra-European services; 
+vergaderingen.
+9093 Technical Committee; 1e - 5e vergadering.
+13100 Technical Committee; 6e vergadering.
+10036 Technical Committee; group for the review of the status of 
+implementation of European Civil Aviation Conference 
+recommendations on technical questions; 1e - 2e vergadering.
+10043 Technical Committee; operations working group on mimimum 
+performance specifications for automatic pilots on general aviation 
+aircraft; 1e vergadering.
+10032 Technical Committee; study group on the performance 
+characteristics of airborne navigation and communications 
+equipment; 1e - 5e vergadering.
+13108 Technical Committee; study group on the performance 
+characteristics of airborne navigation and communications 
+equipment; 6e vergadering.
+13109 Technical Committee; study group on the performance 
+characteristics of airborne navigation and communications 
+equipment; 7e - 11e vergadering.
