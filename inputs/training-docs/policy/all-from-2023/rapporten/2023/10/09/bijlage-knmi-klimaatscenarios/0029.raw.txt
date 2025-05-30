@@ -20,4 +20,4 @@ Windsnelheid in winter en zomer
 De gemiddelde windsnelheid verandert nauwelijks
 Winter Zomer
 Figuur 21. Gemiddelde windsnelheid in de winter (links) en de zomer (rechts) op station Schiphol: waarnemingen (zwart) en de vier KNMI’23-klimaatscenario’s (2050 en 2100).
-KNMI’23-klimaatscenario’s Trends en projecties per variabele 29
+KNMI’23-klimaatscenario’s Trends en projecties per variabele

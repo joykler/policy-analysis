@@ -22,4 +22,4 @@ extremen in de referentieperiode voor Nederland zijn weergegeven in de tabel
 voorin. Voor enkele variabelen die binnen Nederland duidelijke verschillen 
 vertonen, zoals het aantal zomerse dagen, staan de berekende waarden voor 
 diverse (stations)locaties achter in dit rapport.
-KNMI’23-klimaatscenario’s Inleiding 15
+KNMI’23-klimaatscenario’s Inleiding

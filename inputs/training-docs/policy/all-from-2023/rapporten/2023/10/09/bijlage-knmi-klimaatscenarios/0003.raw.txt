@@ -38,4 +38,4 @@ Wind gemiddelde windsnelheid 5,6 m/s ­ 0,1 m/s ­ 0,1 m/s 0,0 m/s +0,1 m/s ­ 0
 aantal dagen met windrichting  13 dagen +0,1 dagen ­ 0,8 dagen 0,0 dagen +0,1 dagen +0,1 dagen ­ 0,8 dagen ­ 1,7 dagen ­ 1,0 dagen
 tussen noord en west
 Tabel 1. KNMI’23-scenariotabel landelijk gemiddelden.
-KNMI’23-klimaatscenario’s Kerncijfers KNMI’23 3
+KNMI’23-klimaatscenario’s Kerncijfers KNMI’23

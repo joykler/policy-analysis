@@ -5,4 +5,4 @@ Verandering rond 2100
 Figuur 22. Dagen per jaar met windsnelheid in K13 (Noordzee, 53,2°N, 3,2°O) met meer dan 14 m/s, 
 bij verschillende windrichtingen in 1991-2020 en in het Hn-scenario rond 2100 (boven), en verschil 
 tussen deze twee (onder).
-KNMI’23-klimaatscenario’s Trends en projecties per variabele 30
+KNMI’23-klimaatscenario’s Trends en projecties per variabele

@@ -44,4 +44,4 @@ Zonnestraling gemiddelde 77 W/m² +3,7 W/m² +3,5 W/m² +3,7 W/m² +1,4 W/m² +3
 2
 Vochtigheid gemiddelde relatieve vochtigheid 85% ­ 1% 0% ­ 1% 0% ­ 1% 0% ­ 1% 0%
 Wind gemiddelde wind snelheid 4,7 m/s ­ 0,1 m/s ­ 0,1 m/s ­ 0,1 m/s 0,0 m/s ­ 0,1 m/s ­ 0,1 m/s ­ 0,2 m/s ­ 0,1 m/s
-KNMI’23-klimaatscenario’s Kerncijfers KNMI’23 4
+KNMI’23-klimaatscenario’s Kerncijfers KNMI’23

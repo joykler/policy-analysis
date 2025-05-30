@@ -31,4 +31,4 @@ de aantallen aanvragen en de aantallen afgehandelde aanvragen binnen dezelfde pe
 rechtstreeks met elkaar in verband gebracht.
 157 
 data.overheid.nl/communities/open-data-migratieketen
-De Staat van Migratie 2023 147
+De Staat van Migratie 2023

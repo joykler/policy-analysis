@@ -30,4 +30,4 @@ Droge seizoen
 Wind gemiddelde 8,0 m/s +1% 0% +2% +1% +1% 0% +7% +3%
 2
 windsnelheid 
-KNMI’23-klimaatscenario’s Kerncijfers voor de BES-eilanden 37
+KNMI’23-klimaatscenario’s Kerncijfers voor de BES-eilanden

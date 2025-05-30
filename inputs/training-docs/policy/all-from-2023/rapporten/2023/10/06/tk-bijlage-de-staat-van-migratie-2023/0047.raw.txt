@@ -38,4 +38,4 @@ Studenten 10 10 50%
 Arbeid 190 190 24%
 Overig 420 420 19%
 Totaal 5.980 5.290 28%
-De Staat van Migratie 2023 47
+De Staat van Migratie 2023

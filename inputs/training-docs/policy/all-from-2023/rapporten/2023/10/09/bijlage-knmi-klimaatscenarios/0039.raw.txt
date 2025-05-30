@@ -24,4 +24,4 @@ berekenen we de herhalingstijd van verschillende windsnelheden nabij de BES-
 eilanden (figuur 30). Dit doen we met een statistisch model dat orkanen berekent, 
 uitgaande van karakteristieken van toekomstige orkanen. De zo berekende 
 herhalingstijden zijn voor Bonaire ongeveer twee keer zo lang als die voor Sint 
-KNMI’23-klimaatscenario’s Klimaatscenario’s voor de BES-eilanden 39
+KNMI’23-klimaatscenario’s Klimaatscenario’s voor de BES-eilanden

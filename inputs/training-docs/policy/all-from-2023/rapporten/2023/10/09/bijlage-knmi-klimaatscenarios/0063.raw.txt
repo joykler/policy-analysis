@@ -23,4 +23,4 @@ Aantal tropische dagen (max temp ≥ 30°C) per jaar 7,7 dagen 16 14 20 16 16 14
 Aantal vorstdagen (min temp < 0°C) per jaar 51 dagen 41 41 32 30 41 41 13 12
 Aantal ijsdagen (max temp < 0°C) per jaar 7,8 dagen 4,3 4,0 3,9 3,3 4,3 4,0 0,2 0,4
 Tabel 6. KNMI’23-scenariotabel voor vijf locaties. De scenariogetallen zijn het gemiddeld aantal dagen per jaar rond 2050 en rond 2100.
-KNMI’23-klimaatscenario’s Kerncijfers voor vijf locaties 63
+KNMI’23-klimaatscenario’s Kerncijfers voor vijf locaties
