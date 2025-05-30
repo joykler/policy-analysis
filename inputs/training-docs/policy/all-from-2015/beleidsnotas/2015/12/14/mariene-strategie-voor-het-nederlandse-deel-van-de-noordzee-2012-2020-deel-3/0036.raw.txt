@@ -1,0 +1,44 @@
+Tabel 3.1    Economisch belang van het Nederlandse deel van de Noordzee (2005-2027)
+ Werkgelegenheid  x 1000 FTE 
+ Productiewaarde  x 1.000.000 € 
+ Toegevoegde waarde  x 1.000.000 €
+2005 2008 2010 2011 2015 2021 2027
+Scheepvaart Werkgelegenheid 8,0 7,7 8,7 8,6 5,5 5,0-5,4 4,6-5,4
+Productiewaarde 4913 4876 3885 3885 3134 3098-3604 3002-4048
+Toegevoegde waarde 1337 1211 727 616 602 595-693 577-778
+Visserij Werkgelegenheid 0,61 0,56 0,54 0,52 0,4 0,4 0,3-0,4
+Productiewaarde 100,4 105,7 93,4 90,3 100 85-93 75-85
+Toegevoegde waarde 41,5 32,5 26,3 23,0 23 19-22 17-21
+Olie-	en	 Werkgelegenheid 2,5 2,9 2,3 2,7 2,5 2,1-2,2 1,5-1,8
+gaswinning
+Productiewaarde 5673 8477 5389 6004 5409 4483-4694 3186-3857
+Toegevoegde waarde 4196 6834 4099 4748 4277 3546-3711 2519-3050
+Zandwinning Werkgelegenheid P.M. P.M. P.M. P.M. 0,2 0,2 0,2-0,6
+Productiewaarde P.M. P.M. P.M. P.M. 133 91 91-314
+Toegevoegde waarde P.M. P.M. P.M. P.M. 31 21 21-72
+Windenergie Werkgelegenheid - 0,1 0,1 0,2 0,5 1,5 2,2
+Productiewaarde - 54 55 66 254 779 1146
+Toegevoegde waarde - 31 29 35 76 233 343
+Totaal		 Werkgelegenheid 11 11 12 12   
+op	zee
+Productiewaarde 10686 13512 9423 10046   
+Toegevoegde waarde 5575 8109 4882 5422   
+Zeehavens Werkgelegenheid 118 126 118 120   
+Productiewaarde 63199 85761 82592 95904   
+Toegevoegde waarde 15857 17305 15017 16436   
+Kustzone Werkgelegenheid 32 35 34 34   
+Productiewaarde 2537 2946 2755 2745   
+Toegevoegde waarde 1318 1451 1367 1350   
+Totaal		 Werkgelegenheid 150 161 151 154   
+op	land
+Productiewaarde 65736 88707 85348 98649   
+Toegevoegde waarde 17175 18756 16384 17786   
+Totaal		 Werkgelegenheid 161 172 163 166   
+zee	+	land
+Productiewaarde 76422 102219 94770 108695   
+Toegevoegde waarde 22749 26865 21266 23208   
+Bronnen: de cijfers over de periode 2005-2011 zijn afkomstig uit CBS, Economic description of the North Sea for the Netherlands, 2005-
+2008-2010-2011, edition 2014 (2014); de cijfers over periode 2015-2027 zijn afkomstig uit Ecorys, Baseline Scenario Marine Strategy 
+Framework Directive (2013). 
+Nb De cijfers over de periode 2015-2027 met betrekking tot olie- en gaswinning zijn herberekend op basis van Ecorys-indexcijfers.
+34 | Mariene Strategie voor het Nederlandse deel van de Noordzee 2012-2020 (deel 3)
