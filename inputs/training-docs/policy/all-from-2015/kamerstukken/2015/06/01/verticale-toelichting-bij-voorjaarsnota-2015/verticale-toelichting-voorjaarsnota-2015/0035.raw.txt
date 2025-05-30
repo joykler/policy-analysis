@@ -54,6 +54,4 @@ de Centrale Raad van Beroep.
 Eindejaarsmarge SZA en ramingstechnische veronderstelling in=uit 
 Dit betreft de overheveling van de eindejaarsmarge naar de begroting van SZW. Gelijktijdig is de 
 ramingstechnische veronderstelling in=uit geboekt op de Aanvullende Post. De combinatie van 
-beide bewerkstelligt dat het totale uitgavenbeeld niet wijzigt.  
- 
-35
+beide bewerkstelligt dat het totale uitgavenbeeld niet wijzigt.

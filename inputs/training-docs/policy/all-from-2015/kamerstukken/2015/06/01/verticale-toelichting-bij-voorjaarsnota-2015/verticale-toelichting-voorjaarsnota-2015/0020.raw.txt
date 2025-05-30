@@ -16,6 +16,4 @@ Nieuw afgesloten swaps leiden tot mutaties op de baten.
  
 Rentebaten 
 De raming van de rentebaten kasbeheer is aangepast, als gevolg van een wijziging van de 
-rekenrente. 
-  
-20
+rekenrente.

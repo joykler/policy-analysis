@@ -62,5 +62,4 @@ en de financieringsbehoefte.
  
 Rente vlottende schuld 
 De raming van de rentelasten vlottende schuld wijzigt als gevolg van bijstellingen van de 
-rentetarieven en de financieringsbehoefte.  
-19
+rentetarieven en de financieringsbehoefte.

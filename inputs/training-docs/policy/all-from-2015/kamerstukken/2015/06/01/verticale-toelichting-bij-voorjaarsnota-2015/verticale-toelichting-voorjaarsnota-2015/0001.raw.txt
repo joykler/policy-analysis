@@ -27,7 +27,4 @@ alle HGIS-uitgaven.
  
 De ondergrens is afhankelijk van de omvang van de begroting en verschilt voor de verschillende 
 categorieën mutaties. De post diversen bevat de mutaties die onder de ondergrens vallen en wordt 
-in principe alleen toegelicht, indien er bijzonderheden voordoen. 
- 
-  
-1
+in principe alleen toegelicht, indien er bijzonderheden voordoen.

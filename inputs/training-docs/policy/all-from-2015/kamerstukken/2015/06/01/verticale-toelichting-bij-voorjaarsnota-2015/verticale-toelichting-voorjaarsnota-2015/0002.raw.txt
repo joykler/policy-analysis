@@ -36,7 +36,4 @@ Sociale Zekerheid -558,6 130,5
  Arbeidsvoorwaarden -590,2 0,0 
  Koppeling Uitkeringen -28,5 0,0 
  Aanvullende Post Algemeen -1.060,8 0,0 
-   Homogene Groep Internationale Samenwerking 274,9 3,4 
- 
-  
-2
+   Homogene Groep Internationale Samenwerking 274,9 3,4
