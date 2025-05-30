@@ -1,0 +1,64 @@
+dneOrzo ek rudho done BE-S odnsf 2015 
+ 
+De set orotg eneadrgb denorw esbeted  aan iineddemldsebiabr ,g ,ganidekorvnp 
+ecor pjeeetrnngonj (eo oclsahsn i eitniveatct oov r deou er )enidekrn ,  eplkipjacahsatm ekrw en
+oov r Be aionr o ok de .akpaaennkijw B ij gnaovpidekrn ho o tr de m iegkrnop tda di t s deel ar tex
+de mlenid ibj de arle egitn de mlenid nijz die aa rn deorikn ganvp di enen et .aang  
+ 
+E en ee lkiduijd lekdlneijaie eiripo,tirt i etnub de arlei etgn ,eniddeml s i sukn,t m a use en eioer vg
+erlec uult .enieticittva E en deel  anv deze ieitivetcta n is hi tcerg o p .miesoter Lcehlei prt s i o ok ene
+ aatk die de  enidlane alle ire d enuellvrv en aa wr ze m ee r ana euneivgt dan de sern.deogrn  
+Rf eliate i geiwn o dtrw eneveiggtu aan oevrvenignleelr e,r sij deowrn meenealg en eecl uultr
+oeefrd.g B ij oe vrervleeenlrign e ldtg dat de  enaivgtu ov oarl de  enoseltsskeonepr eertff.ben De 
+u esbns en oovarl e th ud ehrodon anevr o dtrw e tin ailtj d m enoenegme ibj de osk.etn  
+ 
+De  aatk ignuilermst em ioecon f thee ibj Si tn Esiustu  en Sa ab ief erlat ii ngew .enavgitu Hi iebrj
+di ten m tekreogp et  neodrw dat de  aatk een e gen iinitdef e .tenk He t a atg ine t m o ignuilermst anv
+de ioem econ i n erde b zi,n  tanw daa r ank de ,nheavzee ew c etneojidshereenpleggkr en e kijeldegr
+o ok deo rn .allenv He t aatg om  imgnuilerst anv de onec ioem o rdo mies oter e t eermnsuitl of 
+deera n chsme cioone o sernect (sz oal u wodblan en sivesr )ij of he t M-idden  ne Kfi jleedribn et 
+.eermnsuitl O ok o rov ignsdirtojeedeabmr e ldtg dat de def e iitin anv de  aatk nee s tdauacapnnht s.i 
+De  aatk gndiirjesebmtoedar tenk een e gen .defeiinit A diirgnjesebmrtoed i n erde b zi n ank
+ igkeertknb enhbeb o p sidewrj,on iepiiatpcsaetrpiabrd c,etneorj  ganeorvpidkn .zoeoonsvtr De 
+ aatk diignjsrtoeedeabmr s i teekprb o tt enelaeratgm ov o r oetr k m niejtr ignsetundeorn anv
+,enmsen lsz oa ,eetntkalkpdseoev e altebn anv enarfegb osi,etsnk he t l eteecniidn e altebn anv een
+ ignseerenkictiiertlekt en ee.lkidegrj  
+ 
+ 
+ elTba 3.6 itreiiotpren  ni het e liacos inmedo
+ 
+ 
+Bnoriae  Stni Eusautits aSba 
+8a 
+Odnrsjiewhusivgsnite kjir  / -- kjir  /-- kjir / - 
+7c 
+Kdnirevpoagn kjir / i m / -  mi / +  mi / ++ 
+7 f
+Jgnoeeprnjorceten kjir / i m / ++   mi / +/- kjir / +/- 
+6b Absdirbmeeddilgnei e n
+eabsdiarciptriapeit  mi / ++  mi /-  mi / ++ 
+6a 
+Aomredebisrtenidjg I m / ++  mi / --  mi / ++ 
+6c 
+Sumitlenirg conoeime  mi / ++ /mi - /mi - 
+7a b Pvereitnvee 
+znogeihdesdgzro e n
+verpeitnvee (ugej)d gzro  mi / -   mi / + + 
+7 d Maastchlak jeippe
+dsnortieuneg n aan 
+stkewaebr greoepn  mi / -   mi / ++  mi / -- 
+7e Scoail e veliighie d
+(awdanorre iw)knje  mi / ++   mi /  -  - 
+8e 
+Blhbtoiiknee kjir / + kjir / + kjir / +/-  
+9a Ksu,nt umase ne voirege 
+cul leeutr acvitiietetn ++ ++ ++ 
+8 
+Lrelpeciht +/- + + 
+9c 
+Sropt ++ ++  - 
+8 d Scoail e kaasrntjcete n +/- +/- + 
+gnojrnee    
+9b 
+Culelutre egofr,de acrhei f +/- -- -- 
+ 30
