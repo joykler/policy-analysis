@@ -1,0 +1,58 @@
+NAV 58114
+Annex 7, paqe 5
+Identifier
+Gaps Competent
+Sub-Committee(s)
+Operational
+134-GopO2 Seafarers sometirries experience accessing
+difficulties in NAV/COMSAR
+necessary information because of ergonomic_problems.
+• Training (no gaps identified)
+1 34-GtrDl
+Deleted.
+3.3 Presentation of Information recelved via
+communkation equipnient
+(e.g. MSI) on the navigation
+display
+Teclinîcal
+1 35-GteOl a
+Deleted.
+135-GteOlb
+Lack of technical harmonized solutions for processing, NAV/COMSAR
+routeing,
+filtering and display of information received via
+cammunication equipment to enabte transfer of the
+information to navigational_systems.
+1 35-GteOl c Deleted.
+135-GteOld Deleted.
+135-GteOle
+Insufficient means for sorting and display of MSI such as NAV/COMSAR
+NAVTEX, SafetyNET.
+Insufficient network of storage, sharing and distribution
+of MSI.
+135-GteOlf
+Lack of user-selectable and task-oriented presentation of NAV
+information received via communication equipment
+(inciuding_MSI)_en_navigational_systems.
+1 35-GteOl Deleted.
+g
+135-GteOlh Unless having subscription,
+prior the current system does NAVICOMSAR
+not allow for MSI and other navigational warningslbroadcast,
+etc. to be received in real-time mode and be integrated or in
+conjunction_with_the_navigation_display.
+135-GteOli Unavailability of information in real-time with possible NAV
+presentation display
+on the navigational to support bridge
+operation.
+135-GteOlj Lack of integrated for digital NAV
+secondary screen option
+publications and MSI.
+135-GteOlk Deleted.
+135-GteO2 Lack of information about special berthing requirements NAV
+on navigation_systems_especially for pilotage.
+1 35-GteO3 Deleted.
+Regulatory_(no_gaps_identified)
+Operational (no_gaps_identifîed)
+Training_(no_gaps_identifled)
+I:\NAV’58\14.doc

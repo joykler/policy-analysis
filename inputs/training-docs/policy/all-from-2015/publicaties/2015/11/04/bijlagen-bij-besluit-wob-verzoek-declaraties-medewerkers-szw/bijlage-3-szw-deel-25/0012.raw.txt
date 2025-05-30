@@ -1,0 +1,29 @@
+25 
+Overzicht reisdeclaratie 
+Rijksoverheid 
+Declaratienummer: 
+Personeelsnummer: 
+Naam: 
+Reisgegevens: 
+Reisdatum en tijdstip reis: 15/04/2014 08 30 t/m 15/04/2014 10:30 
+Reden: bijeenkomst 
+Toelichting: 
+Wijze van vervoer: Openbaar vervoer 
+Route: Vertrekpunt: Delft Van Leeuwenhoeksingel 
+Bestemming: Haartemmermeer Aankomstpassage 
+Kosten openbaar vervoer: 
+Bedrag Betaalbewijs 
+Datum Kostensoort 
+vereist 
+(Euro) 
+15/04 Openbaar vervoer 3240 X 
+32,40 
+Subtotaal gedeclareerde kosten 
+Te ontvangen 32,40 
+1 
+^^-04-2014 
+! retour 
+Delft 
+Schiphol 
+iUR 32.« 
+Pagina: 1/1

@@ -1,0 +1,54 @@
+NAV 5813/4ICorr.1
+Page 2
+ANNEX 3
+THE DEFINING GEOGRAPHICAL POSITIONS OF THE AMENDED
+“0FF TEXEL TRAFFIC SEPARATION SCHEME”
+Reference chart Netherlands 1631 (INT 1418 edition 3)
+Note: This chart is based on World Geodetic System 1984 datum (WGS
+84)
+Description of the traffic separation
+scheme
+(a) A separation zone is bounded by a line connecting the following geographical
+positions:
+(1) 53° 05’.42 N 004° 2360
+E (5) No position necessary
+(2) 52° 59’.95
+N 004° 17’.89 E (6) 52° 49’.59 N 003° 58.56 E
+(3) 52°
+51 ‘.85 N 004° 12’.64 E (7) 52° 56’.53 N 004° 00’.92 E
+(4) 52° 45’.85
+N 004° 05’.04 E (8) 53° 06’.48 N 004° 20’.79 E
+(b) A traffic lane for north-eastbound traffic is established between the separation zone
+in paragraph (a) and a line connecting
+the following geographical positions:
+(9) 53° 03’.82 N 004° 27’.80 E (Ila) 52° 44.6O N 004° 09’.90 E
+(10) 52° 58’.60 N 004° 2234 E (lib) 52° 43.48 N 004° 09.14E
+(11) 52°50’.38N
+004°1701E
+(c) A traffic lane for south-westbound traffic is established between the separation zone
+in paragraph (a) and a line connecting the following geographical positions:
+(12b) 52° 56’.67
+N 003° 53’.44 E (13) 53° 08’.17 N 004° 16’.35 E
+(d) A separation zone west of the separation zone in paragraph (a) is established and
+bounded by the following geographical positions:
+(14)
+52° 50’.60 N 003° 56’.80 E (16) 52° 54’.31 N 003° 56’.67 E
+52°
+(15) 55’.22 N 003° 58’.32 E (17) 52° 52’.31 N 003° 53.83 E
+(e) A southbound traffic lane branching off from the rnain south-westbound traffic Tane is
+established between the separation in paragraphs and (d) and the
+zones (a)
+boundaries
+of the south-westbound traffic lane are extended, as described in
+paragraphs (f) and (g).
+(t) The north-western boundary of
+the extended south-westbound traffic lane is formed
+by a line
+connecting the following geographical positions:
+(12a) 52° 35’.71 N 003° 25’.56 E (12b) 52° 56’.67 N 003° 53’.44 E
+(g) The south-eastern boundary of the south-westbound traffic lane is formed
+extended
+by a line connecting
+the following geographical positions:
+(17) 52° 52’.31 N 003° 53’.83 E (18) 52° 36’.04 N 003° 31 02 E
+I:NAV\58\34-Corr-1 .dcc

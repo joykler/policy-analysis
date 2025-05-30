@@ -1,0 +1,52 @@
+NAV 58114
+Annex 9, page 3
+MODULE A - SENSOR
+4 MEASUREMENT OF ACTUAL HEEL ANGLE
+heel angle and
+4.1 Electronic inclinon-ieters should be capable of measuring the actual
+oscillation ship over ±90 degrees.
+determining the amplitude of the rolling of the a range of
+5 MEASUREMENT OF ROLL PERIOD
+between the
+5.1 Electronic incilnometers should be capable of measuring the time
+maximum values of the rolling oscillation and determining the roll period over a minimum
+range of 4 seconds.
+to 40
+6 ACCURACY
+6.1 Electronic incilnometers should provide the data with sufficient accuracy for a proper
+assessment ofthe situation. Minimum accuracy of the measurements should
+ships dynamic
+measuremerits and 5% of
+be 5% of reading or ± 1 degree whichever is the greater for angle
+reading or ± 1 second whichever is the greater for time measurements.
+6.2 and time measurement accuracy should be unduly affected by
+Actual heel angle not
+of the vessel (as surging, heaving,
+other linoar er rotational movements e.g. swaying,
+pitching, yawing) or by transverse acceleration ranging from -O.8g to +0.8g.
+MODULE B - OPERATIONAL AND FUNCTIONAL REQUIREMENTS
+7 DISPLAY
+REQUIREMENTS
+7,1 Electronic inclinometers’should display:
+with minimum resolution of 1 second; and
+- the roll period a
+side with resolution of 1
+- the roll amplitude to both port and starboard a minimum
+degree.
+in analogue form
+7.2 The actual heel angle to port or starboard should be indicated an
+between the limits of ±45 degrees.
+The be impleniented as a dedicated display or integrated into other
+7.3 display may
+bridge systems.
+8 OPERATIONAL ALERTS
+for parametric4roll and/or
+8.1 Electronic inclinometers may optionally provide a warning
+synchronous rolling detection.
+optionally provide a warning for indicating that a set
+8.2 Electronic inclinometers may
+heel angle had been exceeded.
+on revised guidance to the Master for avoidlng dangerous stuaUons In adverse
+Refer to MSC.1/Circ.1228
+weather conditiens.
+I:\NAV58\1 4.doc

@@ -1,0 +1,83 @@
+Cover
+report on the (formal) safety aesessmcnts for 26 maart 2012
+1
+1. Introducton
+This
+Introductive chapter serves to make the reader acquainted wlth the history, context, motives,
+objectives and
+methods of the Formal Safety Assessment (FSA) and wlth the structure of this
+report, In whlch the FSA process is documented.
+1.1. Contributors to the FSA
+In order to arrive at a widely supported and thoroughly Formal
+argumented Safety Assessment, the
+FSA process
+has seen the invoivement of a number of organisatlons. This cover report hereafter
+referred to as “FSA cover report” has been
+drafted by Arcadis (UK) and the Dutch Ministry of
+Infrastructure and the Envlronrnent (the competent authority in
+representing the Netheriands
+IMO). The
+report summarizes and Interprets the resuits of three separate assessments: a
+qualitative PSA (a FSA/HAZID assessment based on
+expert judgement), a Quantitative Risk
+Analysis (QRA) and a Munitions Risk Analysis (MRA). These three were commissioned
+assessments
+by the Dutch Ministry of
+Infrastructure and the Environment and the Port of Rotterdam, after
+consuitatlon with the Port Amsterdam
+of and a Consortium of wind farm developers. The three
+assessments
+were undertaken by Arcadis (UK), Marin and TNO respectively.
+The following professionals and organisations
+have contributed to the FSA HAZID workshop and
+consequent discussions:
+Name (Print) Title
+Company
+Plinistry of Transport, Public
+Capt. Fred
+Bloot Representing
+Works Watermanagement
+&
+Capt. Jan F. van den Hoek Rotterdam Pilots
+Pilot Dutch Association
+Public
+(4inistsy of Transport,
+Capt. W. Verha
+gen Representing
+Works & Watermar,agement
+Netherlands Shipsmaster
+CaptAlex van Binsbergen Representing
+Association
+Harbour Port of
+Master
+Capt Ben van Scherpenzeel
+Represent,’ng
+Rotterdam
+Cdr Theo Hamburger Representing Hydrografïc Office
+Jan Schaap Representing
+Hydrografic Office
+Janneke van Berlo Representing
+RWS
+Capt
+Martin Dekker Representing NWEA
+3. Dekkers
+Representing NWEA
+Capt 3 van Kooten Representing
+RWS
+Tanya Atameneriko Hazid Scribe Arcad/s-Vectra
+Jan Clark
+Facil/tator Arcadis-Vectra
+Capt Thomas 3. Pro ctor Chairman Arcadis-Vectra
+The foliowing professionals and organisation have contributed to the desk studies for the QRA and
+MRA:
+Name
+(Print) Title Company
+C. van der Tak MSc Risk
+Analysis expert MARIN
+W.H. van leperen MSc Projectmanager MARIN
+Ei. Kroon MSc
+Projectmanager TNO
+Arnmun/t/ons
+N.H.A. van Ham MSc . TNO
+specialist
+Pagina 12o44

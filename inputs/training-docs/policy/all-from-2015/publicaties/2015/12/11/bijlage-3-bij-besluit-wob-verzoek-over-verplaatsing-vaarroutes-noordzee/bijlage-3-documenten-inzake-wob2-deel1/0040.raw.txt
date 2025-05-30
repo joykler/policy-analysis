@@ -1,0 +1,70 @@
+NAV 58/14
+Page 18
+.3 the Committee to invite Member
+Governments to advise manufacturers to
+affix
+product labels to the equipment AIS-SART, EPIRB-AIS and AlS MOB,
+clearly indicating that these AlS devices must be regarded as location aids
+in emergency situations and not as distress alert systems.
+5.23 The CIRM observer ITU
+advised that had chosen CIRM to issue the manufacturer
+identification (id)
+number to such AIS-based devices. Accordingly, CIRM would add this
+labellirig information to the documentation circulated manufacturers requesteci
+when an id
+number, and would also inform all existing holders
+of id numbers of this requirement.
+6
+DEVELOPMENT OF AN E-NAVIGATION STRATEGY IMPLEMENTATION PLAN
+6.1 The Sub-Committee recalled that:
+NAV
+.1 55, NAV 56 and NAV 57 respectively had established a working
+group, including a correspondence group to werk intersessionally to
+progress the issue. MSC 87 and
+MSC 88 had noted the progress made to
+date; and
+.2 STW 42 and COMSAR 15 had also considered the reports of the
+relevant
+Correspondence established by
+Group the NAV Sub-Cornmittee and
+provided their
+expert input to the development process of e-navigation.
+6.2 The Sub-Committee noted that COMSAR 16 had endorsed final draft
+the list of gaps
+relevant to radiocommunications and search
+and rescue (COMSAR 16/WP.5/Rev.1
+annex 3) and instructed
+the Secretariat to forward it to both STW 43, for further revision from
+the training
+perspective, and NAV 58, for final consideration.
+6.3 The Sub-Committee noted that commented
+further STW 43 had that:
+.1 some training elements, especially those that were in general covered
+by
+the STCW Convention and Code, might need to be reviewed in the
+future in
+light of the developments
+forthcoming on e-navigation; and
+.2 the revision, updating or development of training elements should only be
+considered in the future, after having a dear understanding
+of the potential
+technical, operational and regulatory e-navigation
+solutions that would be
+developed
+by the Organization.
+6.4 Accordingly, STW 43 had instructed the Secretariat issue revised version
+to a of the
+report of the Working
+Group (STW43IWP.3!Rev.1), in order to allow the
+Sub-Committee
+NAV to refer to the revised draft list of gaps as agreed by STW.
+Consequently, STW 43 had endorsed the final draft list of gaps relevant to training
+(STW 43/WP.3/Rev.1, annex) and instructed the Secretariat to forward it to NAV 58, for
+final
+consideration.
+6.5 The Sub-Committee noted that MSC 90, as requested by NAV 57, had approved:
+.1 cu rrent
+overarching e-riavigation architecture;
+.2 proposed way forward for developing a Common Maritime Data Structure
+(CMDS);
+I:NAV\58\14.dQc

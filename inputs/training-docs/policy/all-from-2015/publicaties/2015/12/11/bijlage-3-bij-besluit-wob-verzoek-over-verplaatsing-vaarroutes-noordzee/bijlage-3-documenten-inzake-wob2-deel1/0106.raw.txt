@@ -1,0 +1,59 @@
+NAV
+58114
+Annex 7, page 2
+Identif
+Ier Gaps Corn petent
+Sub-Committee(s)
+Operational
+112-GopOl Lack of assessments procedure NAV
+to quantify reliability
+parameters (e.g.
+specific assessment of electronic
+position_fixing_systems).
+Training
+1 1 2-GtrOl Improved competence of installation repair
+and person for NAV
+providing better_reability_of_systems_and_equipment.
+11 2-GtrO2 Deleted,
+1.3 Nautical charts and publications
+Technical (no gaps identified)
+Regulatory -
+113-GreOl Lack of standardized symbology of all NAV
+information required
+display
+to on the navigational system (eg. S-52 exist but
+lack of symbology_for MIO_elements).
+Operational_(no_gaps_Identified)
+Training
+1 13-GtrOl FamUiarization to presentation and context of information STW
+such as
+metadata and all ancillary data to charts.
+2 Effective and robust voice
+communication and data
+transfer
+Technlcal
+120-GteOl No reference to determine reliability of maritime COMSAR
+communication.
+Insufficient reliability data/voice
+of communications (users
+require communication without interference, disruption
+and noise).
+Lack of rellability standards for communication
+technology.
+120-GteO2 Possible lack of bandwidth and assignment of adequate NAV/COMSAR
+bandwidth for potential e-navigation communication
+needs, inciuding short range communication.
+120-GteO3 of systems for source
+Lack and channel management for NAV/COMSAR
+communication equipment.
+Lack of seamless cornmunication means for exchanging
+navigation information
+(eg. intention, alarm, etc.) between
+ships.
+Insufficient techniques and procedures for exchange of
+data between ship, shore and on board.
+Insufficient data protocols support
+to the exchange of
+reliability information describing data and system integrity.
+The Identified gap is not withln the remit ci the Organization or any of the relevant Sub-Comrnittees.
+l:NAV5814.doc

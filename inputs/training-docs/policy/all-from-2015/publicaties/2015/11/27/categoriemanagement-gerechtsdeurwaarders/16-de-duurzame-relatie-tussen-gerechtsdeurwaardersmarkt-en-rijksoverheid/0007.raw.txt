@@ -1,0 +1,9 @@
+Bestuurlijke context: Inkoop Rijk
+ICBR = Interdepartementale Commissie Bedrijfsvoering Rijk
+ICIA = Interdepartementale Commissie Inkoop en Aanbesteden
+PMF FC   = Portfoliomanagement Facilitair
+PMF O&P = Portfoliomanagement Organisatie & Personeel
+PFM ICT  = Portfoliomanagement ICT
+CM GDW = Categoriemanagement Gerechtsdeurwaarders
+CM DC    = Categoriemanagement Datacenters
+Categoriemanagement Gerechtsdeurwaarders, 18-11-2015

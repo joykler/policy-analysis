@@ -1,0 +1,72 @@
+NAV 58/14
+Page 31
+13 ANY OTHER BUSINESS
+Casualty threshold, safe return to port and
+safe areas
+13.1 The
+Sub-Committee recalled that MSC 87 had approved MSC.lICirc.1369 on the
+Interim
+Explanatory Notes for the assessment of passenger ship systems’ capabilities after
+a fire or flooding casualty to provide additional for the uniform
+guidance implementation of
+SOLAS regulations H-1/8-1, 11-2/21 and 11-2/22.
+13.2 The Sub-Committee noted that neither NAV 56 nor NAV 57 was able to comment on
+the Interim Explanatory •Notes and 22 and
+agreed that its input on Interpretation
+Interpretation 27 in appendix 1
+of MSC.1/Circ.1369 was now required.
+13.3 Having considered document NAV 58/13 (IACS) proposing revisions to interpretation
+Nos. 22 and 27 of appendix 1 to MSC.1/Circ.1369 (NAV 58/13, annex),
+the Sub-Committee
+agreeci the proposal the
+subject to deletion of AlS and Daylight signalling lamp from the list of
+equipment essential for navigation, as set out in annex 13 and invited the Committee to
+approve It and issue an addendum to MSC.1/Circ.1369.
+13.4 The observer IACS
+from thanked the Sub-Committee for its input and reminded
+Members of
+the implications of their decisions.
+Progress on standards development
+by the IEC
+13.5 The Sub-Committee considered document NAV 58/13/1 (IEC) providing an update
+on the progress made in the developmentlrevision 61996-1,
+of varlous standards, ie. IEC
+IEC 61924-2 and IEC 62388.
+13.6 The Sub-Committee noted that, in the course of revising IEC 62388, a conflict had
+been highlighted between the requirements of resolution and the of
+MSC.192(79) availability
+modern flat
+panel displays. Resolution MSC.192(79) had a requirement for a minimum
+display area of 195 x 195 mm, 270 x 270 mm and 340 x 340 mm for three cases, which was
+not always consistent with the design and availability of modern displays embecided
+when in
+standard bridge consoles. Such displays the
+employed a different aspect ratio than
+parameter resolution
+considered when MSC.192(79) was developed. Unlike resolution
+MSC.192(79), resolution MSC.191(79) does not specify additional requirements for the
+display area. Resolution MSC.191(79) specifically states, case conflict,
+in of a the
+performance standards take priority over presentation
+requirements of the individual
+performance
+standards adopted by the Organization. IEC, therefore, intended to follow this
+resolution and only inciude the requirements for the diameter of the operational display area
+in the revision to IEC 62388.
+Information regarding ice navigation training project
+13.7 The Sub-Committee noted with appreciation the information provided in document
+NAV 58/INF.16 (The
+Nautical Institute) on their intention to develop international standards
+navigation
+for ice jointly with other industry partners.
+13.8 In this context, the Sub-Committee recalled that 2010
+the STCW Conference had
+adopted in
+Guidance regarding training of masters and officers for ships operating polar
+waters and the corresponding resolution 11 recommending that governments adopt
+measures conducive to ensuring that masters and officers of ships which operate in polar
+waters have appropriate training experience. Furthermore, Organization
+and the was
+developing a mandatory
+Polar Code for safety of life at sea and protection of the marine
+I:NAV\5814.doc

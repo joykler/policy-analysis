@@ -1,0 +1,42 @@
+NAV 58/14
+Annex 2, page 3
+AMENDMENT TO THE EXISTING DEEP-WATER ROUTE LEADING TO IJMUIDEN
+Reference chart Netherlands 1631 (INT 1418 edition 3)
+Note: This chart is based on World Geodetic System 1984 datum (WGS 84)
+Descriptlon of the amerided deep-water
+route
+The deep-water route consists of a deep-water channel (IJ-Geul) and a deep-water approach
+area (IJ-Geul approach area).
+The deep-water channel (IJ-Geul)
+(a) The specific deep-water channel is bounded by a line connecting the foliowing
+geographical
+positions:
+54’.gl
+(1) 52° 28’.lO N 004° 32’.02 E (16) 52° 29’.94 N 003° E
+(2)’ 52° 29’.OO N 004° 24’.16 E (17) 52° 29’.95 N 003° 55’.87 E
+07’.74
+(3)’ 52° 29’.65 N 004° 23’.45 E (18) 52° 30’.03 N 004° E
+09’.16 E
+(4) 52° 29’.39 N 004° 20’.73 E (19) 52° 30’.04 N 004°
+(5) 52° 30’.38 N 004° 11’.84 E (20) 52° 30’.06 N 004° 12.50 E
+(6) 52° 30’.36 N 004° 08’,93 E (21) 52° 29’.03 N 004° 21’.70 E
+(22)*
+E
+(7) 52° 30’.36 N 004° 07.51 E 52° 28’.80 N 004° 23’,41
+(8) 52° 30’.27 N 003° 55’.98 E (23)’ 52° 28.80 N 004° 23’.72 E
+(9) 52° 30’.26 N 003° 54’,91 E (24) 52° 27’.81 N 004° 31’.95 E
+Geographical positions (2), (3), (22) and (23) are connected by an arc of a circle
+with a radius of 0.432 mies centred at geographical position (x) 52° 29’.22 N
+004°23’,56 E
+The deep-water approach area (IJ-Geul approach area)
+(b) The specific deep-water approach area is bounded by a line connecting the
+following geographical positions:
+(9) 52° 30’.26 N 003° 54’.91 E (13) 52° 27’.31 N 003° 40.51 E
+(10) 52° 31’ 50 N 003° 54’ 91 E (14) 52° 28’ 07 N 003° 49’ 47 E
+(11) 52° 31’.50 N 003° 50’.57 E (15) 52° 28’.54 N 003° 54’.91 E
+(12) 52° 31’.49 N 003° 47’.17 E (16) 52° 29’.94 N 003° 54’.91 E
+Notes:
+Notes 2.1 to 2.4 are to remain unchanged.
+2.5, referring removed,
+Note to the emergency turning basin, is to be
+I:\NAV58\14.doc

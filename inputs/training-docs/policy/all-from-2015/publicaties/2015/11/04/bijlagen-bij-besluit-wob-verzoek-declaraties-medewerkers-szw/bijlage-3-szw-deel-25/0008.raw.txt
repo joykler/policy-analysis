@@ -1,0 +1,24 @@
+25 
+Overzicht reisdeclaratie 
+Rijksoverheid 
+Declaratienummer: 
+Personeelsnummer: 
+Naam: 
+Reisgegevens: 
+Reisdatum en tijdstip reis: 03/03/2014 07:00 t/m 03/03/2014 17:00 
+Reden: bijeenkomst 
+Toelichting: 
+Wjze van vervoer: Openbaar vervoer 
+Route: Vertrekpunt: Groningen Stationsplein 
+Bestemming: 
+Delft Van Leeuwenhoeksingel 
+Kosten openbaar vervoer: 
+Bedrag Betaalbewijs 
+Datum Kostensoort 
+(Euro) vereist 
+03/03 Openbaar vervoer 43,20 X 
+Subtotaal gedeclareerde kosten 43.20 
+Te ontvangen 43,20 
+22014 
+reis 
+Pagina: 1/1

@@ -1,0 +1,56 @@
+58/14
+NAV
+Annex 9, page 1
+ANNEX 9
+DRAFT RESOLUTION MSC.[. .J(92)
+(adopted on 2013])
+[...
+ADOPTION STANDARDS
+OF PERFORMANCE FOR
+ELECTRONIC INCLINOMETERS
+THE MARITIME SAFETY COMMITTEE,
+28(b) International Maritime Organization
+RECALLING Article of the Convention on the
+concerning the functions of the Committee,
+RECALLING ALSO resolution A.886(21), by which the Assembly resolved that the function of
+specifications, as amendments
+adopting performance standards and technical as well
+thereto shali be performed by the Maritime Safety Committee and/or the Marine Environment
+Protection Committee, as appropriate, on behalf of the Organization,
+NOTING that MSC.1/Circ.1228 Revised Guidance to the master for avoiding
+in on the
+heel angle
+dangerous situations in adverse weather and sea conditions, information about
+and roll period is regarded as relevant for assessment of ship’s stability situation in adverse
+weather and sea conditions,
+NOTING ALSO that, at its ninetieth session, t had adopted resolution MSC.333(90) on
+Revised Performance standards for shipbome voyage data recorders (VDRs), inciuding the
+with regard rolling motion, a VDR should be connected to an
+recommendation that, to the
+equipped with or connected to a suitable motion
+Electronic incilnometer or, if not installed, be
+sensorwith an equivalentmeasurement performance,
+instead of adding the requirement for
+NOTING FURTHER that, at its eighty-eighth session,
+had decided develop
+an Electronic inclinometer to the performance standards for VDRs, it to
+dedicated performance standards for inclinometers,
+RECOGNIZING the need minimum requirements for a heel angle and roll period
+to define
+provided in a reliable manner
+measurement device to ensure that heeling information is
+onboard ships to be used by the crew to assess the dynamic situation of the vessel and to be
+available for Marine casualty investigation,
+standards for
+HAVING CONSIDERED, at its [riinetysecond] session, the draft performance
+Electronic inclinometers prepared by the Sub-Committee on Safety of Navigation, at its
+fifty-eighth session,
+set out the annex
+1 ADOPTS the performance standards for Electronic inctinometer in
+to the present resolution;
+inctinometer installed on or
+2. RECOMMENDS Governments ensure that Electronic
+those specified in the
+after [1 July 2015), conform to performance standards not inferior to
+annex to the present resolution.
+I:NA’M814.doc

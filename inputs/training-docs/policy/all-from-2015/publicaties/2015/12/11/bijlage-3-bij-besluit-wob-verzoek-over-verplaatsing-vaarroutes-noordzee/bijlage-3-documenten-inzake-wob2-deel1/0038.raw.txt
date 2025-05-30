@@ -1,0 +1,98 @@
+NAV 58/14
+Page
+14
+5.7 In light
+of the foregoing, the Sub-Committee referred the Iiaison statement on the
+preparation of
+WRC-15 to the Technical Working Group to review initiatives on
+the proposed
+applications
+using AlS technology, and provide
+comments and advice, as appropriate.
+“Man overboard” slnillar
+(MOB) and devices using AIS-SART technology
+5.8 The SubCommittee recalled MSC 90
+that (MSC 90/28, paragraph 8.19) had
+instructed the Sub-Committee
+to develop draft guidance to seafarers, to be further
+considered and finalized
+by COMSAR 17, regarding the difficulties arising in interpreting the
+AIS-SART symbol,
+along with the established text message SART ACTIVE, when used for
+MOB
+and similar devices using AIS-SART technology.
+5.9 The Sub-Committee
+considered the information along with proposed draft guidance
+to seafarers provided
+by Australia (NAV 58/5/1) to assist the consideration concerns
+in of the
+raised
+at COMSAR 16 regarding the difficulties arising the
+in interpreting AIS-SART symbol,
+along with the established text ACTIVE,
+message SART when used for MOB and similar
+devices using AIS-SART technology.
+5.10
+In this context, the Sub-Committee agreed that regarding
+the issues raised the
+AlS text messages should be addressed
+by the Technical Working Group when considering
+the liaison statement
+from ITU-R WP 56 concerning the draft revision of Recommendation
+ITU-R M.1371-4
+(paragraphs 5.3 to 5.5 refer).
+5.11 The Sub-Committee further
+noted that, because some Member Governments had
+licensed/accepted the
+use of these types of devices; and they were obtainable over the
+Internet,
+other Member Governments were unable prevent their
+to use. Unfortunately, this
+had taken place before seeking international
+harmonization on matters of concern. It would
+have been beneficial if harmonization cii
+an international level had been debated at a much
+earlier stage in the
+process.
+5.12 The delegation of the United supported
+Kingdom, by others, expressed the view that
+AIS-SART was intended for
+the location of a survival craft as part of a suite of
+communications to
+be deployed within the GMDSS in a search and rescue situation.
+They
+were of the view that there was a need to address the fundamental whether
+question
+AlS should be used for distress communications.
+1f such devices were to be used for distress
+communications, then necessary
+the procedures should be followed in order to achieve an
+international acceptance
+of, and standards for, these devices including an understanding of
+relevant
+any actions that were Incumbent en manufacturers, owner/operators, response
+authorities and at sea: OnIy after
+addressing these issues, consideration might be given to
+what might constitute an appropriate
+message text.
+5.13 After a brief discussion, the Sub-Committee referred
+document NAV 58/5/1
+(subparagraphs 17.4 and .17.5
+and annex) to the Technical Working Group for the
+preparation of advice on
+the appropriate rnaritlme identity of diver locating devices, inciuding
+SN circular
+a draft providing guidance to seafarers regarding the difficulties arising in
+unterpreting the AIS-SART symbol, along the established niessage
+with text SART ACTIVE,
+wheri used for MOB and similar
+devices usung AIS-SART technology, to be further
+considered and finalized COMSAR
+by 17.
+Report of the Technical Working Group
+5.14 Having received
+and considered the Technical Working Group’s report
+(NAV 58/WP.5), the
+Sub-Committee, in particular (with reference to paragraphs 3.1 to 3.18
+and annexes 1 to 3), took action as summarized in the ensuing paragraphs.
+l:\NAV’5814.doc

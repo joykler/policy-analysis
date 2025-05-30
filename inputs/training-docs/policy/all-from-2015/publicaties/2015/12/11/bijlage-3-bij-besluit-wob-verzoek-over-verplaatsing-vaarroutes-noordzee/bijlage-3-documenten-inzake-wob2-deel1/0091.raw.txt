@@ -1,0 +1,73 @@
+58/14
+NAV
+Annex 3, page 5
+ship reporting
+3.3.2 Proprietary information obtained as a requirement of the mandatory
+with the General
+system Barents SRS will be protected under this system consistent
+and requirements, inciuding
+Principles for ship reporting systems ship reporting
+andlor
+guidelines for reporting incidents involving dangerous goods, harmful substances
+marine po!lutants (resolution A.851(20)).
+3.4 Geographical position for submitting reports
+report
+3.4.1 Ships entering the Barents SRS operational area shall submit a
+into the area or on departure from a port or anchorage within
+when entering
+the operational area.
+time
+3.4.2 Reports forwarded prior to entering the area can be submitted at any
+after the Norwegian Economic Zone or the Russian Federation
+entering
+until one hour before entering the Barents
+Exclusive Economic Zone and
+Services must be able to
+SRS operational area. As the Vessel Traffic
+handle incoming prior reporting, It will not be possible to undertake
+later than one hour prior to entering the area.
+pre-entry reports any
+the SRS
+3.4.3 Ships departing a part or leaving an anchorage within Barents
+X
+area, may also submit a pre-entry report for designators H, P, T, Q and
+if hour prior to departure.
+transmitted one
+3.5 Authority
+Maritime River Transport and the Norwegian
+3.5.1 The Federal Agency of and
+for Murmansk VTS centre
+Coastal Administration are the VTS authorities
+Barents SRS Ship
+and Vardø VTS centre respectively which operate the
+Reporting System.
+be followed
+4 Information to be provicled to ships and procedures to
+Ships Barents SRS are required to keep a continuous listening watch on
+4.1 in the area
+VHF channel 16,
+information about
+1f requested, VTS centre concerned shail provide ships with
+4.2 the
+forecast, navigational warnings and other hazards in the ship
+positioning, weather
+devices up in the coastal States or by other
+reporting area, from broadcasting set
+available comrriunication means concurred by involved participants.
+centre provide individual information to a ship particularly
+4.3 1f necessary, the VTS can
+in relation to posltioning or local conditions.
+1f a ship needs duo to breakdown, low visibility, adverse weather, etc., the
+4.4 to anchor
+recommend suitable anchorages or other places of
+VTS centre concerned can
+refuge within the operational area.
+requlred the Barents SRS system
+6 Communication for
+English, using IMO Standard Marine
+5.1 The language used for communication shali be
+centre concerned.
+Communication Phrases, when deemed necessary by the VTS
+of contact information are given in appendix 2.
+5.2 Details communication and
+I:NAV58\1 4.doc

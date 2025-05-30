@@ -1,0 +1,62 @@
+1
+.
+2
+3
+NAV 58/14
+Annex 9, page 2
+ANNEX
+PERFORMANCE
+STANDARDS FOR ELECTRONIC INCLINOMETERS
+1 SCOPE
+1.1 Etectronic
+inclinometers are intended to support the decision-making process 0fl
+board in order to avoid dangerous situations as well as assist in and facilitate Maritime
+Casualty lnvestigation by providing information about roll angle of the
+the period and the heel
+ship.
+1.2
+Electronic inclinometers should in a reliable form:
+- determine the actual
+heel angle with the required accuracy;
+- determine the roll amplitude with the requtred accuracy;
+- determine the roll period
+with the required accuracy;
+- present the information on a bridge display; and
+- standardized
+provide a interface to instantaneaus heel angte to the VDR.
+2 APPLICATION OF THESE STANDARDS
+2.1 These performance standards
+should apply to all Electronlc inclinometers intended
+to support the decision-making
+process on board in order to avoid dangerous situations as
+well
+as to assist in Maritime Casualty lnvestigation, if carried, on all ships
+2.2 In addition to general
+the requirements set out in resolution A.694(17) and the
+presentation
+requirements set out in resolution MSC.191(79), Electronic inclinometers should
+meet the requirements of these standards and follow the relevant guidelines on ergonomic
+principles adopted by the Organization.
+3 DEFINITIONS
+3.1 For
+the purpose of these performance standards:
+Rolling motion around the longitudinal ship
+axis of the
+Actual heel angle momentary angle of roll referenced to a levelled ship to port or
+starboard side
+Roll period time between two successive values angle ori
+maximum of heel
+the same
+side of the ship
+Roll
+amplitude maximum values of heel angle to part or starboard side
+1
+These perfomiance
+standards do not appy to Electronic incllnometers installed for purposes which are
+outside the scope of these guideilnes, e.g. monitoring of cargo status.
+2
+Refer to lEc Publication 60945 — Mantime navigation and radiocommurijcation equlpment and systems —
+General requirements.
+Guidelines on ergonornic criteria for bridge
+equipment and layout (MSC/Circ,982).
+I:\NAV58\14.doc

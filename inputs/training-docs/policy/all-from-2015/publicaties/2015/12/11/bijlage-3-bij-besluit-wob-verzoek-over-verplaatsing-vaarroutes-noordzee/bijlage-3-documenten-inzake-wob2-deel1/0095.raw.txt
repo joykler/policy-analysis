@@ -1,0 +1,43 @@
+58/14
+NAV
+Annex 3, page 9
+Appendix 2
+CONTACT INFORMATION AND OTHER RELEVANT INFORMATION IN RELATION TO
+THE VTS CENTRES TO WHICH THE REPORTS MUST
+BE SUBMITTED
+Contact
+information
+1.1 Murmansk VTS centre can be contacted by e-mail,
+VHF er fax
+VHF: Cail ‘Murmansk Traftic’ (channel 12)
+MMSI: 002734484 er 002734466
+E-mail:
+vts@mf-rmp.ru
+Fax: 8152479026
++7
+1.2 Vardø VTS centre can contacted VHF,
+be by e-mall, fax or telephone
+VHF:
+Cali Norwegian Coastal Radio Station and request “NOR VTS”
+(channel 16)
+MMSI: 002573550
+E-mail:
+nor.vts@kystverket.no
+Fax: +47 78 98 98 99
+Telephone: +477898 9898
+2
+Submission of reports
+2.1 Ships within the Russian Federation monitoring
+area er the Russian Federation
+Exclusive Economic Zone report to Murmansk
+VTS centre primarily by e-mail, fax
+and AlS, alternatively VHF or a combination of these communication means.
+2.2 Ships within the Norwegian monitoring area er Norwegian Economic report
+Zone to
+Vardø VTS
+centre primarily by the Norwegiari Ship Reporting System at website:
+www.shiprep.no.
+Alternatively by ALS, e-mail, fax, telephone and VHF er a
+combination of these communication means.
+:NAV581
+4.dcc

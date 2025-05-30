@@ -1,0 +1,98 @@
+58/14
+NAV
+Annex 3, page 3
+2 Geographical coverage
+of the system and the number and editions of
+the
+reference
+chart used for delineation of the system
+2.1
+The geographical area covered
+by the reporting system Barents SRS is defined
+within the following coordinates
+and is afso shown in the chartlet attached appendix
+at 1.
+Number
+Latitude
+Longitude
+A - Norway 67° 10’.OO
+N Norwegian coast
+B - Norway
+67° 10.00 N
+008° 0O’.OO E
+C - Norway
+68° 15’.OO N
+009° 30.00 E
+D-Norway
+71°15.00N
+019°00’.OOE
+E - Norway
+71° 5000 N
+024° 00.00 E
+F-Norway
+71°50.00N 028°00.00E
+G - the Russian
+Federation 71° 00.00 N 033°
+20.00 E
+H - the Russian Federation
+the Russian Federation coast 033°
+20’.OO E
+2.2 The reference
+charts, which include the operational area of Barents
+SRS, are:
+2,2.1 Norwegian charts
+No.
+TiDe Scale
+Datum Edition
+514
+Barentshavet
+1:2000000 WGS84 2011
+311 From StøtttoAndenes
+1:350000 ED-50 1960
+321 From
+Andenes to Grøtsund 1:200000 ED-50
+1936
+322
+Fugløybanken-Lopphavet 1:200000
+ED-50 1970
+323 From Sørøya to Nordkapp
+1:200000 ED-50 1962
+324 From Nordkapp
+to Kjølnes 1:200000 ED-50 1959
+325
+From Slettnes to Grense Jakobselv 1:200000 ED-50
+1929
+Note: Position coordinates referred the
+to WGS 84 Datum should be plotted direct
+onto these charts, as
+the difference between the WGS 84 and ED 50 Datum is of
+no
+practical significance
+at the actual scale. The geographical positions,
+listed in the
+document are given in the WGS 84 Datum.
+2.2.2 The Russian
+Federation charts
+Title Scale
+j Datum Edition
+10100 South part of Barents Sea
+1:2000000 Pulkovo 1942 2002
+11024 From North
+cape to Rybachyy inlet 1:500000 Pulkovo 1942 2003
+11114 From
+Rybachyy inlet to Kanin Nos 1:500000 Pulkovo
+1942 1999
+12000
+From Varde to cape Teriberskyy 1:200000
+Pulkovo 1942 2002
+12050 From cape Tsypnavolok
+to cape Voroniy 1:200000 Pukovo 1942 2006
+12100 From Kulneset
+cape to cape Tsypnavolok 1:200000 Pulkovo
+1942 2004
+Note:
+Position coordinates in WGS datum
+84 should be moved 0.4 seconds southward
+and 11.3 seconds eastward
+to agree with these charts.
+I:NAV’5814.doc

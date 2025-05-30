@@ -1,0 +1,52 @@
+NAV 58/14
+Annex 7, page 8
+Table 2 — Shore-based users
+Identifier
+Gaps Competent
+Sub-Committee(s)
+1 Informationldata
+management
+ti Conimon data structureIharmonized
+data formats
+Technical
+21 1-GteOl
+Lack of a common maritime information/data structure NAV
+harrnonizing the policies for the security and use of data.
+Insufficient identification of harmonization
+needs for
+standards, and protocols.
+formats
+Lack of protocols, formats and data structure that enable
+shore-based authorities to exchange information with
+other authorized shore-based users.
+No standardized for
+format data exchange between VTS
+centres and other e-nav stakeholders.
+211-GteO2 There is
+a gap between information capability of current NAV
+information
+management systems and those that will be
+required as volumes of information increass.
+Tools that have the capability increased
+to manage
+levels/volumes of information
+are not in use.
+Regulatory
+211-GreOl Inconsistent rules that require some coastal States to NAV
+maintain domain awareness.
+Insufficient of data
+collection required to establish
+accurate and reliable marine domain awareness.
+Operationai_(no_gaps_identified)
+Training_(no_gaps_identif’ied)
+2 Effective and robust voice cornmunication
+and data
+transfer
+Technical (no_gaps_identified)
+Regulatory_(no_gaps_identifled)
+220-GreOl Deleted.
+Operational_(no_gaps_Identified)
+Training
+220-GtrOl Lack of international guidance on security of data and its NAV
+sha ring.
+);\NAV’58\14.doc

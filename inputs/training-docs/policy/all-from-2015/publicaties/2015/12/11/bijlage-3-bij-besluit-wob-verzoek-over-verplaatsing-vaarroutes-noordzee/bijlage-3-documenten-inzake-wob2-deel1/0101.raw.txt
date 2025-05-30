@@ -1,0 +1,106 @@
+NAV58/14
+5,
+Annex page 1
+ANNEX 5
+LIAISON STATEMENT
+TO ITU-R WORKING PARTY
+58 ON REVISION OF
+RECOMMENDATION ITU-R
+M.1371-4
+Technical characteristics
+for an automatic identification using
+system
+time-divislon
+multiple access in the VHF maritime
+moblle band
+1
+IMO would like to thank
+ITU-R Wp 58 for the liaison statement contained
+as in
+annex 30 to document
+5B)62, sent in June 2012, requesting IMO’s
+Sub-Committee on
+Safety of Navigation (NAV)
+to consider the proposed
+amendments to Recommendation
+ITU-R
+M.1371-4.
+2
+The NAV
+Sub-Committee, at its fifty-eighth session
+from 2 to 6 July 2012,
+considered the
+liaison statement and agreed to inform
+ITU-R WP 5B as follows.
+3 With regard to the
+proposed changes in annex 1, paragraph
+2.1.6 concerning
+AIS-SART station, NAV
+the Sub-Committee considered MOB
+that and EPIRB-AIS devices
+shoiild not
+be subsets of Af S-SART. This
+is because these devices do not conform with all
+the requirements
+and
+characteristics of an AIS-SART, for instarice, battery life, etc.
+It was
+further noted that other devices
+than AIS-SART are not considered be locating
+to devices
+under the GMDSS.
+Therefore, the Sub-Cornmittee
+suggests that paragraphs 2.1.6.1 and 2,1.6.2 should
+be
+renumbered as new headings
+such as 2.1.7 Man overboard devices
+(MOB) and 2.1.8.
+Emergency position
+indicating radio beacon — automatic identification
+system (EPIRB-AIS).
+The
+Sub-Committee further suggests
+that the description of these devices should not
+refer to
+an integrated AIS-SART
+transmitter but to a device using burst transmissions as
+described in
+annex 9 of the Recommendation.
+4 The Sub-Committee discussed
+again the navigational status parameters
+in annex 8,
+table 46 (existing Table 45).
+The
+Sub-Committee concurred with the
+proposal to revise the definitions of the navigational
+status parameters 11 and 12 for regional
+use as follows:
+- Parameter 11 to “power-driven vessel
+towing astern” and;
+- Parameter 12 to “power-driven
+vessel pushing ahead or towing alongside”.
+In considering
+the term “regional use”, the Sub-Committee
+was of the uncierstanding that
+visiting ships would not be required to use
+these navigational status parameters and that
+the
+relevant national maritime Authority would
+inform shipping about the use and interpretation
+of
+these parameters
+when in use.
+The Sub-Committee did not
+concur with the proposal to define navigational
+status
+parameter 13 to “requiring assistance”
+for regional use. This is because
+distress alerting
+using AlS has been
+not yet developed and is under consideration
+in reviewing the GMDSS.
+The Sub-Committee concurred with the
+proposed changes to the description of navigational
+status parameters 14 and 15
+to be extended to include MOB and EPIRB-AIS.
+I:\NAV58\1 4,doc

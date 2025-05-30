@@ -1,0 +1,75 @@
+NAV 58/14
+page
+Annex 7, 1
+7
+ANNEX
+FINAL LIST OF GAPS OF E-NAVIGATION
+Table 1 — Shipboard users
+Competent
+Gaps
+Identifier
+Sub-Committee(s)
+1 Information/data management
+data formats
+1.1 Common data structure/harmonized
+Technical
+transfer of NAV/COMSAR
+111-GteOl Lack of harmonized data forrnats for the
+information received via communication equipmerit
+Maritime Safety Information) to the navigational
+(e.g.
+systems for presentation.
+NAV
+data formats established for
+111-GteO2 There are no standardized
+ship_reporting.
+NAV/COMSAR
+Lack of data formats for data requested from
+11 1-GteO3 harmonized
+relevant documents
+other systems, useci to prepare other
+on board.
+or filtering the NAV/COMSAR
+111-GteO5 There are no mearis of processing
+exchanged via communication equipment.
+information
+of vessels NAV
+1 11-GteO6 Lack of technical means to make information
+intentions available to relevant user stakeholders.
+Regulatory
+NAV/COMSAR
+equipment.
+11 1-GreO2 Lack of interface standards for status of
+NAV
+services in the Majitime Service
+111-GreO3 No mapping of specific
+would result in a
+Portfolio to specific regions, which
+in specific
+requirement of the necessary infrastructure
+regions.
+Operational (no gaps identif’ied)
+Training (no gaps identifled)
+11 1-GtrOl Deleted.
+lmproved reliability and Indicatfon of reliability
+1.2
+Technical
+for assessment NAV/COMSAR
+Lack of effective and harmonized means
+112-GteOla
+reliability and
+and indication of the accuracy, Iev&s of
+information.
+integrity_of indicated
+Deleted.
+112-GteOlb
+Regulatory
+NAV/COMSAR
+regulations for determination
+112-GreOl Lack of standardized
+and integrity to
+(standardized algorithms) of accuracy
+unambiguous
+assess and quantify reliability based on
+thresholds.
+i:\NAV58\1 4.doc

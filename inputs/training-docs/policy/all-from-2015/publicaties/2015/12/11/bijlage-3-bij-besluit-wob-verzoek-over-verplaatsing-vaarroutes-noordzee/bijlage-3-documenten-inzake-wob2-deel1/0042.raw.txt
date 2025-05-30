@@ -1,0 +1,109 @@
+NAV 58/14
+Page
+18
+6.12 After
+some discussion, the Sub-Committee
+referred documents NAV 5816/1,
+NAV
+58/8/2 and NAV 58/6/3 (Germany) the Working
+to e-navigation Group for consideration
+and advice.
+6.13 The
+Sub-Committee considered document NAV 58/614 (Republic
+of Korea) outilning
+the need
+to inciude software quality assurance as part
+of the ongoing e-navigation gap and
+cost-benefit analysis process that has
+to be conducted.
+6.14 A majority
+of delegations were of the view that software assurance
+quality should be
+part of the e-navigation
+discussion at this session of the Sub-Committee,
+whilst others were
+of the view that, recognizing time
+the constraints, this issue should be deferreci to a later
+date.
+6.15
+After some discussions, the Sub-Committee
+referred document NAV 58/6/4
+(Republic
+of Korea) to the e-navigation group
+working for consideration and advice, if time
+permitted.
+6.16
+The Sub-Committee rioted with appreciation the information
+contained in document
+NAV 58/6/5 (PALA) providing comments en
+the report of the CG en e-navigation including
+some details of ongoing
+the IALA activities regarding the development of e-navigation.
+6.17
+The Sub-Committee corisidered documents
+NAV 58/6/6, NAV 58/INF.12 and
+NAV 58/INF.13 (Japan) proposing how
+to utilize usability guidelines to ensure practical and
+flexible assessment of
+navigational equipment, inciuding draft interim Guidelines for
+usability
+evaluation of navigational
+equipment and the way to apply goal-based procedures
+for test
+task
+set-up (NAV 58/6/6, paragraph 5) by taking
+ECDIS as an example.
+6.18 The delegation of
+Norway, supported by others, recognizing the time constraints in
+the working was
+group, in favour of delaying the discussion the development usability
+on of
+guidelines
+for navigational equipment to later date.
+a
+6.19 After some
+discussions, the Sub-Committee referred documents NAV 58/6/6,
+NAV 58/INF.12
+and NAV 5811NF.13 (Japan) to the e-navigation working
+group for
+consideration
+and advice, iftime permitted.
+6.20 The Sub-Comrnittee
+considered document NAV 58/6/7 (Denmark and Norway)
+commenting
+on the report of the CG and providing information on possibilities
+future for
+exchanging data and information through Data (VDE)
+VHF Exchange functionalities rather
+than AlS,
+6.21
+The delegation of Norway clarified that there was no introduce
+need to a next
+generation AlS. This increased
+need could be met through VHF Data Exchange (VDE),
+especially since ITU had allocated
+frequencies for digital purposes in the VHF band. VDE
+was a means seamless
+for a and automatic exchange of information, including information
+for navigational
+safety purposes, leaving the watchkeeping navigator to efficiently
+more bring
+the ship safely from port A port when operating
+to B within the VHF coverage.
+The clevelopment of digital (VDE)
+VHF might be of beneflt for the development of a single
+window system. This
+single window system was of great irriportance
+in IMO’s work on
+reducing
+administrative burdens on board ships. 1f a next gerieration was
+AlS introduced,
+one of the consequences may be that existing need
+AlS would to be modifled or replaced
+and the original operational
+purpose of AlS might be lost. Furthermore, Norway and
+Denmark were
+of the view that the integrity of the original operational purpose of AlS should
+protected.
+be
+l:NAV5814.doc

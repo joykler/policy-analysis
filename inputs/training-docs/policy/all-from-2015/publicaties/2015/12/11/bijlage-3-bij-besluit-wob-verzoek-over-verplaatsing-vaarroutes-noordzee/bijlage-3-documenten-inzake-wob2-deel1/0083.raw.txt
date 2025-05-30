@@ -1,0 +1,53 @@
+NAV 58/14
+Annex 2, page 7
+2 Electronic navigational aids
+(i) Uninterrupted differential GPS coverage is normally available in this area,
+so masters of deep draught ships navigational systems
+equipped with GPS
+can be informed
+continuously and highly accurately about the ship’s
+deviation from and progress along the axis of the route.
+(ii) Those ships which because of their draught are confined to the
+rnid-channel zone are strongly advised above
+to make use of the
+equipment.
+ESTABLI5HMENT NEW
+OF A RECOMMENDATORY AREA TO BE AVOIDED 0FF THE
+NINGALOO COAST,
+WESTERN AUSTRALIA
+Reference charts
+Electronlc Navigational Charts (ENG)
+Horlzontal Vertical
+Number Scale
+Datum Datum Title Published
+Western Australia — Jurabi
+AU3221 13 90000 WG 84 LAT Point to Low Point 2008
+Western Australia — Thevenard
+AU4221 14 180000 WG 84 LAT Island to North West CaDe 2008
+Western Australia — Point
+AU3231 13 180000 WG 84 LAT Cloates 2008
+Australia — Port Hediand to
+AU2301 10 1500000 WG 84 LAT Geraldton 2010
+Paper Charts
+Horizontal Vertical
+Nurnber Scale Datum Datum Title Published
+Norwegian bay and Poirit
+AUS 72 50000 WG 84 LAT Cloates 2011
+AUS 745 1 50000 WG 84 LAT North West Cape to Point Maud 1985
+AUS 744
+150000 WG 84 LAT Exmouth Gulf and Approaches 1984
+• North West Cape to Point
+AUS
+329 300000 WG 84 LAT Cloates 1987
+. Montebello Islands to North
+AUS 328 300000
+WG84 LAT West Cape 1985
+North West Cape to Cape
+AUS 4725 1 500000 WG 84 Leeuwin
+LAT 2010
+AX4723F 1500000 WG84 LAT Java to North West Cape 2011
+AUS 4723 1500000 WG 84 LAT Java to North West Cape 2010
+Descrlptlon of the area to be avolded
+The area lies off the western Australian coast between latitudes 21° 47’.OO S and 22° 50’ S,
+extending between 3 and 12 nm to seaward of the High Water line.
+l:NAV58\1 4.dcc

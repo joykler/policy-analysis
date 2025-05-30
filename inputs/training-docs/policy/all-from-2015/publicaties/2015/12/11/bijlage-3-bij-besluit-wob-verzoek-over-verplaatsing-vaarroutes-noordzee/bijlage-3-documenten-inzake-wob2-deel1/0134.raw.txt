@@ -1,0 +1,63 @@
+NAV 58!14
+Annex 14,
+page 1
+ANNEX 14
+STATEMENT THE KOREA
+BY DELEGATION OF THE REPUBLIC OF
+AT THE 58TH
+SESSION OF THE SUB-COMMITTEE ON SAFETY OF NAVIGATION
+Thank you Mr.
+Chairman,
+This is a report and reminder of caution on GNSS signal reception failure by radio
+interference.
+The Republic of Korea would like to report that there was a case of serious threats
+posed to hinder safe navigation, which reception faNure by radio
+was caused by GNSS signal
+interference occurred recently in the Yellow Sea off the Republic of Korea.
+According to Paragraph 2.1.6 of Rule 19, Chapter V of the SOLAS convention, all ships
+irrespective of size shail be required to be a receiver of a global navigation satellite system or a
+terrestrial radionavigation system, or other means, suitable for all times throughout the
+use at
+intended voyage to establish
+and update the ship’s position by automatic means.
+Consequently, a device for GNSS reception was recognized as one of the
+mandatory position-fixing equipment for Woridwide Radionavigation System (WWRNS) by
+Resolution recognized
+A.915(22) adopted in 2001. A GNSS reception device has been as
+useful
+and mandatory equipment for identifying a ship’s position; therefore, GNSS has been
+recently installed on the majority of vessels.
+In addition to the function identify has been used for a
+to a ship’s position, GNSS
+wide range of navigation equipment, such as Automatic Identification System (AlS) and
+Electronic Chart Display and Information Systems (ECDIS). Furthermore, GNSS has been
+used for assisting emergency operations in conjunction with Long-Range identification and
+Tracking of ships (LRIT) and System (SSAS). In other words, GNSS is
+Ship Security Alert
+known as of the most
+one essentie 1 equipment for safe navigation.
+However, the Government of the Republic of Korea received reports informing that
+merchant ships and airplanes the Yellow Korea, specifically in the
+in Sea off the Republic of
+Ports failed to
+waters off the of Incheon, Pyeongtaek, and Daesan, had repeatedly receive
+GNSS signals between some minutes to some hours from 07:49 April 28 to 20:47 May 13, 2012.
+As was stated in document NAV 57/6/2, submitted by the Republic of Korea, such GNSS
+signal interference had already
+occurred more than three times in August 2010.
+The cause of this GNSS signal failure was attributed to a strong jamming
+(signal interference) directed toward the vessels and airplanes installed with GNSS reception
+devices. GNSS, receiving a signal from a satellite at about 20,000km above the ground
+level, is highly vulnerable to such a signal interference coming from the ground level.
+The YelIow Sea off the Republic of Korea where the GNSS signal failure occurred is
+frequently used as a major route by more than 1,000 vessels a day navigating among such
+countries as the Republic Taking account heavy
+of Korea, Japan, and China. into the traffic
+bad composed of large oil tankers and cruise ships in the region, it is not unreasonable to
+expect that GNSS signal interference would leed to serious marine accidents or pollution.
+Therefore, the Republic of Korea would like to stress that, in view of the fact that GNSS
+is one of the mast critical navigational systems; all stakeholders should take all the necessary
+actions to prevent GNSS signal interference that may lead to hamper safe riavigation.
+This delegation would like to request this Sub-Committee to reflect its statement in
+the dreft report.
+I:\NAV\58\14.doc

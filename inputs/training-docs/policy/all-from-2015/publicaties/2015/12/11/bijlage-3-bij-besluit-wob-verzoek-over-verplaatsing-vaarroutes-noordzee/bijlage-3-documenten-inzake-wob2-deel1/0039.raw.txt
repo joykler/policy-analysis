@@ -1,0 +1,97 @@
+NAV 58/14
+Page 15
+Revision of Recommendatlon ITU-R M.1371-4
+document
+document NAV 581512, annex 1, taking into account
+515 Having considered
+approved a lialson statement
+NAV 58/5/1, paragraphs 17.1 to 17.3, the Sub-Committee
+forward It to ITU and invited the
+to WP 5B, as set out in annex 5, instructed the Secretariat to
+Committee to endorse this action.
+applications and possible
+WRC-15, Agenda item 1.16 on possible new AlS technology
+new applicatioris to improve maritime radiocommunication
+document
+NAV 58/5/2, annex 2, taking into account
+5.16 Having considered document
+(VDE), Sub-Committee noted that modifications
+NAV 58/6/7 on VHF Data Exchange the
+existing vessels and that the
+should not be required to existing AlS equipment on board
+function on the existing
+of the original operational purpose of AlS as the primary
+integrity
+protected.
+AlS frequencies should be
+of plan for future
+5.17 The Sub-Committee supported the further development the
+and approved
+described in the annex to the draft CPM report
+VHF Data Communications as
+the
+annex 5. The Sub-Committee instructed
+a lialson statement to WP 5B, as set out in
+this action.
+Secretariat to forward It to ITU and irivited the Committee to endorse
+further consider
+The instructed the Joint IMO/ITU Experts Group to
+5.18 Sub-Committee
+be held
+next meeting, scheduled to
+issues related to WRC-15, Agenda item 116 at its
+and
+information to COMSAR 17
+from 8 to 12 October 2012, and to provide additional
+ITU-R WP 5B, as appropriate.
+AIS-SART technology
+Man overboard (MOB) and similar devices using
+Sub-Committee agreed
+In considering document NAV 58/5/1, paragraph 17.4, the
+5.19
+locating
+format MOB devices would be appropriate for diver
+that the maritime identity for
+AlS 2 in a non-routine situation
+devices when using the frequencies AlS 1 and
+(NAV 58/WP.5, paragraph 3.4 refers).
+the
+stated of using the term “non-routine”, term
+5.20 The observer of ISAF that, instead
+delegation of the United Kingdom,
+“emergency” should be used. In this context, the
+should be used to clearly
+by others, were of the view that the term “non-routine”
+supported
+be used for
+these (MOB) locating devices from devices meant to
+distinguish Man overboard
+alerting.
+to seafarers
+The Sub-Committee endorsed a draft SN.1 circular providing information
+5.21
+document NAV
+AIS-SART, AlS MOB and EPIRB-AIS devices, as set out in
+on the display of
+for further consideration and finalization.
+58)WP.5, annex 3, and forwarded It to COMSAR 17
+The Sub-Committee invited:
+5.22
+contained
+note that the draft circular
+.1 the COMSAR Sub-Committee to
+of the MOB device involving a
+square brackets around the description
+use of the AIS-SAR
+persori floating in the water and also around the
+MOB device and requested it to study these issues further;
+symbol with a
+the development of further
+.2 the COMSAR Sub-Committee to consider
+of devices using
+guidance material for Administratlons on the use
+in document
+taking into account the information provided
+AlS technology,
+NAV 581WP.5, paragraph 3.17; and
+I:\NA’A581 4.doc

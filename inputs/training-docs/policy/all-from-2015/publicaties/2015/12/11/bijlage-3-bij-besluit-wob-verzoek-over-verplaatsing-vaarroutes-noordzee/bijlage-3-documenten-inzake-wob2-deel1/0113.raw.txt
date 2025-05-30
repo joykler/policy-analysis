@@ -1,0 +1,51 @@
+NAV 58/14
+Annex 7, page 9
+Identifier Gaps Competent
+Sub-Committee(s)
+. 3 Systems_and_equipment
+3.1 Presentatlon of Information
+Technical
+235-GteQl of maritime NAV
+Insufficient delivery and presentation
+information that shore-based authorities are required to
+provide to ships.
+There are rio standard data formats for onboard capture
+and presentation that cover the entire scope of information
+by a VTS.
+provided
+Regulatory (no_gaps_identified)
+Operational
+NAV
+235-GopOl Lack of harmonized presentation of domain awareness to
+improve situational awareness for allied and other support
+services.
+Training (no gaps identifled)
+4 Ship reporting
+Technical
+235-GteOl shoreside. NAV
+Insufficient means for ship reporting on
+(ex
+1 40-GteO5)
+Regulatory (no gaps identified)
+Operational
+240-GopOl
+Deleted.
+Training_(no_gaps_identified)
+5 Training and familiarization
+Technical (no_gaps_identified)
+Regulatory_(no_gaps_identified)
+Operational_(no_gaps_identified)
+Training
+NAV
+250-GtrOl IALA VTS guidance may not be being developed in
+harmony with the concepts of e-navigation.
+Operating and guidelines should be
+VTS procedures
+harmonized with e-navigation.
+250-GtrO2 shipboard but also shore-based users NAV
+Not only the users
+appropriately trained
+(e.g. VTS operators, etc.) need to be
+in order to efficiently use and obtain the maximum benefit
+of e-navigation.
+I:NAV\58\14.doc

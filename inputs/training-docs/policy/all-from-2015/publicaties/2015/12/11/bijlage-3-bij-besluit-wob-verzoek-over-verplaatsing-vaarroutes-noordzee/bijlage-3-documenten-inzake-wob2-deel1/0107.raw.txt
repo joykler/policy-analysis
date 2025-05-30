@@ -1,0 +1,59 @@
+58/14
+NAV
+Annex 7, page 3
+Identifier
+Gaps Competent
+Sub-Committee(s)
+120-GteO4
+Signal security, system security, input security as well NAV/COMSAR
+as
+management of access/protocols
+is insufficient.
+120-GteO5
+Lack of integrated GMDSS equipment. NAV/COMSAR
+1 20-GteO6
+Deleted.
+Regulatory
+120-GreOl Lack of regulations for new
+communication equipment NAV/COMSAR
+and systems
+addressing the potential e-navigation
+communication needs.
+120-GreO2
+IMO requirements for navigation and communication are NAV/COMSAR
+not liarmonized.
+120-GreO3
+Absence of structured communication link to notify NAV/COMSAR
+incorrect operation of both shipboard and/or shore-based
+e-navigation related
+systems.
+Operational (no_gaps_identifled)
+120-GopOl
+Deleted.
+Training identified)
+(no gaps
+120-GtrOl Deleted.
+3 Navigatlonal bridge systems
+and equipment
+3.1 lmproved rellability and indication of reliability
+Technical
+132-GteOl Insufficient
+reliability of position fixing systems. NAV
+132-GteO2 Lack of self-checking
+functionality of the electronic NAV
+equipment_for_improved_reliability.
+132-GteO3
+Lack of automatic assessment
+functionalities to provide NAV
+quantifîed_reliability_information.
+132-GteO4 Laök of PNT relevant services
+for port operation and NAV
+automatic
+docking.
+Regulatory
+132-GreOl
+Lack of framework for resilient PNT. NAV
+provision of
+Operational_(no_gaps_identified)
+Training_(no_gaps_identified)
+I:\NAV\58\14.dcc

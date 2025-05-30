@@ -1,0 +1,62 @@
+NAV 58/14
+Annex 3, page 11
+Desgnator AlS Function Information required
+Non- VHF
+verbal
+Yes Destination The name of next port of cali given
+and ETA in UN LOCODE by AlS. Far
+details and procedures see IMO
+SNICirc.244 and
+v,ww.unece.orglcefactllocodels
+V ervice/main.htm.
+group
+ETA date and time
+expressed as in (B).
+H Yes Date, time This information Is only required 1f
+and X
+and point of reporting designators P, T
+transmitted non-verbally
+entry into are
+the Barents (eg. s-mail) prior to entry of the
+SRS area Barents SRS.
+expressed as
+Entry date and time
+(8) and position expressed as
+in
+in(C).
+0 Ves Maximum A 2-digit or 3-digit group giving the
+draught in
+present present maximum
+draught in metres (eg. 6.1 or 10.4).
+metres
+goods
+P Ves Cargo en Cargo and, if hazardous
+present baard, quantity and
+baard on
+IMO class (inciusive UN code).
+Hazardous goods information
+summarized in total
+must be
+tonnes per IMO class when
+transmitted.
+Q Yes Defects and Q: Details of defects and
+deficiencies deficiencies affecting the
+equipment of the ship er any other
+circumstarices affecting normal
+. navigation and manoeuvrability,
+particulars from
+T Yes Ship’s owner Address and
+which detailed information on the
+and
+cargo may be obtained.
+represen-
+tative
+W Ves Total State number
+number of
+personson
+_____________ board
+X Yes Miscella- Type and estimated quantity of
+neous bunker fuel in metric tonnes. Must
+be summarized in total tonnes per
+type_when_transmitted.
+I:NAV5814.doc

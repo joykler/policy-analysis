@@ -1,0 +1,76 @@
+____________________
+Cover report safety
+on the (formal) assessments for 26 maart 2012
+1
+Comparing the risk scores of the three different traflic
+routeing systems
+Risk Score
+1400
+Present situatlon
+Variant 1
+1200
+Wind park ‘QlO’ Is
+IMO Variant 12.12.11
+All the wind parka are in
+1000
+• under construction
+place wlth the curront
+Wlth
+the current
+traiflcseparatlon All the wind parks
+800
+- traffic routelrig
+for the
+schemes and except
+measures in piace
+preceuUonary areas Scheveningen park
+600
+Risk score: 12.54
+connected by are in piace with the
+recommanded routes proposed routeing
+400
+Score: 1226 measures
+Score: 1028
+200
+Figure
+13 Comparison of FSA/HAZID Risk scores
+IMO variant 12.12.11 has a signlfcantly lower level of risk than either of the other two systems,
+Taking all
+factors into consideration, the dlfference between the risk scores for the present
+situation and the Variant 1 option Is almost certainly within the FSA processes’ timits of error and
+should
+not be given any real significance.
+3.2.4 FSA/HAZID Conciusions on risk assessment
+The FSA/HAZID concludes
+that the benefits derived from implementation of the IMO Variant in
+terms of safety of life at sea improving navigation the area dear from
+and in is the FSA/HAZID
+process and is certainly an lmprovement on the present situation.
+Implicit in the selection of IMO Variant was the utillzation of majority listed Risk Control
+the
+Options. The remaining RCOs are directed at reducing residual risk after implementation of the IMO
+Variant and can be summarised as follows:
+- appilcation the International Regulations for Preventing Collisions at Sea 1972
+of
+(COLREGS);
+- risk aware design, construction and operation of licensed wind farms;
+review
+- a of ETV capacity; and
+- a review of the extend of VTS control areas.
+3.3 QRA: quantltatlve risk assessmerit
+3.3.1. QRA Methodology
+The impacts for shipping have been wlth SAMSON model that has been developed,
+quantified the
+extended, validated and improved continuously durlng the last 25 years in studies performed for
+the Dutch Maritime Safety Authority, European projects and commercial projects, A more extenslve
+descrlptlon of the model is given Apperidix
+in 2.
+With SAMSON, MARIN uses ship movement databases to slmulate ships moving between selected
+way polnts (ends of traffic
+separatlon schemes, pilot stations, arichorages etc.) at a very much
+accelerated rate 50 that, 1f the ships are started at a random times over the period being assessed
+and
+they are moving at a scaled up range of real speeds, then the programme can count up the
+number of close quarters encounters that could be expected to occur over the period being
+assessed. The programme than assesses the frequency of a collision occurring at each of these
+Pagina 310f 44

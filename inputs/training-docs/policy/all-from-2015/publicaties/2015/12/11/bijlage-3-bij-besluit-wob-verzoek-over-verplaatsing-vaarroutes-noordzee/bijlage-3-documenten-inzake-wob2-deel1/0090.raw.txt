@@ -1,0 +1,51 @@
+NAV 58/14
+Annex 3, page 4
+3
+Format, content of reports, times and geographical positions for submitting
+reports, Authority to whom reports should be sent available services
+and
+3.1
+Procedures of reporting
+3.1.1 All Barents SRS reports Vardø VTS centre or
+must be sent to either
+Murmansk VTS centre. Ships within the Norwegian monitoring area report
+to Varda VTS centre and ships within the Russian Federation monitoring
+area report to Murmansk VTS centre. Reports shali be given using AlS
+(Automatic Information System), Norwegian shiprep website, e-mail, fax,
+SATCom,
+mobile phone, VHF voice or by a combination of these
+communication means. Details are given in appendices 2 and 3.
+3.1.2 The use of correct and updated can accomplish the
+AlS information
+reporting requirements Details
+for designators A, B, C, E, F, 1, 0 and W.
+are given in appendix 3.
+3.2 Format
+3.2.1 The mandatory ship report shali be drafted in accordance with the format
+showri in appendix 3, as well as resolution A.851(20).
+3.3 Content
+3.3.1 A report from a ship to Barents SRS by AlS, non-verbal means or by voice
+communication or combinations thereof must the following
+contain
+information; details are given in appendix 3.
+E Name of ship, cail sign, IMO identification number and MMSI
+B Date and time
+C Position expressed in latitude and longitude
+É True
+T Speed In knots
+1T Date, time (UTC) and point
+of entry into Barents SRS area
+F Destination and ETA
+Maximum present draught
+W Hazardous cargo, class and quantity
+• Brief details of defects or restrictions in maneuverability
+•T Contact information (shipowner and representative)
+W Total number of persons
+on board
+5E Characteristics and total quantity of bunkers in metric tonnes
+Note: The master of the ship must forthwith inform the Barents SRS VTS centre
+concerned of any change In navigational status or previous information notifled,
+in
+particularly relation to
+in designator Q.
+I:\NAV\58\1 4.doc

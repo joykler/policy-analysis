@@ -1,0 +1,62 @@
+NAV 58/14
+27
+Page
+10.5 The Sub-Committee proposing
+considered also document NAV 58/1011 (Japan)
+amendments to practical
+draft performance standards for electronic inclinometers to address
+problems in measuring heel angle of ships in motion, and exploring options for possible
+framework for the performance standards respect to how to with acceleration
+with deal
+forces.
+10.6 The Sub-Committee considered further document NAV 58/10/2 (China) providing
+comments and proposals on the draft performance standards for electronic inclinometers in
+document NAV 57/WP.5, annex 2.
+10.7 The delegation of the Netherlands was of the view that the revised draft
+performance standard for electronic inclinometers, as developed by Germany, should be
+used as the basic parametric
+document and, in addition, sections 8.1 and 8.2 regarding
+rolling and/or synchronous roll detection and heel angle warning should be retained.
+In addition, several other delegations supported the proposals submitted by Japan and
+China.
+10.8
+The ICS observer was of the opinion that the draft performance standard need not
+include a warning of parametric rolling and/or synchronous roll detection, whUst the IACS
+obsenier stated the issue of
+that the draft performance standard should also address
+emergency
+power.
+10.9 Accordingly, the Sub-Committee agreed to use the annex to document NAV 58/10
+as the basic document for consideration Technical Working Group to finalize the
+by the
+performance Sub-Committee
+standards for electronic inclinometers. In this context, the
+referred documents NAV 58/10, NAV 58/10/1 and NAV 58/10/2 to the Technical Working
+Group,
+Establishing the Technical Working Group
+10.10 Having also considered agenda items 5, 6 and the sub-items under agenda item 13
+relating draft Code (DE 56IVVP.4, annexes and
+to the for ships operating in polar waters 1 2)
+and the draft MSC resolution on Recommendation for the protection of the AlS VHF data link
+(COMSAR 16/17, annex 12), the Sub-Committee re-established the Technical Working
+Group and instructed It to consider all relevant documents submitted under agenda
+items 5, 10 and 13E and 13F and, taking into account any decisions of, and comments and
+proposals made in plenary, undertake the following tasks:
+consider particular amendments related
+.1 document NAV 58l5l2, annex 1, in
+(annex 8,
+to the navigational status parameters in Messages 1, 2 and 3
+table 46 of the Recommendation), taking into account document
+NAV58!5f1, paragraphs 17.1 to 17.3, and further all other proposed
+ITU-R M.1371-4, and prepare a Iiaison
+amendmenis to Recommendation
+statement to WP 58 (agenda item 5);
+.2 consider document NAV 58/5/2, annex 2, in particular the proposed
+and the annex to the Draft
+initiatives on applications using AlS technology
+CPM text containing the VHF Data Exchange concept developed by IALA
+together with the comments made in document NAV 58/6/7 on VHF Data
+Exchange (VDE) and provide advice, as appropriate, as well as a liaison
+statement WP 5B items and
+to (agenda 5 6);
+I:NAV58\14,doe

@@ -1,0 +1,81 @@
+NAV
+58114
+Annex 8, page 2
+ANNEX
+V
+UNIFIED INTERPRETATI ONS OF SOLAS CHAPTER
+— Navigation bridge visibility
+Regulation V/22.1.6
+when:
+1 The requirements of SOLAS regulation V/22.1 .6 are accomplished
+wing distance corresponding to a reasonable
+.1 a view from the bridge plus a
+leaning over the side of the bridge wing,
+and safe distance of a seafarer
+vertically right
+which needs not to be more than 400 mm, to the location
+at the lowest seagoing draught is not
+under the maximum beam of the ship
+obscured; er
+the sea surface at the lowest seagoing draught and with a transverse
+.2
+throughout the
+distance of 500 mm and more from the maximum beam
+length from side of the bridge wing.
+ship’s is visible the
+also attached
+2 A schematic diagram depicting the unified interpretations is
+herewith.
+vessel (OSV),
+3 For particular types of ships such as tug/tow boat, offshore supply
+meeting the requirements of
+rescue ship, work ship (eg. floating crane), in
+V/22.1.6, bridge wings at least extend to a location from which
+SOLAS regulation the should
+of 1500 mm
+the sea surface, at the lowest seagoing draught and at a transverse distance
+ship’s length, visible. 1f this ship type Is changed
+from the maximum beam throughout the is
+those addressed in this paragraph then the interpretation in this
+to a type other than
+would no langer apply.
+paragraph
+remote system may be accepted for ships of unconventional
+4 The use of a camera
+the view
+design, other than those mentioned in paragraph 3 above, as means for achieving
+of the ship’s side from the bridge wing, provided:
+circuit breaker
+- the installed remote camera system is to be redundant from the
+cables, i.e. the system is to
+to the camera and screen, including communication
+each redundancy of:
+provide on side of the ship
+the switchboard to the
+• the power cables and circuit breakers from main
+camera
+and the screen;
+• the camera;
+• the screen;
+lines from camera to the display screen; and
+• the transmission the
+• the components associated with these lines and cables;
+powered from the ship’s main source of electrical
+- the remote camera system is
+of electrical
+power and is not required to be powered by the emergency source
+power;
+operation under
+- the remote camera system is capable of continuous
+environmental conditions as per UR Eb;
+the requirements
+the view provided the remote camera system complies with
+- by
+where the manoeuvring
+of regulation V122.1.6 and is also displayed atlocations
+of the ship may take place;
+is directly visible by the observer from
+- the upper edge of the ship’s side abeam
+of the ship may take place.
+locations where the manoeuvring
+I:NAV\5814.doc

@@ -1,0 +1,35 @@
+NAV 58/14
+Annex 5, page 2
+5 In considering the proposed
+changes to paragraph 3.12 of annex 8, the
+Sub-Committee concurred
+with the proposed text in message 14 for MOB and EPJRB-AIS.
+6
+At this stage, the Sub-Committee had no
+further comments on the other proposed
+amendments.
+7 Additionally,
+the Sub-Committee discussed the application of diver
+AlS to location
+devices and was
+of the view that frequencies AlS 1 and
+AlS 2 should only be used when a
+diver was
+in a non-routine situation.
+It was considered that in these cases the device was
+similar to a MOB device and that
+the parameter and appropriate message for MOB should
+apply. The Sub-Committee
+was of the view that these devices should the
+not operate on
+frequencies
+AlS 1 and AlS 2 for routine diver locating.
+8 Noting that the
+draft revision would be further developed, the Sub-Committee
+requests WP 5B
+to Iiaise the updated version of Recommendation ITU-R M.1371-4 for
+consideration
+by the Sub-Committee at its next session, to be in September
+held 2013.
+s-* *
+I:NAV\58\14.cIoc

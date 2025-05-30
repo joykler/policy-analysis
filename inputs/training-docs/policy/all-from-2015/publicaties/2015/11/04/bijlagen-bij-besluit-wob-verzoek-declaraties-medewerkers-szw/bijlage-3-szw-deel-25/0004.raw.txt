@@ -1,0 +1,31 @@
+25 
+Overzicht reisdeclaratie 
+Rijiisovertieid 
+Declaratienummer: 
+Personeelsnummer: 
+Naam: 
+Reisgegevens: 
+Reisdatum en tijdstip reis; 04/02/2014 08:00 t/m 04/02/2014 09:00 
+Reden: bijeenkomst 
+Toelichting: 
+Openbaar vervoer 
+Wijze van vervoer: 
+Route: Vertrekpunt: Den Haag Rijnstraat 
+Bestemming: Zwolle Stationsplein 
+Kosten openbaar vervoer: 
+Betaalbewijs 
+Bedrag 
+Datum Kostensoort 
+vereist 
+(Euro) 
+X 
+04/02 Openbaar ven/oer 42,60 
+Subtotaal gedeclareerde kosten 42,60 
+Te ontvangen 
+42,60 
+04-02-201 
+Dagrctour mei ko 
+n Haag LNOI 
+M^et geld 9 " a 
+•: f m 42,6| 
+Pagina: 1/1

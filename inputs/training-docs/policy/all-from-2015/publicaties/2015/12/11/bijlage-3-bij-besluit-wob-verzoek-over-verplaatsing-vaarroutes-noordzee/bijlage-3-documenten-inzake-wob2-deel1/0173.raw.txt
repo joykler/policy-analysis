@@ -1,0 +1,98 @@
+Cover rapor-t the (formal)
+0fl safety aesessments for 26 maart 2012
+1
+3.3.3 QRA Conciusions
+The results of the QRA
+for the proposed route structure without wind have been
+farms compared to
+the results of a base variant. The
+resuits in case the wind farms licensed in round 2 are built, are
+compared wlth variant 1, thus the variant without additional
+routeing measures. The following
+conclusions can be
+drawn.
+The
+proposed route structure is the best option with respect
+to safety. k is the only variant for
+whlch the total number
+of incldents with shipplng will decrease,
+The main
+impacts ori safety by the proposed route structure follows:
+are as
+Increase of risk
+more
+• 0,153 ships will be Involved In a collision.
+The lncrease Is mainly caused by an
+lncrease of the
+number of overtaking collisions, and by the higher concentratlon of
+shlpplng. The number of head-on
+collislons sllghtly decreases by the separatlon of the
+traffic in opposite directions.
+a small increase
+of the probability of the incidents that are related the number of
+to sea
+miles, such as foundering, hulI fallure and
+fire/exploslon;
+Decrease of risk
+• a decrease In the probablilty of a stranding;
+decrease
+• a In the probability of a contact wlth a platform;
+• a decrease In
+the probability of a contact wlth a ship at arichor;
+The summation of all
+Incidents outside the wind farrns delivers a change -0.283 incldents
+of with
+shipping per year, thus
+on average 1 incident less in 3.5 years.
+Much
+of the profit of 0.283 fewer lncidents outside the wind Is offset by ramming
+and driftirig
+contacts wlth the wind turbines.
+When all the wind farms are built 0.206 contacts wlth wind
+turbines are expected, Then In total 0.076 fewer lncidents
+are expected, thus on average 1 incident
+less
+in 13 years,
+The impact on the probablilties of a
+contact against a platform fluctuates strorigly. The rlsks for
+some
+platforms decrease, for example for the platforms Horizon
+and P18, whlle the risks for other
+platforms Increase, The
+collislon risk for Horizon due to a route-bound shlp decreases by 25%.
+Despite this reduction, Horizon remains platform
+the w)th the highest collision risk. In total, a sllght
+reduction of
+in risk 0,008 incidents per year for platforms is achieved.
+The largest contribution of the total
+yearly extra costs is delivered by the costs of the extra mlles.
+These amount
+costs MC 19.3 per year.
+In case all wind farms licensed In round
+2 are built, the probablilty of a contact wlth a wind turbine
+will
+amount to 0,0592 per year for rammirig and 0,1363 for drifting additlonal
+1f no measures are
+Implemented east of the
+main route from North Hinder to Texel T5S. In case of the proposed route
+structure Is implemented the ramming risk will
+amount 0,0037 per year and the drifting risk
+0,1155
+per year, thus an lmprovenient factor of respectively 16 for rarnming and
+1.18 for drifting.
+The collision risk of wind turbines
+by non-route-bound ships remains the same, because their
+behaviour is not affected by the proposed route structure,
+The extra lncldents In
+case the wInd farms are built are less than the lncldents saved by the
+introduction of the proposed route structure.
+The three new anchorage
+areas near IJmuiden within the proposed route structure are safer than
+the existing anchorage area on the north side, because
+the lane wlth outgoing traffic from
+Ijmuiden to be
+has crossed twice. The enchorage area NW will not be used initially but comes Into
+use when there is a need to. The
+anchoring near IJmuiden will become safer for the proposed route
+structure than in the present 5ituation.
+Pagina 34 of 44

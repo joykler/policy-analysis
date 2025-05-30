@@ -1,0 +1,46 @@
+.5
+NAV 58114
+Annex 9, page 4
+9 PERFORMANCE TESTS, MALFUNCTIONS AND
+INDICATIONS
+9.1 Electronic inclinometers
+should internally check and indicate to the user 1f all
+components are
+operative and 1f the information provided is valid or not.
+MODULE C - INTERFACING AND INTEGRATION
+10 CONNECTIONS
+TO OTHER EQUIPMENT
+10.1 Electronic inclinometers should comprise a
+digital interface provicling actual heel
+angle information to other
+systems like e.g. the voyage data recorder (VDR) with an update
+rate of at least
+5 Hz. Electronic inclinometers should also comprise a digital interface
+providing
+the displayed information of roll period and roll amplitude (paragraph
+7.1 refers).
+10.2 Electronic inclinometers have a
+should bidirectional interface to facilitate
+communication, to transfer alerts
+from inclinometers to external systems and to acknowledge
+and
+silence alerts from external systems.
+10.3 The digital interface should compliant
+be to the relevant international standards
+11 INSTALLATION
+POSITION
+11 .1 The installation position
+of the sensors of the electronic inclinometer should be
+recorded and made
+available for the configuration of the voyage data recorder.
+12 POWER SUPPLY
+12.1 Electronic
+inclinometers should be powered from the ship’s main source of electrical
+energy.
+In addition, it should be possible to operate the Electronic inclinometers from
+the
+ship’s emergency source of electrical energy.
+Refer to publication IEC 61162 — Maritime navigation
+and radiocommunication equipment and systems —
+Digital interfaces.
+l:NAV’581 4.doc

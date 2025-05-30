@@ -1,0 +1,61 @@
+NAV 58/14
+7, page 11
+Annex
+Table 3 — SAR users
+Competent
+Identifier Gaps
+Sub-Committee(s)
+:
+1 Informationldata management
+Technical
+COMSAR
+Lack of méchanisms to provide SAR (RCC) function with
+310-GteOl
+digital
+the full range of relevant e-navigation information in
+format.
+Regu!ato,y_(no_gaps_identified)
+Operational
+COMSAR
+Insufficient access to and quality of information from ships
+310-GopOl
+in distre5s.
+COMSAR
+310-GopO2 Insufficient access to LRIT data to ships or units
+participating_in SAR_operations.
+Training (no gaps identified)
+data
+2 Effective and robust volce communication and
+transfer
+Technical
+COMSAR
+Lack of an automated data network connecting all
+320-GteOl
+improved
+stakeholders In SAR intervention, including
+shore-, land-, sea- and
+communication between RCC and
+air-based entities.
+relevant onboard
+Lack of access to the details of all
+for SAR authorities.
+communication and capabilities
+Limited for communication infrastructure in SAR
+resources
+operation.
+Reguiatory
+320-GreOl Deleted.
+Operational
+320-GopOl Deleted.
+Training
+Deleted.
+320-GtrOl
+Systems equipment
+3 and
+Technicai_(no_gaps_identified)
+330-GteOl Deleted.
+Regulatory_(no_gaps_identified)
+Oporational (no_gaps_identified)
+Training_(no_gaps_identified)
+4 Operation_(no_gaps_identified)
+I:\NAV581 4.dcc

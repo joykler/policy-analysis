@@ -1,0 +1,55 @@
+NAV 58/14
+Annex
+7, page 10
+Identifier Competent
+Gaps
+Sub-Committee(s)
+6 Traffic_monitoring
+Technical
+260-GteOl
+Traffic monitoring Tools that have the capability to NAV
+manage increased levels!volumes information are not
+of
+in use.
+260-GteO2 Current VTS infrastructure may not have the capacity NAV
+for
+increased collection, integration, exchange,
+presentation,
+storage and
+analysis of data.
+260-GteO3 Lack of procedures NAV
+that enable shore-based authorities to
+monitor
+quality of navigation systems on board as well as
+quality of information and effectiveness of communication.
+260-GteO4 Current VTS NAV
+infrastructure may not have the capacity for
+real time display of vessels’ track to provide a Navigational
+Assistance Service (NAS) or Traffic Organization Service
+(TOS).
+260-GteO5a Some operating systems and software are no longer NAV
+supported.
+260-GteO5b
+In some VTSs, there is a problem of interoperability NAV
+between applications.
+260-GteO6a Bandwidth limitations shore/ship. NAV/COM SAR
+Shortage of VHF marine frequencies.
+260-GteO6b Deleted.
+260-GteO7
+There is a lack of effective measures to prevent the NAV/COMSAR
+transmission of inaccurate AlS data.
+Regulatory_(no_gaps_identifled)
+. Operatlonal
+260-GopOl Lack of common uriderstanding NAV
+of the scope and evolvirig
+procedures_of_NAS and_TOS_internationafly.
+Training
+260-GtrOl Not all VTS Operators are trained to IALA V-103 NAV
+model
+training courses. all VTS
+Not training organizations have
+accredited VTS training courses.
+260-GtrO2 There is a lack of NAV
+understanding by seafarers as to the
+type_of VTS service_being_provided.
+l:NAV58\14.doc

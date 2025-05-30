@@ -1,0 +1,74 @@
+NAV 58/14
+Annex 7, page 6
+Identifier Gaps
+Competent
+Sub-Committee(s)
+3.4 Documents In electronic form and
+automated updates
+of information
+Technical
+136-GteOla
+New equipment/system or task based on INS-task NAV
+(functionality) concept resolution MSC.252(83)
+for
+management
+of information formerly available in printed
+necessary.
+forrnat is
+136-GteOlb Information may
+be difficult to localize in electronic NAV
+documents (search function).
+136-GteOlc Lackofautomatic updatirig
+of documents. NAV
+136-GteOld
+Electronic systems can not automaticaVy
+determine the NAV
+status of available
+data and automatically retrieve the
+most current and comprehensive data.
+136-GteOle Regulations for
+new navigational display systems should NAV
+be standardized,
+Regulatory
+136-GreOl Legal aspects regarding access and usage
+rights of NAV
+updating information
+are not solved.
+136-GreO2 Documentation requirements possibly
+not allow for NAV
+documentation
+in electronic form.
+136-GreO3 Too many regulations adding
+are to the administrative NAV
+burden the
+of marmer on board.
+Operatîonal
+136-GopDi Ineffectk/e access to information.
+NAV
+Training_(no_gaps_identified)
+reporting
+4 Ship
+Technical
+140-GteOl Lack of automated and standardized
+shlp reporting NAV/COMSAR
+140-GteO2 function (e.g. FAL Convention
+documents, coastal State
+additional
+and port entry requirements as part of Ship
+Reporting_Systems).
+140-GteO3 Single-window
+andlor automated and single entry for any NAV
+required reporting information into the system for it to be
+shared by authorized authorities without
+further
+intervention by the
+ship during and/or before navigation,
+except
+It has any r&evance for navigational purposes
+(VTSIPI LOTIHARBO UR/COLREGs).
+140-GteO4 Automated
+entry of internal ship data for reporting NAV
+(including_updates of_information)_is not available.
+140-GteO5 (Moved under
+shore-based users).
+I:\NAV58\14.doc

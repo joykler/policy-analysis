@@ -1,0 +1,31 @@
+IS 
+Overzicht reisdeclaratie 
+Rijksoverheid 
+Declaratienummer: 
+Personeelsnummer: 
+Naam: 
+Reisgegevens: 
+Reisdatum en tijdstip reis: 27/03/2014 08:30 t/m 27/03/2014 18:00 
+Reden: bijeenkomst 
+Toelichting: 
+Wjze van vervoer: Openbaar vervoer 
+Route: Vertrekpunt: 
+Delft Van Leeuwenhoeksingel 
+Bestemming: 
+Utrecht Jaarbeursplein 
+^Kosten openbaar vervoer: 
+Bedrag Betaalbewijs 
+Datum 
+Kostensoort 
+(Euro) vereist 
+27/03 Openbaar vervoer 40,40 X 
+Subtotaal gedeclareerde kosten 40,40 
+Te ontvangen 40,40 
+27-03-2014 
+- w 
+Delft 
+1 *H 
+Utrecht Centraal 
+•f t 
+EUR 4D.iD 
+Pagina: 1 / 1

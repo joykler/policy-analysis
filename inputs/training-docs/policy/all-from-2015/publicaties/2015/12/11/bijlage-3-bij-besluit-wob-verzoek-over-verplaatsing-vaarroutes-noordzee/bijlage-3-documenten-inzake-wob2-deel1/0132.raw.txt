@@ -1,0 +1,55 @@
+NAV 58/14
+page 1
+Annex 13,
+ANNEX
+13
+PROPOSED REVISIONS TO INTERPRETATION Nos. 22 AND 27
+OF APPENDIX 1 MSC.IICIRC.1369
+OF
+Changes shown in additions/deletions
+Regulation Interpretations
+11-2121.4.3
+Interpretation 22
+Navigational systems Equipment essential for navigation, position fixing and detection of
+risk of collision should be available. The following eguipment
+should be available as a minimum:
+Compass
+a) a properly adjusted standard macinetic compass
+(macrnetic)
+b) a Receiver for a çilobal navigation system or a
+satellite
+terrestrial radionpvipatipn system
+Band
+c) a9 GHzX radar
+or an
+d Electronic Chart display and information system (ECDIS)
+follo of adopuQte ortfolio of paper nautical charts
+appropripte
+and
+publications
+e)
+Whistle
+Naviciation licihts
+fi
+Internal communications with engine control room and steering
+q)
+gL
+Ii) a pelorus or Compass bearing device to take bearings
+Means of correcting heading and bearings to true at all times
+1)
+capable of displaying the proper light
+The ship should be
+International Regulations for
+configuration in compliance withthe
+Preventing Collisions af Sea in forse.
+11-2121.4.6 Interpretatlon 27
+External The ship should be capable of communicating via the GMDSS or
+the Marine and Air Band distress frequencies, even 1f the
+communication VHF
+main GMDSS equipment is lost.
+The external communication may be achieved by additional fixed
+means or in same area as the navigation
+portable means installed
+and manoeuvring
+eciuipment.
+I:NAV\58\14.doc

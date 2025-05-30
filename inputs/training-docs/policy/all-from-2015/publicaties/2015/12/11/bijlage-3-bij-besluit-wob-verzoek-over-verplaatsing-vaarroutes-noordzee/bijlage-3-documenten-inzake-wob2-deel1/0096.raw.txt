@@ -1,0 +1,67 @@
+NAV 58/14
+Annex
+3, page 10
+Appendix
+3
+DRAFTING OF REPORTS
+TO THE MANDATORY SHIP REPORTING SYSTEM
+“BARENTS SRS’
+Summarv:
+Reporting can
+be done by non-verbal means by the use of AlS
+and pre-entry non verbal
+means as, for example, e-mail, fax or the website www,shiprep.no,
+1f a ship is unable to
+make usa of the non-verbal means or submit
+a report at least one hour prior to entering the
+area, reporting is to
+be done by VHF or by telephone (if outside VHF range).
+• Correct
+and updated AlS information can accomplish reporting of
+designators A,
+B, C, E, F, 1, 0 and W.
+• Non-verbal means cari accomplish reporting
+of designators A, H, P, T and X.
+Q,
+The scheme below
+gives the preferred method of reporting combined
+by AlS, non-verbal
+means and VHF, as well as information required for aach
+designator.
+Designator AlS Non- VHF
+Function Information requlred
+verbal
+A Yes Yes Yes Ship
+1) Name of ship
+2) MMSI number
+3) Cali sign
+and — when available —
+4) IMO number
+5) Additional contact
+information.
+B Yes
+Date and A 6-digit group giving day of
+time
+month and hours and minutes in
+Universal Coordinated
+Time
+(UTC).
+C Yes Position 5-digit group
+A giving latitude in
+degrees and
+minutes, decimal,
+suffixed with N (north) and a
+6-digit group giving longitude in
+degrees minutes,
+and decimal,
+suffixed with E (east)
+or W (west).
+E Yes
+True course A 3-digit group.
+Yes
+F Speed in A 3-digit group.
+knots and
+tenths
+of
+knots
+l:\NAV’5B14.doc

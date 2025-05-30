@@ -1,0 +1,78 @@
+NAV 58114
+Annex 7, page 4
+Competent
+Identifier Gaps
+Sub-Committee(s)
+alert
+3.2 lmproved ergonomics, standardizatlon and
+management
+Technical
+equipment exist in a NAV/COMSAR/
+134-GteOla Ergonamic problems of navigation
+human-machine STW
+sense that there is a lack of intuitive
+interface communication and navigation means.
+for
+Bridge equipment systems are seldom
+layouts, and
+and/or user-friendly
+designed from an ergonomic
+perspective.
+1 34-GteOl b Deleted.
+1 34-GteOl c Deleted.
+NAV
+Lack symbology for whole potential
+134-GteO3 of harmonized
+e-navigation information.
+NAV
+Lack in presentation of manoeuvring information/data
+134-GteO4
+on navigatiorial display.
+(engine-room telegraphs)
+Regulatory
+1 34-GreOl Deleted.
+and hardware NAV/CQMSAR
+134-GreO2 Control (eg. type approval) of software
+updates is not sufficient.
+Type approval procedure for navigation and
+should become more flexible
+communication equipment
+and progressive.
+Regulation of upgrading of navigation and communication
+operating systems is missing.
+equipment
+regime software driven applications
+Lack of updating for
+within e-navigation framework.
+NAV/COMSAR
+standards, guidelines,
+134-GreO3 Existing documents (performance
+harmonization
+etc.) with regard to ergonomics are rïiissing
+and are seldom applled.
+guidelines,
+Existing documents (performance standards,
+are not applied for
+etc.) with regard to ergonomics
+systems (mci. GMDSS),
+communication equipment and
+Existing documents (performance standards, guidelines,
+etc.) for alert are not applied.
+management
+usability NAV/COMSAR
+134-GreO4 Currently, there are no guidelines or guidance for
+evaluation.
+to NAV
+Lack of standardization for operation of functions
+134-GreO5
+Users require standardization
+observe the passage plan.
+and the operating way of
+on the level of function provided
+it, but not_being_restricted to future_developments.
+NAVICOMSAR
+Lack for interoperability of
+134-GreOG of performance standards
+the concept).
+systems and sensors (according to modular
+I:\NAV\58\14.doc

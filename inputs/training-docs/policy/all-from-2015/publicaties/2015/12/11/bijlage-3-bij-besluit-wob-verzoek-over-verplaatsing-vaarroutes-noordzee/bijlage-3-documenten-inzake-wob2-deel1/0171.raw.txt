@@ -1,0 +1,48 @@
+Cover raport
+on the (formal) safety assessments for 26 maart 2012
+1
+close
+quarters encounters, based on the angle between the two vesseis’ courses and their relative
+speeds, Although collislon between two collisions
+a vessels is perhaps the main risk, stranding and
+between a vessel and a wind turbine or offshore platform are also taken account.
+into
+The software must be programmed wlth vessels
+a definltion of a close quarters encounter (e.g. two
+passing iess than half a mlie of cach other) and MARIN divides close quarters encounters Into three
+categories, 600,
+namely: ‘overtaking’ where the difference in courses Is iess than ‘crossing’ where
+600
+the difference In courses is between and 1500 courses Is
+and ‘end on’ where the difterence In
+1500
+between and 180°. It must be noted that these deflnitlons are not the same as those given In
+the “International for
+regulatlons preventing colilsions at sea” (otherwise known as the ‘Colregs’ or
+the ‘Rule of the Road’), whlch state the rules by whlch shlps should these three
+behave in each of
+types of a ciose quarters encounter.
+The calculations are performed without any risk reducing measures.
+The
+QRA, like the FSA/HAZID, corisiders and compares three spatial “variants”. The new “Variant
+IMO” is compared with the followlng Variants:
+• Present sitijation wlth windfarm Q10 marked as a construction area for Wind farms; and
+• Variant
+No.1 of the FSA2O1O (all so-called 2nd round Windfarms Implemented).
+3.32
+QRA Calcutation Results
+Table 1 shows calculated ilkelihoods and for considered ships’
+costs each variant of wind farn and
+routeing configuration. The left part of Table 1 contains the probabilities that a wind turbine is lost.
+The center part of the table contains the yearly costs of accidents with the wind farm and of
+accldents and extra miles
+outside the wind farm. By comparing the columns, t becomes dear that
+the largest contribution of the yeariy costs is deilvered by costs of the extra miles. Thereafter, the
+damage to the wind turbines gives the largest contribution.
+Only the proposed route structure reduces the number of shipping incidents. The extra ncidents
+0,206
+wlth the wind farms are completely compensated by the decrease of 0,283 incidents outside
+the wind farms. In summary, 0,076 less incldents will incident
+occur per year, thus on average one
+less In 13 years.
+PaGIna 32 of 44

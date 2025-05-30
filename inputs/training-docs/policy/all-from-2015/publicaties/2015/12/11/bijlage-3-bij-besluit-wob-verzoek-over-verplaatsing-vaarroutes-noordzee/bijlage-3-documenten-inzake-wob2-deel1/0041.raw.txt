@@ -1,0 +1,58 @@
+NAV 58114
+Page 17
+.3 use of the IHO’s S-lOO standard as the baseline for creating a framework
+for data access and services under the scope of SOL.AS; and
+.4 proposed joint plan of work on e-navigation for the COMSAR, NAV and
+STW Sub-Committees for the period 201 2-2014,
+and had also agreed that, for the required until future uses
+time being, no further action was
+of the frequency band also
+of 495-505 kHz were identified for e-navigation. MSC 90 had
+authorized the
+establishment of an IMD/IHO Harmonization Group on data modelling and
+approved
+its terrns of reference.
+6.6 The Chairman
+recalled that:
+.1 the Secretary-General’s opening remarks had underlined the importance of
+remainirig focuseci analysis cost-benefit and
+on finalizing the gap and the
+risk 0fl
+analyses. Other parallel developments should concentrate
+guidelines for usability evaluation of navigational equipment, integrated
+position, navigation and timing system, software quality assurance and
+guidelines for test beds but without delaying the finalization of the Strategy
+Implementation Plan; and
+.2 t was important to remain focused on the agreed work programme and to
+not become distracted new technology.
+by tangential matters such as
+It was imperative that the Sub-Committee should now focus attention
+primarily on finalizing the gap analysis and the cost-benefit and risk
+analyses and adhere to the revised joint plan of work approved by MSC 90.
+6.7 The Sub-Committee considered the report of the Correspondence Group (CG) on
+e-navigation (NAV 5816) outlining the ongoing development of the detailed architecture on
+e-navigation, a proposal for a completed gap analysis for finalization, a procedure for
+identifying Risk Control
+Options, further development of the Maritime Service Portfolios, the
+development of guidelines for usability evaluation of navigational equipment, the
+development of guidelines for the harrnonization of test beds, as well as a draft outline for the
+final Strategy Implementation Plan.
+6.8 In this context, a few delegations including an industry observer were in favour of a
+rigorous assessmerit of the gap analysis with view to a firial refined list of high-level goals.
+a
+6.9 The Sub-Committee agreed that the report of the CG should be used as the basic
+document for further work during this session and to instruct the e-navigation working group,
+proposed to be established under this item, to undertake a thorough review of the report
+before the Sub-Committee could relevant actions.
+take the requested
+6.10 The Sub-Corpmittee considered documents NAV 58/6/1, NAV 58/6/2 and
+NAV 58/6/3 (Germany) relating to a resilient Integrated Position, Navigation and Timing
+System as intended to support
+part of the lntegrated Navigation System (INS), which was
+meeting e-navigation user needs such as improvement and indication of rellability.
+6.11 After a brief discussion, the Sub-Committee agreed that it was premature to
+consider lntegrated Navigation Systems (INS) a core element e-navigation/carriage
+as of
+requirements of ECDIS to
+means e-navigation.
+I:NAV5814,doc
