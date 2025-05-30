@@ -1,0 +1,25 @@
+Toelichting	bij	de	tabel
+In EU-verband hebben de lidstaten afspraken gemaakt over de informatie die in de programma’s  
+van maatregelen opgenomen moet worden. Deze rapportagerichtlijnen staan in het document  
+Reporting on Programmes of Measures (art. 13) and on exceptions (art. 14) for the Marine Strategy  
+Framework Directive.
+Kolom 2, 3, en 4 zijn toegelicht in Bijlage 2. 
+Kolom 5 (gCA; vraag g uit de rapportagerichtlijnen), verantwoordelijk bevoegd gezag tenzij anders 
+ vermeld: Rijksoverheid; 
+- EC   Europese Commissie
+Kolom 6 (hDA), verantwoordelijk instantie voor de uitvoering van de taak (indien niet het bevoegd gezag): 
+- div.   divers
+- ngo   niet-gouvernementele organisaties
+Kolom 7 (iTC), periode waarover de maatregel van kracht is: 
+- perm  permanent
+- ma   meerjarig
+Kolom 8 (jFin), financiering van de maatregel:
+- EFMZV  Europees Fonds voor Mariene Zaken en Visserij
+- os   eigen middelen 
+Kolom 9 (kLC), coördinatieniveau van de maatregel: 
+- Eur   Europa
+- Nat   nationaal
+- Loc   lokaal binnen Nederland
+Kolom 11 (mEff), meten van de effectiviteit van de maatregel
+- MP   monitoringprogramma 
+Mariene Strategie voor het Nederlandse deel van de Noordzee 2012-2020 (deel 3) |155

@@ -1,0 +1,40 @@
+waarvan de fiscale hypotheekschuld hoger is dan de waarde van de eigen woning, de verdeling 
+van het vermogen tussen huishoudens  en de regionale vermogensverdeling. 
+Naar aanleiding van het verschijnen van het rapport van de Wetenschappelijke Raad voor het 
+Regeringsbeleid (WRR) over economische ongelijkheid en het verschijnen van de Nederlandse 
+editie van het boek van Thomas Piketty (Kapitaal in de 21ste eeuw) in 2014, heeft CBS aan de 
+hand van een thema-artikel “Het interpreteren van cijfers over vermogensongelijkheid behoeft 
+nuance” in november uitleg gegeven over het interpreteren van kengetallen over 
+vermogensongelijkheid. In dit artikel wordt beschreven welke effecten wel, of juist niet, worden 
+meegenomen in de cijfers van CBS en andere statistische bureaus. 
+Toegankelijkheid van informatie 
+In het kader van toegankelijkheid van informatie is in 2014 gewerkt aan het verbeteren van de 
+kaartmodule voor StatLine die ook breder toepasbaar wordt voor het  ontwikkelen van 
+visualisaties op basis van open data. Ook de open data webapplicatie die in 2014 is ontwikkeld 
+en begin 2015 wordt gelanceerd, maakt gebruik van deze kaartfunctionaliteit.  
+Bij de lancering van de open data portal in juli en bij het ontwikkelen van de open data 
+webapplicatie is gebruik gemaakt van een Linked-In groep om vragen en reacties van gebruikers 
+te delen. Eveneens zijn gebruikerssessies gestart om specifiekere informatie te krijgen ten 
+aanzien van gebruikerswensen. Deze input is gebruikt om de open data portal en webapplicatie 
+verder te ontwikkelen.  
+Om de toegankelijkheid van laag-regionale informatie te verbeteren bracht CBS in 2014 een 
+nieuwe Wijk- en Buurtkaart uit. Deze omvangrijke kaart bevat naast de digitale geometrie 
+(geografische coördinaten) van de grenzen van de buurten, wijken en gemeenten ook alle 
+kerncijfers van de buurten (zoals gedetailleerde bevolkings- en huishoudenssamenstelling, 
+oppervlakte, aanwezige motorvoertuigen en voorzieningen per buurt) en de geaggregeerde 
+kerncijfers van de wijken en gemeenten. Tevens verschenen  twee kaarten met zogenaamde 
+vierkantstatistieken: één kaart met statistieken per vierkant van 500 bij 500 meter en één kaart 
+met statistieken per vierkant van 100 bij 100 meter.  
+Geografische informatie van CBS is uitgebreid met een specifieke tool om geocodes te koppelen. 
+Deze informatie is ook ontsloten via de website “Publieke Dienstverlening op de Kaart” (PDOK), 
+een centrale overheidsvoorziening die digitale geo-informatie van diverse organisaties als 
+dataservices en bestanden beschikbaar stelt. 
+ 
+2.6 Programmareductie 
+In het MJP 2014-2018 is aangegeven welke reducties in het programma, naast maatregelen om 
+de efficiency te verhogen, noodzakelijk zijn om de financiële taakstelling Rutte I op te vangen. In 
+2014 is hiertoe een aantal statistieken beëindigd, in frequentie verlaagd of versoberd. Nagenoeg 
+alle reductievoornemens zoals beschreven in het Jaarplan 2014 zijn in 2014 gerealiseerd. De 
+statistieken die in 2015 of later worden versoberd, worden in het Jaarplan 2015 genoemd.  
+ 
+CBS Jaarverslag 2014 – 27 maart 2015                                                                                                                14

@@ -1,0 +1,33 @@
+3.2 Onderzoeksprogramma 
+De belangrijkste resultaten van het onderzoeksprogramma in 2014 worden hieronder genoemd. 
+Big Data staan erg in de belangstelling en de toepassingsmogelijkheden van Big Data zijn 
+veelbelovend. Tegelijkertijd is het gebruik van Big Data binnen de officiële statistiek nog 
+beperkt. CBS is één van de eerste statistische bureaus ter wereld dat Big Data voor de productie 
+van statistische informatie gaat gebruiken, namelijk bij het produceren van verkeersindexcijfers 
+en gegevens over de dagpopulatie. Deze methoden zijn in 2014 uitgewerkt en worden in 2015 
+daadwerkelijk in gebruik genomen.  
+Door registerdata in plaats van enquêtedata nog beter te benutten, kan CBS kosten besparen en 
+tegelijkertijd de responslast verlagen. In 2014 is een methode ontwikkeld waarmee snel kan 
+worden vastgesteld of gegevens uit een nieuwe, of bestaande maar gewijzigde, registerbron 
+gebruikt kunnen worden om enquêtedata te vervangen. De ontwikkelde methode is toegepast 
+om automatisch te bepalen in welke branches btw-data gebruikt kunnen worden, waar dit tot 
+nu toe handmatig moest gebeuren. Er wordt nu gewerkt aan een vervolgmethode voor die 
+gevallen waarvoor via deze “snelle methode” geen beslissing genomen kan worden. Deze 
+methode is intussen toegepast bij de branches autohandel en transport, waarbij binnenkort 
+besloten kan worden of btw inzetbaar is. 
+Onderzoek naar efficiëntere interne verwerkingsprocessen richtte zich op de ontwikkeling van 
+generieke softwaretools waarmee ruwe data zo efficiënt mogelijk door CBS tot statistische 
+informatie kunnen worden verwerkt. Zo is met behulp van deze tools een nieuw controle- en 
+correctiesysteem voor de statistiek over zorginstellingen gebouwd.  
+Gebruikers van CBS-data stellen prijs op visualisaties van deze data. Ter verbetering van het 
+gebruikersgemak zijn in 2014 methoden voor het visualiseren van onzekerheidsmarges en het 
+visualiseren van meerdimensionale verdelingen ontwikkeld. Om tegemoet te komen aan de 
+wens van gebruikers van CBS-data naar zo actueel mogelijke cijfers over de ontwikkeling van de 
+economie is naast de kwartaalindicator in 2014 een methodiek ontwikkeld voor het berekenen 
+van een maandindicator economische groei. Na een proefdraaiperiode met deze methodiek 
+wordt besloten of de maandindicator in 2015 in productie wordt genomen. Tevens is in 2014 
+een methode ontwikkeld om de invloed van ongewoon weer op de groei van het Bruto 
+Binnenlands Product te bepalen.  
+ 
+ 
+CBS Jaarverslag 2014 – 27 maart 2015                                                                                                                16

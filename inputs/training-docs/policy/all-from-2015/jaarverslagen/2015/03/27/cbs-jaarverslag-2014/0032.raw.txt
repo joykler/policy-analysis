@@ -1,0 +1,42 @@
+afzonderlijk niet belangrijke vorderingen wordt collectief beoordeeld of deze onderhevig zijn aan 
+bijzondere waardevermindering, dit door samenvoeging van vorderingen met vergelijkbare 
+risicokenmerken. Bij de beoordeling van de collectieve waardevermindering gebruikt CBS historische 
+trends met betrekking tot de waarschijnlijkheid van het niet nakomen van betalingsverplichtingen, 
+het tijdsbestek waarbinnen incassering plaatsvindt en de hoogte van gemaakte verliezen. De 
+uitkomsten worden bijgesteld als de leiding van oordeel is dat de huidige economische en 
+kredietomstandigheden zodanig zijn dat het waarschijnlijk is dat de daadwerkelijke verliezen hoger 
+dan wel lager zullen zijn dan historische trends suggereren. 
+Een bijzonder waardeverminderingsverlies met betrekking tot een tegen geamortiseerde kostprijs 
+gewaardeerd financieel actief wordt berekend als het verschil tussen de boekwaarde en de contante 
+waarde van de verwachte toekomstige kasstromen, gedisconteerd tegen de oorspronkelijke 
+effectieve rente van het actief. Verliezen worden opgenomen in de winst-en-verliesrekening.  
+Als in een latere periode de waarde van het actief, onderhevig aan een bijzondere 
+waardevermindering, stijgt en het herstel objectief in verband kan worden gebracht met een 
+gebeurtenis die plaatsvond na de opname van het bijzondere waardeverminderingsverlies, wordt het 
+bedrag uit hoofde van het herstel (tot maximaal de oorspronkelijke kostprijs) opgenomen in de winst-
+en-verliesrekening. 
+ 
+Activa 
+ 
+Vaste activa 
+Materiële vaste activa 
+De materiële vaste activa worden gewaardeerd tegen hun kostprijs verminderd met de cumulatieve 
+afschrijvingen en bijzondere waardeverminderingen. De kostprijs bestaat uit de verkrijgings- of 
+vervaardigingsprijs en overige kosten om de activa op hun plaats en in de staat te krijgen noodzakelijk 
+voor het beoogde gebruik. 
+De afschrijvingen worden berekend als een percentage over de aanschafprijs volgens de lineaire 
+methode op basis van de economische levensduur. In onderstaande tabel is de afschrijvingsduur per 
+categorie weergegeven.  
+Vaste activa Afschrijvingsduur 
+Nieuwbouw  (cascomodificaties) 10 jaar 
+IT-middelen 3-5 jaar 
+Machines en installaties 10 jaar 
+Andere vaste bedrijfsmiddelen 5 jaar 
+ 
+Voor materiële vaste activa wordt op iedere balansdatum beoordeeld of er aanwijzingen zijn dat deze 
+activa onderhevig zijn aan bijzondere waardeverminderingen. Als dergelijke indicaties aanwezig zijn, 
+wordt de realiseerbare waarde van het actief geschat. De realiseerbare waarde is de hoogste van de 
+bedrijfswaarde en de opbrengstwaarde. Als het niet mogelijk is de realiseerbare waarde te bepalen 
+voor een individueel actief, wordt de realiseerbare waarde bepaald van de kasstroomgenererende 
+eenheid waartoe het actief behoort. 
+CBS Jaarverslag 2014 – 27 maart 2015                                                                                   32

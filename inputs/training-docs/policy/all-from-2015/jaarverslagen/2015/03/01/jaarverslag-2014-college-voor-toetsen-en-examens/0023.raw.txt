@@ -1,0 +1,36 @@
+college voor toetsen en examens - jaarverslag 2014 23
+2.6 Computerexamens 
+In 2014 is er rond de 1,4 miljoen keer een examen of een toets op de computer afgenomen.  
+Het gaat daarbij om de centrale examens in het vmbo BB en KB, de minitoetsen van het cspe 
+in het vmbo BB, KB en GT, de examens taal en rekenen in het mbo, de rekentoets in het VO  
+en de diagnostische tussentijdse toets in het VO (pilot). 
+De meeste digitale afnames vonden plaats in ExamenTester, het computerexamensysteem van 
+Cito dat al een aantal jaren wordt gebruikt. Een kleiner deel van de digitale afnames is gedaan 
+in het nieuwe Facet, ontwikkeld door DUO (samen met de externe partijen Trifork en Citrus). 
+De komende twee jaar wordt de inzet van ExamenTester afgebouwd en vinden alle digitale 
+afnames in Facet plaats. Facet 2.0 is in het voorjaar van 2014 gebruikt op ongeveer 150 exame-n
+locaties. In het najaar namen een aantal mbo-instellingen examens af in Facet 3.0 en is Facet 
+3.0 geïnstalleerd en getest op zo’n 600 VO-scholen voor de afnames in 2015.
+Verloop
+De digitale afnames verliepen over het algemeen voorspoedig. ExamenTester was erg stabiel 
+en functioneerde vrijwel foutloos. Facet draaide in het voorjaar nagenoeg probleemloos,  
+maar had in het najaar meer last van problemen. Door de grotere belasting op het systeem 
+manifesteerde zich een aantal kinderziektes, waar de deelnemende mbo-instellingen  
+tegenaan liepen. De problemen zijn aan het einde van het jaar allemaal verholpen, zodat de 
+afnames in 2015 met vertrouwen tegemoet worden gezien.
+In het voorjaar bleek dat de rekenmachine die bij de digitale examens via de computer wordt 
+aangeboden, bij sommige kandidaten voor problemen zorgde omdat hun eigen rekenmachine 
+een andere werking had dan de computerrekenmachine. Om deze kandidaten tegemoet te 
+komen, werd hun toegestaan het examen opnieuw af te leggen.
+Door de toename van het aantal scholen en instellingen dat deelnam aan digitale examens en 
+toetsen in Facet, nam ook de druk op de Facet-helpdesk bij DUO toe. Plannen om deze uit te 
+breiden en te professionaliseren zijn in december in gang gezet.
+Ontwikkeling Facet
+In de zomer is Facet 3.0 ter beschikking gesteld aan de scholen en instellingen. In Facet 3.0 zit 
+een groot aantal verbeteringen die tijdens pilotevaluaties door de scholen zijn genoemd.  
+Zo is het mogelijk digitale examens en toetsen online af te nemen, is de systeemcheck vereen-
+voudigd en het plannen van toetsen en examens verbeterd. Ook is er nu een online oefen-
+omgeving beschikbaar, waarmee leerlingen op school en thuis toetsen en examens kunnen 
+oefenen (zie: http://oefenen.duo.nl ). Daarnaast is er aan Facet 3.0 nieuwe functionaliteit 
+toegevoegd met het oog op de diagnostische tussentijdse toets. 
+Inhoudsopgave ↑

@@ -1,0 +1,44 @@
+De implementatie van het takenplanningssysteem en (de eerste delen van) het tijdschrijfsysteem 
+vormden de eerste voorbeelden van het gebruik van generieke ICT-bouwstenen voor de ondersteuning 
+van geüniformeerde processen. Het takenplanningssysteem METRIX ondersteunt een efficiëntere 
+planning en uitvoering van de inspecties en audits. Met de ondertoezichtstaanden kunnen gemakkelijker 
+afspraken worden gemaakt over het bezoek door de inspectie. Met dit systeem ontwikkelt de inspectie 
+ook betrouwbaarder normen voor de gemiddelde doorlooptijd van een type inspectie of audit. 
+Een specifiek aspect van de informatievoorziening betreft de reconstructie van en verantwoording over 
+de uitvoering van de publieke taak van de inspectie op basis van de documentaire neerslag in de 
+uitvoerende en ondersteunende processen. In 2014 zijn voorbereidingen getroffen om deze taken 
+nadrukkelijker mee te nemen in de integrale aanpak van de wasstraten. In dit kader is gewerkt aan een 
+nieuw metadata profiel, een nieuwe selectielijst en randvoorwaarden voor de uitrol van een 
+documentmanagementsysteem.
+Meld­ en Informatiecentrum (MIC)
+Het MIC werd geconfronteerd met een toename van (inter-)nationale meldstromen en een toename van 
+meldingen in de reeds ondergebrachte meldstromen. De verbetering van de inrichting van het MIC leidde 
+tot een beter inzicht in de aard en de omvang van de meldingen. Nog niet alle meldstromen zijn bij het 
+MIC ondergebracht, sommigen lopen nog decentraal, echter de verbetering in het proces en de onder-
+steuning van dat proces met automatisering zullen in 2015 leiden tot het onderbrengen van die meld-
+stromen bij het MIC en het uitbreiden van het 24/7 digitaal kunnen melden van de meldstromen.
+kwaliteitsmanagement 
+De inspectie werkte in 2014 verder aan het implementeren van kwaliteitmanagementsystemen (KMS) per 
+domein. Het domein Luchtvaart werkt al langer conform ISO 9001-2008 en is in 2014 gehercertificeerd. 
+De resultaten van verschillende interne audits hebben geleid tot verdere verbeteringen van het systeem. 
+Het domein Scheepvaart heeft zijn KMS ontwikkeld en geïmplementeerd voor een deel van de werk -
+zaamheden van het domein en is daarvoor in 2014 ISO-gecertificeerd. Nu wordt het KMS uitgebouwd 
+voor het hele domein. De Kernfysische Dienst heeft in 2014 een KMS ontwikkeld, geïmplementeerd en 
+met goed resultaat gedemonstreerd aan de internationale organisatie IAEA, die in november 2014 bij de 
+KFD een IRRS-missie (audit) heeft gehouden. De domeinen Rail- en Wegvervoer en Water, Bodem en 
+Bouwen zijn gestart met het ontwikkelen van het KMS.
+Bij de ontwikkeling van de afzonderlijke KMS’en wordt direct rekening gehouden met de beschikbare 
+vastgestelde, gepubliceerde en voor de gehele inspectie geldende uniforme procesontwerpen. Alle 
+KMS’en zijn vastgelegd en worden beheerd met dezelfde applicatie (MAVIM).
+De managementteams van alle domeinen beschikken over een scorecard met de belangrijkste productie- 
+en prestatie-indicatoren van hun domein. Deze scorecards sluiten aan bij de balanced scorecard van het 
+directieteam. 
+toezicht op Kiwa NV
+De inspectie voerde verschillende toezichtactiviteiten uit bij Kiwa NV en Kiwa Register BV. De bepalingen 
+van de overeenkomst tussen IenM en Kiwa NV werden door Kiwa NV nageleefd. Op enkele mineure 
+punten zijn verbeterafspraken gemaakt. Naar aanleiding van signalen over de kwaliteit van dienst-
+verlening en producten vanuit met name de visserij en koopvaardij heeft de inspectie extra aandacht 
+besteed aan de wijze waarop Kiwa NV omgaat met dergelijke signalen. Hierbij bleek dat verbeteringen  
+in de dienstverlenende processen tot stand zijn gekomen in overleg met de betrokken sectoren.  
+De resultaten van deze verbeteringen moeten in 2015 zichtbaar worden.
+Jaarverslag 2014 | 81

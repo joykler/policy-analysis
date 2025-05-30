@@ -1,0 +1,33 @@
+Toelichting	bij	de	tabel
+In EU-verband hebben de lidstaten afspraken gemaakt over de informatie die in de programma’s  
+van maatregelen opgenomen moet worden. Deze rapportagerichtlijnen staan in het document  
+Reporting on Programmes of Measures (art. 13) and on exceptions (art. 14) for the Marine Strategy  
+Framework Directive.
+Kolom 2 t/m 5 geven weer om welke categorie bestaande of aanvullende maatregelen het gaat:
+1a
+Categorie	 Maatregelen die vanuit andere beleidsterreinen zijn vastgesteld en geïmplementeerd
+1b
+Categorie	 Maatregelen die vanuit andere beleidsterreinen zijn vastgesteld, maar nog niet (volledig) geïmplementeerd
+2a
+Categorie	 Maatregelen die voortbouwen op bestaande implementatieprocessen en verder gaan dan in die kaders is afgesproken
+2b
+Categorie	 Nieuwe maatregelen buiten bestaande kaders
+Kolom 6 geeft aan welke operationele doelen de maatregelen hebben.
+Kolom 7, MA, geeft weer wat het karakter is van de maatregel (‘mode of action’): 
+1 Technische maatregel, maatregel die zichtbaar en/of meetbaar is 
+2 Wettelijke maatregel, maatregel vastgelegd in regelgeving om milieudoelen te realiseren
+3 Economische maatregel, maatregel gericht op economische prikkels om gewenst gedrag te bevorderen.
+4 Beleidgestuurde actie, zoals vrijwillige overeenkomsten met stakeholders, communicatiestrategieën, 
+ bewustwordingscampagnes, en educatie.
+Kolom 8, TM, geeft aan wat voor type maatregel het betreft (ontleend aan Annex VI bij de Kaderrichtlijn Mariene Strategie)
+1 Inputmaatregel, gericht op het beïnvloeden van menselijke activiteiten (brongericht)
+2 Outputmaatregel, gericht op het beïnvloeden van de mate van verstoring van het ecosysteem die is toegestaan (effectgericht)
+3 Ruimtelijke en tijdmaatregel, gericht op het beïnvloeden van plaats en tijd dat de maatregel moet optreden
+4 Managementcoördinatiemaatregel, gericht op het coördineren van activiteiten
+5 Maatregel om mariene verontreiniging te traceren
+6 Economische prikkel, gericht op het belang van degene die gebruik maakt van het marine ecosysteem om een goede 
+ milieutoestand te bereiken of te behouden
+7 Mitigatie- en herstelmaatregel, gericht op het beperken en/of herstellen van schade die door menselijke activiteiten aan het 
+ ecosysteem is aangebracht
+8 Communicatiemaatregel gericht betrokkenheid van stakeholders en bewustwording van het grote publiek.
+Mariene Strategie voor het Nederlandse deel van de Noordzee 2012-2020 (deel 3) |153

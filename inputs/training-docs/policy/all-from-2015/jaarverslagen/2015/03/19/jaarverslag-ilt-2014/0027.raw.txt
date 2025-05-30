@@ -1,0 +1,31 @@
+Inlichtingen- en Opsporingsdienst 
+opsporing
+afval/EVOA realisatie planning realisatie 
+2013 2014 2014
+signalen 32 30 29
+preweegdocumenten 7 6 7
+TCI-pv’s 3 15 9
+analyses 0 0 0
+pv’s (eindopsporingsonderzoeken) 3 3 1
+bodem realisatie planning realisatie 
+2013 2014 2014
+signalen 25 25 25
+preweegdocumenten 4 6 4
+TCI-pv’s 3 10 10
+analyses 0 0 0
+pv’s (eindopsporingsonderzoeken) 1 2 2
+gevaarlijke stoffen realisatie planning realisatie 
+2013 2014 2014
+signalen 5 10 12
+preweegdocumenten 3 3 2
+TCI-pv’s 2 15 3
+analyses 0 1 0
+pv’s (eindopsporingsonderzoeken) 1 1 0
+woningbouwcorporaties realisatie planning realisatie 
+2013 2014 2014
+signalen 10 14 7
+preweegdocumenten 2 3 4
+TCI-pv’s 0 5 1
+analyses 0 0 0
+pv’s (eindopsporingsonderzoeken) 2 2 2
+Jaarverslag 2014 | 25
