@@ -32,4 +32,4 @@ te verkrijgen dan wel om informatie te ontvangen (bijv. BIC, ICT-autorisatie, Fa
 medewerker’ of ‘Beste J. Leeraar’.
 Voor alle medewerkers die worden opgevoerd in P-Direkt of SAP wordt via RIN B.V. een uniek 
 RijksIdentificatieNummer (RIN) aangevraagd. Ook in dit systeem is het geslacht een verplicht 
-Eindrapport Pilot Onnodige Sekseregistratie (POS) 25
+Eindrapport Pilot Onnodige Sekseregistratie (POS)

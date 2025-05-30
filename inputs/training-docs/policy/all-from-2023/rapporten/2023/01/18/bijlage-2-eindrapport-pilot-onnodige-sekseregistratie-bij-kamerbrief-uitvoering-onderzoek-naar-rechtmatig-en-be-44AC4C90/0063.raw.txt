@@ -43,4 +43,4 @@ helpdesk medewerker registreert
  
 13
  H = Human, M= Machine 
-Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         63
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)

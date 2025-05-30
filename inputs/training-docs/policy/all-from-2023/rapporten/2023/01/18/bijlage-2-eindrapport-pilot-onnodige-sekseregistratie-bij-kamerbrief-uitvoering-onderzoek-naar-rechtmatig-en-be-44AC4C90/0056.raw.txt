@@ -32,4 +32,4 @@ urenraming dekt alleen de uren voor het verwijderen van het veld ‘geslacht’ 
 meer mee te leveren in de WVB services naar het scherm toe. Als ook de services aangepast moeten worden dan zal deze raming verdubbelen (dus 1800 
 uur). Deze raming is globaal gemaakt, er moet rekening worden gehouden met een onzekerheidsmarge van 25%. 
  
-Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         56
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)

@@ -35,4 +35,4 @@ door BKP/productie1. van ministerie van
  
 15
  H = Human, M= Machine 
-Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         68
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)
