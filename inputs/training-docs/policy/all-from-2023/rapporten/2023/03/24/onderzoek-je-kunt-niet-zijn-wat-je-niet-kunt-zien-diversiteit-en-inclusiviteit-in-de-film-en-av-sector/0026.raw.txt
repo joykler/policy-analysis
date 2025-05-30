@@ -29,4 +29,4 @@ ervoor gekozen om per productie steeds twee codeurs onafhankelijk van elkaar de 
 en enkel die resultaten mee te wegen die door beiden hetzelfde zijn gecodeerd of waarover naderhand 
 consensus kon worden gevonden binnen het team van codeurs.  
   
-DSP-groep RAPPORT ─ Je kunt niet zijn wat je niet kunt zien 26
+DSP-groep RAPPORT ─ Je kunt niet zijn wat je niet kunt zien
