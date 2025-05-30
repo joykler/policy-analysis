@@ -1,0 +1,48 @@
+Een voorbeeld van een van de overheidsvoorzieningen is e-facturatie. 
+Digitaal zakendoen is voor veel ondernemers onderdeel van de dagelijks 
+bedrijfsvoering geworden. RVO heeft als kenniscentrum voor e-facturatie 
+partijen geholpen met de aansluiting op e-facturatie. Ook wordt er hierbij 
+ingezet op innovatie in de dienstverlening. Zo handelde de chatbot voor 
+gebruikersondersteuning over e-factureren ruim 6.500 vragen af. Het klant­
+contact ontving ook positieve beoordelingen in 2022.
+eIDAS verzorgt de Nederlandse aansluiting op het Nederlandse elektro­
+nische identiteitsstelsel (eID stelsel).
+In 2022 is de 2e fase van SBIR mensgerichte AI en Blockchain en de eerste 
+fase van een nieuwe SBIR uitgevoerd. Vijf bedrijven zijn uitgekozen voor 
+het ontwikkelen van een prototype.
+UBR
+Het Kennis- en Exploitatiecentrum Officiële Overheidspublicaties (KOOP), 
+onderdeel van UBR, heeft in 2022 een bijdrage ontvangen voor de dooront­
+wikkeling en implementatie van het Platform Open Overheidsinformatie 
+(PLOOI). Door middel van dit platform moeten bestuursorganen op termijn 
+verplichte categorieën documenten actief openbaar maken. Deze 
+verplichting komt voort uit de Wet open overheid (Woo) die op 1 mei 2022 
+in werking is getreden. Met de bijdrage heeft KOOP in 2022 onder andere 
+gewerkt aan technologische verzwaring en standaardisatie van het 
+platform, de ontwikkeling van een API (koppelvlak) en handmatig loket om 
+aansluiting door bestuursorganen mogelijk te maken en aan het opstellen 
+van een implementatiestrategie.
+In 2022 zijn de middelen met betrekking tot PLOOI overgeheveld naar een 
+ander begrotingsartikel. Eind 2022 is de koers van de doorontwikkeling van 
+PLOOI gewijzigd. Dit heeft plaatsgevonden naar aanleiding van een toets 
+door het AcICT (adviescollege ICT-toetsing) waarin onder meer is geconsta­
+teerd dat de oplossingsrichting niet passend is voor de Woo en een 
+herontwerp werd aanbevolen op basis van een eenvoudige oplossing 
+waarin de aansluitlast voor bestuursorganen minimaal is. 
+Daarnaast heeft KOOP in 2022 een bijdrage ontvangen voor de project­
+kosten van de Bekendmakingswet, de uitvoering van beheeropdrachten 
+(data.overheid.nl, overheid.nl, zoekdienst, Staatscourant en Officiële 
+Publicaties). Daarnaast is een bijdrage verstrekt voor de start van het 
+Register Internetdomeinen Overheid (RIO).
+Logius
+Logius heeft een bijdrage ontvangen voor de doorontwikkeling van 
+MijnOverheid: de centrale plaats binnen de dienstverlening van de overheid 
+die de informatiepositie van burgers versterkt. Met politieke toezeggingen 
+als basis, betekende dit concreet:
+– De inzage van gegevens is uitgebreid met een inzage in de verstrek­
+kingen die vanuit de BRP plaatsvinden aan derde partijen. Het is 
+inmiddels ook mogelijk om de gegevens middels de mobiele app 
+MijnGegevens in te zien.
+– Technische voorbereidingen zijn getroffen om over te kunnen gaan naar 
+een hoger niveau van informatiebeveiliging i.e. 2-factor-authenticatie.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 100
