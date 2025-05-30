@@ -57,4 +57,4 @@ wo voltijd master 42,6 44,4 45,1 50,2 50,1
 wo deeltijd bachelor 0,2 0,2 0,2 0,2 0,2
 wo deeltijd master 1,1 1,1 1,0 1,1 1,1
 Totaal wo 78,0 81,1 83,8 90,5 89,9
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 69
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1

@@ -48,4 +48,4 @@ DUO heeft in 2022 de migratie naar het RBAC (Role based access control)
 afgerond. Hiermee is DUO in staat voor het merendeel van de systemen 
 de autorisaties te verstrekken op basis van rollen. Als gevolg van de 
 migratie zijn onterechte autorisaties verwijderd. Voor de systemen die 
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 132
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1
