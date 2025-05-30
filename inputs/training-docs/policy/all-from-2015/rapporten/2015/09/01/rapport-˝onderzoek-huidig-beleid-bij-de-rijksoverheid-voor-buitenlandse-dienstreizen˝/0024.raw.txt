@@ -1,0 +1,31 @@
+Het contract- en leveranciersmanagement van de reisagenten is momenteel 
+opgedeeld in drie regieclusters (BZ, Defensie en V&J). Deze clusters zijn ingericht 
+naar analogie van de Europees aanbestede contracten. Het managen van het 
+raamcontract en de reisagenten maakt deel uit van het werkpakket van de 
+contractmanagers van de drie genoemde ministeries. Zij nemen ook het 
+travelmanagement (de sturing en beheersing van reiskosten) voor hun rekening, 
+hoewel dat geen kerntaak is van hun functie en daardoor minder aandacht krijgt.  
+ 
+De procesinrichting verschilt per ministerie. Dat geldt zowel voor het aanvragen 
+van dienstreizen, het regelen van vlieg- en treintickets, hotelreserveringen en 
+het declareren van kosten van dienstreizen. Dit vindt al dan niet plaats met 
+tussenkomst van een intern reisbureau bij het betreffende ministerie. Daarbij 
+maken ministeries gebruik van verschillende geautomatiseerde systemen. Dit 
+zijn specifieke applicaties (bij BZ en Defensie), of generieke applicaties (P-direkt) 
+danwel handmatig ingevulde aanvraag- en declaratieformulieren die rechtstreeks 
+in de financiële administratie worden verwerkt. Het project Travel and Expense 
+Management (TEM) dat eveneens vanuit BZ is geïnitieerd moet dit meer 
+stroomlijnen. 
+ 
+Zoals reeds uit paragraaf 4.1 blijkt is de managementinformatievoorziening over 
+internationale dienstreizen nog niet optimaal. Dat komt door de verschillende 
+wijze waarop de processen zijn geregeld en de wijze van vastlegging van 
+reisgegevens. Ministeries moeten dan ook veel inspanningen leveren wanneer zij 
+een volledig en juist beeld moeten verschaffen over internationale dienstreizen. 
+Daarentegen hebben wij de indruk dat niet alle spilfuncties van de ministeries op 
+de hoogte zijn van de wel beschikbare reguliere informatievoorziening die de 
+reisagenten periodiek door middel van een mailing verstrekken. Dit roept tevens 
+de vraag op in hoeverre ministeries deze informatie intern delen en effectief 
+gebruiken in het kader van governance. 
+ 
+24  |

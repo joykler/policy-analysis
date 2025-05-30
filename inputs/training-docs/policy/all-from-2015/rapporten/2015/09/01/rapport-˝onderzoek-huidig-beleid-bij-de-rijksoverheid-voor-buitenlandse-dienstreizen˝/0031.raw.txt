@@ -1,0 +1,57 @@
+totaalbeeld per ministerie en de twee tabellen daarna betreffen een uitsplitsing 
+naar de aantallen vliegtickets en de uitgaven daarvan met betrekking tot 
+vluchten buiten en binnen Europa.  
+ 
+Voor dienstreizen waar in een andere klasse is gevlogen dan volgens de criteria 
+van toepassing is, kunnen argumenten of overwegingen van toepassing zijn die 
+het bevoegd gezag heeft geautoriseerd. 
+ 
+Tabel D. Detailinformatie uitgaven en aantallen vliegtickets per vliegklasse 
+Ministerie Wereldwijd Totaal
+Economy Economy + Business Class First Class
+€ # € # € # € # € #
+BZ 4.075.252 6.418 6.345.929 2.560 10.421.181 8.978
+BZK 1.559.405 2.281 6.370 4 450.008 187 2.015.783 2.472
+EZ 1.816.088 3.661 2.295.468 746 2.859 1 4.114.414 4.408
+FIN 642.631 1.613 1.402.102 463 2.044.733 2.076
+I&M 1.055.497 2.763 1.465.976 468 9.099 2 2.530.573 3.233
+OCW 294.332 618 285.229 109 579.560 727
+SZW 91.960 232 22.019 10 113.980 242
+VWS 777.276 1.908 477.980 172 1.255.256 2.080
+V&J 1.760.411 4.296 5.642 8 902.743 469 3.588 2 2.672.384 4.775
+DEF 16.964.197 24.805 107.430 112 2.931.571 1.171 13.127 6 20.016.324 26.094
+Totaal € 29.037.050 48.595 € 119.442 124 € 16.579.024 6.355 € 28.673 11 € 45.764.189 55.085
+Ministerie Buiten Europa Totaal
+Economy Economy + Business Class First Class
+€ # € # € # € # € #
+BZ 3.088.579 3.356 5.931.153 2.228 0 0 9.019.732 5.584
+BZK 1.148.044 1.205 6.370 4 425.806 155 0 0 1.580.220 1.364
+EZ 887.789 955 2.220.242 664 2.859 1 3.110.890 1.620
+FIN 157.006 254 1.384.867 415 0 0 1.541.873 669
+I&M 260.677 383 1.427.467 401 9.099 2 1.697.243 786
+OCW 152.701 177 279.906 99 0 0 432.608 276
+SZW 27.674 51 19.100 5 0 0 46.774 56
+VWS 302.642 398 469.429 152 0 0 772.071 550
+V&J 833.175 1.111 3.566 1 848.475 341 3.588 2 1.688.804 1.455
+DEF 11.945.120 10.563 73.057 40 2.659.328 779 13.127 6 14.690.632 11.388
+Totaal € 18.803.409 18.453 € 82.992 45 € 15.665.773 5.239 € 28.673 11 € 34.580.847 23.748
+Ministerie Binnen Europa Totaal
+Economy Economy + Business Class First Class
+€ # € # € # € # € #
+BZ 986.673 3.062 414.776 332 1.401.449 3.394
+BZK 411.360 1.076 24.202 32 435.562 1.108
+EZ 928.299 2.706 75.226 82 1.003.524 2.788
+FIN 485.625 1.359 17.235 48 502.860 1.407
+I&M 794.820 2.380 38.510 67 833.330 2.447
+OCW 141.630 441 5.322 10 146.953 451
+SZW 64.287 181 2.919 5 67.206 186
+VWS 474.634 1.510 8.551 20 483.185 1.530
+V&J 927.236 3.185 2.077 7 54.267 128 983.580 3.320
+DEF 5.019.077 14.242 34.373 72 272.242 392 5.325.692 14.706
+Totaal € 10.233.641 30.142 € 36.450 79 € 913.251 1.116 € 0 0 € 11.183.342 31.337
+ 
+ 
+Op de volgende bladzijde zijn de grafieken opgenomen waarin per ministerie het 
+gemiddelde aantal dagen is aangegeven tussen het moment van boeken van de 
+vliegticket en de daadwerkelijke vertrekdatum. 
+31  |
