@@ -1,0 +1,46 @@
+4.6 Artikel 6: IT
+Omschrijving van de samenhang in het beleid
+Het doel van dit artikel is inzicht bieden in het investeren in en in stand 
+houden van alle IT van Defensie. In het Defensiematerieelverslag wordt 
+aangegeven welke voornaamste activiteiten over het afgelopen jaar hebben 
+plaatsgevonden in relatie tot de doelstellingen van het onderliggende 
+beleid. De verwerving wordt nader uitgesplitst in de voorbereidings-, 
+onderzoeks- en realisatiefase.
+Budgettaire gevolgen van beleid en budgetflexibiliteit
+Tabel 17 Budgettaire gevolgen van beleidsartikel 6 (bedragen x € 1.000)
+Realisatie Vastgestelde Verschil
+begroting
+2018 2019 2020 2021 2022 2022 2022
+Verplichtingen 906.734 1.105.595 784.361 321.234
+waarvan garantieverplichtingen (indien van 
+toepassing)
+waarvan overige verplichtingen (indien van 
+toepassing) 906.734 1.105.595 784.361 321.234
+Uitgaven 593.070 751.621 887.011 ‒ 135.390
+Verwerving
+Opdrachten 277.402 371.412 773.237 ‒ 401.825
+Verwerving: voorbereidingsfase 425.475 ‒ 425.475
+Verwerving: onderzoeksfase
+Verwerving: realisatie 277.402 371.412 347.762 23.650
+Instandhouding
+Opdrachten 315.668 380.210 398.866 ‒ 18.656
+Instandhouding IT 315.668 380.210 398.866 ‒ 18.656
+Over-/ onderprogrammering ‒ 285.092 285.092
+Ontvangsten 13.941 22.797 16.769 6.028
+Overige ontvangsten IT 13.941 22.797 16.769 6.028
+Toelichting op de instrumenten
+De posten met een verschil groter dan € 5 miljoen of noemswaardige 
+verschillen worden hieronder toegelicht.
+Verplichtingen
+De realisatie op de verplichtingen is € 321,2 miljoen hoger dan begroot. Voor 
+IT is in het verleden het uitgangspunt kas is verplichting gehanteerd. Dit 
+paste in het kort-cyclische karakter van IT. Steeds vaker worden meerjarige 
+contracten afgesloten waardoor dit niet meer aansluit. Het nu aangaan van 
+meerjarige verplichtingen betekent dat in latere jaren minder verplichtingen 
+worden aangegaan waardoor het totale budget niet wordt overschreden.
+Contractering Grensverleggende IT (GrIT)
+Het programma GrIT wordt in detail aan de Tweede Kamer gerapporteerd. 
+Inmiddels zijn de Basisrapportage (BS2022022496) en de eerste Voortgangs­
+rapportage verschenen, de tweede Voortgangsrapportage (peildatum 
+31-12-2022) volgt conform de afspraken in de Regeling Grote Projecten.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 K, nr. 1 40

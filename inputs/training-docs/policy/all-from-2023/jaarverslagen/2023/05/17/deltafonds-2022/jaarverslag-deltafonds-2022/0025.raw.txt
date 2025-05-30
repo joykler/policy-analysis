@@ -1,0 +1,48 @@
+In 2022 is met name gewerkt aan: schematisaties van o.a. ondergrond voor 
+het Beoordelings- en Ontwerpinstrumentarium (BOI), afleiden van wind- en 
+waterstandsstatistiek op basis van de klimaatreeksen van het KNMI, 
+onderzoek naar onzekerheden in trends van het stormklimaat, effect van 
+waterstanden en golven (hydraulische belastingen) op dijkbekledingen, 
+aanpassing van golfmodellen op zee, nieuw hydraulische belastingenmodel 
+voor dijken en duinen langs de kust, effect van golfoverslag en stroming op 
+de erosie van het binnentalud van (gras)dijken en veldmetingen op de 
+meetlocatie IJsseldijk nabij Westervoort.
+Kennisprogramma Zeespiegelstijging
+In het Kennisprogramma Zeespiegelstijging wordt onderzoek gedaan naar 
+de effecten van zeespiegelstijging en de handelingsperspectieven voor de 
+korte en de lange termijn. Het KNMI voert onder andere modelstudies uit 
+naar het verbeteren van de relatie tussen de waargenomen zeespiegel­
+stijging en projecties voor de toekomst. In 2022 is voortgang geboekt bij 
+het uitwerken van de nieuwe scenario’s voor zeespiegelstijging. Deze zullen 
+landen in de klimaatscenario’s ’23 van het KNMI.
+In 2022 zijn met behulp van ontwikkelde en aangepaste modellen bereke­
+ningen uitgevoerd naar de gevolgen van 0,5, 1, 2, 3 en 5 meter zeespiegel­
+stijging voor waterstanden en zoutgehalten in het hoofdwatersysteem 
+(rivieren, kanalen, meren en zee).
+In 2022 is in diverse regionale werksessies gewerkt aan het verder in beeld 
+brengen van alternatieve oplossingsrichtingen voor de lange termijn, 
+waarin ook is gekeken naar de samenhang met andere ruimtelijke opgaven.
+Versterken Cyberweerbaarheid in de watersector
+Om een meer integrale benadering van de diverse initiatieven op de 
+cyberweerbaarheid in de Watersector te vergroten, is in 2019 besloten de 
+diverse initiatieven te bundelen in één uitvoeringsprogramma genaamd 
+«Versterking cyberweerbaarheid in de Watersector». De initiatieven waren 
+opgenomen in het aanvullend Bestuursakkoord Water, het Kennis- en 
+Innovatieprogramma in de specifieke afspraken met de drinkwatersector.
+In 2022 richtten de diverse projecten zich op het verkrijgen van meer inzicht 
+in ICS/SCADA systemen, cyberrisico’s en bijbehorende versterkende 
+maatregelen. Conform de versnellingsopties zoals in de Stuurgroep Water 
+overeengekomen is gewerkt aan:
+(1) een drietal ketenanalyse casestudies waarbij informatie-ketens in kaart 
+zijn gebracht in de watersector. Hierdoor kunnen onderlinge afhankelijk­
+heden worden geïdentificeerd. Na de succesvolle afronding van de 
+casestudies is afgesproken om deze methode op het hele Hoofd- en 
+regionale watersysteem te gaan toepassen.
+(2) een technische haalbaarheidsstudie is succesvol uitgevoerd op het 
+gebied van monitoring en detectie voor de aansluiting van de water­
+schappen op het SOC RWS,
+(3) de handreiking «Basismaatregelen voor cybersecurity van Industriële 
+Automatisering & Controle Systemen» (BIACS) is ontwikkeld en gepubli­
+ceerd. De BIACS kan organisaties helpen die de eerste stappen willen 
+nemen in het beter beveiligen van hun industriële automatisering
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 J, nr. 1 25

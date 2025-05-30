@@ -1,0 +1,50 @@
+Algemene Rekenkamer aan met het Strategisch Vastgoedplan 2022 
+(Kamerstuk 36 124 nr. 12). De Algemene Rekenkamer constateert dat 
+Defensie goede stappen zet in het invullen van de organisatorische en 
+financiële randvoorwaarden die nodig zijn voor de transformatie van het 
+vastgoed. De oplossing van de problemen vereisen echter een meerjarige 
+inspanning.
+IT
+Defensie heeft in 2022 verdere stappen gezet in het kader van Informatie­
+gestuurd Optreden (IGO) en werken. Dit gebeurt onder andere op 
+strategisch vlak door middel van het opstellen van een Datascience & 
+Artificial Intelligence (AI)-strategie, het bijbehorende normenkader voor 
+algoritmes en de aanstaande beleidsvisie IGO. Daarmee stelt Defensie 
+bruikbare kaders op voor het gebruik van deze nieuwe technologieën waarin 
+de conclusies en aanbevelingen van diverse onderzoeken naar de imple­
+mentatie van de AVG en privacywetgeving en de aanbevelingen van de 
+Commissie Brouwer zijn meegenomen.
+Om IGO te integreren in het handelen van Defensie in de militaire en 
+vredesbedrijfsvoering is hard gewerkt aan het operationaliseren van de 
+concepten IGO en Multi Domein Optreden (MDO) door middel van een 
+operationeel ontwerp.
+Daarnaast worden continu stappen gezet bij de uitvoering en implementatie 
+van de grote IT-programma’s die randvoorwaardelijk zijn voor deze ontwik­
+keling. Binnen deze programma’s worden de komende jaren deelprojecten 
+uitgevoerd die direct tot bruikbare IT-oplossingen leiden. Ook is in 2022 de 
+interne governance binnen het I&T-domein versterkt door het implemen­
+teren van een decentraal CIO-stelsel. Vanaf 2023 is dit stelsel actief en de 
+komende jaren zullen de decentrale CIO’s actief bijdragen aan de imple­
+mentatie van IGO gerelateerde maatregelen en het uitdragen van de digitale 
+transformatie binnen Defensie.
+Voor de bevordering van IGO-maatregelen zijn daarnaast programmabu­
+reaus voor cyber en data opgericht. Gedurende 2023 zullen deze 
+programma’s zorgen voor de uitvoering van de aan IGO gerelateerde 
+maatregelen uit de Defensienota. Deze programma’s zijn nog in de 
+opstartfase, maar in het kader van cyber zijn afgelopen jaar bijvoorbeeld al 
+vorderingen geboekt met het opstellen van een uitvoeringsplan, het 
+inrichten van Security Operations Centres op verschillende niveaus en het 
+creëren van de Cyber Innovation Hub (CIH). Op het gebied van data zijn 
+onder andere al de module Data bij Defensie ontwikkeld om datagelet­
+terdheid te bevorderen. Ook is het ELSA-lab Defence gelanceerd om de 
+komende drie jaar onderzoek te doen naar de ethische, juridische en 
+maatschappelijke randvoorwaarden van Artificial Intelligence voor militaire 
+doeleinden.
+In de voortgangsrapportage GrIT van 29 september 2022 (Kamerstuk 35 728, 
+nr. 7) is Defensie onder meer ingegaan op de personele capaciteit binnen 
+het I&T-domein van Defensie en op algehele prijsstijgingen, en de gevolgen 
+daarvan voor GrIT en voor het bredere IT-portfolio van Defensie. Nog voor 
+de zomer van 2023 zal de Kamer geïnformeerd worden over de uitkomsten 
+van het vervolg BIT-advies van het Adviescollege ICT Toetsing (AcICT) over 
+GrIT.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 K, nr. 1 14
