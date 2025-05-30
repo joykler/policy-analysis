@@ -49,4 +49,4 @@ Het project VOSS kent een ballistische component (Load Carriage and
 Protection) en een elektronische component (C4I). Voor C4I worden nieuwe 
 systemen voor de beveiliging van de communicatie besteld, ontwikkeld en 
 geleverd. De ontwikkeling en de levering van de elektronica heeft vooral 
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 K, nr. 1 21
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 K, nr. 1
