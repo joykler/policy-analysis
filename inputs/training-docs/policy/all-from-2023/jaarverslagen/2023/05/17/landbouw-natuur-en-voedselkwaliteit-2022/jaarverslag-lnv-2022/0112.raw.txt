@@ -1,0 +1,58 @@
+Zoönose/ bronopsporing
+Totaal Positief Negatief Volgt Geen actie
+Brucellose Melitensis Humaan Schaap 1 0 1 0 0
+Campylobacter Rund 2 2 0 0 0
+Chlamidea Felis Kat 1 1 0 0 0
+Chlamydia abortus Schaap 1 0 1 0 0
+Corynebacterium Ulcerans Kat 1 0 0 0 1
+Koepokken Onbekend 1 0 0 0 1
+Leptospirose Hond/Wilde Vogel 5 2 1 0 2
+Hond/Schaap/
+Listeriose 9 5 0 0 4
+Rund
+Psittacose Humaan Vogel 63 10 10 2 41
+Q-Koorts Humaan Schaap/Geit 6 0 1 0 5
+Rabies Vleermuis Contact 
+Vleermuis 27 0 12 0 15
+Humaan
+Rabies Zoogdier Contact 
+Kat/Hond/Vos 13 0 6 0 7
+Humaan
+Salmonellose Duif/Rund 47 46 0 0 1
+STEC Humaan 1 0 0 0 1
+West Nile Virus Vogel 1 1 0 0 0
+Yersiniose Rund 2 2 0 0 0
+Subtotaal 181 69 32 2 78
+Paardenziekten
+Totaal Positief Negatief Volgt Geen actie
+Contagious Equine Metritis Paard 1 0 1 0 0
+Dourine Paard 8 0 6 0 2
+Equine Infectieuze Anemie Paard 1 0 1 0 0
+Equine Virale Arteritis Paard 88 88 0 0 0
+Malleus Paard 1 0 1 0 0
+Trypanosoma evansi (Surra) Paard 5 0 5 0 0
+Vesiculaire Stomatitis Paard 1 0 0 0 1
+West Nile Virus Paard 3 0 0 0 3
+Subtotaal 108 88 14 0 6
+Overige gemelde dierziekten
+Totaal Positief Negatief Volgt Geen Actie
+Brucellose Ceti Bruinvis 1 1 0 0 0
+Hamster/
+Covid-19 7 0 6 0 1
+Hond/Kat/Vos
+Epizootische Haemorrhagische 
+Alpaca 1 0 1 0 0
+Ziekte
+PRRS Varken 17 1 15 0 1
+Viraal Heamorrhagisch 
+Konijn 1 0 0 0 1
+syndroom
+Subtotaal 27 2 22 0 3
+Visziekten
+Totaal Positief Negatief Volgt Geen actie
+Infectieuze Haematopoietïsche 
+Vis 3 1 2 0 0
+Necrose
+Koi Herpes Virus Vis 2 0 1 0 1
+Subtotaal 5 1 3 0 1
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XIV, nr. 1 112
