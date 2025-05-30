@@ -42,6 +42,4 @@ Uitvoerende diensten  120 498 269 + 43 (ZVK)
   
 Inspecties 53 36 35 
  
-Totaal 177 536 357 
- 
-3
+Totaal 177 536 357

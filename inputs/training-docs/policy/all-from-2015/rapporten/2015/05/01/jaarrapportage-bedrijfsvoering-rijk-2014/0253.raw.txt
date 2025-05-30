@@ -15,4 +15,4 @@ einddatum einddatum
 De projectaanpak is opgezet in verschillende fases. Na de brede inventarisatie binnen de IND werd duidelijk dat meerdere componenten geoptimaliseerd konden worden door deze functionali-
 teit. Verder is een risicomitigerende aanpak gekozen waarbij kleine stapjes worden uitgevoerd en beproefd waarna op basis van de resultaten en besluitvorming de volgende stappen worden 
 gezet. De functionaliteit wordt gefaseerd opgeleverd en geimplementeerd.
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 253
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

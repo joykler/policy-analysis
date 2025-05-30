@@ -32,7 +32,4 @@ Inhoudsopgave
    5.2.3.1. Krantenadvertenties  
    5.2.3.2. Radiospots  
    5.2.3.3. Televisiespots 
- 5.3. Samenvatting Saba 
-       
- 
-	   2
+ 5.3. Samenvatting Saba

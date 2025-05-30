@@ -21,4 +21,4 @@ Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 16-12-14 Gartner Kwaliteitstoets De APW (Applicatie Portfoliowaardering)
 Applicatieportfolio Analyse
 19-11-14 ADR Beoordeling projectplan Projectplan
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 163
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

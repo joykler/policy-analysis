@@ -50,5 +50,4 @@ idem in % 99,6%
  
 Aanvragen BIG-registraties CIBG 
 Het BIG-register is een instrument van de Wet BIG (Wet op de beroepen in de individuele 
-gezondheidszorg). Het doel van de Wet BIG is het bevorderen en bewaken van de kwaliteit in de 
-1
+gezondheidszorg). Het doel van de Wet BIG is het bevorderen en bewaken van de kwaliteit in de

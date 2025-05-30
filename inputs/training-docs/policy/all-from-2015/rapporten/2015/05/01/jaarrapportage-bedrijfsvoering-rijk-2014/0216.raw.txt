@@ -15,4 +15,4 @@ De levensduur is niet gecalculeerd. Bij de ontwikkeling en bouw van het personen
 wettelijke kader) en de niet functionele eisen (technische kwaliteit, beveiliging, privacy en gebruiksvriendelijkheid). Dit met oog op een goede onderhoudbaarheid en meerjarige levensduur.  
 De onderhoudbaarheid van het personenregister wordt in 2015 onafhankelijk getoetst conform de SIG/TÜViT Evaluation Criteria for Trusted Product Maintainability
 7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 216
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

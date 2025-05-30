@@ -26,6 +26,4 @@ Quotes over de radiospots
 “Goede info, duidelijk, kort en krachtig” 
 “Er wordt verwezen naar een website, maar niet iedereen heeft hier beschikking over 
 een computer” 
-“Er wordt verwezen naar de folder, die hebben wij nooit ontvangen” 
- 
-	   17
+“Er wordt verwezen naar de folder, die hebben wij nooit ontvangen”

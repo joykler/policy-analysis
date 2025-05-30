@@ -17,4 +17,4 @@ Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 30-08-13 Audit Dienst Rijk Advies Risicoanalyses + mitigatieplannen beveiliging missiekritieke systemen domein HWS en het ICT-netwerk
 22-08-13 VKA Advies Risicoanalyses
 20-08-13 CapGemini Externe Audit Proces van totstandkoming risicoanalyses (11 jul t/m 15 aug)
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 182
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

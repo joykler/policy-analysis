@@ -25,4 +25,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 26-06-14 1.0 nee Definitief Kaderdocument Politie-CJIB
 28-05-14 0.9 nee Concept Bedrijfsanalyse
 12-11-13 1.22 nee Concept business Case
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 229
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

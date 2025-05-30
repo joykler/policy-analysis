@@ -23,4 +23,4 @@ Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 15-05-14 Microsoft Nederland Externe kwaliteitstoets Technische Ontwerp(en)
 09-12-13 Gartner Audit Business Case
 14-06-13 Gartner Audit PID (gehele looptijd i.c. ultimo 03-2014)
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 242
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

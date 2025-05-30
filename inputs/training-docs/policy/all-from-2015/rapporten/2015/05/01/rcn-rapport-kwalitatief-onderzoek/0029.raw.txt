@@ -26,6 +26,4 @@ Groep 3
 2. Vrouw (43), gestemd, werkzoekende 
 3. Vrouw (32), gestemd, adm. medewerker/kassier 
 4. Vrouw (25), gestemd, douane beambte 
-5. Man (32), gestemd, leraar 
- 
-	   29
+5. Man (32), gestemd, leraar

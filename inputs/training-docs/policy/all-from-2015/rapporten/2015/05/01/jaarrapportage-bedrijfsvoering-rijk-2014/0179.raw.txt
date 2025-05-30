@@ -17,4 +17,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 3. Externe kwaliteitstoetsen
 Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 02-01-12 Sogeti review testplannen Testfase
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 179
+Jaarrapportage Bedrijfsvoering Rijk 2014 |

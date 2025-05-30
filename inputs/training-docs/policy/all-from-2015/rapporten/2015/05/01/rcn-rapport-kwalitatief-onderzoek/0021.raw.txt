@@ -31,5 +31,4 @@ Groep 3:
 5. Vrouw (63), gestemd, gepensioneerd 
 6. Vrouw (43), gestemd, accountant 
 7. Vrouw (34), gestemd, onderwijzeres 
-8. Vrouw (N/A), gestemd, kunstenares 
-	   21
+8. Vrouw (N/A), gestemd, kunstenares

@@ -18,4 +18,4 @@ Datum Versie Conform eisen (j/n) Toelichting
 3. Externe kwaliteitstoetsen
 Datum Uitvoerende partij Type Object (scope en onderzochte periode)
 16-02-15 ICT Nederland Haalbaarheidstoets Haalbaarheid van de projectdoelstellingen
-Jaarrapportage Bedrijfsvoering Rijk 2014 | 246
+Jaarrapportage Bedrijfsvoering Rijk 2014 |
