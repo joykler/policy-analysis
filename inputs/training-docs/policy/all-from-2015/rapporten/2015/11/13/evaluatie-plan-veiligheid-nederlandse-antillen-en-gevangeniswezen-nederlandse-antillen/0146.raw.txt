@@ -1,0 +1,57 @@
+FACTSHEET 
+PROJECT: MASTERPLAN ICT 
+Algemene informatie 
+PVNA1 + 
+Ontwerp, Implementatie PVNA, leveranciers Programma 
+PVNA2 
+Projectnummer 2006203 Scope Antillenbreed 
+Trajectnaam Bedrijfsvoering Keten Integraal plan 
+Trajectnummer 5 Datum goedkeuring Sept. 2006 
+PIOFAH Informatie, Automatisering Status Afgerond 
+Project: probleemstelling en doelstelling(en) 
+Probleemstelling:  
+De interne- en externe communicatie verloopt niet optimaal 
+De automatiseringsgraad is laag 
+ 
+Doelstelling: Upgraden dan wel het introduceren van geautomatiseerde dataverzameling –  en verwerkingssystemen 
+ten behoeve van een professionele opererende rechtshandhavingsketen op de Nederlandse Antillen. 
+Gepland Gerealiseerd 
+94 maanden 
+Looptijd, einddatum 24 maanden, sept. 2008 Gelopen (per mei 2015) 
+(100%) 
+0 maanden 
+Verlenging, einddatum 70 maanden, juli 2014 Resterend (per mei 2015) 
+(0%) 
+12,7 miljoen 
+Budget 10,9 miljoen NAF Verplichting (per mei 2015) 
+NAF (98%) 
+12,7 miljoen 
+Aanvullend budget 2 miljoen NAF Uitgaven (per mei 2015) 
+NAF (98%) 
+Activiteiten/Resultaten: Activiteiten/Resultaten:  
+  
+Uitbreiding ACTPOL (geïntegreerd politie applicatie systeem) Volgens het laatste voortgangsrapport (t/m 30 
+Implementatie ACTPOL te Bonaire (KPB) april 2014) zijn alle activiteiten volledig gereali-
+Vreemdelingen administratie seerd, al blijkt uit de toelichting dat enkele 
+Parket registratie projectonderdelen (o.a. ontwikkeling van de 
+Border management module “opsporing” in ACTPOL en training 
+Bekabelingsproject Bon Futuro van medewerkers van KPC) nog in ontwikkeling 
+Implementatie ACTPOL te Sint Maarten zijn. 
+Implementatie applicatie Voogdijraad Bonaire   
+ 
+Interviews 
+ 
+Literatuur 
+Expertisecentrum (2008)  Rapport tussentijdse evaluatie Masterplan ICT PVNA: 
+- De partners in de rechtshandhavingsketen beschikken over een ICT infrastructuur die ‘state-of-the-art’ is. 
+- Er is een aantal applicaties ontwikkeld waarmee de efficiency van de taakuitoefening vergroot kan worden, de 
+vastlegging en deling van informatie verbeterd wordt, de inzet  
+- Er is een duidelijke groei van de benutting van ICT hulpmiddelen. 
+- Het gebruik van de voorzieningen moet fors toenemen 
+- Het grootste risico na afloop van het project is het weer teloor gaan van de inmiddels bereikte resultaten als 
+gevolg van onvoldoende middelen voor toekomstig beheer.  
+Opmerkingen 
+Er is een beheersorganisatie nodig om onderhoud te plegen. Een dergelijke organisatie bestaat o.a. uit helpdesk, 
+leveranciers (onderhoud aan applicaties), specialisten (opzet en controle van verbindingen van en naar centrale 
+server), etc.. Deze beheerorganisatie is ten tijde van de laatste rapportage (27 mei 2014) nog steeds niet opgericht.  
+146

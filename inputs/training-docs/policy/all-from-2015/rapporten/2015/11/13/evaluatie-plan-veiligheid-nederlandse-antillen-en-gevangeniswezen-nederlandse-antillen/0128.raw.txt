@@ -1,0 +1,74 @@
+Programma: PVNA2/GWNA
+Projectnummer Omschrijving Budget Restant Besteed Geselecteerd
+budget voor dossier-
+onderzoek
+(NAF) (NAF) (NAF) (ja/nee)
+Entiteit : BES
+2009028 Huisvesting Politie te Saba 489.612 0 489.612 ja
+2009081 Voorbereiding uitvoering vreemdelingentaken BES 771.647 0 771.647 ja
+2009167 Uitbreiden hoofdgebouw KPB 7.992.163 0 7.992.163 ja
+Totaal Entiteit : BES 9.253.421 0 9.253.421
+Entiteit : CURACAO
+2009177 Opstap naar proces- en competentiemanagement KPC 640.041 0 640.041 ja
+2011004 Vervanging dak kantoorcomplexen KPC 19.330 0 19.330 nee
+2011006 Verbetering infrastructuur (poorten/hekken) en camera observatie 343.548 0 343.548 nee
+2011008 Beveliging: rol- en kanteldeur en brandmeldcentrale 278.292 0 278.292 nee
+2011013 GWNA Opknappen strafcellen Sentro detenshon i Korekshon Korsou 466.825 4.296 462.529 nee
+2011019 Verbetering cellen Bon Futuro 604.145 0 604.145 nee
+2011035 Renovatie/herindeling en herinrichting kantoorcomplex KPC Winston Churchillweg 4.066.656 2.067.605 1.999.051 nee
+2011036 Nieuwbouw Wijkbureau KPC Rio Canario 1.781.035 0 1.781.035 nee
+2011037 Vesten: veiligheid voor het executieve personeel 343.750 0 343.750 nee
+2011038 Automatic Biometric Indentification System 249.056 5.460 243.596 nee
+2011040 RO GOG-01 Van GOG naar Justitiele Jeugdinrichting Curacao 6.692.634 946.583 5.746.051 ja
+2012018 Master project Plan van aanpak SDKK 7.163.490 832.999 6.330.491 ja
+2012019 Masterproject Implementatieplan KPC 2012-2014 2.568.280 158.796 2.409.484 ja
+Totaal Entiteit : CURACAO 25.217.082 4.015.738 21.201.344
+Entiteit : CURACAO2
+2010071 Projectbureau Plan Veiligheid 8.611.312 280 8.611.032 ja
+Totaal Entiteit : CURACAO2 8.611.312 280 8.611.032
+Entiteit : LAND NA
+2007060 Verbetering Bedrijfsvoering VNA 2.578.318 0 2.578.317 nee
+2007080 Hof NA&A 2.748.404 72.549 2.675.855 ja
+2007081 Nieuwbouw politiebureau Statia 3.763.272 0 3.763.272 ja
+2007082 KPSSS 3.154.633 190.636 2.963.997 ja
+2008034 VB Technische installatie politie Barber 20.550 0 20.550 nee
+2008035 Technische VB Grenshospitium SXM 133.085 0 133.085 nee
+2008036 Optimaliseren Vreemdelingenproces 8.694.679 1.815.475 6.879.204 ja
+2008041 Onderwijsdeskundige Politieonderwijs 37.600 0 37.600 nee
+2008085 Masterplan Verbetering Gevangeniswezen Nederlandse Antillen 0 0 0 nee
+2008105 GWNA Prison Inmate System (applicatie HvB) 909.102 0 909.102 nee
+2008108 Verbouwing tot huisvesting Managementteam KPC 436.938 0 436.938 nee
+2009002 Regionaal Informatie coordinatie en Expertise Centrum 3.510.545 185.415 3.325.130 ja
+2009005 GWNA Recreatie en sportmaterieel SXM 100.087 0 100.087 nee
+2009009 GWNA Aanleg celoproepsystemen Bon Futuro politiecellen en illegale barakken 453.084 0 453.084 nee
+2009010 GWNA Werving van gekwalificeerd managementpersoneel 127.180 0 127.180 nee
+2009011 GWNA Bouw beveiligingsmuur transporthof Bon Futuro 280.995 0 280.995 nee
+2009012 GWNA Aanschaf Recreatie en sportmaterieel Curacao 80.014 0 80.014 nee
+2009033 Verplichtingen tbv kleine deelprojecten GWNA die niet apart ingeschreven worden 2.728.547 0 2.728.547 nee
+2009079 GWNA Renovatie detentie inrichting te Point Blanche 7.278.778 342.206 6.936.572 ja
+2009086 Huisvesting "Afbouw politiecellen en renovatie en inrichten politiekantoren" 3.840.000 16.671 3.823.329 nee
+2009090 GWNA Nieuwbouw werk-/onderhoudswerkplaatsen Bon Futuro 5.849.508 0 5.849.508 ja
+2009094 GWNA Grenshospitium Simpson Bay, Sint Maarten 4.100.143 0 4.100.143 nee
+2009106 GWNA Renovatie en herindeling politiepost Barber 1.124.403 0 1.124.403 nee
+2009109 GWNA Renovatie vreemdelingen barakken 1.117.858 30.547 1.087.310 nee
+2009165 Evaluatie PVNA 289.112 0 289.112 nee
+2010009 GWNA Schoonmaak terreinen Bon Futuro 225.398 0 225.398 nee
+Totaal Entiteit : LAND NA 53.582.230 2.653.500 50.928.728
+Entiteit : ST MAARTEN
+2009160 Operationeel maken schenkingsgoederen 0 0 0
+2009172 Trainingen personeel KPSSS 1.706.388 24.828 1.681.559 ja
+2010019 Inzet specialist TOHD KPSSS 900.000 14.373 885.627 nee
+2011042 Gebiedsgebonden Politiezorg- Inrichting van 2 pilot wijkposten 630.438 24.134 606.304 nee
+2011043 Centrale Meldkamer Korps Politie St. Maarten 636.768 14.078 622.690 ja
+2012001 Integriteitstraining voor alle justitiele diensten 450.000 2.385 447.615 ja
+Totaal Entiteit : ST MAARTEN 4.323.594 79.797 4.243.796
+Totaal PVNA2 100.987.640 6.749.315 94.238.322
+Totaal geselecteeerd uitgedrukt in projectbudgetten PVNA2/GWNA 68.135.923
+Percentage geselecteerd PVNA2/GWNA 67%
+Aantal projecten geselecteerd PVNA2/GWNA 18
+ 
+ 
+ 
+ 
+  
+  128

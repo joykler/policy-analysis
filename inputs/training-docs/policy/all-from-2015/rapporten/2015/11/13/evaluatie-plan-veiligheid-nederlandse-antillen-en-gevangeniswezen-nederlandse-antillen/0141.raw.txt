@@ -1,0 +1,53 @@
+FACTSHEET 
+PROJECT: PAGA BO BOET 
+Algemene informatie 
+Projecteigenaar Projectunit DJZ Programma PVNA 
+Projectnummer 2006128 Scope Antillen breed 
+Trajectnaam Versterking instituties  Keten OM-Politie -Hof 
+Trajectnummer 5 Datum goedkeuring 15-8-2006 
+PIOFAH Automatisering Status Afgesloten 
+Projectdoelstelling(en) 
+Het verbeteren en versterken van de boete inning, door middel van aanschaf van soft- en hardware voor een 
+informatiesysteem op maat. 
+Maximale incasso van de opgelegde boetes waarbij als uitgangspunt wordt gehanteerd en “een consequente en 
+betrouwbare boete-inning bijdraagt aan de geloofwaardigheid van Justitie”. 
+Gepland Gerealiseerd 
+Startdatum, looptijd 15-8-06, 1 jaar Afgerond: 24-06-07 
+Verlenging, einddatum Niet verlengd Resterend  0 
+Budget 0,38 miljoen NAF Verplichtingen  0 
+Aanvullend budget n.v.t. Uitgaven  0,246  NAF (65%) 
+Activiteiten/resultaten: Activiteiten /resultaten:   
+De volgende activiteiten zijn gepland: De volgende activiteiten zijn uitgevoerd: 
+- Applicatie ontwikkeling - Ontwikkeling van applicatie 
+- Applicatie testen - Interface met politie applicatie ACTPOL 
+- Contract PAGAFASIL - Interface met financiële instelling (Paga Fasil 
+concept) is gemaakt en getest 
+- Conversie oude data 
+- Tevens zijn de oude boetes van de afgelopen 
+- Operationeel 
+ jaren geconverteerd ingebracht. 
+ 
+De applicatie houdt meer in dan uit de omschrijving 
+“Paga Bo Boet” kan worden geconcludeerd. 
+ 
+Werking van het gehele systeem van boete inning is 
+als volgt; 
+- Processen verbaal worden automatisch uit 
+ACTPOL naar OM gestuurd 
+- OM controleert PV’s en zorgt voor inning 
+- Elektronische strafkaart (indien van toepassing) 
+wordt automatisch bijgewerkt 
+- Bij niet tijdig betalen verschijnt PV “op de rol” 
+van de rechtbank  
+- Vonnis van Rechtbank wordt verwerkt bij OM 
+- Aanmaning en deurwaarderbrieven worden 
+automatisch aangemaakt. 
+Interview 
+ 
+Literatuur 
+ 
+Opmerkingen 
+Uit het eindverslag: 
+- Er kan gesteld worden dat dit project veel heeft bijgedragen tot een betere en snellere administratie van Proces-
+sen Verbaal en vervolging en dat in de nabije toekomst er nog meer resultaten bereikt zullen worden door ge-
+141

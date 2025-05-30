@@ -1,0 +1,56 @@
+Masterplan ICT 
+Alle applicaties worden gebruikt op Bonaire, Curaçao (behalve de jeugdreclasseringsapplicatie) 
+en op Sint Maarten grotendeels.  
+ 
+De volgende activiteiten waren beoogd en zijn gerealiseerd:  
+- uitbreiding ACTPOL,  
+- implementatie ACTPOL op Bonaire en Sint Maarten,  
+- automatiseren van: vreemdelingen administratie, de parketregistratie, en het border ma-
+nagement,  
+- bekabeling van de Bon Futuro gevangenis 
+- implementatie van de Voogdijraad applicatie op Bonaire 
+- realisatie van de ACTPOL opsporingsmodule 
+ 
+RIEC  
+Uit het projectdossier en van USONA verkregen aanvullende informatie blijkt dat de “outputs” 
+zoals voorzien in de projectopzet zijn “geleverd”. Er zijn decentrale infodesks ingericht op 
+Curaçao, Bonaire en Sint Maarten. Ook de hardware, software en audio-, data- en videoappara-
+tuur zijn gekocht.  
+ 
+Niet alle doelstellingen van het RIEC zijn echter behaald. Uitwisseling van gegevens tussen de 
+landen vindt bijvoorbeeld niet plaats. De idee van RIEC was dat boven de verschillende info-
+desken een informatieknooppunt zou worden gerealiseerd. Dat is niet gebeurd. 
+ 
+Duurzaamheid 
+Hebben de investeringen in de automatiseringsprojecten bijgedragen aan een structurele 
+verbetering en versterking van de rechtshandhavingsinstituties? 
+ 
+Infrastructuur automatisering Hof van Justitie en Openbaar Ministerie 
+Zowel het Gemeenschappelijke Hof als het Openbaar Ministerie slaagden erin om de automati-
+sering operationeel te krijgen en te houden, zij het ieder met andere softwaremodules. Het Hof 
+koos voor een eigen module, het OM sloot aan bij software die verder in de rechtshandhavings-
+keten in gebruik was.  
+ 
+Masterplan ICT en ICT beheerorganisatie 
+Het Masterplan ICT is voor een groot deel vanuit het projectbureau en buiten de instituties 
+uitgevoerd. Hierdoor is de kennis en ervaring over de ontwikkelde IT-toepassingen niet of niet 
+volledig binnen de instituties terecht gekomen. Dit heeft eraan bijgedragen dat er ten tijde van 
+de afsluiting van het programma op 31 december 2014 binnen de rechtshandhavingsketen van 
+de landen nog geen beheerorganisatie was die het beheer van de ontwikkelde software kon 
+verzorgen. 
+ 
+Het Expertisecentrum adviseerde al in 2008 om een ICT-beheerorganisatie met een blijvend 
+karakter in te richten, zowel voor het technisch als het functioneel beheer. Daarnaast was het 
+advies om snel te besluiten over de inrichting van de beheersorganisatie. Dat is pas in 2015 
+gebeurd.  
+ 
+Sint Maarten heeft om verschillende redenen moeite met de ICT-beheersorganisatie. De 
+65
+regering van Sint Maarten had vragen over de eigendomsrechten van de applicaties . Ook 
+vond de regering van Sint Maarten de voorgestelde beheersorganisatie te duur.  
+ 
+                                            
+65
+ Na onderzoek blijkt de eigendom van de beheersorganisatie te berusten (schriftelijk stuk, ongedateerd, ondertekend 
+door de directeur van ACTS) bij de Stichting Beheer ICT Rechtshandhaving i.o.. 
+  85

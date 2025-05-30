@@ -1,0 +1,42 @@
+In november 2012 werd het ministerie van Justitie van Sint Maarten afgesloten van de ICT-
+voorzieningen zoals ontwikkeld door ACTS. Voor de Immigratie- en Grensbewakingsdienst 
+betekende dit dat geen gebruik kon worden gemaakt van FMS en BMS.  
+ 
+Om de service aan haar klanten door te zetten en de aanvragen en beslissen te registreren is 
+voor Sint Maarten een DECOS-applicatie gebouwd voor de registratie van het vreemdelingen-
+administratieproces en geïmplementeerd op 1 februari 2013. Om de voorziening voor BMS te 
+vervangen is een Access-applicatie gebouwd om de gescande paspoorten op te slaan en zijn 
+Bundesdrukkerij-scanners geplaats om valse of vervalste paspoorten te onderkennen. 
+ 
+In mei 2014 is Sint Maarten weer op BMS weer aangesloten, de uitrol van FMS was gepland op 
+25 augustus 2014. De Immigratie- en Grensbewakingsdienst werkt voor de vreemdelingenad-
+ministratie op Sint Maarten nog steeds met DECOS. De planning is dat in januari 2016 de 
+geautomatiseerde vreemdelingenadministratie  zal worden opgenomen in het Justitieel Informa-
+tie Systeem (JIS). 
+ 
+RIEC 
+De beoogde output van het RIEC-project is “geproduceerd” zoals hierboven onder effectiviteit al 
+aangegeven. De noodzakelijke informatie-uitwisseling tussen Curaçao, Sint Maarten en Cari-
+bisch Nederland met RIEC is niet op gang gekomen.  
+ 
+Impact 
+In hoeverre hebben de investeringen in automatiseringsprojecten bijgedragen aan de verbete-
+ring van de veiligheidssituatie op de eilanden? 
+ 
+Masterplan ICT 
+De impact van de ICT-projecten is groot. Zonder de gerealiseerde ICT-projecten waren er o.a. 
+geen geautomatiseerde a) meldkamer, b) handhaving basis politiezorg, c) opsporing, d) grens-
+controle, e) toelatingsorganisatie en f) boete inning en parket registratie. De integratie van de 
+systemen binnen de rechtshandhavingsketen neemt toe en daarmee haar effect op de veilig-
+heidssituatie. 
+ 
+RIEC 
+De impact van informatie-gestuurde politie door het RIEC-project is beperkt. De uitwisseling van 
+informatie tussen de Curaçao, St. Maarten en Caribisch Nederland met behulp van RIEC is 
+(nog) niet tot stand gekomen o.a. door juridische redenen (verschillende landen). 
+ 
+ 
+ 
+   
+  
+  86

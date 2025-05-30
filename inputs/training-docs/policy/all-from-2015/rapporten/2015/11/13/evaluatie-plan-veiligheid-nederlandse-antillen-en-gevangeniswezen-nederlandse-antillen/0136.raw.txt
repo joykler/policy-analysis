@@ -1,0 +1,37 @@
+PROJECT: INFRASTRUCTUUR AUTOMATISERING 
+FACTSHEET 
+HOF/OM 
+Algemene informatie 
+Minister van Justitie 
+Projecteigenaar Programma PVNA1 
+Nederlandse Antillen 
+Projectnummer 2006047 Scope Antillenbreed + Aruba 
+Trajectnaam Bedrijfsvoering Keten Hof en OM 
+Trajectnummer 5 Datum goedkeuring 10 juli 2006 
+PIOFAH Informatie, Automatisering Status In uitvoering 
+Projectdoelstelling(en) 
+De basis te leggen voor een moderne(re) bedrijfsvoering bij het Openbaar Ministerie Nederlandse Antillen en het 
+Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen. 
+Gepland Gerealiseerd 
+Looptijd, einddatum 18 maanden, 10 jan. 2008 Gelopen () 38 maanden 
+Verlenging, einddatum onbekend Resterend  0 maanden 
+Budget 2,725 miljoen NAF Verplichtingen 2,534 miljoen NAF (93%) 
+Aanvullend budget n.v.t. Uitgaven 2,534 miljoen NAF (93%) 
+Activiteit/resultaat Activiteit/resultaat (jan. 2009):  
+NB. projectvoorstel ontbreekt 1. implementatie ICT-infrastructuur OM Nederland-
+1. implementatie ICT-infrastructuur OM Nederlandse se Antillen afgerond 
+Antillen 2. implementatie ICT-infrastructuur Hof Nederland-
+2. implementatie ICT-infrastructuur Hof  Nederlandse se Antillen afgerond 
+Antillen 3. implementatie ICT-infrastructuur Hof Aruba is 
+3. implementatie ICT-infrastructuur Hof Aruba niet geheel uitgevoerd  
+Interviews 
+-  
+Literatuur 
+−  
+Opmerkingen 
+- De toenmalige Minister van Justitie op Aruba, dhr. Croes, heeft het project stilgelegd omdat hij niet wilde 
+meewerken aan een samenwerking waarbij data-uitwisseling tussen Aruba en de andere eilanden zou plaatsvin-
+den. De opvolger van dhr. Croes wilde dat later wel, maar het project was toen al afgesloten.   
+ 
+  
+136
