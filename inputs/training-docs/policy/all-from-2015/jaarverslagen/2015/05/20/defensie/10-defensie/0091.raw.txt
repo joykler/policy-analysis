@@ -1,0 +1,53 @@
+Baten-lastenagentschap Defensie Telematica Organisatie
+  
+Balans per 31 december 2014
+(bedragen x € 1.000)
+ Omschrijving Stand  Stand
+31-12-2014 31-12-2013 
+ Activa   
+Immateriële vaste activa  13.728  11.258  
+ Materiële vaste activa   
+ – gebouwen  16.432  15.979 
+ – inventaris/installaties 3.149   4.630 
+ – computer hardware en -software 55.691   52.363 
+– overige materiele vaste activa  14   33 
+ Voorraden 1.608   3.462 
+ Debiteuren  26.598 6.427  
+Nog te ontvangen (overlopende activa)   32.995  31.356 
+Liquide middelen  922   2.722 
+T otaal activa  151.137 128.229  
+ Passiva   
+Eigen V ermogen  17.988  19.666 
+ – exploitatiereserve  –  – 
+– onverdeeld resultaat  8.709   – 707 
+Subtotaal eigen vermogen  26.697   18.959 
+   
+ Voorzieningen  –  – 
+Leningen bij het MvF   41.451 28.398  
+Crediteuren   38.934  21.234 
+Nog te betalen (overlopende passiva)  44.055  59.638  
+ Totaal passiva 151.137   128.229
+ 
+Toelichting op de balans
+Immateriële en materiële vaste activa
+De immateriële investeringen betreft voornamelijk:
+– De aanschaf van licenties voor de VDI omgeving.
+– De aanschaf van licenties voor de storage-omgeving (life cycle).
+– Gebruiksrecht met vaste capaciteit voor de Carib kabel (netwerk).
+In 2014 is geïnvesteerd in materiële vaste activa:
+– Voor het upgraden van de datacenters.
+– Voor het opwaarderen van het NAFIN glasnetwerk.
+– Voor de Storage omgeving (life cycle).
+– Voor het WIFI netwerk.
+– Voor het noodzakelijk vervangen van eindgebruiker hardware conform 
+lifecycle vervangingsplan.
+Voorraden
+De voorraden hebben betrekking op de voorraden in het centrale magazijn 
+in Soesterberg en bij leverancier Morpho. Bij deze laatste liggen de 
+voorraden nog niet gepersonifieerde smartcards. Gelet op de daadwerke-
+lijke afname in de afgelopen jaren is een groot deel van deze voorraden te 
+beschouwen als incourant. Deze incourante voorraad is voor een bedrag 
+van € 0,7 miljoen opgenomen in de voorziening. Daarnaast is een klein 
+bedrag voor mogelijke incourantheid van de normale voorraad 
+opgenomen.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 X, nr. 1 90

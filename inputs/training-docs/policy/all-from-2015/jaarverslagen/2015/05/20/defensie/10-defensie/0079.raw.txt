@@ -1,0 +1,54 @@
+Bedrijfsvoeringsparagraaf
+4. Overige aspecten bedrijfsvoering 
+Staat van de IV/ICT
+In de staat van de IT zijn in 2014 tekortkomingen geconstateerd. De 
+technische staat van de IV/ICT-infrastructuur was onder de maat. Door 
+veroudering van apparatuur nam de kans op uitval van netwerken en 
+rekencentra toe. Daarnaast schoot de besturing (governance) van het 
+IV/ICT-domein tekort. Het ontbrak aan een duidelijke visie, ondanks het 
+belang van IT binnen Defensie voor de operaties en de bedrijfsvoering. 
+Tevens was er een verstoorde verhouding tussen twee belangrijke spelers 
+in de uitvoering van de IV/ICT-dienstverlening, namelijk het Joint IV 
+Commando (JIVC) en IV Operaties (OPS).
+Toen bovenstaande problemen in de IT aan het licht kwamen, zijn voor de 
+meest dringende problemen meteen maatregelen genomen. Om te 
+zorgen dat de problemen permanent tot het verleden gaan behoren, 
+waren maatregelen voor de toekomst nodig. Zoals gemeld aan de Kamer 
+in de brief van 16 september 2014 (Kamerstuk 31 125, nr. 41) en in de brief 
+van 19 december 2014 (Kamerstuk 31 125, nr. 52) heeft Defensie, met het 
+oog op de toekomst, maatregelen genomen ter verbetering van de 
+vernieuwing van de IT-infrastructuur en de herijking van de sourcing van 
+IT-systemen aangekondigd.
+Om tot een nieuwe, toekomstbestendige IT te komen is een richtingge-
+vende IT-visie nodig. Deze visie «Let’s make IT happen» is met de brief van 
+24 oktober 2014 (Kamerstuk 31 125, nr. 45) aan de Kamer aangeboden.
+Grote IT Projecten
+Rijksbreed zijn in 2008 en 2011 maatregelen getroffen om de beheersing 
+van grote IT-projecten te verbeteren (Kamerstuk 26 632, nr. 135 en nr. 172). 
+De uitvoering en monitoring van grote IT-projecten bij Defensie volgen 
+deze rijksbrede afspraken. Eén van deze afspraken is de jaarlijkse 
+rapportage op het Rijks ICT-dashboard. Dit is een website die informeert 
+over grote en hoogrisico projecten, beheerd door de Minister van Wonen 
+& Rijksdienst (W&R). De rapportageplicht geldt voor grote(re) 
+ICT-projecten. Een ICT-project wordt als «groot» aangemerkt vanaf een 
+projectomvang van € 20 miljoen of met een projectomvang van € 5 
+miljoen als de risicobeoordeling hoog is. De risicobeoordeling wordt 
+uitgevoerd volgens een format van W&R. De risicoprojecten bij Defensie 
+worden geselecteerd uit het Defensie Investeringsplan (DIP). Projecten 
+waarvan het product uitsluitend een militair-operationele toepassing krijgt 
+(wapensysteem/inzet bij militaire conflicten) vallen buiten de scope van de 
+Rijks ICT-rapportage. Deze projecten worden vanaf een projectomvang 
+van € 25 miljoen gerapporteerd in het Materieel Projecten Overzicht 
+(MPO). Op deze wijze wordt niet dubbel gerapporteerd.
+De rapportageplicht geldt tenslotte uitsluitend voor projecten die 
+daadwerkelijk in uitvoering zijn. Dit betreft projecten waarvan het project 
+initiatiedocument (PID) is vastgesteld. Daarnaast is voor projecten met 
+een omvang groter dan € 20 miljoen die zijn gestart na 2012, een Privacy 
+Impact Assessment (PIA) van toepassing. Defensie heeft op dit moment 
+zes ICT-projecten waarover op deze wijze gerapporteerd wordt. Twee 
+hiervan zijn voor 31 december 2014 officieel voltooid.
+Audit Comité (AC)
+Het Audit Comité Defensie is een adviesorgaan van de SG en een platform 
+voor het bespreken van sturings- en beheersingsvraagstukken met als 
+doel de bedrijfsvoering op het gewenste niveau te krijgen en te houden.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 X, nr. 1 78
