@@ -31,5 +31,4 @@ Dit kengetal laat zien in welke mate de instellingen in een sector afhankelijk z
 van de Rijksoverheid, dan wel andere inkomstenbronnen hebben. 
 Personeelslasten/totale baten
 In het onderwijs gaan veel middelen naar het personeel. Dit kengetal laat zien welk deel van de 
-totale inkomsten het bestuur besteedt aan personeel. 
-46
+totale inkomsten het bestuur besteedt aan personeel.

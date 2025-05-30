@@ -43,4 +43,3 @@ Resultaat na belastingen 1 1 29 28 18
 Netto resultaat 1 1 29 28 18
 9 Buitengewoon resultaat 0 0 0 0 0
 Totaal resultaat 2 1 30 28 18
-39

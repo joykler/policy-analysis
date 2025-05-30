@@ -46,4 +46,3 @@ Totaal grote kantoren 85 7 79 3 75 1 76 4 82
 Totaal kleine kantoren 17 0 18 8 28 7 30 3 29 3
 Totaal 102 7 97 11 103 8 106 7 111
 5
-22
