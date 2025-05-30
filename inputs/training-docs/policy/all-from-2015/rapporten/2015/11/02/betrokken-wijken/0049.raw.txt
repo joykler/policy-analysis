@@ -1,0 +1,19 @@
+de vier onderzoekswijken
+49
+Tabel 2.1
+Enkele bevolkingskenmerken binnen de onderzoekswijken (postcodegebieden), 1 januari 2013
+ toe- of afname  niet-westerse  toe- of afname 
+ 15-25-jarigen 15-25-jarigen migranten niet-westerse migranten
+ bevolking 1 jan. 2013 2003-2013 1 jan. 2013 2003-2013
+1 jan. 2013 (in %) (in %-punten) (in %) (in %-punten)
+ 
+Nieuwland-West 4.755 12,1 –0,8 64,0 +6,4
+(pc 3118)
+Nieuwland-Oost 9.480 13,4 +0,8 62,1 +7,0
+(pc 3119)
+Kruiskamp 6.060 10,2 –4,2 45,5 –0,9
+(pc 3814)
+Slotervaart (pc 1065) 10.845 13,1 +2,4 62,8 +15,5
+Bijlmer K-buurt 12.825 13,3 –0,7 80,9 +2,7
+(pc 1104)
+Bron: cbs (StatLine)

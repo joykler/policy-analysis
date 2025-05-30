@@ -1,0 +1,34 @@
+de vier onderzoekswijken
+53
+Tabel 2.4
+Niveaus en dynamiek van leefbaarheids- en criminaliteitsproblemen in de onderzoekswijken (postcodegebieden) en de inzet van bewoners voor hun buurt
+(volgens eigen opgave)
+ontwikkeling
+ontwikkeling ontwikkeling
+bewoners-inzet
+leefbaarheids- criminaliteits-
+ leefbaarheids-  criminaliteits-  bewoners- 2005/’06-2011/’1
+problemen problemen
+b
+problemen problemen inzet
+2005/’06-2011/’12 2005/’06-2011/’12 2
+a a b
+2011/’12 (in %-punten) 2011/’12 (in %-punten) 2011/’12 (in %-punten)
+(in %) (in %) (in %)
+ 
+Nieuwland-West 44,4 +1,6 15,9 1,8 26,5 7,0
+Nieuwland-Oost 39,3 +6,9 14,6 5,9 23,8 –3,0
+c c c c
+Kruiskamp 22,7 –2,9
+Slotervaart (pc 26,7 –6,7 13,0 –2,7 17,1 –16,3
+1065)
+Bijlmer-Oost (K- 24,6 –7,5 10,1 –6,1 29,2 2,2
+buurt)
+gemiddelde van de 34 - 4 15 - 1 20 0
+achterstands-
+wijken
+a Schaalscore waarbij 0 = geen problemen en 100 = maximale problemen.
+b Het aandeel bewoners dat naar eigen zeggen het jaar voorafgaand aan de enquête actief is geweest om de eigen buurt te verbeteren.
+c Onbetrouwbaar cijfer vanwege weinig respondenten in Kruiskamp. Dit wreekt zich het meest bij criminaliteit en buurtinzet, omdat de
+respondent daar uitsluitend over zichzelf rapporteert en niet over de ‘toestand’ in zijn wijk.
+Bron: cbs (WoON’98-’12; ivm’99-’11, registratiegegevens) scp-bewerking
