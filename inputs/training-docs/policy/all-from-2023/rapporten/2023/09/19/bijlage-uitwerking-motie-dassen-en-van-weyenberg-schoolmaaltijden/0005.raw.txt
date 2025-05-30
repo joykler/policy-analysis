@@ -8,5 +8,4 @@ De drie hoofdscenario’s zijn:
  Scenario A: schoolmaaltijden voor een afgebakende doelgroep 
  Scenario B: schoolmaaltijden en/of -fruit voor alle leerlingen  
  Scenario C: schoolmaaltijden voor een afgebakende doelgroep als onderdeel van 
-integrale aanpak (zoals voedseleducatie of bewegen)  
-5
+integrale aanpak (zoals voedseleducatie of bewegen)

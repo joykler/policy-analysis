@@ -35,5 +35,4 @@ Kosten per jaar  Totaalbedrag gekozen scenario
                                                                  
 12
  Bij berekening van de kosten is uitgegaan van de doelgroep bij scenario A2 voor schoolmaaltijden. Een ander scenario als uitgangspunt is mogelijk, en brengt hogere of lagere kosten voor dit scenario met zich 
-mee. 
-9
+mee.

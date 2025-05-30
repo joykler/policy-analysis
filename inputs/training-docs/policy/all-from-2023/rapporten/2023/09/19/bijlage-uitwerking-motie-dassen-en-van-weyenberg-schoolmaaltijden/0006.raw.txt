@@ -3,6 +3,4 @@ Onderstaande tabellen geven een overzicht van de verschillende (sub)scenario’s
 doelstellingen, voor- en nadelen en kosten. Een ‘+’ betekent dat er veel tot in het geheel sprake van is, een ‘+−’ dat er beperkt sprake 
 van is, en een ‘−’ dat er weinig tot geen sprake van is. De tabellen dienen als visueel overzicht van de scenario’s, tekstuele toelichting op 
 de scenario’s volgt in het hoofdstuk na de tabellen. De tabellen presenteren relatieve scores op basis van een beleidsmatige inschatting 
-van de voor- en nadelen van de verschillende scenario’s, hieraan ligt geen analytische basis ten grondslag. 
-  
-6
+van de voor- en nadelen van de verschillende scenario’s, hieraan ligt geen analytische basis ten grondslag.

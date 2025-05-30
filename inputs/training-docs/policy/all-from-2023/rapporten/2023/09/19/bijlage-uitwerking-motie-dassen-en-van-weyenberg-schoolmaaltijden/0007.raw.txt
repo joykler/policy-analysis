@@ -44,5 +44,4 @@ Kosten per jaar
  ‘Huidige deelnemers’ verwijst naar het verwachte aantal deelnemers van het huidige programma Schoolmaaltijden op 31 december 2023, wanneer het programma afloopt. 
 11
  'Gehele doelgroep’ verwijst naar het totaal aantal leerlingen dat in de doelgroep van het huidige programma Schoolmaaltijden valt. De gehele doelgroep is groter dan de groep de facto bereikte leerlingen, 
-gegeven het totale budget van € 100 miljoen. 
-7
+gegeven het totale budget van € 100 miljoen.

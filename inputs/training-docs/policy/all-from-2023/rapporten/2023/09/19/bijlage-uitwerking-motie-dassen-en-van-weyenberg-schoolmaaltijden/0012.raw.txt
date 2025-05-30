@@ -56,5 +56,4 @@ voorbeeldrapportage: Rapportages | Nationaal Cohortonderzoek Onderwijs.
  Een school valt binnen de doelgroep wanneer 30% of meer van haar leerlingen uit een gezin komt met een laag inkomen volgens d e 
 laaginkomen-indicator uit de jaarlijkse NCO-rapportage. Daarnaast is er voor onderwijsvormen die geen NCO-rapportage hebben het 
 principiële besluit genomen om deze allemaal tot de doelgroep te rekenen. Het gaat hierbij om speciaal onderwijs, speciaal 
-basisonderwijs, voortgezet speciaal onderwijs, praktijkonderwijs en aparte vestigingen voor onderwijs aan nieuwkomers. 
-12
+basisonderwijs, voortgezet speciaal onderwijs, praktijkonderwijs en aparte vestigingen voor onderwijs aan nieuwkomers.
