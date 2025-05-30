@@ -1,0 +1,54 @@
+Stand van zaken rampenbestrijding in Caribisch Nederland 2022  
+Aangekondigde maatregelen in beleidsagenda 2021-2025  
+De beleidsagenda vermeldde geen aanbevelingen ten aanzien van verbindingen.  
+Bevindingen 2022  
+Allereerst is een disclaimer op zijn plaats. Iedereen geeft aan dat het 
+verbindingsnetwerk afhankelijk is en blijft van de palen en masten van de providers 
+op de eilanden. Voor die  afhankelijkheid (en dus kwetsbaarheid), zo geven 
+geïnterviewden aan, is vooralsnog geen alternatief.   
+Ten aanzien van het netwerk zelf:  
+Om het netwerk te versterken is er op de eilanden het nodige gebeurd, zo geven 
+geïnterviewden aan.   
+8
+Zo is het gsm-netwerk versterkt waardoor er nu sprake is van meer redundantie .  
+                                            
+7
+ Verkenning doelrealisatie communicatiemiddelen Caribisch Nederland, WODC, 22 juli 2017.  
+8
+ Redundantie vergroten houdt in dat cruciale systemen in de ICT-infrastructuur dubbel worden voorzien. Op 
+die manier blijft bij het uitvallen van één systeem het geheel wel goed functioneren omdat een ander 
+systeem de taken overneemt.  
+Er zijn voldoende satelliettelefoons beschikbaar voor de functionarissen met 
+sleutelposities in de crisisorganisatie. Voor politie en brandweer zijn portofoons ‘op 
+de man’ beschikbaar gesteld.  
+Ten aanzien van verbindingen tussen hulpverleningsdiensten:  
+Ook wat betreft de noodzakelijke verbindingen tussen de hulpverleningsdiensten 
+tijdens een ramp of crisis is veel verbeterd. Deels dragen bovengenoemde 
+maatregelen ten aanzien van het netwerk daaraan bij. Daarnaast zijn er aan 
+hulpverleners gsm’s uitgegeven die tevens als portofoon kunnen dienen. Saba en 
+Bonaire gebruiken een app ter voorbereiding op rampen en crises. Deze app bevat 
+informatie voor hulpverleners en voor burgers over wat gedaan kan worden voor, 
+tijdens en na een crisis. Via een afgeschermde omgeving in de app kunnen de 
+5
+hulpverlenende diensten tijdens een ramp of crisis met elkaar communiceren.  
+De meldkamer die een belangrijke rol speelt in de verbinding tussen de 
+crisisfunctionarissen/ hulpverleningsdiensten is onlangs geheel vernieuwd. 
+Technisch gezien het neusje van de zalm. De meldkamer behandelt 24/7 alle 
+911meldingen van Bonaire, Sint Eustatius en Saba. Hoewel de veertien centralisten 
+van de meldkamer zowel de politie- als de brandweermodule gevolgd hebben, is er 
+(nog) geen sprake van multidisciplinaire samenwerking. Alle centralisten zijn in 
+dienst bij de politie. Een melding voor de brandweer bijvoorbeeld wordt door hen 
+‘doorgegeven’ aan de brandweer; ze vragen een melder (nog) niet expliciet wat er 
+aan de hand is waardoor een eerste informatiebeeld van een incident ontbreekt. 
+Hetzelfde gebeurt bij meldingen voor een ambulance.   
+Deelconclusie  
+De aanbeveling om de verbindingen te verbeteren is opgevolgd.  
+De Inspectie maakt hierbij wel een kanttekening. Zoals aangegeven is de 
+meldkamer nu geheel geëquipeerd voor 911-meldingen van burgers op Bonaire, 
+                                                
+5 10
+ Zie bijvoorbeeld: Openbaar Lichaam Bonaire: Download Disasterprep app Bonaire (bonairegov.com)  
+ESF staat voor Emergency Support Functions. De eilanden kennen 9 ESF-groepen: naast brandweer, 
+politie en geneeskundige zorg zijn dat water & energie, telecommunicatie, openbare werken & 
+transport, evacuatie en opvang, publieke informatie en bestuurlijke zaken en ondersteuning.  
+10

@@ -1,0 +1,44 @@
+NCSC stand van de uitvoering 2022
+Voorwoord
+Geachte lezer, informeren we organisaties in Nederland, zodat zij de juiste 
+maatregelen kunnen treffen. Zo stellen we Nederland in staat 
+Graag neem ik u mee in de eerste Stand van de uitvoering om digitaal weerbaar te zijn. Samen maken we Nederland 
+van het Nationaal Cyber Security Centrum (NCSC). Wij zijn digitaal veilig. 
+de cybersecurityautoriteit van Nederland. Sinds 2012 werken 
+we samen met onze partners aan een digitaal veilig en Op dit moment komt er veel op het NCSC af. Zo zorgt nieuwe 
+weerbaar Nederland. Dat is belangrijk voor bijvoorbeeld onze wet- en regelgeving onder andere voor een forse uitbreiding 
+infrastructuur, veilig betalingsverkeer, schoon drinkwater uit de van het aantal organisaties en bedrijven dat we ondersteunen. 
+kraan en om de voeten droog te houden. Ook krijgen we te maken met nieuwe opdrachtgevers en 
+afnemers van onze producten en diensten. Verder gaat het 
+Het NCSC is een zelfstandige taakorganisatie van het NCSC de komende tijd integreren met het DTC en CSIRT-
+ministerie van Justitie en Veiligheid. De governance van het DSP van het ministerie van Economische Zaken. De transitie 
+ministerie van Justitie en Veiligheid is ingericht door middel naar deze nieuwe nationale cybersecurityorganisatie en de 
+van het sturingsmodel JenV. Het sturingsmodel JenV biedt genoemde ontwikkelingen vragen veel van onze medewerkers 
+heldere kaders voor sturen, beheersen, toezicht houden en en organisatie. 
+verantwoorden. Het sturingsmodel kent drie rollen. Die van 
+opdrachtnemer, opdrachtgever en eigenaar. Gezamenlijk Uitdagingen en dilemma’s 
+vormen deze drie partijen de driehoek. Het NCSC is binnen onze Bij de uitvoering van onze werkzaamheden lopen we, net als 
+driehoek opdrachtnemer. De beleidsverantwoordelijkheid voor andere uitvoeringsorganisaties, tegen uitdagingen en dilemma’s 
+cybersecurity ligt bij onze opdrachtgever. Dat is de Nationale aan. In deze stand van de uitvoering vertellen we hoe we 
+Coördinator Terrorismebestrijding en Veiligheid (NCTV). De hiermee omgaan, wat we zelf doen, maar ook wat er volgens het 
+Plaatsvervangend SG Justitie en Veiligheid is eigenaar van het NCSC nodig is om ons werk nog beter te kunnen uitvoeren om 
+NCSC. zo samen Nederland digitaal veilig te maken en te houden. 
+In deze Stand van de uitvoering schetsen we onze uitdagingen 
+Begrijpen, verbinden en voorkomen zijn de leidende principes en dilemma’s aan de hand van de volgende onderwerpen:
+in het werk van het NCSC. We begrijpen de kwetsbaarheden 
+en dreigingen in het digitale domein. We identificeren en • Toename complexiteit
+duiden risico’s en trends. De kennis die we verzamelen is breed • Gegevensdeling
+toegankelijk. We verbinden partijen, kennis en informatie. • Arbeidsmarkt 
+Als overheidsorganisatie zijn we de verbindende schakel in • Samenwerking
+een netwerk van nationale en internationale partners. We 
+voorkomen maatschappelijke schade en beperken dreigingen, We hopen zo een goed beeld te geven van onze werkzaamheden 
+bieden vakkundige ondersteuning en advies en bieden concreet en de uitdagingen waar we voor staan. Mocht u vragen hebben, 
+handelingsperspectief. dan nodigen we u van harte uit om hierover met ons in gesprek 
+te gaan. 
+Het NCSC heeft een breed pallet aan producten, waaronder 
+onderzoeken, analyses en beveiligingsadviezen. In geval van een Met hartelijke groet, 
+crisis staan we 24/7 paraat. Onze cybersecuritywerkzaamheden 
+voeren we niet alleen uit. Dit doen we met een uitgebreid Hans de Vries
+netwerk van partners. Door effectief samen te werken brengen Directeur NCSC
+we cyberdreigingen in kaart, analyseren deze en adviseren en 
+2

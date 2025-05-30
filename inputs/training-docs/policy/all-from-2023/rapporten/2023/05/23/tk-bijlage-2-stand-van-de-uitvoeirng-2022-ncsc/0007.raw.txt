@@ -1,0 +1,42 @@
+NCSC stand van de uitvoering 2022
+Juridisch kader NCSC bijzondere gevallen dreigings- of incidentinformatie rechtstreeks 
+met andere organisaties te delen. Van een bijzonder geval is 
+Om ons werk goed te kunnen doen, moet het NCSC gegevens sprake als een branche geen schakelorganisatie heeft én als 
+kunnen delen met anderen. Zowel nationaal als internationaal. het informatie betreft over een serieuze dreiging of incident 
+Het juridisch kader waarbinnen het NCSC opereert, en dus met mogelijk aanzienlijke gevolgen voor de continuïteit van de 
+ook gegevens deelt, is de Wet Beveiliging Netwerk- en dienstverlening van de organisatie. 
+informatiesystemen (Wbni). De Wbni is sinds 9 november 
+2018 van kracht en regelt de wettelijke taken van het NCSC op 
+het gebied van cybersecurity. Doel van de Wbni is de digitale Meer wettelijke ruimte nodig 
+weerbaarheid van Nederland te vergroten, de gevolgen 
+van cyberincidenten te beperken en zo maatschappelijke Het NCSC is blij met de recente wijziging van de Wbni. Het geeft 
+ontwrichting te voorkomen. ons meer ruimte om invulling te kunnen geven aan onze taak om 
+Nederland digitaal veilig te houden. Toch lopen we in de praktijk 
+Primair heeft het NCSC de taak om vitale aanbieders en nog steeds tegen situaties aan, waarbij we wel beschikken over 
+organisaties binnen de rijksoverheid te informeren en informatie die we graag zouden willen delen met anderen, maar 
+adviseren over digitale dreigingen en incidenten. Het NCSC de huidige Wbni geen of onvoldoende ruimte biedt om dit te 
+beschikt regelmatig ook over informatie over digitale doen. 
+dreigingen en/of incidenten die relevant is voor andere 
+organisaties. Bijvoorbeeld voor distributeurs van voedselwaren, Zo mag het NCSC op basis van de huidige Wbni uitsluitend 
+politieke partijen, energieleveranciers, softwarebedrijven of vertrouwelijke gegevens verstrekken als de geheimhouding van 
+containeroverslagbedrijven. Vanwege beperkingen in de Wbni die gegevens voldoende is gewaarborgd en als die gegevens 
+kon het NCSC die informatie niet altijd verstrekken aan die alleen worden gebruikt voor het doel waarvoor zij worden 
+andere organisaties. verstrekt (art. 20 Wbni). Daarnaast geldt dat we gegevens 
+die herleid kunnen worden tot een organisatie, zonder diens 
+instemming, alleen mogen verstrekken als dat bijdraagt aan 
+Wijziging Wbni was  maatregelen ter voorkoming of beperking van een verstoring 
+van het maatschappelijk verkeer. Als laatste voorwaarde 
+noodzakelijk geldt dat het NCSC deze gegevens uitsluitend mag delen met 
+OKTT’s, CSIRT’s, andere computercrisisteams (aangewezen 
+Om die reden is, mede op verzoek van het NCSC, de Wbni bij ministeriële regeling of behorend tot een bij die regeling 
+per 1 december 2022 gewijzigd. Door deze wetswijziging aangewezen categorie) en de Nederlandse inlichtingen- en 
+heeft het NCSC de mogelijkheid om in ruimere zin dreigings- veiligheidsdiensten. Hierdoor kunnen we nu geen informatie 
+en incidentinformatie te delen met zogeheten OKTT’s. Dit delen met internationale partners, zoals CERT’s/CSIRT’s buiten 
+zijn organisaties die objectief kenbaar tot taak hebben om de EU. Meer wettelijke ruimte op dat vlak zou het uitwisselen van 
+organisaties of het publiek te informeren over dreigingen en gegevens makkelijker en de samenwerking met internationale 
+incidenten. OKTT’s fungeren als zogenoemde schakelorganisaties partners effectiever maken. Het kunnen delen van gegevens met 
+voor andere organisaties en bedrijven. Hun rol is om organisaties internationale partners buiten de EU is van direct belang voor de 
+en hun achterban te voorzien van informatie en advies over Nederlandse digitale weerbaarheid.
+kwetsbaarheden en cyberdreigingen. Daarnaast biedt de 
+wijziging van de Wbni een wettelijke basis voor het NCSC om in 
+6

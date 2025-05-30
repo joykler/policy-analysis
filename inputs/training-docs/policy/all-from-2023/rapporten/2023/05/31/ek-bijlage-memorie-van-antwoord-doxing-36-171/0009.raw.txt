@@ -1,0 +1,64 @@
+De leden van de D66-fractie hebben gevraagd wie strafrechtelijk verantwoordelijk is als zelflerende 
+algoritmes de persoonsgegevens van iemand verspreiden teneinde te intimideren en wat de rol van 
+sociale media-platforms is in deze.  
+ 
+Het scenario dat leden van de D66-fractie hebben beschreven is technisch erg complex. Een 
+dergelijk algoritme of systeem zou in eerste instantie zelfstandig informatie van webpagina’s 
+moeten zoeken, vinden en bewaren, om vervolgens een plek te creëren om de informatie te 
+publiceren. Het algoritme of systeem zou dan bijvoorbeeld zelf een account moeten maken op 
+social media (waar die platformen dan ook op kunnen ingrijpen) of een website moeten bouwen om 
+de informatie op te plaatsen. Dat is een erg complexe serie ‘handelingen’ en vraagt dermate veel 
+rekenkracht dat het zeer onwaarschijnlijk is dat dit zonder menselijke aansturing zal kunnen 
+gebeuren. Indien menselijke aansturing wel mogelijk zou zijn, is diegene die aanstuurt ook 
+verantwoordelijk en kan diegene daarvoor eventueel ook strafrechtelijk aansprakelijk zijn.  
+ 
+Ook hebben de leden van de D66-fractie gevraagd of, en zo ja, hoe algoritmes gaan worden 
+ingezet bij de opsporing van doxing.  
+ 
+In algemene zin kan gesteld worden dat het zoeken naar persoonsgegevens op internet nagenoeg 
+alleen kan met gebruikmaking van algoritmes. Dat geldt bijvoorbeeld al voor een eenvoudige 
+zoekslag met google search in voor het brede publiek toegankelijke bronnen, waarvoor Google 
+algoritmes gebruikt. Hiervan kan de politie, binnen haar bestaande bevoegdheden, ook gebruik 
+maken wanneer gezocht wordt op persoonsgegevens van een slachtoffer van doxing. Of het, na 
+inwerkingtreding van het wetsvoorstel, noodzakelijk zal zijn om aanvullende middelen in te zetten, 
+hangt af van onder meer het aantal en het type zaken. Daar kan op dit moment nog weinig over 
+worden gezegd, anders dan dat dit binnen de bestaande opsporingsbevoegdheden zal moeten 
+passen. 
+ 
+7. Aangifte 
+De leden van de D66-fractie hebben gevraagd wie naast het slachtoffer aangifte kunnen doen van 
+strafbare doxing. Zij hebben gevraagd of maatschappelijke organisaties of het in 2024 operationeel 
+wordende meldpunt doxing dit ook kunnen.  
+ 
+Er dient een onderscheid te worden gemaakt tussen het doen van een aangifte van strafbare 
+doxing bij de politie en het melden van doxing bij tussenhandeldiensten. Door de strafbaarstelling  
+worden slachtoffers in staat gesteld om aangifte te doen van het gebruik van persoonsgegevens 
+voor intimiderende doeleinden. Ook anderen die daarvan kennis dragen kunnen aangifte doen 
+(artikel 161 Sv). De politie heeft overigens geen aangifte nodig om een opsporingsonderzoek te 
+kunnen starten.  
+ 
+Slachtoffers kunnen daarnaast een melding van strafbare doxing doen bij tussenhandeldiensten 
+met een verzoek tot verwijdering van gegevens waarmee dit feit is gepleegd of een melding 
+hiervan doen via een meldpunt. Meldpunten hebben specifieke expertise op het gebied van illegale 
+inhoud en kunnen verzoeken doen bij tussenhandeldiensten om deze inhoud te verwijderen. 
+Meldpunten kunnen de informatie die zij ontvangen doorgeven aan de politie ten behoeve van een 
+opsporingsonderzoek, maar hebben niet tot taak aangifte te doen van strafbare feiten. Voorbeelden 
+van bestaande meldpunten zijn het Expertisebureau Online Kindermisbruik (EOKM) en het 
+Meldpunt internet discriminatie (MiND). Voor doxing en andere onrechtmatige online content wordt 
+in de loop van 2024 een laagdrempelige meldvoorziening opgezet die content kan classificeren en 
+illegale content met een verwijderverzoek kan doorgeleiden naar internet tussenpersonen. Dat is 
+een maatregel die de druk op de strafrechtketen en op de civiele rechter moet verminderen.   
+ 
+Deze leden hebben ook gevraagd of een platform medeplichtig is aan doxing als het 
+persoonsgegevens van het slachtoffer niet op verzoek van het slachtoffer worden verwijderd. 
+Daarnaast hebben zij gevraagd of het slachtoffer het platform (mede-) aansprakelijk kan stellen 
+voor (inmiddels) geleden schade als het platform uitvoering geeft aan het bevel van officier van 
+justitie om persoonsgegevens ontoegankelijk te maken.  
+ 
+Artikel 6:196c BW regelt de vrijstellingen voor aansprakelijkheid van internettussenpersonen, 
+overeenkomstig de Richtlijn Elektronische Handel. Deze richtlijn zal begin 2024 worden vervangen 
+door de Digital Services Act. Tussenhandeldiensten zijn niet aansprakelijk indien ze niet weten van 
+de activiteit of informatie met een onrechtmatig karakter op hun dienst dan wel zodra ze dat wel 
+weten prompt handelen om de illegale inhoud te verwijderen of de toegang daartoe onmogelijk te 
+maken. Een platform dat bij het verkrijgen van de kennis over strafbare doxing de gegevens 
+9 / 10

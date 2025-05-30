@@ -1,0 +1,37 @@
+NCSC stand van de uitvoering 2022
+Meer beoordelings- en  Daarnaast geldt, dat de beleving in de buitenwereld voor wat 
+betreft de aard van het IP-adres de praktijk hindert. Veelal 
+handelingsruimte leeft het beeld dat een IP-adres een persoonsgegeven is, 
+omdat dit te herleiden valt naar een eindgebruiker en daarmee 
+Dillema’s rondom gegevensdeling bespreken we met de tot een natuurlijke persoon. Dat is niet het geval voor een 
+beleidsverantwoordelijke en onze opdrachtgever, de NCTV. Bij organisatie als het NCSC. Voor een dergelijke herleidbaarheid 
+incidenten bekijken we samen welke mogelijkheden er wel zijn, is – naast het IP-adres – nog een veelheid aan andere 
+passend bij de specifieke casus. Door een verruiming van de gegevens nodig, zoals een timestamp en abonneegegevens 
+Wbni op bovenstaande punten kunnen we gelukkig al steviger van een internettoegangsverlener (ISP). Het NCSC heeft niet 
+invulling geven aan onze rol in een mondiaal speelveld. Hierdoor de bevoegdheid om die gegevens bij ISP’s op te vragen en 
+ontstaat meer professionele beoordelings- en handelingsruimte dat willen wij ook niet. Ons oogmerk is het veilig houden van 
+voor het NCSC om ook internationaal gegevens te delen die naar systemen. Omdat die overal ter wereld kunnen staan en vanuit 
+een organisatie herleidbaar zijn. die positie onze doelgroepen (vitale en rijksorganisaties) kunnen 
+bedreigen, is het soms noodzakelijk om ook gegevens te delen 
+Deze verbetering neemt helaas niet alle drempels weg. Het met nationale CERT’s buiten de EU. De redenering dat een IP-
+wettelijke begrip “ tot een aanbieder (organisatie) (vertrouwelijk) te adres altijd een persoonsgegeven betreft, maakt dat dan niet 
+herleiden gegeven” zorgt in de praktijk nog voor een belemmering. eenvoudig. 
+Het spreekt voor zich dat wij omzichtig om moeten gaan met 
+vertrouwelijke gegevens. In de wet is naar onze opvatting 
+onvoldoende duidelijk aangegeven wanneer daar sprake van 
+is. In de memorie van toelichting is opgenomen dat een naam 
+van een organisatie vertrouwelijk en herleidbaar kan zijn, terwijl 
+juist dat soort gegevens openbaar zijn en vaak proactief worden 
+uitgedragen door de organisaties. Hieruit is ook afgeleid dat 
+dit geldt voor IP-adressen van organisaties, terwijl ook deze 
+openbaar van aard zijn. De memorie van toelichting van de 
+Wbni heeft dus enkel de herleidbaarheid beschreven, maar 
+niet wat die gegevens dan vertrouwelijk maakt. Het zou ons 
+in de praktijk helpen wanneer duidelijker wordt dat dergelijke 
+(duidelijk) herleidbare gegevens alleen dan als vertrouwelijk 
+moeten worden aangeduid, wanneer zij worden gecombineerd 
+met andere gegevens. Gegevens zoals nog niet geopenbaarde 
+kwetsbaarheden (openbaar CVE-nummer), zeer specifiek door 
+een aanbieder (organisatie) gebruikte systemen, of gemaakte 
+afspraken met de betrokken aanbieder.  
+7
