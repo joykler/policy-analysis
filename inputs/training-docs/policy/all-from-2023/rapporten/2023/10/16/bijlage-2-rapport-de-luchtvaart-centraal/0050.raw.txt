@@ -17,4 +17,3 @@ We gaan achtereenvolgens in op:
 • Gezamenlijke bouwstenen
 • Bouwstenen voor het DGLM
 • Bouwstenen voor de ILT
-50

@@ -47,4 +47,4 @@ het WODC worden geselecteerd die als rechtbankzaak zijn geregistreerd. Deze zake
 hebben de indicatie R voor rechtbank (is ten minste één feit een Rechtbankfeit dan is 
 de indicator R; gaat het alleen om Kantonfeiten dan is de indicator K). De teleenheid is 
 over het algemeen zaak, maar in bepaalde gevallen beslissing of sanctie. Voor over-
-Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  81
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |

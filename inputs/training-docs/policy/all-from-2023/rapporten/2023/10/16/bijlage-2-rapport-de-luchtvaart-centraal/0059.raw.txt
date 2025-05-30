@@ -14,5 +14,4 @@ verschillende afdelingen, waar ook andere modaliteiten in
 zijn opgenomen. Eventuele kernwaarden gelden dan niet 
 voor de gehele afdeling, maar alleen voor de modaliteit, 
 en kunnen conflicteren met andere kernwaarden waardoor 
-het voor de medewerker eerder verwarrend werkt. 
-59
+het voor de medewerker eerder verwarrend werkt.

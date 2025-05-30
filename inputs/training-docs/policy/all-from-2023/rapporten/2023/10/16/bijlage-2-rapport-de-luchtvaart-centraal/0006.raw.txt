@@ -29,4 +29,3 @@ Overig: Provincie + LNV
 Regionale: Provincie + LNV
 Goede verbindingen DGLM (BuZa) Geen Geen DGLM monitort ontwikkelingen
 Organisatie van verantwoordelijkheden rondom publieke belangen in de luchtvaartketen
-6

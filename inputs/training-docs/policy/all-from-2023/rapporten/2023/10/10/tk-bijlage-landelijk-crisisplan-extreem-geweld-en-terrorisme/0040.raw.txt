@@ -57,4 +57,3 @@ NCTV ook buiten het DTN om besluiten het dreigingsniveau te
 verhogen naar niveau 5. Dit is het meest waarschijnlijk wanneer 
 er al een incident hee$ plaatsgevonden en er sprake is van een 
 vervolgdreiging.
-40

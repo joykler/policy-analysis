@@ -46,4 +46,4 @@ van de regionale en lokale onderzoeken.
 De standaardrapportages (door het CBS) zijn gebaseerd op alle (landelijke plus lokale) 
 enquêtes samen. De lokale deelnemers krijgen hun eigen microdata (waaronder de 
 gevraagde achtergrondkenmerken), aangevuld met de landelijk verzamelde onder- 
-Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  75
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |

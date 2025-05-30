@@ -48,4 +48,4 @@ aansluiten bij de gehanteerde meetwaarde.
 • KMar (BPS): alle registraties met ten minste één incident dat voorkomt in de 
 SCM2010, waarbij het veld ‘aangifte’ de waarde ‘J’ heeft en bij de incidentcode is 
 aangegeven dat een aangifte verplicht is, en de registraties waarbij het aantal 
-Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  77
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |

@@ -42,4 +42,4 @@ primaire processysteem CVS (ClientVolgSysteem) van de 3RO.
 Informatiegebied 
 In IRIS worden de opdrachten aan de 3RO geregistreerd met cliëntgegevens en de 
 (geplande) reclasseringsactiviteiten. Dit geldt voor alle reclasseringsproducten: 
-Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  92
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |

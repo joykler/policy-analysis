@@ -35,4 +35,3 @@ Nederland 107 Nederland 24112
 Ierland 152 Ierland 14378
 Zweden 122 Zweden 49921
 VK 1018 VK 100000+
-37

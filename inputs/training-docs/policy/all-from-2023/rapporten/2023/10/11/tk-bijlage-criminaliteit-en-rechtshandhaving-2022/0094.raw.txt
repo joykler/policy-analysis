@@ -45,4 +45,4 @@ worden tegenwoordig ook afgeslagen naar een zogenoemd DataWareHouse (DWH).
 Voor sommige tabellen is gebruikgemaakt van detailinformatie die afkomstig is uit  
 dit DWH, het primaire processysteem ReIS (Rechtspraak Informatie Systeem) van 
 gerechtshof Arnhem-Leeuwarden, en het gegevenssysteem GPS-MI (zie ook para-
-Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |  94
+Wetenschappelijk Onderzoek- en Documentatiecentrum Cahier 2023-17  |
