@@ -1,0 +1,48 @@
+40
+Onderzoek naar mobiele telefoons Onderzoek naar led-verlichting  
+Op het gebied van elektromagnetische straling moet Led-lampen maken gebruik van omvormers. Deze 
+apparatuur aan stringente Europese richtlijnen voldoen. omvormers zijn bedoeld om de spanning bruikbaar te 
+In vervolg op een administratief onderzoek in 2013 zijn in maken voor de lamp. Tijdens dat proces kan er verstoring 
+2014 tien smartphones getest op hun SAR-waarde. SAR in het frequentiespectrum ontstaan.
+staat voor Specific Absorption Rate en geeft weer in  
+hoeverre het menselijk weefsel opwarmt door elektro- Na verschillende toezichtacties van Agentschap Telecom 
+magnetische straling. De SAR-waarde wordt uitgedrukt en een succesvolle samenwerking met andere inspectie-
+in Watt per kilogram.  diensten in 2013 is in 2014 opnieuw gezamenlijk onderzoek 
+gestart. Samen met de Inspectie leefomgeving en 
+Een meting van de SAR-waarde is technisch bijzonder transport (ILT) en de Nederlandse Voedsel- en 
+complex. Bij de meting wordt gebruik gemaakt van Warenautoriteit (NVWA) is een onderzoek uitgevoerd. 
+modellen die de dichtheid en structuur van menselijk Daarbij boog ILT zich met name over de milieuaspecten, 
+weefsel representeren. De metingen worden op verschil- bijvoorbeeld of de lamp zware metalen bevat. De NVWA 
+lende afstanden van het model uitgevoerd, om het hield zich vooral bezig met de veiligheid van het product. 
+daadwerkelijk gebruik te simuleren. Die afstanden Agentschap Telecom onderzocht of de elektromagnetische 
+variëren van 2,5 centimeter van het model tot direct op straling (EMC) vanuit de lamp binnen de normen bleef. 
+het model.
+In totaal zijn er 35 verschillende lampen van 33 
+Daarnaast is het bij een dergelijke meting erg belangrijk Nederlandse importeurs en fabrikanten onderzocht. Ten 
+dat de omgeving vrij is van straling. Om die reden is opzichte van voorgaande jaren bleek dat de technische 
+besloten de metingen uit te besteden aan een laborato- kwaliteit op het gebied van EMC van de lampen verbe-
+rium dat gespecialiseerd is in deze metingen. In de terd was. In zeven gevallen werd een overschrijding van 
+periode tussen augustus en december 2014 zijn in totaal de limiet voor emissie vastgesteld. Daarbij gaat het zowel 
+10 verschillende smartphones onderzocht. om de straling vanuit de lamp, als om de emissie op het 
+lichtnet. Met dit project pakt Agentschap Telecom de ruis 
+Uit de resultaten blijkt dat alle geteste smartphones verhogende effecten van apparatuur bij de bron aan. Dit 
+voldoen aan de huidige regelgeving. Wel blijkt dat is van belang omdat moderne telecommunicatiesyste-
+naarmate de afstand tot de gebruiker kleiner wordt, de men met steeds gevoeligere apparatuur werken om 
+SAR-waarden toenemen, wat in technische zin een zoveel mogelijk datacapaciteit te kunnen bieden met het 
+logisch gevolg is. Daarom is het belangrijk dat de netwerk.
+gebruiker de door de fabrikant aangegeven minimum 
+gebruiksafstand van doorgaans 1,5 cm in acht neemt. Alle bedrijven waarbij een of meerdere tekortkomingen 
+ zijn geconstateerd zijn inmiddels geïnformeerd over de 
+Agentschap Telecom is van mening dat deze minimum tekortkomingen en gemaand deze te corrigeren.  Gezien 
+gebruiksafstand van 1,5 cm geen recht meer doet aan de het toenemend aantal Led-lampen dat op de markt komt 
+huidige gebruiksomstandigheden van smartphones. is het belangrijk dat er blijvend aandacht is voor de EMC 
+Daarom heeft Agentschap Telecom het initiatief geno - conformiteit van Led-lampen.
+men tot aanpassing van de Europese norm.  De industrie 
+dient met een adequate oplossing te komen voor de 
+nieuwe norm. In dit kader zou een regelbaar vermogen in 
+relatie tot de afstand van het toestel tot het lichaam één 
+van de oplossingsrichtingen kunnen zijn. Moderne 
+smartphones beschikken over sensoren die deze afstand 
+zouden kunnen meten en bij gebruik van het toestel vlak 
+tegen of tegen het lichaam het maximaal geproduceerde 
+vermogen kunnen verminderen.

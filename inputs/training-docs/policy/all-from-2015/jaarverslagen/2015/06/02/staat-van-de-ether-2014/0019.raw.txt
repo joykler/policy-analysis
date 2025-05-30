@@ -1,0 +1,59 @@
+18
+Meldplicht impact op de bereikbaarheid van 1-1-2. Van 4 incidenten 
+was het niet zeker of de bereikbaarheid van 1-1-2 in het 
+Mocht er -ondanks alle voorzorgsmaatregelen- toch een geding was.
+grote verstoring optreden, dan zijn operators verplicht 
+dit te melden. Agentschap Telecom heeft hiervoor het Er waren echter ook 3 incidenten die specifiek te maken 
+loket Meldplicht Telecomwet ingericht. hadden met het doorzetten van 1-1-2-oproepen naar de 
+meldkamers. In totaal zijn hierbij 17 gesprekken verloren 
+Op basis van de gegevens van Loket Meldplicht blijkt dat gegaan. De meldkamers hebben hiervoor een navraag-
+hardware en software fouten de meest voorkomende procedure. Voor zover bekend waren er geen persoon-
+oorzaken van incidenten zijn. Dit uiteraard wel met de lijke gevolgen.
+kanttekening dat een incident zelden een enkele oorzaak 
+heeft maar veelal een samenloop van meerdere fouten is.
+ 
+Uit de informatie die over continuïteitsverstoringen 
+In 2014 waren fouten in hard- en software 
+beschikbaar is, valt nog geen heldere ‘rode draad’ te 
+herkennen. Wel ontstond al snel na aanvang van het 
+de belangrijkste veroorzakers van 
+meldloket een beeld dat incidenten complex zijn; 
+continuïteitsproblemen
+eenvoudige uitval van componenten/netwerkelementen 
+leidt zelden tot ‘meldplichtige’ incidenten, omdat 
+aanbieders hun netwerken veelal redundant hebben 
+1
+uitgevoerd . Wel bleek de afgelopen jaren dat onder-
+houdswerkzaamheden aan de netwerken regelmatig 
+leiden tot incidenten en dat software-en firmwarepro -
+blemen vaak een rol spelen.
+ 
+Om meer te kunnen leren van incidenten met uitval van 
+telecomnetwerken en –diensten, gaat Agentschap 
+Telecom de komende jaren samenwerken met de 
+Universiteit Twente en het Nationaal Cyber Security 
+Centrum in het onderzoeks¬project LINC (“Learning from 
+Incidents”). Mede op basis van de geanonimiseerde 
+gegevens van het meldloket zal worden onderzocht wat 
+deze incidenten gemeenschappelijk hebben en of ze 
+voorkomen hadden kunnen worden. Uiteindelijk zal een 
+instrument worden ontwikkeld en gebouwd waarmee 
+telecomaanbieders zelf een risicoanalyse kunnen doen, 
+om incidenten in hun infrastructuur te voorkomen. Het 
+project start begin 2015 en eindigt in 2018.
+De incidenten die bij Loket Meldplicht worden gemeld 
+zijn beperkt tot de grotere incidenten. Kleine storingen 
+hoeven niet te worden gemeld. Om een beter inzicht in 
+de aard en omvang van continuïteitsverstoringen te 
+verkrijgen, is het wenselijk om ook incidenten uit het 
+verleden (van voor 2012) te ontsluiten. Zo ontstaat er een 
+grotere database aan gegevens die gebruikt kan worden 
+voor analyse. 
+Aanbieders zijn verplicht om bij hun melding aan te 
+geven of de bereikbaarheid van 1-1-2 in het geding is 
+geweest. Van de 41 incidenten hadden er 30 (mede) 
+betrekking op telefonie. Daarbij gaat het dan, afhankelijk 
+van de aanbieder, over telefonie via mobiele netwerken, 
+vaste lijnen, of breedband (Voice over IP: VoIP). Bij 17 van 
+die 30 incidenten was er sprake van daadwerkelijke 
+1 Meldplicht Telecomwet: ervaringen na een jaar meldplicht.

@@ -1,0 +1,46 @@
+Staat van de Ether 2014 15
+Continuïteit
+Aanbieders van openbare communicatiediensten en - 
+netwerken moeten alles in het werk stellen om uitval te 
+voorkomen, zowel in technische als organisatorische zin. 
+De maatregelen die de operators hiervoor nemen moeten ze 
+vastleggen in een continuïteitsplan. Onverhoopte grote 
+storingen of uitval moeten zij melden bij Agentschap Telecom.        
+Zorgplicht
+Agentschap Telecom heeft een overzicht ontwikkeld 
+Agentschap Telecom houdt toezicht op de naleving van van de minimale eisen die wet- en regelgeving 
+deze verplichting. Uit de nulmeting continuïteit uit 2013 stellen. Ook bevat het overzicht een normenkader 
+bleek dat 74% (409) van de aangeschreven aanbieders dat richting geeft aan de te nemen maatregelen en 
+nog niet beschikte over een continuïteitsplan. Hen is hoe deze vastgelegd kunnen worden in een 
+verzocht om alsnog een continuïteitsplan op te stellen. continuïteitsplan. Bijvoorbeeld in de wijze waarop 
+Nagenoeg alle aanbieders beschikken nu over een de getroffen maatregelen staan beschreven en het 
+continuïteitsplan. Tegen enkele aanbieders die (nog) geen type maatregel dat is genomen.
+plan hebben loopt een sanctietraject.
+ 
+In 2014 zijn verschillende aanbieders bezocht die een van de vraagstukken op het gebied van continuïteit maar 
+belangrijke rol spelen in de continuïteit van vitale dat er vanuit een aantal aanbieders behoefte is aan een 
+telecommunicatiediensten. Daarbij is gekeken naar de meer concreet kader. Daartoe stelt het NEN, in opdracht 
+feitelijke implementatie van de continuïteitsplannen en de van Agentschap Telecom, en in samenwerking met de 
+maatregelen die zij treffen om de continuïteit te waarbor - aanbieders, een Nederlandse Technische Afspraak op. Die 
+gen. Agentschap Telecom is tevreden over het feit dat kan aanbieders helpen om een concretere invulling te 
+nagenoeg alle aanbieders maatregelen hebben getroffen. kunnen geven van de zorgplicht continuïteit in de vorm 
+Die zijn ook vastgelegd in een continuïteitsplan. Dit is van concrete maatregelen. 
+echter een eerste stap. In de komende periode zal het 
+toezicht zich meer richten op de feitelijke doorwerking van De Zorgplicht Continuïteit heeft betrekking op aanbie -
+de maatregelen uit de continuïteitsplannen in de ders van openbare telecommunicatie-netwerken. De 
+bedrijfsvoering van de telecomaanbieders. wet heeft geen betrekking op internetdiensten, zoals 
+webwinkels, hosting providers en zoekmachines. Dat 
+De verplichtingen in de Telecommunicatiewet ten aanzien wil niet zeggen dat veiligheid en betrouwbaarheid in 
+van continuïteit voor aanbieders zijn open gesteld. Zo deze sector niet van belang zijn. Vooralsnog pakt de 
+bieden ze voldoende ruimte voor nieuwe ontwikkelingen sector zelf de handschoen op.
+zonder dat de regelgeving daarbij beperkend werkt. Een 
+belangrijk uitgangspunt voor open regelgeving is dat de 
+aanbieders zelf de verantwoordelijkheid nemen om de 
+continuïteit van hun dienstverlening te waarborgen. 
+Iedere aanbieder heeft daardoor een eigen versie van een 
+continuiteitsplan. Inhoudelijk blijken die plannen 
+behoorlijk te verschillen. Meer eenheid daarin kan  het 
+lerend vermogen van de sector verder stimuleren. 
+Uit de uitgevoerde inspecties in 2014 blijkt dat het 
+hierboven beschreven open norm toezicht weliswaar 
+tegemoet komt aan het toekomstbestendig benaderen

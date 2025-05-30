@@ -1,0 +1,78 @@
+Staat van de Ether 2014 19
+In 2014 waren er: 47 meldingen, voor 41 incidenten. Van de 41 incidenten waren er 17 van invloed op de bereikbaarheid van 
+1-1-2. De 41 incidenten hebben gezamenlijk tot 42 verstoringen van vitale diensten geleid:  
+32x binnen de telecommunicatiesector zelf, 4x omroep als rampenzender, 5x spoedeisende zorg en 1x handhaving van de 
+openbare orde. De verdeling over het jaar in maanden is te zien in figuur 1.
+8
+7
+Meldingen per maand
+6
+In deze grafiek wordt onderscheid gemaakt tussen ‘meldingen’ en 
+5
+‘incidenten’. Een incident is een verstoring die door een aanbieder wordt 
+4
+gerapporteerd. Een melding wordt gedaan om een incident te melden, of om 
+nadere informatie over een incident te geven. Een incident bestaat dus uit een 
+3
+eerste melding, eventueel gevolgd door een of meer vervolgmeldingen.
+2
+1
+0
+jan feb mar apr mei jun jul aug sep okt nov dec
+Incidenten Meldingen
+Meldingen Incidenten
+50 
+Meldingen per klasse aanbieder
+45
+40
+In deze grafiek is te zien dat vooral grote en middelgrote aanbieders 
+35
+incidenten meldingen doen. Het zwaartepunt van alle incidenten ligt bij de 
+30
+grote partijen. Middelgrote en kleine aanbieders voldoen in de praktijk 
+25 zelden aan de meldingscriteria. Alleen incidenten met een grote maatschap-
+pelijke en/of economische impact hoeven gemeld te worden. Bij de kleinere 
+20
+aanbieders is dat in de regel niet zo snel aan de orde. De incidenten die in 
+15
+2014 door middelgrote aanbieders zijn gemeld hadden echter voldoende 
+10
+impact om onder de meldplicht te vallen. Dit kwam omdat de aanbieders 
+grootzakelijke klanten hadden waardoor de economische impact van uitval 
+5
+groot was, of omdat zij een streekfunctie vervulden, waardoor de 
+0
+maatschappelijke impact aanzienlijk was.
+Groot Middel Klein
+Duur van de incidenten
+25
+20
+In het jaar 2014 waren fouten in hard- en software de belangrijkste 
+veroorzakers van continuïteitsproblemen. De meeste incidenten in 2014 
+15
+duurden gelukkig niet lang; het diagram laat een snelle afname zien in de 
+eerste uren. In 2014 waren er twee incidenten die langer duurden dan twee 
+10
+dagen. 
+5
+0
+≤ 6 uur ≤ 12 uur ≤ 18 uur ≤ 24 uur ≤ 30 uur ≤ 36 uur ≤ 42 uur > 42 uur
+Aantal getroffen klanten
+14
+12
+Iets meer dan de helft van de incidenten is regionaal van aard en raakt 
+10
+slechts klanten in een deel van het land. Een derde van de incidenten is 
+8 landelijk en raakt alle klanten van die dienst. Dat zijn er iets minder dan in 
+voorgaande jaren. 
+6
+De verhouding tussen regionaal en nationaal bleef ongeveer hetzelfde. Van 
+4
+twee incidenten was het effect ook over de landsgrenzen heen merkbaar. In 
+2
+een geval betrof het een probleem met roaming van mobiele telefonie. In het 
+andere ging het om beveiligde toegang tot bedrijfsnetwerken vanuit 
+0
+onbekend geen ≤ 1k ≤ 10k ≤ 100k ≤ 1M ≤ 10M > 10M
+thuiswerkplekken of mogelijk vanuit het buitenland. Deze dienst werd 
+preventief uit bedrijf gehaald om ernstige beveiligingslekken te verhelpen.

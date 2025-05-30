@@ -1,0 +1,27 @@
+20
+Wet Bewaarplicht buiten werking
+Operators moeten hun verkeers- en locatiegegevens bewaren. Dit zijn gegevens die ontstaan bij het gebruik van 
+telecommunicatienetwerken en -diensten. Zulke gegevens hebben geen betrekking op de inhoud van de bood-
+schappen, maar wel op bijvoorbeeld het tijdstip van verzenden, de locatie waar de zender zich bevond of de 
+geadresseerde. De Wet Bewaarplicht (Wbt) ligt hieraan ten grondslag.  
+De aandacht van Agentschap Telecom heeft zich in 2014 vooral gericht op nieuwe aanbieders. De markt van (tele)
+communicatiediensten aanbieders is voortdurend in verandering, bij vooral de kleinere aanbieders. Bij 110 aanbie-
+ders is een initiële controle uitgevoerd om daarmee de aanbieders te wijzen op de verplichtingen en bij onvoldoende 
+naleving bij de bezochte aanbieders afspraken te maken over de acties die nodig zijn om compliant te zijn.
+In 2014 heeft het Europese hof de richtlijn waarmee de Nederlandse Wet bewaarplicht is geïmplementeerd ongeldig 
+verklaard. Op 11 maart 2015 is de Wbt door een Nederlandse voorzieningenrechter buiten werking gesteld. Per direct 
+heeft Agentschap Telecom haar toezicht op de buiten werking gestelde onderdelen van de Telecommunicatiewet 
+gestaakt. De buitenwerkingstelling van de Wbt betekent dat de artikelen van die wet niet langer kunnen worden 
+toegepast. Dit houdt in dat aanbieders niet meer gehouden zijn de telecommunicatiegegevens, opgenomen in 
+bijlage behorende bij artikel 13.2a van de Telecommunicatiewet, te bewaren. Ook houdt dit in dat alle gegevens die 
+bewaard werden in het kader van de Wbt vernietigd moeten worden.
+De buitenwerkingstelling van de bewaarplicht raakt de verwerking van verkeers- en locatiegegevens op grond van 
+de Europese privacyrichtlijn niet. Deze richtlijn is onder andere geïmplementeerd in de artikelen 11.5, 11.5a en 11.13 
+van de Telecommunicatiewet. Hierop blijft Agentschap Telecom toezien. Op grond van deze wetgeving mogen 
+aanbieders verkeersgegevens opslaan en verwerken voor bedrijfsdoeleinden. Uitgangspunt is dat verkeersgegevens 
+verwijderd of geanonimiseerd worden als ze niet meer nodig zijn. In 2015 onderzoekt Agentschap Telecom of er 
+geen gegevens meer bewaard worden die uitsluitend op grond van de Wbt bewaard mochten worden.
+De minister van Veiligheid en Justitie heeft aangegeven met een nieuw wetsvoorstel te komen voor de opvolger van 
+de Wbt.
+Er is sprake van een forse daling van het aantal 
+graafschades

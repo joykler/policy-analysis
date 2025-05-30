@@ -1,0 +1,28 @@
+Staat van de Ether 2014 11
+Gedrag beller
+Zowel TNO als Agentschap Telecom concluderen in het eerder genoemde onderzoek dat ook het gedrag van een beller de 
+slagingskans van een mobiele noodoproep kan beïnvloeden. Bellers kunnen zelf de kans op een geslaagde noodoproep 
+vergroten. Zo kan het zinvol zijn om te verplaatsen (eventueel enkele meters) of te veranderen van houding. Een beller 
+kan ook proberen met een ander toestel te bellen. Het type toestel is immers ook van invloed op de slagingskans van een 
+noodoproep. Hetzelfde geldt voor het reguliere bellen en mobiel internetten.  
+ 
+Kwaliteit van het mobiele toestel 
+Mobiele toestellen zijn er in soorten en maten. Uit onderzoek van Agentschap Telecom blijkt dat er een grote variatie is 
+in de gebruikte materialen, in de kwaliteit van de antennes en de wijze waarop deze antennes in het toestel zijn 
+ingebouwd.  Dit betekent dat de gevoeligheid van de telefoon kan variëren naarmate de telefoon op een andere wijze 
+gebruikt wordt. Daardoor kan het gebeuren dat er op een en dezelfde locatie met de ene telefoon wel gebeld kan worden 
+en met de andere niet. Vanaf 2016 geldt er een nieuwe Europese richtlijn waardoor er  onder andere minimumeisen 
+gesteld kunnen worden aan de ontvangstgevoeligheid van een mobiele telefoon: de ‘radioapparaten richtlijn’ (RED).  
+Vergelijkingresultaat mobiele toestellen
+103
+102
+101
+100
+99
+98
+97
+Drive
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+test 
+mobiel
+Relatieve gevoeligheid van de telefoons ten opzichte van het gemiddelde gevoeligheidsniveau (stippellijn) van alle geteste toestellen

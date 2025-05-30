@@ -1,0 +1,26 @@
+Rijkswegtunnels tot 2013 (gesorteerd op jaar van openstelling) 
+Tunnel (en bijzonderheden) Gelegen Opening Lengte (m)
+1 Velsertunnel A9 1957 768
+2 Coentunnel (renovatie) A10 1966 587
+3 1ste Schipholtunnel A4 1966 650
+4 1ste Beneluxtunnel (A+B buis) A4 1967 795
+5 Heinenoordtunnel A29 1968 614
+6 Vlaketunnel (renovatie) A58 1975 327
+7 Drechttunnel A16 1977 569
+8 Botlektunnel A15 1980 528
+9 Zeeburgertunnel A10 1990 580
+10 Noordtunnel (particulier ING) A15 1992 536
+11 Wijkertunnel A22 1997 685
+12 2e Schipholtunnel A4 1999 590
+13 2e Beneluxtunnel (D + E buis) A4 2002 902
+14 Sijtwendetunnel N14 2003 1.775
+- Vliettunnel 1.075
+- Parktunnel  300
+- Spoortunnel  400
+15 Burgemeester Thomassentunnel N15 2004 1.135
+16 Roertunnel A73 2008 2.300
+17 Swalmentunnel A73 2008 400
+18 Leidsche Rijntunnel A2 2012 1.650
+19 2e Coentunnel A10 2012 660
+Particuliere tunnel
+20 Westerscheldetunnel N62 2003 6.650

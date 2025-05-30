@@ -1,0 +1,36 @@
+Ambtenaren
+In dienst getreden ambtenaren naar schaal 
+Schaal 2014 2013 2012 2011 2010
+1 t/m 5 1 1 0 0 0
+6 t/m 9 40 3 1 0 4
+10 en 11 123 50 43 39 26
+12 t/m 14 120 16 25 15 11
+15 t/m 19 18 4 3 2 2
+Totaal 302 74 72 56 43
+In dienst getreden ambtenaren naar geslacht en schaal 
+Mannen Vrouwen Totaal
+Schaal 2014 2013 2014 2013 2014 2013
+1 t/m 9 8 1 33 3 41 4
+10 en 11 58 21 65 29 123 50
+12 t/m 19 81 13 57 7 138 20
+Totaal 147 35 155 39 302 74
+| 25 |
+Uit dienst getreden ambtenaren naar geslacht en schaal 
+Mannen Vrouwen Totaal
+Schaal 2014 2013 2014 2013 2014 2013
+1 t/m 9 20 6 32 25 52 31
+10 en 11 28 19 14 12 42 31
+12 t/m 19 76 54 16 20 92 74
+Totaal 124 79 62 57 186 136
+Reden van uitdiensttreding ambtenaren
+Mannen Vrouwen Totaal
+Schaal 2014 2013 2014 2013 2014 2013
+(Vervroegde) pensionering 41 53 16 26 57 79
+Einde tijdelijke aanstelling 5 11 8 12 13 23
+Overlijden 6 1 1 0 7 1
+Arbeids ongeschiktheid 0 1 0 3 0 4
+Overgang binnen 45 0 18 3 63 3
+Rijksdienst
+Ontslag op eigen verzoek 25 13 16 12 41 25
+Overig 2 0 3 1 5 1
+Totaal 124 79 62 57 186 136

@@ -1,0 +1,52 @@
+Staat van de Ether 2014 31
+Wifi 
+De bekendste vergunningsvrije toepassing is WiFi. Steeds 
+meer apparaten worden er op aangesloten: smartphones, 
+printers, laptops, televisies, tablets, afstandsbedieningen. 
+In  huishoudens van twee of meer personen zijn vaak al 
+rond de 10 draadloze apparaten op een WiFi-router 
+aangesloten. En dat aantal zal, zeker met de introductie 
+van het ‘internet of things’ nog sterk groeien. De meest 
+gebruikte frequentie voor WiFi-routers is de 2,4 GHz band. 
+In woonwijken en stadscentra is het gebruik van deze band 
+al zo intensief, dat meer dan de helft van de gebruikers 
+problemen ondervindt. Dat kan zich uiten in trage of 
+onderbroken verbindingen.  
+ 
+Uit onderzoek van het agentschap blijkt dat de verbinding 
+aanzienlijk verbetert bij overschakeling naar een andere 
+frequentie: de 5 GHz. De meeste moderne dualband-rou-
+ters bieden al de mogelijkheid zowel de 2,4 GHz als de 
+5GHz frequentie te gebruiken. Voorwaarde daarbij is 
+natuurlijk wel dat de draadloze apparaten die er op 
+Afbeeldingen calculerend gedrag van een regionale commerciële omroep aangesloten worden ook kunnen werken op deze 
+frequentie. Bij draadloze apparatuur die de laatste jaren 
+op de markt is gebracht is dat vaak het geval. 
+   
+De twee bovenstaande afbeeldingen laten een trapsge - Uit het onderzoek blijkt dat er ruim voldoende capaciteit 
+wijze vermindering in veldsterkte voorafgaand aan de beschikbaar is in de 5 GHz band. Er is bovendien een veel 
+inspectie zien en een trapsgewijze toename in veldsterkte grotere bandbreedte beschikbaar waardoor een snellere 
+na uitvoering van de inspectie. Agentschap Telecom is en betrouwbaarder verbinding mogelijk is. In Europees 
+hierover in gesprek met de diverse vergunninghouders en verband bestaat de intentie om de beschikbare frequen-
+brancheorganisaties. tieruimte voor WiFi in de 5 GHz band op termijn uit te gaan 
+breiden om de snelle groei bij te houden. 
+Vergunningsvrij gebruik 
+Er verschijnt steeds meer draadloze apparatuur op de 
+markt die zonder vergunning gebruikt mag worden. 
+Voorbeelden zijn deurbellen, startonderbrekers, bewe-
+gingsmelders, barcodescanners, hoofdtelefoons, etc. Deze 
+apparatuur maakt veelal gebruik van de 2,4 GHz frequen-
+tie en heeft een beperkt zendvermogen. Desalniettemin 
+kunnen ze wel degelijk storing ondervinden, of andere 
+toepassingen verstoren. In 2014 ontving Agentschap 
+Telecom 209 storingsmeldingen die te maken hadden met 
+vergunningsvrij gebruik. Dat is bijna een kwart van het 
+totaal aantal storingsmeldingen.
+Hoewel dergelijke verstoringen in principe buiten de 
+verantwoordelijkheid van Agentschap Telecom vallen, 
+behandelt het agentschap in voorkomende gevallen –en 
+steeds meer- toch verstoringen in dit segment. Met name 
+daar waar de verstoring maatschappelijke of economische 
+impact heeft. Dat was in 2014 bijvoorbeeld het geval in 
+Dedemsvaart. Zie ook het interview over dit onderwerp op 
+pagina 32.

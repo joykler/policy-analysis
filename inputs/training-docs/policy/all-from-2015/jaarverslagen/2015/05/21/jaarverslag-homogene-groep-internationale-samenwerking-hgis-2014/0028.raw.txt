@@ -1,0 +1,45 @@
+Begroting/beleidsterrein/artikel/omschrijving
+Begroting 2014 Mutatie Realisaties 2014
+Totaal wv. ODA Totaal wv. ODA Totaal wv. ODA
+IXB Financiën
+01 Belastingen
+01.03.01 Belastingdienst; eigen personeel (attachés) 1.057 0 0 1.057
+01.04.01 Belastingdienst; ICT materieel (attachés) 376 0 0 376
+04 Internationale betrekkingen
+04.50.01 Deelname aan internationale instellingen; Mult. Ontw. Banken
+79.753 79.753 -26.889 -26.889 52.864 52.864
+en Fondsen
+52.01 Technische assistentie  940 0 940
+10.20 Nominaal en onvoorzien (attachés)
+21.01.01 Algemeen/apparaat (attachés) 1.085 0 0 1.085
+Totaal  82.271 79.753 -25.949 -26.889 56.322 52.864
+X Defensie
+01 Opdracht inzet
+01.01.01 Crisisbeheersingsoperaties (inclusief contributies) 231.291 0 231.291
+02 Taakuitvoering Zeestrijdkrachten
+02.01.01 Gereedstelling en instandhouding commando ZSK 4.450 0 4.450
+03 Taakuitvoering Landstrijdkrachten
+03.01.01/02 Gereedstelling en instandhouding commando LAS 10.450 0 10.450
+04 Taaksuitvoering Luchtstrijdkrachten
+04.01.01 Gereedstelling en instandhouding commando LSK 22.000 0 22.000
+05 Taakuitvoering Koninklijke Marechaussee
+05.02.33 Operationele eenheden Koninklijke Marechaussee 16.000 0 16.000
+06/07 Overige (investeringen)  2.543 0 2.543
+08 Ondersteuning krijgsmacht door CdO Dienstencentra
+08.02.33 Ondersteuning operationele eenheden  10.700 0 10.700
+08.02.34 Apparaatsuitgaven; Attachés 18.398 -548 0 17.850
+10 Centraal apparaat  635 0 635
+Totaal  18.398 0 297.521 0 315.919 0
+XII Infrastructuur en Milieu
+11.01 Algemeen waterbeleid (Partners voor Water) 10.500 1.288 0 11.788
+17.01 Luchtvaart  1.015 -54 0 961
+18.01 Scheepvaart  925 -56 0 869
+19 Klimaat
+19.02 Klimaat; Int. Beleid, coordinatie en samenwerking 5.774 -1.285 0 4.489
+19.02 Klimaat; Int. Beleid, coordinatie en samenwerking/CDM 2.806 57 0 2.863
+23.01 Meteorologie en seismologie (contributie WMO) 736 27 138 8 874 35
+26.01 Bijdrage infrafonds  2.528 0 2.528
+98.01 Apparaatsuitgaven (attachés personeel) 2.255 -601 0 1.654
+98.02 Apparaatsuitgaven (attachés materieel)  257 0 257
+Totaal  24.011 27 2.272 8 26.283 35
+28

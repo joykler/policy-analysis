@@ -1,0 +1,48 @@
+Staat van de Ether 2014 41
+Onderzoek naar zonnepanelen
+Het aantal geplaatste zonnepanelen is in 2014 opnieuw 
+toegenomen. Er kwam ruim 40 megawatt aan panelen 
+bij. De grootste groei, ruim 70 procent, vindt plaats bij de 
+huishoudens. Ruim 1200 Nederlandse bedrijven houden 
+zich bezig met zonne-energie.
+Om de energie die de zonnepanelen opvangen, om te 
+zetten in stroom wordt een omvormer gebruikt. Deze 
+kunnen voor storing in de ether zorgen, met name op 
+frequenties tussen de 0,5 en 30 MHz. Onder andere 
+defensie, luchtvaart en maritieme sector maken gebruik 
+van deze frequenties. Om te voorkomen dat hier 
+problemen ontstaan heeft Agentschap Telecom acht 
+omvormers van zonnepanelen onderzocht. Zeven 
+hiervan bleken technisch in orde en geen storing in de 
+ether te veroorzaken. De andere gaf op 10 Megahertz een 
+lichte overschrijding. Agentschap Telecom heeft hier 
+corrigerende maatregelen genomen.  
+Onderzoek naar adapters  
+Overige onderzoeken 2014 
+Met de inwerkingtreding van de Radioapparaten richtlijn 
+kan de Europese Commissie het leveren van een universele • Meldkameronderzoek
+telefoonadapter (telefoonlader) per 2017 verplicht stellen. • Onderzoek naar storende weerstations
+Deze adapter moet zorgen voor een reductie van afval, • Onderzoek naar innovatieve producten
+maar moet ook fabrikanten de kans geven te concurreren. • Universele adapters
+Dit is een kans voor de markt om met nieuwe innovatieve • Onderzoek naleving “Bruine vloot”
+ideeën en goedkopere productie processen te komen en • Rijkswaterstaat en maritiem frequentiegebruik
+gebruikers te bedienen met goede universele adapters. • Onderzoek naar conformiteit bij rondvaartboten
+Een risico daarbij is dat bij deze toestroom ook nieuwe • AIS
+merken zitten die concurreren op prijs door de kwaliteit • Omvormers van zonnepanelen
+van het product te verlagen. Die mindere kwaliteit kan ook • R&TTE onderzoek naar onbemande luchtvaar- 
+de kans op verstoring beïnvloeden. tuig voor civiel gebruik
+• Bestrijding van illegale apparatuur: jammers
+Agentschap Telecom controleert elektrische en elektroni- • Toezicht op het antenneregister
+sche apparaten op de vereisten waaraan deze moeten • Storingsmeldingen
+voldoen. Dit betreft de Europese regelgeving op het gebied • Draadloze microfoons in de 800 MHz band
+van EMC en R&TTE (Elektromagnetische compatibiliteit en • Personal Locator Beacons
+Radio & Telecommunication Terminal Equipment). • Inhouse bekabeling irt Kabeltelevisie en LTE
+• Onderzoek DAB dat Telecompaper in opdracht  
+Agentschap Telecom heeft in 2014 een administratief  van AT heeft uitgevoerd
+onderzoek gedaan naar adapters voor telefoons. Daarbij • Onderzoek zorg en industrie door    
+werd gekeken naar de documentatie die bij de adapters  Rijksuniversiteit Groningen in opdracht van  
+geleverd werd.  In totaal zijn 20 apparaten gevorderd met  Agentschap Telecom
+de bijbehorende documenten. Met die documenten heeft • WiFi onderzoek uitgevoerd door Strict in   
+het agentschap zich ook kunnen oriënteren op de  opdracht van Agentschap Telecom
+normen die zijn gebruikt in de conformiteitsbeoordeling. 
+In de controle zijn geen afwijkingen aangetroffen.

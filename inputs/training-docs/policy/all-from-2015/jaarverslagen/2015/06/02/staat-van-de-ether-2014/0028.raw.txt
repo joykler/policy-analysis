@@ -1,0 +1,50 @@
+Staat van de Ether 2014 27
+Internationaal track- en tracesysteem   
+Als vliegtuigen boven de oceanen en polaire gebieden 
+vliegen, komen ze buiten het bereik van de bestaande 
+netwerken. Dat maakt dat ze moeilijk te traceren zijn. 
+Binnen diverse VN-commissies wordt nu gewerkt aan 
+een track- en trace systeem voor de luchtvaart. De 
+International Civil Aviation Organization (ICAO) is gestart 
+met een Global Aeronautical Distress and Safety System 
+(GADSS), die alle onderdelen van de vlucht onder alle 
+omstandigheden adresseert. Alle luchtvaart maatschap-
+pijen worden nu al vanuit de International Air Transport 
+Association (IATA) dringend geadviseerd voor het einde 
+van dit jaar aangesloten te zijn bij één van de bestaande 
+track en trace systemen. Wereldwijd wordt gezocht naar 
+verbetering van de track- en trace mogelijkheden om te 
+komen tot Global Flight Tracking. 
+Agentschap Telecom is op nationaal, Europees en 
+mondiaal niveau druk doende om hier voldoende 
+spectrum voor vrij te spelen. Tijdens de komende World 
+Radio Conference 2015 (WRC-15) kan op mondiaal niveau 
+daarvoor groen licht worden gegeven. 
+Invoering van het 8,33 kHz Drones  
+frequentieraster in de VHF 
+Het Nederlandse luchtruim wordt steeds meer het 
+luchtvaartband  domein van kleine en middelgrote onbemande lucht-
+vaartuigen, oftewel ‘drones’. Een drone is een luchtvaart -
+Er is al jaren sprake van schaarste in de VHF-band voor de toestel zonder piloot aan boord. Dit betekent niet dat 
+luchtvaartsector. In Europa zijn niet meer genoeg commu- deze toestellen niet worden bestuurd. Besturing gebeurt 
+nicatiefrequenties beschikbaar om bijvoorbeeld nieuwe op afstand. De bestuurder kan zich in de nabijheid 
+luchtverkeersleidingssectoren te openen en daarmee bevinden, maar ook op duizenden kilometers afstand. 
+tegemoet te komen aan de groei van het luchtverkeer. Die Drones maken met name gebruik van vergunningsvrije 
+groei bedraagt op Schiphol ongeveer 4% per jaar, tot een frequentieruimte (2,4 en 5,8 GHz). De groei van het 
+maximum van 500.000 vliegbewegingen per jaar in 2020. aantal drones is enorm. Het agentschap krijgt vragen of 
+Dat levert ‘verstoppingen’ op in de beschikbare communi- gebruik van hogere zendvermogens voor videoverbindin-
+catiefrequenties. Dit kan tot gevaarlijke situaties leiden, of gen is toegestaan. Dit kan niet in de frequentiebanden 
+vertragingen in de afwikkeling van het luchtverkeer. De voor vergunningsvrije toepassingen, want daarmee 
+luchtvaart gaat daarom een kleiner frequentieraster worden de bestaande toepassingen gestoord. 
+gebruiken, van 25 kHz naar 8.33 kHz. Het aantal beschik- Agentschap Telecom zet zich er voor in om de frequentie-
+bare frequenties wordt daardoor bijna drie keer zo groot. behoefte voor drones te faciliteren. Voorkomen moet 
+In 2014 zijn de laatste voorbereidingen getroffen tot de worden dat de beschikbare frequentieruimte achterblijft 
+invoering van dit kleinere raster. Dat levert meer ruimte op bij de groeiende vraag van de markt.  
+in het spectrum. Vanaf 1 januari 2015 zullen alle vliegtuig-
+maatschappijen en onderhoudsbedrijven hun operationele 
+communicatie in het nieuwe frequentieraster moeten 
+uitvoeren. Hiervoor zijn wel aanpassingen aan de 
+apparatuur noodzakelijk. In lijn met de plannen van het 
+Ministerie van Infrastructuur en Milieu heeft Agentschap 
+Telecom de vergunningen van de diverse gebruikers in 
+overeenstemming gebracht met de verordening.

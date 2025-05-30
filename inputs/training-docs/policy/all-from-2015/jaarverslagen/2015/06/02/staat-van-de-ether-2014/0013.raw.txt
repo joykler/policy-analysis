@@ -1,0 +1,54 @@
+12
+Radioapparaten richtlijn (RED)  
+Vanaf 2016 geldt er een nieuwe Europese richtlijn die onder andere minimumeisen stelt aan de ontvangstgevoelig-
+heid van mobiele telefoons: de ‘radioapparaten richtlijn’ (RED). De RED is de opvolger van de R&TTE-richtlijn. Deze 
+R&TTE richtlijn dateert van 1999 en is aan vervanging toe. Want met alle nieuwe apparatuur en alle nieuwe 
+mogelijkheden is het telecomlandschap sindsdien drastisch veranderd. Agentschap Telecom en het ministerie van 
+Economische Zaken hebben volop meegedraaid in de Brusselse discussies in het kader van de totstandkoming van 
+de RED en wisten daarmee op diverse aspecten, waaronder op het gebied van de veiligheid en de ontvangstgevoe-
+ligheid van mobiele telefoons, een stempel te drukken op de inhoud van deze richtlijn.
+4G kan verstoring veroorzaken op het 
+Elke telefoon, draadloze muis of automatische autodeuropener die in Europa wordt verkocht, moet voldoen aan de 
+kabelsignaal, maar andersom blijkt dat ook te 
+eisen die deze richtlijn stelt. Alleen dan mag het de zogenoemde CE-markering voeren. Die CE-markering geeft aan 
+dat het radio apparaat voldoet aan de Europese regels die nodig zijn om de publieke belangen te beschermen. Deze gelden: het televisiesignaal kan ook leiden tot 
+regels waarborgen bijvoorbeeld dat het gebruik veilig en niet schadelijk voor de gezondheid is. En bovendien dat 
+storing op het 4G-netwerk
+het andere apparatuur niet stoort. Agentschap Telecom houdt er toezicht op dat fabrikanten deze eisen naleven. 
+Fabrikanten die aan de regels voldoen, kunnen vrij handelen binnen Europa. Maar dat gaat soms mis, zo blijkt uit 
+steekproeven van de hoofdafdeling Toezicht van het agentschap.
+De technische eisen worden gelukkig vaak wel nageleefd, maar naleving van de administratieve eisen schiet te kort. 
+Zo geven bijvoorbeeld niet alle fabrikanten de juiste informatie die bij het apparaat moet worden gevoegd, zoals 
+naam en adres van de fabrikant òf verwijzingen naar normen die gebruikt zijn. Daarom worden de administratieve 
+verplichtingen vereenvoudigd en ontstaat er meer helderheid in de regels. Bovendien komt er meer verantwoorde-
+lijkheid te liggen bij de distributeurs en handelaren. 
+Woning en omgeving kabelbedrijven, maar om bekabeling in het huis van de 
+consument zelf. Kabels van minder goede kwaliteit hebben 
+De oorzaak van slechte ontvangst kan ook gelegen zijn in een slechte afscherming en kunnen leiden tot storing op 
+omgevingsfactoren. De aanwezigheid van dikke betonnen mobiele netwerken in de 800 MHz-band en straks wellicht 
+muren of HR++ glas waar metalen in zijn verwerkt, kunnen in de 700 MHz-band. Dat kan uiteindelijk verminderd 
+hier een negatieve invloed op hebben. Dat geldt bijvoor- bereik en/of capaciteit in een straat, wijk of regio tot gevolg 
+beeld ook voor een dicht beboste woonomgeving.  Voor hebben. Agentschap Telecom adviseert consumenten 
+kritieke plaatsen in en rond het huis is het van belang om goede coax-kabels te gebruiken (dit is een kabel voorzien 
+1
+vooraf al een beeld te hebben van de plekken waar van het kabelkeurmerk ). Dat lost het probleem op. 
+waarschijnlijk wel en niet gebeld kan worden. Desalniettemin verdient het onderwerp, zeker met het oog 
+op toekomstige frequentiewijzigingen als de herbestem-
+ming van de 700 MHz-band, nader onderzoek.
+Bekabeling binnenshuis
+Maar er is meer. Een al bekende zwakke schakel blijkt een 
+groter effect te hebben dan uit eerder onderzoek naar 
+voren kwam. Veel consumenten blijken in hun woning 
+inferieure bekabeling te gebruiken voor hun televisie. 
+Goedkope coax-kabels zijn gevoelig voor het 4G-signaal. 
+Er is een kleine kans dat dit leidt tot storingen op tv. Uit 
+recent onderzoek van Agentschap Telecom blijkt nu  dat 
+hetzelfde principe ‘andersom’ ook geldt: het televisiesig-
+naal dat door de coax-kabels loopt blijkt ook te kunnen 
+leiden tot storing op het 4G-netwerk. De storing doet zich 
+dan voor in de zogenaamde up-link, de frequenties die 
+gebruikt worden van smartphone naar mobiel netwerk.  
+De genummerde signalen rechts in het figuur zijn de stoorsignalen vanuit de 
+binnenhuisbekabeling bij consumenten.
+Bij deze storing gaat het niet om het kabelnetwerk van de 
+1 www.kabelkeur.nl/het-keurmerk/
