@@ -1,0 +1,29 @@
+railvervoer in vogelvlucht 
+hoofdspoor:
+spoorwegennet (kilometers) 3061
+treinkilometers 155 miljoen
+aantal spoorwegondernemingen personenvervoer 8
+reizigerskilometers 17,5 miljard 
+aantal spoorwegondernemingen goederenvervoer 22
+goederentreinkilometers 11 miljoen
+aantal infrastructuurmanagers (vergunningplichtig) 1
+aantal infrastructuurmanagers (overig) 1
+aantal contractaannemers 19
+aantal vervoerders met historisch materieel 4
+aantal keuringsdiensten 10
+aantal personeelstoeleveranciers 11
+aantal exameninstituten 1
+aantal notified bodies 6
+aantal onderhoudsbedrijven 26
+aantal entities in charge of maintenance 16
+aantal vergunninghouders (Nationaal Voertuigenregister 2011) 62
+lokaalspoor:
+2 metronetten (kilometers) 101
+5 interlokale lokaalspoor-/tramnetten (kilometers) 98
+3 stadstramnetten (kilometers) 509
+aantal vervoerregio’s 4
+aantal vervoerders lokaalspoor/tram/metro 6
+kabelbanen:
+aantal kabelbanen 22
+Alle cijfers geven de situatie in 2013 weer.
+62 | Inspectie Leefomgeving en Transport

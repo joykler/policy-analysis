@@ -1,0 +1,47 @@
+De uniformering van de primaire processen en de ontwikkeling, implementatie en het gebruik van een 
+daarop aangepast ICT-instrumentarium is een omvangrijk en complex proces met vele afhankelijkheden. 
+De inspectie hanteert hierbij een programmamatige aanpak met duidelijk omschreven taken en verant-
+woordelijkheden voor zowel de sturing als de uitvoering en implementatie en kiest voor korte en 
+overzichtelijke trajecten. Dit verhoogt de flexibiliteit tijdens de implementatie en een betere aansluiting 
+bij de specifieke wensen van de domeinen. Dit geeft ook invulling aan één van de BIT-regels uit het 
+rapport ‘Grip op ICT’: Faseer de ontwikkeling van het ICT-project zo efficiënt mogelijk en probeer daarbij 
+per fase direct bruikbare producten op te leveren. Voorbeelden van deze aanpak bij de inspectie zijn de 
+agile-werkwijze die wordt toegepast bij de ontwikkeling van een aantal ICT-bouwstenen en de hierboven 
+genoemde wasstraten voor elk bedrijfsproces.
+documentmanagement 
+De overheid wil in 2017 volledig digitaal werken. De inspectie heeft hiertoe al de nodige stappen gezet 
+waarbij eerst de processen worden geüniformeerd (wasstraten) en het proces gebruik maakt van een 
+aantal ICT-bouwstenen. Een van deze bouwstenen is een documentmanagement systeem (DMS) waarbij 
+versiebeheer en toegankelijkheid van de documenten goed geregeld is. 
+Naast de noodzakelijke digitalisering van processen is automatisering van documentstromen nodig om 
+efficiënter te kunnen werken. De automatisering zal leiden tot een daling van het aantal menselijke 
+handelingen en tot een krimp leiden van de afdeling Documentmanagement.
+informatiebeveiliging 
+Informatiebeveiliging blijft de komende jaren sterk verankerd in de organisatie. De beschikbaarheid, 
+integriteit en vertrouwelijkheid van informatie is een voorwaarde voor het functioneren van de inspectie 
+en draagt bij aan het beeld van een betrouwbare overheid. 
+In het proces van ontwikkeling van de nieuwe ICT-omgeving krijgt informatiebeveiliging de vereiste 
+aandacht. De inspectie richt zich de komende jaren op het implementeren van de richtlijnen voor 
+informatiebeveiliging (BIR/VIR-BI/BVR). Vooral het verder implementeren van het tactisch normenkader 
+van de BIR, het verder toewerken naar een Information Security Management System (ISMS) en het 
+inbedden in de PDCA cyclus zal komende jaren veel prioriteit krijgen. Documentatie van ‘comply or 
+explains’ zullen verder geactualiseerd en onderhouden worden. Uiteindelijk speelt de medewerker de 
+belangrijkste rol bij de werking van alle maatregelen rond informatiebeveiliging. De activiteiten in de 
+komende jaren zullen om deze redenen gericht zijn op de informatieverwerkende processen, maar ook 
+gericht worden op bewustwording bij de medewerkers. Dit is ook belangrijk bij het verwerken van 
+privacygevoelige informatie en het voldoen aan de richtlijnen van de Wet Bescherming 
+Persoonsgegevens.
+middelen en faciliteiten 
+huisvesting
+In lijn met het programma ‘Compacte Rijksdienst’ concentreert de inspectie haar huisvesting zoveel 
+mogelijk en laat de facilitaire voorzieningen gebundeld door shared services organisaties uitvoeren.  
+De inspectie maakt daarbij gebruik van hoofdkantoren per domein en door het land verspreide neven-
+vestigingen voor inspectiewerkzaamheden op locatie. 
+De inspectie levert in de periode 2015-2018 haar bijdrage aan de implementatie van de masterplannen 
+rijkshuisvesting waarvan het doel is om per provincie rijksbreed tot een optimale huisvesting te komen, 
+waaronder minder benodigde vierkante meters per medewerker. De inspectie voorziet tot 2018 
+tenminste 8 verhuizingen van organisatieonderdelen. Zo verhuist aan het eind van 2015 het domein 
+Scheepvaart van Rotterdam naar Zwijndrecht en verhuist het domein Rail en Wegvervoer binnen Utrecht.
+Bij iedere verhuisbeweging of verbouwing past de inspectie, afhankelijk van de mogelijkheden van de 
+locatie, de principes van Het Nieuwe Werken (HNW) toe. 
+106 | Inspectie Leefomgeving en Transport

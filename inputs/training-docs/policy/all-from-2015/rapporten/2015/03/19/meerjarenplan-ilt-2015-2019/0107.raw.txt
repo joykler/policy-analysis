@@ -1,0 +1,41 @@
+arbo
+De inspectie volgt de rijks- en IenM-brede kaders op het gebied van het arbobeleid en de uitvoering 
+daarvan. De inspectie kent een groot aantal taken waarbij specifieke risico´s aan de orde zijn met een 
+grote variëteit. In de afgelopen twee jaar zijn alle taken en de veiligheidsrisico´s opnieuw in kaart gebracht 
+door het inspectiebreed uitvoeren van risico-inventarisaties en evaluaties (RIE’s). Mede op basis van deze 
+RIE’s werkt de inspectie aan het verhogen van de veiligheid en het versterken van de veiligheidscultuur. 
+klachten
+Klachten van burgers over het optreden van de inspectie of haar medewerkers worden behandeld en 
+beoordeeld op basis van een speciaal daarop toegesneden procedure. De inspectie heeft dit proces 
+buiten het reguliere proces gepositioneerd om een goede beoordeling te waarborgen.
+informatie 
+processen en ICT
+Een goed functionerende informatiehuishouding is onmisbaar om de taken van de inspectie efficiënt en 
+effectief te kunnen uitvoeren. Het uitgangspunt dat de inspectie daarbij hanteert is dat zij dezelfde 
+dingen op dezelfde manier doet. Dit uit zich in de eerste plaats in een eenduidige inrichting en uitvoering 
+van de bedrijfsprocessen (uniformering van de processen). Deze processen zullen meer en meer worden 
+ondersteund door een beperkt aantal generieke informatiesystemen. Als principe geldt: voor elke functie 
+één ICT-systeem. Daarvoor worden generieke ICT-bouwstenen ingericht, waarmee voor de inspectie een 
+nieuwe ICT-omgeving ontstaat.
+Ook werkt de inspectie er aan om de data die in de bedrijfsprocessen omgaan, eenduidig en betrouwbaar 
+te krijgen en te houden. De gegevens moeten voldoen aan de wettelijke verplichtingen (bijvoorbeeld 
+voor IenM-registers en koppelingen met basisregistraties als GBA, NHR, BAG en basisregistratie voer-
+tuigen) en moeten uniform worden vormgegeven om ontsluiting en uitwisseling (o.a. Inspectieviews) 
+goed mogelijk te maken. De inspectie zal het gegevensbeheer versterken om de gewenste koppelingen 
+naar de buitenwereld te realiseren.
+Voor de ondersteuning van de samenwerking tussen de rijksinspecties is het stelsel van Inspectieviews 
+ontwikkeld. Dit digitale uitwisselingssysteem biedt toezichthouders en vergunningverleners binnen de 
+overheid de mogelijkheid om gegevens van andere inspectiediensten in te zien ten behoeve van hun 
+eigen bedrijfsprocessen. Dit versterkt risicogericht toezicht en gezamenlijk optreden door de overheid. 
+Inspectieview Bedrijven (enkelvoudig) en Inspectieview Milieu (enkelvoudig) zijn inmiddels operationeel. 
+In 2015 worden de Inspectieviews Bedrijven (bulk), Milieu (bulk), Binnenvaart (enkelvoudig) en een aantal 
+specifieke koppelingen in beheer genomen. De inspecteur-generaal van de ILT is binnen de Inspectieraad 
+portefeuillehouder van het stelsel van Inspectieviews.
+De inspectie heeft ervoor gekozen om in elk domein de bedrijfsprocessen, de informatiesystemen en de 
+data geïntegreerd aan te pakken. Deze aanpak krijgt vorm in ‘wasstraten’. In een wasstraat wordt het 
+bestaande proces aangepast aan een vastgesteld geüniformeerd procesmodel, worden de bestaande 
+ICT-systemen waar mogelijk vervangen door de generieke ICT-bouwstenen en worden de gegevensver-
+zamelingen eenduidig ingericht. In vrijwel alle domeinen lopen inmiddels wasstraatprojecten, zoals 
+bodemtoezicht, toezicht koopvaardij (vlaggenstaatcontrole), defensietoezicht, toezicht vuurwerk en het 
+luchtvaartuigenregister. In 2015 zullen nieuwe wasstraten starten.
+ Meerjarenplan 2015-2019 | 105
