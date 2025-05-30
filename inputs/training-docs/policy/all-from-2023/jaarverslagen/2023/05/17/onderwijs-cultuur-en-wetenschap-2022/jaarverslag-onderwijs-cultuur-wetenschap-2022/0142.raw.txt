@@ -1,0 +1,50 @@
+10. Jaarverantwoording agentschappen per 31 december 2022
+10.1 Dienst Uitvoering Onderwijs
+Inleiding
+De Dienst Uitvoering Onderwijs (DUO) is de uitvoeringsorganisatie van de 
+Rijksoverheid voor het onderwijs. DUO levert producten en diensten op 
+het terrein van bekostiging van instellingen, financiering van studenten, 
+examens, informatievoorziening alsmede diensten gericht op de 
+verbetering van de verbinding tussen beleid en uitvoering, waarbij de 
+burger en instellingen centraal worden gesteld. Daarnaast verricht DUO 
+werkzaamheden voor overige departementen en derden. Onderdeel van 
+DUO is de Shared Service Organisatie Noord (SSO-Noord) waarbinnen 
+het inkoopcentrum en het Overheidsdatacenter zijn ondergebracht, welke 
+dienstverlening verricht onder meer voor het concern OCW en haar buiten­
+diensten en andere overheidsorganen.
+Tabel 73 Staat van baten en lasten van het agentschap DUO (bedragen x € 1.000)
+Omschrijving Vastgestelde Realisatie Verschil realisatie Realisatie t-1
+begroting en vastgestelde 
+begroting
+Baten
+Omzet 353.420 414.009 60.589 389.635
+waarvan omzet moederdepartement 269.766 332.798 63.032 307.380
+waarvan omzet overige departementen 78.724 75.686 ‒ 3.038 77.186
+waarvan omzet derden 4.930 5.525 595 5.069
+Rentebaten 0 147 147 0
+Vrijval voorzieningen 0 179 179 0
+Bijzondere baten 0 0 0 0
+Totaal baten 353.420 414.335 60.915 389.635
+Lasten
+Apparaatskosten 324.495 384.984 60.489 356.440
+- Personele kosten 229.208 263.248 34.040 241.366
+waarvan eigen personeel 191.720 200.813 9.093 187.325
+waarvan inhuur externen 30.386 53.530 23.144 47.591
+waarvan overige personele kosten 7.102 8.905 1.803 6.450
+- Materiële kosten 95.287 121.736 26.449 115.074
+waarvan apparaat ICT 26.335 36.531 10.196 33.955
+waarvan bijdrage aan SSO’s 24.350 25.958 1.608 24.904
+waarvan overige materiële kosten 44.602 59.247 14.645 56.215
+Rentelasten 100 51 ‒ 49 74
+Afschrijvingskosten 27.225 28.522 1.297 32.715
+- Materieel 13.000 11.809 ‒ 1.191 14.225
+waarvan apparaat ICT 12.500 11.281 ‒ 1.219 13.698
+waarvan overige materiële afschrijvingskosten 500 528 28 527
+- Immaterieel 14.225 16.713 2.488 18.490
+Overige lasten 1.500 1.060 ‒ 440 622
+waarvan dotaties voorzieningen 1.500 1.060 ‒ 440 622
+waarvan bijzondere lasten 0 0 0 0
+Totaal lasten 353.320 414.617 61.297 389.851
+Saldo van baten en lasten gewone bedrijfsuitoefening 100 ‒ 282 ‒ 382 ‒ 216
+Agentschapsdeel Vpb-lasten 100 30 ‒ 70 0
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 142

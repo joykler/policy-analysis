@@ -1,0 +1,53 @@
+vanwege diverse redenen (nog) niet kunnen worden ontsloten via de RBAC-
+tooling heeft DUO separate monitoring ingericht. DUO heeft aan de hand 
+van criteria een lijst opgesteld met systemen die alsnog worden 
+aangesloten op de RBAC-tooling.
+Dit zijn essentiële mijlpalen voor de beheersing van autorisatiebeheer. Het 
+project autorisatiebeheer is met het bereiken van deze mijlpalen in de fase 
+gekomen van overdracht en borging in de lijnorganisatie van DUO.
+IT-beheersingsmaatregelen Dienst Uitvoering Onderwijs
+De AR heeft in 2021 geconstateerd dat verbeteringen ten aanzien van IT-
+beheersing maatregelen bij DUO nodig zijn. De verbeteringen zijn nodig 
+voor de onderwerpen back-up, recovery, continuïteitsmanagement, 
+wachtwoord beheer en beheer van het SAP-systeem. DUO onderschrijft 
+het belang van een goed IT-beheer en heeft dit in 2022 voortvarend 
+opgepakt.
+DUO heeft meerdere «poetsweken» georganiseerd, waarbij aan de 
+medewerkers de ruimte is gegeven om gericht te werken aan de nodige 
+verbeteringen. Dit heeft gezorgd voor een versnelling in het doorvoeren van 
+verbeteringen, maar ook voor extra bewustzijn voor het belang van een 
+goed IT-beheer binnen de algehele organisatie. DUO heeft een aanzienlijk 
+deel van de bevindingen in 2022 opgelost. Voor een aantal bevindingen 
+geldt dat vanwege de complexiteit een langere doorlooptijd nodig is. DUO 
+heeft de ambitie om aan het eind van het eerste kwartaal van 2023 de 
+resterende bevindingen te hebben opgelost.
+DUO heeft in 2022 goede stappen gezet bij het duurzaam oplossen van 
+bevindingen op het domein van autorisatiebeheer en IT-beheer. Dit heeft 
+een forse inzet van personeel en middelen gevraagd. Het heeft ook meer 
+doorlooptijd gekend dan waar eerder rekening mee werd gehouden. DUO 
+heeft de ambitie om meer proactief te gaan opereren om bevindingen te 
+voorkomen en zal hier verder op inzetten in 2023.
+M&O-beleid subsidies onderwijsinstellingen
+De ADR en de AR hebben bij het jaarverslag 2021 geconcludeerd dat het 
+M&O-beleid voor subsidies aan onderwijsinstellingen ontoereikend was. Zij 
+vonden dat bij een aantal subsidieregelingen de risico-analyses niet of 
+onvoldoende uitgewerkt waren waardoor ook het controlebeleid 
+onvoldoende was uitgewerkt en noodzakelijke aanvullende controlemaat­
+regelen niet genomen waren. Het Ministerie van OCW is eind 2021 al gestart 
+met een verbeterplan voor het M&O-beleid voor subsidies aan onderwijs­
+instellingen. In 2022 is hier verder gevolg aan gegeven door het ontwikkelen 
+van formats voor risico-analyses en controlebeleid en keuzehulpen voor 
+het bepalen van de juiste verantwoordingsinformatie die opgevraagd moet 
+worden. De formats voor risico-analyse en controlebeleid zijn per 
+1 november 2022 ook verplicht en worden betrokken bij de bespreking van 
+nieuwe subsidieregelingen in het Expertise Centrum Subsidies (ECS). Dit 
+heeft geleid tot instrumenten waarmee het M&O-beleid per subsidiere­
+geling effectiever en zichtbaarder kan worden uitgewerkt. De kern van de 
+verbetering is dat voortaan beter wordt uitgeschreven welke voorwaarden 
+in een subsidieregeling zijn opgenomen en welke M&O-risico’s deze 
+voorwaarden met zich meebrengen. Deze M&O-risico’s per subsidievoor­
+waarden worden vervolgens beheerst door (steekproefsgewijs) verant­
+woordingsinformatie over de naleving van de subsidievoorwaarden op te 
+vragen en daar een passend controlebeleid op te formuleren. Hiermee is 
+het verbeterplan volledig uitgevoerd.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 133

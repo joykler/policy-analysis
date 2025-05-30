@@ -1,0 +1,41 @@
+Bijlage 4 Financiële gegevens uit de jaarrekening van onderwijsinstellingen 
+- landelijk en per sector
+Deze bijlage geeft een overzicht van de financiële gegevens uit de jaarreke­
+ningen van onderwijsinstellingen zowel landelijk als per onderwijssector 
+over de periode 2017 t/m 2021. De bron van deze gegevens is de data van 
+de Dienst Uitvoering Onderwijs (DUO) welke via eXtensible Business 
+Reporting Language (XBRL) is aangeleverd door de onderwijsinstellingen. 
+Voor nadere duiding van de cijfers wordt daarbij verwezen naar de 
+Kamerbrief «Financiële Positie van het Onderwijs» van 21 november 2022 
+(Kamerstukken II 2022/23, 33495, nr. 123). Opgemerkt wordt dat er sprake is 
+van afrondingsverschillen en mogelijk nieuwe of her-aanleveringen van 
+jaarstukken van voorgaande jaren waardoor de totalen in de verschillende 
+tabellen niet sluitend zijn.
+De onderwijsinstellingen stellen hun jaarverslagen op nadat het desbetref­
+fende kalenderjaar is afgerond en dienen deze conform de Regeling Jaarver­
+slaggeving Onderwijs vóór 1 juli van het opvolgende jaar in bij het 
+Ministerie van OCW - DUO. Dat betekent dat in 2022 de gegevens over 2021 
+zijn ontvangen. Deze zijn in de overzichten opgenomen. De jaarverslagen 
+over 2022 worden vóór 1 juli 2023 ingediend.
+Gehanteerde definities voor de kengetallen
+Rentabiliteit: De rentabiliteit geeft aan of er sprake is van een positief of 
+negatief financieel resultaat, ook wel exploitatieresultaat genoemd. Dit is 
+de verhouding tussen het financiële resultaat en de inkomsten (resultaat/
+(totaal baten + financiële baten)*100). Onderwijsinstellingen kunnen een 
+positief financieel resultaat realiseren, maar streven geen winst na omdat 
+dit niet past bij hun publieke taak. Het streven is te sturen op een nulpositie 
+voor de rentabiliteit. Als indicatie voor mogelijke financiële risico’s hanteert 
+de Inspectie van het Onderwijs (IvhO) een driejarig resultaat onder nul, 
+een tweejarig resultaat onder de 5 procent of eenmalig onder de 10 procent.
+Solvabiliteit II: De solvabiliteit geeft aan in hoeverre een organisatie in staat 
+is om op korte en lange termijn aan haar schulden te kunnen voldoen. Als 
+specifieke indicatie voor continuïteitsrisico’s wordt gekeken naar de solva­
+biliteit2 ((eigen vermogen + voorzieningen)/totale passiva). Daarbij wordt 
+een signaleringswaarde van 0,3 gehanteerd.
+Liquiditeit: De liquiditeit geeft aan hoeveel geld er beschikbaar is om 
+geplande en onvoorziene uitgaven te kunnen voldoen. Dit wordt berekend 
+door de vlottende activa die over het algemeen bestaan uit liquide middelen 
+en vorderingen, te delen door de kortlopende schulden. Voor kleinere instel­
+lingen in met name het funderend onderwijs wordt daarvoor als signale­
+ringswaarde 0,75 gehanteerd. Voor grote instellingen is dat 0,5.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 198

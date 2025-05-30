@@ -1,0 +1,53 @@
+Toelichting
+De positieve operationele kasstroom (€ 29,0 miljoen) is het saldo 
+ontvangsten moederdepartement, overige departementen en derden 
+(€ 428,5 miljoen). Hier staan uitgaven tegenover aan crediteuren en 
+personeel (€ 399,5 miljoen). De investeringen betreffen investeringen in 
+het rekencentrum en software ten behoeve van de basisdienstverlening 
+evenals investering in zelfontwikkelde software. Het betreft hier software 
+voor de uitvoering van de reguliere dienstverlening binnen DUO. Voor deze 
+investeringen is gebruik gemaakt van de leenfaciliteit. De afwijking ten 
+opzichte van de begroting laat zich verklaren door toegenomen volumes aan 
+zowel omzet- als kostenzijde.
+Doelmatigheid
+Basisindicatoren zijn de kostprijs en kwaliteit per product of dienst. DUO 
+streeft ernaar haar dienstverlening continue te verbeteren. De klanttevre­
+denheid van het digitale kanaal is één van de al bestaande indicatoren die 
+dit zichtbaar maken. DUO bevindt zich in een transitie van een organisatie 
+met een complex systeemlandschap gebaseerd op ad hoc financiering, naar 
+een wendbare ICT-gedreven organisatie waarin onderhoud, modernisering 
+en vervanging structureel gefinancierd worden via Life Cycle Management 
+(LCM). Met de invoering van deze LCM-systematiek gaat DUO van grote 
+eenmalige projectinvesteringen naar structurele investeringen die over 
+langere tijd afgeschreven worden. Dit is zichtbaar gemaakt door de post 
+«vervangingskosten», zijnde de niet activeerbare ontwikkelkosten van de 
+vervangingen en de post «immateriële vaste activa» welke de omvang van 
+het ICT-landschap weerspiegelt.
+DUO wil doelmatig zijn in het gebruik van ICT-systemen, door te sturen op 
+een stabilisering en uiteindelijke daling van de omvang van haar ICT-
+landschap. Dit wil DUO bereiken door «slim» te moderniseren en te 
+vervangen en daarmee te komen tot een onder architectuur ontwikkeld 
+modern, simpel en kleiner ICT-landschap. Ook wil DUO sturen op de stabi­
+lisering van de kosten van onderhoud. Onder onderhoud wordt verstaan 
+datgene wat nodig is voor instandhouding van de geautomatiseerde uitvoe­
+ringsprocessen. DUO wil dit gaan bereiken door (verouderde) systemen 
+tijdig te moderniseren dan wel vervangen. Daarnaast heeft DUO een 
+indicator opgenomen voor het aantonen van doelmatigheid bij overhead.
+Tabel 79 Overzicht doelmatigheidsindicatoren per 31 december 2022
+Omschrijving Generiek Deel Realisatie Vastgestelde 
+begroting
+2019 2020 2021 2022 2022
+Generiek Deel
+Omzet per productgroep (pxq)
+Omzet Bekostiging Instellingen 35,0 36,1 37,7 42,8 37,8
+Omzet Studiefinanciering 92,0 96,5 95,3 106,7 100,8
+1
+Omzet Examendiensten 24,0 16,2 34,9 33,3 24,1
+Omzet Basisregister 35,0 31,2 35,5 33,4 26,6
+Omzet Informatiediensten 7,0 10,3 7,1 10,3 6,3
+Totaal basiscontract excl. LCM 193,0 190,3 210,5 226,5 195,6
+Vervangingskosten n.v.t. 14,9 29,0 35,9 36,2
+Kosten met betrekking tot onderhoud en beheer n.v.t. 30,9 34,2 44,5 41,8
+Immateriële vaste activa (x1 mln.) n.v.t. 46,1 75,4 111,6 113,0
+Overheadkosten t.o.v. de totale kosten (%) n.v.t. 23% 21% 22% 20%
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 149

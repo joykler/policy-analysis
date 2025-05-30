@@ -1,0 +1,54 @@
+2 Primair Onderwijs
+Tabel 119 Balans, staat van baten en lasten en kengetallen primair onderwijs, zonder samenwerkingsverbanden 
+(bedragen x € 1 miljoen)
+Balans 2017 2018 2019 2020 2021
+1 Activa
+1.1 Immateriële vaste activa 0 0 0 0 0
+1.2 Materiële vaste activa 1.514 1.583 1.688 1.765 1.837
+1.3 Financiële vaste activa 242 235 210 200 166
+Totaal vaste activa 1.756 1.819 1.899 1.965 2.004
+1.4 Voorraden 0 0 0 0 0
+1.5 Vorderingen 761 812 851 866 871
+1.6 Effecten 29 31 34 36 44
+1.7 Liquide middelen 2.566 2.583 2.753 2.692 3.166
+Totaal vlottende activa 3.356 3.426 3.638 3.595 4.082
+Totaal activa 5.113 5.245 5.537 5.560 6.086
+2 Passiva
+2.1 Eigen vermogen 3.122 3.124 3.313 3.098 3.552
+Aandeel in het groepsvermogen dat niet aan 
+de rechtspersoon toekomt 0 0 0 0 2
+Totaal van groepsvermogen 3.122 3.124 3.313 3.098 248
+2.2 Voorzieningen 678 727 781 848 920
+2.3 Langlopende schulden 113 121 127 128 109
+2.4 Kortlopende schulden 1.199 1.273 1.315 1.486 1.502
+Totaal passiva 5.113 5.245 5.537 5.560 6.086
+Staat van baten en lasten 2017 2018 2019 2020 2021
+3 Baten
+3.1 Rijksbijdragen 9.483 10.034 10.606 10.911 11.886
+3.2 Overige overheidsbijdragen en-subsidies 294 325 312 359 273
+3.3 College-, cursus-, les- en examengelden 0 0 0 0 0
+3.4 Baten werk in opdracht van derden 9 9 11 11 7
+3.5 Overige baten 379 391 415 413 427
+Totaal baten 10.166 10.759 11.344 11.694 12.594
+4 Lasten
+4.1 Personeelslasten 8.176 8.798 9.109 9.809 9.936
+Afschrijvingen op immateriële en materiële 
+4.2 vaste activa 254 261 280 292 298
+4.3 Huisvestingslasten 735 751 778 821 827
+4.4 Overige lasten 895 940 988 973 1.038
+4.5 Doorbetalingen aan schoolbesturen 7 4 5 3 3
+Verstrekte subsidies 0 0 0 0 0
+Totaal lasten 10.067 10.754 11.160 11.898 12.103
+Saldo Baten en Lasten 99 5 183 ‒ 204 491
+Gerealiseerde herwaardering 0 0 0 0 0
+Financiële baten 13 6 11 7 0
+Financiële lasten 6 7 6 9 0
+5 Financiële baten en lasten 8 0 6 ‒ 2 ‒ 7
+Totaal van resultaat voor belastingen 106 5 189 ‒ 206 485
+6 Belastingen 0 0 0 0 0
+7 Resultaat uit deelnemingen 0 1 0 0 0
+Totaal van resultaat na belastingen 106 6 189 ‒ 206 484
+Aandeel in het geconsolideerde resultaat 
+8 dat niet aan de rechtspersoon toekomt 0 0 0 0 0
+Nettoresultaat na belastingen 106 6 189 ‒ 206 484
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 201

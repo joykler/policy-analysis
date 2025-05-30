@@ -1,0 +1,51 @@
+Totstandkoming niet-financiële verantwoordingsinformatie
+Naast de indicatoren en kengetallen bevat het Jaarverslag ook «overige niet 
+financiële informatie» in de bijlagen van het Jaarverslag. De ADR ziet verbe­
+termogelijkheden ten aanzien van de vastlegging van de totstandkoming 
+van deze bijlagen. Wij nemen deze aanbevelingen ter harte en zullen deze 
+bij de toekomstige jaarverslagen oppakken.
+Begrotingsbeheer, financieel beheer en de materiële bedrijfsvoering
+De bedrijfsvoering, inclusief het begrotingsbeheer, financieel beheer en 
+de materiële bedrijfsvoering binnen het Ministerie van OCW, is op orde. 
+De Algemene Rekenkamer (AR) heeft in het verantwoordingsonderzoek 
+over 2021 vier onvolkomenheden geconstateerd, te weten bij de informa­
+tiebeveiliging bij het kerndepartement, het autorisatiebeheer Dienst 
+Uitvoering Onderwijs (DUO), IT-beheersingsmaatregelingen DUO en M&O-
+beleid subsidies onderwijsinstellingen. De ADR heeft ook een (lichte) 
+bevinding geconstateerd bij de bevoorschotting van agentschappen. Het 
+Ministerie van OCW heeft in 2022 voortgang geboekt in het oplossen van 
+deze onvolkomenheden en bevinding. Hieronder volgt de status.
+Informatiebeveiliging kerndepartement
+De AR heeft over 2021 geconstateerd dat er verbetering is geboekt bij infor­
+matiebeveiliging kerndepartement. Gedurende 2022 is hier verder aan 
+gewerkt en heeft het programma Informatiebeveiliging (IB) grote stappen 
+gezet in de meest urgente zaken rondom het voldoen aan de Baseline Infor­
+matiebeveiliging Overheid.
+Eind 2021 is gestart met het verhogen van het bewustzijn rondom digitale 
+veiligheid binnen het Ministerie van OCW en zijn voorbereidingen getroffen 
+voor een groot aantal activiteiten. In 2022 zijn de volgende effecten hiervan 
+merkbaar. Via een poster-campagne, awareness e-learning (voor nieuwe en 
+zittende collega’s) en een terugkerende phishing oefening zijn de 
+medewerkers van concern-OCW bewust gemaakt van alledaagse IB-
+handelingen.
+Het MT-OCW heeft in december 2021 de I-Governance vastgelegd, deze gaat 
+over de sturing en beheersing van digitalisering onderwerpen, waaronder 
+informatiebeveiliging. Deze governance heeft in 2022 geleid tot de vorming 
+van een netwerk van Chief Information Security Officer (CISO’s) van de 
+dienstonderdelen dat wordt voorgezeten en geleid door de departementale 
+CISO. Dit netwerk heeft als doel grotere samenhang, rapportage en 
+structuur tussen de dienstonderdelen, een efficiënter en consistenter 
+aanpak van de verbetering van informatiebeveiliging en werken aan de 
+«één-concern» mentaliteit. Onderliggend aan dit netwerk is een afgestemd 
+charter (set afspraken), waarmee concern-OCW meer grip krijgt op de 
+verbetering van haar digitale weerbaarheid.
+In 2022 is de risicomanagement-aanpak op meerdere niveaus uitgebreid. 
+Proceseigenaren voeren samen met Security Officers quickscans uit op 
+proces- en systeemniveau. In een cyclus op een hoger aggregatieniveau 
+worden tijdens de Risicobeeld-jaarcyclus bij dienstonderdelen de risico’s en 
+bijbehorende maatregelen rondom de ‘Te Beschermen Belangen’ 
+vastgesteld. Dit is een integrale aanpak, waarbij de samenhang wordt 
+gezocht tussen IB, privacy, fysieke veiligheid en integriteit. De terugkerende 
+aard van de gesprekken en bijbehorend beeld verhoogt het bewustzijn van 
+het belang bij zowel proceseigenaren als management en geeft de 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 131

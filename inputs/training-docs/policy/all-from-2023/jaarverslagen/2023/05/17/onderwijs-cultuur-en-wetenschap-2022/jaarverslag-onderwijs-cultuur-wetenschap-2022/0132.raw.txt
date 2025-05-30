@@ -1,0 +1,51 @@
+gelegenheid bij te sturen op dit onderwerp. De risicomanagement-aanpak 
+voedt hiernaast ook het processenregister, met als resultaat een completer 
+overzicht van processen en bijbehorende applicaties.
+Op centraal niveau is er inzicht in de trend met betrekking tot incidenten, dit 
+heeft de D-CISO nodig om te kunnen sturen. Hij wordt betrokken bij grotere 
+incidenten en de registratie hiervan gebeurt in een incident-registratie­
+systeem, dat toegankelijk is voor de relevante functionarissen. In 2022 is 
+samengewerkt met de verschillende servicedesks, om middels een reeks 
+trainingen en aanpassingen in werkwijzen (IB) incident-rapportage te 
+verbeteren. Aan incidenten worden waar nodig, op basis van vooraf gedefi-
+nieerde criteria, hogere prioriteit gegeven. Per niveau is beschreven welke 
+functionaris – waaronder de D-CISO – betrokken (op zowel decentraal als 
+centraal niveau) moet worden. In 2022 is gebleken dat dit proces werkt.
+De inspanningen die het Ministerie van OCW heeft geleverd op het vlak van 
+informatiebeveiliging hebben ertoe geleid dat het ministerie hierop beter in 
+control is. Het Ministerie van OCW heeft oog voor de ontwikkelingen van 
+de externe dreiging, sluit aan bij Rijksbrede ontwikkelingen ter verbetering 
+van de digitale veiligheid en heeft aansluitend daarop haar eigen plan 
+opgesteld om in control te blijven.
+Autorisatiebeheer Dienst Uitvoering Onderwijs
+De AR heeft in 2021 aangegeven dat DUO voortgang heeft geboekt en 
+constateerde dat de kwaliteit van de autorisatiematrices en controles op 
+de autorisaties is verbeterd, maar nog niet op het gewenste niveau is. De 
+AR heeft autorisatiebeheer daarom als onvolkomenheid aangemerkt. DUO 
+heeft conform haar plan in 2022 verder gewerkt aan onderstaande drie 
+randvoorwaarden om de kwaliteit op het gewenste niveau te krijgen:
+1. Juiste risicoclassificatie van systemen: DUO heeft alle systemen voorzien 
+van een risicoclassificatie gebaseerd op de normen beschikbaarheid, 
+integriteit en vertrouwelijkheid uit de Baseline Informatiebeveiliging 
+Overheid. Dit is van belang voor het bepalen van de frequentie en diepgang 
+van de periodieke analyses.
+2. Goede autorisatiematrices: DUO heeft gekozen voor een risicogerichte 
+benadering waarbij de autorisatiematrices van de systemen met risicoclas­
+sificatie hoog integraal zijn gecontroleerd en de autorisatiematrices met 
+risicoclassificatie midden steekproefsgewijs. Naar aanleiding van deze 
+controles zijn de autorisatiematrices verder aangescherpt. Dit resulteert in 
+kwalitatief goede autorisatiematrices die het uitgangspunt vormen voor 
+de inhoudelijke controles op de autorisaties in de systemen.
+3. Uitvoeren van managementcontroles en de applicatiecontroles: De 
+managementcontrole ziet er op toe dat de juiste autorisaties aan de juiste 
+medewerkers zijn toegekend. Bij de applicatiecontrole controleert de 
+systeemeigenaar aan de hand van de kwalitatief goede autorisatiematrix of 
+de autorisaties ook juist in het systeem staan. DUO heeft in 2022 de manage­
+mentcontroles en applicatiecontrole uitgevoerd voor de systemen met de 
+risicoclassificatie hoog en midden. Een deel van de applicatiecontrole loopt 
+door tot in 2023.
+DUO heeft in 2022 de migratie naar het RBAC (Role based access control) 
+afgerond. Hiermee is DUO in staat voor het merendeel van de systemen 
+de autorisaties te verstrekken op basis van rollen. Als gevolg van de 
+migratie zijn onterechte autorisaties verwijderd. Voor de systemen die 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 132

@@ -1,0 +1,50 @@
+de grensgebieden wordt anders gecontroleerd. Er wordt gecontroleerd of 
+de student aan de instelling in het buitenland is ingeschreven. Indien dat zo 
+is, wordt aangenomen dat hij in het buitenland woonachtig is. Omdat er 
+geen adrescontrole plaatsvindt, is er voor studerenden in het buitenland 
+een (aanvaardbaar) restrisico. Het totale restrisico van de uitwonende 
+beurzen bij artikel 11 is € 5,1 miljoen (0,10%).
+De uitwonende basistoelage die op grond van de WTOS (regeling VO18+) 
+aan een uitwonende scholier wordt verstrekt, bedroeg in 2022 € 284,01 per 
+maand (en voor een thuiswonende scholier € 121,81). Bij de vaststelling van 
+de tegemoetkoming scholieren (WTOS) wordt ook het adres van de leerling 
+geverifieerd bij de BRP. De ouders verklaren dat de leerling uitwonend is. 
+Het adres van de ouders wordt niet standaard gecontroleerd bij de BRP. Dit 
+adres wordt alleen vastgelegd als het inkomensafhankelijke deel van de 
+tegemoetkoming is aangevraagd. Bij verhuizing van de leerling wordt ook 
+gecontroleerd. In totaal bestaat in het studiejaar 2021/2022 nog een 
+restrisico van € 3,5 miljoen. Aangezien de totale uitgaven op grond van de 
+WTOS lager zijn dan bij artikel 11 (Studiefinanciering), vormen de 
+uitwonende beurzen ook hier een groter deel (5,03%).
+Overige aspecten van de bedrijfsvoering
+Er zijn geen bijzonderheden te melden.
+Paragraaf 2 - Rijksbrede bedrijfsvoeringsonderwerpen
+Grote lopende ICT-projecten
+Het Ministerie van OCW kende in 2022 negen ICT-projecten groter dan 
+€ 5 miljoen. Waar eerst sprake was van advisering over ICT-projecten, is daar 
+met ingang van 2021 advisering over het onderhoud en beheer van infor­
+matiesystemen aan toegevoegd.
+Jaarlijks rapporteert het Ministerie van OCW over deze projecten conform 
+het daarvoor afgesproken rapportagemodel aan het Ministerie van BZK. Van 
+alle projecten wordt de stand van zaken openbaar gemaakt via het Rijks ICT-
+dashboard. Voor alle projecten geldt dat de Chief Information Officer (CIO), 
+de Chief Information Security Officer (CISO) en privacyfunctionarissen 
+adviseren over de risico’s. Door deze adviezen, maar ook door de inzet van 
+instrumenten als Gateway-reviews, AcICT toetsen en de OCW-risicorap­
+portage worden dergelijke risico’s tijdig in kaart gebracht en zijn deze 
+continu onder de aandacht. Daartoe worden in de trajecten zelf ook 
+waarborgen ingebracht om risico’s voor de uitvoering te onderkennen. De 
+functionarissen gegevensbescherming van het Ministerie van OCW zien toe 
+op naleving van de Algemene Verordening Gegevensbescherming (AVG). 
+Bij nieuwe wetgeving en grote ICT-projecten heeft het opstellen van Privacy 
+Impact Assessments (PIA) een plaats gekregen.
+Gebruik open standaarden en open source software 
+De Instructie Rijksdienst schrijft voor dat bij de aanschaf en ontwikkeling van 
+ICT-diensten of ICT-producten in beginsel gebruik moet worden gemaakt 
+van open standaarden van de lijst van het Forum Standaardisatie 
+(www.forumstandaardisatie.nl). Valide afwijkingsgronden zijn opgenomen 
+in de Instructie Rijksdienst. Indien er sprake is van een afwijking van de 
+Instructie Rijksdienst, dan wordt dit gemotiveerd aangegeven. Bij het 
+Ministerie van OCW is bij de meting eind 2022 geen sprake geweest van 
+afwijking van de Instructie Rijksdienst.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VIII, nr. 1 137
