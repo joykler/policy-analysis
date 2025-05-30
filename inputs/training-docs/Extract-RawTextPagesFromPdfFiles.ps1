@@ -205,9 +205,11 @@ function Export-RawTextPagesFromSourceFile {
                         }
                     }
 
-                    Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
+                    if ($(Get-Content -Path $TargetPageFile.Path -Raw) -ne $TargetPageText) {
+                        Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
 
-                    Write-Output $TargetPageFile
+                        Write-Output $TargetPageFile
+                    }
                 }
             }
         }
