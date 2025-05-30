@@ -1,0 +1,51 @@
+proces in het bestrijden van (sommige) infectieziekten. Systemen die in het kader 
+van de voorgenomen wijzigingen in het vaccinatiestelsel ontwikkeld worden, 
+moeten voldoen aan de kaderstellende eisen die door de eerdergenoemde partijen 
+zijn opgesteld. Zoals de RVS constateert is voor de uitvoering van vaccinaties - 
+selecteren, uitnodigen en herhaaloproepen, de monitoring van veiligheid van 
+vaccins (zoals bijwerkingen), de monitoring van de vaccinatiegraad en de 
+monitoring van de vaccineffectiviteit – zowel in de koude als de warme fase van 
+de infectieziektebestrijding goede registratie noodzakelijk. 
+ 
+Ten aanzien van de vraag hoe storingen een plek hebben gekregen in het 
+informatievoorzieningslandschap wil ik aangeven dat het (grootschalig) vaccineren 
+van burgers één van de processen is waarvoor – binnen de kaderstellende eisen 
+voor een pandemisch paraat IV-landschap – passende digitale ondersteuning zal 
+worden ontwikkeld. Het (laten) ontwikkelen hiervan binnen de kaderstellende 
+eisen impliceert dat de betreffende digitale voorzieningen aantoonbaar wendbaar, 
+robuust en betrouwbaar moet zijn. Dit geldt overigens voor alle onderdelen van 
+het door mij beoogde pandemisch parate IV-landschap: de eisen zijn niet 
+vrijblijvend en dragen bij aan de paraatheid van het gehele IV-landschap. 
+ 
+Ook de lessen uit de COVID-19-pandemie met betrekking tot de 
+gegevensuitwisseling voor monitoring en onderzoek dienen een plek te hebben 
+hierbij. Welke lessen hierover zijn benoemd en worden gebruikt? 
+ 
+Naast technische knelpunten bleek tijdens de COVID-19-pandemie dat ook 
+organisatorische en juridische knelpunten het delen van gezondheidsdata kunnen 
+belemmeren, waardoor monitoring en onderzoek in sommige gevallen (te) beperkt 
+mogelijk waren. Vanuit technisch oogpunt wordt het delen van gezondheidsdata in 
+het door mij beoogde IV-landschap mogelijk, omdat gebruik zal worden gemaakt 
+van standaarden, zowel over inhoud (wat) als over techniek (hoe).  
+Vanuit organisatorisch en juridisch oogpunt wordt het delen van gezondheidsdata 
+(ten behoeve van beleid, statistiek en wetenschappelijk onderzoek) mogelijk door 
+waar nodig hier afspraken met elkaar over te (laten) maken én te zorgen voor een 
+passende juridische context. De derde tranche in de aanpassing van de Wet 
+publieke gezondheid zal specifiek zien op het juridisch borgen van de mogelijkheid 
+om dergelijke gegevens uit te wisselen. Over de planning en inhoud van de 
+tranches van de Wpg informeer ik uw Kamer dit voorjaar. 
+ 
+Wanneer komt de uitwerking van het High Level Design (HLD) naar de Kamer? 
+ 
+De rapportage over het High Level Design is bijgevoegd (bijlage 1). Het is 
+opgesteld door GGD GHOR Nederland en het RIVM, met betrokkenheid van 
+verschillende experts. Het High Level Design geeft de richtinggevende principes, 
+ontwerpkeuzes en randvoorwaarden aan voor het toekomstige (pandemisch 
+parate) IV-landschap in het IZB-domein. Het wordt in de verdere planvorming en  
+voorbereiding benut om de contouren van de opgave (realisatie van een 
+pandemisch paraat IV-landschap in het IZB-domein) in te vullen. Bijvoorbeeld bij 
+het opstellen van het meerjaren programmaplan. 
+ 
+Hoe krijgt de uitwisseling van gegevens tussen zorgverleners en onderzoekers 
+Pagina 31 van 116
+vorm? Hoe wordt geborgd dat uitwisseling verbetert ten opzichte van de huidige
