@@ -146,14 +146,15 @@ function Get-TargetInfoFromSourceFile {
         [Parameter(Mandatory, Position = 1)]
         [string] $SourceRootPath,
 
-        [Parameter(Mandatory, Position = 2)]
-        [scriptblock] $GetTargetRootPath
+        [Parameter(Mandatory)]
+        [string] $TargetRootPath
     )
 
     begin {
         function Get-FileInfo([string] $FilePath, [string] $LoggedDir) {
             return [PSCustomObject] @{
                 Name      = [System.IO.Path]::GetFileName($FilePath)
+                Folder    = [System.IO.Path]::GetDirectoryName($FilePath)
                 Path      = $FilePath
 
                 LoggedDir = $LoggedDir
@@ -162,10 +163,8 @@ function Get-TargetInfoFromSourceFile {
     }
 
     process {
-        $SourceDir_AbsPath = [System.IO.Path]::GetDirectoryName($SourcePath)
         $RelFilePath = [System.IO.Path]::GetRelativePath($SourceRootPath, $SourcePath)
 
-        $TargetRootPath = $GetTargetRootPath.InvokeWithContext()
         $TargetPath = Join-Path $TargetRootPath -ChildPath $RelFilePath
 
         [PSCustomObject] @{
@@ -193,7 +192,7 @@ function Copy-PolicyDocFromArchiveRepo {
             $Logging.Warn_TargetFileAllreadyExists($TargetFile)
 
         } else {
-            $Logging.Info_CopyingPolicyDocFromFile($SourceFile)
+            $Logging.Info_CopyingPolicyDocFromArchiveRepo($SourceFile)
 
             try {
                 if (-not $(Test-Path $TargetFile.Folder -PathType Container)) {
@@ -229,7 +228,7 @@ try {
 
 
 
-    $SourceRootPath = "$(Resolve-Path '..\policy-documents\Archive')"
+    $SourceRootPath = "$(Resolve-Path '..\policy-evaluation-2\policy-documents\Archive')"
 
     $TargetRootPaths = @{
         2015 = "$(Resolve-Path 'inputs\training-docs\policy\only-2015')"
@@ -237,27 +236,26 @@ try {
     }
 
     $Logging.Info_StartedCopyingPolicyDocs()
-    Get-ChildItem -Path $SourceRootPath -Directory |
-        Where-Object Name -In @(
-            'kamerstukken',
-            'rapporten',
-            'publicaties',
-            'jaarverslagen',
-            'beleidsnotas'
-        ) |
-        Get-ChildItem -Directory |
-        Where-Object {
-            $Year = $([int] $_.Name)
-            $Year -eq 2015 -or $Year -eq 2023
-        } |
-        Get-ChildItem -Filter *.pdf -File -Recurse |
-        Get-TargetInfoFromSourceFile $SourceRootPath -GetTargetRootPath { $TargetRootPaths["$Year"] } |
-        Copy-PolicyDocFromArchiveRepo |
-        ForEach-Object {
-            $BatchProc.ForEachItem($PSItem)
-        }
+    foreach ($current in $TargetRootPaths.GetEnumerator()) {
+        Get-ChildItem -Path $SourceRootPath -Directory |
+            Where-Object Name -In @(
+                'kamerstukken',
+                'rapporten',
+                'publicaties',
+                'jaarverslagen',
+                'beleidsnotas'
+            ) |
+            Get-ChildItem -Directory |
+            Where-Object Name -EQ $current.Key |
+            Get-ChildItem -Filter *.pdf -File -Recurse |
+            Get-TargetInfoFromSourceFile $SourceRootPath -TargetRootPath $current.Value |
+            Copy-PolicyDocFromArchiveRepo |
+            ForEach-Object {
+                $BatchProc.ForEachItem($PSItem)
+            }
 
-    $BatchProc.FlushItems()
+        $BatchProc.FlushItems()
+    }
 
 } finally {
     Pop-Location
