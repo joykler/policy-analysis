@@ -123,6 +123,28 @@ function Initialize-BatchProcess ([int] $Size = 30, [scriptblock] $OnProcess) {
 
 
 
+#region -- Declare: Get-FileInfo --
+function Get-FileInfo {
+
+    [CmdletBinding()]
+    param(
+        [Alias('FullName')]
+        [Parameter(Mandatory, Position = 1)]
+        [string] $FilePath,
+
+        [Parameter(Mandatory)]
+        [string] $LoggedDir
+    )
+
+    return [PSCustomObject] @{
+        Name      = [System.IO.Path]::GetFileName($FilePath)
+        Folder    = [System.IO.Path]::GetDirectoryName($FilePath)
+        Path      = $FilePath
+        LoggedDir = $LoggedDir
+    }
+}
+#endregion
+
 #region -- Declare: Get-TargetInfoFromSourceFile --
 function Get-TargetInfoFromSourceFile {
 
@@ -135,17 +157,6 @@ function Get-TargetInfoFromSourceFile {
         [Parameter(Mandatory, Position = 1)]
         [string] $SourceRootPath
     )
-
-    begin {
-        function Get-FileInfo([string] $FilePath, [string] $LoggedDir) {
-            return [PSCustomObject] @{
-                Name      = [System.IO.Path]::GetFileName($FilePath)
-                Folder    = [System.IO.Path]::GetDirectoryName($FilePath)
-                Path      = $FilePath
-                LoggedDir = $LoggedDir
-            }
-        }
-    }
 
     process {
         $RelFilePath = [System.IO.Path]::GetRelativePath($SourceRootPath, $SourcePath)
@@ -174,26 +185,20 @@ function Export-RawTextFromSourceFile {
     )
 
     begin {
-        function Export-RawText([iTextSharp.text.pdf.PdfReader] $Source_PdfReader, [string] $TargetPath) {
+        function Export-RawText([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
 
-            $Target_TextWriter = [System.IO.File]::CreateText($TargetPath)
-            try {
-                $PdfTextExtractionStrategy = [iTextSharp.text.pdf.parser.LocationTextExtractionStrategy]::new()
+            $PdfTextExtractionStrategy = [iTextSharp.text.pdf.parser.LocationTextExtractionStrategy]::new()
 
-                $PageMax = $Source_PdfReader.NumberOfPages
-                for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
+            $PageMax = $Source_PdfReader.NumberOfPages
+            for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
 
-                    $PageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr, $PdfTextExtractionStrategy)
+                $TargetPageFile = Get-FileInfo $($TargetFile.Path -f $PageNr) -LoggedDir $TargetFile.LoggedDir
 
-                    $Target_TextWriter.WriteLine($PageText)
-                    $Target_TextWriter.WriteLine()
+                $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr, $PdfTextExtractionStrategy)
 
-                    $PageNr++
-                }
+                Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
 
-            } finally {
-                $Target_TextWriter.Flush()
-                $Target_TextWriter.Close()
+                Write-Output $TargetPageText
             }
         }
     }
@@ -206,11 +211,11 @@ function Export-RawTextFromSourceFile {
             $Logging.Info_ExportingRawTextFromFile($SourceFile)
 
             try {
+                mkdir $TargetFile.Folder -Force
+
                 $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourceFile.Path)
 
                 Export-RawText $Source_PdfReader -TargetPath $TargetFile.Path
-
-                Write-Output $TargetFile
 
             } catch {
                 $Logging.Warn_ExportRawTextFailed($TargetFile, $_)
@@ -234,7 +239,7 @@ try {
         param([int] $BatchNr, [object[]] $BatchedItems)
 
         git add --all
-        git commit -m "Added batch of copyied policy-docs from archive-repo #$BatchNr"
+        git commit -m "Added batch of extracted raw-text files from pdf files #$BatchNr"
         git push
     }
 
@@ -247,7 +252,7 @@ try {
 
     $Logging.Info_StartedExportingRawTexts()
     Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
-        Get-TargetInfoFromSourceFile $SourceRootPath |
+        Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
         Export-RawTextFromSourceFile |
         ForEach-Object {
             # $BatchProc.ForEachItem($PSItem)
