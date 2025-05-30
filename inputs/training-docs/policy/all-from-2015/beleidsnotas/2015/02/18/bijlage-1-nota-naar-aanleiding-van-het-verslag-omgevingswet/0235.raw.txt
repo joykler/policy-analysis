@@ -1,0 +1,36 @@
+Laan van de Leefomgeving 
+Dit nieuwe concept heeft de regering overgenomen als ambitie voor het organiseren van de digitale 
+voorzieningen in de Omgevingswet in plaats van een gegevensautoriteit. Dit concept ‘de Laan van 
+de Leefomgeving’ moet gaan fungeren als een digitaal stelsel ter ondersteuning bij de uitvoering 
+van de Omgevingswet en zou moeten bestaan uit drie hoofdonderdelen: de gebruiker krijgt 
+toegang tot de Laan via gebruikerstoepassingen, de Laaninfrastructuur leidt de vragen van de 
+gebruiker op een veilige en efficiënte wijze door naar de informatiehuizen, de informatiehuizen 
+geven vervolgens de nodige informatie. Dit wordt schematisch weergegeven in onderstaande 
+afbeelding.  
+ 
+ 
+In antwoord op de vragen van de leden van de D66-fractie (10.10) en de ChristenUnie-fractie 
+(10.22), kan de regering aangeven dat het concept van de Laan van de Leefomgeving niet bestaat 
+uit één gegevensautoriteit, maar uit een stelsel van verschillende informatiehuizen met elk hun 
+eigen huismeester. Om te komen tot een geharmoniseerd stelsel staat de regering het volgende 
+voor ogen. De belegging van de stelselverantwoordelijkheid is voorzien bij de Minister van 
+Infrastructuur en Milieu, die toeziet op de kwaliteit en continuïteit van het stelsel. De 
+informatiehuizen kennen een mate van autonomie bij de invulling van de interne governance. Met 
+de centrale regie van het stelsel wordt toegezien dat aan een aantal stelselrandvoorwaarden wordt 
+voldaan zoals kwaliteitscriteria voor de te leveren gegevens (beschikbaarheid, bruikbaarheid en 
+bestendigheid) en dat een aantal sleutelfuncties wordt belegd binnen de informatiehuizen, zoals 
+een huismeester en een kwaliteitsbewaker. De huismeester faciliteert de samenwerking en 
+regisseert de operationele werkprocessen binnen een informatiehuis. In antwoord op de vraag van 
+de leden van de ChristenUnie-fractie bevestigt de regering dat deze rol zowel door een rijks- als 
+decentrale organisatie kan worden ingevuld (10.21) waarbij voor de invulling van de rol van 
+huismeester wordt gedacht aan uitvoeringsorganisaties zoals het RIVM en BIJ12, de gezamenlijke 
+uitvoeringsorganisatie van de provincies (10.25).  
+Binnen elk huis houden één of meerdere onafhankelijke en deskundige partijen toezicht op de 
+kwaliteit van de informatieproducten. Deze kwaliteitsbewaker controleert aan de hand van 
+protocollen bovendien of aan de afgesproken domein- en stelselstandaarden wordt voldaan, zodat 
+de gevalideerde gegevens aan de Laan kunnen worden aangeboden.  
+In antwoord op een vraag van de leden van de ChristenUnie-fractie geeft de regering aan dat in de 
+informatiehuizen ook modellen en registers worden beheerd en via de Laan aangeboden; zo ook 
+verkeersgegevens t.b.v. modelberekeningen van het geluid en populatiebestanden. Burgers en 
+bedrijven worden zodoende in staat gesteld eigen varianten door te rekenen (10.27). 
+235
