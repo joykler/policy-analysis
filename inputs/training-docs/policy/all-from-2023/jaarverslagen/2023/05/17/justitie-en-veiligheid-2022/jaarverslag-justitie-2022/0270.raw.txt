@@ -1,0 +1,46 @@
+Thema Subthema Type Afronding Status Conclusies / Toelichting Artikel Hyperlink
+onderzoek
+de kleinere. Moet bij het ‘afpakken’ niet gekozen voor meer maatwerk, 
+bijvoorbeeld door de ontnemingsvordering in specifieke gevallen te 
+beschouwen als een ‘schuld aan de samenleving’ die criminelen 
+geleidelijk kunnen aflossen door geen misdrijven meer te plegen?
+Geweld Ex ante 2022 afgerond De deskundigen zien geen heil zien in een betrouwbare 33.3 Link
+omvangschatting op basis van de thans bekende methodes. Bij alle 
+geselecteerde vormen van kindermishandeling en -misbruik is de 
+registratie een obstakel voor een valide en betrouwbare schatting. Bij 
+specifieke vormen van kindermishandeling in specifieke subgroepen, 
+zoals seksueel misbruik van kinderen binnen de gemeenschap van 
+Jehova’s getuigen en georganiseerd sadistisch misbruik gelden 
+bovenstaande overwegingen evenzeer, maar vormen de inherente 
+kenmerken van de vorm van misbruik een additionele hindernis voor 
+een betrouwbare schatting.
+Cybercrime Ex post 2021 afgerond Aan de inzet van de hackbevoegdheid gaat een uitgebreid 33.3 Link
+toetsingstraject vooraf door verschillende actoren. De technische toets 
+vindt echter plaats bij een beperkt aantal personen. De rest van de 
+actoren vaart op die deskundigheid. Binnendringen in een 
+geautomatiseerd werk kan niet altijd volledig op afstand, in 
+tegenstelling tot wat de wetgever lijkt te hebbenvoorzien. Digit heeft 
+daarom behoefte aan een (heimelijke) steunbevoegdheid die er 
+momenteel niet is.
+• De meldplicht ten aanzien van onbekende kwetsbaarheden geldt ook 
+ten aanzien van kwetsbaarheden in geautomatiseerde werken die 
+vrijwel alleen voor criminele doeleinden worden gebruikt. Dat is een 
+knelpunt voor de opsporingsprakrijk, omdat personen met criminele 
+intenties uiteindelijk op de hoogte moeten worden gebracht dat in hun 
+systeem zich een kwetsbaarheid bevindt. Het is de vraag of dat werd 
+bedoeld met het veiliger maken van computersystemen en het 
+internet, een belangrijke reden waarom de meldplicht er is gekomen.
+• Bij het grootste deel van de inzetten is, in tegenstelling tot de 
+verwachting van de wetgever, gebruikgemaakt van een commercieel 
+middel. Voor de opsporingspraktijk is de inzet van dat middel 
+noodzakelijk. Zonder de inzet ervan zou het grootste deel van de 
+inzetten op een telefoon niet mogelijk zijn geweest.
+• De verplichting, voortvloeiend uit het Regeerakkoord, om bij een 
+commercieel middel voor elke inzet een nieuwe licentie aan te 
+schaffen, zorgt er hoogstwaarschijnlijk voor dat voor het gebruik ervan 
+meer geld betaald wordt dan nodig is. Het is onwaarschijnlijk dat deze 
+regeling voorkomt dat de markt van onbekende kwetsbaarheden 
+gestimuleerd wordt. De Inspectie JenV richt zich op de naleving van 
+regels en niet op de uitvoerbaarheid van die regels. Digit ervaart dit 
+als lastig, omdat een deel van de regels in haar ogen niet uitvoerbaar 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 270
