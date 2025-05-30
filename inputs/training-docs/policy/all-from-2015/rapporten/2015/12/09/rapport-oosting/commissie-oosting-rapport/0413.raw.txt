@@ -31,4 +31,3 @@ vvoj  Vereniging van onderzoeksjournalisten
 wed  Wet op de economische delicten 
 Wetboek Sr  Wetboek van Strafrecht
 Wetboek Sv  Wetboek van Strafvordering
-413
