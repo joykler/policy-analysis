@@ -1,0 +1,44 @@
+een rapportage die inzicht biedt in de huidige (toe)stand van het ICT-
+landschap, zodat het onderhoud en de daarbij behorende investering op 
+een gecontroleerde wijze kan worden uitgevoerd en tijdig gestart kan 
+worden met het vervangen of vernieuwen van het ICT-landschap of 
+onderdelen daarvan. De chief information officer (CIO) VWS heeft hiermee 
+een tool in handen om integraal te kunnen sturen en adviseren over het 
+onderhoud en beheer van alle ICT applicaties. Daarnaast heeft de CIO met 
+‘instrumenten’ zoals portfolio- en accountmanagement, voldoende zicht op 
+mogelijke risico’s. In 2023 wordt het LCM register verder doorontwikkeld.
+Paragraaf 2 - Rijksbrede bedrijfsvoeringsonderwerpen
+Grote lopende ICT-projecten
+CIZ
+Het project heraanbesteding/doorontwikkeling ICT dienstverlening bestaat 
+uit het aanbesteden en doorontwikkeling van het totale ICT landschap van 
+het Centrum Indicatiestelling Zorg (CIZ), bestaande uit de applicatiedienst­
+verlening, Data & Analytics en de overige ICT dienstverlening (waaronder 
+kantoorautomatisering). Het huidige primaire applicatielandschap van het 
+CIZ zal vervangen worden door een nieuw applicatielandschap op basis van 
+een Dynamisch Case Management systeem (DCM) met low-code. Daarnaast 
+zal het DateWareHouse (DWH) worden vervangen door een Data & 
+Analytics platform, waarbij het huidige DWH als nieuwe koppeling (bron) 
+zal worden meegenomen, zodat de historie in de huidige vorm gebruikt kan 
+worden. Als laatste zal de ICT Dienstverlening opnieuw worden aanbesteed. 
+Het betreft hier dus drie percelen. Het programma bevindt zich in de fase 
+van de aanbestedingen DataWarehouse en Dienstverlening en realisatie en 
+implementatie van het nieuwe zaaksysteem.
+Gebruik open standaarden en open source software
+Binnen het concern VWS wordt indien mogelijk gestreefd naar het gebruik 
+van open standaarden en open source. In een aantal gevallen, bijvoorbeeld 
+bedrijfsvoering met gevoelige informatie, of vanwege een andere 
+technische oplossing, is het gebruik van open source niet altijd mogelijk. Dit 
+geldt ook voor functionele inkoop van software binnen VWS. Indien het 
+proces (functioneel, c.q. non-functioneel) een dergelijke IV ondersteuning 
+toelaat hebben open source oplossingen de voorkeur en worden als wens 
+in het programma van eisen opgenomen.
+In de periode van de pandemie is er gekozen om o.a. de CoronaMelder en 
+Coronacheck op een open en transparante wijze te ontwikkelen met burger­
+participatie. Deze open source aanpak is succesvol gebleken en zal zich 
+voortzetten in andere projecten.
+Betaalgedrag
+Het ministerie van VWS heeft over 2022 95% van zijn facturen binnen 
+30 dagen betaald. Hiermee heeft het ministerie voldaan aan de rijksbrede 
+norm van 95% om zijn facturen binnen 30 dagen te betalen.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 125

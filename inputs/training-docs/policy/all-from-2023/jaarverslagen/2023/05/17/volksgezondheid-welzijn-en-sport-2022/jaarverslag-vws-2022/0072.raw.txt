@@ -1,0 +1,54 @@
+Gegevensuitwisseling
+In het coalitieakkoord heeft het verbeteren van de houdbaarheid van de zorg 
+een prominente plek gekregen door o.a. de inzet op de standaardisatie van 
+gegevensuitwisseling. Goede gegevensuitwisseling is daarnaast randvoor­
+waardelijk om de doelstellingen uit het Integraal Zorgakkoord te behalen.
+De wet Elektronische Gegevensuitwisseling in de Zorg (Wegiz) verplicht 
+elektronische uitwisseling voor specifieke gegevensuitwisselingen. In 2022 
+is er gewerkt aan het wetgevingstraject, waarbij het wetsvoorstel op 
+27 september 2022 is aangenomen door de Tweede Kamer (Kamerstukken 
+I: 2022-2023 35824 nr. A) en er een start is gemaakt met het uitwerken van 
+specifieke, geprioriteerde, gegevensuitwisselingen in AMvB’s. Daarnaast is 
+er in 2022 een eerste vergelijking gemaakt tussen de Wegiz en het voorstel 
+European Health Data Space (EHDS), eventuele aanpassing en/of bijstelling 
+is vooralsnog niet aan de orde en wordt indien nodig op zijn vroegst in 2023 
+verwacht.
+Generieke functies
+Om optimale elektronische gegevensuitwisseling in de zorg te realiseren 
+dienen meer randvoorwaarden te worden ingevuld, waarbij publieke 
+sturing vanuit de overheid noodzakelijk is gebleken. Eén van die randvoor­
+waarden betreft de totstandkoming van zogenaamde generieke functies die 
+essentieel zijn om elektronische gegevensuitwisseling mogelijk te maken. 
+Denk hierbij aan het vastleggen van het al dan niet verlenen van 
+toestemming van patiënten of cliënten voor het delen van gegevens. VWS 
+heeft een afwegingskader voor generieke functies opgeleverd, waarmee 
+kan worden bepaald of- en zo ja, in welke vorm er meer publieke sturing op 
+deze voorzieningen nodig is. Het afwegingskader is in december 2022 
+aangeboden aan de Tweede Kamer (Kamerstukken II, 2022/23, 27529 nr. 
+287).
+Informatieveiligheid
+Doordat de zorg steeds verder digitaliseert wordt het steeds belangrijker dat 
+de informatiebeveiliging in de zorg op orde is. Goede informatiebeveiliging 
+is primair de verantwoordelijkheid van de zorgaanbieders zelf, maar VWS 
+heeft hier ook een belangrijke rol. In 2022 heeft VWS de focus gelegd op 
+het verhogen van de bewustwording over digitale veiligheid, digitaal veilig 
+gedrag en de geldende wet- en regelgeving op het gebied van informatie­
+beveiliging. Dit heeft VWS onder andere gedaan door de borging van de 
+uitkomsten van het project ‘Informatieveilig gedrag in de zorg’ en door 
+het ondersteunen van Z-CERT, het landelijk informatieknooppunt voor infor­
+matieveiligheid binnen de zorgsector. Voor de aansluiting van zorgpartijen 
+bij Z-CERT volgt VWS een risico gestuurde aanpak: de zorgsectoren die 
+het meeste baat hebben bij deelname worden als eerste aangesloten. In 
+2022 is Jeugdzorg Nederland collectief aangesloten bij Z-CERT. Ook alle 
+GGD’en zijn in 2022 aangesloten bij Z-CERT.
+Toegang
+Een belangrijke doelstelling van VWS is het stimuleren van digitale 
+gegevensuitwisseling tussen zorgaanbieders en patiënten en tussen 
+zorgaanbieders onderling. Omdat het hier om medische informatie gaat, 
+moet de toegang tot deze informatie op betrouwbaarheidsniveau ‘hoog’ 
+worden ontsloten. In het wetsvoorstel Digitale Overheid is bepaald welke 
+inlogmiddelen hiervoor gebruikt mogen gaan worden. In 2022 is vervolg 
+gegeven aan het aansluiten van zorgaanbieders op DigiD / de ToegangVer­
+leningService (TVS) en de machtigingsvoorziening. Met BZK is de 
+voorziening voor ouderlijk gezag ontwikkeld voor toepassing in de zorg en 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 72

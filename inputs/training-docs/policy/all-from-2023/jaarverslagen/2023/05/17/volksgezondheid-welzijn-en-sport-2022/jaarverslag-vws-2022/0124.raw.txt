@@ -1,0 +1,50 @@
+Overige aspecten van de bedrijfsvoering
+Informatiebeveiliging
+In het verantwoordingsonderzoek 2021 constateerde de AR dat 
+onvoldoende vooruitgang was geboekt in de verdere ontwikkeling van het 
+informatiebeveiligingsbeleid. Het helder vastleggen van taken en verant­
+woordelijkheden is hier een belangrijk onderdeel van. Ook op het gebied 
+van het risicomanagement en het verder vormgeven hieraan zag de AR nog 
+verbeterpunten. Dit heeft geleid tot handhaving van de onvolkomenheid op 
+de informatiebeveiliging in 2022.
+Op het gebied van de vastlegging van taken en verantwoordelijkheden zijn 
+in 2022 belangrijke stappen gezet. Binnen het concern is er een stijgende 
+lijn te zien in de volwassenheid van alle organisaties. Er wordt ingezet op 
+het versterken van besturingsvraagstukken. Ook hebben de VWS organi­
+saties zich ontwikkeld in het zelfstandig onderzoeken hoe de veiligheid 
+wordt gewaarborgd in de techniek, mensen en processen. Dit wordt 
+voortgezet en verstevigd om de VWS strategische focus op het reduceren 
+van problemen voortvloeiend uit een ransomware te kunnen versterken. In 
+dit traject zijn de taken per organisatie en de verdeling van de verantwoor­
+delijkheden op concern niveau helder weergegeven.
+Het risicomanagement is onderdeel geworden van procesverandering van 
+In Control Verklaring (ICV) naar het Informatiebeveiligingsbeeld (IB-beeld). 
+De transitie van ICV naar IB-Beeld is door het VWS-concern in 2022 geïmple­
+menteerd.
+Tegelijkertijd is er ruimte voor verdere ontwikkeling binnen de informatie­
+beveiliging. Derhalve wordt structureel gezocht naar samenwerkingen met 
+diverse directies binnen en buiten het departement om VWS in de breedte 
+te laten groeien op gebied van informatiebeveiliging. Door het strategisch 
+oplossen van specifieke knelpunten kan er een positief «vlindereffect» 
+ontstaan. Aansluitend hierop is VWS van start gegaan met het onderzoek 
+naar de wijze waarop het Virtual Security Operation Center (VSOC) kan 
+evolueren naar een centrale capaciteit voor het VWS concern. Met deze 
+capaciteit kan VWS dreigingsanalyses effectiever verwerken en optimaler 
+delen binnen het VWS concern en tussen verschillende overheidsdiensten. 
+is vanuit het VWS concern volledig inzicht in de risico’s per organisatie. De 
+VWS CISO Concern is gestopt met centraal een risicokaart bijhouden. De 
+lijsten liepen uit de pas met de registraties uit het lifecyclemanagement 
+(LCM) proces en zijn overbodig geworden met de nieuw ontwikkelde 
+procedure die centraal rond het IB Beeld zijn vorm gegeven. Met behulp van 
+de nieuwe werkwijze worden risico’s van de VWS organisatie inzichtelijk 
+gemaakt op concern niveau. Hiermee is tevens een start gemaakt om 
+continu te kunnen controleren tot in welke mate de risico’s in informatiebe­
+veiliging worden beheerst.
+Lifecyclemanagement
+In het verantwoordingsonderzoek 2021 van de AR dat zich richtte op de 
+vraag in hoeverre VWS voldoende grip heeft op de Lifecyle van hun primaire 
+processen en de risico’s van bestaande ICT-systemen, is het Lifecyclemana­
+gement als onvolkomenheid geregistreerd. In 2022 heeft de concernbrede 
+vakgroep Lifecyclemanagement de bedrijfskritische applicaties opgenomen 
+in een centraal register. Ook is gestart met de structurele inrichting van 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 124

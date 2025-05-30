@@ -1,0 +1,59 @@
+is een pilot gestart bij Maastricht UMC+. Daarnaast is in 2022 een start 
+gemaakt met het wetgevingstraject voor een generieke voorziening voor 
+digitale identificatie en authenticatie van zorgverleners.
+Digitale ondersteuning bij aanpak COVID-19 
+ Digitale ondersteuningsmiddelen zijn belangrijk geweest in de crisisaanpak 
+van COVID-19 en hebben bijgedragen aan het openen en openhouden van 
+de samenleving tijdens de acute fase van de COVID-19 crisis. Denk daarbij 
+o.a. aan CoronaMelder, CoronaCheck en GGD Contact. Het jaar 2022 stond 
+in het teken van het bestendigen, borgen en in beheer nemen van de gerea­
+liseerde instrumenten. Daarnaast maakte de huidige fase van de pandemie 
+het heroverwegen van het nut, de noodzaak en proportionaliteit van instru­
+menten opportuun. Zo is CoronaMelder in 2022 stopgezet en ontmanteld. 
+Het CoronaCheck-stelsel daarentegen is nog altijd operationeel, zodat 
+reizigers volgens de EU-verordening hun Digital Corona Certificate (DCC) 
+kunnen tonen. Ter ondersteuning van de registratie van vaccinaties (in o.a. 
+ziekenhuizen), de melding van vaccinatieregistratie aan het RIVM en het 
+verstrekken van QR-codes waar deze niet automatisch kunnen worden 
+verstrekt, wordt gebruik gemaakt van de digitale middelen BRBA, ZKVI en 
+HKVI. Een andere belangrijke ontwikkeling het afgelopen jaar is het open 
+source beschikbaar stellen van de Kwetsbaarheden Analyse Tool (KAT) per 
+1 juli 2022 die wordt gebruikt voor de monitoring van dreigingen en kwets­
+baarheden in de systemen en omgevingen die VWS zelf ontwikkeld heeft, 
+zoals hierboven benoemd. Dit is noodzakelijk zolang deze applicaties binnen 
+beleid gehandhaafd blijven.
+D. Budgettaire gevolgen van beleid
+Tabel 9 Budgettaire gevolgen van beleidsartikel 4 (bedragen x € 1.000)
+Vastgestelde 
+1
+Realisatie
+2
+begroting Verschil
+3
+2018 2019 2020 2021 2022 2022 2022
+Verplichtingen 1.076.471 1.269.744 3.299.470 2.152.935 1.290.647 1.138.485 152.162
+Uitgaven 957.620 1.120.778 3.051.899 2.154.091 1.312.176 1.352.629 ‒ 40.453
+1. Positie cliënt en transparantie van zorg 69.029 80.255 68.055 75.897 71.741 52.795 18.946
+Subsidies 42.734 41.643 34.071 34.299 36.298 36.457 ‒ 159
+Patiënten- en gehandicaptenorganisaties 18.106 16.148 16.224 16.369 16.896 17.000 ‒ 104
+Transparantie van zorg 24.052 25.442 17.847 17.830 18.952 19.307 ‒ 355
+Overige 576 53 0 100 450 150 300
+Opdrachten 20.415 32.774 27.464 34.472 27.524 8.689 18.835
+Ondersteuning cliëntorganisaties 4.283 7.207 2.692 3.998 3.999 4.033 ‒ 34
+Transparantie van zorg 5.166 14.543 989 780 1.104 2.545 ‒ 1.441
+Overige 10.966 11.024 23.783 29.694 22.421 2.111 20.310
+Bijdragen aan agentschappen 5.880 5.838 6.520 7.126 7.919 7.649 270
+CIBG 5.880 5.838 6.520 7.126 7.919 7.649 270
+0
+2. Opleidingen, beroepenstructuur en 
+502.121 436.639 2.438.206 1.457.625 666.439 672.525 ‒ 6.086
+arbeidsmarkt
+Subsidies
+484.030 420.711 2.417.168 1.398.135 645.466 650.376 ‒ 4.910
+Opleidingen, beroepenstructuur en arbeidsmarkt 484.030 420.711 2.417.168 1.398.135 645.466 650.376 ‒ 4.910
+Overige 0 0 0 0 0 0 0
+Opdrachten
+2.798 4.894 7.019 6.732 7.125 9.244 ‒ 2.119
+Opleidingen, beroepenstructuur en arbeidsmarkt 2.798 4.894 7.019 6.732 7.125 9.244 ‒ 2.119
+Bijdragen aan agentschappen 15.293 10.973 13.969 14.093 13.632 12.905 727
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 73

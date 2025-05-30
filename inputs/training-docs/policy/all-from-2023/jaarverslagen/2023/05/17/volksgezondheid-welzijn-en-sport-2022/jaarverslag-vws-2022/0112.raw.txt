@@ -1,0 +1,50 @@
+Artikel 1 – Uitgaven
+Laboratoria (CORON-IT)
+VWS heeft overeenkomsten met laboratoria afgesloten voor de analyse van 
+afgenomen PCR en NAAT testen. De gecontracteerde laboratoria zijn allen 
+medische labs, in sommige gevallen onderdeel van Nederlandse zieken­
+huizen. Ze dienen te voldoen aan verschillende kwaliteitseisen: NEN certi­
+ficering, ingeschreven zijn bij de KvK en beschikken over kundig medisch 
+personeel. Ook voor de analyse van de testen gelden nadere eisen aan 
+kwaliteit en tijdigheid. Indien incidenten worden geconstateerd worden 
+deze door VWS onderzocht, besproken met het betreffende laboratorium en 
+gedocumenteerd.
+Voor de uitgevoerde analyses ontvangt VWS facturen van de laboratoria 
+met een prijs en hoeveelheidscomponent conform de gesloten overeen­
+komst. De prijs is te controleren aan de hand van deze overeenkomst. Voor 
+de controle van de hoeveelheid in rekening gebrachte testen krijgt VWS 
+een rapportage via de GGD GHOR, gegevens die via het IT-systeem CoronIT 
+worden aangeleverd. Om deze rapportage te kunnen gebruiken voor de 
+controle van facturen dient vastgesteld te worden dat deze rapportage 
+betrouwbare informatie bevat. Zolang dat niet vastgesteld is kan er geen 
+absolute objectieve zekerheid verkregen worden over de aantallen die in 
+rekening worden gebracht. In 2022 zijn verschillende onderzoeken 
+uitgevoerd om een antwoord te geven op de vraag of de data die Dienst 
+Testen ontvangt en gebruikt voor de controle van de facturen betrouwbaar 
+is. Mede op basis van deze onderzoeken blijkt dat de controle-informatie 
+onvoldoende is om op factuurniveau te controleren dat de in rekening 
+gebrachte aantallen juist zijn. De aandachtspunten liggen onder andere op 
+de general IT-controls (o.a. het beheer van de service level agreements en 
+de juiste en volledige werking van interfaces) en de verwerking binnen de 
+gehele informatieketen. Dit leidt tot een onzekerheid van € 528 miljoen.
+Artikel 6 – Verplichtingen
+Specifieke uitkering Stimulering Sport en Specifieke uitkering Zwembaden 
+en IJsbanen COVID-19 
+Voor de verleningen SPUK (Specifieke Uitkering) Stimulering Sport 2022 is 
+een bedrag van € 51 miljoen als fout aangemerkt. Deze fout komt voort uit 
+weeffouten in de opzet van de regeling waardoor deze niet goed contro­
+leerbaar is. Vanaf 2024 komt er een gewijzigde regeling.
+Bij de SPUK Zwembaden en IJsbanen wordt € 30,9 miljoen als onzeker 
+aangemerkt. Deze onzekerheid is ontstaan omdat de exploitatietekorten niet 
+goed te berekenen zijn en hiermee een M&O risico ontstaat.
+VWS heeft voor beide regelingen nadere deelwaarnemingen gedaan 
+waarbij de daadwerkelijke aangetroffen omissies zeer klein zijn. Wij 
+concluderen daarbij dat de controlemaatregelen in opzet voldoende zijn, 
+wel had er meer aandacht voor M&O risico’s moeten zijn. VWS zal hier in 
+2023 extra alert op zijn.
+Samenvattende staat baten-lastenagentschappen
+Voor wat betreft de agentschappen wordt er in totaal een onrechtmatigheid 
+van € 85,2 miljoen geconstateerd. Deze onrechtmatigheid heeft voorna­
+melijk betrekking op drie fouten. Als eerste heeft dit betrekking op de opslag 
+van coronavaccins (tot ‒ 70 graden Celsius) bij het RIVM ter hoogte van 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 112

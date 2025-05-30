@@ -1,0 +1,52 @@
+10. Saldibalans
+Tabel 44 Saldibalans per 31 december 2022 van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) 
+(bedragen x € 1.000)
+1
+Activa Passiva
+31-12-2022 31-12-2021 31-12-2022 31-12-2021
+Intra-comptabele posten
+1) Uitgaven ten laste van de 31.400.530 33.112.558 2) Ontvangsten ten gunste van de 1.257.938 784.853
+begroting begroting
+3) Liquide middelen 0 0
+4) Rekening-courant 0 4a) Rekening- 30.085.752 32.292.891
+Rijkshoofdboekhouding courant Rijkshoofdboekhouding
+5) Rekening-courant RHB 280.000 275.000 5a) Begrotingsreserves 280.000 275.000
+Begrotingsreserve
+6) Vorderingen buiten 527 16.900 7) Schulden buiten 57.367 51.714
+begrotingsverband begrotingsverband
+8) Kas-transverschillen 0 0
+Subtotaal intra-comptabel 31.681.057 33.404.458 Subtotaal intra-comptabel 31.681.057 33.404.458
+Extra-comptabele posten
+9) Openstaande rechten 0 0 9a) Tegenrekening openstaande 0 0
+rechten
+10) Vorderingen 1.010.217 686.038 10a) Tegenrekening vorderingen 1.010.217 686.038
+11a) Tegenrekening schulden 0 0 11) Schulden 0 0
+12) Voorschotten 17.152.872 21.559.620 12a) Tegenrekening voorschotten 17.152.872 21.559.620
+13a) Tegenrekening 176.676 297.146 13) Garantieverplichtingen 176.676 297.146
+garantieverplichtingen
+14a) Tegenrekening andere 22.850.908 22.502.408 14) Andere verplichtingen 22.850.908 22.502.408
+verplichtingen
+15) Deelnemingen 34.188 34.188 15a) Tegenrekening deelnemingen 34.188 34.188
+Subtotaal extra-comptabel 41.224.861 45.079.400 Subtotaal extra-comptabel 41.224.861 45.079.400
+Totaal 72.905.918 78.483.858 Totaal 72.905.918 78.483.858
+1 Door afronding kan de som van de delen afwijken van het totaal.
+Toelichting op de saldibalans 
+Intra comptabele posten
+Intra comptabele posten zijn de saldi op de grootboekrekeningen die op 
+basis van het bij het Rijk gevoerde begrotings/boekhoudstelsel (verplich 
+tingen-kasstelsel) in een dwingend evenwichtsverband met het kas/ 
+bankboek (inclusief de rekening-courant met Financiën/RHB) worden 
+bijgehouden.
+Extra-comptabele posten
+Extra-comptabele posten zijn de saldi op de grootboekrekeningen die op 
+grond van het bij het Rijk gevoerde begrotings-/boekhoudstelsel (verplich­
+tingen-kasstelsel) niet in dwingend evenwichtsverband met het intra- 
+comptabele deel van het grootboek worden bijgehouden. Er worden extra 
+grootboekrekeningen voor ingericht, die door middel van aanvullende 
+boekingen worden bijgehouden (vandaar extra-comptabel). De tegenreke 
+ningen die daarbij worden gebruikt, zijn nodig om pro forma het 
+evenwichtsverband in stand te kunnen houden.
+De cijfers in de saldibalans zijn vermeld in duizendtallen en afgerond naar 
+boven. Hierdoor kunnen bij het subtotaal en het totaal afrondingsverschillen 
+optreden.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XVI, nr. 1 154
