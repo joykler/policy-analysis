@@ -205,7 +205,7 @@ function Export-RawTextPagesFromSourceFile {
                         }
                     }
 
-                    if ($(Get-Content -Path $TargetPageFile.Path -Raw) -ne $TargetPageText) {
+                    if ($(Get-Content -Path $TargetPageFile.Path -Raw).Trim() -ne $TargetPageText) {
                         Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
 
                         Write-Output $TargetPageFile
