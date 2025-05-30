@@ -46,4 +46,4 @@ gerapporteerd omdat het bedrag van (meest waarschijnlijke) fouten en onzekerhede
 vermeerderd met het bedrag van de basisonnauwkeurigheid en het nauwkeurigheidsverval (de 
 zogenaamde maximale fout bij het gebruik van statistische steekproeven), de tolerantiegrens wel 
 overschrijdt. Dan wordt geen percentage opgenomen in de tabel.
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 129
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1

@@ -48,4 +48,4 @@ alle organisatieonderdelen om door beveiliging te testen beter inzicht te
 krijgen in zwakke plekken. Er wordt gewerkt aan de inzet van tooling 
 waarmee (IB-) risico’s en compliance kunnen worden vastgelegd en 
 gemonitord. Voor de Belastingdienst geldt dat er de basis van een 
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1 141
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IX, nr. 1
