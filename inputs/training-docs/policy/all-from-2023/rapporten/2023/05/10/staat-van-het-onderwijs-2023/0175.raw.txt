@@ -35,5 +35,4 @@ N
 nbi niet-bekostigde instelling 
 NCO Nationaal Cohortonderzoek Onderwijs
 NP Onderwijs Nationaal Programma Onderwijs
-NVAO Nederlands-Vlaamse Accreditatieorganisatie 
-175
+NVAO Nederlands-Vlaamse Accreditatieorganisatie

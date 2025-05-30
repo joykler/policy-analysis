@@ -57,4 +57,3 @@ kwintiel kwintiel kwintiel kwintiel kwintiel
 Kwintielindeling achterstandsscore scholen
 *het laagste kwintiel is de 20% scholen met de laagste schoolweging; het hoogste kwintiel de 20% scholen met de hoogste 
 schoolweging
-61

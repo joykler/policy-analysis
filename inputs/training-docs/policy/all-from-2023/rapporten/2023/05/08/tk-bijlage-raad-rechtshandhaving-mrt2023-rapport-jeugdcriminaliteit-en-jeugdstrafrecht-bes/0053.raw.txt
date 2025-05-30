@@ -38,6 +38,4 @@ bedrijfsvoering -leerplichtambtenaar
  
 - Ministerie van JenV  
 -coördinerend 
-beleidsmedewerker DGSenB 
-  
-53
+beleidsmedewerker DGSenB
