@@ -1,0 +1,32 @@
+11.2 Afschaffen verlaagde energiebelastingtarieven voor de glastuinbouwsector  
+ 
+Korte beschrijving van de maatregel 
+De energiebelasting kent verlaagde energiebelastingtarieven op aardgas voor de glastuinbouwsector. Het 
+kabinet stelt voor om de verlaagde tarieven vanaf 2025 geleidelijk af te schaffen. Hiermee wordt de 
+energietransitie in de glastuinbouw ondersteund, een vorm van staatssteun afgeschaft en een budgettaire 
+opbrengst gerealiseerd. 
+ 
+Tabel 1: Budgettaire effecten maatregel, prijzen 2025 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+  2024 2025 2026 2027 Struc. 
+Afschaffen verlaagde energiebelastingtarieven voor de 0 37 55 85 112 
+glastuinbouwsector 
+Interactie-effect met afschaffing wkk vrijstelling 0 9 14 23 51 
+Totaal 0 46 69 108 163 
+ 
+Kern van de raming 
+Op dit moment zijn de tarieven voor de glastuinbouw een fractie van het reguliere tarief. Dit percentage wordt 
+vanaf 2025 geleidelijk verhoogd tot de tarieven in 2030 gelijk zijn aan de reguliere tarieven. 
+ 
+Tabel 2: verlaagd tarief glastuinbouw als percentage van regulier tarief  
+ 2024 2025 2026 2027 2028 2029 2030 
+Eerste schijf 16% 30% 44% 58% 72% 86% 100% 
+Tweede schijf 37% 50% 60% 70% 80% 90% 100% 
+ 
+Vanuit de Belastingdienst zijn grondslaggegevens beschikbaar voor het gebruik in de eerste en tweede schijf 
+van de energiebelasting tot en met 2021. Op basis van de KEV22 en de impactstudie van Trinomics naar de 
+afschaffing van de vrijstellingen is vervolgens een raming gemaakt van de ontwikkeling van het verbruik 
+richting 2030 en verder. Het gasverbruik van de sector zal naar verwachting tot en 2035 fors dalen als gevolg 
+van besparing, verduurzaming en gedragseffecten van de maatregel. De tarieven worden gelijktijdig afgebouwd 
+met de ingroei van de afschaffing van de inputvrijstelling WKK. Beide maatregelen kennen een interactie-
+effect. Dit effect is in de raming meegenomen.

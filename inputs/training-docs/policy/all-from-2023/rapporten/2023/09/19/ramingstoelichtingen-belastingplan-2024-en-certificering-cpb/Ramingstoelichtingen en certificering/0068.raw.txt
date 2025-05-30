@@ -1,0 +1,21 @@
+15.1 Afschaffen vrijstellingen voor metallurgische en mineralogische procedés 
+ 
+Korte beschrijving van de maatregel 
+Op dit moment bestaat er een aantal vrijstellingen in de energiebelasting voor energie-intensieve processen in 
+de industrie. Specifiek gaat het om het gas en elektriciteitsverbruik in de sectoren 25 metaalproducten, 24 
+ijzer- en staalindustrie, 23 bouwmaterialen en 20.13 overige anorganische chemie. Deze vrijstellingen worden 
+per 2025 afgeschaft.  
+ 
+Tabel: Budgettaire effecten maatregel, prijzen 2025 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Afschaffen vrijstellingen voor metallurgische en 
+mineralogische procedés 0 166 160 162 196 
+ 
+Kern van de raming 
+Van de verschillende sectoren zijn verbruiksgegevens bekend per schijf voor het jaar 2020. Op basis van deze 
+verdeling en het onderzoek van Trinomics een inschatting gemaakt van de relevante grondslag binnen de 
+vrijstellingen. Deze grondslag is op basis van de KEV in het Trinomics onderzoek geëxtrapoleerd naar 2035. 
+Door afschaffing van de vrijstellingen worden de reguliere tarieven van de energiebelasting van toepassing. Dit 
+zorgt voor een lastenstijging en winstdaling die niet volledig kan worden doorberekend in de prijs. Derhalve is 
+uitgegaan van een gedragseffect van de maatregel op basis van de prijselasticiteit van -0,2 over 10 jaar.

@@ -1,0 +1,23 @@
+11.1 CO2 Heffing glastuinbouw 
+ 
+Korte beschrijving van de maatregel 
+Met dit wetsvoorstel wordt de een heffing geïntroduceerd op de CO2 uitstoot van de glastuinbouw. Vanaf 2025 
+betaalt de glastuinbouw een vlakke heffing over de gebruikte warmte en het gebruikte aardgas. 
+ 
+Tabel: Budgettaire effecten maatregel, prijzen 2025 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+CO2 heffing glastuinbouw 
+0 3 5 7 13 
+ 
+Kern van de raming 
+De CO2 heffing van de glastuinbouw is van toepassing op de gas- en warmte-inzet in de glastuinbouwsector. 
+Daarom is voor de grondslag uitgegaan van de gehele gasinzet binnen de glastuinbouwsector welke vanuit de 
+ramingen van de energiebelasting bekend is. De gasinzet is volgens de normen uit bijlage 2 van Regeling 
+kostenverevening reductie CO2-emissies glastuinbouw omgerekend naar CO2 uitstoot. Deze wordt vervolgens 
+gecorrigeerd voor de uitstoot van ETS-bedrijven.  
+ 
+Het pad richting 2030 is geraamd op basis van de ramingen van het gasverbruik die volgen uit de KEV inclusief 
+de effecten van de energiebelastingmaatregelen in het Belastingplan 2024. Deze grondslag is vervolgens 
+vermenigvuldigd met het tarief. Daar de CO2 heffing een zeer beperkte heffing is op de totale gasprijs wordt 
+verondersteld dat deze geen aanvullend gedragseffect veroorzaakt.

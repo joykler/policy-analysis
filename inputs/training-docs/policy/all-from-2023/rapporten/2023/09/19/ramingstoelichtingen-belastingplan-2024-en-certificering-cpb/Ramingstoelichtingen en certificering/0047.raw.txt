@@ -1,0 +1,50 @@
+7.1 Kwalificatiebeleid rechtsvormen 
+ 
+Korte beschrijving van de maatregel 
+Dit wetsvoorstel codificeert beleid en jurisprudentie over hoe naar buitenlands recht opgerichte rechtsvormen 
+voor de toepassing van de Nederlandse fiscale bepalingen gekwalificeerd moeten worden. Met behulp van de 
+rechtsvormvergelijkingsmethode worden de inkomsten en (winst)uitkeringen van of aan rechtsvormen, die 
+naar buitenlands recht zijn opgericht, op dezelfde wijze in de Nederlandse heffing betrokken, als het geval zou 
+zijn bij de (meest) vergelijkbare Nederlandse rechtsvorm.  
+ 
+Indien er geen vergelijkbare Nederlandse rechtsvorm is, voorziet het wetsvoorstel in twee aanvullingen om in 
+die situaties de buitenlandse rechtsvorm te kwalificeren zodat de inkomsten of uitkeringen in de Nederlandse 
+heffing kunnen worden betrokken. Voor niet vergelijkbare buitenlandse rechtsvormen gaat gelden dat a) indien 
+zij in Nederland zijn gevestigd, zij als zelfstandig belastingplichtig lichaam worden aangemerkt (ten gevolge van 
+de vaste kwalificatiemethode); of b) indien zij niet in Nederland zijn gevestigd, voor de kwalificatie zelfstandig- 
+of transparant- lichaam de fiscale wetgeving van het vestigingsland wordt gevolgd (de symmetrische 
+kwalificatiemethode). 
+ 
+In samenhang met voorstaande wordt tevens voorgesteld om het unanieme toestemmingsvereiste, en 
+daarmee de open commanditaire vennootschap, af te schaffen. Hiermee verdwijnt het - in het buitenland niet 
+bestaande - fiscale onderscheid tussen open en besloten commanditaire vennootschappen en wordt de 
+toepassing van de rechtsvormvergelijkingsmethode op naar buitenlands recht opgerichte 
+personenvennootschappen eenvoudiger. In dit wetsvoorstel is overgangsrecht opgenomen ter begeleiding van 
+de gevolgen van deze afschaffing. 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Kwalificatiebeleid rechtsvormen 
+0 0 0 0 0 
+ 
+Kern van de raming 
+In samenhang met de codificatie van de rechtsvormvergelijkingsmethode wordt voorgesteld om zelfstandige 
+belastingplicht van de zogenoemde open commanditaire vennootschap (cv) per 1 januari 2025 te laten 
+vervallen.  
+Met ATAD2 (per 1 januari 2020 ingevoerd) zijn al maatregelen genomen om het belastingontwijkingseffect van 
+hybride mismatches op te heffen door een belastingheffing of weigering van aftrek. Met dit wetsvoorstel wordt 
+verder geregeld dat minder hybride mismatches zullen ontstaan (“aanpak bij de bron”). De in het wetsvoorstel 
+voorgestelde aanvullende kwalificatiemethode voor buitenlandse rechtsvormen leidt naar verwachting slechts 
+in een gering aantal zeer specifieke gevallen tot een wijziging van de kwalificatie van fiscaal transparant naar 
+fiscaal niet-transparant of omgekeerd. Om die reden is sprake van een verwaarloosbaar budgettair effect. 
+ 
+Met het wetsvoorstel vervalt ook de zelfstandige belastingplicht, en de cv dus voor fiscale doeleinden fiscaal 
+transparant wordt, wordt de belastingheffing verlegd van de open cv naar de vennoten. Bij toepassing van de 
+doorschuiffaciliteit (al dan niet in combinatie met de aandelenfusie faciliteit) zullen eventuele belastingclaims 
+op stille reserves, fiscale reserves en goodwill van de open cv behouden blijven na overgang van het vermogen 
+van de open cv naar de vennoten. In een beperkt aantal situaties zal mogelijk worden afgerekend over deze 
+belastingclaims (al dan niet met toepassing van uitstel van betaling). Op basis van een netto contante waarde 
+berekening zal dit een verwaarloosbaar budgettair effect hebben omdat heffing alleen in de tijd verplaatst 
+wordt. Onder de veronderstelling dat de belastingdruk in de open cv - gemiddeld gezien - even hoog is als bij de 
+vennoten, heeft het wetsvoorstel op dit onderdeel geen budgettair effect.

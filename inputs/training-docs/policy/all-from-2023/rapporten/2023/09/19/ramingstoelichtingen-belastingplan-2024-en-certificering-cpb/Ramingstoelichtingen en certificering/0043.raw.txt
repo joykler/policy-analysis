@@ -1,0 +1,43 @@
+5.2 Wijziging definitie fgr 
+ 
+Korte beschrijving van de maatregel 
+De definitie van het fonds voor gemene rekening (fgr) wordt aangepast. Een fgr moet een beleggingsfonds of 
+fonds voor collectieve belegging in effecten zijn als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, 
+en de deelgerechtigdheid in dit fonds blijkt uit verhandelbare bewijzen van deelgerechtigdheid. In de nieuwe 
+definitie vervalt het huidige toestemmingsvereiste.  
+ 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Wijziging definitie fgr 
+0 0 0 0 0 
+ 
+Kern van de raming 
+Doordat de zelfstandige belastingplicht van de fgr voor niet-beursgenoteerde bedrijven vervalt, en deze 
+rechtsvormen dus voor fiscale doeleinden fiscaal transparant worden, wordt de belastingheffing verlegd naar 
+de aandeelhouders. In de situatie dat de deelnemer een vpb-plichtig lichaam is, zoals een besloten 
+vennootschap, zal de heffing in de vennootschapsbelastingsfeer blijven plaatsvinden. In dat geval is er sprake 
+van verlegging van de vpb-plicht van de ene vpb-plichtige naar de andere vpb-plichtige. Er zijn geen redenen 
+om aan te nemen dat dit tot meer of minder heffing leidt. 
+ 
+In de situatie dat de deelnemer een natuurlijk persoon of een personenvennootschap woonachtig/gevestigd in 
+Nederland is, zal het rendement uit de fgr in principe in de inkomstenbelasting, via box 1, 2 of 3, in de heffing 
+betrokken worden. In de situatie dat de deelneming als onderneming gezien wordt, zal de heffing via box 1 
+plaatsvinden. De verwachting is echter dat dit niet vaak voorkomt omdat het om een fgr gaat. Het de 
+deelnemer een ab-belang in een deelneming heeft is, is box 2 van toepassing. Zijn het vooral participatie-
+belang in een deelneming, dan is box 3 van toepassing. 
+ 
+Het is echter niet bekend tegen welke tarieven de heffing bij de participanten zal gaan plaatsvinden. Mede 
+omdat het totale vpb-bedrag met € 11 miljoen relatief laag is, kan de aanname worden gedaan dat het 
+gemiddelde tarief in de inkomstenbelasting (box 1, 2 of box 3) gelijk is aan het gemiddelde tarief in de 
+vennootschapsbelasting dat op het niveau van de fgr verschuldigd was, in combinatie met de 
+inkomstenbelasting op het niveau van de deelnemers (combinatie vpb-heffing en box 2).  
+Onder de veronderstelling dat de belastingdruk in de fgr - gemiddeld gezien - even hoog is als bij de 
+participanten, heeft het wetsvoorstel op dit onderdeel geen budgettair effect. 
+ 
+Bij toepassing van de doorschuiffaciliteit (al dan niet in combinatie met de aandelenfusie faciliteit) zullen 
+eventuele belastingclaims op stille reserves, fiscale reserves behouden blijven na overgang van het vermogen 
+naar de vennoten. In een beperkt aantal situaties zal mogelijk worden afgerekend over deze belastingclaims (al 
+dan niet met toepassing van uitstel van betaling). Op basis van een netto contante waarde berekening zal dit 
+een verwaarloosbaar budgettair effect hebben omdat heffing alleen in de tijd verplaatst wordt.

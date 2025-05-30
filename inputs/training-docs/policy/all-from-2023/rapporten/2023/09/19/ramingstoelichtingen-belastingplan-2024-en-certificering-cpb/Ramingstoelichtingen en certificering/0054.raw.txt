@@ -1,0 +1,31 @@
+10.4 Aanpassen verhoudingsgetal voor meenemen verliezen bij geruisloze 
+terugkeer 
+ 
+Korte beschrijving van de maatregel 
+In aanpassing artikel 14c, derde lid, Wet Vpb 1969 wordt geregeld dat bij een geruisloze terugkeer uit de bv 
+naar de IH, de verliezen mogen worden meegenomen.  Daarbij worden de in de vennootschapsbelastingsfeer 
+geleden verliezen op forfaitaire wijze gecorrigeerd voor de tariefverschillen tussen de inkomstenbelasting en 
+de vennootschapsbelasting door middel van een bepaalde breuk (verhoudingsgetal). Dit verhoudingsgetal staat 
+‘hard’ in de wet. In het Belastingplan 2023 is, ondanks de in die wet opgenomen tariefswijzigingen, het 
+verhoudingsgetal niet aangepast en daarmee “15/42” gebleven. 
+De bedoeling was om dit verhoudingsgetal, vanwege de aanpassing van het lage vennootschapsbelastingtarief 
+in combinatie met de aftopping van het tarief waartegen de aftrek van de MKB-winstvrijstelling plaatsvindt (en 
+de geldende inkomstenbelastingtarieven), in lijn met de eerdere vaststellingen van dit verhoudingsgetal te 
+actualiseren en daarmee aan te passen naar “19/44”. Door middel van een beleidsbesluit is vooruitlopend op 
+wetgeving al goedgekeurd dat het verhoudingsgetal van “15/42” met terugwerkende kracht tot en met 1 
+januari 2023 wordt vervangen door “19/44”.  
+Met deze wet wordt voorgesteld om het verhoudingsgetal nu ook te vervangen door een formule. Daarmee 
+sluit het verhoudingsgetal automatisch aan bij eventuele toekomstige tariefswijzigingen in de 
+inkomstenbelasting (rekening houdend met de MKB-winstvrijstelling) en de vennootschapsbelasting. 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Aanpassen verhoudingsgetal voor meenemen verliezen 
+bij geruisloze terugkeer 0 0 0 0 0 
+ 
+Kern van de raming 
+Voor 2023 herstelt de maatregel een omissie. Daardoor heeft deze maatregel geen budgettair effect.  Voor 
+2024 en later heeft de geen budgettair effect om het getal uit de formule aansluit bij het beoogde 
+verhoudingsgetal van de huidige tarieven. Als het vpb-tarief wijzigt in de toekomst, worden budgettaire 
+effecten met betrekking tot artikel 13c worden dan automatisch meegenomen in het budgettaire effect van 
+het wijzigen het vpb-tarief.

@@ -1,0 +1,75 @@
+Impact het voorstel, zoals: 
+Leeswijzer uitvoeringstoets  
+In het kader wordt met de rubriek “impact” geduid wat  aard en omvang van de doelgroep;
+de verwachte impact van het voorstel op de uitvoering  begrijpelijkheid en uitlegbaarheid van het voorstel;
+is. Dit kan zijn: ingrijpend, middelgroot, of beperkt. Bij  noodzakelijke communicatie;
+het maken van de inschatting wordt onder meer  verwachte gevolgen voor de dienstverlening van de
+Impact: beperkt / middelgroot / ingrijpend 
+gekeken naar de omvang van de geraakte doelgroep, de Belastingdienst, Douane of Toeslagen, zoals
+mate waarin aanpassingen in de automatisering nodig bijvoorbeeld meer of minder vragen bij de
+zijn en de omvang van de personele gevolgen. BelastingTelefoon of een toe- of afname van het
+aantal bezwaren en beroepen.
+Interactie burgers/bedrijven x 
+Beperkt geeft aan dat het om min of meer routine-
+Maakbaarheid systemen  x 
+matige aanpassingen gaat, zonder of slechts met Groen: een groene vlag geeft aan dat zich in de 
+Handhaafbaarheid  x beperkte gevolgen voor de automatisering en de interactie tussen burgers en bedrijven en de 
+personele capaciteit. Belastingdienst, Douane of Toeslagen naar verwachting 
+Fraudebestendigheid x 
+geen bijzondere problemen zullen voordoen. 
+Complexiteitsgevolgen nvt 
+Middelgroot geeft aan dat het om een maatregel met 
+grotere gevolgen gaat. Een systeem moet bijvoorbeeld Geel: een gele vlag geeft de verwachting aan dat de 
+Risico procesverstoringen: groot / gemiddeld / klein 
+substantieel worden aangepast, of er moet een nieuw interactie met burgers en bedrijven rond een voorstel 
+systeem worden ontwikkeld. Er zijn grotere personele niet vanzelfsprekend zal verlopen, bijvoorbeeld als 
+Uitvoeringskosten incidenteel structureel 
+gevolgen, of er is een wezenlijke impact op een of meer gevolg van een toename van complexiteit, een 
+ Dienstverlening €         0 €         0 doelgroepen. verandering van de doelgroep of de noodzaak voor 
+burgers en bedrijven nieuwe informatie te verwerken.  
+ Handhaving/toezicht €         0 €         0 
+Ingrijpend geeft aan dat het om een maatregel met 
+ Automatisering €         0 €         0 
+grote gevolgen gaat. De maatregel is een stelsel- Rood: een rode vlag geeft de verwachting aan dat het 
+wijziging of heeft daarvan de trekken. Er zijn grote niet goed mogelijk zal zijn burgers en bedrijven te 
+Personele gevolgen: 2 fte incidenteel 
+gevolgen voor de automatisering, de personele informeren over de gevolgen van het voorstel. Het 
+-1 fte structureel
+bezetting, et cetera. De impact op een of meer gevolg hiervan kan zijn dat de interactie stokt, of dat er 
+doelgroepen wordt groot ingeschat. problemen ontstaan omdat burgers en bedrijven niet 
+Invoering mogelijk per: 01 – 01 – 2022 
+doet wat, of iets anders doen dan, van hen wordt 
+Indien er geen uitvoeringsgevolgen voor de verwacht. Hoe zwaar dit uiteindelijk weegt, is mede 
+Beslag portfolio: jaaraanpassing 
+Belastingdienst, Douane of Toeslagen zijn, wordt dit afhankelijk van de omvang van de doelgroep die door 
+aangeduid met “geen”. de maatregel wordt geraakt.  
+Eindoordeel:  uitvoerbaar 
+De inschatting van de gevolgen van het voorstel speelt Indien er geen impact is op burgers en bedrijven, wordt 
+een rol bij de verdere beoordeling van de uitvoerbaar- dit aangegeven met “Niet van toepassing.”.  
+heid. Naarmate een voorstel meer burgers of bedrijven 
+raakt, wegen de interactiegevolgen bijvoorbeeld Maakbaarheid systemen 
+Inleiding 
+zwaarder mee in het eindoordeel. Dit onderdeel beschrijft de gevolgen voor de informatie-
+De uitvoeringstoets geeft vanuit het perspectief van de 
+voorzieningssystemen (IV-systemen), zoals: 
+Belastingdienst, Toeslagen en Douane inzicht in de 
+Beschrijving voorstel/regeling  welke gevolgen het voorstel heeft voor de opslag en
+gevolgen van voorstellen voor nieuwe wet- en 
+Dit onderdeel beschrijft het voorstel waarover gevraagd het beheer van gegevens;
+regelgeving. De uitvoeringstoetsen worden uitgewerkt 
+is een uitvoeringsoordeel te geven. Waar bij het  welke wijzigingen in of nieuwe stromen van en naar
+in een sjabloon. Deze leeswijzer geeft een toelichting op 
+opstellen van de toets van bepaalde randvoorwaarden burgers en bedrijven noodzakelijk zijn;
+de verschillende onderdelen van het sjabloon. 
+of veronderstellingen is uitgegaan, worden die hier ook  welke aanpassingen in IV-voorzieningen nood-
+beschreven. zakelijk zijn;
+Het kader 
+ wat de bouwbaarheid is van de noodzakelijke
+Het kader bevat een samenvattend overzicht van de 
+Interactie burgers/bedrijven aanpassingen;
+relevante uitvoeringsaspecten, inclusief de uitvoerings-
+Dit onderdeel beschrijft de verwachte impact op de  of de aanpassingen (tijdig) inpasbaar zijn in het
+kosten en personele gevolgen. Het vervolg van de 
+interactie met burgers en bedrijven als gevolg van IV-portfolio;
+uitvoeringstoets geeft daarop een toelichting. 
+2

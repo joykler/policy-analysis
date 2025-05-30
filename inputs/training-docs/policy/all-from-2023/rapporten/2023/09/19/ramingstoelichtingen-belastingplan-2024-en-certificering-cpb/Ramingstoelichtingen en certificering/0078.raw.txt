@@ -1,0 +1,34 @@
+weinig aannames over parameters en maakt de simulaties op basis van administratieve data van hoge 
+kwaliteit, waardoor er weinig onzekerheid in het model of de data zit. Het CPB beoordeelt deze raming als 
+neutraal en redelijk met een lage onzekerheid.  
+Verlagen vrijstellingspercentage bedrijfsopvolgingsregeling (BOR) naar 70% boven €1,5 miljoen 
+ondernemingsvermogen 
+Deze maatregel betreft het verlagen van het vrijstellingspercentage van de goingconcernwaarde boven de 
+drempel van 83% naar 70% en het verhogen van de drempel naar €1,5 miljoen per objectieve onderneming.  
+De grondslag is ingeschat op basis van de aangiftegegevens schenk- en erfbelasting van de Belastingdienst 
+voor het jaar 2018. Dit is het meest recente jaar waarover volledige aangiftegegevens inclusief BOR-gevallen 
+beschikbaar zijn en niet meer significant veranderen. Deze data zijn betrouwbaar, maar relatief oud en 
+brengen dus een hoge mate van onzekerheid met zich mee. Daarnaast leunt de raming sterk op de 
+veronderstellingen over het gedragseffect, het ingroeipad en het anticipatie-effect dat optreedt omdat de 
+maatregel pas in 2025 ingaat. De raming kent daarmee een hoge mate van onzekerheid. 
+Overbruggingswet box 3 
+De overgang op een box-3-heffing wordt op basis van werkelijk rendement naar verwachting uitgesteld van 
+2026 naar 2027. Aangezien de Overbruggingswet box 3 in 2023 reeds volledig is ingevoerd, wordt voor de 
+raming de endogene ontwikkeling na 2023 buiten beschouwing gelaten. Het geraamde bedrag voor 2026 is 
+dus hetzelfde als voor de jaren 2023-2025.  
+De gedragseffecten zijn ingeschat op 20% van wat individuele belastingplichtigen meer gaan betalen onder de 
+overbruggingswetgeving. Sommige huishoudens, met name beleggers en huishoudens met grote vermogens 
+en grote schulden in box 3, gaan meer belasting betalen. In het oude stelsel konden schulden worden 
+afgetrokken tegen het rendement uit Rendementsklasse II (ca. 6%). Hiervoor in de plaats komt een apart 
+forfait op schulden van circa 2%. Er wordt aangenomen dat belastingplichtigen die onder de 
+overbruggingswetgeving minder gaan betalen ten opzichte van het oude stelsel, geen significant gedragseffect 
+vertonen. Deze huishoudens hadden blijkbaar in het oude stelsel een voorkeur voor sparen boven beleggen, 
+en er is geen reden om aan te nemen dat dit verandert. Enkele huishoudens zullen mogelijk minder gaan 
+beleggen dan in het oude stelsel, maar dit effect zal beperkt zijn. 
+Aangenomen wordt dat er geen peildatumarbitrage mogelijk is. Dit is expliciet verboden in de wet. De 
+omzetting van hoogrenderende overige beleggingen in laagrenderend spaargeld is niet toegestaan in een 
+periode van drie maanden rond 1 januari. Er komen vragen in de aangifte om dit te kunnen handhaven. Het 
+CPB beoordeelt de raming inclusief de aanname dat peildatumarbitrage op deze manier niet voorkomt als 
+redelijk en neutraal, maar hoog onzeker.
+Pagina 7 van 9 
+CPB PUBLICATIE – Certificering budgettaire ramingen Belastingplan 2024, overige wetsvoorstellen en Overbruggingswet box 3

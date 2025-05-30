@@ -1,0 +1,48 @@
+12.2 Afschaffen van doelmatigheidsmarge BOR en DSR ab 
+ 
+Korte beschrijving van de maatregel 
+De doelmatigheidsmarge voor de BOR en de DSR ab houdt in dat bij vennootschappen beleggingsvermogen tot 
+5% van het ondernemingsvermogen wordt aangemerkt als ondernemingsvermogen. Voorgesteld wordt om de 
+doelmatigheidsmarge af te schaffen. De afschaffing van de doelmatigheidsmarge treedt voor de BOR per 1 
+januari 2025 in werking, terwijl de inwerkingtredingsdatum voor de DSR ab nog zal worden vastgesteld via een 
+koninklijk besluit. 
+ 
+Tabel: Budgettaire effecten maatregel 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Afschaffen doelmatigheidsmarge BOR & DSR 
+0 3 3 4 19 
+ 
+Kern van de raming 
+Door het afschaffen van de doelmatigheidsmarge kan beleggingsvermogen tot 5% van het 
+ondernemingsvermogen dat mee wordt geschonken of nagelaten niet langer kwalificeren als 
+ondernemingsvermogen voor de BOR en de DSR ab. Dit beleggingsvermogen zal tegen een hoger tarief worden 
+belast en uitstel van belastingbetaling over de vervreemdingswinst van dit vermogen zal niet langer mogelijk 
+zijn.  
+ 
+De hoogte van beleggingsvermogen dat jaarlijks door de doelmatigheidsmarge als ondernemingsvermogen 
+kwalificeert is niet direct af te leiden uit aangiftegegevens. Voor de raming is allereerst op basis van 
+aangiftegegevens de omvang van het ondernemingsvermogen dat jaarlijks binnen de AB-sfeer via de BOR 
+wordt nagelaten of geschonken geraamd. Vervolgens is verondersteld dat ondernemingen over voldoende 
+beleggingsvermogen beschikken om de doelmatigheidsmarge volledig te benutten, en dat zij vanwege de 
+sterke fiscale prikkel van de BOR de marge ook daadwerkelijk volledig benutten.  
+ 
+Het beleggingsvermogen dat door de doelmatigheidsmarge als ondernemingsvermogen kwalificeert is 
+vervolgens geraamd op 5% van het jaarlijks nagelaten en geschonken ondernemingsvermogen. Dit 
+beleggingsvermogen zal door de maatregel tegen een hoger tarief worden belast bij schenking of erfenis. De 
+ex-ante budgettaire opbrengst is vervolgens verlaagd met een gedragseffect van 20%, doordat een deel van de 
+grondslag zal wegvallen. Daarnaast kent de opbrengst vanwege een veronderstelde uitstel van schenkingen 
+een ingroei over een periode van 20 jaar waardoor de structurele opbrengst pas in 2045 bereikt wordt.  
+ 
+De budgettaire opbrengt voor de DSR ab is als volgt geraamd. Door de maatregel schuift de belastingclaim op 
+het vervreemdingsvoordeel (vervreemdingswaarde minus de verkrijgingswaarde) van het beleggingsvermogen 
+dat door de doelmatigheidsmarge nu als ondernemingsvermogen kwalificeert niet langer door naar de 
+volgende eigenaar. Op basis van aangiftegegevens is in de raming verondersteld dat het 
+vervreemdingsvoordeel gelijk staat aan het beleggingsvermogen dat door de maatregel wordt uitgesloten van 
+de DSR ab.  
+ 
+De belasting over dit vervreemdingsvoordeel kan door de maatregel niet langer worden uitgesteld. De netto 
+contante waarde van dit uitstel is gebaseerd op een discontovoet van 2,5% en een veronderstelde gemiddelde 
+duur tussen bedrijfsoverdrachten van circa 25 jaar. Voor de raming is verder aangenomen dat er momenteel na 
+één overdracht niet langer wordt doorgeschoven. Tot slot is de ex-ante budgettaire opbrengst verlaagd met 
+een gedragseffect van 20%.

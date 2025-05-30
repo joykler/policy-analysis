@@ -1,0 +1,30 @@
+Gebruikte indicatoren uit het Compendium voor de 
+Leefomgeving
+In deze Balans zijn verwijzingen naar indicatoren opgenomen uit het Compendium voor de 
+Leefomgeving (www.clo.nl). De indicatoren zijn ontwikkeld door de volgende kennisinstel-
+lingen: het Centraal Bureau voor de Statistiek (CBS), het Planbureau voor de Leefomgeving 
+(PBL), het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) en Wageningen University 
+& Research (Wageningen UR).
+Hoofdstuk 2: Klimaat en energie
+CLO­ indicator Titel URL
+https://www.clo.nl/nl005716
+0057 Waterwinning en watergebruik in Nederland, 1976-2020
+0165 Emissies broeikasgassen, 1990-2021 https://www.clo.nl/nl016541
+https://www.clo.nl/nl022615
+0226 Temperatuur in Nederland en mondiaal, 1907 - 2022
+https://www.clo.nl/nl050809
+0508 Jaarlijkse hoeveelheid neerslag in Nederland, 1910-2022
+0556 Energielabels van woningen, 2010 t/m 2022 https://www.clo.nl/nl055609
+https://www.clo.nl/nl058903
+0589 Temperatuurextremen in Nederland, 1907-2022
+https://www.clo.nl/nl059003
+0590 Neerslagextremen in Nederland, 1910-2022
+2043 Veiligheid primaire waterkeringen, 2001 - 2013 https://www.clo.nl/nl204305
+https://www.clo.nl/nl221201
+2212 Woningbouw ontwikkeling op ongunstige locaties 2000 - 2021
+Hoofdstuk 3: Circulaire economie
+CLO­ indicator Titel URL
+https://www.clo.nl/nl061901
+0619 Sankey van Nederlandse Materiaalstromen, 2018
+0621 Circular Material Use Rate (CMUR), 2010-2016 https://www.clo.nl/nl062101
+132 | Balans van de Leefomgeving 2023

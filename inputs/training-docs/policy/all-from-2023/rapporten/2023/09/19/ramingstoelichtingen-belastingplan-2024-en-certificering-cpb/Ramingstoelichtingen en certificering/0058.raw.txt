@@ -1,0 +1,32 @@
+11.3 Beperken vrijstelling elektriciteitsopwekking 
+ 
+Korte beschrijving van de maatregel 
+In de huidige situatie is alle gasinzet in WKK installaties vrijgesteld van energiebelasting. In het huidige voorstel 
+wordt de vrijstelling per 1-1-2025 beperkt door vanaf dat moment slechts een deel van de gasinput vrij te 
+stellen op basis van de aan het net geleverde elektriciteit. 
+ 
+Tabel 1: Budgettaire effecten maatregel, prijzen 2025 
+Bedragen in miljoen euro, ‘+’ = saldoverbeterend/lastenverzwarend 
+ 2024 2025 2026 2027 Struc. 
+Beperken vrijstelling elektriciteitsopwekking 0 102 122 136 171 
+ 
+Kern van de raming 
+Per 2025 wordt er per opleverde KHW elektriciteit een deel van de gasinput vrijgesteld. Deze factor wordt 
+richting 2030 afgebouwd naar 6 MJ per Kwh. Dit staat gelijk aan een elektrisch rendement van 60%. Het 
+afbouwpad wordt in tabel 2 weergegeven.  
+ 
+Tabel 2: afbouw factor KHW elektriciteit gasinput 
+ 
+2025 2026 2027 2028 2029 2030 
+MJ per kwh vrijgesteld 10,00  9,20  8,40  7,60  6,80  6,00  
+ 
+Middels een maatwerkopdracht van het CBS is inzicht verkregen in de WKK input en output van WKK 
+installaties per sector in 2020. Hierbij is tevens inzicht verkregen hoe de rendementen van de installaties 
+verdeeld zijn over verschillende sectoren. Daarnaast is vanuit de KEV22 en het Trinomics een inschatting 
+gemaakt hoe de WKK input en output zich de komende jaren zal ontwikkelen. Reeds voorganomen 
+maatregelen en de afschaffing zorgt voor een forse afname van het gasverbruik in wkk’s van circa 50% in 2035. 
+Dit zorgt voor een afnemende structurele opbrengst vanaf 2030. 
+ 
+De ingroei van de afschaffing van de inputvrijstelling WKK wordt gelijktijdig afgebouwd met de afbouw van de 
+verlaagde tarieven glastuinbouw. Beide maatregelen kennen interactie-effect. Dit effect is in de raming van de 
+afbouw van de verlaagde tarieven meegenomen.

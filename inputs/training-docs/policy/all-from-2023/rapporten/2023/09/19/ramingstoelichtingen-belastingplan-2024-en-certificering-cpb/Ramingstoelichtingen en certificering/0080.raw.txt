@@ -1,0 +1,39 @@
+eenvoud waarmee een basispad en een variant berekend kunnen worden. Dataonzekerheden hangen samen 
+met de hoeveelheid beschikbare relevante gegevens en de betrouwbaarheid van de bron. Onzekerheid kan ook 
+voortkomen uit gedrag, wanneer er grote gedragseffecten te verwachten zijn en deze effecten moeilijk in te 
+schatten zijn.  
+Tabel B1 Beoordelingscriteria onzekerheid 
+Beoordeling Model Data Gedrag 
+Zeer hoog Zeer moeilijk te modelleren Zeer weinig data Geen informatie over 
+potentieel gedrag 
+Zeer gevoelig voor onverifieerbare Slechte kwaliteit 
+aannamen 
+Hoog Zeer moeilijk te modelleren Weinig data Gedrag is volatiel of sterk 
+afhankelijk van factoren buiten 
+Zeer gevoelig voor onverifieerbare Veel van slechte kwaliteit het belastingstelsel 
+aannamen 
+Gemiddeld-hoog Moeilijk te modelleren Niet systematisch verzamelde Gedrag is moeilijk 
+data voorspelbaar 
+Aanmaken basispad beperkt mogelijk 
+Lastig te beoordelen externe 
+Gevoelig voor aannamen bron 
+Aannamen kunnen niet 
+gemakkelijk worden gecheckt 
+Gemiddeld Enigszins moeilijk te modelleren Incomplete data Aanzienlijke gedragsreacties of 
+afhankelijk van factoren buiten 
+Aanmaken basispad beperkt mogelijk Hoogwaardige externe bron belastingstelsel 
+Verifieerbare aannamen 
+Gemiddeld-laag Modelleren is eenvoudig Hoge datakwaliteit Gedrag is redelijk voorspelbaar 
+Aantal gevoelige aannamen 
+Laag Modelleren is eenvoudig Hoge datakwaliteit Stabiele en voorspelbare 
+gedragseffecten 
+Nieuwe parameters voor bestaand 
+beleid 
+Weinig of geen gevoelige aannamen 
+Relevantie [hoog – gemiddeld – laag] 
+Totale beoordeling [hoog – gemiddeld – laag] 
+Voor elk van deze onzekerheidsaspecten zal de relevantie per raming variëren. De een-na-laatste rij beschrijft 
+de relevantie van ieder aspect voor de desbetreffende raming. De laatste rij geeft een totaaloordeel over de 
+raming op basis van de voorgaande afwegingen.  
+Pagina 9 van 9 
+CPB PUBLICATIE – Certificering budgettaire ramingen Belastingplan 2024, overige wetsvoorstellen en Overbruggingswet box 3
