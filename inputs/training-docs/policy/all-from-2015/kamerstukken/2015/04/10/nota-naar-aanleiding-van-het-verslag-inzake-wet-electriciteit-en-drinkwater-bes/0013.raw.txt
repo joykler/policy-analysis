@@ -51,5 +51,4 @@ drinkwater, elektriciteits- en gasnetwerken, telecom, post) reguleert op basis v
 reguleringssystematieken.  
 De ACM heeft ervaring met de volgende vormen van regulering: cost-plusregulering, price-
 capregulering, omzetregulering, bonus-malus-prikkels, procesregulering, et cetera. Afhankelijk van de 
-wettelijke randvoorwaarden en de specifieke situaties van bedrijven of sectoren kiest de ACM de 
-13
+wettelijke randvoorwaarden en de specifieke situaties van bedrijven of sectoren kiest de ACM de

@@ -44,5 +44,4 @@ kwalificatie, maar ook op één of meer keuzedelen. Dat betekent dat het curricu
 alleen gericht moet zijn op het behalen van de kwalificatie-eisen die in het herziene 
 kwalificatiedossier zijn aangegeven voor de betreffende kwalificatie, maar ook op het 
 behalen van het keuzedeel of de keuzedelen die deel uitmaken van de opleiding. 
- W10455.NAV 
-28
+ W10455.NAV

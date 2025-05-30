@@ -43,5 +43,4 @@ niet gedetailleerd maar op een meer of minder geabstraheerde wijze beschreven zi
 (de mate is afhankelijk van de aard van de branche en het niveau van de 
 beroepsuitoefening), waardoor de instelling zelf de gewenste nadere invulling kan 
 geven. Dat kan voor elke kwalificatie en elk keuzedeel.  
- W10455.NAV 
-23
+ W10455.NAV

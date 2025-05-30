@@ -53,5 +53,4 @@ mogelijk dat een bank of beleggingsonderneming bij dezelfde derivatentransactie
                                                  
 20
  Veelal zal de cliënt het tegenpartijrisico op zijn bank afdekken door middel van het uitwisselen van 
-onderpand. EMIR stelt dit zelfs verplicht voor niet-geclearde OTC-derivaten. 
-39
+onderpand. EMIR stelt dit zelfs verplicht voor niet-geclearde OTC-derivaten.

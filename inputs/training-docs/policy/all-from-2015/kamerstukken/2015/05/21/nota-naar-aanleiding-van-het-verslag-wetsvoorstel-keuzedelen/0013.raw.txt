@@ -44,5 +44,4 @@ programma's.
 Voorbeeld:  
 Een instelling kan zich profileren met het aanbieden van het keuzedeel Diversiteit bij 
 zorgopleidingen of  het keuzedeel Duurzaamheid in het beroep bij techniekopleidingen, 
- W10455.NAV 
-13
+ W10455.NAV

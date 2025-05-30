@@ -44,5 +44,4 @@ beroepsonderwijs bedrijfsleven naar de Samenwerkingsorganisatie beroepsonderwijs
 bedrijfsleven). Binnen kenniscentra opereren paritaire commissies die bestaan uit 
 vertegenwoordigers van enerzijds het bedrijfsleven in een bepaalde sector of branche en 
 anderzijds van de onderwijsinstellingen (straks is binnen SBB sprake van sectorkamers). 
- W10455.NAV 
-37
+ W10455.NAV

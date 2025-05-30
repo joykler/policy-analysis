@@ -42,7 +42,4 @@ aangesloten bij een centrale tegenpartij, en is voor de clearing van de
 derivatenposities die ten behoeve van zijn cliënten worden aangegaan 
 aangewezen op de diensten van een andere tussenpersoon – een clearing member 
 – die wel is aangesloten bij een centrale tegenpartij. Aldus ontstaat tussen de 
-derivatenbezitter en de centrale tegenpartij de volgende keten van relaties: 
- 
- 
-37
+derivatenbezitter en de centrale tegenpartij de volgende keten van relaties:

@@ -50,5 +50,4 @@ de herziene kwalificatiestructuur. Tevens wordt de impact van de herziening op d
  saMBO-ICT: een zelfstandige organisatie van en voor alle MBO-instellingen 
 8
  JOB: Jongeren Organisatie Beroepsonderwijs 
- W10455.NAV 
-45
+ W10455.NAV

@@ -42,5 +42,4 @@ keuzedelen zal bijvoorbeeld het indelen van deelnemers in groepen tijdens de opl
 gevarieerder worden, omdat meestal niet alle deelnemers van een opleiding dezelfde 
 keuzedelen zullen kiezen. Maatwerk kan plaatsvinden door variatie aan te brengen in  
   
- W10455.NAV 
-42
+ W10455.NAV

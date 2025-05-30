@@ -44,5 +44,4 @@ De keuzedeelverplichting is voor alle instellingen een gelijkwaardige verplichti
 instellingen op hun eigen wijze kunnen invullen in het onderwijsprogramma van de 
 betrokken opleiding. Afwijking van deze keuzedeelverplichting vanwege de omvang van 
 de instelling is daardoor niet nodig. 
- W10455.NAV 
-34
+ W10455.NAV

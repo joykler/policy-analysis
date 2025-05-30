@@ -44,5 +44,4 @@ behalen van het keuzedeel niet voorwaardelijk is voor het behalen van het
 diploma, wordt extra ongediplomeerde uitval en voortijdig schoolverlaten 
 voorkomen als gevolg van de invoering van keuzedelen. Als het behalen van het 
 keuzedeel wel voorwaardelijk zou zijn, dan zou bij het behalen van de kwalificatie 
- W10455.NAV 
-11
+ W10455.NAV

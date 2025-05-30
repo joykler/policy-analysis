@@ -42,5 +42,4 @@ veelal niet haalbaar zijn.
  Deze complicaties doen zich alleen voor in geval van de eerder omgeschreven omnibussegregatie. Bij 
 segregatie per individuele cliënt is overdracht van de derivatenportefeuille van de individuele cliënt wel 
 relatief eenvoudig te bewerkstelligen, omdat de positie van de cliënt op het niveau van de centrale 
-tegenpartij separaat wordt geadministreerd; zie hierna. 
-47
+tegenpartij separaat wordt geadministreerd; zie hierna.

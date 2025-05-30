@@ -44,5 +44,4 @@ het keuzedeel niet langer integraal onderdeel vormt van de kwalificatie, maar al
 afzonderlijke, verrijkende bonus beschouwd wordt. 
 Keuzedelen staan inderdaad naast kwalificaties, zijn gekoppeld aan een of meer 
 kwalificaties en leveren een verrijking ten opzichte van de kwalificatie. Keuzedelen 
- W10455.NAV 
-25
+ W10455.NAV

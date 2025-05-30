@@ -43,5 +43,4 @@ administratieve data en locatiedata (infrastructuur zoals wegen en gebouwen). De
 toenemende vraag naar het beschikbaar stellen van dit soort (meta) data is de 
 aanzet tot een innovatieve werkwijze om de beschikbare data te verzamelen, te 
 bewerken en beschikbaar te stellen. Dit is een verdiepend keuzedeel. 
- W10455.NAV 
-9
+ W10455.NAV

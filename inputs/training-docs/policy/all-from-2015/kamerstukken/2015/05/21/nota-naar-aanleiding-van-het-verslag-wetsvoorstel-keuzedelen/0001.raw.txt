@@ -43,5 +43,4 @@ opleidingsprogramma’s, maatwerk, profilering en levensbeschouwelijke aspecten;
  de verwachte inzet die instellingen en deelnemers voor de keuzedelen zullen 
 leveren vanwege het niet meetellen van het behalen van keuzedelen voor het 
 diploma. 
- W10455.NAV 
-1
+ W10455.NAV

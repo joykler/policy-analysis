@@ -43,5 +43,4 @@ totstandkoming van keuzedelen in paragraaf 3 is een nadere toelichting gegeven o
 gehele procedure van ontwikkeling, toetsing en vaststelling van keuzedelen en 
 kwalificatiedossiers, inclusief enkele voorbeelden. 
  
- W10455.NAV 
-3
+ W10455.NAV

@@ -52,5 +52,4 @@ Deze wijziging is van technische aard en sluit aan bij de wijziging ingevolge on
 Onderdeel G (wijziging artikel 7.3) 
 In Europees Nederland volstaat het gewoonlijk om van kleinere aansluitingen de capaciteit uit te 
 drukken in de stroomsterkte, het maximale aantal Ampères. Het spanningsniveau is immers 220 V. 
-In Caribisch Nederland worden echter de kleinere aansluitingen op verschillende spanningsniveaus 
-3
+In Caribisch Nederland worden echter de kleinere aansluitingen op verschillende spanningsniveaus

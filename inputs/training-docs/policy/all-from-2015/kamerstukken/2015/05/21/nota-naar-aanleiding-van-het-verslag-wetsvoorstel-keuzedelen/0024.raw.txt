@@ -44,5 +44,4 @@ programmeren (bijvoorbeeld meer lesuren voor een extra onderdeel).
  
 Instellingen kunnen extra onderdelen die zij momenteel in de zogenoemde vrije ruimte 
 aanbieden bij bestaande opleidingen (gebaseerd op de bestaande kwalificatiestructuur) 
- W10455.NAV 
-24
+ W10455.NAV

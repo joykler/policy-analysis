@@ -43,5 +43,4 @@ gekoppeld keuzedeel). Die keuzedelen maken dan deel uit van het reguliere
 onderwijsprogramma en komen daar dan niet bovenop. Een instelling bepaalt, met 
 inachtneming van de formele kaders, zelf op welke wijze een mbo-opleiding wordt 
 ingericht en uitgevoerd. 
- W10455.NAV 
-12
+ W10455.NAV

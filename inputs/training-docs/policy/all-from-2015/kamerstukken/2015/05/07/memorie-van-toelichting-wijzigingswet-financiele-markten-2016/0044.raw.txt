@@ -56,5 +56,4 @@ de Raad van 4 juli 2012 inzake otc-derivaten, centrale tegenpartijen en transact
 gezamenlijke rekening bij de centrale tegenpartij worden aangehouden. Uit deze rekening is derhalve niet 
 op te maken wat de te onderscheiden posities van de individuele cliënten zijn. Ook het onderpand dat de 
 tussenpersoon voor deze posities bij de centrale tegenpartij heeft gestort is niet één op één herleidbaar 
-tot de individuele cliënten wier derivatenposities op de omnibusrekening worden geadministreerd. 
-44
+tot de individuele cliënten wier derivatenposities op de omnibusrekening worden geadministreerd.

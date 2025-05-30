@@ -53,5 +53,4 @@ beleggingsinstellingen. Dit artikel was tot op heden enkel geïmplementeerd in h
 16
  Richtlijn 2009/65/EG van het Europees Parlement en de Raad van 13 juli 2009 tot coördinatie van de 
 wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging 
-in effecten (icbe’s) (PbEU 2009, 302). 
-26
+in effecten (icbe’s) (PbEU 2009, 302).
