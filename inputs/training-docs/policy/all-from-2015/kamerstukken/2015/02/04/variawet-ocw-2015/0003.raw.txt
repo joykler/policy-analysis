@@ -53,4 +53,4 @@ C
  
 In het opschrift van artikel 2.5.9a wordt “controleprotocol” vervangen door: 
 accountantsprotocol. 
-    W10499.K-2 3
+    W10499.K-2

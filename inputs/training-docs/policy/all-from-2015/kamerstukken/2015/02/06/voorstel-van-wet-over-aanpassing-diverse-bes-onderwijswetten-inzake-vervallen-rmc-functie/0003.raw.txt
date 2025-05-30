@@ -51,4 +51,4 @@ Artikel 6 Deelnemersregister
 1. Het projectbureau houdt een register bij waarin iedere deelnemer wordt 
 ingeschreven. 
 2. In het deelnemersregister worden vermeld: 
-    W10329.K-2 3
+    W10329.K-2
