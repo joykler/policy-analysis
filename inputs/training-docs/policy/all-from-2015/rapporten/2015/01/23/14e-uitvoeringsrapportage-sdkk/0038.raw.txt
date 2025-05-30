@@ -12,6 +12,4 @@ geval van ernstige incidenten adequaat op te treden. SDKK controleert
 met deze audit periodiek zichzelf hoe het met de verschillende 
 beveiligingsprocessen er voor staat. 
   Realisatie 14e uitvoeringsrapportage: Februari 2015 In uitvoering 
-Concept rapportage Security Audit 2014 aangeboden. 
- 
-38
+Concept rapportage Security Audit 2014 aangeboden.

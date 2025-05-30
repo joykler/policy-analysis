@@ -26,6 +26,4 @@ beveiligde toegangscontrole die zowel voor het personeel als de
 bezoekers optimaal te gebruiken is. Ventilator is aangebracht in de 
 toegangscontrole ruimte waardoor er geen sprake meer is van warmte. 
 Elektrische sloten zullen aangebracht worden waardoor de deuren weer 
-opnieuw elektronisch bediend kunnen worden. 
- 
-18
+opnieuw elektronisch bediend kunnen worden.
