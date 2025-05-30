@@ -1,0 +1,65 @@
+Dees
+en
+en
+Datum
+Vorige
+n.v.t.
+ETRS 89UTM
+(dm)
+30
+Beschrijving
+Vorige
+1.41 n.v.t.
+89UTM
+(dm)
+50
+Beschrijving
+Water Scheenvaart
+Meet- Informatiedienst Uitvoering
+Contact Raai
+1.40 2256
+5788445
+557261
+Afmetingen
+20
+reflecties
+Bodemverstoring/harde
+Bijzonderheden
+Re.
+Afbeelding
+Contact Raai Datum
+2256
+ETRS
+557235 5789071
+Afmetingen
+100
+Bodemverstoring/harde reflecties
+Bijzonderheden
+Afbeelding
+1-11-2011
+40
+__________
+x
+x
+TY:
+bd
+Ht
+Targel1-40
+Y
+L
+B H
+Tagetx. 55726177
+TmgetY. 5’88445 85
+350
+70.8 Meen toSboKd
+SFed Fc:
+88K.os 2256
+T2rgeI.1.41
+Y
+L B
+H
+bodmvezstot8en
+TgttX 55723540 5’89071 ZO
+Hea& 1 Dcees GczdRge: 535 Metets to StMbod
+Speed 8.7 Knots Fk 2256
+2

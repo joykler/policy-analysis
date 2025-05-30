@@ -1,0 +1,87 @@
+Meet- en Informatiedienst Uitvoering
+Water en Scheepvaart
+(S-44, 5de editie; bron: Periplus Consultancy b.v. Rijkswaterstaat,
+& Data-ICT-Dienst 2009).
+Toelichting: sectie validatie meetpunten’: De parameters a” en “b”,
+samen met de diepte “d”, worden gebruikt om
+de maximaal toegestane verticale onzekerheid voor bepaalde
+een diepte te berekenen als:
+waarbij:
+a
+dat deel van de onzekerheid is dat niet varieert
+met de diepte;
+b een coëfficiënt is die dat deel van de onzekerheid weergeeft
+dat met de diepte varieert;
+d de
+gereduceerde diepte is;
+x
+b d deel van
+dat de onzekerheid vertegenwoordigt dat varieert met de
+diepte
+Bij multibeam
+peilingen wordt een overlap tussen de raaien van minimaal
+5 % van de padbreedte
+gehanteerd. Voor side scan sonar inwinning
+geldt een overlap van minimaal 100%, waarbij de
+ingestelde range
+75 m bedraagt.
+De
+side scan sonar wordt voor het te water laten door
+middel van een rub test gecontroleerd. Hierbij
+wordt vastgesteld of de bak- en
+stuurboord side scan transducers correct functioneren.
+1.5. Verwerking multibeam data
+De ruwe gegevens
+worden gevalideerd en verwerkt tot een basisdatabestand.
+Bij validatie worden
+onregelmatigheden en positie spikes in de
+data verwijderd door middel van geautomatiseerde
+standaard filters, handmatig
+of een combinatie van deze twee.
+Een belangrijk
+hulpmiddel bij de validatie van akoestische lodingen zijn
+de RWS Normen. Deze bevatten
+de kwaliteitseisen waaraan
+het gevalideerde basisdatabestand moet voldoen. Het resultaat van het
+valideren
+is een basisdatabestand.
+verwerking
+De van multibeam data volgt een aantal basisstappen:
+verwijderen van foutieve of dubbele raai(en) raaidelen;
+of
+verwijderen van positie-spikes met
+behulp van QINSy;
+toepassen getij op multibeam
+de data met behulp van de Tide Data Manager en Tide Processor
+tools
+van QINSy. Deze getijdata worden aangeleverd
+door RWS DNZ aan de dataverwerkende partij. De
+resulterende getijreductie wordt
+gecontroleerd door export van de gereduceerde data naar een
+grid.
+Indien de kalibratie goed is uitgevoerd, zijn bij een correçte
+reductie de afzonderlijke raaien niet
+zichtbaar;
+importeren in
+QPD’s Qloud voor verdere post-processing;
+verwijderen
+van diepte-spikes, zowel naar boven als naar beneden. Dit
+wordt gedeeltelijk automatisch
+uitgevoerd met een filter dat in het opnamegebied
+goed werkt;
+toepassen verticale shift (squat):
+0.06 m;
+handmatig inspecteren
+data in Qloud;
+toetsen data aan de hand van dwarsraaien en eventuele voorgaande
+Iodingen;
+aanmaken basisdatabestand (ceigrootte = lxi
+m) op basis van de gemiddelde diepte per cel van de
+gevalideerde multibeam punten.
+De coördinaten van de gridcellen komen overeen met volle
+meters in
+het coördinatenstelsel. De berekende gemiddelde diepte
+wordt toegekend aan het middelpunt van de
+betreffende gridcel.
+10
+21-11-2011

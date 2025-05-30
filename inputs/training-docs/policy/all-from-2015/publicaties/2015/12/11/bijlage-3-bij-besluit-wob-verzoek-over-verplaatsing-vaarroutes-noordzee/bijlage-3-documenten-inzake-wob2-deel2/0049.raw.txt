@@ -1,0 +1,59 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Title: park Formal Safety Assessment
+Netherlands Wind
+ARCADIS
+. Mannned/
+T .
+No Platform Location Production Companv
+Unmanned
+..
+1. L16(Logger) 53-00.9N 004-13.1E Oil Wintersh Manned
+52-52.1N 004-19.1E Gas Chevron Unmanned
+2. Halfweg
+Chevron Manned
+3. Haven-A 52-58.IN 004-06.1E Oil
+4. Helder-A 52-55.IN 004-05.1E Oil Chevron Manned
+5. Helm-A 52-52.1N 004-08.1E Oil Chevron Manned
+52-55.5N 004-09.1E Oil Wintersh Manned
+6. Hoorn-A
+Manned
+7. P6-A 52-45.3N 003-45.4E Gas Wintersh
+8. P6-B 52-44.3N 003-48.3E Gas Wintersh Unmanned
+9. P6-D 52-42.IN 003-43.6E Gas Wintersh Unmanned
+003-47.0E Gas Wintersh Unmanned
+10. P6-S 52-40.8N
+Manned
+11. P9-A(Horizon) 52-33.4N 003-44.1E Oil Chevron
+12. Pl! -B(de Ruyter) 52-21 .6N 003-20.5E Oil/Gas Dana Pet Manned
+P12-SW 52-24.4N 003-45.6E Gas Wintersh Unmanned
+13.
+Oil Manned
+14. P15-ACD(Rijn-C) 52-17.5N 003-49.0E Taqa
+15. P15-E 52-10.3N 003-52.1E Gas Taqa Unmanned
+16. P15-F 52-18.4N 003-41.2E Gas Taqa Unmanned
+P15-G 52-13.4N 003-44.4E Gas Taqa Unmanned
+17.
+Unmanned
+18. P18-A 52-07.7N 003-56.3E Gas Taqa
+19. Q4-A 52-46.8N 004-16.1E Gas Wintersh Unmanned
+20. 52-43.ON 004-18.1E Gas Wintersh Unmanned
+Q4-B
+Gas Wintersh Unmanned
+21. Q4-C 52-49.6N 004-17.1E
+Unmanned
+22. Q8-A 52-35.7N 004-31.8E Gas Wintersh
+23. Q8-B 52-38.4N 004-25.9E Gas Wintersh Unmanned
+Manning
+Table 6. Platform
+exploration rigs active in this area but of course these
+Furthermore there are on average about 3
+o/b.
+rigs move regularly. These exploration rigs have between 80 and 120 personnel
+The production have between 10 to 30 personnel onboard.
+platforms shown in the table above
+is flown in
+These numbers can vary when maintenance personnel
+Created on 27/03/2012 14:12:00 Page: 32 of 192
+Date:
+Doc: P60151/1 — Netherlands Wind park FSA

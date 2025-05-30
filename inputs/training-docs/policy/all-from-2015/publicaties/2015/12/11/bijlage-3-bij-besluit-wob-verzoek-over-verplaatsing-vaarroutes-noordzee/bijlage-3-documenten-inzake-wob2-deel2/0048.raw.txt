@@ -1,0 +1,35 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Year Platform Incident
+2000 L10 - AP Bracing of Jacket
+2000 L5-FA-1 Bracin of Substructure
+2001 P12-C Total loss Platform. Gas production ceased.
+of
+2001 P15F NW leg of platform
+2001 Q4-A Pipeline
+2002 Q10-10 Wellhcad dome disappeared
+2002 K8-FA-2 Umbilical
+2002 F2-A Pickup line
+2002
+K-1-A Bracing of Jacket
+2002 Q1 Halfweg NW leg of platform
+;kL
+2003 K12-G NW leg of platform
+2004 L10-PM NE leg of platform
+2005 G14-a/G17d Pipeline
+2005 K2 Side tap of the pipeline
+2006 P6-S NW leg of platform
+2007 P15-A For re-inspection (after 2 years) ‘trawler board’
+found, N & W legs damaged.
+2008
+- No
+2009 bracing
+Q1-Helder SW leg wellhead platform and
+between SW and NW legs
+2009 K5-CC Damaged railing and scaffolding
+2010 No.
+Table 5. Incidents with Offshore Installations since 2000
+Date: Created on 27/03/2012 14:12:00 Page: 31 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

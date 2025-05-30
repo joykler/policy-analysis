@@ -1,0 +1,76 @@
+ONGERUBRICEERD TNO report TNO-DV 2012 C485 3181
+1 1
+Dumping of munition was mainly performed Tanks (LCTs)
+using Landing Craft
+average
+with an bad of about 220 ton. Dumping started after the vessel had
+anchored and stabilized in the current, consequently roughly 150
+resulting in
+of dumped
+piles munition at IJmuiden and 100 piles at Hook of Holland; since
+the munition articles are accordingly in close proximity within
+one pile,
+sympathetic
+detonation within one pile (not between piles) may occur.
+A the
+study of areas shows that the munition dump sites off Ijmuiden and Hook of
+Holland are situated some 30 to 40 kilometres off shore. The water depth at the
+munition dump site Ijmuiden
+is between 21 to 23 m, and at Hook of Holland 19 to
+26 m. The bottom morphology comprises soft seabeds, sand with a wave
+waves
+Iength few hundred
+of a meters and a typical height of several meters, with smaller
+waves in between. Sonar plots demonstrate that only a tiny fraction of the munition
+covered by
+is not sand. Based on local sand wave heights, the munition lies at a
+depth of at east 23 and 25 m at the dump sites of Ijmuiden of Holland
+and Hook
+respectively. The distance between the keel of the vessel and the munition is about
+10 meters when the vessel is situated above the munition. For
+the scenarios bottom
+trawling
+and dragging of anchor, the distance between the keel and the munition
+increases to about 100 m.
+Risk assessment methodology
+The is quantified qualitatively
+risk by multiplying likellhood and effect per scenario.
+The overall likelihood of an underwater detonation likelihood of
+is composed of the
+of
+exposure shipping related incidents to the munition dump area, the Iikelihood of
+interaction with munition and the likelihood
+of a munition reaction:
+• The exposure is based on probability calculations of shipping incidents at or
+near the dumping areas by the Marine Research
+lnstitute (MARIN);
+• The Iikelihood of interaction with munition is assessed:
+— for direct impact by relating the areal density of munition
+the piles with the
+dimensions of the ship, anchor, trawling gear or dropped cargo;
+— for indirect contact via vibration or turbulence on the basis of the distance
+between ship/propeller and seabed and propeller characteristics;
+• The likelihood of munition reaction
+is assessed:
+munition deformation
+— for scenarios by comparing these against known
+initiation thresholds for impulse unit area;
+per unit area and energy per
+— for initiation of fuze systems in view of safety regulations for transport and
+hand ling at the time of dumping.
+The effects of an underwater explosion are quantitatively based on
+assessed the
+size of the explosion .and its distance to the vessel, the type of ship and type of
+cargo. The effects per scenario are determined based
+on a maximum credible
+threat
+in the order of 10,000 kg TNT. This threat is conservatively estimated by
+assuming that two-thirds of a single munition pile sympathetically detonates
+in high
+order in case one munition item is initiated.
+All risks assessments are categorized in line with the Fine & Kinney method using
+qualitative terms. The above-water effects blast,
+of the explosion such as air
+fragmentation and tidal wave, are negligible compared to the underwater effects of
+the explosion.
+ONGERUBRICEERD

@@ -1,0 +1,214 @@
+421
+report 2012 C485
+ONGERUBRICEERD
+10
+is
+indicated gap
+and Composition
+Table Shock
+High
+(GPa)
+1.578 3.90
+SLSGT
+1.614
+5.45
+9.79
+1.620
+4.48
+4.37
+4.63
+Comp 1.700
+2.04
+1.710
+Comp
+3.92
+Comp 1.700
+4.92
+Comp 1.720
+Scale
+Scale
+with
+t
+12 kg
+kg
+is
+of
+of
+ONGERUBRICEERD
+Munition
+initiators from main
+TNT given
+of high
+or
+on
+initiation by
+which differ
+Overall initiation
+lower initiation
+only
+with
+measured
+pressures as
+[Newgates.
+Test
+explosive Density Initiation
+pressed
+cast
+pressed
+pressed
+cast
+cast
+pressed
+Scae
+Likelihood
+19
+directly
+to a
+10.
+sensitivity, within from
+munition with a
+munition.
+0.2 from
+or
+part of a
+shell not North a item but
+an
+to
+of
+0.2
+to of
+munition
+of
+into
+North
+munition
+or individually
+individually
+within box
+proximity
+munitions
+incorporates safe-and-arm devices that the
+design general
+the charge. Shock
+more sensitive components the and fuzes
+data the explosives and Composition are Table
+sensitivity
+(pressing
+[Newgates]. The shock sensitivity depend production method
+density achieved. The pressure determined so-called
+casting) and the
+larger gap test the
+gap their size. Generally speaking the the
+pressure
+measured shock pressure. the shock
+the
+over GPa one exception.
+pressure method
+5.3.1.3 of sympathetic detonation
+Figure the shock sensitivity data
+One can compare the
+acceptor
+reported Table order achieve sympathetic detonation an
+GPa should be 0.35 meter distance
+shock
+the 100 donor, meter distance the donor
+dumped the single
+distances between shells the stack are Iess than
+stack, one has that
+one
+meter. that one can conclude that the detonation just the
+detonation the other shelis the stack.
+shells lead the sympathetic
+and
+account the areal density the larger calibre munitions
+Taking
+Sea, can neglect the sympathetic detonation
+boxes dumped at the one safely
+dumped
+between dumped munitions between
+detonation can occur one dumped as the
+boxes. Note that sympathetic
+items are close when grouped.
+separate
+tests
+(g/cm
+pressures
+as
+case Sea as
+assume
+case
+)
+3
+TNO TNO-DV
+1 81
+in
+in
+B in
+will
+is
+in
+1
+10 initiation
+of TNT B,
+with
+test*
+TNT
+LANL-LSGT
+TNT
+1.580 0.56
+TNT
+10.12 LANL-LSGT
+NOL-LSGT
+TNT
+1.620
+10.89 LANL-LSGT
+TNT
+LANL-LSGT
+TNT
+1.630
+LANL-LSGT
+TNT
+1.635
+LANL-LSGT
+TNT
+1.635
+LANL-LSGT
+TNT
+1.640 3.63
+NOL-LSGT
+Comp B 1.660
+5.45 LANL-LSGT
+1.42
+NOL-LSGT
+1.14 Modified ELSGT
+B
+5.54
+LANL-LSGT
+NOL-LSGT
+1.14
+Modified ELSGT
+B
+5.18 LANL-LSGT
+B3
+LANL-LSGT
+Comp B3 1.710
+1.87 NOL-LSGT
+B3
+LANL-LSGT
+*
+NOL-LSGT is Naval
+the Ordnance Laboratory Large Gap
+Test, LANL-LSGT is the Los Alamos
+National
+Laboratory Large Gap Test,
+ELSGT is the Expanded Large Gap Test.
+in
+in In
+in
+1
+In
+8” in
+In
+will
+in
+in

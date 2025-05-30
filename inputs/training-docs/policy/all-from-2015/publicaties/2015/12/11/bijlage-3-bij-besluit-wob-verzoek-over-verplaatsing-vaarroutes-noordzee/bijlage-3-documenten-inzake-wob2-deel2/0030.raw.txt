@@ -1,0 +1,114 @@
+th
+th
+th
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands ‘Nind
+park Formal Safety Assessment
+ARCADIS
+1. Introduction
+This introductive
+chapter serves to make the reader acquainted
+witli the history, context,
+motives,
+objectives and methods of the Formal
+Safety Assessrnent (FSA) and with the structure
+of this report, in which the FSA
+process is documented.
+1.1 Context
+The plan to increase the Netherland’s
+wind power generating capacity by building several large
+wind parks the coast
+off between the Rook of Holland and Texel has implications
+considerable
+for shipping
+in this busy area. ARCADIS(UK) and MARIN
+were contracted to assess the impact
+of these wind parks on shipping to determine whether
+or not the present routing rneasures for
+shipping in the area must
+be modified to accommodate the wind parks.
+The basis of the report is a previous
+study conducted by Arcadis, commissioned by the Ministry,
+entitled ‘Navigational
+Risk Review of Wind Park Development in Dutch
+Waters (Ref:259-705 1
+12
+HZOI) October
+2010. Five different wind park schemes
+(Variants) were considered and the
+analysis identified the most favourable Variant.
+This favoured Variant was subjected to further
+consideration and a hybrid
+Variant was produced namely IMO Variant 1 6.09.11.
+The IMO Variant was subjected
+to a HAZID assessment at a workshop held in Rotterdam
+on
+20
+September 2011.
+After several iterations of the routing design this resulted
+in the final IMO
+Variant
+12.12.11. This Variant was subjected to further
+Hazid Analysis with notable
+improvement
+in comparison to the intermediate
+draft IMO variants. Hazids were also applied to
+the Present situation and Variant
+1- 2010 of the initial study.
+1.2 Proposal
+28
+At a meeting held at the
+Port of Rotterdam offices on Thursday, July 2011, attended
+bv
+Captain Ben Van Scherpenzeel
+for the Port of Rotterdam, Capt Fred Ministry
+Bloot for the of
+Water, Captain Jaques Van Kooten for RWS and Captain
+Thomas J Proctor for Arcadis (UK) a
+request was tabled by the Port of Rotterdam
+to tender a proposal for the provision of a
+qualitative FSA, including
+HAZID assessment of a new ‘Variant IMO’ Wind park.
+The proposal incorporating all requirements
+of the scope of work was submitted on the
+02
+September 2011
+and accepted on the 05 September 2011 by Captain Ben
+Van Scherpenzeel.
+1.3 Scopeofwork
+The following text
+lays out the scope of vork for this project and records
+subsequent dialogue,
+instruction between dient. Port of Rotterdam and Arcadis
+(UK) to date to ensure deliverables
+will meet the following requirements:
+(Terms of reference
+Formal Safety Assessment, Capt Ben Van Scherpenzeel
+04.08.11)
+1. The new “Variant IMO” should
+be compared with the following Variants:
+a. Present situation with wind park Q10 marked
+as a construction area for wind parks.
+b. Variant No.1
+of the FSA2O1O (all so-called 2’’ round Wind parks implemented).
+2. The HAZID/FSA includes
+calculation of the extra nautical miles to be sailed
+to the Port
+of Rotterdam
+and Port of Antwerp due to the changed lay-out
+of the shipping lanes.
+3. Part of the
+HAZID/FSA will be a discussion about navigation marks
+(amongst other
+things the number and location of additional navigation
+buoys)
+4. Part
+of the HAZID/FSA will be to discuss which routes should
+be recommended routes
+or Traffic Separation Schemes (TSS)
+Date: Created
+on 27/03/2012 14:12:00
+Page: 130f 192
+Doc: P60151/1 — Netherlands
+Wind park FSA

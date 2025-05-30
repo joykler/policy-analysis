@@ -1,0 +1,77 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wïnd park Formal Safety Assessment
+ARCADIS
+9. IMO variant 12.12.11 provides greater clearance between shipping and the wind parks than
+variant 1. Clearance is iess than a miie
+near the end of the 0ff Texel extended southwest
+bound lane shadowed
+but the junction by the wind park is a diverging one so there is not the
+risk of a potentially dangeroLis crossing encounter being obscured.
+The following options for wind
+park construction are furthermore suggested to mitigate
+residual
+risk:
+1. The risk management
+primary means of is the future placement of the Wind Parks
+themselves
+to ensure that the site selection alignment, size and layout are optima!.
+2. A review lights
+of marks and is recommended to ensure each Wind Park is optimally lit
+and marked to aid safe navigation. This review should give account to vessels passing the
+Wind Parks under normal navigation and also those that the Wind
+may navigate within
+Parks themselves.
+It has been suggested that people can become disorientated within a
+Wind Park and a small vessel may need to identify its position relative to the turbines to
+aid rescue. IALA Recommendation 0-1 17 provides general advice marking of
+on the
+Offshore Wind parks. Temporary buoys can
+be an important part of this process
+especially during the construction phases, i.e. for marking a construction zone boundary.
+3. Safety zones can used to exclude
+be vessel navigation from the Wind Park. There are a
+variety of options available, including implernentation of a full 500m safety zone around
+all turbines during construction and operation, which would extinguish the rights of
+navigation of vessels entirely. Alternatives to this
+are to have 500m safety zone
+established
+around any structure that is being worked upon during the construction phase
+and then reduce this to a 50m or 1 OOm safety zone when not being worked on during
+construction. During the operational mode the safety zone could be set to 50/1 00/500m
+or removed entirely. The current Dutch policy
+inciudes the designation of temporary
+safety zones during construction, as well as designation of permanent safety zones
+around the turbines, so that access of all vessels to the wind parks is effectively excluded.
+4. Future opening of the wind parks to small vessel traffic, for example by abolishing
+permanent safety zones or reducing their size, is discussed Dutch makers. In
+by policy
+the event that navigation is permitted
+small within the Wind Parks, it is recommended
+that a minimum
+safe (air) clearance be defmed. Small vessel navigation needs to be
+managed to ensure these vessels are not endarigered by exiting Wind Parks into major
+shipping routes undetected. Their presence in the fringes also reduces
+of Wind Parks
+valuable passing vessels
+sea room to which may place them at increased danger.
+5. An emergency service review should be carried out to ensure
+an acceptable response can
+stil! especially
+be affected, within and in close proximity to the Wind Parks. This could
+include the use of lifeboats, helicopters and emergency towing vesse!s (ETVs).
+Consideration should also be given to oil spil! response
+within this process.
+There are number of auxiliary risk control options in the nautica! domain that can or must
+be considered during implementation of the new routeing system:
+6. App!ication of The International Regulations for Preventing Collisions at Sea 1972
+(COLREGS). Rules 1 — 19, as these are the rules direct!y how vessels
+concerned with
+should avoid collision and so are particular!y pertinent
+to the assessing the risk of
+co!!ision
+to vessels in the traffic !anes shown in the different wind parks, relative to the
+current situation (i.e. with no the wind parks).
+Date: Created on 27/03/2012 14:12:00 52 of 192
+Page:
+Doc: P60151/1 — Netherlands Wind park FSA

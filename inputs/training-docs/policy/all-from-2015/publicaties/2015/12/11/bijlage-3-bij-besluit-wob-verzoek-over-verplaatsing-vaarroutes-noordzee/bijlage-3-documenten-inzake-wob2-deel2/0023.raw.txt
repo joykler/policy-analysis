@@ -1,0 +1,60 @@
+Project: P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Formal Safety Assessment
+ARCADIS
+EXECUTIVE SUMMARY
+ARCADIS(UK) has been commissioned to assess the (relative) safety level of routeing
+measures developed in the Netherlands using
+the FSA process, expert judgement and
+qualitative methods, to recommend risk control options for this routeing proposal and to
+provide support data for evidence based decision making on cost-benefit of the proposals.
+The report has its basis in a previous study made by Arcadis, commissioned by the Ministry
+of Transport and the Environment, entitled ‘Navigational Risk Review of Wind Park
+th12
+Development in Dutch
+Waters (Ref:259-7051 HZOI) October 2010. Five Wind Park
+schemes (Variants) were considered and analysed with the most favourable Variant being
+identified. This favoured Variant was subjected to further consideration and a hybrid Variant
+was produced namely IMO Variant 16.09.11.
+The IMO Variant was subjected to a HAZID assessment at a workshop held in Rotterdam on
+20th
+September 2011.
+The HAZID assessment used expert judgement and qualitative methods
+to arrive at this comparison of risk levels. After several iterations of the routing design this
+resulted in the final IMO Variant 12.12.11. This Variant was subjected to further Hazid
+Analysis with notable improvement in comparison to the intermediate draft IMO variants.
+Hazids were also applied to the Present situation and Variant 1-2010 of the initial study.
+As part of the HAZID assessment, Arcadis
+compared the ‘IMO Variant’ (with all Round 2
+Wind Parks except Scheveningen WP and with the traffic routeing arnended) with two
+baseline Variants:
+1. The present situation with Wind Park ‘Q10’ under construction about twelve miles off
+the coast south of IJmuiden with the existing traffic routeing (separation schemes and
+precautionary areas)
+remaining the same.
+2. The ‘Variant 1’ (2010) situation with all of the ‘Round 2’ wind parks developed and
+with the
+present traffic separation schemes, associated precautionary areas and
+inshore traffic zones remaining unchanged but connected by recommended routes.
+Apart from leading the workshop, the project team has carried out interviews with all relevant
+experts, industries and interested organisations, in the run up to the workshop as well as after
+the workshop to clarify outstanding points and complement the workshop results. This
+fact
+finding missing yielded the following observations:
+1. A significant
+amount of near misses in the approaches to IJmuiden and near misses
+with oil/gas platforms have been observed. These stress the importance of a review of
+routeing measures and the limited anchoring space around IJmuiden. Greater control
+and influence of VTS could be a mitigating factor.
+2. The trend is up with dear optimism from Amsterdam Port which has maintained
+its
+position in the fourth place of European ports. Tanker traffic is clearly on the increase
+and measures must be in place to address this trend.
+3. Concern is registered at the apparent indifference to the safety zones around wind
+park and oil/gas assets. 2010 over 2009 saw a 72% increase in violations of Safety
+Zones.
+Date:
+Created on 27/03/2012 14:12:00 Page: 6 of 192
+Doc: P60151/1 — Netherlands Wind
+park FSA

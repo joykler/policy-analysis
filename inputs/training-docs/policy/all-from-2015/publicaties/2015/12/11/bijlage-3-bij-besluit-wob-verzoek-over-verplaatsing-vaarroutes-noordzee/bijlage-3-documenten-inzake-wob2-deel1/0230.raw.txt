@@ -1,0 +1,109 @@
+m
+.2
+ONGERUBRICEERD TNO report TNO-DV
+2012 C485
+1 43 1 81
+This argument is substantiated
+by comparing the 1 GPa-distance
+of the dashed
+curves
+in Figure 19 to the areal densities
+given in Table 7. A munition with an
+average HE mass
+of 0.75 kg requires the nearest munition to close
+be as as 7 cm
+to
+cause a sympathetic detonation while
+the average munition-free zone equals
+1/0.653=1.53
+The event of a sympathetic detonation is
+therefore highly unlikely.
+Even
+the larger-cased munition with an average
+HE mass of 3.1 kg requires the
+nearest munition within
+to be 11 cm to cause a sympathetic detonation.
+The calculations
+above are also substantiated experimentally. Mass-distance
+relations
+for sympathetic detonations comparable
+are to those used in sea-mine
+neutralisation operations
+(reference not releasable). For donor charges
+up to 10 kg
+the
+experimental separation distance
+in water to initiate Comp B is maximally 25
+cm, seeTable 11 [Chung
+etal., 1996].
+Table 11 Mass of pentolite donor, mass
+of Comp B acceptor, separation distance in water and
+experimental
+result (D—sympathetic detonation, ND=no sympathetic detonation)
+[Chung et al. 1996].
+Test Donor Acceptnr Sepntion LI L2 L3 All All ATm Resuit
+Distance
+Mass, Mass
+Mkg cm cm cm Pl IJS
+kg cm
+Pl
+Not Recorded
+1 0.5 0.6 3 -
+.. - D
+0.6
+2 0.5 6 t)
+3 0.5 0.6 12 - .. ND
+4 0.5 0.6 6 — — t)
+5 0.5 0.6 9 - * .. NO
+6 0.5 0.6 6 - - t)
+7 0.5 0.6 9 .. - NO
+-
+2.5 : :
+8 0.6 4
+.. t)?
+9 2.5 0.6 9 ..
+9
+10 2.5 0.9 .. .. 824 D
+11 2.5 1.8 9 2.2 12 0.22 2.92 3.48 29.04 D
+12 2.5 1.8 11.5 22 12 024 372 4.08 36.48 D
+13 2.5 1.8 14 2.21 1.27 0.23 4.24 5.0 4628 Nl)
+14 2.5 1.8 11.5 2.22 1.21 0.20 3.36 3.96 36.36 1)
+15 2.5 1.8 14 2.14 1.17 0.23 Not Recorded Nl)
+11.5 1.20 0.25 4.36 30.36
+16 2.5 1,8 2.21 3.84 D
+17 5 0.9 4 NR NR NR t)
+18 5 0.9 9 .. .. - NO
+19 5 0.9 12 2.22 1.22 0.20 8.60 NR 14.76 t)
+20 5 0.9 9 2.21 1.23 0.28 8.02 N R 13.38 1)
+21 5 1.8 9 2.21 121 0.21 NR 4.12 1724 D
+22 5 1.8 12 223 1.24 031 .. 328 NR t)
+23 5 1.8 15 2.21 1.20 022 .. 3.88 25.40 t)
+24 5 1.8 18 220 1.22 0.22 .. 3.48 31.48 1)
+25 5 1.8 21 223 1.23 0.28 .. 3.22 NR NO
+26 5 1.8 18 2.23 122 024 .. 4.68 31.92 D
+27 S 1.8 21 2.20 120 0.25 4.36 4.80 54.24 NO
+28 5 1.8 18 2.22 124 024 332 4.48 41.84 D
+29 10 0.9 12 2.26 1.30 0.28 6.44 N R 11.16 t)
+30 10 1.8 22 2.20 122 0.22 3.36 322 29.68 1)
+31 10 1.8 25 2.18 120 0.25 4.20 4.40 45.32
+D
+32 10 1.8 28 2.18 1.17 0.23 4.68 4.52 56.00
+NO
+33 10 1.8 25 2.23 0.23 3.56 4.04
+123 39.50 t)
+34 10 1.8 28 2.17 1.22 0.23 4.28 4.56
+57.12 NO
+35 10 1.8 25 2.03 1.25 0.22 3.44 4.80 36.60
+D
+D-Detcoa&x NO - NoDetxaticsi N R- Not Recorded
+5.3.1.4 Fragment
+ation
+In the
+above analysis of sympathetic detonation only
+the shock wave from the
+detonating HE is considered.
+However, fragmenting munitions have been
+dumped
+in the
+North Sea as well.
+ONGERUBRICEERD

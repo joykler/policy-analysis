@@ -1,0 +1,54 @@
+ONGERUBRICEERD TNO report TNO-DV 2012 C485 26181
+1 1
+4 Description of incident scenarios
+The following incident scenarios potentially occurring at the dump sites are
+considered for the risk analysis [Berlo, 2011]:
+• ship sinks;
+• ship anchors;
+• drifter drags anchor;
+• fishing baat drags anchor / bottom trawling gear;
+• ship loses container deck cargo
+or other
+• vibration of ship movement disturbs seabed;
+• water turbulence due to propeller wash disturbs seabed;
+• ship strikes seabed with keel or propeller.
+A wide variety of vessel types are to be included for the analysis, ranging from small
+fishing vessels to oil tankers, small to largest category container ships, ships
+transporting containers, chemicals and LPG [Berlo, 2011]. These ships are
+categorized in ships carrying cargo and explosive cargo and normal (i.e.
+polluting
+non polluting and non explosive) cargo when relevant for the incident scenario.
+Apart from a sinking ship and a ship striking the seabed with its keel or propeller,
+between the keel of the vessel and the
+these scenarios relate to the distance
+munition article. This distance depends on the water depth, height of the sand
+waves and draught of the vessel. These subjects are described in the next sections.
+and draught
+4.1 Water depth, height of sand waves
+The water depth at the munition dump site IJmuiden is 21 m or more and is
+low water level (LLWL) to the crest of the
+measured by the distance from the lowest
+sand waves on the seabed. The munition will lie deeper, in the troughs of the 2 m
+high sand waves, at a depth of at least 23m (confirmed by Ministry of Infrastructure
+and the Environment) [Berlo, 9 November 2011]. Atthe dump site Hook of Holland
+waves are about 6 m high. The
+the water depth is 19 m or more and the sand
+munition accordingly lies at approximately 25m depth or deeper [Angeren,
+paragraph 2, 2011]. Accordingly, the munition at Ijmuiden is situated less deep
+than for Hook of Holland.
+The tides at the dump sites have an amplitude of 0.5 to 1 m (difference between
+lowest 10w water level to Mean Sea Level (MSL)). The average tide will be
+approximately 0.5 m, so the average depth is increased by 0.5 m. In storms, the
+waves approximately 4 m, but vessels with the
+largest can have an amplitude of
+largest draught are not much influenced by this surge. Figure 16 illustrates the
+distances between sea bed, sand wave height, water depth and draught.
+considered is 15 m as specified by the
+The maximum draught of vessels to be
+Ministry of lnfrastructure and the Environment [Berlo, 2011]. 1f the vessel crosses
+the munition dump site during lowest low water level, the average tide is
+between the
+disregarded and the draught is assumed to be maximal, the distance
+keel of the vessel and the munition is at least 8m for Ijmuiden and lOm for Hook
+of Holland.
+ONGERUBRICEERD

@@ -1,0 +1,92 @@
+Report No. 25648-1-MSCN-rev.2
+on some routes, the number
+of encounters between ships and therefore the number of
+collisions will
+also increase.
+The construction of the wind farm will also introduce a
+new type of accident. Due to
+different causes, a ship can
+collide with a wind turbine. In the SAMSON model two types
+of contacts are distinguished,
+a ramming and a drifting contact.
+ramming
+• A contact takes place when a ship is on collision
+a course with a wind
+turbine and a navigational error occurs.
+A navigational error can have various
+causes, like lack of information,
+not being able to see the wind farm, not being
+present on
+the bridge, getting unwell and not being able act,
+to making an error
+etc. A ramming contact will take place with
+high speed: 90% of the service
+speed of a vessel.
+• A drifting contact occurs when
+a ship in the vicinity of a wind turbine
+experiences a
+failure in the propulsion engine or in the steering equipment.
+Since the
+ship slowly becomes uncontrollable as it loses speed, the combined
+effect
+of wind, waves and current may the
+carry ship towards the wind turbine. 1f
+dropping an anchor does help
+not or is not practical and the repair time exceeds
+the available time,
+the ship may collide against a turbine. This generally happens
+at a
+low speed.
+All these accidents apply to
+all shipping near the locatiort of the wind farm, and do not
+necessarily only to
+apply the ships that are usually sail across location wind
+the of the
+farm.
+In order to be able calculate
+to the effects of the wind farm, it is necessary make a
+to
+“new” traffic database
+for the SAMSON-model. All passing
+ships have to keep a
+distance
+of at least 500m from the border of the
+wind farm. The number of changes in
+the traffic pattern by the wind farm
+depends on the location and the size of the wind
+farm.
+Subsequently,
+the different models within
+SAMSON are used together with the new
+traffic database to carry out
+a complete (nautical) risk assessment. This risk assessment
+implies the “change”
+of risk for the complete shipping near the wind farm
+and the “new”
+risk being
+the probability of colliding against a wind turbine.
+Model input
+and assumptions
+The following model inputs,
+assumptions and parameters are used in the calculation.
+Traffic
+In the calculation, a traffic database is used. traffic
+The database contains links, traffic
+intensities on the different links
+and the link characteristics. A link is defined as a straight
+connection between so-called
+two waypoints. The traffic intensity of a link describes the
+number of ships
+sailing on the link per year divided over different ship
+types and ship
+sizes. The link characteristic connection
+of the contains its width and the lateral
+distribution of the ships across
+the join.
+The
+maritime traffic is divided into two main groups: route-bound
+the ships and the
+non-route-bound Cor random) route-bound
+shlps. The traffic consists of merchant
+vessels and ferries sailing along
+the shortest route from one port to another. The non-

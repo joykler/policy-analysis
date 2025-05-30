@@ -1,0 +1,77 @@
+Report
+No. 25648-1-MSCN-rev.2 7
+A
+hetzelfde reizenbestand
+als in [1], ofwel alle reizen over de Noordzee in 2008. Hierin zijn
+de reizen de
+naar ankergebieden van Rotterdam meegenomen. naar
+De reizen andere
+ankergebieden zijn niet expliciet meegenomen, omdat die
+tot nu toe niet zijn veranderd.
+Aangezien de arikergebieden
+bij IJmuiden nu wel deel uitmaken van de voorgestelde
+routestructuur moeten
+deze nu wel beschouwd worden. Dit gebeurt als volgt. In
+de
+eerste berekening
+wordt wel de veranderde ligging en bezetting ankergebieden
+van de
+van IJmuiden meegenomen maar niet
+de bewegingen van en naar deze
+ankergebieden. Dit zorgt
+ervoor dat met hetzelfde reizenbestand kan worden gewerkt
+als in [1]. In
+een aparte berekening wordt vervolgens het risico gekwantificeerd voor
+de
+bewegingen
+naar de nieuwe ankergebieden in voorgestelde
+de routestructuur.
+Voor deze studie zijn twee
+nieuwe verkeersdatabases aangemaakt, namelijk:
+• een verkeersdatabase
+voor de scheepvaartafwikkeling waarbij naast de
+bestaande
+windparken OWEZ en Prinses Amalia ook windpark
+Q10 wordt
+gebouwd, zonder dat verdere beperkingen
+aan de scheepvaart worden
+opgelegd;
+• een verkeersdatabase voor de
+scheepvaartafwikkeling voor de voorgestelde
+routestructuur waarbij verkeer
+het wordt geleid door een netwerk van routes, die
+op
+ruime afstand lopen van de in ronde 2 vergunde
+windparken.
+Verder worden twee databases gebruikt
+uit de vorige studie, namelijk de basis waarmee
+alle varianten in [1]
+zijn vergeleken en de verkeersdatabase van variant 1 van
+[1],
+waarbij ook is aangenomen dat de in ronde vergunde windparken
+2 worden gebouwd,
+maar waarbij geen verdere routering aan de
+scheepvaart wordt opgelegd. Alleen in het
+gebied van de windparken
+Den Helder, Tromp en Brown Ridge East is er bij deze
+variant
+meer ruimte vrijgehouden voor het plaatsen van extra windturbines.
+De vier gebruikte verkeersdatabases zijn weergegeven
+in Figuur 1-1 tot Figuur 1-4. Alle
+databases gebaseerd
+zijn op de reizen van 2008.
+Voor
+het berekenen van de kans op een aanvaring aandrijving
+(ramming) en (drifting)
+met een windturbine moeten
+er windturbines geplaatst worden in alle vergunde
+windparken.
+Voor het bepalen van de plaatsen van de windturbines is dezelfde
+methode
+gevolgd
+als in [1]. Nadat alle windturbines geplaatst minimale
+zijn, wordt de afstand tot
+het passerende verkeer bepaald. Voor
+een inwendige windturbine kan dat veel meer zijn
+dan voor een windturbine
+aan de rand van het windpark.

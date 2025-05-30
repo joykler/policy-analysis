@@ -1,0 +1,69 @@
+________
+MEMO
+—
+Op dezelfde wijze als de Vinca
+voor Gorthon zijn hier berekenignen uitgevoerd voor dit wrak.
+Het resultaat
+is weergegeven in Tabel 2.
+Tabel 2 Cumuatieve Kans op raken van wrak bij de IJgeul per jaar indien wrak aan de oppeMakte
+zou liggen voor een schip in een bepaalde
+GT-klasse of groter
+Scheepsgrootteklassen_in GT
+1000-
+100- 1600- 5000- 10000- 30000- 60000-
+>100000
+1000 1600 5000 10000 30000 60000 100000
+gemiddelde
+3.27 4.23 5.40 7.46 9.96 12.31 15.27 19.52
+ontwerpdiepgang
+huidige structuur
+0.003010 0.003002 0.002996 0.002059 0.000115
+0.002934 0.002841 0.002466
+ram m en
+nieuwe structuur
+0.001460 0.001460
+0.001459 0.001432 0.001335 0.001225 0.000963 0.000053
+ram m en
+huidige structuur
+0000’30
+0.000713 0.000684 0.000446 0.000351 0.000188 0.000037 0.000007
+driften
+nieuwe structuur
+0.000852 0.000329 0.000733 0.000465 0.000318 0.000171 0.000070 0.000006
+driften
+huidige structuur
+0.003740 0.003715 0.000122
+0.003630 0.003380 0.003195 0.002654 0,002146
+totaal
+nieuwe structuur
+0.002312 0.002289 0.002212 0.001897 0.001733 0.001396 0.001033 0.000059
+totaal
+Alleen de laatste kolom van de tabel is zinvol omdat de andere schepen gewoon over het
+wrak zullen varen zonder dat te raken. De
+Daarom zijn de andere waarden doorgestreept.
+meeste schepen
+in de grootste klasse zullen ook niet genoeg diepgang hebben om het wrak
+te raken. In de AlS data van 2010 is xx m (weet ik woensdag 19 oktober) de grootste
+diepgang van een schip dat dit gebied heeft doorkruist.
+Wanneer we! alle schepen boven de I00000GT het wrak zouden raken is de kans hierop
+eens in de 8200 jaar (=110.000122) voor de huidige verkeersafwikkeling eens in de 17000
+en
+jaar (=1/0.000059) nieuw routestructuur. De
+voor de nieuwe routestructuur verkleint de kans
+op is
+raken aanzienlijk. Hierbij het ankeren zelf buiten beschouwing gelaten. Ankeren op de
+locatie van het wrak is ongewenst omdat de kans op het verliezen van het anker dan
+aanmerkeijk groter is.
+Ook al
+omdat de actuele waterdiepte boven het wrak vrijwel altijd groter is dan de
+waterdiepte van 21m t.o.v. LAT in de kaart, is het uiterst onwaarschijnlijk dat schip dit
+een
+wrak ken raken.
+Bij de bovenstaande beschouwing is voorbijgegaan aan de gegarandeerde diepte in het
+aanloopgebied van de IJgeul van LAT -22.1 t.o.v. N.A.P.). Indien het wrak
+21.3 m (ofwel m in
+de toekomst in het ankergebied
+zou komen te liggen is volgens de huidige richtlijn een
+waterdiepte van -23.0 m t.o.v. N.A.P vereist.
+Page of
+8 8

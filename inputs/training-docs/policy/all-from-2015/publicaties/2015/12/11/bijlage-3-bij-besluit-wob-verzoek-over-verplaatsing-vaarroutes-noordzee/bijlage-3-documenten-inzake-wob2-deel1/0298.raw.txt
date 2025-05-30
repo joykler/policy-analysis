@@ -1,0 +1,105 @@
+Report No. 25648-1-MSCN-rev.2 53
+A
+year at sea, while other estimates are between containers. To update
+3000 and 4000
+the probability per miie that a
+container is lost, the estimate of 10000 lost per year is
+used. This number
+is related to the number of miles travelled by container vessels per
+year. This number of miles is caiculated from the shipping characteristics database,
+assuming an average speed of 80% of the forward speed,
+a bad of 50% of the capacity,
+and also assuming that ships
+spend 70% of the time at sea. Further it is assumed that
+larger are
+ships more likely to bose a container than smaller container ships. A
+relationship with the (TEU capacity)t1131 is used which means roughly the probability
+that
+is related to the length of the ship.
+When using this rate for the NCS this results in 67
+containers overboard in
+the NCS per year. This number is verified with the number
+reported
+in pubbication [2), in which It was reported that 217 containers were lost from
+2006-2009
+in 11 incidents. This means on average year
+54 containers per in 275
+incidents per year, and therefore
+on average 20 containers per incident. Thus the rate
+per nm at which containers
+fail corresponds to what is observed in the NCS. This rate
+has been applied
+to the ships that cross the dumping areas near Rotterdam.
+The probability of deck cargo overboard nautical because data is
+per miie is not updated
+not available, but the probability
+is much lower than for a container overboard.
+Probability of anchoring
+From the analysis of the AlS-data
+of 2010, it can be conciuded that the dumping areas
+are not used for anchoring,
+as was to be expected, because there was no reason to do
+that just
+there. However, that might change for the proposed route structure because in
+that situatbon the dumping areas of Rotterdam ships
+will be crossed by all north going
+that use the rnoved Maas North TSS.
+Normally,
+ships will not anchor in a traffic iane. Only in case emergency such as
+of an
+an engine failure the ship may need to anchor. behaviour
+The of shipping with respect to
+anchoring when saiiing through
+a traffic lane of a TSS is studied in [3). All anchoring
+cases found the
+in AlS data of 2008 and 2009 were analyzed. In some cases the
+problems were reported to the Coastguard. Then in consuitation, anchoring
+a suitable
+bocation was assigned. In other cases
+the anchoring location was determined by the
+ship. The study has deiivered
+the probability of anchoring per nautical miie when sailing
+through
+a traffic lane. Furthermore It gave insight in where the ship will anchor, within
+the traffic lane, in the separation zone or just outside. In case the Coastguard
+was
+invoived, it was assumed that
+the anchoring bocation was safe for 100%. In the other
+cases It was assumed
+that in 5% of these cases, the master did not, or wrongiy, consult
+the nauticai chart before anchoring. Only in these 5% of the cases, it is possibie that the
+ship will anchor in a dumping area case results of
+(a of erroneous anchoring). The the
+study are summarized in Table
+9-2.
+Table 9-2
+Number of observed ships that anchor in TSSs near Wadden
+coastguard Factor for
+-ction
+irwolved erroncous
+Average
+Captain Erroneous of initial
+anchonng:
+2008-
+anchoring 2008 2009 anctioring
+about rate of
+bad
+2009 total anchor decislon per year 24,75
+seaman
+year
+positlon per
+ship
+irrtrafflc —
+lanes of 3,00 4,00 3,50 00625
+3 75% 1,25 005 0,0025
+TSSs
+separation
+5j0 3,00 4,00 2 75% 2,5 01250 0,0051
+0.05
+zone
+Just
+20,50 14,00 17,25 75%
+4,5 13875 0,05 0,6938 0,0280
+outside —
+totailyear 28,50 21,00 24,75
+17,63 0,05 0,8813 0,0356

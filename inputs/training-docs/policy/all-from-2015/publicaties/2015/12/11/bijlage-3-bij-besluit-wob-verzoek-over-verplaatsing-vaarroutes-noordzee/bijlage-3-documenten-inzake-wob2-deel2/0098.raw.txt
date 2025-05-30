@@ -1,0 +1,47 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Safety Assessment
+Title: Netherlands Windfarm Formal
+ARADIS
+Section A: Offshore Routing (present situation)
+Risk
+to be avoided Comment
+No Present situation location Hazardous situation Outcome
+R
+CL
+6
+NW / SE going ships to and from Ijmuiden NW going ships must give way to SWxS’ly 3 2
+going traffic close by the going traffic, which must give way to SE
+cross SWxS’ly
+Damage, pollution and Give way ships altering course
+3j
+well buoy •h
+possible loss of life due to a to starboard alter course away
+31
+vessel / vessel collision from the buoy.
+end on NW and SE going ships must both alter course 3 1
+NW and SE going ships can meet
+to starboard when meeting end on
+and from NWxW going ships must give way to 3 2 6
+NWxW / SEXE going ships to
+going traffic, which must give way
+IJmuiden cross SWxS’ly going traffic SWxS’ly
+Damage, pollution and
+3k
+. to SEXE going ships
+life
+possible loss of due to a
+and SE going ships must both alter course vessel / vessel collision 3 1 3
+NWxW and SEXE going ships can meet NW
+on
+end on to starboard when meeting end
+lead to a poorly Damage, pollution and 3 3 9 Three streams of traffic going
+31 SWxS going traffic diverges as it leaves Diverging traffic can
+ahead of possible loss of life due to a in different directions split off
+the 0ff Texel TSS positioned vessel cutting across a
+vessel / vessel collision from the SWxS going lane
+ship astern
+Page: 81 of 192
+Date: Created on 27/03/2012 14:12:00
+FSA
+Doc: P60151/1 — Netherlands Windfarm

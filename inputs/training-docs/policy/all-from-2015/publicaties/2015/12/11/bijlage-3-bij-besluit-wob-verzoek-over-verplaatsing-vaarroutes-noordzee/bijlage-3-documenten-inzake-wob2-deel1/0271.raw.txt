@@ -1,0 +1,63 @@
+26
+Report No. 25648-1-MSCN-rev.2
+salvage, repairing, delay, loss
+The collision costs contain the costs of deaths, pollution,
+of income, collected within several projects and publications from P&O clubs.
+inciuded completely. Only the
+The costs of contacts with offshore platforms are not
+could not
+damages to the ship are included. The costs of damages to offshore platforms
+be quantified because no data is available for this type of consequences.
+costs are taken into
+The extra emissions are quantified. The corresponding societal
+accourit in the costs benefits effectiveness analysis.
+collision turbines included in Table 6-2, but presented
+The risk with the wind is not
+separately in Chapter 6.2.
+The route structures and shipping can be evaluated
+impact of the different on safety
+6-3. The first column contains
+better by presenting the differences, as is done in Table
+columns contain
+the absolute values of the impacts per year for the base. The next three
+the
+the values the impacts for the other three traffic databases minus the values for
+of
+base case.
+will be
+When looking at the impacts on safety, Table 6-3 shows that 0,153 more ships
+involved in per year for the proposed route structure. This is mainly caused by
+a collision
+due to a of ship
+the increase of the number of overtaking encounters concentration
+separation of
+movements. The probability of a head-on collision is decreased by a better
+the traffic.
+taken is conceivable that the probability of a
+A second order effect is not into account. It
+the intentions of
+collision given an encounter, decreases with better knowledge about
+the other ships. This is the case when the traffic is more structured. Because no data is
+available to quantify this improvement, this effect could not be inciuded in the
+possible
+QRA.
+fire/explosions that are
+Also the probability of the accidents foundering, hull failure and
+related to the number of travelled sea miles, increase.
+offshore platforms and
+The probabilities of a contact with ships in the anchorage areas,
+of stranding, decrease for the proposed route structure. The impact on the probabilities
+of a contact against a platform fluctuates strongly. The risks for some platforms
+P18, while the risks for other
+decrease, for example for the platforms Horizon and
+route-bound by
+platforms increase. The collision risk for Horizon by a ship decreases
+25%. Despite this reduction, Horizon remains the platform with the highest collisiori risk.
+total, a in risk of 0,008 incidents per year for platforms is achieved.
+In slight reduction
+In total, the proposed route structure will result in 0,283 fewer ships involved in an
+incident outside the wind farms.
+travelled, amount to M€
+The extra costs for shipping by the extra miles that have to be
+19,3 per year.
+-

@@ -1,0 +1,57 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+statistics suggest that these ships have about a 83% frequency of staying afloat after a
+collision whereas the chances increase to 91% for other somewhat at
+ship types. This is
+odds with the subdivision regulations in chapter part
+11-1. B of SOLAS that requires all
+ships
+of 80 metres in Iength or more and built after 1982 to be designed with a level of
+survivability that is determined by the ship’s Length and, in the case of passengers hips, the
+number of passengers that they are certified to Carry. required
+The minimum survivability
+is given a required subdivision index ‘R that
+by ranges for cargo ships from 0.36 for ships
+of
+80 metres in length to 0.60 for ships of 220 metres in length. A ship’s actual subdivision
+index is calculated by assessing the frequencies for all the different possible damage
+scenarios occurring and the chances of the ship scenario
+remaining afloat after each has
+occurred. The required subdivision
+minimum index ‘R’ is based on an analysis of the
+outcomes of over one hundred collisions between ships and so it roughly represents a
+probability of a ship surviving a random collision. This suggests hundred 80
+that if one
+metre long cargo vessels built to the minimum
+required subdivision were each involved in
+a collision, about
+then only 36 of thern would stay afloat afterwards.
+(iii) Damage which often
+to the cargo, is worth much more than the ships carrying it.
+(iv) The cost of pollution
+clearing up any that resulted from oil tanks being ruptured or cargo
+spaces being flooded and 50 allowing the sea to be contaminated through seepage.
+(v) Salvage costs, which would inciude the cost of ships being towed away for repairs (an
+expensive operation for large ships that can only be repaired in a limited number of
+shipyards) and the cost of those repairs.
+(vi) The costs due to any delays in port operations and ship movements caused collision
+by and
+the necessary clearing up afterwards, partially
+such as would follow a collision that
+blocked an important channel.
+Given that the types likely to
+of ships be involved in collision at any of the identified hazards are
+not known exactly the FSA allocates a consequence rating of ‘3’ for any collision between two
+unspecfled ships moving at speed. The consequence rating is reduced to ‘2’ for collisions at
+slow manoeuvring speeds and increased to ‘4’ if a
+collision possibly involves a loaded tanker.
+The FSA
+gives the highest consequence rating of ‘5’ to a collision between a ship moving at
+speed and a gas platform or going aground on a subsea production well and rupturing it but only
+allocates a consequence rating of ‘2’ for a collision between a ship and a wind turbine (the FSA
+does not consider damage to more than one
+turbine).
+Date: Created on 27/03/2012 14:12:00 Page: 42 of 192
+Doc: P60151/1 Netherlands Wind park FSA

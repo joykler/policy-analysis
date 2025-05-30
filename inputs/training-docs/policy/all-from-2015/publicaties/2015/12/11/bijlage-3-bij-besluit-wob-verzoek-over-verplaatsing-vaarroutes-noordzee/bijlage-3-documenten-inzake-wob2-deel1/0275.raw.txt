@@ -1,0 +1,68 @@
+Report No. 25648-1-MSCN-rev.2 30
+-
+6.2 Collision risk of ramming and
+drifting against wind turbines
+In [1] the collision risk against wind turbines was compared by fihling up the cleared area
+with wind turbines, until a total of 6000MW is not done in
+on the NCS was reached. This
+this study, because the objective structure
+was more general, namely to develop a route
+as
+that makes free much space as possible for other activities at sea, with minor effects
+on safety and shipping.
+Because the proposed route structure is developed the wind
+while taking into account
+farms licensed in round
+2, it is important to see the impact of the proposed route
+structure on these licensed wind farms when they are built. The best way to do that is to
+determine the collision risk for these wind farms without changes in the route structure
+and the collision risk of the same wind
+farms for the proposed route structure and
+compare these values.
+Variant 1 of [1] is taken as the traffic database changes
+with minimum in traffic flows
+when the wind
+licensed farms are built. Figure 5-2 shows that for this variant, extra
+space is cleared of shipping around the wind farms Tromp, Den Helder and Brown
+Ridge East. This means that the risk reducing effect of the proposed route structure on
+collisions with wind turbines
+is already realized in variant 1 for these wind farms. Even
+the proposed
+more than for route structure, because more space is cleared.
+All wind turbines are defined as separate objects. The probability ramming and drifting
+of
+is determined for each wind turbine.
+It is assumed that a drifting ship continues drifting
+after a wind turbine is hit. Thus one drifting ship can hit more than one wind turbine. The
+ship stops drifting when:
+• anchoring is successful (no contact at all);
+• the failure is repaired, using the distribution function for repairing;
+• 24 hours are passed (the maximum drifting time);
+• an emergency towing vessel (ETV) has arrived with sufficient capacity for the
+prevailing weather conditions to recover the ship;
+The probabilities of drifting,
+failure to anchor and the drifting time are derived from the
+drifters database that MARIN has been receiving from the Netherlands Coastguard
+monthly since 2002. Because the drifters database of the Netherlands Coastguard only
+contains the data of the ships have the database
+that reported failure, this is not
+complete. Therefore, several analyses of AlS data have been performed to achieve a
+complete picture of all drifters.
+present calculations
+In the no ETV is included, which means that the probability of
+drifting contacts can be decreased by including one or more ETVs.
+For each wind farm a generic configuration of 5 wind turbines is composed
+MW
+according method described
+the in Chapter 5.2. The real configuration will be different
+but will have only minor effects on the collision risk per wind turbine. Figure 6-2 contains
+the traffic for the proposed route structure with the existing wind farms OWEZ and
+Princess Amalia, and the wind farms inciuded in the
+licensed in round 2 that are QRA.
+Scheveningen Buiten is not included, because this wind farm cannot be built when the
+proposed route structure comes into force. The wind farms north of the Wadden Islands
+area not included because they do not affect the .safety and shipping in the area of the
+proposed route structure. The same wind farms
+are inciuded in variant 1. Thus variant 1
+this report differs from variant
+in 1 in [1] with respect to collisions against wind turbines.

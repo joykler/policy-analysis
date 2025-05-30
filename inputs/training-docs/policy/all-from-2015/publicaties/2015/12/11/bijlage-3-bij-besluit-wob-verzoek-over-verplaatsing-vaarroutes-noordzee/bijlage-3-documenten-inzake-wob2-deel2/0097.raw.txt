@@ -1,0 +1,66 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Safety Assessment
+Title: Netherlands Windfarm Formal
+ARCAÎNS
+Section A: Offshore Routing (present situation)
+Risk
+Outcome to be avoided Comment
+No Present situation location Hazardous situation
+CL R
+SWxS’ly going Damage, pollution and 3 2 6
+NxW going ships from the Maas NxW going ships give way to
+3e
+possible loss of life due to a
+Northwest TSS cross SWxS’ly going traffic
+/ vessel coilision
+traffic vessel
+NW and NWxN going ships must give way to Damage, pollution and 4 2 8
+of life to a
+SWxS’ly going traffic, which must give way possible loss due
+NW / SE going and NWxN / SExS going
+to SE and SExS going ships vessel / vessel collision
+tankers and deep draft ships cross
+laden tanker — —
+involving a
+SWxS’ly
+going traffic close by a shoal of NW and SE going ships must both alter course 4 1 4
+than 20 m water depth to starboard when meeting end on
+less
+Tanker and deep draft ships to and from the Damage and pollution due to 4 1 4 The shoal depth is only
+alter course around the shoal a laden tanker going aground slightly less than 20 m
+South
+lead to poorly Damage, pollution and 3 2 6 Ships diverging to the South
+3g Ships for the Maas Northwest TSS and Diverging traffic can a
+cutting across ahead of a possible loss of life due to a that have passed North of the
+Schouwenbank diverge to the South from positioned vessel
+vessel / vessel collision well buoy may cut across the
+the streams ship astern
+bows of SWxS going ships
+of the buoy
+that passed South
+within halfa miie of the Damage, pollution, fire and 5 2 10
+3h SWxS’ly going traffic that has passed Some vessels pass
+possibie loss of life due to a
+South of the well buoy pass the P6-A gas platform
+vessel / platform collision
+platform to port
+Damage, pollution, fire and 5 2 10
+possible loss of life due to if
+This half of the SWxS’ly
+the welihead is ruptured by a
+going traffic must alter course
+ship grounding
+SWxS’ly going traffic pass the Some vesseis pass within half a miie of the
+3i Half of the
+slightly to port when abeam of
+to port buoy
+well buoy
+the platform
+Damage and poliution due to 2 2 41
+a vessel coiliding with the
+buoy
+Page: 80 of 192
+Date: Created on 27/03/2012 14:12:00
+Windfarm FSA
+Doc: P60151/1 — Netherlands

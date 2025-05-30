@@ -1,0 +1,18 @@
+Report No. 25648-1-MSCN-rev.2 38
+A
+— -
+Table collision for the anchorage area NE is
+7-1 also shows that the probability of a
+be
+much higher than for the other three anchorage areas because a traffic lane has to
+crossed twice.
+representation of the
+When assuming that the column “weighed” will be the best
+behaviour for the proposed route structure, it can be concluded that the probability of a
+ship involved in a collision on route to and from an anchorage area decreases from
+for to 0,007 for the proposed route structure; thus an
+0018 the present situation
+improvement of a factor 2,6. The probability of a ramming against a ship at anchor
+decreases with nearly a factor 4 from 0,031 to 0,008 per year. This is mainly caused by
+the lower density ships at anchor.
+of

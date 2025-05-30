@@ -1,0 +1,130 @@
+(fl
+I
+j
+t
+(
+v
+geq
+svre
+(
+l
+t
+g
+ekaw
+(,
+detk
+.
+,
+J
+Meet- en Informatiedienst Uitvoering
+Water en Scheepvaart
+1.4. Kwaliteitsborging
+Het gehele traject van inwinning tot levering
+van het product wordt gerealiseerd conform de richtlijnen
+van de nieuwe RWS
+Voorschriften. Alle data dient te voldoen aan
+HO Order la (zie Figuur 1). Voor de
+detectie van sonarcontacten gelden aanvullende criteria;
+zie hiervoor 1.6.
+§
+RWS Voorschriften
+Specifiek voor het inwinnen van gegevens zijn onderstaande
+procedures van toepassing:
+HYD-P-0O1 Plaatsbepaling
+HYD-P-002
+Platformgeometrie
+HYD-P-003 Akoestisch loden
+HYD-P-005 Scan
+Side Sonar
+Technisch
+en gedetailleerde werkinstructies zijn te vinden
+in de volgende oude RWS Voorschriften:
+RWSV 723.00.H009 vi.1 beheer onderhoud
+(Gebruik, en van dGPS)
+RWSV 723.00.HO15
+vl.1 (Gebruik, beheer en onderhoud van side scan
+sonar)
+RWSV
+923.00.F003 vi .1 beheer en onderhoud
+(Gebruik, van de standopnemers)
+RWSV 923.00.F008 vi .1
+(Gebruik, beheer en onderhoud van het gyrokompas)
+923.00.L010
+RWSV vi .1 (Gebruik, beheer en onderhoud van
+multibeam lodingen)
+Om de kwaliteit te waarborgen participeert RWS
+Noordzee in vergelijkingsmetingen welke door
+externe instanties uitgewerkt
+worden. Zie onderstaande paragraaf, Figuur 4.
+Kwaliteitsnorm lodingen en sonar
+opnamen
+NtNermA NLNonnB
+‘IHONorniSpeciai HOHermia HONonnib IHONomi2
+Voorbeekien van mogeiire gebeden
+ii loeienrig ebiaden nten ebeeden 4biedin
+m endinom da 4keaden oidaper depes dan
+0
+11ij.J
+ggyeqs 1 taigetdan en havei ris$ctie ns,f:dI 100m. weer
+waai een
+avens, vaargieden e,d ie bmaen de kustin idar Inarr.h len zceg s
+mat boer
+n*dmale
+tal den en inapech. van al, cd ee lteeprurt de
+as mdembggeig
+n innp.cbe ve rrderwalerconsiruec pr
+‘sep d, is
+ndmwaHconcbuctles
+f.ard(j) gedelinleerd Ovp.aki
+Proiect ahazdw;k door ode epaakl door ooüeea r
+depejdzpamiddeidedepre
+cdemoodaizoek ma maar volgens a pnori non
+rnaaimaal P1413 e.riW Thijn MI tal een nvnasum
+odadigzn Norm
+HO 1h. Sm. Voor LIOAR
+- agaisIai4 as 5,5m
+gdngvaaleneonddeIqnei m
+vi rn .“ -
+rpogratl. van belang voerde navigatie 95’
+Poa4iOnGdflg Vaii de iumtn and overige •
+12dm
+:
+rpogmfie, 95% b.ovewtwdnzw.au
+.:
+kiepoeldevendrnoidecdede m Om rdm
+lOm 2Om
+b.v,.,95%*ouebaidwwiv.a
+rnpeien voerlermopnen*ig onlgerenvoora9. ooregelmadgheden
+lien opn.mmgen emking. Hol [tOeren van data waa:cder het vereh deren van en
+yemJdv. loeien. Toepassen van gelij- iii andere mlsrelei4adocltas GonnOdeerde meetpurden
+moeten vnosn aan de heronder beschreven
+orahelzekerheol op 901 4Om
+‘lOm rit in.
+s%va,idieiaie cbn .1O%vaeideØe
+erticel. osekenheid vcor a=OIOm =OtSm
+0$m ,OOnn ..05m tOm
+eçedaceeide ikpien, op 951
+00075 .00075 00075 0013
+eta,&reeeau(2) 0013 0023
+hedncevzoeht — VoPectig
+hel verpkchh VoIlec[g VoIledg ai vorpchI
+Not veiptichh
+odenvinde,wek epooek
+ede mondeqoek
+teliking mde
+(,) LVI. ovxkirzoa én rneelpunl per m n.vi.
+vi. no,derwa e4gedetsaeerd let gedefinreeni
+rioe4vokczijn. nos 95% van taal voOietig
+zin.
+noeIscaaç zi
+)tdact Oetecbe 0 lvi vr.
+(1 0 im 0 2m vi.
+vi.
+endeptevan40m
+;
+10% van de diepte
+odien 40 in
+dieper dan
+Overzicht
+Figuur 4: Nederlandse en IHO Normen
+9 2 1-11-2011

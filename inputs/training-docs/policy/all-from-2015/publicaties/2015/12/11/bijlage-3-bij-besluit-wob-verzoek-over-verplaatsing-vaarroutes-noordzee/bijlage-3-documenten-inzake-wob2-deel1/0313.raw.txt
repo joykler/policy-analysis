@@ -1,0 +1,51 @@
+_____________
+Report No. 25648-1-MSCN-rev.2
+-- -...
+- --—
+Figure A 2 Figures of the different collapse types
+determined by dynamic
+The collapse type that will occur after a collision can only be
+calculatioris, Some experts have estimated the frequency of occurrence of the different
+collapse types their research. possible (yet) to estimate the
+based on When It was riot
+the pile with the turbine
+frequency, one has chosen a conservative result. For example,
+the construction and the
+can fali towards the ship or away from the ship depending on
+environmental factors. For the calculations, it is assumed that the turbine will fali on the
+ship in all cases of a pile failure.
+In Table A 1 an overview is given of the different collapse types as a result of a ramming
+or drifting collision ship size class. the expected damage to the ships is
+per In addition,
+given in the table.
+In case of a frontal or frontal/lateral (grazing) collision (ramming) of the turbine there will
+be (serious) damage to the bow of the but no (serious) damage to the side of the
+ship,
+of the ship in front of the
+ship, where the cargo tanks are located. The construction
+collision bulkhead is very rigid, which causes the damage to be limited to the front of the
+ship. Thus, it will not cause cargo (oil) or fuel oil to flow out of the ship.
+case of grazing the rigid bow, the ship will absorb the kinetic
+In construction with the
+ship
+energy without causing much damage. There could be some damage to the
+because the pile and the nacelle fall on the ship.
+No environmental damage is expected in case of a ramming collision, because the pile
+penetrate the hulI of the
+is constructed in such a way that no parts stick out which could
+ship and cause the outfiow of oil and/or chemicals.
+Environmental expected drifting collision, where the huli of
+damage can be in case of a
+This can
+the ship can be penetrated by some thickenings of the pile. cause the ouffiow
+of oil and/or chemicals.
+Personal when the pile and/or a part of
+damages (injuries/fatalities) are only expected
+the turbine collapses on the ship.
+When wind collapses that some oil from the turbine will flow
+a turbine it can be expected
+litres mineral is with
+out. The pollution that results would be, at most, 250 of oil, which
+respect to the viscosity and evaporation comparable to the cargo oil in the SAMSON
+model, and litre diesel oil (comparable bunker oil in the SAMSON-model).
+100 to

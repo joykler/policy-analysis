@@ -1,0 +1,166 @@
+and the estimation the
+Collapse types the
+and
+resulting damage turbine
+shipsize
+against
+estimated frequencies
+and
+made
+estimated
+collapse
+that
+whether towards
+scenario
+There are worst-case
+the deck that damaged.
+assumptions
+the deck
+the are
+surface
+that
+deck
+that a person
+deck
+vessel
+be
+the
+that
+also
+people
+number
+percentages
+estimated
+the ship
+the
+Personal damage
+steps are
+addressed.
+set worst-case
+case
+does
+case
+assumed
+assumed
+someone
+because vessels
+someone
+average
+-
+0
+sla
+Report No. 25648-1-MSCN-rev.2
+A
+-
+Z -.
+Table A 1
+with
+of
+to
+Ramming
+Drifting
+Grazing
+Lateral mid-ships Lateral eccentric
+Frontal
+(10%) (90%)
+(100%) (0%)
+[GIJ
+Damage Damage Damage Damage
+Part
+Part Tur-
+. Tur- . Part Tur- . Part
+Tur
+. Ship .
+Shsp . Ship
+bine bine
+bine bine
+<500 0% No None
+0% No None
+500-1000 0% Yes None 0%
+No None
+Deck
+0% Vos None
+NOS Nos
+1600-10000
+10% Doek 5% Deck
+Pos Pos
+Pile
+10000-30000 10% Deck
+10% Deck
+failure Pos
+Pos
+Nos Nos
+30000-60000
+10% Doek 10% Doek
+Pos
+Pos
+Nos Nos
+60000-100000 10% Doek
+10% Deck
+Pos Pos
+Nos NOS
+>100000
+10% Deck 10%
+Deck
+Pos Pos
+<500 100% No None 100% No
+None 100% No None 100% No None
+500-1000 100% Yes None 100% No
+None 100% No None 100% No None
+1000-1600 95% Yes None 100% Yes
+None 100% No Huli 100% No None
+Soli 1600-10000 90% Yes None 95% Yes None
+100% Yes Huli 100% No None
+fallure 10000-30000
+90% Vos None 90% Yes None
+100% Vos 1-luil 100% Yes None
+30000-60000 90% Vos None 90% Yes
+None 100% Vos Huil 100% Yes Norie
+60000-100000 90% Ves None 90% Yes
+None 100% Ves HuIl 100% Yes None
+>100000 90% Yes None 91% Ves 100%
+None Yes Huil 100% Yes None
+Starting
+from the for ramming and drifting
+a wind turbine,
+the following per ship type
+ship size:
+• The number of
+collisions (ramming/drifting) is multiplied with the matching
+probability
+of a certain type.
+• Multiplication
+with the probability the pile/turbine will fail upon the ship. Since it
+is uncertain the pile will fail the away
+ship of from the ship, the
+probability is to 1. Thus, the
+is
+• Multiplication with the part of is
+two
+for this multiplication factor:
+- The fails
+pile completely on the deck. In of grazing It is well possible
+very
+that the pile not fail on completely.
+- The of the pile and rotor
+being applied completely. In this it
+is rotor
+the is falling whhle it is stili turning.
+• Multiplication with the probabüity
+is located on the wheri the
+turbine fails onto
+It. The probability that is located on the is
+to be
+10% In reality this probability is (much) lower,
+only 0fl fishing
+will the crew mostly ori deck, but for this type of
+the turbine will not bend.
+This 10% includes the probability
+iriside ship is hit by a part
+of
+the falling turbine.
+• Multiplication with
+the of on board.
+2
+= Nacelle
+NosPos 0fl Ship and Pile On Ship after plastic deformation

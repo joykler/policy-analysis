@@ -1,0 +1,70 @@
+10
+Report_No. 25648-1-MSCN-rev.2
+•
+...
+*
+windparken op de
+1.4 Effect van de scheepvaart
+De belangrijkste effecten voor de scheepvaart zijn:
+onderling en kans op
+• verandering van de kans op aanvaringen tussen schepen
+andere scheepsongevallen door de verandering van de scheepvaartafwikkeling;
+• kosten van omvaren;
+aandrijvingen met
+• het ontstaan van nieuwe ongevallen, namelijk aanvaringen en
+de nieuwe windturbines.
+vier verkeersdatabases. Alle
+De effecten van de eerste twee punten zijn bepaald met de
+resultaten zo
+effecten zijn bepaald per scheepstype en -grootteklasse, waardoor de
+goed mogelijk worden
+in kosten kunnen omgezet.
+verkeersdatabase en de
+De kans op een aanvaring of aandrijving is bepaald met de
+mogelijk omgezet in kosten,
+locaties van windturbines. Ook deze kansen zijn zo goed
+waarbij is dat de kans dat windturbine verloren gaat, gelijk is aan:
+aangenomen een
+• 100% een aanvaring door een routegebonden schip;
+na
+• 20% na een aanvaring door een niet-routegebonden schip;
+• 85% na een aandrijving door een routegebonden schip
+• 10% na een aandrijving door een niet-routegebonden schip;
+Hierbij is M€ 10 voor een windturbine die verloren gaat.
+gerekend met
+van een schip bij
+Een bedrag van M€ 1,04 is gebruikt voor de gemiddelde schadekosten
+bij
+een ongeval buiten het windpark. Vermoedelijk zal de schade aan het schip
+aanvaring windturbine kleiner zijn.
+of aandrijving van een
+deel van
+Het resultaat van alle berekeningen is samengevat in Tabel 1-1. Het middelste
+de
+de tabel kosten per jaar van de aanvaringen en aandrijvingen met
+geeft de
+van alle kosten blijkt dat de
+windturbines en de omvaarkosten. Bij vergelijking
+kosten per jaar. Vervolgens is
+omvaarkosten verreweg het meeste bijdragen in de extra
+de schade aan de windturbines de grootste kostenpost.
+variant die onderzocht is waarbij
+De voorgestelde routestructuur is tot nu toe de enige
+gemiddeld 0,283
+de kans op een incident afneemt. Buiten de windparken worden
+contacten met
+schepen per jaar betrokken bij incidenten. Het verwachte aantal
+minder
+gebied. Er wordt dus in totaal netto een
+een windturbine is 0,206 in het beschouwde
+vermindering van het aantal incidenten gerealiseerd.
+incidenten. Tabel
+Het totaal van het aantal incidenten dat afneemt is de som over alle
+kolom van het verwachte aantal aanvaringen per
+1-1 bevat in de laatste de verandering
+dus zonder de aanwezigheid van
+jaar. Dit is het resultaat van de nieuwe routestructuur,
+meer geconcentreerd
+de andere obstructies. De toename wordt veroorzaakt door het
+varen, waardoor aantal aanvaringen bij oplopen toeneemt.
+het

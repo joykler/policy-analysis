@@ -1,0 +1,71 @@
+Scheepvairt
+Water
+frequentie
+toegepast
+scan
+4300
+frequentie
+data
+Side scan
+1.3. en
+Multibeam opname
+/
+Multibeam verwerking
+sonar opname
+sonar verwerking
+Overzicht gebruikte systemen instellingen
+[onarWiz.Map
+rwerking
+Meet- en Informatiedienst
+Uitvoering
+en
+(MBES)
+plaatsbepaling
+SBAS Trimble, ETRS89 UTM zone 31
+N
+Multibeam
+Kongsberg Simrad EM3002s
+300
+kHz
+motion sensor
+Octans 4
+geluidsmeting (SVP) Valeport
+probe (voor verticaal profiel) en Thermosalinograph
+voor MBES head
+software
+QINSy 8.0
+aantal raaien
+78
+raairichting
+179° 359233°
+slagafstand
+46 m
+software
+QINSy 8.0 en 2.2
+Qloud
+getij
+DCSM98 model, reductievlak
+t.o.v. MSL
+verwerking
+en QC WSM/U
+Side
+plaatsbepaling SBAS Trimble, ETRS89
+UTM zone 31N
+side
+scan sonar Edgetech High
+speed sonar MPX
+410 kHz
+sonarbereik
+100 m
+software
+Edgetech Discover 5.34
+opslag
+Edgetech Discover 5.34
+aantal raaien
+21
+slagafstand
+44.5 m
+software
+v4004.x
+en QC WSM/U
+7 21-11-2011

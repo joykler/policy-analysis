@@ -1,0 +1,40 @@
+__
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+2.6 Near misses with oillgas platforms (present situation)
+In 2010, there were no collisions with platforms or wind parks. However, the safety zones
+(500m) around these platforms and wind arms have been breached on several occasions which
+had the potential to lead to serious incidents.
+The tables below provide an overview of the number of violations of the 500 m zone. The tables
+show the number of violations of the safety zone in 2010 increased significantly when compared
+to 2009.
+Vear Breaches of Safety Zones
+(50Jgrs)
+2007 9
+2008 18 100%
+2009 11 39%
+2010 19 72%
+Table 3. Number of violations of the 500 m zone of platforms
+BreachesofSafety
+Year Zones
+]
+4 1
+2007 9
+2008 4 44%
+2009 5 25%
+2010 NA Unavailable
+Table 4. zone of wind turbines
+Number of violations of the 500 m
+The safety of the platforms is based on Article 43 of the Mining Act. This article prohibits the
+presence of people and equipment in the safety zone. 1f a ship or a person enters the safety zone
+without prior permission of the operator an serious offence is committed. Incidents with
+Offshore Installations since 2000 the following page.
+are shown in table on
+6
+On previous year
+On previous year
+27/03/2012 Page: of 192
+Date: Created on 14:12:00 30
+Doc: P60151/1 — Netherlands Wind park FSA

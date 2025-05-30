@@ -1,0 +1,60 @@
+______ _________________________________________
+ONGERUBRICEERD
+TNO report TNO-DV 2012 C485 27 /81
+1
+-
+r
+Figure 16 Sketch ofdifferentievels. For
+reference, a typical bulk carrierwith a length of 175 m
+and a draught of 8 m is drawn.
+The sand pattern has a wave length of approximately
+500 m.
+4.2 Distance between keel and munition
+The eight scenarios are divided into four distances vessel
+between keel of the and
+munition article:
+• In the event of a sinking
+ship or a ship striking the seabed with its keel or
+propeller,
+the distance between charge and vessel varies between 0 - 1 m;
+• In case of objects dropped on
+to the munition, eg. a presented anchor or a lost
+container or other deck cargo, the estimated distance measures 8 m to several
+tens of meters depending on the location,
+tide, draught, speed and length of the
+vessel. For example; for munition situated at a depth of 20 m the distance
+measures about 50 m between a container
+falling overboard at the rear end of
+the ship and sinking at a rate of 4 m/s [Verhagen et al., 2011] while the ship
+travels at 10 mis. However,
+in case the container fails overboard at the front
+end of the ship with a length of 50 m or more, this distance measures about 10
+m as the container is still underneath
+the ship at the moment it reaches the
+seabed. For the calculations a conservative distance of 10 m is assumed;
+• For water turbulence
+(or currents) disturbing the seabed due to propeller wash
+or vibrations in the water disturbing the seabed resulting from a passing ship,
+the distance is conservatively
+estimated at 5 m;
+• When an anchor or bottom trawling gear is dragged through the munition dump
+site (a normal anchoring manoeuvre, drifter,
+fishing), the distance between keel
+and munition is estimated at 100 m.
+The distance categories versus incident
+scenarios are summarized in Table 1.
+Table 1 Distance between keel and munition versus incident scenario.
+Distance from keel
+to munition Scenario
+Direct contact to 1 m Ship sinks, ship strikes seabed with keel or
+propeller
+5 m Vibration of ship movement disturbs
+seabed,
+water turbulence due to propeller wash
+disturbs seabed
+10 m Ship anchors, ship loses
+cargo
+100 m Drifter drags anchor, drags
+fishing boat
+bottom trawling gear
+ONGERUBRICEERD

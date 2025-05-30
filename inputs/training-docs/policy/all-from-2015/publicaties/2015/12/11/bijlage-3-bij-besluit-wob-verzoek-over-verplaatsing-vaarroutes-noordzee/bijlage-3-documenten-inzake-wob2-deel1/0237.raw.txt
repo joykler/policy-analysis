@@ -1,0 +1,83 @@
+DEPTH CHARGE
+L-Seies1
+ioi\
+Qiare
+...
+INTRUS1ON
+SPIGOT
+ONGERUBRICEERD
+TNO report TNO-DV 2012 C485
+1 50/81
+1
+In [Wallace,
+1994] it is conciuded that ignitions and
+explosions are observed for
+munitions that previously
+had undergone and successfully passed conventional
+drop tests
+(ie. at flat surfaces), and that in some cases
+modest drop heights
+produce a very violent response.
+Empirical relationships for the likelihood of
+initiation
+are developed according to [Wallace,
+1994]. One example for the
+likelihood of initiation of a
+Mkl 1 depth charge is shown in Figure 26, showing drop
+height and
+drop weight combinations. No further data on spigot
+intrusion tests with
+all-up-round munitions are found
+in open literature.
+An important finding is that those spigots that punch
+out a piece of the casing of the
+munition are found to be the cause
+of ignition. Another important finding is that no
+empirical
+relationships are established for the violence
+of the response.
+Mk 11
+Drop Height/rri
+—
+1
+1
+1”
+Oeptfl
+Mkl t 1
+5
+41
+2t
+200 300 400 500
+600 700 800 O0 1,000
+WeI9htjKg
+Figure 26 Drop
+height and drop weight needed to obtain reaction in
+spigot intrusion in Mkl 1
+depth charge [Wallace, 1994]
+Spigot intrusion
+into cylindrical samples of high explosive has been performed
+using
+a 2500 kg drop weight and a 13 or 35 mm diameter
+spigot [Cartwright et al., 2007].
+The target assembly
+with spigot and confined explosive, and drop weight
+the
+arrangement are shown in Figure 27 and Figure
+28 respectively. Steel mass
+catchers are in
+place to limit the pinch to 1 mm and to prevent the target assembly
+to be crushed. The test results, which include
+Composition B and TNT, are copied
+from [Cartwright
+et al., 2007] in Table 17. In these experiments Composition
+B is
+shown to be more sensitive to this
+intrusive impact scenario than TNT. Also a
+deflagration/detonation
+type of response is noted for Composition B in
+case the
+impact weight of 2500 kg weight drives
+a 35 mm spigot into the sample at a drop
+weight velocity low
+as as 4.43 m/s.
+ONGERUBRICEERD

@@ -1,0 +1,65 @@
+.
+2 2
+m 2
+, 2,
+,
+22 .
+,
+.
+ONGERUBRICEERD TNO report TNODV
+2012 C485 35 /81
+1 1
+500n
+Figure 18 Estimate of area of a 220 ton gross
+pile of munition dumped from a LCT anchored with
+a 80 m chajn. vessel
+The is estimated to swing ±10’ due to wind and current shifts.
+The amount of HE of 220
+in a pile ton gross is approximately 14,700 kg. Combined
+with the size of 500 m2 this gives on average 29.3 kg HE/m or 39 HE-filled articles
+per 2m see Table a density
+8. Such is only achievable when articles Iie on top of
+each other. A consequence is the high probability of a sympathetic detonation
+throughout the
+pile when only a single munition article detonates in an incident (see
+paragraph 5.3.1). An amount of 10,000 kg, or two-thirds of the total amount of HE
+in
+one pile detonating order
+in high is assumed for the effect calculations in chapter 6.
+With this large munition
+density it is impossible to arrange all munitions in one plane
+side by side. The height of the pile is however difficult to estimate. The pile will have
+slumped somewhat the
+over years due to the sand being washed away beneath the
+edges and decay of boxes. 1f for example a height of 1 m is adopted, the average
+distance between centres of
+the HE-filled articles is 294 mm.
+Table 8 Amount and average density of dumped munition in
+a pile, assuming a pile area of
+500 2m
+amount / (explosive) density J density articles /
+of
+kg kg/m 1/m
+gross amount
+2,20E+05 440 -
+net explosive quantity 2.20E+04 44.0
+-
+HE-filled
+1.47E+04 29.3 39
+largercased HE-filled 8.1OE+03 16.2 5.2
+5.2.1.1 Munition density for interaction
+probabiity
+In order to estimate the probability in direct mechanical
+the contact scenarios that
+one or more munitions from the pile are hit by e.g. a dropped anchor, the density
+30.106
+should be expressed in /m instead of in /m An amount
+articles of kg of
+10.106
+20106
+munition
+is dumped off Ijmuiden in an area of 2m and an amount of
+3.106
+off Hook of Holland in an area of
+m2
+ONGERUBRICEERD

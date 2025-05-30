@@ -1,0 +1,56 @@
+Report
+the farms per year
+extra and shipping
+Table
+costs
+col
+No. 25648-1-MSCN-rev.
+2 35
+Â
+6-7 Total of risk by wind
+Expected costs per year by
+the change In route structure and wind farms
+Probability that a wind turbine Is lost after contact
+a
+Costs by contacts with the wind
+Costs for shipping
+Only
+Expected
+number of extra
+turbines
+outside the wind famis
+extra
+ramming drifling incidents per year
+[M€lyear]
+[M€Iyearl
+Total
+extra
+sions
+costs
+Variant Out per
+Total
+Number
+Mth
+Ship + con- [M€Iyearj
+yearas
+side
+of wind R-ships N-shlps R-ships N-ships
+Wtnd fami Total
+Detour wind Total
+sequences accidents
+wind exam
+turbines
+farm
+farm pIa
+Variant 430
+1 0.0592 0.0090 0.1363 0.0022 0.2067 0.298 2.067
+2.365 0.326 9.208 11.899 0,286 0,226 0,512
+0,068
+OnlyQiO 18 0.0049 0.0005 0.0068 0.0001 0.0123 0.017 0.123
+0.140 0.001 0.098 0.239 0,017 0,001 0,018
+0,002
+Proposed
+route
+430 0.0037 0.0090 0.1155 0.0022 0.1304 0.215 1.304 1.519 -0.178
+19.252 20.593 0,206 -0,283 -0,076 0,076
+structure

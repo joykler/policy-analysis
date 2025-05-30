@@ -1,0 +1,40 @@
+Meet- en Informatiedienst Uitvoering
+Water en Scheepvaart
+4.3. Overzicht
+en afbeeldingen side scan sonar
+contacten
+Zie bijlage 2
+4.4. Historische data
+Aangetroffen
+contacten worden gecorreleerd met historische
+gegevens uit de SR9 contactendatabase
+van RWS Noordzee. Hierbij worden de
+contacten die maximaal 25 m van een bestaand afliggen
+contact
+nader bekeken om vast
+te stellen of het om hetzelfde contact
+gaat.
+Geen
+van de gerapporteerde contacten zijn eerder waargenomen.
+De contacten zijn niet te correleren
+met historische data. Deze contacten
+worden als nieuwe contacten opgenomen in de
+SR9 database.
+Historische data worden
+in Bijlage 3 per contactnummer gepresenteerd. Aanvullende
+historische
+informatie betreft:
+contactnummer uit SR9 contactendatabase;
+afbeelding uit SR9 database.
+De meest recente ROHP opname wordt getoond. Indien
+geen historische
+ROHP opname
+in de SR9 database aanwezig is, wordt de
+meest recente side scan sonar afbeelding uit
+de database gebruikt;
+datum van de voorlaatste
+waarneming;
+beschrijving van
+het contact;
+bijzonderheden.
+14 21-11-2011

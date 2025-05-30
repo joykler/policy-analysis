@@ -1,0 +1,91 @@
+14
+Report No. 25648-1-MSCN-rev.2
+A
+ZZD
+—
+Opmerking
+De voorgestelde routestructuur laat schepen door een netwerk van scheepvaartroutes
+Door manier van varen heeft men bij een ontmoeting een
+varen. deze gestructureercie
+dat dit het risico
+beter idee van de intenties van de andere schepen. Het is aannemelijk
+verbetering
+op een aanvaring, gegeven een ontmoeting, kan verkleinen. Deze mogelijke
+kan niet gekwaritificeerd worden en is daarom niet meegenomen in de QRA.
+Aanbevelingen
+Een emergency towing vessel (ETV) in de buurt van de windparken kan het
+aandrijfrisico 50% reduceren. huidige berekeningen zijn uitgevoerd
+met meer dan De
+zonder inzet van een ETV.
+Dit
+De verkeersafwikkeling kan op sommige plekken nog veiliger worden gemaakt.
+hiervoor aanbevelingen gedaan.
+vereist maatwerk. In het kader van de FSA worden
+Aannames
+berekeningen is aangenomen dat driftend schip niet stopt na een aandrijving
+In de een
+weer andere windturbines kan raken.
+tegen een windturbine maar verder drift en daarbij
+Dus één drifter kan meerdere windturbines raken die allemaal geteld worden.
+een platform is berekend en meegenomen in
+De extra kans op een contact met offshore
+geen informatie
+de tabellen. De schade aan het platform is niet meegenomen omdat
+beschikbaar is over dit soort schades.
+van een aanvaring
+Uiteenzetting voor een beter begrip de kans op
+ontmoetingen tussen
+De kans op een aanvaring wordt bepaald uit het aantal berekende
+koersverschil tussen de
+schepen. De ontmoeting wordt geclassificeerd op basis van het
+Er gemaakt tussen een overtaking (koersverschil kleiner
+schepen. wordt onderscheid
+150°) en een head-on (koersverschil
+dan 60°), crossing (koersverschil tussen 60° en
+gegeven ontmoeting is
+tussen 150° en 180°) ontmoeting. De kans op een aanvaring een
+voor de drie situaties duidelijk verschillend. De kans op een aanvaring gegeven een
+crossing is bij een overtaking. Soms is deze discrete classificatie van
+veel groter dan
+klein gebied.
+ontmoetingen te grof voor het doen van uitspraken in een
+enkelvoudige ontmoetingen.
+Verder is de kans op een aanvaring gebaseerd op
+Wanneer schip bij de ontmoeting betrokken is wordt de kans op een
+een derde
+van komt naar voren in het aantal
+aanvaring groter. Het effect het derde chip
+voor ieder schip twee keer
+ontmoetingen. Bij een derde schip is het aantal ontmoetingen
+een
+zo groot, daar de ontmoetingen voor ieder schip afzonderlijk geteld worden. Bij
+ontmoeting drie worden ontmoetingen geteld en bij een ontmoeting
+tussen schepen zes
+aan dat de kans op een aanvaring
+tussen twee schepen twee ontmoetingen. Dit geeft al
+kans op een
+bij een ontmoeting tussen drie schepen drie keer zo groot is als de
+aanvaring tussen twee schepen, dus bij drie afzonderlijke ontmoetingen tussen twee
+wanneer de drie schepen elkaar niet tegelijk
+schepen, die geteld zouden worden
+ontmoeten maar in drie afzonderlijke ontmoetingen.
+De kans op een aanvaring gegeven een ontmoeting is niét geografisch gerelateerd en
+dus niet af van de afstand tot een object, zoals een platform of een windturbine,
+hangt
+gebeuren te weinig aanvaringen om de
+dat de uitwijkmogelijkheden beperkt. Er
+en te kwantificeren.
+ongevalskansen voor dit soort situaties goed te kunnen modelleren
+afhankelijk van het
+De kans op een aanvaring gegeven de ontmoeting is wel
+scheepstype en van de weersomstandigheden. Voor het
+en de scheepsgrootte ook
+berekenen een snelheidsverdeling voor
+van het aantal ontmoetingen is gerekend met
+lagere snelheden en met meer
+varen op zee. In sommige gebieden wordt ook met
+Voor
+snelheidsverschillen gevaren waardoor het aantal ontmoetingen verandert. deze
+gebieden zou verkeersafwikkeling in meer detail kunnen worden beschreven. Het
+de
+tr

@@ -1,0 +1,64 @@
+Report No. 25648-1-MSCN-rev.2 12
+A
+-çr------
+1.5 Risico reducerende maatregelen
+De berekeningen zonder
+zijn uitgevoerd risico reducerende maatregelen. De risico
+reducerende maatregel met het meeste effect is de inzet van een bergingsvaartuig
+(emergency towing vessel of ETV genoemd). de levoli Black ETV taak
+In 2010 heeft de
+van De Waker overgenomen. Zodra een drifter het Kustwachtcentrum
+zich meldt bij en
+gevaar dreigt,
+er wordt de ETV naar de drifter gedirigeerd. Omdat de kans op een
+storing groter is bij slecht weer condities en de driftsnelheid onder deze omstandigheden
+ook groter is, is de ETV bij windkracht vanaf 5 gestationeerd,
+Beaufort buiten zodat snel
+kan worden gereageerd.
+Een ETV in de buurt van windparken kan de kans op een aandrijving met meer dan
+50%
+reduceren.
+1.6 Conclusies en aanbevelingen
+Conclusies
+De resultaten van de QRA voor de voorgestelde routestructuur zonder windparken zijn
+vergeleken met andere varianten. van
+De risico’s op aanvaren de windturbines in de in
+ronde vergunde
+2 parken zijn vergeleken met de risico’s van variant 1 uit [1], dus met
+een verkeersdatabase waarin geen verdere beperkingen aan het andere verkeer
+worden opgelegd.
+• Door van windpark van
+de ligging Q10 zijn de effecten het bouwen van dit
+windpark
+heel klein.
+• De voorgestelde routestructuur is wat betreft veiligheid de beste optie. Het is
+de
+de enige variant waarbij de gesommeerde over alle incidenten
+kans kleiner
+wordt.
+• De belangrijkste effecten op de veiligheid als gevolg van de voorgestelde
+routestructuur zijn:
+Toename van het risico
+o 0,153 meer schepen zullen per jaar betrokken zijn bij een aanvaring. De
+toename wordt vooral veroorzaakt door de toename van het aantal
+oploop-ontmoetingen door concentratie van de scheepvaartbewegingen.
+head-on aanvaringen door
+Het aantal neemt iets af de scheiding van het
+verkeer.
+o een kleine toename van de kans op ongevallen gerelateerd aan het
+aantal afgelegde zeemijlen, gat in huid, brand/explosie.
+zoals zinken,
+Afname van
+het risico
+o een daling van de kans op een stranding.
+o een kleinere totaalkans op een contact met een platform. De
+verandering van deze kans is heel verschillend voor de platforms.
+Voor
+sommige
+platforms wordt de kans veel kleiner, zoals voor Horizon, maar
+voor andere platforms neemt de kans juist flink toe. Dit heeft alles te
+maken met de locatie van de platforms ten opzichte van de verschoven
+routes. De kans op een aanvaring/aandrijving met het platform Horizon
+door een
+routegebonden schip neemt met 25% af, maar Horizon blijft het
+platform met het grootste risico.

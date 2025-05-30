@@ -1,0 +1,63 @@
+Project: P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Risk.
+3.5 Assessment of Inherent
+In order
+to assess the risk associated with hazard components, i.e., frequency and consequence
+need to be determined. The frequency and consequence may be expressed quantatively using the
+categories defined in Table.
+High 5 Very likely to occur during activity.
+Medium 4 Likely to occur during activity.
+Low 3 May occur during activity
+Remote 2 Unhikely to
+occur in practice
+Not Credible 1
+Not expected to occur during activity.
+‘FRN: Frequency Ranking Na.
+Table HAZID
+8. Frequency Categories
+Consequences may be sub categorized to take account of the consequences to People, Property,
+the Environment, and Business, as shown in the following tables.
+Categoiy CRN Definition
+( atatiophk 5 Multiple fatalities
+or multiple permanent disabdities.
+Seveie
+4 Single death or permanent disabihity
+Significaut 3 Major injury or health affected
+Minor
+2 Minor injury or health affected.
+Negligible 1 Shight injury or affected
+health
+*CRN. No
+Consequence Ronkmg
+Risk
+Table 9. Acceptance Criteria! Consequences for People
+Category CRN
+-
+Catatiophie 5 Massive effect. Major national response required.
+Widespread effects at sea and on coastline.
+Seveie
+4 Major effect at sea and some effect on coastline.
+Siiiificant 3 Locahised effect. Moderate pohlution in incident area,
+possibly extending beyond local area.
+Minor 2 Minor effect. Minor pohiution limited to incident area.
+Negligible 1 Shight effect to incident area.
+CRN:
+Consequence
+Table 10. Risk Acceptance Criteria! Consequences for Environment
+Category CRN Definition
+5
+Catastrophic Extenslve structural damage
+Severe 4 Majorstnictur8l damage
+Significant 3 Locahised
+damege
+Minor 2 Minorstructuraldamege
+Neghigible 1 Slight stn.ictural damage
+CRN: Consequence
+Table 11. Risk Acceptance Criteria! Consequences for Property
+Date: Created on 27/03/2012 14:12:00 Page: 36 of 192
+Doc: P60151/1 Wind park FSA
+Netherlands

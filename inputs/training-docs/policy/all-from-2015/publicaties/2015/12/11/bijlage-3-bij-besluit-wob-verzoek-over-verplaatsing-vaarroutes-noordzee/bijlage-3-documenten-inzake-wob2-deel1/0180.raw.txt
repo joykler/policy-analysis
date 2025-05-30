@@ -1,0 +1,66 @@
+Cover report on the (formal) sefety assessments for 26 masrt 2012
+1
+6. Cost Benefit Analysis (Step 4)
+Much of the Risk Control Optlons (RCOs) listed above will have lIttie on no additional cost
+Impllcation but their irnproved utilisation and implementatlon will certainiy Impact on the safety
+considered in
+aspect of navigation throughout the selected Variant. The RCOs which need to be
+more depth will be analysed below,
+6.1. Emergency Towing Vessels
+(ETVs)
+6.1.1 Introduction
+The function of ETV capacity is to prevent that any maritime incident, due to drifting, should
+escalate into one of catastrophic consequences for human, economlc, financial or environmental
+values. response to an situatlon and negate the
+Early incident Is more likely to contaln the
+historically large associated clean up and compensatlon costs. For the cost-benefit analysls, the
+central question is whether one ETV remains sufficient, whether less ETV capacity mlght suftlce or
+recommendable.
+whether the new routeing measures would render additlonal ETV capacity
+6.1.2 Dutch developments
+The Netherlands curreritly operate in Den Helder. In 2010 the levoli
+one ETV, which is moored
+Black has continued the ETV task of “De Waker”. As soon as a report of a drifter is received by the
+Netherlands Coastguard and assistance is requlred, the ETV is alarmed and directed to the drifter.
+The probabillty a failure during weather conditlons and also the drifting
+to get is hlgher severe
+speed will be larger. For this reason, the ETV of the Coastguard Is positioned at sea during wind
+conditions from 5 Beaufort, resulting in lower response times.
+The Dutch Ministry of Transport Environment currently reviewlng the cost-benefit of the
+and the is
+distribution
+ETV. A 2006 Marln study whlch compared varlous options for ETV capacity and spatial
+Den Helder. Rijkswaterstaat Is
+of the ETV, resulted in the deployment of 1 ETV with Its base in
+currently commlssionlng a new study to Marin with the alm of investigating alternative
+indications that
+arrangements using multi-purpose vessels, possibly in multiple locations. There are
+equally reliable, more
+such arrangements may be beneficlal In many ways as this may be an
+fiexible and more cost-effective means of providing Emergency Towing services,
+for the new
+The decision making process about ETV capacity is stlll ongolng. Consideratlons
+proposed routeing system shali, upon adoption by IMO, be integrally taken along In this
+the
+consideratlon. As the proposed routelng system is assessed to be overall safer than current
+proposed routeing measures In the
+routeing system, It is considered appropriate to Inciude the
+above discussion, rather than having a separate discussion on ETV capacity in this FSA.
+Vessel
+6.2 Commercial Additional Cost Analysis
+Both the FSA/HAZID study and the QRA conciude that the proposed routeing measures will lead to
+that
+additional dlstances for commercial traffic and associated costs. The FSA/HAZID notes
+additional distances Incurred small when considered indivldually In the
+by commercial traffic are
+context of foreign going vessels that transit the routes lnfrequently.
+this corisidering all vessels that enter the ports of
+Even so, figure escalates to a large amount when
+Rotterdam and Ijmuiden on an annual basis. As calculated in the QRA, the total costs amount to
+M€19,3 per year.
+The additional mileage, and therefore costs, is more readily feit by those Indivldual vessels which
+vesseis
+frequent the ports on a daily basis and ciassed as regular runners, that is, ferries, feeder
+slmiiar.
+and
+Pagina 4 of 44

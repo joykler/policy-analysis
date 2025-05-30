@@ -1,0 +1,27 @@
+Meet-
+en Informatiedienst Uitvoering Water en Scheepvaart
+1. Algemene en
+administratieve gegevens
+1.1.
+Inleiding
+Het gebied is in de week 46 van
+het jaar 2011 opgenomen door het ms. Arca. De data werd
+opgenomen en opgeleverd in ETRS89 UTM zone 31N.
+De resultaten van de gecombineerde en side
+peiling scan sonar opname van het gebied worden in deze
+rapportage gepresenteerd.
+In hoofdstuk 1 worden algemene en administratieve gegevens
+gepresenteerd, evenals een toelichting op de procedure waarop
+Multibeam en side scan sonar data
+verwerkt worden. In hoofdstuk
+2 komen de geofysische gegevens van het zandwingebied aan bod.
+Hoofdstuk 3 presenteert de resultaten van de Multibeam
+verwerking. Side scan sonar interpretatie
+wordt in hoofdstuk 4 besproken.
+In hoofdstuk 5 wordt een advies op basis van de Multibeam en side
+data
+scan sonar gegeven. Hoofdstuk 6 vat de gegevenslevering samen.
+ms. Arca
+Figuur 1: Afbeelding ms, Arca
+4
+2 1-11-2011

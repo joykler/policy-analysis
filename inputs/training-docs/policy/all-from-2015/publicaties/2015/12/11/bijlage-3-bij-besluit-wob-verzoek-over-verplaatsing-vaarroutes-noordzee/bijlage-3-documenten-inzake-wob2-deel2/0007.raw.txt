@@ -1,0 +1,43 @@
+L1I
+MEMO
+Door de mislukte berging de waterdiepte
+is boven het wrak veranderd. De gewijzigde kans op
+aanvaren
+kan uit de figuur afgelezen worden. De werkelijke kans is kleiner omdat:
+• de operationele diepgang minder is de ontwerpdiepgang;
+• de waterdiepte boven
+het wrak meestal groter is dan de minst gepeilde diepte die op
+de kaart wordt aangegeven;
+De onderlinge verhouding
+van de aanvaarkans voor de huidige en nieuwe routestructuur zal
+echter weinig
+veranderen. Er kan dan ook worden geconcludeerd dat de raakkans van de
+Vinca Goi-thon bij de nieuwe routestructuur kleiner zal zijn.
+0,010
+0,009
+0,008
+.. 0,007
+‘“.‘‘huidige driften
+driften
+—O nieuwe
+0,005
+‘huidige rammen
+0,004
+44’-nieuwe rammen
+0
+0,003 «-huidige totaal
+totaal
+V-nieuwe
+0,002
+0,001
+0,000
+0 5 10 15 20
+waterdiepte boven Vinca Gorthon in [ml
+Figuur 5 Raakkans van
+de Vinca Gorthon per jaar ils functie van de waterdiepte beven het wrak
+Figuur 5 laat ook zien dat het verschil in raakkans wordt bewerkstelligd door
+voornamelijk
+een kleinere kans op rammen voor de nieuwe routestructuur. na een
+De kans op raken
+storing, driften, is veel kleiner en is voor beide routestructuren bijna gelijk.
+Page 5 of 8

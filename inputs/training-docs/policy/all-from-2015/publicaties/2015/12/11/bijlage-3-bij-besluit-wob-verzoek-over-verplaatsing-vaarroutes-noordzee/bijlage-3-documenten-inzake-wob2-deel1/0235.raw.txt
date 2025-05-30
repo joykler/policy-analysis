@@ -1,0 +1,81 @@
+i0
+4
+ONGERUBRICEERD
+TNO report TNO-DV 2012 C485
+1 48 1 81
+5.32.2 Non-uniform mechanical
+loading of a munition
+The deformation and
+pressure thresholds in Table 12 for inducing reactions
+in thick
+thin
+and case munition have been applied impact
+to the of large concrete debris on
+munitions through 3-dimensional
+numerical simulations [Malvar, 1996].
+Two
+examples of the simulation of an M107 155
+mm’shell impacted by a 12 inch
+diameter piece of concrete
+are given in Figure 24. At the left side of the figure
+is a
+impact
+the on a free standing 155 mm shell,
+at the right side the impact on the
+same shell stand ing against
+a solid back wall. In the latter case the
+deformation of
+the high explosive fill is more severe. This situation
+compares for example to the
+impact of a ship’s keel on
+a pile of crossed cylinders (munitions). Instead
+of the
+impact
+of the concrete sphere the impact realized
+is by the solid wall; but the
+transfer of impulse
+to the impacted shell, thus its deformation, will
+be of the same
+order.
+The summary of the
+numerical simulations in terms of deformation and
+pressure are
+copied
+in Table 16. A prediction of the reaction violence
+is given, based on the
+thresholds in Table 12.
+At impact velocities below 800 ftls the presence
+of a back
+wall makes a significant contribution to the
+crushing of the munition. A rough order
+estimate of the impact impulse
+required for sufficient deformation to cause
+a low
+order reaction
+is kgm/s.
+By comparison
+of the 10 kgm/s threshold impulse in non-uniform
+mechanical
+loading with the 3.110 Pas threshold impulse
+in uniform mechanical loading, see
+Table 14, one can roughly
+state that these loadings are comparable in
+case of 31
+load-bearing
+points per square meter. For
+large caliber munitions one may expect
+that a uniformly applied
+laad will be borne in less than 31 contact
+points per square
+meter
+for a munition pile, which is a direct indication
+that non-uniform mechanical
+loading is worse compared
+to uniform mechanical loading.
+Figure 24 Impact 12 inch
+of concrete sphere with 1200 ftls initial velocity on a
+free standing 155
+mm
+artillery shell (left) and a 155 mm shell with back wall
+(right) [Malvar, 1996].
+ONGERUBRICEERD

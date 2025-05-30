@@ -1,0 +1,71 @@
+ONGERUBRICEERD TNO report TNO-DV 2012 C485 32 /
+81
+1
+A summary of the exposure at the munition dump sites Table 6, with
+is given in
+figures derived from [MARIN, 2011a,b].
+The probability of a ship sinking on a
+munition dump site is increased by a factor of six for the alternative route structure,
+while it decreases to (almost) zero
+with the proposed route structure in place to
+regulate ship traffic.
+The probability of ships anchoring
+or dragging an anchor is doubled with respect to
+the current situation. The probability for ships loosing cargo at the dump sites is
+increased more than tenfold
+for the alternative route structure, whereas for the
+proposed route structure this probability is actually lower than in present
+the
+situation.
+The probabilities are differentiated
+by colours on a relative scale going from
+impossible (blue) at the left to frequent (red) at the right. Colour coding is assigned
+per decade in probability per
+year and a translation is made to qualitative terms in
+line with the Fine & Kinney method. Where numbers are absent, colours are
+assigned in accordance with
+comparable scenarios.
+Table 6 Exposure of incident scenarios for present, alternative
+and proposed route structure
+expressed in probabilities per
+year.
+Route Structure Present Proposed Alternative
+Scenario
+—-
+Ship
+sinks 0.000850
+Ship anchors
+0.000716 — 0.001667 0.001 545
+‘.i
+Drifter drags 0.000716
+0.001667 0.001545
+anchor
+Fishing boat
+bottom
+drags
+trawling gear
+Ship loses
+containers
+Ship loses deck
+cargo
+Vibration of ship
+movement
+disturbs seabed
+Water turbulence
+due to propeller
+wash cfisturbs
+seabed
+Shipstrikes
+0
+seabed with keel
+or propeller
+Note:
+Impossible Vera..,; Rare Unusual
+but Occasional
+(once in” (once in possible (once
+in
+more than
+more than (once in more than 10
+10000 years) 1000 years) more than years)
+100 years)
+ONGERUBRICEERD

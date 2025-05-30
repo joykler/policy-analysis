@@ -1,0 +1,97 @@
+_______
+ReportNo.25648-1-MSCN-rev.2
+16
+2 INTRODUCTION
+The ambition of the Dutch
+government is to realize offshore
+wind farms with a total
+installed
+power of 6000 MW. The question “where
+in the North Sea” is subject of many
+discussions because of the opposite interests
+of different stakeholders. Several studies
+on different topics
+already have been performed,
+Last year, a Quantitative Risk Assessment
+(QRA) has been performed for six variants,
+each containing a number of
+sub-variarits. The report “Quantitative Risk Assessment
+for
+Offshore Wind Farms the
+in North Sea” of May 2010, reference contains
+[1], the results
+of all variants and
+sub-variants at that time.
+Since then, ongoing discussions
+with all stakeholders have resulted in a proposal
+for a
+new route structure
+on the Dutch part of the North Sea that is
+based on concentrating
+the
+shipping in a network of routes. This network
+of routes is developed in such a way
+that all wind farms that were licensed in
+round 2 (wind farms Beaufort, Breeveertien,
+Browri Ridge East,
+Den Helder, Q10, Q4, Tromp and West-Rijn)
+can be built, with the
+exception of
+Scheveningen Buiten, because this
+wind farm will come into the Maas
+North TSS, that is moved to the west
+for creating space close to the coast for other
+activities.
+objective
+The of the new route structure is
+the improvement of the safety around
+offshore platforms in general and in particular
+the Horizon platform, safer approach
+to
+IJmuiden, safer and larger
+anchorage areas and finally safe locations
+for the
+development
+of wind energy.
+The topic of this report is
+the impact of the proposed route structure on
+safety of
+shipping. Also
+aspects such as costs of extra miles and emissions by
+detours, are
+quantified. Because it is expected that wind
+farm Q10 will be built within short time, this
+wind farm is considered to belong present
+to the situation.
+contains
+The report the following chapters:
+Chapter 3 gives the objective of the study.
+Chapter 4 describes approach
+the followed.
+Chapter 5 describes
+how the input for the calculations is determined.
+Chapter contains
+6 the resuits of the calculations.
+Chapter 7 contains the risk assessment for
+the anchorage areas of IJmuiden the
+in
+proposed route structure.
+Chapter 8 deals with
+the risk of two wrecks for which the proposed route
+structure can
+have
+consequences.
+Chapter 9 describes the risk of the dumping
+areas in the new Maas North TSS.
+Chapter 10 describes best
+the risk reducing measure.
+Chapter 11 contains
+the coriclusions and recommendations.
+The calculations have been
+performed for the layout of the proposed route structure
+of
+September 16, 2011. The
+changes on this design, near the Deep Water
+anchorage area
+of IJmuiden
+are not made in the figures of this report.

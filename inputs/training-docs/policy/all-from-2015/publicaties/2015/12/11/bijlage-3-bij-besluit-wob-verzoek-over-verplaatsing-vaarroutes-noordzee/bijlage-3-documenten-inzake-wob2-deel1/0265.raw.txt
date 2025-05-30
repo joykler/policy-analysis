@@ -1,0 +1,53 @@
+Report No. 25648-1-MSCN-rev.2 20
+A
+5 IN PUT FOR THE CALCULATIONS
+5.1 The traffic databases
+The most important element for a risk assessment is the traffic database. The traffic
+database describes where shipping sails and with which intensity. The traffic database is
+composed by determining the routes over sea for all ships A port 8 and
+from port to
+summarizing
+all ship movements on the routes. The shortest route will be followed,
+taking into account the regulations, traffic separation schemes, the water depths and the
+obstructions at sea such as offshore platforms and wind farms. Each traffic database is
+constructed from the same set of movements from A to 8, but each with a different set
+of routeing schemes and obstructions.
+For this study two new traffic databases have been developed, namely:
+• one for the existing route structure and existing obstructions, inciuding the wind
+farms OWEZ, Amalia, and near-future wind This traffic
+Princess the farm Q10.
+database is iridicated as “base with Ql0’.
+• one for the proposed route structure with the wind farms OWEZ, Princess
+Amalia and Q10. This traffic database is indicated as the ‘proposed route
+structure”.
+The proposed route used for quantitative for each wind
+structure is the risk assessment
+farm licensed in round 2.
+Further two traffic databases of [1] have been used for a better understanding of what
+has been delivered.
+changed in the different steps and which benefits it has
+Finally the four traffic databases used in the QRA are presented in Figure 5-1 to Figure
+5-4. All are based on the same set of shipping movements of 2008.
+Figure 5-1 shows the “base”, being the traffic flows for the traffic separation schemes in
+2011 with the existing wind farms OWEZ and Princess Amalia (taken from [1]).
+Figure 5-2 shows the traffic flow of variant 1, taken from [1], for which the traffic is routed
+around the wind farms that are licensed in round 2. Only in the far west area a larger
+area is cleared of shipping than necessary for the wind farms Tromp, Den Helder and
+Brown Ridge East. This case is used to illustrate the effect of the proposed route
+structure on the collision risk of these round 2 wind farms. This case is referred to as
+“Routeing present situation with 11 wind farms in place”.
+Figure 5-3 shows the traffic database for the case that wind farm 010 is added to the
+base case. This case is referred to as ‘Routeing present situation with 3 wind farms in
+place”.
+Figure structure. The
+5-4 shows the traffic database for the proposed route proposed
+route structure consists of a network of routes, of which the borders are plotted with
+black lines in Figure 5-4. The objective is that ships will follow these routes, which
+means that they will pass wind farm areas licensed in the round 2 on a distance of at
+least two nautical miles. This will reduce the collision risk with a wind turbine. On the
+other hand this way of routeing will result in a higher concentration of shipping which
+may result in a higher probability of collision. Only the route from IJmuiden to the deep
+water routes (chemical eastern coast of UK and
+and oil tankers) and to the north the
+vice versa will cross the black-defined areas. This case is referred to as ‘Routeing
+proposal with 11 wind farms in place”

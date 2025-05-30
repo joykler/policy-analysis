@@ -1,0 +1,107 @@
+2
+2
+2
+2
+2
+2
+2
+3
+. .
+.
+3
+).
+ONGERIJBRICEERD TNO report TNO-DV 2012 C485
+23/81
+1
+3.3 Dimensions
+There are two indications dimensions
+of the of the dump sites:
+extent
+• the of sonar contacts ina survey of the dump sites [Ham etal., 2001];
+• the charted location
+of the dump sites on the nautical chart (WGS84 1NT1416
+1630 and WGS84 1NT1418 1631).
+Judged from the sonar plot, the dimensions of dump site IJmuiden equal:
+(573000 -
+= 10.106
+570500) x (5825000 - 5821000)
+= 2500 m x 4000 m m and the
+dimensions
+of clump site Hook of Holland equal: (557500 - 556000) x (5787000 -
+= 3.106 13106
+5785000) = 1500 m x 2000 m
+m This results in a total area of m
+= 10.8106
+The dimensions on the chart are slightly larger: 3000 m x 3600 m
+m for
+= 5.6106
+IJmuiden and 2500 m x 2250 m Hook
+m for of Holland, resulting in a total
+16.4.106
+13.106
+of m The smallervalue of m as derived from the sonar plots
+is
+adopted, both because t results in a higher
+and therefore more conservative
+munition density to be used for the risk assessment and because thought to
+it is
+represent the most accurate
+measurement.
+3.4 Bottom morphology
+The munition dump sites are
+in areas where the tidal currents create sand waves on
+the
+seabed as shown in Figure 13 and Figure 14. Sand waves come in various
+sizes, from ripples to mega ripples,
+sand waves, long bed waves to tidal sandbanks
+[Koning, 2007]. The size of 0.1 to 5 m amplitude is referred to as sanci waves.
+The
+positions of sand wave crests and
+troughs slowly change with time. The waves are
+constantly migrating and move in a general northwards direction, rate of up
+at a to
+10 m per year.
+The sand waves are caused by tidal currents, as a water flow to 1 m/s
+of just 0.5
+already picks up a sand
+gram and deposits it downstream. The wavelength at the
+munition
+dump sites is typically in the order of a few hundred meters [Koning, 2007].
+For example, according to [Angeren, 2011]
+the wavelength at Hook of Holland
+measures approximately 400 m with a crest height of 6 m. In between
+these large
+sand waves, smaller waves
+occur with a height of 0.5 m and a wavelength of about
+5 m.
+Munition is made of explosives or is composed of metal and explosive. Propellant
+cases, although unlikely been
+to have dumped according to the recommendations
+in the Van Waning collection (see Appendix D), are the only munition articles
+that
+may contain a significant amount of air.
+1f not perforated during the dumping
+activities the latter should have filled up with water as it is unlikely these cases
+that
+are still watertight after
+70 years. Therefore the density of the munition items equals
+at least the density of the explosive (approximately 1650 kg/m for but
+TNT)
+significantly more when cased with (with
+steel a density of 7800 kg/m The density
+of the explosive alone is approximately the same the density of water-saturated
+as
+sand, so there is no strong buoyancy
+effect when buried in sand, not even for the
+least dense munition.
+Steel cased munition is too heavy
+to be picked up by the water flow and thus
+remains stationary. This means that the munition can only move downwards
+when
+sand underneath it is washed away.
+Consequently, the munition tends to
+concentrate at the lowest level of the sand waves, ie. in the and the
+troughs,
+majority of the munition items will be covered
+by sand.
+ONGERUBRICEERD

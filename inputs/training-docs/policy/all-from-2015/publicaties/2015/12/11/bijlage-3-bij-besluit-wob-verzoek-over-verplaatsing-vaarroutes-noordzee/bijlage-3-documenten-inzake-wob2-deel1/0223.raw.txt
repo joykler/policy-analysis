@@ -1,0 +1,88 @@
+22
+.
+ONGERUBRICEERD TNO report
+TNO-DV 2012 C485 36/81
+1 1
+Assuming that these
+amounts are dumped in 150 respectively 100 munition piles,
+each covering a surface of 500 m2, the areal density of munition dump sites
+at the
+1.7102
+equals 810 (IJmuiden)
+or /m2m2 (Hook of Holland).
+In the direct mechanical
+contact scenarios a quantitative assessment of the
+likelihood of the interaction with munition is made.
+Ship sinks
+A ship with typical Iength
+and width of 150 X 30 m has a large surface area
+compared to the 500 m2 area of a single munition pile. The probability of interaction
+is well approximated values
+(for < 1) by the ships surface area multiplied with the
+number of munition piles divided by the total area of The probability
+the dump site.
+of the ship to interact with a munition
+pile is 0.07 to 0.15. The likelihood of
+interaction is considered likely.
+Ship
+strikes seabed with keel orpropeller
+The surface area
+of the ship is assumed to be representative for this incident
+scenario, and the probability of interaction with munition is equal to the probability
+in
+the sinking ship scenario.
+The likelihood when a ship strikes the seabed with keel or
+propeller is considered likely.
+anchors
+Ship
+The surface area of
+an anchor is small compared to the area of a single munition
+pile, and the probability of interaction equals the areal munition at the
+density of
+The likelihood
+dump sites. of an anchor to interact with munition is considered quite
+possible.
+Ship
+loses container
+A container is
+expected to interfere only with the top layer of the seabed. The areal
+density of munitions at the seabed is smaller than the areal density of the munition
+piles. An indication of the
+smaller areal density of munitions at the dump site is dear
+from sonar surveys [Ham et al., 2001], [Van Angeren, 2011]. Van Angeren
+12.9.106
+performed a sonar survey
+atthe Hook of Holland dump site. In the 2m
+survey 55 sonar contacts were made with an average size of all contacts of
+sonar
+20 The areal density
+m2. of sonar contacts is 910 /mm As the container surface
+(20*
+area 8 ft2 = 14.4 m2) is smaller than the average size, the
+sonar contact
+of the container
+probability to interactwith munitions equals g•i-. The likelihood of
+a lost container to interact with munition is considered conceivable very unlikely.
+but
+Ship
+loses deck cargo
+For lost deck
+cargo that only interferes with the top layer of the seabed, and with a
+similar surface area as a container, the probability to interact munitions is also
+with
+910-. The likelihood of
+a lost deck cargo to interact with munition is considered
+conceivable but very unlikely.
+boat
+Fishing drags bottom trawling gear
+The penetration depth
+of beam trawl depends on weight, towing speed and type of
+substrate and will be 1 to 8 cm [Paschen et al., 2000]. For trawling munition needs
+a
+to be exposed at the surface
+of the seabed for any interference to occur. The typical
+area for a fishing boat crossing the munition dump is far larger munition
+than
+contact areas at the seabed
+surface.
+ONGERUBRICEERD

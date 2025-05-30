@@ -1,0 +1,51 @@
+Al!
+Report No. 25648-1-MSCN-rev.2
+36
+7 MOVEMENTS TO
+AND FROM ANCHORAGE AREAS OF IJMUIDEN
+The present anchorage area
+is replaced by four possible anchorage areas for the
+proposed
+route structure. In the calculations of Chapter It is assumed average
+6 that the
+number of ships will be spread over the four anchorage
+areas in such a way that the
+average number of ships per
+square miie (the traffic density) is the same for all
+anchorage
+areas. However, no attention was paid to the routes to and from these
+anchorage
+areas while these change considerably. By incorporating
+not this in Chapter
+6, comparison of the resuits with the results for
+traffic variants of [1] was made possible.
+In thid chapter
+the impact of the change in the movements to and from the anchorage
+areas is quantified. For the present anchorage the
+area movements to and from the
+anchor areas are presented in Figure
+7-1 together with the traffic database for the
+present situation
+including Q1O.
+-- .
+Figure
+7-1 Present traffic database inciuding links to and from the anchorage
+area
+Figure 7-2
+contains the traffic links to and from the four anchorage areas for
+the
+proposed route structure with the traffic database used in
+Chapter 6. The figure contains
+the names of the anchorage areas
+that will be used in the tables. It shows that
+anchorage area NE is difficult reach,
+to because the lane with outgoing traffic has to be
+crossed twice. This area is more convenient for ships from Ijmuiden that will anchor
+for
+some time waiting for orders. For these ships
+the anchorage area will be located at the
+right side.
+The anchorage
+area NW will not be used initially, but will come into use when there
+is a
+need to.

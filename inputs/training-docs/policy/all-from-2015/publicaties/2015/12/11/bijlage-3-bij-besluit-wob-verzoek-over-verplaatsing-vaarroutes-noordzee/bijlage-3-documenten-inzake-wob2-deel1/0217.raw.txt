@@ -1,0 +1,71 @@
+ONGERUBRICEERD TNO
+report TNO-DV 2012 C485 30/81
+1
+1
+Table 4 Probabilities per year for indicated scenarios in dumping
+the ground areas for the
+alternative route
+structure and for route-bound ships [MARIN, 2011b].
+Dumplng area
+Rotterdam Rotterdam
+muiden
+North South
+number of containers overboard
+0 0 067746 0 037938
+probability)
+(not inciuded in total
+0,003387 0,001897
+incidents with containers overboard 0,000000
+0,000000 0,000925 0,000518
+deck cargo overboard
+0,000100
+anchoring type “in lane of TSS” 0,000000 0,000178
+0,000102
+anchoring type “in separation zone of TSS” 0,000000 0,000000
+anchoring type “just outside shipping lane” 0,000917 0,000053 0,000000
+anchoring where ship saus
+0,000000 0,000420 0,000235
+foundered
+0,000052 0,000029
+foundared after a collision 0,000000
+0,000917 0,005015 0,002881
+Probability of incident per year
+Table 5 Probabilities per year for
+indicated scenarios in the dumping ground areas for the
+proposed route
+structure and for route-bound ships [MARIN, 201 ib].
+Dumping
+area
+Rotterdam Rotterdam
+IJmutden
+Norib South
+number of containers overboard
+0 000000 0 oooooo 0000000
+(not inciuded in
+total probability)
+incidents with containers overboard 0,000000 0,000000 0,000000
+deck cargo overboard 0,000000 0,000000 0,000000
+anchonng type “in lane of TSS” 0,000000 0,000000 0,000000
+anctorlng type “In separation zone of TSS” 0,000000 0,000326 0,000229
+0,000917
+and,orInQ type “just outside shipping lane” 0,000000 0,000000
+and,oring wtiere ship saus
+foundered 0,000000 0000000 0,000000
+foundered after a collision 0,000000 0,000000 0,000000
+0,000917 0,000326 0,000229
+Probability of incident per year
+The
+following notes relate to the specified incident scenarios.
+Ship sinks
+The exposure is derived from the probability of foundering and the probability of
+sinking after collision.
+The exposure inciudes the sinking of fishing vessels.
+Ship anchors
+The exposure equals the probability to anchor where the ship saus in the present
+route structure.
+The exposure is derived from the probabulities to anchoring in the
+lane, in the separation zone and just outside the shipping lane of the TSS for both
+the alternative and
+the proposed route structure. The exposure inciudes the
+anchoring of fishing vessels.
+ONGERUBRICEERD

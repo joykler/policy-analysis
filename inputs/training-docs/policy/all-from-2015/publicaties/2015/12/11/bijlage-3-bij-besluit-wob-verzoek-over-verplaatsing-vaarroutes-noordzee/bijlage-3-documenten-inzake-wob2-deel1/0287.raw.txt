@@ -1,0 +1,74 @@
+_______
+Report No. 25648-1-MSCN-rev.2 42
+The calculations were performed with SAMSON in which the wreck is modelled as an
+object of 85rn long
+1 and 37m wide. The probability of a contact with such an object due
+to a navigational error (ramming) and due to a technical failure (drifting), is determined,.
+Table 8-1 contains the results.
+Table 8-1 Cumulative
+probability of a contact with the wreck Vinca Gorthon per year
+for a ship in a certain or located on
+size class larger, when the wreck is
+the surface
+Ship ‘ze dasses in Gross Tonnage
+Type of
+Item
+1000- 1600- 5000- 10000- 30000- 60000-
+incident
+100-1000 >100000
+1600 5000 10000 30000 60000 100000
+Average design
+3,27
+4,23 540 7,46 9,96 12,31 15,27 1952
+draft
+Present trafflc
+0,008271 0,008267 0,008212 0,007361 0,006530 0004779 0,002513 0,000558
+Ram- flows
+ming Propose route
+0,006140 0006139
+0,006121 0,005742 0005350 0,004017 0,002023 0,000358
+structure
+Present traffic
+0,001088 0,001057 0,000992 0,000520 0,000365 0,000184 0,000064 0,000010
+flows
+Dritting
+Proposeci route
+0,000975 0,000949 0,000480 0,000060 0,000009
+0,000895 0,000345 0,000176
+structure
+Present traffic
+0,009359 0,009324 0,009204 0,007881 0,006895 0,004963 0,002577 0,000568
+tlows
+Total
+Proposed route
+0,007115 0,007088 0,007016 0,006222 0,005695 0,004193 0,002083 0,000367
+structure
+Table 8-1 contains the probabilities of contact with a wreck under the
+a that is directly
+water surface, which means that all ships will hit the wreck. However, small ships with
+limited drafts will not hit the wreck when crossing the wreck, because sufficient water is
+available above the wreck. The probability of an actual contact depends on the least
+sounded depth, the draft of the vessel and the tide. Generally it can be that
+assumed
+ships with a draft larger than
+a certain value will hit the wreck in case of crossing.
+Therefore Table 8-1 contains the cumulative probabilities. For example: the probability
+0006222 for the proposed route structure in the column 5000 to 10000 GT means that
+the probability of hitting the
+wreck of a ship of 5000GT or larger is 0006622, assuming
+that ships of this size class have enough draft to hit the wreck.
+For each ship size class, the average (is maximum
+design draft draft) is determined and
+put in Table 8-1.
+The operational draft is always smaller than the design draft, which
+means that using the design draft will result in an overestimation of the contact
+probability. Figure 8-5 is composed based on the design drafts and the probabilities of
+Table 8-1 and contains the probability of contact as
+a a function of the water depth
+above the wreck. The figure should be read as follows. A water depth of, for example,
+10,8m above the wreck (the depth indicated in the nautical charts before the salvage
+attempt) results in a contact probability of 0,0064 per for the present traffic
+year flows,
+thus on average
+one accident every 1/0,0064 = 156 years. For the proposed route
+structure the probability of hitting is 0,0052 a year, thus once every 192 years.

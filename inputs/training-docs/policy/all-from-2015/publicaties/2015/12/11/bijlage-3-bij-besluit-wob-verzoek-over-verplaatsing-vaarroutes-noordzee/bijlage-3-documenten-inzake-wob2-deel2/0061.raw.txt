@@ -1,0 +1,96 @@
+Project:
+P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+ships, which must give way to inbound E going traffic that must give
+way to NNE going
+ships. However, E and W going vessels restricted
+to the narrow deep-water channel may
+have difficulty complying
+with their obligations under ‘Colregs’ Rule 16 (see also Rules
+8, 9 and 18).
+The
+outer approaches to IJmuiden — Figure 12 and Appendix 1, Point 5f:
+SxE going
+ships must give way to ExN and NE going
+ships and NE going traffic must give way to
+WxS going ships, where IJmuiden
+ships for the outer approaches diverge from the NE
+as they
+going lane turn to go WxN. This can lead to a poorly positioned vessel cutting
+across ahead of a ship astern.
+Traffic from and to Sunk East - Figure 12 and
+Appendix 1, Point la and 6h: In point
+la NE/SW going ships
+to and from Sunk East TSS cross NS going traffic in the deep
+This may
+water route. result in south going deep water traffic having to give way to
+NE
+going
+ships which at the same time must give way to deep water traffic which also
+at the
+same time must give way to SW going ships,
+which finally have to give way to South
+going deep water traffic. This a
+creates very confusing situation. A similar situation
+point
+occurs at 6h.
+At
+Brown Ridge/ De Ruyter — Figure 12 and Appendix 1, point 3b, 4i: At point
+3b,
+nearer to Brown Ridge also close quarter situations
+between ships moving at very
+different speeds from all directions converge
+at large aspect angles and can cause doubt
+as to whether it is a crossing
+or an overtaking situation and which is the stand on vessel.
+A similar situation occurs at point 4i.
+Approaches to and from Hook of Holland Appendix
+— Figure 12 and 1, point 7h and
+7j: Multiple crossing at poor aspect angles
+between traffic to and from Kook of Holland
+and to and from Schouwenbank
+occur in this area. Traffic to and from Schouwenbank
+also crosses the deep water route in this area. Vessels in the deep water route
+are
+restricted in their ability to take avoiding action.
+Maas centre precautionary — Figure
+area 12 and Appendix 1, point 9e, 9g and 9h:
+Ships from Maas North
+TSS must alter course to starboard to approach the pilot station
+the
+whilst at same time being stand on vessels for outbound traffic in a close quarters
+crossing encounter. Traffic from Maas North TSS and
+Maas Northwest TSS have to
+cross the deep water channel to approach
+the pilot station and inbound ships from Maas
+West TSS cross
+the area to approach Scheveningen pilot station. This results in multiple
+crossing in the precautionary area.
+Furthermore. if all round 2 wind parks will
+be built in the future, the following additional points
+of concern arise (see
+red risk scores in the “Variant 1 traffic routing” Worksheet):
+Breeveertien vind
+park - Figure 13 and Appendix 2, Point 3e: W going vessels
+from
+IJmuiden cross SW going traffic close to the Breeveertien wind park
+site. W going
+vessels then must give way to SW
+going traffic. In poor visibility situations, the wind
+park, however,
+will obscure onboard visual and radar detection of a close quarters
+between
+situation SW and W going ships until the range is only about 2mls.
+West Rijn wind park - Figure 13 and Appendix 2, Point SSW going vessels
+8d: for
+Schouwenbank cross NW/SE going traffic in and out of
+the Maas Northwest TSS. NW
+going traffic must give way to going
+SSW ships, which in turn must give way to SE
+going traffic. In
+poor visibility situations, the nearby West Rijn wind park will obscure
+Date: Created on 27/03/2012 14:12:00
+Page: 440f 192
+Doc: P60151/1 — Netherlands Wind park FSA

@@ -1,0 +1,94 @@
+--:/:
+Report No. 25648-1-MSCN-rev.2
+19
+A
+The
+following effects can be quantified with the SAMSON
+the model:
+• expected
+number of accidents per year, divided over type
+of accident, ship types
+and sizes involved in the accidents
+and objects;
+•
+extra miles that have to be travelled as a
+result of a certain development and the
+costs involved;
+• emitted environmentally dangerous
+goods, e.g. exhaust;
+• consequences of the acciclents such
+as the outflow of oh or personal injuries.
+Effects that cannot quantified
+be are improved aspect of vessels and dear in
+intentions
+encounter
+situations.
+For quantifying the risk, the model
+requires the following input:
+• description of geographical
+the area;
+• a traffic database describing traffic
+all flows;
+• current;
+• wind rose data.
+An offshore
+wind farm introduces an additional type of risk, the risk
+being that a wind
+struck
+turbine is by a ship. Two types of collision risk are distinguished,
+namely:
+ramming
+• A contact takes place when a ship IS 0fl a
+collision course with a wind
+turbine and a navigational error occurs.
+A navigational error can have various
+causes, like lack of information,
+not being able to see the wind farm, not being
+present on
+the bridge, getting unwell and not being able act, making
+to an error
+etc. A ramming contact will take place high
+with speed: 90% of the service
+speed ofa vessel.
+• A drifting contact occurs when ship
+a in the vicirtity of a wind turbine
+experiences a failure
+in the propulsion engine or in the steering equipment.
+Since the ship
+slowly becomes uncontrollable as it loses speed, combined
+the
+effect of wind, waves and current may carry the towards
+ship the wind turbine. 1f
+dropping an anchor does not help
+or is not practical and the repair time exceeds
+the available time,
+the ship may collide against a turbine. This generally happens
+at a low
+speed.
+The probability of a contact wind
+with a turbine depends on where the traffic flows are
+with respect to the wind farms.
+In order to quantify this ramming and drifting risk the
+offshore wind
+farms have to be filled up with wind turbines actual
+with an geographical
+position.
+The impact of the
+offshore wind farms is quantified by comparing the risk case
+of the
+with wind farms
+the with the risk of the base case without the farms.
+wind
+Recently one has tried to salvage
+the wreck of the Vinca Gorthon that is located in the
+present traffic flow
+from Maas North TSS to Texel TSS. Because this
+was not
+successful,
+it was asked to pay special attention the risk posed
+to by this wreck. Also a
+wreck
+in the proposed new anchorage area for
+deep draught vessels needs special
+attention. These aspects are described in
+Chapter 8.

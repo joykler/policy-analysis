@@ -1,0 +1,29 @@
+—
+date ships
+type speed CPA destination
+situation location visibility nm
+(IJ-geul buoys)
+form
+1
+22/06-2010 17:45 BalticAltantic
+tanker unknowri 0,05’ anchorage crossing Ii-? good
+X
+UK-170 fishing 110
+north bound
+2 07/07-2010
+02:45 Tanea tanker
+unknown dose limulden crossing 11-5 and 1.7 good
+X
+Portiand
+Cap container CPA TSS Gif
+TeeI
+3
+18/03-2010 21:20 Vele bulkcarrier jnknown
+0,3’ westbound crossing lJ-7 and 11-9 good X
+Major Hubal
+bulk carrier 555 TSS Maas North
+4 28/06-2011 10:00
+Dana-1 general cargo unknown 0,1’ TSS
+Gif Tesel crossing Ii-? good X
+Karel
+tanker 185 westbound

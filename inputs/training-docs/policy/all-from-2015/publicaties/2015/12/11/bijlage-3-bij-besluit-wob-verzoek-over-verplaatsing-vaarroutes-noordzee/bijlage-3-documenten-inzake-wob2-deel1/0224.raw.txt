@@ -1,0 +1,203 @@
+area
+gear
+cross
+surface
+gear
+sonar contacts sonar area
+area
+equals
+considered
+drags
+has anchored
+heave anchor attendance,
+made
+engine
+anchor encounters
+anchor
+anchor
+near the encountered
+compared
+considered between
+numberofmunition
+sonar contacts)
+boats
+scenarios somewhere between
+gear
+anchor
+scenarios
+the
+movement
+generated vessel, propagate
+does attenuate
+water
+sound source
+waves
+distance.
+does
+depend distance
+the
+changes
+considered
+structure
+considered
+present
+separation zone
+propeller
+sonar
+1000,000).
+vast
+sediment
+sediment
+be
+sand
+vessel estimated
+clearance between
+meter
+seabed
+gearto
+anchor
+(because
+seabed. area
+seabed,
+9.010-
+assessment
+seabed
+because
+decrease
+seabed
+as
+seabed
+(1:
+atiny
+vessels
+passage
+seabed
+m
+m
+m
+8.010 m
+2
+/m
+/m
+.2
+22
+22
+ONGERUBRICEERD
+TNO report TNO-DV 2012 C485
+37/81
+1 1
+This 30000 is calculated
+by multiplying 2.5 km (the smallest dimension
+to
+one of
+the munitions dumps) with 12 m (the
+maximum width of trawling
+in the European Union waters). Trawling
+only interacts with the top
+of
+the and
+the probability of interaction is approximated by
+multiplying the
+typical with the number
+of divided by the survey
+and
+0.13. The
+likelihood of bottomtrawling interactwith
+munition is
+likely.
+Drifter
+A ship that
+may start to drift. Assuming a drift velocity
+of 2 knots, half
+an hour to the
+of for example lack of engine
+failure or
+start-up) a stretch of 1 mile is
+with the anchor and chain in
+the With an width of typical
+2 m the that the
+in one stroke
+is 1850 The ploughs through
+the at a larger depth
+to bottom trawling but still
+surface. The areal
+density of munitions
+is to be
+(from number of
+and
+(from piles). The probability
+of interaction is
+calculated similar to the ship sinks and fishing
+the drags
+trawling
+and is
+0.008 and 0.06. The likelihood
+of a drifter dragging
+an and interacting with munition
+is considered quite
+possible.
+In indirect mechanical contact
+no quantitative of
+probability of
+interaction can be made.
+Vibration of ship
+disturbs
+For the vibrations by
+a t is quite possible to through
+the water and
+reach the munition
+not planar sound
+that well. For the spherical
+expansion of a wave from a point
+the amplitude of
+the wave with amplitude
+The of vibrations
+at
+will typically on
+ship size, between keel and position
+(vertical lateral)
+and of munition at the seabeci, and
+in ship velocity. The
+likelihood of ship vibration to interact
+with munition is quite possible
+for
+the alternative route
+with large ships crossing the munition
+dump sites. For
+the route structure the likelihood
+is to be less and is qualified
+unusual but
+possible. For the proposed route structure
+the munition dump site is in
+the of the TSS
+and the likelihood of interaction is considered
+to be
+only remotely
+possible.
+Water turbulence due to
+wash disturbs
+Water turbulence induced by
+propeller wash only disturbs munition that is lying
+uncovered on the
+bottom. From the survey [Ham
+et al., 2001] it is known that
+only
+fraction of the munition lies uncovered
+100,000 to Water
+flow uncovering
+munition and then disturbing it is highly
+unlikely. Even though large
+displace a amount
+of water under the hulI and the propeller may affect
+the displacement,
+an analysis of the depth of mobilised
+per ship
+may reveal that this value
+may negligible. For a particular tugboat
+and a
+Roll on Roll off
+(RoRo) the mobilised
+depth is less than 2
+mm at a 2.5 - 3.0
+huIl and [AMOG, 2010].
+ONGERUBRICEERD

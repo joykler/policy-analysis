@@ -1,0 +1,74 @@
+Report No. 25648-1-MSCN-rev.2
+To determine
+the ‘general” risk level the following models are used:
+• Ship-Ship collision model;
+• Contact with a platform
+- as a result of a navigational error (ramming);
+- as a result of an engine failure (drifting);
+• Contact with a pier
+- as of navigational
+a result a error (ramming);
+of
+- as a result an engine failure (drifting);
+• Stranding
+- as a result of a navigational error
+(ramming);
+- as a result of an engine failure
+(drifting);
+Consequences
+A collision (ramming
+or drifting) of a ship with a wind turbine can lead to (serious)
+damage
+to the wind turbine, to the ship, to the environment as a result of an outfiow of
+oh from the ship, or personal damages (injuries,
+fatalities).
+The risk assessment resuits in
+drifting and ramming collision frequencies for the full
+range of types
+all thirty-six ship and eight ship size classes. This subdivision makes it
+possible
+to perrorm additional calculations. Based on the mean displacement
+of each
+colliding vessel, added mass and the
+expected speed at collision (90% of the service
+speed for ramming drifting
+and the speed for drifting), the kinetic eriergy of the ship at
+the moment
+of the collision is calculated.
+This energy level is used to calculate
+the damage to the ship based partially on
+experience and partially complex calculations.
+on The calculations are based on the
+assumption that
+all energy is being absorbed.
+Damage to the wind turbine
+Due to the limited
+energy absorption of the collided object (wind turbine), not all the
+kinetic
+energy of the colliding ship will be absorbed. The collapse behaviour of the wind
+turbine has been studied ([4] of main report), The conclusion of the study is
+that for
+almost all ship types wind turbine collapses
+the (static) and that only a fraction of the
+energy of the ship will
+be absorbed. For further analysis of the damage to the wind
+turbine the following two collapse types are being distinguished:
+• Pile failure; the wind turbine collapses by bending at the
+point of impact caused by
+plastic deformation (first picture
+in Figure A 2). The collapsed part of the wind turbine
+will stay attached
+to the rest of the turbine. Finally the turbine falls towards the ship
+or away from the ship. When the turbine collapses towards the ship the rotor
+and
+nacelle can fall on the deck of the
+ship.
+• Soli failure; the wind turbine collapses
+by bending at the foundation of the turbine at
+the bottom
+of the sea caused by plastic deformation (second and third picture from
+Figure A
+2).The turbine can, as a result of this deformation, fracture at the
+bottom of
+the sea or it can also be pushed over (inciuding bottom of the
+the sea).

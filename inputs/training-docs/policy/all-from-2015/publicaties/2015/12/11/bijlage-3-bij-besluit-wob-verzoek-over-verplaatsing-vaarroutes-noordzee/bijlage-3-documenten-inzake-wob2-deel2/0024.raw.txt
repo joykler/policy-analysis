@@ -1,0 +1,77 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Formal
+Safety Assessment
+ARCADIS
+Arcadis compiled Hazard
+(UK) and Risk tables showing the results of the HAZID assessment
+in great detail,
+including the following locations that required particular attention in the Q1O
+and Variant 1 scenarios (both assuming the unchanged,
+present route structure in place):
+- Approaches to IJmuiden: various potentially hazardous
+situations can be created by
+the small clearances between traffic
+streams, close quarter situations at large aspect
+angles
+leading to ambigLlous situations in terms of colregs and deep draft vessels that
+restricted
+are in their ability to move and therefore may not be comply with
+able to
+their duty to give way (see area figure i).
+A in
+- Entrance
+to 0ff Texel TSS: potentially hazardous situations can arise when various
+traffic streams merge at the narrow entrance to the 0ff Texel the buoyed
+TSS (due to
+Vinca Gorthon wreck), leading
+to a close quarters situation at a large aspect angle and
+uncertainty as
+to whether it is a crossing or an overtaking encounter (see area B in
+figure i).
+- Horizon oil platform: potentially
+hazardous situations cao arise when give way ships
+respond to
+a close quarters encounter in accordance to Colregs by altering course
+towards the platform (see area C in figure 1).
+- Maas centre precautionary
+area: Ships from Maas North TSS must alter course to
+starboard
+to approach the pilot station whilst at the same time being stand on vessels
+for outbound traffic in a close quarters crossing encounter. Traffic
+from Maas North
+TSS and Maas Northwest TSS have
+to cross the deep water channel to approach the
+pilot station
+and inbound ships from Maas West TSS cross the area to approach
+Scheveningen pilot station. This results in multiple crossing in the precautionary
+area
+(see area D in figure i).
+-
+Approaches to and from Hook of Holland: Multiple crossing at poor aspect angles
+between traffic to and from Rook of Holland from
+and to and Schouwenbank occur in
+this area. Traffic to and from
+Schouwenbank also crosses the deep water route in this
+Vessels
+area. in the deep water route are restricted in their ability to take avoiding
+action (see area E in figure i).
+- At Brown Ridge/ De Ruyter: Near Brown Ridge and De Ruyter close quarter
+situations between ships moving at very different from all
+speeds directions converge
+at large aspect angles and can doubt
+cause as to whether it is a crossing or an
+overtaking situation
+and which is the stand on vessel (see area F in lïgure i).
+- Breeveertien and West Rijn parks:
+wind if wind parks are developed, the poor
+visibility at locations
+both can obscure timely onboard visual, AlS and radar detection
+of close quarter encounters between crossing vessels. (Radar detection also
+may be
+obscured by false echoes of a target due to radar signals reflecting
+off one or more
+wind turbines).
+Date: Created on 27/03/2012 14:12:00
+Page: 7of 192
+Doc: P60151/1 —Netherlands Wind park FSA

@@ -1,0 +1,117 @@
+Project:
+P60151/1
+Client:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Assessment
+Safety
+ARCADIS
+The FSA
+considered the risk of a collision between an offshore
+oil or gas platform and ships in
+transit to be relatively low, provided platforms
+that the are either on the boundary of a traffic
+lane or outside it completely. Most
+damage to offshore installations caused by ships done
+is by
+support
+vessels (rig supply vessels, standby vessels etc.) legitimately
+working within the 500
+metre
+exclusion zone around the installation, though fishing
+vessels have been known to illegally
+get too close and cause problems. In
+either case, these particular hazards cannot be prevented by
+any traffic routeing measure. However,
+the Horizon oil platform currently is vulnerable
+to
+shipping
+because it is in the middle of a traffic stream
+bound for Schouwenbank from the 0ff
+Texel
+southwest bound lane and, furthermore, the platform
+is sited where several streams of
+traffic cross about two and half
+a miles northwest of the outer limit of the approaches to
+IJmuiden. Consequently.
+this risk is higher for both the present situation and the Variant
+1 option
+than
+for the IMO variant, which reduces crossing encounters
+close by the platform and moves
+traffic from 0ff Texel to Schouwenbank away the
+from platform.
+The
+De Ruyter gas platform and single buoy mooring
+is also in a very congested area but the
+AlS traffic plot shows ships giving it berth.
+a wide The IMO Variant, nevertheless, has been
+designed to keep traffic
+at least two miles dear of the installation.
+The Rijn gas platform
+is well outside of current traffic flows but the key component the IMO
+of
+Variant proposal
+is the to move the Maas North traffic separation scheme
+about four miles to the
+west, which will put the Rijn platform in the middle
+of the Maas North separation zone, which
+obviously increases the risk of a ship
+colliding with it. However, the separation scheme will be
+bounded on both
+sides by wind parks in the vicinity of the platform and are
+there enough
+underwater
+obstructions in the form of gas pipelines, wells power
+and cables to deter fishing
+activities, so there should not be much traffic
+crossing the Maas North scheme in this vicinity,
+except for vessels supporting the
+gas field.
+The risk of grounding on an underwater
+obstruction within the IMO Variant traffic streams is
+very low now that the
+proposed changes to the approach to the 0ff Texel northeast bound lane
+will move
+traffic dear of the wreck that currently blocks of nearly
+half the lane’s entrance. The
+risk from the two ammunition dumps that lie in the
+proposed Maas North separation zone has
+been assessed separately by TNO
+and is explained further on page 32.
+The FSA follows the guidance given
+in the UK Maritime and Coastguard Agency’s (MCA)
+Marine Guidance Notices
+MGN 371 and 372 and assumed the frequency of a collision between
+a ship
+and a wind turbine to be negligible if the clearance from the
+wind park is greater than 2
+miles but this increased to an ‘L’ value of 2 where
+clearance is between 1 and 2 miles and an T’
+value of 5 where the clearance half
+is a mile or less.
+3.8 Estimating the
+consequence rating ‘C’ for each identified hazard
+The consequences of two ships colliding
+at speed vary widely, as they depend on:
+(i) The possible loss of life. A ship’s size is indication
+no of the number of persons onboard or
+the risk that a collision
+poses to their lives. Small ships, such as survey vessels, may have
+at least as many
+persons onboard as a large ocean going vessel, whilst ferries
+small will
+have many more passengers onboard. Small ships more
+are also likely to sink after a
+collision and sink fast, so time to evacuate the
+people onboard can be very limited.
+(ii) Damage to the ship, which can range from some plates
+buckied all the way up to one or
+both of the ships being lost
+through sinking, fire and or explosion. With regard to a ship
+staying afloat,
+an IMO ‘Focus’ article on roll on - roll off vessels stated casualty
+that
+Date: Created on 27/03/2012 14:12:00
+Page: 41 of 192
+Doc: P60151/1
+— Netherlands Wind park FSA

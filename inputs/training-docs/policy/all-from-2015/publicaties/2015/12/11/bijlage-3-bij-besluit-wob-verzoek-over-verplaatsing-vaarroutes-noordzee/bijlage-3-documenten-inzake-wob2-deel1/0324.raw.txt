@@ -1,0 +1,95 @@
+N
+in
+in
+bij
+0’
+0’
+DID
+DID
+(SBES)
+6 8
+ETRS89
+GRS
+(a)
+(b)
+31
+00
+30
+8
+en en
+Servicedesk van
+van
+Servicedesk
+kalibratie Jaarlijks, ijking van gyro, dGPS, VRU,
+middel van
+ijking van
+of
+Logboek en ms. Arca
+kalibraties Kwaliteit ms. Arca
+Kwaliteit ms. Arca
+Plotlijsten Arca
+ms.
+kHz,
+4
+van
+cm
+ellipsoid
+axis
+axis
+(11f)
+first Eccentricity
+Eccentricity
+UTM
+origin 0”
+of origin 0”
+Easting origin
+false origin 0
+Meet- Informatiedienst Uitvoering Water Scheepvaart
+bootgeometrie Ingemeten door Geo-lnformatie de
+november 2009
+de
+offsets sensoren Ingemeten door Geo-Informatie
+december 2009
+sensoren statische Netpos,
+door testraaien op
+dynamische multibeam
+wrak Maeslantkering
+nauwkeurigheid sensoren beheer onderhoud
+documentatie logboek
+offsets bootgeometrie
+pre-survey checks logboek
+verslaglegging survey
+Singlebeam echosounder Odom 210 tevens voor controle multibeam
+heave Octans
+squat toegepast een vaart knopen
+QINSy
+datum
+1980
+37.000000
+semi-major 63781
+semi-minor 6356752.31414
+298.257222101
+inverse flattening
+0.0066943800
+0.0067394968
+second
+projectie Noord
+latitude of
+longitude
+500000
+false of
+Northing of
+schaalfactor 0.9996
+21-11-2011
+Aanvullende informatie
+/
+/
+toegepast
+Geodetische parameters uit
+2)
+(e’2
+(e
+)
+N
+E
+E

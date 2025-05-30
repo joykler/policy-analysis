@@ -1,0 +1,57 @@
+SAMSON
+-model
+1
+Report No. 25648-1-MSCN-rev.2
+A
+APPENDIX
+A QUANTITATIVE RISK ASSESSMENT WITH SAMSON
+This
+appendix describes the generic approach quantitative with
+for the risk assessment
+SAMSON,
+SAMSON
+The
+has been developed to predict the effects of spatial developments
+in the North Sea (or other sea areas). These developments
+can vary from development
+within the shipping industry
+itself (e.g. changes in ship sizes) to measures for the
+shipping (e.g. Traffic
+Separation Schemes).
+The following effects
+can be deterrnined by the model:
+• Expected
+number of accidents per year, divided over type of accident, ship
+types
+and sizes involved in the accidents and
+objects;
+• Extra miles that have to be travelled as of a certain
+a result development and the
+costs involved;
+• Emitted environmental dangerous goods,
+e.g. exhaust;
+• Consequences of the accidents such as the
+outfiow of oil or personal injuries.
+During the last
+25 years the SAMSON model has been developed, extended, validated
+and
+improved continuously in studies performed for the Dutch Maritime Safety
+Authority
+and European projects. The system diagram SAMSON-model
+of the is shown in Figure
+A 1. Almost all blocks
+presented in the diagram are available. The large block Maritime
+traffic contains
+system” four sub-blocks. These sub-blocks describe the complete
+traffic
+pattern: the number of ship movements, the characteristics
+of the ships (length etc.) and
+the layout of the sea area. different
+The casualty models are used to determine the
+accident frequencies
+based on the complete traffic image. The block Impacts” contains
+the sub-blocks that are used to determine the different consequences the
+of different
+accidents.
+Safety Assessment Model for Shipping and Offshore
+on the North Sea

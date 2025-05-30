@@ -1,0 +1,46 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands \Wind park Formal Safety Assessment
+ARCADIS
+4.3 Comparison to resuits of QRA: quantitative risk assessment
+MARIN applied the ship movements database to carry out a computerised quantitative risk
+assessment (QRA), which simulates ships moving between selected way points (ends of traffic
+separation schemes, pilot stations, that, if the
+anchorages etc.) at a very much accelerated rate 50
+ships are started at a random times over the period being assessed and they are moving at a
+scaled up range of real speeds, then the programme can count up the number of close quarters
+encounters that could be expected to occur over the period being assessed. The programme then
+assesses the frequency of based
+a coilision occurring at each of these close quarters encounters,
+on the angie between the two vessels’ courses and their relative speeds. Although a collision
+between two vessels is perhaps the main risk, stranding and collisions between a vessel and a
+wind turbine or offshore platform are also taken into account.
+The software must be programmed with a definition of a close quarters encounter (e.g. two
+vessels passing less than half a miie of each other) and MARIN divide close quarters encounters
+into three categories, namely: ‘overtaking’ where the difference in courses is less than 60°,
+‘crossing’
+where the difference in courses is between 60° and 150° and ‘end on’ where the
+1500 1800.
+difference in courses is between and It must be noted that these definitions are not the
+same as those given in the “International regulations for preventing collisions at sea” (otherwise
+known as the ‘Colregs’ or the should
+‘Rule of the Road’), which state the rules by which ships
+behave in each of these three types of a close quarters encounter (see pages 5 to 10).
+Consequently, the MARIN QRA does not take the possible actions of ships’ officers into
+account biit, as its aim is to compare the levels of risk for the three different traffic situations
+iisted in the introduction,
+the comparison will be vaiid, provided that the same assumptions are
+applied to each of the three assessments.
+The MARIN QRA came to the same conclusion though its reasoning is slightly different as it
+considered
+the main reduction in risk with the wind parks in place would be due to the extra
+clearance from shipping routes that the ‘IMO Variant’ provides, compared with leaving the
+traffic routeing measures as they currently are. The QRA actualiy predicts a slight increase in
+collisions between ships due to traffic being in fewer routes but it admits that
+more concentrated
+it cannot quantify the effect that rationalising the traffic flows has on how ships’ officers react to
+close quarters encounters. The FSA, based on the marmer’s view of the situation, may have
+judged this aspect of the risk analysis better but both methods of risk assessment have their
+limitations.
+Date: Created on 27/03/2012 14:12:00 Page: 50 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

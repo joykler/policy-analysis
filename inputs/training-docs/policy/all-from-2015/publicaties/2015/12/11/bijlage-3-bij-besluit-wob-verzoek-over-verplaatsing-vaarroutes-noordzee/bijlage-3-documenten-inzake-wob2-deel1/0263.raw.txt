@@ -1,0 +1,73 @@
+18
+Report No. 25648-1-MSCN-rev.2
+A
+-:
+4 APPROACH
+same foliowed in [1]. In [1], six variants of a route structure
+The approach has been as
+Sea shipping. Within
+were dealt with that cleared different areas of the Dutch North of
+up the
+each of the six variants, sub-variants were considered with respect to fihling
+cleared sea space with wind turbines.
+was composed in close
+Now, a new design for a route structure is proposed that
+cooperation with all stakeholders by taking into account lessons learnt from the previous
+designs. It is a new traffic separation scheme in the approach of IJmuiden and
+based on
+way large is created between the main traffic
+it is composed in such a that a distarice
+further
+flows and the licensed wind farms of round two. This new route structure will be
+indicated in this report with the “proposed route structure°. The impact of this proposed
+route structure on shipping and safety will quantified in the same way as in [1]. This
+be
+variants of
+enables a comparison of the impacts of the proposed route structure and the
+to the
+[1], which makes it easier to qualify the proposed route structure with respect
+others.
+been
+The impacts for shipping have been quantified with the SAMSON model that has
+developed, extended, validated and improved continuously during the last 25 years in
+for Dutch Maritime Safety Authority, European projects and
+studies performed the
+A.
+commercial projects. A brief description of the model is given in Appendix
+is possible when the basic assumptions are equal. Therefore the base
+Comparison only
+port A to port B has been
+for the traffic flows, being the shipping movements from each
+movements to and from the
+kept the same as in [1]. These movements also inciude
+anchorage areas of Rotterdam, but not to other anchorage areas, because traffic to and
+from other areas was not affected. However, for the proposed route structure,
+anchor
+and therefore the anchorage
+the routes in the vicinity of IJmuiden charige considerabiy
+reason, the
+areas in the approach of IJmuiden need to be included in the QRA. For this
+impact of the proposed route structure has been performed in two parts.
+Firstly, the new anchorage areas of Ijmuiden
+movements to and from the existing and
+database is unchanged, which
+are not inciuded, thus in this case the base of the traffic
+In
+makes it possible to compare the results with the results of the six variants of [1]. the
+it is assumed that the number of ships at anchor will be spread
+first calculations average
+areas that the average number of ships per
+over the four anchorage in such a way
+square miie (the traffic density) is the same for the four anchorage areas.
+Thereafter, the impacts of the movements to and from the anchorage areas of
+Ijmuiden quantified separately for each anchorage area. This is necessary, because
+are
+area of IJmuiden is
+in case of the proposed route structure, the existing anchorage
+three new
+decreased in size and this loss of space is more than compensated by
+anchorage areas.
+shortly, the wind farrn Q1O
+Because it is expected that wind farm Q1O will be built
+together with the existing wind farms OWEZ and Princess Amalia are included in the
+case (Dr traffic database) that describes the present state for the area of interest.

@@ -1,0 +1,52 @@
+Project: P60151/1
+Client:
+Port of Rotterdam
+Title:
+Netherlands \Mnd park Formal Safety Assessment
+ARCADIS
+Identification
+1. of hazards (a list of all relevant accident scenarios
+with potential causes
+and outcomes);
+2. Assessment of risks (evaluation of risk
+factors);
+3. Risk control options (devising regulatory
+measures to control and reduce the identified
+risks);
+4. Cost benefit assessrnent
+(determining cost effectiveness of risk control measures); and
+5. Recommendations
+for decision-making (information about the hazards, their associated
+and
+risks the cost effectiveness of alternative risk control measures).
+Figure 1. The process
+FSA
+1.6 Report Structure
+Chapter 2 of this report addresses External
+the Hazard Influences, such as oil and gas platforms,
+wind parks, traffic trends and
+near-miss trends that have been considered in this HAZID study.
+Chapters 3 of this report gives a detailed overview
+of the HAZID methodology and approaches.
+Chapter 4 (Step of
+1 and 2 the FSA) presents the results of the HAZID study, both for Hazard
+Identification
+and the subsequent Risk Assessment.
+Chapter 5 (Step 3 of the FSA)
+Iists the Risk Control Options (measures to reduce the identified
+risks). A distinction made
+is between RCO’s that are integral in the proposed routeing structure
+and
+RCO’s that can reduce the residual risk in further implementation processes.
+Chapter (Step 4 of FSA)
+6 the outlines the Cost Benefit Analyses (cost effectiveness of the risk
+control measures).
+focussing on the cost of employing ETVs (Emergency Towing
+Vessels) and
+the additional distance incurred for commercial traffic.
+Chapter (Step 5
+7 of the FSA) gives the Decision Making Recommendations
+Date: Created on 27/03/2012 14:12:00
+Page: 15 of 192
+Doc:
+P60151/1 — Netherlands Wïnd park FSA

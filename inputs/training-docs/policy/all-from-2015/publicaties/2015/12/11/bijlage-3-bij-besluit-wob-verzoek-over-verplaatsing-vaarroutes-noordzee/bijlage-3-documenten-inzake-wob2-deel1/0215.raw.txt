@@ -1,0 +1,63 @@
+ONGERUBRICEERD TNO report TNO-DV 2012 C485
+28181
+1 1
+5 Exposure,
+likelihood of interaction with munition and
+likelihood
+of munition reaction
+The exposure
+(or probability of occurrence of a specific scenario) discussed
+is in
+the first paragraph. The likelihood of interaction
+with munition is assessed in the
+second paragraph and is based on the actual situation at the
+dump sites. The
+likelihood of munition reaction (burn,
+deflagration or detonation) is discussed in the
+third paragraph.
+The third paragraph will assess the likelihood of sympathetic
+detonation in order to know
+whether or not one can rule out the possibility of a
+propagation
+of reaction throughout (part of) the munition dump, and
+will treat the
+effect of mechanical deformation on
+the initiation of a munition. The likelihooci of
+ignition
+and consequential munition reaction is discussed both for direct
+a
+mechanical contact, for example
+due to a sinking ship or a dropped anchor, and an
+indirect mechanical
+contact through the propagation of vibration to sensitive
+waves
+components like fuzes.
+5.1 Exposure
+The exposure is based
+on probability calculations at the dumping areas as
+presented two
+in documents by MARIN [MARIN, 2011 a,b]. In the document,
+latter
+an addendum to the quantitative
+risk assessment, the probabilities are given for the
+following
+scenarios:
+• The present route structure;
+• The
+proposed route structure in which the northbound lane Traffic
+of the
+Separation Scheme (TSS)
+is moved eastwards, so that the dumping areas will
+be located
+in the separation zone;
+• The alternative route
+structure, thus with the dumping areas near Rotterdam
+located in
+the northbound lane of the TSS.
+Table 2 and Table 3 present the probabilities various scenarios
+of at the location of
+dumping grounds with
+respect to the present route structure, and for route-bound
+ships fishing
+and vessels with Automated Identification System (Als), respectively.
+ONGERUBRICEERD

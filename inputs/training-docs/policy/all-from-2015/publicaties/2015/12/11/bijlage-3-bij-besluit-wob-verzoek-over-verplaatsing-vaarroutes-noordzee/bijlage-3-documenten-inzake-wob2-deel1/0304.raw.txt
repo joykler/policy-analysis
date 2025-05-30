@@ -1,0 +1,64 @@
+_______________
+Report No. 25648-1-MSCN-rev.2 59
+A -
+• The extra incidents
+in case the wind farms are built are less than the incidents
+saved by the introduction of the proposed route structure.
+• The three new anchorage areas near IJmuiden within the proposed route
+structure are safer than the anchorage area on the north side, because
+existing
+the lane
+with outgoing traffic from IJmuiden has to be crossed twice. The
+anchorage area NW will not be used initially but comes into use when there is a
+need to. The anchoring near IJmuiden will become safer for the proposed route
+structure than in the present situation.
+• The wreck of the Vinca proposed
+Gorthon will cause less risk in case of the
+route structure, because it will be located outside the routes. However, the
+reduction in risk is limited because the passing distance for the ships sailing
+near the border of the route route structure is not much more
+in the proposed
+than the
+passing distance in the present traffic situation. The advantage of the
+proposed route structure is that the wreck can be ignored when preparing the
+sailing plan, because it is not longer traffic route.
+located in the
+• The probability to
+hit the wreck HY2166 on 21,3m LAT in the approach area of
+the
+IJ-geul is very small. However, in case the wreck comes into the anchorage
+area of the proposed route structure, the guaranteed water depth of 22,4m LAT
+for the anchorage area for the IJ-geul violated.
+is
+• The emissions will increase
+slightly for the proposed route structure by the extra
+miles.
+Remark
+The
+proposed route structure Iets ships sail through a limited number of traffic laries.
+This means that in case of an encounter one has a better idea of the intentions of the
+other ships, which might decrease
+the probability of a collision given an encounter. This
+benefit of the
+proposed route structure could not be quantifÎed, because the effect is
+unknown.
+Recommendations
+An Emergency
+Towing Vessel (ETV) to recover drifting ships can deliver a reduction of
+the probability of drifting of more than 50%. The present calculations have been carried
+out without an ETV.
+For safety, the traffic flows
+can be improved on some locations. This required a more
+detailed research.
+This aspect is dealt with in the FSA.
+Assumptions
+Within the calculatioris
+it is assumed that the drifting ship is not stopped by a contact
+with
+a wind turbine, but continues drifting. Thus one drifter can count for more than one
+drifting contact with wind turbines.
+The extra probability calculated and included
+of a contact with an offshore platform is in
+the tables. However,
+the costs of the damage to the platform could not be included,
+because no data with respect to such a type of accident is available.

@@ -1,0 +1,21 @@
+Project:
+P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Assessment
+Safety
+ARCADIS
+Risk Acceptance
+Criteria is the graduated levels of frequency and consequence as the
+used in
+Risk Matrix.
+These are described below.
+Risk Control Option (RCO) is an existing or
+proposed method of reducing the risk until it is as
+low as possible
+ALARP is an abbreviation
+which means that a risk from a hazard bas been reduced to a level
+which is As Low As Reasonably Practicable.
+Date: Created on 27/03/2012 14:12:00
+Page: 120f
+192
+Doc: P60151/1 — Netherlands Wind park FSA

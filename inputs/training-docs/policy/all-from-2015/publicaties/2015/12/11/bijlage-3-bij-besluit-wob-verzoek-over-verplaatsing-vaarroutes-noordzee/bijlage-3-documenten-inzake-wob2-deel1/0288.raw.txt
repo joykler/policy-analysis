@@ -1,0 +1,68 @@
+Report
+No. 25648-1-MSCN-rev.2 43
+0.010
+0.009
+0.008
+0.007
+1
+E
+o.006
+0.005
+‘ 0.004
+0.003
+0
+. 0.002
+0.001
+0.000
+0 2 4 6 8 10 12
+14 16 18 20
+waterdepthabove Vinca Gorthon
+in (ml
+Figure 8-5 Probability of hitting the wreck Vinca Gorthon per year as function of the
+water depth above
+the wreck for the present and proposed route structure
+The water depth above
+the wreck has changed due to the attempt of salvaging the
+Vinca Gorthon. The probability of a contact with the wreck can be read from Figure 8-5.
+The actual probability of a contact is less because:
+• the operational draft is mostly less than
+the design draft;
+• the water depth above the wreck is usually greater sounded depth
+than the least
+to LAT that is indicated on the chart;
+Regardless of the actual waterdepth and operational drafts, it can be concluded that the
+probability of a contact with the wreck of the Vinca Gorthon is
+less for the proposed
+route structure than for the flows.
+present traffic Figure 8-5 also shows that the
+difference
+in contact probability is achieved mainly by a lower risk of ramming for the
+proposed route structure. The probability of hitting the wreck after a technical failure
+(thus, drifting), is much smaller and almost the same structures.
+for both route This is
+because the probability of ramming is more sensitive The
+to the distance. passing
+distance for the proposed route structure
+is somewhat bigger than for the present traffic
+flows.
+One would expect that the probability of a contact with the wreck for the present traffic
+flows would be higher, because in the present
+situation one has to avoid the wreck
+located in a traffic route, while
+for the proposed route structure no attention at all has to
+be
+paid to the wreck of the Vinca Gorthon. This phenomenon cannot be modelled
+accurately. On the other hand Figure 8-1 shows that nearly all ships have made
+a sailing
+plan that passes the wreck at sufficient distance. In fact modelled.
+this case is
+In case the wreck is ignored while
+making the voyage plan, the tracks can in the present
+route structure initially
+run very close to the wreck. In this case the wreck has to be
+avoided during the last time period before reaching the wreck. This will result in smaller
+passing distances. When modelling this process for of
+all ships, the probability hitting the
+wreck by ramming is 2.6 times
+larger and hitting the wreck by drifting is 1.12 times
+larger.

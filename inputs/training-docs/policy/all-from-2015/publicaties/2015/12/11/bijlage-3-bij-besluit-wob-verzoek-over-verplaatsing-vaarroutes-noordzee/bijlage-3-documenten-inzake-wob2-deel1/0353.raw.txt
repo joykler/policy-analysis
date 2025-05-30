@@ -1,0 +1,38 @@
+21
+en
+en
+n.v.t.
+89UTM
+(dm)
+100 30
+Hfad R.e
+Water Scheenvaart
+Meet- Informatiedienst Uitvoering
+Contact Raai Vorige Datum
+1.36 2070
+ETRS
+5788196
+557097
+Afmetingen
+8
+Beschrijving
+Harde reflecties/ Bodemverstoring
+Bijzonderheden
+mstog
+-11-2011
+37
+.35
+x
+AeeIding
+Contact
+$to
+si
+1
+T3rget-1-36
+Y
+L
+H
+TgetX 55709’3 TgetY:
+578819690
+ODees Grcd 90.4 Metts tc
+93 Kno4s Fe 2070

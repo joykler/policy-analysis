@@ -1,0 +1,82 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wnd park Formal Safety Assessment
+ARCADIS
+5. (Residual) Risk Control Options (Step 3)
+The following risk control options have been discussed during the HAZID study and
+directly incorporated into the design of the IMO Variant:
+1. Establishing a traffic separation scheme in the approaches to IJmuiden to keep inbound ships
+south of the deep-water channel and outbound ships
+north of it prevents the crossing
+encounters between these two traffic flows
+that currently occur. It also restricts the crossing
+north
+of these lanes by and south going vessels to within the two proposed precautionary
+areas and so provides more anchorage areas on the south side of the separation scheme
+so
+that inbound ships do not cross the outbound lane
+when arriving at or departing from the
+anchorages.
+2. Moving the Maas North traffic scheme
+separation 4.5 miles to the west directs traffic moving
+Maas North
+between the the Texel traffic separation schemes to cross the deep-water route
+leading to IJmuiden in a precautionary area west of the deep-water channel and deep
+so draft
+vessels have room to take the proper evasive action in
+risk of collision encounters. The
+westward move of the traffic
+separation scherne also directs ships bound for the 0ff Texel
+scheme
+traffic separation to join northeast going traffic about 10 miles southwest of where
+they currently do and so reduces the congestion of merging that currently occurs
+traffic at the
+start of the 0ff Texel northeast bound
+lane.
+3. Arnending the Maas West Inner and Outer traffic schernes
+separation to accommodate
+rnoving the Maas North traffic scherne
+separation 4.5 rniles to the west improves the crossing
+angle of north/south going vessels with east/west going traffic in the amended Maas Junction
+precautionary area.
+4. The adjustment to the boundaries of the 0ff Texel traffic separation scheme’s northeast
+bound traffic lane puts the Vinca Gorthon wreck outside of the so effectively
+lane, increasing
+the lane’s width.
+5. Extending the southwest bound traffic
+lane of the 0ff Texel traffic separation scheme 25
+miles southwestwards
+to a south going branch lane obliges ships for Schouwenbank via the
+arnended Maas Junction precautionary area to stay in the southwest lane until they reach
+the
+branch lane, rather than turning south-southwest as the current
+soon as they exit traffic lane,
+which puts them directly on course
+for the ‘hot spot’ at the Horizon manned oil platform.
+6. Establishing a recommended route from the
+south going branch in paragraph ‘5’ directs
+traffic for Schouwenbank
+to cross northeast bound traffic for the 0ff Texel traffic separation
+scherne and northwest/southeast traffic in and out of the Maas Northwest traffic separation
+scheme in the new Rijnveld precautionary area. The area’s and the orientation
+shape of its
+boundaries have been designed so the different
+that of risk of collision scenarios between
+vessels passing through
+the area are sufficiently far apart for two or more different risk of
+collision encounters not to coincide.
+7. Re-aligning the northeast bound lane of North Hinder North traffic separation scheme directs
+vessels to pass the Horizon platform at a greater distance than currently
+it does.
+8. Extending the current traffic zone inshore of the Maas West Inner traffic separation scheme
+to include the entrance to the Oosterschelde allows vessels trading
+small coastal between the
+Maas and the Oosterschelde inshore
+to use the traffic zone, instead of going through the
+Maas Inner traffic
+West separation scheme and the Maas Junction precautionary area and
+so
+reduces the traffic in these congested areas.
+Date: Created on 27/03/2012 14:12:00
+Page: 5lof 192
+Doc: P60151/1 — Netherlands Wind park FSA

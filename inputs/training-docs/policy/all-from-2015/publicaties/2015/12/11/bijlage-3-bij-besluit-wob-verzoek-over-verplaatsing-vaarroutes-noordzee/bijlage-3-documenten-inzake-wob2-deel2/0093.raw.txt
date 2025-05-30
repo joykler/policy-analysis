@@ -1,0 +1,64 @@
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+Section A: Offshore Routing (present situation)
+Risk
+No Present situation location Hazardous situation Outcome to be avoided Comment
+CL R
+Diverging traffic can lead to a poorly 4 2 8
+positioned vessel cutting across ahead of a
+. Damage, pollution and SSW going ships for the
+snip astern
+loss of life
+. possible due to a Maas Northwest TSS
+Ig Ships in the SSW going deep water lane
+. Close quarters situations betveen merging vessel / vessel collision 4 2 8 should avoid creating an
+North
+join SE going traffic into the Maas
+involving a laden tanker immediate close quarters
+traffic at large aspect angles can cause doubt
+west TSS
+situation when they alter
+as to whether It is a crossing or an overtaking
+course
+situation and which is the stand on vessel
+Diverging traffic can lead to a poorly Damage, pollution and 4 2 8
+positioned vessel cutting across ahead of a possible loss of life due to a
+ship astern vessel / vessel collision
+involving a laden tanker
+1h Ships in the NW going lane from the Maas
+NorthwestTSSjoinNNEgoingdeep — —
+Close quarters situations between merging Damage, pollution and 4 2 8
+water traffiC
+traffic at large aspect angles can cause doubt possible loss of life due to a
+as to whether it is a crossing or an overtaking vessel / vessel collision
+situation and which is the stand on vessel involving a laden tanker
+pollution and 4 2 Tanker traffic of IJmuiden
+Ii NW going laden tankers and deep draft SxW going ships must give way to NNE Damage, 8 out
+give to NW possible loss of life due to a is light but S going traffic for
+vessels Out of Ijmuiden and SxW going going traffic, which must way
+ships vessel / vessel collision Schouwenbank is heavier and
+deep draft vessels for Schouwenbank cross going
+the involving a laden tanker crosses at a small aspect angle
+NNE going deep water traffic south of
+Brown Ridge TSS
+0ff
+going tankers and deep draft vessels Close quarters situations between merging Damage, pollution and 4 2 8 Tanker traffic out of Llmuiden
+ij NW
+traffic large aspect angles can cause doubt possible loss of life due to a is light
+out of Ijmuiden join SSW going traffic in at
+south of the 0ff as to whether it is a crossing or an overtaking vessel / vessel collision
+the deep water route
+Ridge TSS situation and which is the stand on vessel involving a laden tanker
+Brown
+NNE going deep Diverging traffic can lead to a poorly Damage, pollution and 4 2 8 Tanker traffic out of Ijmuiden
+Ik Laden tankers leave the
+SE for IJmuiden positioned vessel cutting across ahead of a possible loss of life due to a is light
+water route to turn to go
+south of the 0ff Brown Ridge TSS ship astern vessel / vessel collision
+involving a laden tanker
+Page: 76 of 192
+Date: Created on 27/03/2012 14:12:00
+Windfarm FSA
+Doc: P60151/1 — Netherlands

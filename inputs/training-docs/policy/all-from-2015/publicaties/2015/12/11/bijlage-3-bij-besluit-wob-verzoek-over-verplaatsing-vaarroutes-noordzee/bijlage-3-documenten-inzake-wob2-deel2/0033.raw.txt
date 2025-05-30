@@ -1,0 +1,90 @@
+Project:
+P60151/1
+Client:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCALNS
+2.
+External Hazard Influences
+The following external data were gathered
+to give a most realistic and objective approach to the
+HAZID findings:
+1. Near Misses in the
+Approaches to Ijmuiden
+2.
+Exploration of Small Oil/Gas Fields (changes since 2008)
+3. Offshore Wind parks
+4. Increased Tanker Traffic for Port of
+Amsterdam (changes since 2008)
+5. Near Misses
+from Oil/Gas Platforms (Present Situation)
+The main observations are first
+summarized below. Readers interested in detailed descriptions of
+the nature
+of the external hazard influences are referred to the paragraphs thereafter.
+2.1 Main
+observations
+1.
+Near misses in the approaches to IJmuiden and near misses with oil and/or gas platforms
+are
+of great significance and readily illustrate the need for more
+organisation of shipping in the
+area under consideration and the assets.
+Giving greater control and influence to VTS could
+be a mitigating
+factor and a fact finding visit to the VTS station confirrned the need for
+this
+additional control.
+2. The near misses in the approaches
+to IJmuiden are disturbing in that all the incidents relate to
+the misinterpretation
+and/or understanding of the Collision Regulations. The situation for the
+approaches to IJmuiden can be improved by:
+• designation of a TSS;
+• better utilization of the VTS of the competent
+authority at IJmuiden (CNB), giving them
+greater control and authority;
+in addition to
+• repositioning of the
+existing anchorage areas.
+3. It is dear that the Dutch government is proactive in their commitment
+and support to wind
+parks as a form of sustainable However,
+energy. this commitment and progress must be in
+line with an established
+safety regime.
+4. The existing wind parks, PAWP and OWEZ (numbered
+as ‘32’ and ‘33’ respectively in the
+maps of the three different
+traffic scenarios examined in the FSA) have proved successful
+which has
+laid a firm foundation for the encouragement for further exploration
+which is
+evidenced in the 12 licensed wind parks under consideration.
+5. The trend with dear
+is up optimism from Amsterdam Port which has maintained its position
+in the
+fourth place of European ports. Tanker traffic is clearly on the increase and
+measures
+must be in place to address this trend.
+6. Concern registered
+is at the apparent indiffererice to the safety zones around wind park
+and
+oil/gas assets. 2010 over 2009 saw a 72% increase in violations of Safety Zones.
+2.2
+Near misses in the approaches to Ijmuiden
+The Centraal
+Nautisch Beheer, Central Nautical Management (CNB), of the so-called
+Dutch
+“Noordzeekanaal” (the canal leading from Amsterdam to IJmuiden),
+is the VTS Administration
+in the North Sea Canal Area and also lock operator
+of the North Sea Locks Ijmuiden. Authority
+of CNB encompasses not
+only the locks and the canal, but also the North Sea approaches
+to
+IJmuiden,
+as follows:
+Date: Created on 27/03/2012 14:12:00
+Page: 160f 192
+Doc: P60151/1 — Netherlands Wind park FSA

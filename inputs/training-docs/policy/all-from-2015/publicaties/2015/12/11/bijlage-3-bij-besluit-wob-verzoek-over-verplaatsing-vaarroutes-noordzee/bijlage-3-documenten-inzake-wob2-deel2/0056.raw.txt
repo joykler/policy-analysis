@@ -1,0 +1,109 @@
+bt
+Project:
+P60151/1
+Client:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+vessel
+involved in a close quarters encounter, as seen from
+the other. How each ship
+should behave in the three different
+types of encounter is explained in part II of the Rules
+entitled “conduct of vessels in
+sight of one another”.
+The aspect angle of another seen from
+ship one’s own vessel is its bearing relative to one’s own
+ship’s heading. The side and
+masthead lights of each ship are visible to the other in ‘endon’ and
+‘crossing’ encounters
+and the aspect angle in ‘end on’ encounters
+is within about 3° of dead
+ahead whilst ‘crossing’ encounters are defined an
+by aspect angle of between 3° and 112.5°.
+‘Overtaking’ encounters occur at aspect
+angles greater than 112.5° when the side and masthead
+lights of the overtaking
+vessel ship can be seen from the ship being overtaken but overtaking
+the
+vessel will
+only see the stem light of the ship that it is overtaking.
+A risk of collision exists if the
+aspect angle of another vessel remains constant but
+at a decreasing range whilst one’s own ship
+maintains a constant heading
+Small aspect angle close encounters
+quarters are characterised by:
+(a) A fast closing speed between the two
+ships.
+(b) Reducing speed only increases the the
+time to point of nearest approach (or collision),
+whereas a small of
+alteration course to starboard by the give way vessel will avoid the
+collision (both
+ships must alter course to starboard in an end encounter).
+on
+Large aspect angle
+encounters can cause doubt as to whether the two ships are in crossing
+a or an
+overtaking encounter,
+as defined by the Rule of the Road. The characteristics
+of crossing close
+quarters encounters are as follows:
+(c) A slow closing speed between the two
+ships where the stand on vessel can appear to be
+overtaking and so may not imrnediatcly
+give the bridge watch keeper on the give way ship
+cause for concern
+until the range between the two ships has reduced considerably.
+(d) The stand on vessel
+will be the faster of the two ships when seen from the give way ship
+with au aspect angle greater than 60° to starboard. At aspect angles
+much larger than this
+(but less than 112.5°), it would only require the
+stand on vessel to make a relatively small
+course alteration to starboard
+to avoid collision the Rules state that the stand on vessel
+must maintain
+its course and speed until collision cannot be avoided by the action of
+the
+give ship alone.
+The give
+way vessel must make a large initial alteration of course starboard present
+to to its port
+side to the stand on vessel (over 90° if the stand
+on vessel is abaft the beam). A significant
+reduction in speed is effective avoiding
+at collision and a less drastic action for the give way ship
+to take, especially in
+restricted waters, but it is not immediately so apparent stand on
+to the
+vessel
+(however, it should soon be indicated by ARPA radar).
+Collisions between two isolated
+ships are reLatively easy to avoid in close quarters crossing
+encounters at small
+aspect angles, as only small deviation to starboard by the ship
+give way is
+required.
+The situation is more problematic when ship attempts
+a to cross a stream of traffic at a
+small aspect angle, as the stream of traffic is
+going in predominately the opposite direction so the
+lone crossing ship will remain
+moving against the flow of traffic and is likely to have more close
+quarters encounters
+with other vessels than if it crossed the stream at right at
+angles aspect
+angles in the region of 45°.
+Large
+aspect close quarters crossing encounters can high risk of collision if the slower
+ship is the
+give way vessel because its watch keeper will see
+the other ship’s port side fairly square on a bit
+abaft the beam at a fairly steady range
+and bearing but that is what he would expect if the other
+Date: Created on 27/03/2012 14:12:00
+Page: 39of 192
+Doc: P60151/1
+— Netherlands Wind park FSA

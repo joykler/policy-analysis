@@ -1,0 +1,66 @@
+ONGERUBRICEERD TNO
+report TNO-DV 2012 C485 45181
+1
+Three different
+types of mechanical deformation are discussed in paragraphs
+53.2.1 through 5.3.2.3, namely: 1) the uniform
+mechanical loading of the projected
+area of a
+munition, 2) the non-uniform mechanical loading, and 3) the intrusion of
+an object into a munition, see paragraph
+5.3.2.3. Figure 22 summarizes
+schematically these different types of mechanical deformation.
+For the uniform mechanical loading threshold impulse
+values of and energy per unit
+area are given
+for initiation of munitions. The values can be compared directly to
+the
+impulse and energy delivered by
+ship, container, anchor, trawling beam, etc. in
+accident
+scenarios. However, for the non-uniform loading or the intrusion
+of objects
+into a munition, no general initiation criteria
+of munitions can be given. These
+deformation
+modes are considered a worse threat than uniform mechanical
+loading.
+Some experimental data on spigot intrusion
+into munitions and concrete debris
+impact and are
+provided for comparison purposes. The assessment of deformation
+in mechanical contact scenarios is given
+in paragraph 5.3.2.4.
+r
+1
+Figure 22 Deformation of a munition in a schematic representation:
+uniform loading of complete
+munition (top left), intrusion of an object
+into the munition (bottom right) and the non-
+uniform loading of a munition
+as an intermediate type of deformation (middie).
+5.3.2.1 The
+uniform mechanicalloading of the projected area of a munition
+In [Bouma
+et al., 2003] an overview is given of the developments of the High
+Perfomance Magazine in the USA and the
+associated categorization of munitions
+into Sensitivity
+Groups. In the beginning of the nineties thresholds for pressure
+in
+the explosive and deformation of the munition
+have been formulated [Malvar, 1996].
+The deformation
+threshold in Table 12 is related to the ratio of change in diameter
+D and original munition diameter D,
+and is a measure of the flatness achieved
+during
+the crushing process. The pressure threshold is determined in the
+PUST
+underwater shock test and is the pressure ignition,
+at which not detonation, is
+observed.
+Also an overview of expected reactions of thick and thin case munitions
+is given in Table 12 for combinations
+of applied deformation and pressure.
+ONGERUBRICEERD

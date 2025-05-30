@@ -1,0 +1,113 @@
+Project: P60151/1
+dient:
+Port of Rotterdam
+Title: Netherlands Wind park Formal
+Safety Assessment
+ARCADIS
+5. Part of the HAZID/FSA will be to at
+least address, but not be restricted to, the following
+issues:
+Exploration
+a. of small oil/gas fields
+(changed since 2088).
+b. Exploration
+of Wind parks (changed since 2008).
+c. Increased tanker traffic Port of
+Amsterdam (changed since 2008).
+d. Small
+Aspects of crossing traffic (in present situation).
+e. Issues found in previous
+report (in present situation).
+f.
+Near misses with oil and gas platforms (in
+present situation).
+Risks concerning
+g. the two ammunition dumping grounds
+(in present and proposed
+situations).
+6. All draft reports will
+be shared with stakeholders for
+comments.
+1.4 Objectives
+Both ARCADIS and
+(UK) Marin were asked to compare levels
+the risk for the following three
+different
+situations:
+(i) The present
+situation with Wind Park ‘Q1O’ under
+construction about twelve miles off
+the coast south of IJmuiden with
+the existing traffic routeing (separation and
+schemes
+precautionary areas) remaining
+the same.
+(ii) The ‘Variant 1’ (2010) situation
+with all of the ‘Round 2’ wind parks
+developed and
+with the present
+traffic separation schernes, associated precautionary
+areas and inshore
+traffic
+zones remaining unchanged but connected
+by recommended routes.
+(iii) The ‘IMO
+Variant’ (12.12.11) with all Round 2 Wind
+Parks except Scheveningen WP
+and with the traffic routeing amended to
+increase the distance between the shipping lanes
+and the wind parks.
+Arcadis (UK) uses expert judgement and
+qualitative methods to arrive at this comparison
+of risk
+levels.
+1.5 Methodology
+The HAZID method uses
+a team based approach which incorporates
+a structured brainstorming
+technique in a
+workshop setting, used to draw out information
+from the participants. The team is
+made
+up of appropriately qualified persons. The
+aim is to identify hazards capable of leading to
+undesirable consequences as well
+as the current and recommended control measures
+for each
+hazard. The hazards are
+further assessed in terms of the associated
+consequences and frequency
+of occurrence.
+The HAZID is carried out under supervision
+of experts with both strong nautical
+and
+methodological experience, in the present
+case two experts from Arcadis (UK).
+Apart from leading the
+workshop, the supervisors have carried
+out interviews with the relevant
+experts, industries
+and organisations, in the run op to
+the workshop as well as after the workshop
+to clarify outstanding points and complement
+the workshop results. As part of this
+broader
+inventory, the supervisors have
+undertaken action to identify relevant
+marine activities other
+than shipping itself,
+that form external influences to the HAZID
+process.
+The HAZID also uses the Formal Safety
+Assessment process, illustrated in Figure
+1. This is a
+structured and systematic methodology
+based on risk analysis and cost
+benefit assessment (if
+applicable). There
+are five basic steps within this process:
+Date: Created on 27/03/2012 14:12:00
+Page: 140f 192
+Doc:
+P6015111 — Netherlands Wind park
+FSA

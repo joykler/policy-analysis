@@ -1,0 +1,56 @@
+ONGERUBRICEERD TNO report TNO-DV
+2012 C485 29/BI
+1 1
+Table 2 Probabilities per year for indicated
+scenarios in the dumping ground areas for the
+present route structure
+and for route-bound ships [MARIN, 2011b].
+Durnping area
+Rotterdam Rotterdam
+IJmuiden
+North South
+number of containers overboard
+0.002030 0,001363 0,000487
+(not inciuded in tota’ probabllitv)
+incidents with containers overboard 0,000102 0,000068 0,000024
+0,000075
+deck cargo overboard 0,000044 0,000029
+anchoring type “in lane of TSS
+anchoring type “in separation zone
+of TSS”
+anchoring type “just outside shipping lane
+0,000291 0,000169
+anchoring where ship saus 0,000061
+foundered 0,000063 0,000031 0,000016
+foundered after a collision 0,000008 0,000004 0,000002
+Probability of inddent per year 0,000538 0,000316 0000132
+Table 3 Probabilities per
+year for indicated scenarios in the dumping ground areas for the
+present route structure and for fishing vessels with ALS [MARIN,
+2011b1.
+Dumping area
+Rotterdam Rotterdam
+IJmuiden
+North South
+of overboard
+number containers
+0,000000 0,000000 0,000000
+(not included in total probability)
+ncldents wlth containers overboard 0,000000 0,000000 0000000
+0,000015 0,000022
+deck cargo overboard 0, 000029
+anchoring type “in lane of TSS’
+anchoring type “in separation zone of TSS”
+anchoring type “just outside shipping lane”
+where ship saus 0,000057 0,000086 0,000052
+anchoring
+foundered 0,000035 0,000053 0,000013
+0,000004
+foundered after a collision 0,000007 0,000002
+Probability of incident per year 0,000111 0,000168 0,000096
+Table 4 and Table 5 present the
+probabilities of various scenarios at the location of
+grounds
+dumping for the alternative respectively the proposed route structure for
+route-bound traffic.
+ONGERUBRICEERD

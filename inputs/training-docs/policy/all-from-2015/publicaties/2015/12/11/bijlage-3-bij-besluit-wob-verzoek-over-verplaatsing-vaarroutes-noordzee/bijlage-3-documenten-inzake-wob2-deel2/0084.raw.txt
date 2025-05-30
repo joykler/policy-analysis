@@ -1,0 +1,115 @@
+adqIMO
+_______
+Project: P60151/1
+Client: of
+Port Rotterdam
+Title:
+Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+6.2.5 Travel
+cost analysis
+Given the distances, fuel costs and fuel
+consumption provided in the above paragraphs, travel
+costs of the proposed route structure
+compared to the baseline situations
+is detailed in Table 21,
+Table 22 and Table
+23.
+—
+P 1 Difference between
+Curient and Variant
+Maas
+0ff East
+Texel Sunk limwden
+LSDS/
+Schouwenhank 0ff Texel 1
+to Centre to 0ff texel to
+VESSEL TYl’E
+1 ISS to to 01± to 1
+0ff
+1
+to Ott texel Schousvenhank 01f lxel
+nm IJmuiden
+Maas Pilot texel ISS Texel TSS t
+TSX
+1
+1
+TANKERS
+VLCCs 162 404 404
+404 323 808 1050
+1050
+SUEZMAX
+1 11 278 278 278
+223 557 724 724
+AFRAMAX 93 232
+232 232 186 464
+603 603
+PANAMAX
+78 195 195 195
+156 390 507 507
+1-IANDYMAX 65 163
+163 163 131 327 425
+425
+HANDY(12/25K)
+53 131 131 131
+105 263 342 342
+COASTAL(6K) 43 108 108
+108 86 215 280
+280
+COASTAL(3/5K)
+18 45 45 45
+36 90 1 17 1 17
+BULK
+CARRIERS
+CAPE SIZE
+104 260 260 260
+208 520 676 676
+PANAMAX 62 154
+154 154 123 308 400
+400
+SUPRAMAX 58
+144 144 144
+115 288 375 375
+HANDYMAX 58 144
+144 144 115 288
+375 375
+HANDY(25/30K)
+42 106 106 106
+85 211 275 275
+COASTAL(6/lOk) 43 108
+108 108 86 215 280
+280
+COASTAL(3/5K)
+18 45 45 45
+36 90 117 117
+CONTAINER SI-IIPS
+12000 TEUs
+355 887 887 887
+709 1773 2305 2305
+6500 TEUs 213 533 533
+533 426 1065 1385
+1385
+4500 TEUs
+152 380 380 380
+304 761 989 989
+3500 TEUs 143 357
+357 357 286 714 928
+928
+2000 TEUs
+122 306 306 306
+245 612 795 795
+700 TEUs 39 99
+99 99 79 197 257
+257
+FISH ING VESSEL
+LOA2O/30
+11 27 27
+27 21 53 69 69
+Table
+21. Local difference between Current and adopted
+IMO Variant (1)
+Date: Created
+on 27/03/2012 14:12:00
+Page: 67of 192
+Doe: P60151/1 — Netherlands
+Windfarm FSA

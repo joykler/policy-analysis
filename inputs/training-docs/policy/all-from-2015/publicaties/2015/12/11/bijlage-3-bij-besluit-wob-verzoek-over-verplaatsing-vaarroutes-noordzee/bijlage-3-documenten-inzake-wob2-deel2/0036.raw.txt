@@ -1,0 +1,81 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind Safety
+park Formal Assessment
+ARCADIS
+The speeds of the ships involved in the
+these near miss incidents are experessed in knots, closest
+point of
+approach (CPA) in nautical miles and meters, and visibility in meters.
+Date Ships Type Speed CPA F Destination Situation Visibility
+knots mIs
+Santos container
+Star 20% 0.94 westbound crossing good
+1 02/01/2009
+191/2
+MOL Endowment container TSS 0ff Texel
+Niledutch Singapore container crossing
+18 0.35 IJmuiden good
+2 13/02/2009
+Cosco Europe
+container 22 TSS 0ff Texel
+211,4
+CMA CGM Voltaire container 0.49 crossing good
+TSS 0ff Texel
+3 15/03/2009
+Chem Vega oh tanker
+Ijmuiden
+Ever Chivalry container 5% 0.50 TSS Maas N crossing 500 m
+4 15/03/2009
+Nova Friesia reefer 12
+westbound
+Littie Jane coaster 8% 0.44 westbound crossing good
+5 01/08/2009
+Harlequin container 14 TSS 0ff Texel
+King
+Alfred container 16% 0.99 Scheveningen crossing good
+05/11/2009
+6
+CS Manatee bulker 13 westbound
+Tambourin tanker
+15% 0.49 IJmuiden crossing good
+7 17/11/2009
+Dettifoss container 18 TSS 0ff Texel
+Table 1. Overview of near misses in the approaches
+to Ijmuiden in 2009
+Three of the near misses occurred where a north or south bound ship was crossing a vessel in the
+deep-water channel, so there may have been confusion
+over rule 9 of the ‘Colregs’.
+1. MOL Endowment-Santos Star:
+The container ship ‘MOL Endowment’ is
+heading for the TSS 0ff Texel, the out
+bound container ship ‘Santos Star’ left the
+IJ-geul 0ff buoy IJ-9. According ColRegs
+rule 15, (crossing situations) the ‘MOL
+Endowment’ should change course to
+vessels agreed
+starboard. However, both
+on VHF-16 for the ‘MOL Endowment’ to
+cross very close ahead the ‘Santos Star’,
+due to the crowded situation in the anchor
+area (see figure
+2)
+2. Niledutch Singapore-Cosco Europe:
+The container ship ‘Niledutch Singapore’ is
+following the IJ-geul buoys to IJmuiden.
+The container ship Europe’ is
+‘Cosco
+heading for TSS 0ff Texel. ‘Niledutch
+Singapore’ probably assumes she must
+keep speed and
+heading. Both ships
+agreed an avoidance manoeuvre by VHF,
+which failed or was misunderstood. At the
+alters
+last minute the ‘Cosco Europe’
+course hard to starboard and shortly after
+the ‘Niledutch Singapore’alters course
+hard to port.
+Date: Created on 27/03/2012 14:12:00 Page: 19of192
+Doc: P60151/1 park FSA
+— Netherlands Wind

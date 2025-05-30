@@ -1,0 +1,63 @@
+5. Advies op van en
+6. De
+data
+basis Multibeam side scan sonar
+gegevenslevering
+Referenties
+Meet- en Informatiedienst Uitvoering
+Water en Scheepvaart
+4.5. Visuele inspectie ROHP
+De data van
+ROHP inspectie is verwerkt in deze rapportage,
+en staat bij de sonar contacten in bijlage 2.
+Op basis
+van de Multibeam en side scan sonar resultaten
+wordt een advies gegeven betreffende de
+aangetroffen contacten en eventuele andere
+bijzonderheden aan de opdrachtgever.
+Advies
+Uit de sonardata blijkt dat er gebied
+in dit veel bodemverstoringen zijn waargenomen
+en ook veel zeer
+veel kleine
+contacten alleen de clusters staan in deze rapportage),
+( dit komt door het karakter van het
+gebied nl. veel zandribbels die een
+hoge mate van reflectie geven, waardoor schelpen banken
+en
+andere natuurlijke
+bodemverschijnselen op het sonargram zichtbaar zijn.
+onderscheid
+Het tussen deze natuurlijke bodemverschijnselen
+en eventuele munitie is door de sonar niet
+te maken, en alleen door visuele
+inspectie vast te stellen. Dit gaat echter door vele aantal
+het reflecties
+veel tijd kosten.
+Inzet van een magnetometer zal misschien
+een mogelijkheid zijn om tijd te winnen.
+De gegevenslevering bestaat
+uit dit rapport met een overzicht van de Multibeam data (Figuur
+5) en een
+side scan
+sonar contactenlijst. Als bijlagen zijn de afbeeldingen
+van de aangetroffen contacten, indien
+beschikbaar met historische informatie (Bijlage
+3). Indien een contact twee maal voorkomt,
+wordt in de
+afbeeldingenrapportage
+de beste afbeelding gepresenteerd. Deze afbeelding
+wordt ook opgenomen in
+de 5R9 contactendatabase.
+Bovenstaande informatie wordt
+ook digitaal aangeleverd. Hierbij wordt van ieder contact
+dat in de
+contactenlijst
+wordt vermeld ook de bijbehorende afbeelding aangeleverd.
+Periplus
+Consultancy b.v. & Rijkswaterstaat, Data-ICT-Dienst
+2009. Nederlandse normen voor
+Hydrografische opnemingen. Versienummer
+3.0.
+15
+21-11-2011

@@ -1,0 +1,55 @@
+Water
+Meet-
+7326
+Contact
+______
+x
+x
+4
+en
+Informatiedienst Uitvoering
+en Scheenvaart
+Contact
+Raai Vorige Datum
+1.44 2442 n.v.t.
+Targel-1-44
+ETRS
+89UTM
+Y
+557462 5786595
+Afmetingen (dm)
+L B
+H
+50 25
+Beschrijving
+Kleine bodemverstoringen.
+Bijzonderheden
+bstotmge
+TgftX TgttY ‘86595 16
+Heag 39Dees GdRxe 66OMtoStbod
+Afbeelding
+Speed 8.2 Knots Fk 2442
+Raai
+Vorige Datum
+1.45
+2442 n.v.t.
+Torget 1.45
+ETRS 89UTM
+Y
+557446
+5787036
+Afmetingen (dm)
+L
+B H
+30 0.1
+Beschrijving
+Kabel/Ketting
+Bijzonderheden
+TgetX 55734627 TgetY
+5’S’03641
+Ho& 399 Drxr Grord Rgr 57 1 Mrtero to Stbod
+Sper 82Kc4s Fk
+2442
+Afbeelding
+42
+21 -11-2011

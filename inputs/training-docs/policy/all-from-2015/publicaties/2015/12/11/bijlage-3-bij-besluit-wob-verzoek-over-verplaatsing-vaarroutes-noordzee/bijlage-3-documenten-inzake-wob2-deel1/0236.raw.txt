@@ -1,0 +1,113 @@
+data
+have
+test
+was where
+reverse where
+(1b
+base
+eg.
+see
+iéi
+ONGERUBRICEERD
+TNO report TNO-DV 2012 C485
+81
+1 1 49 1
+Table 16 Numerical
+predictions for single concrete debris impact.
+[Malvar, 1996]. Type of
+munition
+and size and velocity of concrete fragment
+are input. Maximum pressure
+and
+maximum deformation are determined
+in a 3-dimensional simulation and are
+compared to their respective thresholds
+to predict the violence of reaction.
+ACCEPTOR FRAGENr SIZE PRESSURE
+FRAGMENT OD/D RELATIVE FRAGMENT PREDICrED
+TVPE
+AND SPEED MOMEN9EtJM
+DEFORMATION KINEflC REACTION
+Aiia1yiswith
+ENERGY
+MV,
+o.’M
+Thsiiold
+bckwa11
+(lbs-ft.s)
+(kips-fr/s)
+(3;)
+M107-lSSmni 4” 400
+0/s 033 4.1 1200 0.30
+4 25 240
+psojectile 4” 8000/s
+0.38 4.1 2400 1.10
+4 25 960 none
+(CompB) 124400 0/s 0.82 4.1
+30800 6.80 25 6160
+none
+12” 800 0/s 1.92
+4.1 61600 232 25
+4 24640 posstble buro
+12” 1200 0/s
+3.26 4.1 92400 34.1
+4 25 55440 bwu
+12” 400 0/s— w 0.80
+4 4.1 30800 10.7 25 6160 onno
+12” ‘E600ft.s—w 1.78
+4.1 46200 24.1 25 13860
+possiblebsun
+124 800 0/s —w 2.88
+4.1 61600 35.1 25 24640 rec1ion
+124 1000 ft’s-w 3.43 4.1 77000
+43.2 25 38500 reuction
+124 1200 OJs±w 435 4.1
+92400 503 25 55440 &tooation
+M1S2 boort, 4” 400 0/
+055 48 1200 060 25
+4 240 onno
+(156) 12” 4400 0/s 1.62
+-w 4.8 30800 11.2 6160
+25 none
+12” 600
+0/s w 2.34 4.8 46200 23.7
+4 25 13860 possible buro
+12” 4800 ftJs+w 3.31
+48 61600 35.0 25 24640 reaCtion.
+12” 1000 0/s,- w 4.07 4.8
+4 77000 43.8 25 38500
+reaction
+12” 1200 0/s+ w 4.98
+4 4.8 92400 50.2 25 55440 dotonu6on
+‘Reaction bur&explosioa’detouation
+5.3,2,3 Deformation by
+intrusion into munition
+The accident
+of the UK Royal Navy reveals that
+40% of the incidents in
+the timeframe
+1980-1 994 involves impact and
+drops and many of the incidents
+resulted in intrusion
+of the explosive filling [Wallace, 1994].
+A spigot intrusion
+developed a falling weight with
+spigot is dropped onto a munition
+store,
+being the of
+the situation a munition is accidentally
+dropped onto
+a deck
+fitting, Figure 25,
+‘...,
+‘sa-’
+Fittte6
+‘Irtrrk
+AFrH $emeo
+Figure 25 Schematic of spigot
+intrusion test (top) and typical deck fittings
+which cause ignition
+when munitions
+are dropped on those (bottom) [Wallace,
+1994].
+ONGERUBRICEERD

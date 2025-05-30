@@ -1,0 +1,60 @@
+Report No. 25648-1-MSCN-rev.2
+route-bound traffic contains vessels that mainly have a mission at sea, such as fishing
+vessels, supply vessels, working vessels and pleasure crafts.
+Within the SAMSON-model both modelled in different way.
+groups are a
+The route-bound traffic is modelled on the shipping routes in the region of the wind farm.
+Because of the locatiori of the different ports and the traffic separation schemes in the
+area, most of the route-bound ships sail on a network comparable with the
+large of links,
+with the
+road network. Every ship is allowed to sail ‘anywhere” as long as one complies
+rules and regulations. Thus ships could also sail outside the defined network. However,
+the number of ships sailing outside the network is very small, because the network
+contains the shortest route between ports.
+A new traffic database is generated for the location of the wind farm. The location of the
+wind farm sail through
+is assumed to be a forbidden area, so route-bound traffic will not
+the wind farm. This new database is used to determine the probabilities for contact with
+a wind turbine.
+route-bound
+The non-route-bound traffic cannot be modelled the same way as the
+traffic, because the information about the journeys is not inctuded in the Lloyds
+database. Moreover, the behaviour of these non-route-bound ships at sea is very
+route,
+different. A non-route-bound ship does not sail from port A to port B along a dear
+but from port A to one or more destinatioris at sea and then usually back to the port of
+departure A. The behaviour of these ships at sea is mostly unpredictable. Fishing
+vessels journey.
+also usually sail from one fishing ground to another during one
+Therefore, the traffic image of the non-route-bound traffic is modelled by densities of
+ships in a so-called grid celI of 8 x 8 km. The size of this celI is historically connected to
+the grid ceIl size used in the North Sea. Other sizes of the grid celis can be applied but it
+has only a finer grid. The local policy for making
+sense when the densities are known on
+use of the region of the wind farm is modelled.
+Used models
+different
+The total SAMSON-model consists of many different sub-models for the
+accidents. Not all sub-models have to be used to determine the effects of the wind farm.
+expected number of rammings and
+The followirig models are applied to determine the
+driftings with a wind turbine per year:
+• Contact with a fixed object (wind turbine)
+- as a result of a navigational error (rarnming)
+- as a result of an engine faifure (drifting)
+anchor for all wind force
+The drift model contains a table with the probability of failure to
+classes. The failure probability increases strongly with the wind force. Further, the self
+repairing time function is modelled to determine the maximum time of the drifting
+process without
+assistance from outside.
+The effect of one or more ETVs (Emergency Towing Vessels), thus vessels that can get
+control over the drifting ships by taking her in tow, can be determined by the input of one
+or more ETVs. For each ETV the geographical position and a number of characteristics,
+such
+as speed and towing capacity are required.
+No ETVs are modelled in this study.
+In case the wind farm has a large impact on the safety of shipping outside the location of
+wind wind farm can be compared.
+the farm, the risk levels with and without the

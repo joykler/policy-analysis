@@ -1,0 +1,58 @@
+Project: P60151/1
+Client: Port of Rotterdam
+£2
+Title: Netherlands Wnd
+park Formal Safety Assessment
+ARCADIS
+- on the west side from the harbour
+entrance: a circular area with a radius of 12 nm that
+inciudes deep
+the draft channel IJ-geul and Deep Water Anchorage;
+- on the east side from the harbour entrance:
+the area from the breakwaters to the North
+Sea Locks IJmuiden
+inciuding adjacent harbours;
+- the North Sea Canal
+with its adjacent harbours to the buoys Iii 1 and 1J12 on the fairway
+het
+IJ’ in Amsterdam.
+The following figures and tables
+illustrate several near-miss reports on the IJmuiden Approaches
+(see overview Figure
+in 2). The Centraal Nautisch Beheer informed the Rijkswaterstaat
+North
+Sea department
+about the insufficient anchorage capacity and the dangerous
+situations arising
+between ships to or from Ijmuiden and ships
+in the recommended routes between TSS Maas
+Noord and TSS 0ff Texel.
+= Current designated anchorage
+Figure
+2. Overview of the approaches to Ijmuiden
+At
+sea the management area of CNB is divided into the following two VTS areas:
+- IJmuiden Port Control, VHF-61, working area: entrance
+5’ from harbour to west side of
+the locks;
+- IJmuiden Traffic Centre, VHF-07,
+working area: from 5 nm out to (official) l2nm out.
+The radar range the VTS
+of radar is about 25nm, therefore it is doubtfull that small vessels on
+radar
+the edge of the range are detected. The VHF range (VHF-61 and VHF-07)
+is about the
+same distance as the radar range. On the VTS Centre is also a VHF
+transmitter with VHF-16
+>30
+available with a range nm. In ‘near-miss’ situations
+case of the VTS operators will use the
+distress channel and divert
+the involved ships to the VTS channel or use this channel to alert the
+ships course.
+on collision
+Date: 27/03/2012
+Created on 14:12:00 Page:
+l7of 192
+Doc: P60151/1 — Netherlands
+Wind park FSA

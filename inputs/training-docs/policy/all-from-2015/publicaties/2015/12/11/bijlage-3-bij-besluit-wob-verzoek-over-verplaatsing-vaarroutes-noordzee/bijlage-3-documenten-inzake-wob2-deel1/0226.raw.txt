@@ -1,0 +1,76 @@
+ONGERUBRICEERD TNO report TNO-DV 2012 C485 39/81
+1 1
+5.3 Likelihood of munition reaction
+In this paragraph first the likelihood of a sympathetic detonation
+is treated. It is
+important
+to know whether or not one can rule out the possibility of a propagation of
+reaction throughout (part of) the based on
+munition dump. This analysis is the
+assumption of
+a full detonation of a representative amount of explosives that is
+being dumped, the propagation of the shockwave through the water and the shock
+sensitivity of munitions at the dump site.
+The likelihood of ignition and consequential deflagration or
+munition reaction (burn,
+detonation) is discussed
+both for a direct mechanical contact, for example due to a
+sinking ship or a dropped anchor, and an indirect through the
+mechanical contact
+propagation of vibration waves to sensitive components like fuzes.
+5.3.1 Sympathetic detonation
+The eventual detonation of a single munition article will cause wave
+a shock into the
+surrounding
+water and sea bed. 1f that shock wave in the water hits nearby
+munitions that are also filled with sufficient
+HE and if the shock strength is of
+magnitude, then
+the nearby munition(s) will detonate and new shock waves are
+generated. This phenomenon is called sympathetic important to
+detonation. It is
+know whether or not a sympathetic detonation of several munitions may occur, as a
+sympathetic detonation directly enlarges environment
+the consequences to the and
+ships.
+surface
+In the discussion below the detonating single
+munition is called the donor munition
+and the nearby munition is called the acceptor munition. The sympathetic
+detonation of the acceptor munition is governed by the
+following parameters:
+1. Amount of high explosive in donor munition that reacts in detonation mode;
+2. TNT equivalence of the high explosive composition donor
+in munition;
+3. Distance between donor and acceptor munition;
+4. Shock sensitivity of
+the acceptor munition.
+The strength of the shock wave in water single item is
+due to the detonation of a
+calculated in paragraph 5.3.1.1. The distance between munitions or aerial density is
+calculated in paragraph 5.2.1. A
+review of the shock sensitivity of relevant high
+explosives is given in paragraph 5.3.1.2. The likelihood of sympathetic detonation is
+assessed in paragraph 5.3.1.3.
+Note that sympathetic detonation can occur within one dumped package or LCT
+munition pile as the munition items are in close proximity
+when grouped. However,
+taking into account the areal density of the larger calibre munitions and munition
+packages dumped at the North Sea, conciuded
+it is that one can safely neglect the
+sympathetic
+detonation between individually dumped munitions, individually
+dumped munition packages, LCTs.
+or between individual munition piles from
+5.3. 1.1 Shock wave propagation in water due to a point detonation
+It is assumed that the total amount of high explosive in a munition detonates. The
+energy release represents the worst
+case and is similar to the designed functioning
+mode of the item. The larger calibre munitions are typically filled with TNT, which
+represents the most commonly used type of
+explosive during WWII, and no
+correction for TNT equivalence is necessary. Note that sea mines and torpedoes
+are excluded from this study. The latter munitions contain
+high explosive
+compositions that are optimized regarding their effect on surface ships.
+ONGERUBRICEERD

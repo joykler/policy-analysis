@@ -1,0 +1,122 @@
+j
+3
+çn
+_______
+Project: P60151/1
+dient: Port Rotterdam
+of
+Title:
+Netherlands tMndfarm Formal Safety Assessment
+ARCADIS
+MAP Cunt and Variant
+adoajMO
+1 iJmuiden 1 Srniths 1 1
+Ilook of Ilarwich Ilook of
+Neweastle IJmuiden 1
+Smniths
+LSDS/
+Huil to Rotterdam to 1 to
+KnoIl to Holland Ilook Holland
+1
+to to 1 Knoil
+to
+Rotterdam 1
+to Iltjil Smmths 1 look of 1 to Sinith 1 of
+fin to
+1 1
+IJmuiden Newcastle IJmuiden
+KnolI 1 lIoll:mnd 1 Knoli Holland Hanvich
+TANKERS
+VLCCs
+162 808 404 404 162
+404 162 404 162 -202 202
+SUEZMAX
+111 557 278 278 111 278
+111 278 lii -139 139
+AFRAMAX
+93 464 232 232 93 232
+93 232 93 -116 116
+PANAMAX 78
+390 195 195 78 195
+78 195 78 -97 97
+HANDYMAX 65
+327 163 163 65 163 65
+163 65 -82 82
+HANDY( 12/25K) 53 263
+131 131 53 131 53
+131 53 -66 66
+COASTAL(6K) 43 215
+108 108 43 108 43
+108 43 -54 54
+COASTAL(3/5K) 18 90
+45 45 18 45 18 45
+18 -22 22
+BULK CARRIERS
+CAPE SIZE 104 520 260 260 104
+260 104 260 104 -130
+130
+PANAMAX 62 308 154
+154 62 154 62 154 62
+-77 77
+SUPRAMAX 58 288 144 144
+58 144 58 144 58 -72
+72
+HANDYMAX 58 288 144 144
+58 144 58 144 58 -72 72
+l-IANDY(25/30K) 42 211 106 106 42
+106 42 106 42 -53 53
+COASTAL(6/1
+0k) 43 215 108 108 43
+108 43 108 43 -54 54
+COASTAL(3/5K)
+18 90 45 45 18 45
+18 45 18 -22 22
+CONTAINER SIIIPS
+12000 TEUs
+355 1773 887 887 355 887
+355 887 355 -443 443
+6500 TEUs 1065
+213 533 533 213 533 213
+533 213 -266 266
+4500 TEUs
+152 761 380 380 152 380 152
+380 152 -190 190
+3500 TEUs 143 714
+357 357 143 357 143 357 143
+-178 178
+2000 TEUs 122 612
+306 306 122 306 122 306 122
+-153 153
+700 TEUs 39 197
+99 99 39 99 39 99 39 -49
+49
+FERRI ES
+NEWCASTLE 79 397
+198 0 0 0 0 0 0 0
+0
+HULL 150 0 0 375
+150 0 0 0 0 0 0
+HARWICH
+129 0 0 0
+0 0 0 0 0 -162 162
+FISHING VESSEL
+LOA 20/30 II 53
+27 27 11 27 11 27 11
+-13 13
+Table 23. Local difference between Current
+and adopted IMO Variant (III)
+Tables
+21, 22 and 23 readily illustrate the costs attributable
+to commercial ship owners 011 an
+individual basis. The traffic numerically
+transiting the routes and therefore affected the IMO
+by
+proposal is well documented
+in the Marin Study and consultation with the charts therein
+found is
+recommended.
+Date: Created
+on 27/03/2012 14:12:00
+Page: 69 of 192
+Doc: P60151/1 — Netherlands Windfarm
+FSA

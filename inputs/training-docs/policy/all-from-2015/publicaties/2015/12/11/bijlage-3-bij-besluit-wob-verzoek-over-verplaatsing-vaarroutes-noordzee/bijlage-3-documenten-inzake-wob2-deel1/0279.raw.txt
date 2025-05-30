@@ -1,0 +1,59 @@
+-
+Report No. 25648-1-MSCN-rev.2 34
+A
+6.3 Total risk
+due to the wind farms
+Chapter 6.1 contains the extra costs
+of accidents and detours outside the wind farms
+due to the
+changes in the traffic flows. Chapter 6.2 contains the probabilities of contacts
+with the
+wind turbines but not the costs involved with these contacts. In this chapter all
+costs, thus risk and additional sailing costs are quantified. For this
+purpose some
+assumptions have been with respect
+made to the damage of the wind turbines. These
+assumptions are
+extracted from the studies carried out for individual wind farms. The
+most
+important assumption is the probability that the wind turbine is lost by
+the contact.
+The following percentages are used:
+• 100% after a ramming contact by a route-bound
+ship;
+• 20% after a ramming contact by a non-route-bound
+ship;
+• 85% after a drifting contact by a route-bound
+ship;
+• 10% after a drifting contact by a non-route-bound
+ship;
+An amount of M€ 10 is taken for a wind turbine
+that is lost.
+An amount
+of M€ 104 is used for the average damage costs for the ship
+that has a
+contact with a wind turbine It is expected to the ship
+that the damage will be lower in
+general.
+Table
+6-7 is composed based on these assumptions. The left part contains
+the
+probabilities that a wind turbine is lost, thus the Table
+probabilities of 6-5 and Table 6-6
+multiplied by the above.
+percentages The center part of the table contains the yearly
+costs of
+accidents with the wind farm and of accidents and extra miles outside the wind
+farm. By comparing the columns, it becomes dear that the largest contribution
+of the
+yearly costs is delivered by of
+costs the extra miles. Thereafter, the damage to the wind
+turbines gives
+the largest contribution.
+Only the proposed route structure reduces the number incidents.
+of shipping The extra
+incidents 0,206 with the
+wind farms are completely compensated by the decrease of
+0,283 incidents
+outside the wind farms. In summary, 0,076 Iess incidents will occur per
+year, thus on average one incident Iess in 13 years.

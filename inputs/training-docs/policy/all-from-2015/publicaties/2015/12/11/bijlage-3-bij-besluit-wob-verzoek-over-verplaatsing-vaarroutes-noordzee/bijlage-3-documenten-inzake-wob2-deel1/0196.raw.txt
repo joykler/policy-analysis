@@ -1,0 +1,69 @@
+ONGERUBRICEERD TNO report TNO-DV 2012 C485 9/81
+1 1
+Introduction
+Sea is intensively
+The North used by ships harbouring in major ports of the United
+Kingdom, Denmark, Netherlands and Belgium. These ships have to follow specific
+traffic
+lanes to avoid collisions. As the remaining surface area of the North Sea is
+increasingly taken up by oil and gas platforms and lately by wind miii parks, the
+shipping routes on Dutch
+the North Sea are congesting. For this reason, the
+Ministry of lnfrastructure and Environment has advanced pians for adjustment of the
+current traffic lanes for
+shipping on the North Sea. The alternative route structures
+interfere with the munition dump sites off IJmuiden and Hook of Holland.
+Accordingly, the Dutch Ministry
+of infrastructure and the Environment
+(Rijkswaterstaat) has requested TNO to evaluate the risks of ship traffic relative to
+sites based on the
+the dump following incident scenarios potentially occurring at the
+dump sites [Berlo, 2011]:
+sinks;
+• ship
+• ship anchors;
+•
+drifter drags anchor;
+• fishing boat drags bottom trawling gear;
+• ship loses
+container or other deck cargo;
+• vibration of ship movement disturbs seabed;
+turbulence due
+• water to propeller wash disturbs seabed;
+• ship strikes seabed with keel or propeller.
+The risk assessment is performed for:
+present route
+• The structure;
+• The proposed route structure in which the northbound Traffic
+lane of the
+Separation
+Scheme (TSS) is moved eastwards, so that the dumping areas will
+be located in the separation zone;
+• The alternative route structure with the dumping areas near Rotterdam located
+in the northbound lane of the TSS.
+The risk analysis needs to incorporate the type of ship and cargo as the traffic lanes
+used by
+are to be fishing ships, small to largest category container ships and ships
+carrying environmentally unfriendly and dangerous cargo. The latter two types are
+au
+made up by tankers and ships transporting chemicals and explosive substances
+like gasoline and LPG. The Ministry of lnfrastructure and the Environment has
+risk
+limited the assessment to ships with a maximum draught of 15 m, which relates
+to the water depths in the area.
+The risk is quantified qualitatively by multiplying likelihood and effect per scenario.
+The likelihood is composed of exposure (or probability of occurrence), likelihood of
+interaction with munition and likelihood of detonation:
+• the exposure
+is based on probability calculations of possibie shipping incidents
+at or near the dumping areas by the Marine Research Institute (MARIN);
+likelihood
+• the of interaction with munition is assessed by TNO based on the
+situation at the dump sites (bottom morphology, amount of dumped munition
+munition density);
+and
+• the likelihood of detonation is based on munition deformation scenarios that are
+compared against
+known initiation thresholds for impulse per unit area and
+energy per unit area (also referred to as energy fluence).
+ONGERUBRICEERD

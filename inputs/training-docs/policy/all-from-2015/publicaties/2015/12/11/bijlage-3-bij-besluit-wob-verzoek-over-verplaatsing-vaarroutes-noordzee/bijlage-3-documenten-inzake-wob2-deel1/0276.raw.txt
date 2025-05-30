@@ -1,0 +1,50 @@
+___________________
+Report No. 25648-1-MSCN-rev.2 31
+*
+»
+The collision risk for the traffic without routeing to
+measures near the wind farms closer
+the coast variant
+(thus 1) is presented in Table 6-5. Table 6-6 contains the collision risk
+for the wind farms
+for the proposed route structure. The probability of a collision per year
+is given for ramming and drifting for both non-route
+route-bound traffic (R-ships) and
+bound traffic (N-ships). Because almost
+all nori-route-bound ships, mainly fishing
+vessels supply and work vessels, sail
+outside the routes more or Iess randomly over
+sea,
+the behaviour of this group is not affected by a new route structure. Therefore the
+same database for non-route-bound traffic has in the same
+been used, which results
+probabilities for these ships
+in Table 6-5 and Table 6-6. The difference in collision risk is
+caused by
+the route-bound ships. The summarized ramming risk is reduced enormously
+from 00592 per year (once in 17 years) for variant 1 to 0,0037 269 years) for
+(once in
+the proposed route structure. Thus the reduction
+factor is about 16 for the ramming risk.
+The reduction for drifting risk
+for route-bound ships is less: from 0,1603 per year (once in
+6,2 years) for variant 1 to 0,1359 per year (once in 7,4 years) for the proposed route
+structure. The reason for the large difference in reduction and
+between the ramming
+drifting collisiori risk is that the drifting
+risk is much less sensitive for the distance
+betweei, location
+the where the failure occurs and the wind farm. Therefore, the
+reduction
+factor for the drifting risk for route-bound ships is only 1,18. The reduction
+factors of 16 and 1,18 are achieved by the wind farms to
+in the area closer the coast.
+The results for wind farms Den
+Helder, Tromp and Brown Ridge East show an opposite
+pattern, because the
+sea area cleared around these wind farms in variant 1 is larger
+than for the proposed route structure. Because the absolute probabilities are low for
+these wind farms, they do not affect the overall
+reduction. The charige in risk for each
+wind farm can be found in Table
+6-5 and Table 6-6.

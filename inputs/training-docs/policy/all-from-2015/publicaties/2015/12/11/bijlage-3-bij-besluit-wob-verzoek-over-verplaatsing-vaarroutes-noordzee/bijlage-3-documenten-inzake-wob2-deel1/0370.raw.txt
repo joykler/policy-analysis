@@ -1,0 +1,74 @@
+date ships type
+speed CPA destination situation location vislbility nm
+(11-geul buays) form
+1 02/01-2009 04:05 Santos Star container
+20W 0,941’ westbound crosslng iJ-5 and 0-7 good X
+MOL Endowment container 1743
+19W T5S 0ff Texel —
+2 13/02-2009
+06:12 Niledutch Singapore container 18’ 0,348’ Ii-5
+IJmuiden crossing and 0-7 good -
+Casco Europa container 22’ 645 TSS 0ff Texel
+3 15/03-2009
+14:10 CMA CGM Voltaire container 21W 0,487’ T5S 0ff and IJ-5
+Texel crossing 0-3 good X
+Vega
+Chem chem tanker 902 IJmuiden
+—
+4 15/03-2009 02:30 Chivalry
+Ever container 5> 0,5’ TSS Maas North crossing 11-1 and iJ-3
+S 500 X
+Nova Friesla
+reefer 12’ 926 westbound
+S 01/08-2009 11:52 Jane
+Littie coaster 8) 0,44’ westbound crossing N’ely good
+Harlequir,
+container 14’ 815 TSS 0ff Texel Deepwater
+channel
+6
+05/11-2009 19:50 King Alfred container
+16W 0,991’ Scheveningen crossing 0-1 and 11-3 good X
+CS Manatee bulkcarrier 13’ 1835 westbound
+—
+7
+17/11-2009 23:56 Tambourin tanker 0,488’
+15W Ijmuiden crossing 1-11 and IJ-13 good X
+Dettioss
+container 18’ 904 TS5 0ff Tesel
+1. MOL Endowment-Santos Star:
+The container ship ‘MOL Endowmerit’
+Is
+heading for the TSS 0ff Texel, the outbound
+container ship ‘Santos Star’ left the IJ-geul
+off buoy IJ-9. According ColRegs rue 15,
+(crossing situations) the MOL Endowmeiit
+must change course to starboard. Due to the
+crowded situation in the anchor area (see
+figure 1) both vessels agreed on VHF-16 the
+‘MOL Endowment’ cross ahead the ‘Santos
+Star’ on short distance.
+2. Niledutch
+Singapore-Cosco Europe:
+The container ship ‘Niledutch Singapore’ Is
+following the IJ-geul buoys to IJmuiden. The
+contairtership ‘Cosco Europe’ is headingforTsS
+0ff Texel. ‘Niledutch Singapore’ probably
+assumes she must keep speed and heading. On
+VHF-16 both ships agreed a avoldance
+manoeuvre, whlch
+failed or misunderstood. At
+the last minute the Casco Europe alters course
+‘hard to 5tarboard’ and shortly after this the
+‘Niledutch Singapore’alters hard port.
+course to
+3.
+The tanker Vega’ 11-geul
+‘Chem is following the
+buoy5 and must give way to the container ship
+‘CMA CGM Voltaire’. 0fl a distance of mm, the
+Ijmuiden VTS informed
+the ‘Chem Vega’ of the
+risk of coilislon. Hereafter the ‘Chem Vega’ alters
+course to starboard. The blue line is a bearing line
+Indicating VHF-07 while
+the VHF transrnission on

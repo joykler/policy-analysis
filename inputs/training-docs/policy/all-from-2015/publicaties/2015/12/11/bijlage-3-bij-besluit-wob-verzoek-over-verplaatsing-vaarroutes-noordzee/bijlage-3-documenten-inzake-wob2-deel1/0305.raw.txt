@@ -1,0 +1,48 @@
+ReportNo.25648-l-MSCN-rev.2 60
+iI;ii!I1
+Explanation
+for a better understanding of the probability of a collision
+The probability of a collision is determined from the calculated number of encounters
+between ships. The encounter is classified
+based on the course difference between the
+ships.
+A distinction is made between an overtaking (course difference is less than 60°),
+600
+crossing (course difference between and 150°) and a head on (course difference
+between 150 and 180 encounter. The probability of a collision given encounter, is
+an
+°)
+clearly different
+for the three situations. The probability of a collision, given a crossing
+encounter is larger than in case of en overtaking encounter. Sometimes this discrete
+classification of encounters is too rough for a sound result in a small area.
+The probability a collision is based
+on singular meetings. When a third ship is involved at
+the same
+time the probability of a collision will increase, because the number of
+encounters increases. For the triple ship encounter, in total six encounters between two
+ships are counted, thus three times as much means that
+as in a singular encounter. This
+the probability
+of a collision for a triple encounter is equal to the probability of a collision
+in three encounters between ships, thus as if the ships would have met each other in
+separate encounters.
+The probability of a collision given an ericounter is not geographically
+related and
+therefore does not depend
+on the distance to en object such as a platform, or a wind
+turbine. Too few collisions have occurred under these circumstances to be able to
+include this in the modeling.
+The probability of a collision given en encounter
+depends on the type of ship, the ship’s
+size and the weather conditions. The calculation of the number of encounters is based
+on the distribution of the speed of ships at sea. In some areas, when boarding or
+disembarking the pilot, some ships will sail at lower The difference in speed can
+speeds.
+result
+in more encounters. The resuits of the calculations can be improved when these
+areas are modeled in more detail. The number of meetings can then be determined
+more precisely. A new issue will be how the collision probability changes with the speed
+of the ships concerned.
+But in any case the differences between variants can be
+quantified more precisely.

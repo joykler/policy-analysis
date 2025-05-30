@@ -1,0 +1,94 @@
+Project:
+P60151/1
+Client:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Table 14 shows an example
+of a risk matrix. Having set the criteria we now move on to
+assessing all the tasks.
+Risk Matdx
+Coneequenee
+Integrated
+Generic Definition)
+Patailty. or severe personal Irijury. total plant
+Ineversible
+envlronnrental damae. Severe
+C. .ItTDpl* 5
+internatIonal
+publlcilyItÛss of trade
+serlollslmodevate
+person
+term equtpn,ent damage, —
+Severe
+envtionmental damage.
+Mejor adverse natlonal
+publtclty!customer
+reection
+MlrlorlSeflous ltjurj. MeraUm term
+equipment er
+e,wironmentai datnage. Considerable impact Sri
+S 3
+trede.
+Mirtor personal tnjury. Minolisliort term aqulprrrent
+demaga, Short term .nvlronrnerrt& dCmee
+t4sor 2
+Minor mpacl on trede.
+Nagligiblu
+personal lnjnty? plant or .qulpnierrt
+failoraenvtronmantal damaga. Slight Impact no
+N 1 Sla 1
+trede
+Broadily Acceptahie ALARP Unacceplable
+E
+Table 14. example of a risk matrix
+3.7 Estimating the frequency rating ‘F’ for each identified
+hazard
+The frequency
+of an accident occurring for each hazardous encounter was estirnated in the FSA
+considering
+by the following factors:
+(i)
+How busy are the traffic lanes are involved in the encounter? (This was roughly estirnated
+from the density of ships’ tracks in AlS plot of ship
+the rnovements in the area taken over a
+three month period.)
+(ii) How much sea room is available to
+for ships manoeuvre in when taking action to avoid a
+collision? (The depth under
+the ships’ keels is also relevant to this, as restricted underkeel
+clearance
+increases a ship’s turning circle.)
+(iii) What
+speeds are the ships likely to being moving at during the encounter?
+(This is closely
+related to points (i) and (ii), as ships should be at reduced when
+speed manoeuvring is
+restricted by either the sea room available
+or the depth under the keel or the density of
+traffic.)
+(iv) How complex is the encounter
+in terms of how many ships moving in different directions
+could be involved?
+(Simultaneous collisions between more than two ships are very rare
+but
+the actions of ships in close quarters encounters heavily influenced
+are often by other
+vessels in the immediate vicinity. are often restricted
+Ships in the options available to them
+when giving way to another
+ship because the most preferable evasive action to take would
+involve
+a close quarters encounter with yet another vessel that is close by.)
+(v) What is the aspect
+angle of the close encounter? (The MARIN QRA uses the difference
+between two vessels’ courses to differentiate between ‘crossing’
+‘overtaking’, and ‘head
+on’ encounters but the ‘Rule of the Road’ distinguishes
+each of these three different types
+of close quarters encounter
+by the relative bearing (known as the ‘aspect angle’) of each
+Date: Created on 27/03/2012 14:12:00
+Page: 38 of 192
+Doc: P60151/1 — Netherlands
+Wind park FSA

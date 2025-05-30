@@ -1,0 +1,46 @@
+pn
+en
+n.v.t.
+89UTM
+(dm)
+100 40
+n.v.t.
+89UTM
+(dm)
+50
+ij±,nprrw
+Meet-
+Bijzonderheden
+Afbeelding
+Contact Raal Vorige Datum
+3187
+1.52
+ETRS
+5788932
+558055
+Afmetingen
+Beschrijving
+Harde reflecties/bodemverstoringen
+Bijzonderheden
+Afbeelding
+Datum
+Contact Raai Vorige
+1.53 3280
+ETRS
+558142 5788924
+Afmetingen
+30
+Beschrijving
+48 1-11-2011
+x
+x
+lnformfidinct
+rhnvrf
+1
+Y
+L B H
+Target-1.53
+Y
+L
+B H
+2

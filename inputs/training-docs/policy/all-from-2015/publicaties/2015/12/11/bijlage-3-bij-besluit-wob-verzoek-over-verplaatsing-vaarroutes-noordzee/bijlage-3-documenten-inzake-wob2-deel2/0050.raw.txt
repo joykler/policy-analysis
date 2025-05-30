@@ -1,0 +1,58 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+3. HAZID Methodology
+3.1 Introduction
+The ARCADIS (UK) HAZID is based on a marmer’s qualitative
+view of the risk and is mainly a
+approach, though it does give a numerical level of risk to each identified hazard to allow a
+comparison between the three differént traffic systems to be made.
+The HAZID method employed uses a team based approach which incorporates a structured
+brainstorming technique used to draw out information from the participants. The aim is to
+identify hazards capable to leading to undesirable
+consequences as well as the current and
+recommended
+control measures for each hazard.
+The team is made up of appropriately qualified persons. The activity under review is broken
+down into tasks and steps. As each step is identified and they are in turn assessed for potential
+hazards. The hazards are further assessed in terms of the associated consequences and frequency
+of occurrence.
+3.2 Study Areas
+The Hazid was initiated by subdividing the area to
+be considered into three sectors:
+1. Section A Offshore Routing
+2. Section B
+Inshore Routing
+3. Section C Secondary Traffic
+These sectors were further subdivided and addressed the individual routes/channels therein
+accordingly.
+3.2.1 Section A: Offshore Routing
+1
+NNE / SSW Offshore deepwater route between the North Hinder and the 0ff Brown Ridge
+TS S.
+2 The sea area between the off shore deep water route and the SW going route from the 0ff
+Texel TSS to the North Hinder Nord TSS.
+3 SW bound through lane to the North Hinder buoy from the 0ff Texel TSS.
+4 Sea area between the SW and NE going routes between the North Hinder North and the 0ff
+Texel TSSs.
+5 NE going through lane from the North Hinder buoy to the 0ff Texel TSS.
+3.2.2 Section B: Inshore Routing
+6 The Noord Hinder Junction Precautionary Area.
+7 Maas West TSS
+8 Maas Northwest TSS from
+the NE going lane between the North Hinder North and the 0ff
+Texel TSSs
+9 Maas Central Precautionary Area
+10 MaasNorthTSS.
+11 Routes between Ijmuiden
+and the NE bound lane between the North Hinder North and the
+0ff Texel TSSs.
+3.2.3
+Section C: Secondary Traffic
+12 Rook of Holland to IJmuiden Port Area
+13 IJmuiden
+to Texel.
+Date:
+Created on 27/03/2012 14:12:00 Page: 33of 192
+Doc: P60151/1 — Netherlands Wind park FSA

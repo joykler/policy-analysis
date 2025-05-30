@@ -1,0 +1,48 @@
+Project: P60151/1
+dient: Port of Rotterdam
+)Mnd
+Title: Netherlands park Formal Safety Assessment
+ARCADIS
+Schouwenbank to 01f Texel TSS routes
+— —* Current 69.0 mis — Proposed 71 5 mis (*2 5 mis)
+05 Texel TSS to Schouwexbank routes
+4—
+4- — Correct 76 5 mIs Proposed 79 0 mlx (.2.5 mis)
+Maas Centre to 011 Texel TSS routes
+—
+-+ Correnl 69.0 mis —* Proposed 71.5 mis (+25 mis)
+0ff Texel TSS to Maas Pitot routes
+4—
+— Current 77.0 mis 4-- Proposed 79.0 mis (+20 mis)
+Sunk to routes
+East 0ff Texel TSS
+—— Corrext 950m1s —* Proposedl000mis (+S0mis)
+Sunk Easi to 05 Texel TSS routes
+—
+—. Current 95.0 mlx MARIN 100.5 mis (+55 mis)
+The proposed and current routes from 0ff Texel to the Sunk
+East TSS going south of &own Ridge are the same
+;
+x:te;
+-
+.—— Current 190 mis 4-— Proposed 255 mis (+6.5 mis)
+The differences in distancos between current traffic
+0ff Tex& to ljmuden routes
+routes and the proposed IMO variant routes — Map 1 t’. —
+-+ Current 33.0 mis —. Proposed 39.5 mis (+6.5 mis)
+Figure 18. Map showing differences in travel distance between current traffic routes and the proposed IMO
+Variant routes (North South accent)
+Figure 19 again demonstrates that most proposed route structures increase the travel distances
+for the common East-West oriented routes, as foliows:
+- The extra distance for the proposed Schouwenbank to IJmuiden route (bright red) is: 7 mis
+- The extra distance for the proposed IJmuiden to Schouwenbank route (dark red) is: 12 mis
+- The extra distance for the proposed Maas Centre to IJmuiden route (light blue) is: 7.5 mis
+- The extra distance for the proposed IJmuiden to Maas Pilot route (dark blue) is: 9.5 mis
+IJmuiden route (dark green) 1.5 mIs
+- The extra distance for the proposed Sunk East to is:
+- The extra distance for the alternative Sunk East to IJmuiden route (light green) is: 1.5 mis
+- The extra distance for the proposed IJmuiden to the Sunk East route (black) is: 1.5 mis
+- The extra distance for the proposed Schouwenbank to Maas Pilot route (purple) is: 1.0 ml
+- The extra distance for the proposed Maas Centre to Schouwenbank route (grey) is: 2.5 mis
+Date: Created on 27/03/2012 14:12:00 Page: 60 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

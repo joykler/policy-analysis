@@ -1,0 +1,110 @@
+MEMO
+Ld_!!QriLi
+________
+De berekeningen zijn
+met SAMSON uitgevoerd waarbij
+het wrak als een object wordt
+voorgesteld. Voor
+de Vinca Gorthon is een object
+van 185m lang en 37 m breed genomen.
+Voor
+een dergelijk object is de kans
+op raken van het object bepaald na een storing (driften)
+en door een navigatiefout
+(rammen): Tabel 1 bevat de berekende raken
+kans op per jaar voor
+driften en rammen
+voor de huidige verkeersafwikkeling
+en voor de verkeersafwikkeling op de
+nieuwe
+routestructuur.
+Tabel
+1 Cumulatieve Kant op raken van
+wrak Vinca Gorthon per jaar indien wrak aan de
+oppervlakte zou liggen voor
+een schip in een bepaalde GT-klasse
+of groter
+Scheepsgrootteklassen_in
+GT
+100- 1000- 1600- 5000-
+10000- 30000- 60000-
+>100000
+1000
+1600 5000 10000 30000 60000 100000
+gemiddelde
+3.27 4.23 540
+7.46 9.96 12.31 15.27 19.52
+ontwerpdiepgarig
+huidige structuur
+0.008271 0.008267 0.008212
+0.007361 0.006530 0.004779 0.002513 0.000558
+ramm en
+nieuwe structuur
+0.006140 0,006139
+0.006121 0.005742 0.005350 0.004017 0.002023 0.000358
+ramm en
+huidige structuur
+0.001088
+0.001057 0.000992 0.000520 0.000365
+0.000184 0.000064 0.000010
+driften
+nieuwe structuur
+0.000975 0,000949 0.000895 0.000480
+0.000345 0.000176 0.000060 0.000009
+driften
+huidige structuur
+0.009359 0.009324
+0.009204 0.007881 0.006895 0.004963 0.002577 0.000568
+totaal
+nieuwe structuur
+0.007115
+0.007088 0.007016 0.006222 0.005695
+0.004193 0.002083 0.000367
+totaal
+In Tabel 1 is cumulatief opgesteld.
+Dat wil zeggen dat niet de raakkans onder
+een bepaalde
+scheepsgrootte maar
+staat de kans op raken door een schip
+in deze grootteklasse of groter.
+Bijvoorbeeld: het getal 0.006222 bij “nieuwe
+structuur totaal’ onder scheepsgrootte 5000-
+10000 GT geeft de kans op raken
+van het wrak aan door een schip van 5000GT groter. Dit
+of
+is een overschatting van
+de kans omdat er gevallen zijn dat de diepgang
+van het schip
+kleiner is dan
+de waterdiepte boven het wrak, zodat
+het schip zonder raken over het wrak kan
+zijn
+gevaren. Om het deel dat zonder
+raken het wrak kan overvaren weg te fliteren is de
+diepgang van de betrokken
+schepen meegenomen. Voor iedere grootteklasse
+is de
+maximale diepgang
+bepaald. Dit is een overschatting operationele
+van de diepgang, dus ook
+een
+overschatting van de raakkans. Deze gemiddelde
+maximale diepgang staat ook in Tabel
+1. In Figuur 5 is vervolgens Tabel
+1 als functie van de waterdiepte weergegeven. Hieruit
+kan
+dan de kans worden
+afgelezen dat een schip de Vinca Gorthon raakt. figuur
+De moet als
+volgt
+gelezen worden. Bijvoorbeeld bij de waterdiepte
+van 10.8 m boven het wrak voor de
+bergingspoging
+geeft de figuur bij de huidige
+verkeersafwikkeling een raakkans van 0.006 per
+jaar, dus gemiddeld een
+incident eens in de 1/0.006= 167 jaar. Voor de nieuwe routestructuur
+zou de raakkans 0.005
+per jaar zijn, dus eens in de 200
+jaar.
+Page 4 of 8

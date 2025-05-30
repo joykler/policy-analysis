@@ -1,0 +1,70 @@
+2
+)
+ONGERUBRICEERD
+TNO report TNO-DV 2012 C485 47 /81
+1 1
+Figure 23 Flyer plate crush test with all-up round munition indicated by acceptor
+(left) and flyer
+plate double impact test (right). The accelerated
+flyer plate is by a Iayer of explosive.
+Table 14 Sensitivity
+Groups and threshold impulse per unit area of munition and threshold
+energy fluence [Hager, 2000, and Bouma, 2003].
+sensitivity group threshold Impulse per unit area threshold energy
+fluence
+psl-sec (Pa.s) ft-kIin2 (J/m
+SG1 45.0 (3.10.10) 24.5 (51.5.10e)
+(51.5.106)
+SG2 67.0 (4.6210)
+24.5
+(17.8.106)
+SG3 53.0 (3.65.10e) 8.49
+(7.9.106)
+SG4 25.6 (1.77•10)
+3.77
+(0.6.106)
+SG5 5.23 (0.4.10e) 0.30
+Typical explosive and empty
+case weights mortar and artillery munitions are shown
+in Table 15. The ratio of explosive weight to empty always
+case weight is less than
+1, fulfilling one condition munition
+for a to be robust, see Table 13. The average
+fragment weight of medium and large calibre sheils is 12-15 and gr
+5-30
+respectively, according [Fisher
+to & Peugeot, 2002]. Recalculating the fragment
+mass to dimensions of steel cubes gives a typical thickness .25 cm.
+of 0.86-1
+This is near and above the other
+one of criteria for a munition to be robust. The
+munitions of interest in this study are therefore considered to
+be robust, i.e. the
+threshold criteria of Sensitivity
+Group 1 in Table 14 apply.
+Demolition charges are an example of munitions Sensitivity Group
+in 5 and they are
+more sensitive than the
+robust munitions. They can also easily be dumped in large
+quantities. Even though they ignite more readily upon deformation compared
+to
+artillery and mortar sheils,
+the reaction of such a thin case munition is probably
+limited to the burning reaction, see Table 12, which hazard
+poses no real to a ship.
+Table Explosive
+15 and empty case weights of indicated munitions [ConWep; Kroon, 2011].
+Munition
+Empty case weight Explosive weight Explosive weight /
+empty case weight
+kg
+SOmm 1.2 0.2 0.17
+81 mm 3.3 1
+0.30
+4.2” 8.5 3.5 0.41
+105 mm 12.7 2.3
+0.18
+155 mm 37 7 0.19
+8” 98 12
+0.12
+ONGERUBRICEERD

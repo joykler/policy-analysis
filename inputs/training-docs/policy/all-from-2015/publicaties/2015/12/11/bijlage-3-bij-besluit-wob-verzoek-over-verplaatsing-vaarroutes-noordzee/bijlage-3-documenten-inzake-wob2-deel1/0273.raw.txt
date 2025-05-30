@@ -1,0 +1,104 @@
+Report No. 25648-1-MSCN-rev,2 28
+•————-‘—- —.----‘
+Â
+Table 6-3 Impact of the proposed route structure on shipping: changes compared to
+the base for the year 2008
+Proposed
+Variant 1
+Base with
+- route structure
+Unit Base
+OlD- Base
+Base
+—Base
+Avorago number of ships In the area
+OBO’s 0,982 0,002
+Ships 0.004 0,000
+Chemical tankers Shlps 80,975 0,480 0,003 0,700
+DII tankers ships 41.586 0,176 0,001 0,167
+23,458
+Gas tankers shlps 0,018 0,000 0,079
+ships 44,546 0,124
+Bulkers 0,025 0,000
+Unitised ships 128,402
+0,021 0,000 0,372
+General Dry Cargo ships 232,009 0,005 0,834
+0,093
+Passengers + conv, ferries shlps 14,168 0,000 0,007
+0.011
+High Speed Ferrles ships 0,184 0,000 0,000 0,000
+Other ships 28,656 0,002 0,001 0,106
+Total ships 594,966 2,391
+Route-bound 0,830 0,010
+Total Non-route-bound ships 281 .650 0,000 0,000
+0,000
+Safety
+Ships involved in collisions ships!year 24.028 0,135 0,004 0,153
+9,168
+Stranding after ,avlgat, fallure ships/year -0,002 0,000 -0,017
+Stranding shlpslyear
+after technical failure 1,505 -0,001 0.000 -0,005
+Ramming against platform shipslyear 0,146 -0,006
+0,001 0,000
+Drifting against platform shlps/year 0,075 0,000 -0,002
+0,000
+Ramming agalnst ship at anchor shipslyear 2,554 0,077 -0,003 -0,444
+shlpslyear
+Drifting against ship at anchor 0,025 0,000 0,000 -0,002
+shlpslyear 3,244
+Foundering 0,000 0,000 0,009
+Failure ships/year 3,970 0,000 0,012
+HulI 0,009
+Firel Exploslon shlps/year 7,164 0,000 0,019
+0,007
+Total shipslyear 51,878 0,001 -0,283
+0,226
+Economy
+4861
+Shipping costs, fixed + fuel ME / year 9,208 0.098 19.252
+Ship miles 66,704 0.257
+Mnmlyear 0,088 0.000
+Emissions
+KWused GVVh 29517 0,229 114,941
+48,253
+C02 kton!year 14693 22,979 0,000 55,333
+CD kton / year 56,540 0,086 0,000 0,21
+kton/year 150,004
+S02 0,238 0,000 0,565
+NOx kton/year 377,050 0.000 1.415
+0,595
+Oh
+Shipping accidents probabllity/yr 33,4712 0,1298 0,0037 0,1341
+Chem+olle tankersln accidents probabilitylyr 8,1521 0,0880 0,0010 0,0300
+probability!yr 2,9411
+Gil tanker in accidents 0,0330 0,0010 -0,0030
+Gil spilIs probabilitylyr 0,3902
+0,0039 0,0001 -0,0002
+Gil spill more than 10000 m3 probabllity!yr 0,0727 0,0000 -0,0003
+0,0008
+011 spill more than 30000 m3 probabllity/yr 0,0382 0,0004 0,0000 -0,0002
+CII spul more than 100000 m3 probablllty/yr 0,01 54 0,0001 0,0000 -0,0003
+Cilspilt m3/year 5353 43,215 0,079 -41,553
+Chemical sphlis after colhislon
+Very Large Ecological Risk probability!yr 0,0214 0,0000 -0,0008
+0,0000
+Large Ecological Risk probablllty/yr 0,0043 0,0000 0,0000 -0,0001
+Medium Ecological Risk probabiritylyr 0,01 20 0,0004 0,0000 0,0005
+0,0325
+Low Ecological Risk probablllty/yr 0,0002 0,0000 -0,0006
+Ecologlcal probability/yr 0,0457 0,0000
+Negligible Risk 0,0009 0, 0016
+Costs cohilsions and founderlng
+Repairing M€Iyear 3,130 0.027 0,000 -0,009
+Salavage M€/year 1,565 0,014 0,000 -0,005
+M€!year
+Cleanlrig and envlronment,costs 15,963 0,213 0,000 -0,328
+Costs of delay M€/year 0,585
+0,003 0,000 0,008
+Loss of lncome M€/year 3,844 0,000 0,016
+0,029
+000
+Willingness to pay For deaths ME /year 8,946 0,041 -0,006
+Shlp+cargo when sinking ME /year 25,526 0,000 0,000 0,145
+59,559
+Total M€!year 0,326 0,001 -0,178

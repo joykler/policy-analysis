@@ -1,0 +1,63 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+6.2.4 Input for costs calculations: fuel prices and consumption
+This paragraph provides an overview of the fuel prices used in subsequent calculations.
+Heavy Fuel 011 (HFO-38OCST)
+Most ocean going vessels today use Heavy Fuel Oil (HFO) in all engine and boilers, except the
+generator engines. Fuel most often used is known as HFO 380 which bas a viscosity of 380
+CentiStokes at 50°C. This fuel must be heated to reduce its before being burned in
+viscosity
+engines or
+boilers. Suiphur content of this fuel can be as high as 6%, but will be limited to 4.5%
+after May 2005 by international treaty. The average suiphur content of HFO in use today is
+about 2.6%. International regulations require a flash point (closed cup) of over 140°F (60°C).
+Marine Diesel Oil (MDO)
+Marine Diesel OiI (MDO) is very similar to Marine Gas Oil, but has slightly higher viscosity -
+typically 1 to 2 CentiStrokes at 50°C. This fuel does not require heating to reduce its viscosity
+before being burned in engines or boilers. MDO can be used in diesel engines and boilers
+without modifications.
+Price developments of both fuels are shown in Table 18; fuel consumption of various vessels is
+shown in Table 19. The consequent fuel costs / miie for various ships are shown in Table 20.
+TODAY FRIDAY DAILY % CHANGE MW AVERAGE YTD AVERAGE
+380 CST 677 665 646 646
+US$IT US$/T 2% US$/1 US$IT
+MDO 970 US$11 960 US$/T 1% 946 US$11 946
+US$11
+1350 —-‘
+ANTWERP
+1200
+,1
+300
+— 38OCST — MDO
+150
+4
+4 4
+TODAY
+FR/DAY DAILY % CI-/ANGE MTD AVERAGE YTD AVERAGE
+380 CST 675
+US$11 667 US$/1 1% 646 US$11 646 US$IT
+MDO 970 US$IT 965 US$1 1% 946 US$IT 948 US$11
+1350
+ROTTERDAM
+1200
+1,050
+600 .
+450 —
+300
+— 38OCST
+— MDO
+150
+4
+AYTD13
+Fuel Grade
+USD5 / Tonne
+HFO (38OCST) 646
+MDO 947
+6tI
+Table 18. Bunker prices as of the January 2012
+13
+Average Vearly To Date (Antwerp/Rotterdam)
+Date: Created on 27/03/2012 14:12:00 Page: 64 of 192
+Doc: P60151/1 — Netherlands Windfarm FSA

@@ -1,0 +1,58 @@
+Project: P6015111
+Client: Port of Rotterdam
+Title: Netherlands Formal
+Safety Assessment
+ARCADIS
+Northwest traffic separation scheme in the
+new Rijnveld precautionary area. The area’s
+shape and the orientation
+of its boundaries have been designed so that the different of
+risk of coilision scenarios between vessels passing through area are sufficiently
+the far
+apart for two or more different risk of collision
+encounters not to coincide.
+7. Around Breeveertien
+and West Rijn Wind Parks: The IMO variant provides greater
+clearance between shipping and the wind parks than Note that clearance
+variant 1. is
+stili less than a miie near the the 0ff
+end of Texel extended southwest bound lane, but
+the junction shadowed
+by the wind park is a diverging one so there is not a high risk of
+a potentially
+dangerous crossing encounter being obscured.
+Implicit in the selection of IMO
+Variant was the utilization of the majority of the listed Risk
+Control Options. The remaining
+RCOs are directed at reducing residual risk after
+implementation
+of the IMO Variant and can be summarised as follows:
+- application of the International Regulations for
+Preventing Collisions at Sea 1972
+(COLREGS);
+- risk aware design, construction
+and operation of licensed wind parks;
+- a review of ETV
+capacity; and
+review of
+- a the extend of VTS control areas.
+This FSA study conciudes that the proposed routeing will
+measures lead to additional
+distances for commercial
+traffic and associated costs. It is noted that additional distances
+incurred commercial
+by traffic are small and within the lirnits of error when considering
+individual foreign going vessels that transit the routes prior
+to or after making long ocean
+passages. Even so, this figure escalates a large
+to amount when considering all vessels that
+enter the ports of Rotterdam
+and Ijmuiden on an annual basis. The additional mileage, and
+therefore is more
+costs, readily feit by those individual vessels which frequent
+the ports on a
+daily basis and ciassed as regular runners, that is, ferries,
+feeder vessels and similar.
+Date: Created on 27/03/2012 14:12:00
+Page: 9 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

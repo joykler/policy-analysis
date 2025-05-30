@@ -1,0 +1,87 @@
+2
+.
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+2.4 Offshore wind parks
+The existing farms, OWEZ and PAWP have proved successful which has laid a foundation
+firm
+for the encouragement for further exploration which is evidenced wind
+in the 12 licensed parks
+under consideration.
+An area for concern which manifests itself in both
+Wind Parks and Oil and Gas Platforms is the
+Security Breaches
+which need to be addressed as soon as possible as the study has concluded
+that unauthorized / unsupervised visits are a serious hazard. There are presently two offshore
+wind parks in the Netherlands, namely:
+1. Princess
+Amalia Wind Park (PAWP), shown as ‘32’ on the FSA maps and formerly known
+as ‘Q7’ and
+2. Egmond (OWEZ),
+aan Zee shown as ‘33’ on the FSA maps and formerly known as Near
+Shore Wind Park (NSW).
+2.4.1 OWEZ
+The Egmond aan Zee wind OWEZ,
+park, was the first big wind park to be built in the North Sea
+off the Dutch coast and operating since 2006. The wind park is a project of Nuon and Shell. The
+OWEZ wind park is situated some 10 to 1 8 km off the Dutch coast in the of Egmond
+vicinity
+aan Zee, in water depths of 17 to 21 metres. The farm
+consists of 36 Vestas V90 wind turbines
+having a total capacity of 108 MW. The total
+area of the farm is approximately 27km
+Operations
+management
+Operations management
+is buik on a foundation of management of health, safety, security and
+the environment — abbreviated HSSE. All activities related to the performance of the wind park
+asset, the electrical infrastructure and substation, as well rnonitoring
+as all surveying and
+activities are carried structured fashion.
+out in a HSSE is a core line management responsibility,
+built on a policy
+that is shared between all parties working on the project.
+Man hour
+recording and Incident Reporting
+The total number spent
+of man hours at the project site in 2009 was over 70,000 hours (over
+60,000
+in 2007 and 2008). Helped by the joint efforts from all staff working on the project,
+including contractors, subcontractors, and owner representatives, again no injuries incidents
+or
+needed to be reported. NoordZeeWind (NZW)
+stimulates and tracks the safety reporting to learn
+and to improve.
+Excellent reporting was done in 2009, resulting in over 200 reports.
+Jan Feb Mar Apr May Jun Jul Total
+Aug Sep Oct No Dec
+4139 2285 9755 10349 7022 6031 5423 73926
+7438 6377 6655 4527 3925
+‘III 0 0 0 0 0
+0
+1R( 0 0 0 0 0
+IR(F • 0
+0 0 0 0 -
+- 2 — — - — —
+- - -
+2! 0 15 26 24 14 33 13 24 16 13 2 6
+Satetviniprovements 3 1
+0 0 1 0 0 0
+Stopork — — — 0 0 0 0 0 0 — —
+NearMis 0 0 0 0 3 1 0 7
+Unsfe con8tion 3 6 0 5 4 30
+Unsafebchviours 0 0 3 1 11
+Safety .ud1tsreviews 0 8 0 1 1 1 II)
+jr — — j;• —
+Safetyobsert1ois 12 17 17 10 2 — 131
+Accide 0 0 0 0 0 0 0 0 — 0
+StopworkimbIet 3
+0 4 2 2 2 1 19
+Flrstaid 1 IJ
+0 0 0 0 0 0 1 0 1 3
+Figure 7. OWEZ HSE Statistics 2009
+Date: Created on 27/03/2012 14:12:00 25of
+Page: 192
+Doc: P60151/1 — Netherlands Wind park FSA

@@ -1,0 +1,114 @@
+Chem
+tanker
+distance
+course starboard.
+Ever Chivalry-Nova Frisia:
+#EVER
++NC\/A
+5.6
+ahead
+crossed
+r
+course speed
+Harlequin-Littie
+course
+crossed
+Manatee-King
+bears
+starboard
+1316.5
+contacted
+#cs
+course starboard
+FRESIA
+1u]
+Jane:
+816
+0.440
+JANE
+Jane
+040 14.0
+vessels
+IJ
+2798.5
+,LEC’lJIN
+0
+:IN
+o
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands \Nind
+park Formal Safety Assessment
+ARCADIS
+3. Vega-CMA CMG
+Voltaire:
+The
+‘Chem Vega’ is following the
+geul buoys and must
+give way to the
+container ship CMA CGM Voltaire’.
+On a
+of 1 nm,’the IJmuiden VTS
+informed the
+‘Chem Vega’ of the risk of
+collision. Hereafter the ‘Chem Vega’ alters
+to The blue line is the
+VHF
+transmission line of bearing while
+communicating with
+the VTS. on VHF-07
+4.
+The container ship Ever Chivalry’ is
+heading for TSS Maas North, the reefer
+CHIVALRY
+Nova Frisia outbound
+IJmuiden. The
+ColRegs (rule 15) required ‘Nova Frisia’
+to
+‘1
+273 12.0
+give way to the container ship. However,
+the Nova
+Frisia’ very close
+c
+).
+of the ‘Ever Chivalry’ altering
+without its
+or during foggy conditions.
+CL
+5.
+The ‘Harlequin’ is a
+on NNE’ly
+towards the TSS 0ff Texel and ‘Little Jane’
+outbound
+is IJmuiden. The ‘Harlequin’
+must give way ‘Little
+to the Jane’ but didn’t
+±LJTTLE
+comply with the ColRegs
+and the
+‘Little with a very small CPA.
+6. CS Alfred:
+‘CS Manatee’
+‘King Alfred’ over her
+ALFPED side. According
+to the ColRegs,
+2’[I.8
+the ‘CS Manatee’ must give way to ‘King
+1109
+4
+‘King
+Alfred’. Alfred’ the ‘CS
+qq
+MANAE
+Manatee’ and her
+pointed to the ColRegs.
+311 13.0
+Both alter
+to at
+very close range.
+Date: Created on 27/03/2012
+14:12:00
+Page: 20 of 192
+Doc: P60151/1 — Netherlands Wind park
+FSA

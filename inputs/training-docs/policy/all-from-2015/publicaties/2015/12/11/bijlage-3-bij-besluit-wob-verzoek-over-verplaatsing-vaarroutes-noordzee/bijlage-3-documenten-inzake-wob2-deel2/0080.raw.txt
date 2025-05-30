@@ -1,0 +1,46 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title:
+Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Table 17. Overview of additional travel distances as a result of proposed IMO Variant routeing
+structure
+, Additional Distance UIT
+Incurred through of
+1.00 1.50
+7.00 7.50 9.50 10.00 10.50 11.00 11.50
+12.00
+1
+r
+Schouwenbank to 0ff Texel Routes x
+0ff Texel TSS to Schouwenbank Routes x
+Maas Centre to 0ff Texel TSS Routes x
+0ff Texel TSS to Maas Pilot Routes x
+Sunk East to 0ff Texel TSS x
+Ijmuiden to 0ff Texel Tss Routes x
+«el to Ijmuiden Routes
+x
+Map2
+Scriouwenbank to Ijmuiden Routes x
+Ijmuiden to Schouwenbank x
+Maas Centre to Ijmuiden TSS Routes x
+Ijmuiden to Maas Pilots
+x
+Sunk East to Ijmuiden Routes x
+Ijmuiden to Sunk East Routes x
+Schouwenbank x
+to Maas Pilot Poutes
+Maas Centre to Scouwenbank Routes x
+3
+MaP
+Newcastle to Ijmuiden Inbound x
+Newcastle to Ijmuiden Outbound x
+HulI to Rotterdam Inbound x
+HulI to Rotterdam Outbound x
+Smiths KnoIl Ijmuiden
+to Inbound x
+Smiths Knoll to Ijmuiden Outbound x
+Smiths Knoll to Hook of Holland Inbound x
+Smiths KnolI to Hook of Holland Outbound x
+Date: Created on 27/03/2012 14:12:00 Page: 63 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

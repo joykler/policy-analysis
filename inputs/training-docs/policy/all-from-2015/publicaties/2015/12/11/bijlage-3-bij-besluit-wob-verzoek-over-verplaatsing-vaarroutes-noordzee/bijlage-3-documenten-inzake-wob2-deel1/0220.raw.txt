@@ -1,0 +1,89 @@
+.
+ONGERUBRICEERD TNO report TNO-DV 2012 C485 33? 81
+1
+Likelihood
+5.2 of interaction
+The likelihood of interaction with munition is based on the situation the dump
+at
+sites made up by the amount
+of dumped munition versus dumping area, dispersion
+of munition, and bottom morphology. Two kinds of interactions with munitions
+are
+anticipated; a direct mechanical
+contact with the munition; and an indirect
+mechanical contact through the propagation of vibration waves from the ship to the
+munition or by water turbulence
+due to propeller wash. The likelihood of a direct
+mechanical contact is related to the areal density of munitions munition dump
+at the
+sites on the one hand and the dimensions
+of the ship, ship items or cargo on the
+other hand. The likelihood of indirect mechanical contact distance
+varies with
+between ship/propeller and
+seabed and ship/propeller characteristics.
+5.2.1 Density of munitions in the dump sites
+This paragraph provides an estimate of the density of munition dump sites off
+in the
+IJmuiden and Hook of
+Holland.
+5.2.1.1 Average munition density for dispersed
+articles
+It is estimated that 30,000 ton of munition was dumped in the dump site off
+IJmuiden and 20,000 ton
+in the site off Hook of Holland.
+10.106
+The area of the dump site of IJmuiden is approximately while the area of
+,m2
+3.106
+the dump site off Hook of Holland
+is m2, sothe density atthe site off Hook of
+Holland is the largest at 6.7 kglm2
+It is unclear whether the
+amount of munition is net explosive mass, mass of the
+articles or gross mass including packaging. The latter and is
+is the most likely
+adopted here. In [Ham
+and Duvalois, 1999] on the Oosterschelde the values also
+refer to gross mass including packaging.
+The historic information
+seems to indicate that small arms munition, land mines, sea
+mines, bombs and large calibre shells were not dumped, great quantity.
+or not in
+The net explosive
+mass can be estimated from ratios for the net/gross mass from
+modern munition [Wees, 2007]. This is based on a database from 2005 inventory
+a
+of the RNLA munition.
+The ratio gross mass (including packaging) / net explosive
+mass (HE, propellant or pyrotechnics) is 6.04, for in the
+all types of munition
+inventory of the Dutch land forces
+in 2005. When only the munition types that were
+dumped are considered, the ratio is 9.1.
+Of the explosive,
+only the high explosive can detonate. The ratio of total explosive
+substance / high explosive in the inventory of the Dutch 1 .5. The
+land forces is
+average explosive
+mass in HE-filled articles is 0.748 kg. Bombs, missiles and other
+modern articles that were not present in the dumped munition after second
+the
+World War were excluded
+from the 2005 RNLA inventory in the calculation of the
+ratio and average.
+Of the high explosive-filled
+articles, only the larger cased articles can conceivably
+be set off by a blunt impact or similar stimulus. The ratio of explosive mass in HE
+filled munition articles
+to larger cased munition filled with HE is 1.81. The average
+explosive mass in larger cased HE-filled articles, from to the largest
+40 mm calibre
+shells, 3.106 kg as derived
+is from the same 2005 RNLA munition inventory.
+From the above data,
+the net explosive quantity (NEQ), the NEQ of the high
+explosive filled articles and the NEQ of the larger cased HE-filled articles in the
+dump can
+sites be calculated.
+ONGERUBRICEERD

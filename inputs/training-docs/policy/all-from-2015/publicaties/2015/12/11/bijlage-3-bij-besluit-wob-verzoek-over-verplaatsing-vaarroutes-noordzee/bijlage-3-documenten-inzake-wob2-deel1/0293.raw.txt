@@ -1,0 +1,9 @@
+No. 48
+Report 25648-1-MSCN-rev.2
+.1
+Figure 8-10 Positions of the ships with a design draft between 18 and 19 m destined
+for IJmuiden; plots each 5 minutes
+Figure 8-11 inciudes all ships with a navigation state “at ancho in AlS, regardless of
+the design draft. The area is slightly larger than the anchor area taken. The figure also
+incudes a table with a breakdown of the number of ships at anchor at the same time.
+_i

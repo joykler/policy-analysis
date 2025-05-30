@@ -1,0 +1,64 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands Windfarm Formal Safety Assessment
+ARCADIS
+TANKERBU SUMPT1ON
+Dally Consumption ronnes)
+Category Speed
+HFO MDO
+VLCC
+15.50 93.00 0.00
+SUEZMAX 14.50 60.00 0.00
+AFRAMAX 14.50 50.00 0.00
+PANAMAX 14.50 42.00 0.00
+HANDYMAX 14.00 34.00 0.00
+HANDY (12/25K) 13.00 21.00 3.00
+COASTAL (6K) 11.00 0.00 12.00
+COASTAL (3/5K) 11.00 0.00 5.00
+BULK IER BUNKER
+CARF CONSUMPTION ,
+-.
+I)iil ( onsuniptiOn Tonnes)
+Category Speed
+IIFO MDO
+CAPE SIZE 14.50 56.00 0.00
+PANAMAX 14.00 32.00 0.00
+SUPRAMAX 14.00 30.00 0.00
+HANDYMAX 14.00 30.00 0.00
+HANDY (25/30K) 14.00 22.00 0.00
+COASTAL (6/lOK) 11.00 0.00 12.00
+COASTAL (3/5K) 11.00
+0.00 5.00
+BtINKEI
+COTA1NER HIP t CONSLMPTION
+Category 1)ailv ( ronn)
+‘oflSurnl)tion
+Speed
+Type TEUs
+HFO MDO
+6 12000 25.50 3 36.00 0.00
+5 6500 24.00 190.00 0.00
+4 4500 23.00 130.00 0.00
+j 3500 23.00 122.00 0.00
+2 2000 22.00 100.00 0.00
+700 17.00 22.00 2.00
+FERRJE ; BUNKER CC NSUMPTJON
+h..
+I)aily ( OflSLIIUptiOfl l’onnes)
+(‘ategory Speed
+HFO MDO
+NEWCASTLE /IJMUIDEN 19.00 56.00 0.00
+HULL/ROTTERDAM 19.00 106.00 0.00
+HARWICH/HVH 20.00 96.00 0.00
+., FISIIING i:ssi:i, BLNKFI{ CONSUMPTION
+JW
+Category flaily (onsumption
+Tonnes)
+peed
+Type LOA(m)
+HFO MDO
+. Over 15m 20/30
+10.00 0.00 2.70
+Table 19. Bunker consumption analysis
+Date: Created on 27/03/2012 14:12:00 Page: 65 of 192
+Doc: P60151/1 — Netherlands Windfarm FSA

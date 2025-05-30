@@ -1,0 +1,56 @@
+Report No. 25648-1-MSCN-rev.2 6
+A
+.
+1 SUMMARY IN DUTCH
+1.1 Introductie
+De ambitie van de Nederlandse overheid is om een totaal vermogen van 6000 MW aan
+windenergie te realiseren Noordzee. 2010 kwantitatieve
+op de In is een risicoanalyse
+(QRA = Quantitative Risk Assessment) uitgevoerd voor 6 varianten met binnen elke
+variant een aantal subvarianten. De resultaten hiervan zijn gerapporteerd in [1].
+Sindsdien zijn de discussies
+doorgegaan met alle stakeholders. Deze hebben geleid tot
+het voorstel van een nieuwe routestructuur, waarbij ruim baan wordt gegeven aan de
+vergunde windparken in ronde 2 (dit zijn de windparken Beaufort, Breeveertien, Brown
+Ridge East, Den Helder, Q10, Q4, Tromp en West-Rijn). Alleen windpark Scheveningen
+Buiten kan dan niet worden gerealiseerd windpark verplaatste
+omdat het midden in het
+VSS Maas Noord zou komen te liggen. Het VSS Maas Noord is naar het westen
+verplaatst om dicht bij de kust ruimte te creëren voor andere activiteiten.
+Het doel van de nieuwe routestructuur is de verbetering van de veiligheid rondom
+offshore platforms in het algemeen en het Horizon platform in het bijzonder, een
+veiligere aanloop van IJmuiden, veiligere en grotere ankergebieden en tenslotte veilige
+locaties voor
+het ontwikkelen van windenergie.
+Dit rapport bevat de QRA voor deze nieuwe routestructuur, ciie verder aangeduid wordt
+met “voorgestelde
+routestructuur” en ook een QRA voor windpark Q10, omdat verwacht
+wordt dat dit windpark op korte termijn gebouwd gaat worden, zodat de
+verkeersafwikkeling met de windparken OWEZ, Prinses Amalia en Q10 het beste als de
+“huidige” verkeersafwikkeling kan worden
+beschouwd.
+De berekeningen zijn uitgevoerd voor de lay-out van de nieuwe routestructuur van 16
+september 2011. Op dit ontwerp zijn bij het DW ankergebied bij IJmuiden wijzigingen
+aangebracht
+die niet in de tekeningen van dit rapport verwerkt zijn.
+1.2 Kader van de SAMSON berekeningen
+Het
+doel van deze studie is het uitvoeren van een kwantitatieve risicobeoordeling
+(QRA), waarin de effecten op de veiligheid voor de scheepvaart door de voorgestelde
+routestructuur worden gekwantificeerd. Daarvoor worden voor deze routestructuur de
+risico’s voor de scheepvaart gekwantificeerd, vaarafstanden
+alsook de effecten op en de
+daarmee verband
+houdende extra kosten en uitstoot van milieubelastende stoffen.
+Een QRA is een onderdeel van een Formal Safety Assessment (FSA) studie die zal
+worden uitgevoerd met de resultaten van deze studie. Een FSA is een proces dat nodig
+is om goedkeuring van de IMO te verkrijgen, als activiteit veranderingen
+een leidt tot in
+de internationale (lMO) scheepvaartroutes.
+1.3 Werkwijze
+Dezelfde werkwijze wordt gevolgd als in [1]. Dat wil zeggen dat er een
+verkeersdatabase wordt aangemaakt iedere
+voor verkeersafwikkeling die beschouwd
+wordt. De belangrijkste verkeersafwikkeling is die voor de voorgestelde routestructuur.
+Om een beter gevoel voor de resultaten te verkrijgen is er voor gezorgd dat de
+resultaten zo goed mogelijk te vergelijken zijn met die van [1]. Daarom is uitgegaan van

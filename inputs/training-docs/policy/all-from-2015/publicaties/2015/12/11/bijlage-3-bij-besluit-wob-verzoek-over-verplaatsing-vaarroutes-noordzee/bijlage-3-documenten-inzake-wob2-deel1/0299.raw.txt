@@ -1,0 +1,94 @@
+54
+Report_No. 25648-1-MSCN-rev.2
+—-
+A
+Table 9-2 average 2475 incidents per year will occur in which the ship
+teils that ori
+limited number of incidents the
+presents the anchor after a technical failure. In a
+about the preferred location
+Coastguard was informed, possibly followed by a discussion
+above a
+for anchoring. These cases were considered as not resulting in anchoring
+the
+cases decision and where to anchor was taken by
+pipeline. In all other the whether
+fraction of the initial number of failures
+captain. The last column of the table contains the
+outside the
+that results in an anchoring in the traffic lane, in the separation zone and just
+in the
+lane. fractions have been applied to the failures that will occur
+traffic These
+dumping areas.
+9-2, namely
+The percentage of 5% erroneous anchoring is applied to the cases of Table
+of the
+intervention of the Coastguard and to the (on average) 25%
+to the cases without
+involved. example, for the cases
+cases in which the Coastguard was not, or too late, For
+involved)) + 3
+“in traffic lanes of TSS” this leads to (3,5 (total cases) — 3 (Coastguard
+cases in
+involved) x (1-0,75) (no communication about anchoring) 1,25
+(Coastguard
+where to anchor, thus cases that are subject
+which the captain has made the decision of
+to erroneous anchoring.
+the type anchoring, and the location of the dumping
+The probability of anchoring, of
+probabilities of anchoring in the
+areas with respect to the traffic lanes, have lead to the
+the of anchoring
+dumping areas in Table 9-3. The three types of anchoring indicate type
+which is based. The overall probability of anchoring in the dumping
+on the probability
+over
+area is given by the sum these three types.
+Overview probabilities of incidents
+of
+the
+have been applied to the dumping areas, which results in
+The above probabilities
+in the dumping ground area is
+probabilities of Table 9-3. The probability of anchoring
+those of Table 9-2, thus for
+given for the three types of incidents that are comparable to
+which the anchoring frequency has been used.
+erroneous
+ground areas
+Table 9-3 Probabilities of an incident in the dumping
+Dumping area
+Rotterdam Rotterdam
+IJmuiden
+North South
+number of
+containers overboard
+0,037938
+0,000000 0,067746
+inciuded in total probability)
+(not
+incidents with containers overboard 0,000000 0,003387 0,001897
+0000000 0,000925 0,000518
+deck cargo overboard
+anchoririg 0000000 0,000178 0,000100
+type “in lane of TSS”
+separation zone of TSS’ 0,000000 0,000000 0,000102
+anchoring type “in
+anchoring lane” 0,000917 0,000053 0,000000
+type ‘just outside shipping
+0,000420 0,000235
+0,000000
+Foundered
+0,000029
+foundered 0,000000 0,000052
+after a collision
+0,005015 0,002881
+Probability of incident per year 0,000917
+Probability of contact with sea bottom
+estimate
+The probability ship has contact with the sea bottom is very difficult to
+that a
+the a ship passed the dumping area is
+because the exact water depth at moment that

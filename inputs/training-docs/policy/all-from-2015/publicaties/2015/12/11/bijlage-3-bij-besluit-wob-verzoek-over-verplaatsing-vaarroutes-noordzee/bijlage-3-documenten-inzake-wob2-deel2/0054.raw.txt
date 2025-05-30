@@ -1,0 +1,75 @@
+-
+Project: P60151/1
+dient: Port
+of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARADI5
+Category CRN
+(atastiupiliL
+5 Severe inteflietlonel edverse publicity wlth permanent loss
+of customers. Severe
+loss of trede
+Severe 4 Major adverse national publîcltylcustomer
+reaction.
+Siettificant 3 Considerable
+impact on trade
+Minor 2 Minor impact on trade
+Negligible 1 Slight impact on trade
++CRX.
+Consequente
+Table 12. Risk Acceptance Criteria! Consequences
+for Business
+. Fatality, or severe personal loss,
+injury, total plant
+C’atastropliic
+irreversible environmental damage. Severe international
+publicity/loss of trade.
+Seriouslmoderate personal injury. Major/ long term
+Sevete
+4
+equipment
+damage. Long term environmental damage.
+Major adverse national publicity/customer reaction
+Minor/Serious injury. Medium term equipment and
+Significant 3
+environmental damage. Considerable
+impact on trade
+Minor personal injury. Minor/short term equipment damage.
+1iiioi• 2
+Short
+term environmental damage. Minor impact on trade
+Negligible personal injury/ plant or equipment
+Neglieible 1
+failurelenvironmental damage. Slight impact 0fl trade
+*cpj.
+consequente kankingK
+Table 13. Integrated Acceptance Criteria
+Risk for all categories
+3.6 Risk Matrix
+Each hazard will be identified and considered within the Risk Matrix these definitions
+using for
+frequency
+and consequences. The risk matrix is then used for recording all the hazards and for
+hazard with
+‘scoring’ each a frequency and consequence in order to establish the risk value.
+Let us look at workingfrom
+a ladder.
+The ‘Frequency’ of working from ladder is quite common
+a and we must decide, in the
+context of the task, what FRN (Frequency Ranking Number) assign
+to to the task.
+For example let us say 4.
+The ‘Consequence’ of working from a ladder can be severe and we must dec ide, in the
+context of the task, what CRN (Consequence Ranking Number) to assign to the task. A
+fail from a ladder can result in at least ‘Serioi,s /moderate personal injury’ which gives
+CRN 4.
+of, say,
+Hence, Frequency (4)
+(4) x Consequence = Risk (16)
+The combination of Frequency Consequence is following
+X illustrated in the
+Risk Matrix to predict the risk associated with each hazard.
+Date: 27/03/2012
+Created on 14:12:00 Page: 37 of 192
+Doc: P60151/1 — Netherlands Wind
+park FSA

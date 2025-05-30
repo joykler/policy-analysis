@@ -1,0 +1,29 @@
+5
+Report No. 25648-1-MSCN-rev.2
+Â —
+J
+GLOSSARY OF DEFINITIONS AND ABBREVIATIONS
+Formal
+FSA Safety Assessment
+IMO International Maritime Organization
+LAT Astronomical Tide
+Lowest
+N-ship A non-route-bound ship. This ship mostly has a mission at sea, such as
+vessels, supply vessels, working vessels and pleasure crafts.
+fishing
+NCS Netherlands Continental Shelf
+per year) is generally given with a large
+Probability The probability (or number
+accuracy is
+number of digits. This does not necessarily mean that the
+very large, but the larger number of digits is used to make comparison
+possible betweeri different items, also wheri the absolute values are
+small.
+QRA Quantitative Risk Assessment
+merchant ship or ferry sailing along the
+R-ship A route-bound ship. It is a
+shortest route from one port to another.
+SAMSON Assessment Model for Shipping and Offshore on the North Sea
+Safety
+TSS Traffic Separation Scheme
+VSS Verkeersscheidingsstelsel

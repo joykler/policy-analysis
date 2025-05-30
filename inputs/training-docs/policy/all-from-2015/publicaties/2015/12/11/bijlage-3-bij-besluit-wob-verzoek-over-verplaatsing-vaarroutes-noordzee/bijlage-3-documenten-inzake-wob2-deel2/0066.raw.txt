@@ -1,0 +1,74 @@
+____________________
+Project: P60151/1
+dient: Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+4.2 The HAZID comparison of the three different traffic routcing systems
+The HAZID total level of risk scores for three different
+traffic systems are shown in Figure 15.
+Risk Score
+1400
+1200
+Variant 1
+Present situatton
+Wind park is IMO Variant 12.12.11
+‘Q10’
+aiIvte
+under construction
+800
+All the wind parks
+current traffic
+with the current
+except for the
+separation schemes
+- traffic routeing
+600
+Scheveningen park
+and precautionary
+measures in place
+are in place with the
+areas connected by
+400
+Risk score: 1254 proposed routeing
+recommended
+measures
+routes
+200 -
+Score:
+1028
+Score: 1226
+0.
+Figure 15. Comparison of total level of HAZID risk scores for the IMO Variant and the two baseline
+Variants
+IMO variant 12.12.11 has a significantly lower level of risk than either of the other two systems.
+It may seem strange that the present situation without wind parks should have a higher risk score
+than the Variant 1 option, as this keeps all the traffic separation schemes and precautionary
+areas
+in their current
+forrns with the additional hazards that the presence of the wind parks might pose
+to shipping. It is possible that the wind parks themselves have a regulating effect on ships’
+movements in the saine way that traffic islands help to regulate road traffic but road vehicles can
+only go where roads are built and also are bound highway laws to stay in the lanes
+by allocated
+to them. Variant 1 atternpts to replicate this by projecting the route-selection of ships in this
+situation (based on MARIN data) and the FSA is based that ships use these routes. This goes
+some way to explain why variant 1 has a slightly lower risk score than the present situation, as
+the wind parks between the northeast and southwest bound
+lanes between North Hinder and
+Texel would reduce the number of different crossing encounters that can occur in this area.
+However, recommended routes are not mandatory in the same way that separation schemes are
+and ships can gojust about anywhere, providing
+there is sufficient depth of water for their drafts,
+so there is no guarantee that all the ships in the
+area would follow the recommended routes, even
+if they were adopted by the IMO. Furthermore, some of the locations where these routes pass
+very close to wind parks are where traffic flows cross and so obscure shipboard AlS, radar and
+visual detection of a close quarters encounter
+developing until the vessels involved have passed
+dear the wind parks’ shadows, by which time the range between them is uncomfortably close for
+assessing the situation and taking the appropriate evasive action.
+Taking all factors into consideration, the difference between the risk scores for the present
+situation and the Variant 1 option is almost certainly within the FSA processes’ limits of error
+and should not be given any real significance.
+Date: Created on 27/03/2012 14:12:00 Page: 49 of 192
+Doc: P60151/1 — Netherlands Wind park FSA

@@ -1,0 +1,99 @@
+Project:
+P60151/1
+Client:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+6.
+Cost Benefit Analysis (Step 4)
+Much of the Risk
+Control Options (RCOs) listed above will have little additional
+0fl fl0 cost
+implication but
+their improved utilisation and implementation
+will certainly impact on the safety
+aspect of navigation throughout the selected Variant.
+The RCOs which need to be considered in
+the FSA in more depth will
+be analysed below.
+6.1 Emergency Towing Vessels (ETVs)
+6.1.1 Benefits
+The function of ETV
+capacity is to prevent that any maritime incident should
+escalate into one of
+catastrophic consequences for human, economic, finaricial
+or environmental values, due to the
+casualty vessel drifting. Early response to
+an incident is more likely to contain the situation and
+negate the historically large
+associated clean up and compensation costs.
+6.1.2 Situation in the Netherlands
+The
+Netherlands currently operate one ETV, is
+which moored in Den Helder. In 2010 the “levoli
+Black” has continued the ETV
+task of”De Waker”. As soon as a report of a drifter is received
+by
+the Netherlands
+Coastguard and assistance is required, the ETV is alarmed directed
+and to the
+drifter. probability
+The of a ship needing assistance is higher severe
+during weather conditions
+when the drifting will also be larger. Consequently,
+the Coastguard ETV maintains its station at
+sea during wind conditions Beaufort
+of 5 or more to minirnise its response times.
+6.1.3 Market development
+Although we might expect fail
+a in charter costs due to the present decline shipping
+in the
+market,
+the dernand and hence charter rates for tugs, which most
+ETVs are drawn from, is
+currently
+rising and does not appear to be reaching
+any plateau. Lead tirnes for new build can be
+as high a two or three years and
+the present second hand market is buoyant, with sellers
+dernanding a prernium
+for good tonnage.
+It needs to be said that the
+present growth rate in cost is related directly to the supply tugs
+of that
+ETVs are eventually
+drawn from. Requirements for ETV’s compete
+with a demand for high
+horse power tugs due to the expansion of the offshore
+industry / wind park developers into
+deeper and in sorne cases difficult waters.
+The expansion of the offshore industry may also pose
+an opportunity for the ETV
+market, as future multi-purpose of the tugs of this industry may
+be
+an alternative
+means of providing emergency towing services.
+In 2010. the UK
+Government announced as part of the Department for Transport’s share
+of cuts
+in the Cornprehensive Spending Review, that the ETV fleet
+would no longer funded by the MCA
+from September 2011 claiming that ship
+salvage should be a commercial matter between the
+ship’s owner and the salvor.
+The British Government (MCA)
+have only recently in September 2011 terminated the use
+of two
+of the four ETVs,
+presently in use around the UK coast. It was announced
+that the two ETVs
+operating
+in the Minch (Stornoway) and the Shetland Islands
+(Lerwick) be retained for a period
+of 6 months and that the remaining two ETVs,
+based in the Orkneys and the Minches are up for
+review in March 2012.
+Date: Created on 27/03/2012 14:12:00
+Page: 56 of 192
+Doc: P60151/1
+— Netherlands Wind park FSA

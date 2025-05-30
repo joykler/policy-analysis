@@ -1,0 +1,77 @@
+_________________________.—
+Report No. 25648-1-MSCN-rev.2 52
+*
+Table 9-1 contains the resuits of the analysis of the ships that have crossed the area.
+The dumping area of IJmuiden has been crossed
+most frequently in 2010. In total, 720
+voyages of ships through
+the area were counted. Some ships have performed several
+voyages. 57 voyages were made by a fishing ship. In 25 cases the was smaller
+speed
+than 5 knots, which means that the fishing vessel was fishing crossing the
+while
+dumping area. These 25 crossings were
+performed by 12 different fishing vessels. In
+nearly all
+cases the navigation state of the fishing vessels was 7, meaning that the ship
+was
+engaged in fishing. Given the fishirig activity and the number of different fishing
+vessels that were active in the dumping areas,
+it can be concluded that the dumping
+area is not avoided by
+fishing vessels.
+Table 9-1 Ships that have crossed the dumping area in
+2010
+Dumping area
+. Rotterdam Rotterdam
+IJmuiden
+North South
+Crossings
+by ships with AlS 720 402 240
+Crossings 29
+57 35
+fishing during crossing 25
+16 11
+Onlyfishing
+dfferentvessels
+12 9 7
+vessels
+observations of fishing (speed over
+ground
+< 5 knots), each observation 748 394 240
+rneans 2 minutes fishing
+Ships anchonng
+0 0 0
+The following incidents can happen in a dumping
+area:
+• ship sinks,
+• ship has a contact with the sea bottom;
+• ship anchors;
+• fishing vessels that have cpntact with the sea bottom by fishing gear;
+• Loss of cargo such as container or other deck cargo.
+The probabilities of above
+incidents will be quantified for the three dumping areas, for
+the proposed route structure. This means that the route-bound traffic will disappear from
+the dumping area near IJmuiden, because this dumping area will located in an area
+be
+that is cleared of shipping. Furthermôre, it
+is expected that non-route-bound activities
+such fishing will decrease
+as in the dumping areas near Rotterdam because these areas
+will be located in a busy traffic lane of the moved Maas-North TSS.
+Probability of sinking
+A ship can sink as
+a single incident after being overwhelmed by the sea, which is called
+foundering, sink
+a or due to a collision with another ship. The first incident has a larger
+probability than the second, because the probability that a ship will sink after a collision
+in a one-way traffic lane is very
+unlikely. Therefore, only the incident of foundering is
+considered ii the estimation
+of the probability that a ship will sink in the dumping area.
+Probability of a container or other deck cargo overboard
+The probability of loss of a container or deck cargo
+is used in several studies of MARIN
+with respect to the risk for a cable or
+pipeline. The probability of losing a container is
+updated based on new data. Some sources estimate that 10000 containers are lost per

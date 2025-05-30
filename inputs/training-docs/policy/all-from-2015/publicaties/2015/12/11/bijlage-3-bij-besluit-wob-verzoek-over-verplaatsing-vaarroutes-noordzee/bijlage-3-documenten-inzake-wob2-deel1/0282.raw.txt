@@ -1,0 +1,56 @@
+Report No. 25648-1-MSCN-rev.2 37
+Figure 7-2 Traffic database for proposed
+route structure including links to and from
+the anchorage areas
+For the
+calculation of the risk for each of the four anchorage areas proposed
+for the
+route structure It is assumed that all
+movements to an anchorage area have that
+anchorage area as destination are
+(and not just passing through the area as a short
+cut). For the ramming risk
+It is assumed that the density of ships anchor same
+at is the
+for all anchorage
+areas.
+The calculated risk the
+for present anchorage area and for the four new anchorage
+areas for the route
+proposed structure is given in Table 7-1. The last column “weighed”
+is determined by assuming that the number of movements
+to each of the four anchorage
+areas s lirtearly related to the number
+of ships at anchor in that area.
+Table
+7-1 Safety of movements to anchorage areas
+Traffic databasa
+Proposed route structure
+Present
+with
+010
+Unil
+Anchorage area
+1 1 1
+Present
+anchorage NE SE sw NW Weighed
+1 1 1 1
+area
+1 1 1
+Safety
+Ships
+Involveci Ii,
+shlpslyear 0,018 0024 0,004 0,004
+0,003 0007
+collisions
+Ramming against shlp
+ships/year 0,031 0,005 0,003
+0,010 0,009 0008
+at anchor
+Drifting against ship at
+shpslyear
+0,000 o,oao 0,000 0,000 o,ooo o,ooo
+anchor
+shipslyear
+Total 0,049 0,029 0.007 0,013 0,013
+0015

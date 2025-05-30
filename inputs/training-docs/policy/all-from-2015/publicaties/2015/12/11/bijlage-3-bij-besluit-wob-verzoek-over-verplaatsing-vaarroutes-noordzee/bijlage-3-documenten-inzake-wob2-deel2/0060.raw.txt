@@ -1,0 +1,59 @@
+Project: P60151/1
+Client: Port of Rotterdam
+Title: Netherlands V/ïnd park Formal Safety Assessment
+ARCADIS
+4. Resuits of Hazard Identification & Risk Assessment (Steps 1 & 2)
+4.1 Hazard and Risk tables
+The HAZID worksheets are inciuded in the appendices, follows:
+as
+- Appendix 1: Present traffic routeing worksheet, representing the present traffic routeing
+structure and the assumed realization of Q1O wind park;
+- Appendix 2: Variant 1 traffic routeing worksheet, assuming that all round 2 wind parks
+are realized, but the traffic routes remain as they are;
+- Appendix 3: IMO variant traffic routeing worksheet.
+The worksheets yield the following locations attention (for
+in particular that require detailed
+numbers of the described points see also Figure 12 to Figure 14).
+The “present traffic routing” worksheets show that dangerous situations (red risk scores or high-
+end yellow scores around the value 12) occur for the following locations and situations:
+- Horizon Platform — Figure 12 and Appendix 1, Point 5g: SSW going ships for
+Schouwenbank, WSW going ships and draft ships cross NE
+NWxN/ SExS going deep
+going traffic close to the Horizon gas platform. The gas platform is right on the Western
+edge of the NE and SSW going traffic lanes. Concern exists that NWxN and WSW going
+vessels alter course towards the gas platform when giving way.
+- Entrance to 0ff Texel TSS — Figure 12 and Appendix 1, Point 5j: NExE, NExN and
+NxNE going ships merge with NE going traffic at the entrance to the 0ff Texel TSS
+where the width of the approach to the NE lane width is halved by the buoyed Vinca
+Gorthon wreck at a depth of 1O.8m. Close quarters situations between merging traffic at
+large aspect angles can cause doubt as to whether it is crossing or an overtaking
+a
+situation and which is the stand on vessel. The wreck precludes a large course alteration
+to starboard, 50 a give way ship in this situation should reduce speed.
+- Approaches to IJmuiden - Figure 12 and Appendix 1, Point ila: ENE going ships
+pass the site for wind park Q1O to starboard at a minimum clearance of about O.5nm.
+This presents
+a risk of a ship colliding with a vessel engaged in constructing the wind
+park or of a ship breaking down and drifting into a wind turbine. Point lie: NxE going
+inbound ships merge with all ExS going inbound traffic at the inner fairway buoy,
+leading to close quarter situations at large aspect angles. This can cause doubt as to
+whether
+it is a crossing or an overtaking situation and which is the stand on vessel. Point
+lig: All WxN going outbound traffic and ExS inbound deep draft vessels pass the inner
+anchorage. Ships may join the inbound lane from the anchorage from the port side, which
+means that must give way to all WxN going traffic but at the same time they are the stand
+on vessel to ExS going deep draft vessels in a close quarters situation. This creates an
+ambiguous situation in terms of colregs. Point 11h: Inbound SSE going ships from the
+north cross all W going outbound and E going inbound deep draft traffic at the west end
+of the inner anchorage. but
+W going traffic must give way to SSE going ships vessels
+restricted to the narrow deep-water channel may have difficulty complying with this
+obligation. Point lii: NxW going ships from the Maas North TSS cross all E going
+inbound and W going outbound traffic. Inbound E going traffic must give way to NxW
+going ships but vessels difficulty
+restricted to the narrow deep-water channel may have
+complying with this obligation. Point lij: NNE bound ships from Schouwenbank and S
+bound traffic for the Maas North TSS cross inbound ENE and outbound W going traffic.
+NNE going ships must give way to W going traffic, which must give way to S going
+Date: Created on 27/03/2012 14:12:00 Page: 430f 192
+Doc: P60151/1 — Netherlands Wind park FSA

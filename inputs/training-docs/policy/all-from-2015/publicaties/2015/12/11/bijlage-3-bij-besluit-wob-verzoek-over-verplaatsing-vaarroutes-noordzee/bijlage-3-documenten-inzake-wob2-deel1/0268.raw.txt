@@ -1,0 +1,36 @@
+Report No.
+25648-1-MSCN-rev.2 23
+L
+5.2 The wind turbines
+For
+the calculation of the rammirig and drifting risk It is necessary to actually include
+wind turbines instead of only wind farm
+the area. For this reason, the wind farm areas
+are fihled up with wind turbines.
+Because It is very time consuming to develop the optimal
+configuration wind
+of turbines for each wind farm, a more pragmatic approach is
+followed.
+The approach, already explained and [1], contains following steps:
+used in the
+1. 5 MW wind turbines are placed close
+on the whole North Sea according to a
+of spheres
+packing with a distance of 960m (8 times the rotor diameter of 120m);
+2.
+Only the wind turbines withiri the designated areas are collected;
+3. Wind turbines closer than 500m to a cable removed;
+are
+4. Wind turbines along
+the borders of the area within 500m of a cable are not
+removed,
+to avoid that ships will enter the wind farm, or better, are allowed to
+enter;
+5. It is assumed that the required lOOm distance
+to pipeline will not be a real
+restriction and this
+requirement can be fulfilled in the final design.
+Because the risk is strongly related to the number of wind alternatives cari only
+turbines,
+be compared when dealing
+with the same number of turbines.

@@ -1,0 +1,86 @@
+Project: P60151/1
+Cilent:
+Port of Rotterdam
+Title: Netherlands Wind park Formal Safety Assessment
+ARCADIS
+Abbreviations
+and definitions
+ALARP - As
+Low As Reasonably Practicable
+ATBA
+- Area To Be Avoided
+AlS
+- Automatic Identification System
+CD - Chart Datum
+COLREGS -
+The International Regulations for the Prevention of Collisions Sea
+at /
+Collision RegLilations 1972.
+CBA - Cost Benefit Analysis
+CPA - Closest Point
+of Approach.
+DWR -
+Deep Water Route
+ETV
+- Emergency Towing Vessel
+EU - European Union
+FSA - Formal
+Safety Assessrnent
+HAZID
+- Hazard Identification
+HSE - Hea!th and Safety Executive
+IALA - International Association
+of Lighthouse Authorities
+IMO - International
+Maritime Organisation
+MARIN
+- Maritime Research Institute Netherlands
+MCA - Maritime and Coastguard Agency
+MEPC - Marine Environment
+Protection Committee
+MHWS
+- Mean High Water Springs
+nrn
+- Nautica! Miles (mm 1,852 metres)
+PA - Precautionary Area
+QRA - Quantitative Risk
+Assessment
+QA - Quality
+Assurance
+RCO
+- Risk Control Options
+TSS - Traffic Separation
+Scheme
+VTS - Traffic
+Vessel Service
+WP
+- Wind Park
+A HAZARD is an unplanned event which
+may have an adverse effect on:
+• personal safety
+(injury or death to people)
+•
+environment (pollution or loss of natura! habitat)
+• property
+(damage to offshore installations or ships)
+• business continuity or business reputation
+Frequency or probability is the number of times that a hazard might
+occur
+Consequence or severity result
+is the that will follow ifa hazard (unplanned event) does actually
+take place
+Risk
+is the combination of the above frequency consequence.
+and
+Risk Value the general
+is description of a hazard that has been risk assessed by combining
+the
+frequency and consequence.
+These are described later.
+Risk Matrix is the format used to record the information
+in a logica! and systematic format, as is
+described below.
+Date: Created on 27/03/2012 14:12:00
+Page: lief 192
+Doe:
+P601 51/1 — Netherlands Wind park FSA

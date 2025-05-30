@@ -1,0 +1,101 @@
+LZZ
+________
+Report No. 25648-1-MSCN-rev.2
+46
+The probability of a contact wreck
+with HY2166 has been determined in the same way
+as for the Vinca Gorthon.
+Table 8-2 contains the results of these calculations for the
+wreck
+HY2166.
+Table 8-2 Cumulative
+probability of a contact wlth the wreck HY2166 per year for a
+ship in a certain size class
+or larger, when the wreck is located on the
+surface
+Ship size
+dasses in Gross Tonnage -
+Type of
+Item
+incident 1000- 1600- 5000- 10000- 30000- 60000-
+100-1000
+. 1600 5000 30000 60000 100000
+10000
+Average design
+327
+4,23 5,40 7,46 9,96 12,31 15,27 19,52
+draft
+Present traffic
+0,002195 0,002191
+0,002188 0,002151 0,002091 0,001836 0,001513 0,000089
+Ram- flows
+ming
+Propose route
+0,001073 0,001073 0,001072 0,001056 0,001026 0,000917
+0,000726 0,000041
+structure
+Present traffic
+0,000639 0,000627
+0,000603 0,000402 0,000322 0,000174 0,000081 0,000006
+flows
+Drifting
+Proposed route
+Ø993
+0,000721 0T000683 0,000117 0,000315 0,000157 0,000066 0,000006
+structure
+Present traftic
+0,002834 0,002818 0,002791
+0,002653 0,002113 0,002010 0,001621 0,000095
+tlows
+Total
+Proposed route
+0,001811
+0,001794 0,001755 0,001173 0,001341 0,001071 0,000792 0,000047
+structure
+Only the last column of the table makes sense because the other
+ships will sail just over
+the wreck without hitting the wreck. Therefore, the
+other values are crossed out. Also,
+most ships
+in the largest class will not have sufficient draft to hit the wreck.
+When it is assumed that all ships above the wreck of
+more than 100000GT will hit the
+wreck, the probability of a contact
+with the wreck will be 0,000095 per year, thus once in
+10500 years
+for the present traffic flow and once in 21500 years 110,000047) for
+the
+(
+proposed route structure. The proposed route structure signiflcantly
+therefore reduces
+the probability of a contact.
+This is not
+according to expectation, because more routes with high iritensity are located
+closer
+to the wreck. Reasons for this unexpected reduction are:
+• 70% of the probability of a contact in the present situation is caused by
+traffic
+fiows with low intensities. These traffic disappear
+flows for the proposed route
+structure because ships have
+these to follow the proposed route structure.
+• The dense traffic flows proposed
+for the route structure are traffic lanes within a
+certain form of
+TSS, while the present traffic flows are sailing without a strict
+lateral limitation. This means that the lateral distribution of present traffic
+the
+flows is wider than for the traffic flows the proposed
+within route structure.
+Therefore more ships
+will pass the wreck on short distance even when the
+centreline
+of the traffic flow is further away.
+Because the water depth above the wreck is nearly
+always larger than is indicated in the
+nautical chart with 21 .3m
+to LAT, It is extremely unlikely that a ship will hit the wreck. An
+analysis of the
+AlS data of 2010 has been performed to get insight in the size
+and
+behaviour of the ships in the vicinity of the wreck.
