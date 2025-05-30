@@ -52,4 +52,4 @@ RVB 3.026 3.964 3.172 3.493 3.462 2.683 779
 RIVM 0 100 157 37 0 126 ‒ 126
 RWS (leefomgeving) 7.448 6.437 6.211 5.844 6.134 5.902 232
 Basisregistratie Ondergrond (BRO) 0 300 491 533 0 0 0
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 82
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1

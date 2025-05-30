@@ -44,4 +44,4 @@ omgeving 98,7%en Datacenter Netwerk Diensten 99,8%. Het niet
 beschikbaar zijn van een kernsysteem leidt altijd tot een Major Incident 
 waarbij wordt vastgelegd hoe lang een systeem niet beschikbaar is. 
 Gemiddeld kwam de beschikbaarheid uit op 99,6%.
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 209
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1

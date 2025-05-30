@@ -30,4 +30,4 @@ en applicatie-componenten (incl. databases). Per applicatielandschap is
 gedefinieerd welke servers daaraan gekoppeld zijn. Per server is inzichtelijk 
 welke softwarecomponenten daarop draaien en tot wanneer zij in support 
 zijn. De norm is 80%. Over 2022 is de realisatie 90,7%.
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1 210
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VII, nr. 1
