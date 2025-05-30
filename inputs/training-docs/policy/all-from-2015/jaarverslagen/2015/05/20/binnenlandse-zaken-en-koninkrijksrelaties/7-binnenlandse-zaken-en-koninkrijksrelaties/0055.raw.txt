@@ -1,0 +1,55 @@
+Logius past relevante open standaarden zoveel mogelijk toe in haar 
+overheidsbrede ICT-producten en -diensten en in haar bedrijfsvoering. In 
+een zeer beperkt aantal gevallen zijn relevante open standaarden nog niet 
+of niet volledig toegepast. Jaarlijks publiceert Logius een overzicht met 
+voorziene afwijkingen op de toepassing van open standaarden in haar 
+ICT-producten en -diensten en in haar bedrijfsvoering (www.logius.nl/
+over-logius/jaaroverzichten).
+Mobiliteitskaart
+In de zomer van 2014 is de mobiliteitskaart in gebruik genomen. In het 
+jaar 2014 heeft overleg plaatsgevonden met de gemeenschappelijke 
+ondernemingsraad van BZK, over ondermeer de privacyaspecten rondom 
+het gebruik en het controleprotocol van de mobiliteitskaart. Hierover is 
+medio december overeenstemming bereikt. Hierdoor heeft in 2014 geen 
+interne controle kunnen plaatsgevonden over de uitgaven aan de 
+mobiliteitskaart. In 2015 worden interne controles wel uitgevoerd en 
+worden de noodzakelijke interne controles over 2014 met terugwerkende 
+kracht uitgevoerd.
+Door complicaties bij de ingebruikname van de mobiliteitskaart heeft het 
+bedrijf achter de mobiliteitskaart niet alle facturen naar het juiste 
+departement kunnen sturen. Inmiddels is de facturering anders vorm 
+gegeven, zodat de juiste factuur per departement wordt gegenereerd.
+Rijksbreed is een raamovereenkomst getekend door BZK. Met de ADR is 
+gesproken over de verantwoordelijkheden van de ondertekenaar van de 
+raamovereenkomst (BZK) en de ondertekenaars van de nadere overeen-
+komsten (de departementen).
+Systeemverantwoordelijkheid BIR
+De BIR is vastgesteld in 2012; de BIR is feitelijk de voor de overheid 
+verplichte en in de markt breed gehanteerde norm ISO 27002, waaraan 
+een specifieke invulling voor het Rijk is gegeven, om het gewenste 
+beveiligingsniveau te bereiken. Oorspronkelijk was het de bedoeling dat 
+alle departementen de BIR op 1 januari 2014 zouden hebben geïmplemen-
+teerd. Dit bleek voor de departementen niet haalbaar. Vervolgens heeft 
+BZK, vanuit de systeemverantwoordelijkheid, in 2014 extra inspanning 
+gezet op enerzijds het faciliteren van de departementen en anderzijds op 
+het inrichten van het proces van planning en control. De ADR heeft in 
+2014 in opdracht van BZK twee proefaudits uitgevoerd. Vervolgens zijn bij 
+alle departementen BIR-audits uitgevoerd.
+Op 15 februari hebben alle departementen d.m.v. een In Control 
+Verklaring (ICV) aangegeven bij BZK in hoeverre zij voldoen aan de BIR en, 
+indien dat niet het geval is, via explains aangeven waar zij nog niet 
+voldoen en welke verbeterplannen zij daarvoor hebben. De explains 
+worden beoordeeld op interdepartementale risico’s waarna zo nodig 
+maatregelen worden getroffen. Het Ministerie van Financiën en de ADR 
+hebben aangegeven dat de beoogde ICV niet voor elk departement 
+haalbaar is. Daarom is besloten dat deze departementen zich in hun ICV 
+over 2014 tenminste richten op hun 10 meest kritieke systemen voor de 
+vijf urgente thema’s die eerder dit jaar zijn vastgesteld. BZK geeft invulling 
+aan haar systeemverantwoordelijkheid, de daadwerkelijke implementatie 
+van de BIR en daarmee ook de werking is een zaak van elk individueel 
+departement.
+Inkoopcirculaire rijk
+In 2013 signaleerde de AR dat het toepassen van de inkoopcirculaire 
+onrechtmatig zou zijn en haaks zou staan op de doelstelling van de 
+Aanbestedingswet 2012 om het MKB meer kansen te bieden op 
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 VII, nr. 1 54
