@@ -172,8 +172,8 @@ function Get-TargetInfoFromSourceFile {
 }
 #endregion
 
-#region -- Declare: Export-RawTextFromSourceFile --
-function Export-RawTextFromSourceFile {
+#region -- Declare: Export-RawTextPagesFromSourceFile --
+function Export-RawTextPagesFromSourceFile {
 
     [CmdletBinding()]
     param(
@@ -187,7 +187,7 @@ function Export-RawTextFromSourceFile {
     )
 
     begin {
-        function Export-RawText([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
+        function Export-RawTextPages([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
 
             $PageMax = $Source_PdfReader.NumberOfPages
             for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
@@ -228,7 +228,7 @@ function Export-RawTextFromSourceFile {
 
                 $Source_PdfReader = [iTextSharp.text.pdf.PdfReader]::new($SourceFile.Path)
 
-                Export-RawText $Source_PdfReader
+                Export-RawTextPages $Source_PdfReader
 
             } catch {
                 $Logging.Warn_ExportRawTextPagesFailed($TargetFile, $_)
@@ -266,7 +266,7 @@ try {
     $Logging.Info_StartedExportingRawTextPages()
     Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
-        Export-RawTextFromSourceFile -OnlyUpdateExistingPages |
+        Export-RawTextPagesFromSourceFile -OnlyUpdateExistingPages |
         ForEach-Object {
             $BatchProc.ForEachItem($PSItem)
         }
