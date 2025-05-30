@@ -1,0 +1,31 @@
+Tabel: bruto-netto-traject huishoudensamenstelling 4 
+ 
+ Alleenverdiener (30.000 euro) Bijstand 
+ 
+Bruto € 30.000 € 19.271 Datum 
+ 
+Pensioenpremie werknemer (-) € 1.188 - 
+ 
+Onze referentie 
+   
+2015-0000270922 
+Inkomstenbelasting (-) € 10.851 € 7.043  
+Algemene heffingskorting (+) € 2.845 € 4.460 
+Arbeidskorting (+) € 3.103 - 
+Ink. afh. combinatiekorting (+) - - 
+Netto belastingdruk € 4.903 € 2.583 
+Netto inkomen (=) € 23.909 € 16.687 
+   
+Zorgpremie (-) € 2.487 € 2.487 
+Eigen risico (-) € 423 € 423 
+Zorgtoeslag (+) € 720 € 1.936 
+Kinderbijslag (+) € 1.882 € 1.882 
+Kindgebonden budget (+) € 1.255 € 1.866 
+Besteedbaar inkomen (=) € 24.856 € 19.461 
+   
+Huurtoeslag (+) - - 
+Kosten kinderopvang (-) - - 
+Kinderopvangtoeslag (+) - - 
+Totaal besteedbaar inkomen (=) € 24.856 € 19.461 
+ 
+ Pagina 8 van 103

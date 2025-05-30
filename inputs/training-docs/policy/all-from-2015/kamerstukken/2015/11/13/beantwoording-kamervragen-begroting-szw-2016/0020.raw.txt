@@ -1,0 +1,58 @@
+2013 69,0 
+2014 70,8 
+ 
+2015 71,2 
+ 
+Datum 
+2016 70,8 
+ 
+Bron CPB, MEV 2016.    
+Onze referentie 
+ 
+2015-0000270922 
+ 
+Het CBS berekent de I/A ratio door het aantal inactieven (in uitkeringsjaren) te 
+delen door de actieven (in arbeidsjaren), daarmee is de I/A ratio is een indicator 
+voor het draagvlak van de sociale verzekering. Het vergelijken van de I/A ratio, 
+volgens de definitie van het CBS, met andere Europese landen is ingewikkeld door 
+verschillen in sociale stelsels. Om de internationale vergelijking te kunnen maken 
+is een alternatieve indicator voor het draagvlak van het sociale stelsel de old-age 
+dependency ratio, de ratio van het aantal personen ouder dan 65 jaar (inactieven) 
+en het aantal personen tussen de 15 en 65 jaar (actieven). Onderstaande tabel 
+geeft de old-age dependency ratio van verschillende Europese landen.  
+ 
+Tabel: Old-age dependency ratio, 2014 
+EU28 28,1%     Servië 26,7% 
+Nederland 26,4%     Malta 26,4% 
+Italië  33,1%     Zwitserland 26,1% 
+Griekenland 31,6%     Hongarije 25,8% 
+Duitsland 31,5%     Tsjechië 25,7% 
+Zweden 30,6%     Slovenië 25,7% 
+Portugal 30,3%     Roemenië 24,3% 
+Finland 30,2%     Noorwegen 24,2% 
+Bulgarije 29,3%     Liechtenstein 22,4% 
+Letland 28,8%     Polen 21,2% 
+Frankrijk 28,4%     Luxemburg 20,4% 
+Denemarken 28,3%     Cyprus 19,9% 
+Estland 27,9%     IJsland 19,9% 
+Kroatië  27,6%     Montenegro 19,6% 
+Litouwen  27,5%     Ierland 19,3% 
+België  27,3%     Slowakije 19,0% 
+Spanje 27,2%     Macedonië 17,5% 
+Oostenrijk 27,2%     Albanië 17,5% 
+Verenigd Koninkrijk 27,0%     Turkije 11,3% 
+Bron: Eurostat, geraadpleegd 20-10-2015 
+ 
+Vraag 25 
+Wat is de hoogte van het gemiddelde pensioen? 
+Antwoord 25 
+ 
+e e
+Tabel: hoogte gemiddeld pensioen, AOW plus 2 en 3 pijler (bruto in euro per 
+jaar) 
+ 2012 2013 2014 2015 
+alleenstaanden  25.700 26.200 26.700 niet beschikbaar 
+paren 43.800 44.100 45.400 niet beschikbaar 
+Bron: CBS.nl 
+ 
+ Pagina 20 van 103

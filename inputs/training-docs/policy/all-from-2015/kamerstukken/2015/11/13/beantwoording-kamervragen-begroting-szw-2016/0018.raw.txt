@@ -1,0 +1,59 @@
+Kan de regering aangeven welke type huishoudens het meest voorkomen en hoe 
+hoog de inkomens is van deze huishoudens (bijv. in een frequentietabel)? 
+ 
+Antwoord 19 
+ 
+In onderstaande tabel zijn de huishoudens weergegeven zoals die ingedeeld 
+Datum 
+ 
+worden door het CBS. Per huishoudtype is het aantal aangeven als ook het 
+ 
+percentage van het totaal aantal huishoudens, alsmede het gemiddeld bruto- Onze referentie 
+2015-0000270922 
+inkomen. 
+ 
+ 
+Tabel: huishoudens naar diverse kenmerken, 2014 
+Samenstelling huishouden Particuliere Particuliere huishoudens Bruto-inkomen 
+huishoudens (x 1.000) (% van totaal) (in € 1.000) 
+Totaal particulier huishouden 7,548 100% 58,5 
+    
+Totaal eenpersoonshuishouden 2,769 37% 31,6 
+Alleenstaande man 1,307 17% 35,5 
+Alleenstaande man, tot 65 jaar 1,052 14% 36,7 
+Alleenstaande man, 65 jaar of 
+ouder 255 3% 30,3 
+Alleenstaande vrouw 1,462 19% 28,2 
+Alleenstaande vrouw, tot 65 jaar 812 11% 30,6 
+Alleenstaande vrouw, 65 jaar of 
+ouder 651 9% 25,2 
+    
+Totaal paar 4,120 55% 77,7 
+Paar, zonder kinderen 2,146 28% 65,2 
+Paar, zonder kinderen, kostwinner 
+< 65 1,234 16% 78,6 
+Paar, zonder kinderen, kostwinner 
+>= 65 912 12% 47,2 
+Paar, beide partners 65 jaar of 
+ouder 741 10% 45,4 
+Paar, één partner 65 jaar of ouder 242 3% 59,7 
+Overig huishouden met lid >= 65 164 2% 73,8 
+    
+Totaal meerpersoonshuishouden 4,778 63% 74,1 
+Paar, alleen kinderen < 18 1,304 17% 87,3 
+Paar, minstens één kind >= 18 670 9% 98,9 
+Overig meerpersoonshuishouden 134 2% 80,0 
+    
+Totaal eenoudergezin 525 7% 44,5 
+Eenoudergezin, alleen kinderen < 
+18 282 4% 36,3 
+Eenoudergezin, minstens één kind 
+>= 18 242 3% 54,0 
+Bron CBS, Statline, 
+http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=70843NED&D1=0%2c4&D2=0-
+18%2c24-26&D3=0&D4=l&HDR=G3%2cT&STB=G2%2cG1&VW=D  
+ 
+Vraag 20 
+Wat is de organisatiegraad van vakbonden?  
+Antwoord 20 
+ Pagina 18 van 103

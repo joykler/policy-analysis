@@ -1,0 +1,31 @@
+Tabel: bruto-netto-traject huishoudensamenstelling 1 
+ 
+ Alleenverdiener (WML) Bijstand 
+ 
+Bruto € 19.837 € 19.271 Datum 
+ 
+Pensioenpremie werknemer (-) € 447 - 
+ 
+Onze referentie 
+   
+2015-0000270922 
+Inkomstenbelasting (-) € 7.087 € 7.043  
+Algemene heffingskorting (+) € 3.271 € 4.460 
+Arbeidskorting (+) € 3.001 - 
+Ink. afh. combinatiekorting (+) - - 
+Netto belastingdruk € 815 € 2.583 
+Netto inkomen (=) €18.574 € 16.687 
+   
+Zorgpremie (-) € 2.487 € 2.487 
+Eigen risico (-) € 423 € 423 
+Zorgtoeslag (+) € 1.936 € 1.936 
+Kinderbijslag (+) € 1.882 € 1.882 
+Kindgebonden budget (+) € 1.866 € 1.866 
+Besteedbaar inkomen (=) € 21.348 € 19.461 
+   
+Huurtoeslag (+) € 3.229 € 3.229 
+Kosten kinderopvang (-) - - 
+Kinderopvangtoeslag (+) - - 
+Totaal besteedbaar inkomen (=) € 24.577 € 22.690 
+ 
+ Pagina 5 van 103

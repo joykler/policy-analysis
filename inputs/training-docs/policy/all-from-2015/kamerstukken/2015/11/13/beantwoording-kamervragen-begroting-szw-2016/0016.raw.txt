@@ -1,0 +1,53 @@
+Onderstaande tabellen geven een overzicht van het minimuminkomen waarop 
+huishoudens in OECD- en EU-landen aanspraak kunnen maken, op basis van het 
+ 
+Tax/Benefit model van de OECD (http://www.oecd.org/els/benefits-and-wages-
+ 
+statistics.htm). Dit minimum is uitgedrukt als percentage van het mediane netto 
+Datum 
+ 
+besteedbare huishoudinkomen en is aldus gecorrigeerd voor verschillen in 
+ 
+inkomensniveau tussen landen en huishoudtypen. Het betreft een inkomensbegrip Onze referentie 
+2015-0000270922 
+dat breder is dan alleen de bijstandsuitkering. Huurtoeslag (en vergelijkbare 
+ 
+regelingen) alsmede kindregelingen zijn in de cijfers verwerkt; zorgtoeslag, 
+gemeentelijke regelingen en voorzieningen in natura niet. De vergelijkbaarheid 
+tussen landen wordt beperkt door complexe verschillen in het 
+socialezekerheidsstelsel, die niet goed in een cijfer zijn uit te drukken. De cijfers 
+hebben betrekking op het meest recente beschikbare jaar, 2013. 
+ 
+Tabel: bijstandniveau als percentage van het mediane netto besteedbare 
+huishoudinkomen  
+        
+Alleenstaande  Paar  Alleenstaande ouder, 2 kinderen  Paar, 2 kinderen 
+Japan 67  Ierland 69  Japan 77  Japan 70 
+Nederland 65  Japan 67  Verenigd Koninkrijk 62  Ierland 63 
+Ierland 64  Denemarken 62  Denemarken 59  Denemarken 62 
+Denemarken 61  IJsland 60  Ierland 56  Verenigd Koninkrijk 60 
+Verenigd Koninkrijk 59  Nederland 59  Nederland 53  IJsland 53 
+Zwitserland 55  Verenigd Koninkrijk 50  Duitsland 53  Duitsland 53 
+Ijsland 55  Finland 50  Israel 49  Nederland 49 
+Finland 52  Duitsland 48  Oostenrijk 48  Oostenrijk 49 
+Zweden 52  Luxemburg 47  Finland 48  Finland 48 
+Malta 48  Zwitserland 47  IJsland 48  Luxemburg 47 
+Tsjechië 46  Zweden 45  België 47  Australië 44 
+Duitsland 46  Tsjechië 42  Australië 46  Polen 43 
+Luxemburg 45  Noorwegen 42  Luxemburg 43  Letland 42 
+Oostenrijk 43  Nieuw Zeeland 42  Nieuw Zeeland 43  Litouwen 42 
+België 40  Australië 40  Zwitserland 43  Noorwegen 42 
+Noorwegen 40  Oostenrijk 40  Litouwen 41  Zweden 41 
+Frankrijk 39  België 38  Noorwegen 41  Tsjechië 40 
+Nieuw Zeeland 38  OECD mediaan 38  Zweden 41  Zwitserland 40 
+OECD mediaan 38  Malta 38  OECD mediaan 41  Nieuw Zeeland 40 
+Australië 35  Frankrijk 37  Letland 41  OECD mediaan 40 
+Spanje 32  Israel 36  Slovenië 40  Slovenië 39 
+EU mediaan 32  Letland 34  Korea 40  EU mediaan 39 
+Estland 31  EU mediaan 34  Malta 39  België 38 
+Letland 31  Korea 31  EU mediaan 39  Korea 38 
+Slovenië 28  Litouwen 30  Canada 38  Israel 37 
+Israel 27  Polen 30  Tsjechie 38  Frankrijk 36 
+Korea 26  Spanje 30  Frankrijk 37  Malta 36 
+Polen 26  Slovenië 29  Polen 37  Canada 36 
+ Pagina 16 van 103
