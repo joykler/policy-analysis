@@ -41,5 +41,4 @@ alleen bepaalde gedeelten van ACTPOL voor de douane ter beschikking staan en toe
 26
  CITES: Convention on International Trade in Endangered Species of Wild Fauna and Flora. Doel van het 
 CITES-verdrag is voorkomen dat een soort in het wild uitsterft of sterk in aantal daalt door internationale 
-handel. Voor sommige beschermde soorten is de handel verboden. 
-24
+handel. Voor sommige beschermde soorten is de handel verboden.

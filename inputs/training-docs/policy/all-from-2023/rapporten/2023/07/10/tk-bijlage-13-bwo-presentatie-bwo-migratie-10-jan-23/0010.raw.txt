@@ -22,4 +22,3 @@ Beslissingen
 Inwilligingen
 Het aantal beslissingen in een jaar kan hoger zijn dan het aantal aanvragen, omdat 
 ook aanvragen uit een voorgaand jaar behandeld kunnen worden.
-10

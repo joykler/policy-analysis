@@ -39,10 +39,4 @@ afstand staat waardoor de communicatie soms wat moeizaam verloopt.
 25
  Contaminatie (in de context van forensisch (DNA-)onderzoek) is de ongewenste overdracht van biologisch 
 materiaal (celmateriaal/DNA van een persoon of spoor) op/in een (ander) spoor of sporendrager (stuk van 
-overtuiging). 
- 
- 
- 
- 
- 
-23
+overtuiging).

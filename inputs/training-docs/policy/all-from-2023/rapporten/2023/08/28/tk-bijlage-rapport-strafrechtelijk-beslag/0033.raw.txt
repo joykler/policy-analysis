@@ -44,5 +44,4 @@ proces.
 35
  Het ketenproces waarin ten aanzien van een specifiek goed (of specifieke groep goederen) diverse 
 volgtijdelijke handelingen moeten plaatsvinden, die in verschillende stadia binnen het proces moeten worden 
-verricht door afzonderlijke partijen (de ketenpartners). 
-33
+verricht door afzonderlijke partijen (de ketenpartners).

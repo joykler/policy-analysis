@@ -45,5 +45,4 @@ Eenheid) heeft een eigen beslaghuis. Doel van deze beslaghuizen is dat er zo sne
 wordt genomen over het gelegde beslag en dat deze beslissing zonder verdere vertraging wordt uitgevoerd. 
 Binnen het beslaghuis wordt een gezamenlijk “beslagportaal” gebruikt. Dit is een beslag-administratiesysteem 
 waarbinnen zowel het Openbaar Ministerie als de politie een eigen administratie hebben, maar waarbij het 
-mogelijk is om elkaars systemen te raadplegen. 
-20
+mogelijk is om elkaars systemen te raadplegen.

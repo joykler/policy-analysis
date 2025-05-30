@@ -13,6 +13,4 @@ KMar   Koninklijke Marechaussee
 KPCN   Korps Politie Caribisch Nederland 
 KVI  Kennisgeving van inbeslagneming 
 OM   Openbaar Ministerie  
-Sv  Strafvordering 
-  
-5
+Sv  Strafvordering

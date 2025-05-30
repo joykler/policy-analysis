@@ -46,5 +46,4 @@ aansluiten draagt niet bij aan een vlotte communicatie.
 29
  Zie eerder: Toelichting gebruikte begrippen (begripsbepaling) paragraaf 1.4.1. 
 30
- PRIEM is een Parket Registratie en Informatie Management Systeem. 
-26
+ PRIEM is een Parket Registratie en Informatie Management Systeem.

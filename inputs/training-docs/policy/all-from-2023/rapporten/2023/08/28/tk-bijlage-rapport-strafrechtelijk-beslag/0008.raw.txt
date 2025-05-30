@@ -51,5 +51,4 @@ vernietigen verdovende middelen
 5
  De tabel biedt een compact beeld. Rood betekent dat de aanbeveling niet is opgevolgd, groen betekent dat 
 de aanbeveling is opgevolgd. Voor het precieze en volledige beeld verwijst de Raad naar de tekst van 
-hoofdstuk 3 van dit rapport. 
-8
+hoofdstuk 3 van dit rapport.

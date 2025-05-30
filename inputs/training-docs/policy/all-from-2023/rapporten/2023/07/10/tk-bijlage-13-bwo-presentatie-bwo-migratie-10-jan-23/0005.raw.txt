@@ -34,4 +34,3 @@ Iraans 52 0,3 11 24,1
 Somalisch 41 0,2 2 39,9
 Eritrees 25 0,1 13 16,1
 Syrisch 126 0,7 53 14,2
-5
