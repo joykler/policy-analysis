@@ -1,0 +1,42 @@
+tussenpersoon aanwezige gelden en effecten). De voorgestelde regeling brengt 
+hier deels verandering in, namelijk voor wat betreft het onderpand dat de 
+tussenpersoon heeft gebruikt voor het stellen van zekerheid bij centrale 
+tegenpartijen in verband met het aangaan van corresponderende posities. De 
+vorderingen tot teruglevering van onderpand in verband met corresponderende 
+posities maken immers deel uit van het derivatenvermogen; zie (de toelichting 
+op) de definitie van derivatenvermogen. Weer anders is de situatie onder 4. In dat 
+geval voldoet de onderpandgever aan zijn onderpandsverplichting door een 
+bepaalde hoeveelheid geld in de vorm van giraal tegoed aan te houden op een 
+rekening bij de tussenpersoon. In het geval dat de tussenpersoon een bank is, 
+staat deze rekening doorgaans op naam van de onderpandgever, maar is het 
+saldo tot het bedrag ter hoogte van de onderpandsverplichting geblokkeerd. De 
+rekeninghouder/onderpandgever kan dat deel van het tegoed dus niet wegboeken 
+naar een andere bank. Niet alleen over het geblokkeerde deel, maar over het 
+volledige saldo op deze rekening loopt de cliënt tegenpartijrisico ten aanzien van 
+zijn tussenpersoon, behalve voor zover de cliënt aanspraak kan maken op een 
+uitkering uit hoofde van het depositogarantiestelsel. Ook als het girale tegoed dat 
+bij wijze van zekerheid wordt verstrekt niet op een op naam van de cliënt gestelde 
+rekening wordt aangehouden, loopt de cliënt uiteraard het risico dat de 
+tussenpersoon failleert en de cliënt het girale tegoed niet of slechts gedeeltelijk 
+terugkrijgt. 
+ 
+Bij overdracht van (een deel van) het derivatenvermogen aan een andere 
+tussenpersoon, gaan de vorderingen die de faillerende tussenpersoon heeft op de 
+centrale tegenpartij(en) over naar de verkrijgende tussenpersoon. Dit geldt ook 
+voor de vorderingen tot het terugleveren van de bij de centrale tegenpartij(en) 
+gestelde zekerheden. Dit deel van het onderpand blijft aldus beschikbaar om 
+uiteindelijk terug te worden geleverd aan de cliënten bij de betreffende 
+derivatenposities. Echter, het onderpand dat de tussenpersoon aan de centrale 
+tegenpartij heeft verstrekt is, in geval van omnibussegregatie, in de regel minder 
+dan hetgeen deze cliënten aan zekerheid hebben gesteld ten behoeve van de 
+tussenpersoon. Een voorbeeld moge dit verduidelijken. Stel dat de cliënten van 
+tussenpersoon A gezamenlijk ter waarde van € 1 miljoen zekerheid hebben 
+gesteld op de wijze genoemd onder 2b, 3 en 4. Tussenpersoon A kan zijn 
+onderpandverplichtingen salderen en hoeft daardoor slechts € 800.000 aan 
+zekerheid te stellen bij zijn centrale tegenpartij. 
+ 
+Situatie vlak voor het faillissement van tussenpersoon A: 
+ 
+ 
+ 
+46

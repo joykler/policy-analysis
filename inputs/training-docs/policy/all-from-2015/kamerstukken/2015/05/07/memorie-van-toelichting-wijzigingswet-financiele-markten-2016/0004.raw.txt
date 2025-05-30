@@ -1,0 +1,54 @@
+betrekking heeft op effecten, de naam is inmiddels dermate bekend dat wijziging 
+ervan niet opportuun wordt geacht. Ook opname in een andere wet lijkt niet 
+gepast. Het Burgerlijk Wetboek en de Wet op het financieel toezicht zouden 
+overwogen kunnen worden, maar het Burgerlijk Wetboek is te algemeen van aard 
+om deze materie te behandelen en de Wft is naar zijn aard gericht op het toezicht 
+op de financiële sector en bevat nauwelijks vermogensrechtelijke aspecten. Ook 
+de Faillissementswet komt niet in aanmerking, omdat de regeling al effect dient te 
+sorteren voordat een instelling failliet wordt verklaard, in het bijzonder met 
+betrekking tot de eisen die worden gesteld aan het voeren van een adequate 
+administratie. 
+ 
+b. afscheiding derivatenvermogen voor cliëntposities 
+ 
+Met het thans voorliggende wetsvoorstel worden alle derivatenposities die een 
+bank, beleggingsonderneming of clearinginstelling ten behoeve van haar cliënten 
+aangaat met een derde, afgescheiden van het vermogen van de betreffende 
+instelling. Het betreft een andere vorm van vermogensscheiding zoals die nu al in 
+de Wge wordt geregeld. De huidige constructie van de Wge is gebaseerd op 
+collectieve mede-eigendom: het girodepot en het verzameldepot vormen een 
+bijzonder soort deelgenootschap, waarbij de cliënten ieder voor zich aanspraak 
+kunnen maken op hun deel van de door de intermediair gehouden effecten. Het 
+derivatenvermogen vormt een separaat vermogensbestanddeel dat echter nog 
+steeds onderdeel is van het totale vermogen van de tussenpersoon. Het verschil 
+zit hem er daarmee in dat de cliënten niet op dezelfde wijze als bij effecten 
+aanspraak kunnen maken op hun aandeel in het verzameldepot – dat bestaat uit 
+(fracties van) effecten – maar dat de rechten die onderdeel uitmaken van het 
+derivatenvermogen uitsluitend dienen ter voldoening van hun te onderscheiden 
+vorderingen op de tussenpersoon. In het derivatenvermogen vallen daartoe alle 
+rechten en verplichtingen uit hoofde van derivatenposities die de betreffende 
+instelling als tussenpersoon aangaat met een derde ten behoeve van het aangaan 
+van derivatenposities door haar cliënten (in de regeling een ‘corresponderende 
+positie’ geheten). Het betreft dus zowel de rechten en verplichtingen uit de positie 
+zelf – dus die de kern van het derivaat uitmaken – als de rechten en 
+verplichtingen met betrekking tot het uitwisselen van onderpand die worden 
+gereserveerd voor het voldoen van vorderingen uit hoofde van de daarmee 
+samenhangende derivatenposities van cliënten (in de regeling ‘cliëntpositie’ 
+geheten). Met betrekking tot vorderingen van cliënten tot teruggave van het door 
+hen gestorte onderpand moet worden aangetekend dat de regeling geen volledige 
+bescherming biedt. De cliënten storten in de regel gezamenlijk namelijk meer 
+onderpand dan dat de tussenpersoon uit hoofde van de corresponderende posities 
+moet storten. Dit is onder meer het gevolg van het feit dat een tussenpersoon, bij 
+wijze van extra zekerheid, meer onderpand van zijn cliënten kan vragen dan dat 
+hij voor de daarmee corresponderende posities hoeft te storten bij bijvoorbeeld 
+een centrale tegenpartij. Over dat meerdere blijven de cliënten een 
+tegenpartijrisico lopen op hun tussenpersoon met betrekking tot de teruggave van 
+de gestelde zekerheden. Voor het geval dat de tussenpersoon failliet wordt 
+verklaard voorziet het wetsvoorstel in een verliesdelingsregeling: indien de 
+vorderingen tot teruggave van onderpand uit hoofde van de corresponderende 
+posities niet voldoende zijn om alle vorderingen van de betreffende cliënten te 
+voldoen, wordt het terug te geven onderpand verdeeld over die cliënten naar rato 
+van de waarde van de door hen gestelde zekerheden. Voor het restant hebben de 
+cliënten een vordering op de failliete boedel die zij bij de curator kunnen indienen. 
+Zie voor een nadere uiteenzetting van de werking van deze regeling de toelichting 
+4

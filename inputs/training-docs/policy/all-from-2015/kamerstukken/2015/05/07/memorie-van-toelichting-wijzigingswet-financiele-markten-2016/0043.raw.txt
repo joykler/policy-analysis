@@ -1,0 +1,53 @@
+Het zesde lid bepaalt dat er onder een centrale tegenpartij of tussenpersoon geen 
+beslag kan worden gelegd op derivatenposities die ten behoeve van een 
+derivatenbezitter door tussenpersoon worden aangehouden, maar waarbij de 
+derivatenbezitter zelf niet direct partij is. Indien een crediteur van een 
+derivatenbezitter beslag wil leggen op cliëntenposities, kan dat gebeuren onder 
+diens ‘eigen’ tussenpersoon, dus op het niveau van de laagstgelegen 
+tussenpersoon in de keten van het derivaat, maar niet in de rest van de keten. Dit 
+is van belang voor zowel de goede werking van deze regeling als voor de 
+kenbaarheid van het beslag voor de derivatenbezitter. Crediteuren van de 
+tussenpersoon kunnen sowieso geen beslag leggen op vermogensbestanddelen die 
+onderdeel uitmaken van een derivatenvermogen, omdat het derivatenvermogen 
+uitsluitend dient ter voldoening van vorderingen die voortvloeien uit de daarmee 
+samenhangende cliëntposities (zie de toelichting op het eerste lid van dit artikel). 
+ 
+Omdat de vergunning van een tussenpersoon in de regel zal worden ingetrokken 
+in geval van faillissement van de betreffende instelling, bepaalt het zevende lid 
+dat het derivatenvermogen in stand blijft voor de corresponderende posities 
+waarvan de rechten en verplichtingen al tot het derivatenvermogen behoorden. 
+Deze bepaling, analoog aan artikel 7 van de Wet giraal effectenverkeer, voorkomt 
+dat de werking van de regeling teniet zou worden gedaan juist op het moment dat 
+het nodig is: bij faillissement van de tussenpersoon. Hetzelfde geldt als de 
+tussenpersoon niet op basis van een vergunning maar op basis van een andere in 
+de Wft genoemde grondslag bevoegd is zijn beroep of bedrijf uit te oefenen in 
+Nederland. 
+ 
+Artikel 49h 
+Dit artikel bepaalt wat er dient te gebeuren nadat een tussenpersoon failliet is 
+verklaard. Juist in die situatie zal de regeling haar nut dienen te bewijzen. Omdat 
+het beheer van het derivatenvermogen de nodige kennis van derivaten vereist, 
+dient de curator een deskundige aan te wijzen die met het dagelijks beheer zal 
+worden belast. Om te waarborgen dat de beoogd beheerder inderdaad over de 
+benodigde kwalificaties beschikt, dient de Autoriteit Financiële Markten (als 
+toezichthouder op de naleving door beleggingsondernemingen) dan wel de 
+Nederlandsche Bank (idem voor banken en clearinginstellingen) in te stemmen 
+met de benoeming. Onder het beheer van het derivatenvermogen moeten alle 
+activiteiten worden begrepen die gewoonlijk zijn verbonden aan het beheer van de 
+derivatenportefeuille van de tussenpersoon, zoals het bijhouden van de 
+administratie in lijn met artikel 49g, het opvragen en retourneren van onderpand, 
+het stellen van zekerheid ten behoeve van de derivatenposities en het op verzoek 
+van de tegenpartij voortijdig beëindigen van derivatenposities. Daarnaast vallen 
+eventuele activiteiten van de beheerder ter voorbereiding van de overdracht van 
+(delen van) het derivatenvermogen aan een andere tussenpersoon onder het 
+beheer. Steeds valt het beheer van het derivatenvermogen onder de 
+eindverantwoordelijkheid van de curator en dient de curator daarover op verzoek 
+van de rechter-commissaris verantwoording af te leggen. In beginsel is de curator 
+als enige bevoegd om rechtshandelingen te verrichten met betrekking tot het 
+derivatenvermogen en de daarmee samenhangende cliëntposities, maar uiteraard 
+kan hij de beheerder volmacht verlenen om rechtshandelingen te verrichten. 
+Aangezien het derivatenvermogen zelf uitsluitend dient ter voldoening van de 
+vorderingen van cliënten, komen de kosten van het beheer en de overdracht van 
+de portefeuille ten laste van de boedel. Daar staat tegenover dat de vergoeding 
+die cliënten voor het beheer van hun derivatenposities betalen aan de gefailleerde 
+43

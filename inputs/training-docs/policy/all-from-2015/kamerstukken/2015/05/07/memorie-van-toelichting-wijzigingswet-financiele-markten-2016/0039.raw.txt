@@ -1,0 +1,57 @@
+iedere positie die een bank of beleggingsonderneming sluit met een derde naar 
+aanleiding van het tot stand komen van een cliëntpositie moet worden 
+aangemerkt als corresponderende positie: als een cliënt een positie bij een bank 
+aangaat, kan die bank dat voor eigen rekening en risico doen. De cliënt gaat er 
+dan ook van uit dat zijn bank optreedt als uiteindelijke tegenpartij. Evenwel kan 
+de bank ervoor kiezen om het risico van die positie één op één af te dekken in de 
+markt met een spiegelbeeldige transactie (het zogenaamde riskless principal 
+model). Deze laatste positie is dan niet aan te merken als corresponderende 
+positie, omdat de bank jegens zijn cliënt niet als tussenpersoon, maar als 
+wederpartij optreedt. In die situatie geniet de cliënt geen bescherming op grond 
+20
+van deze regeling. Om ervoor te zorgen dat de cliënt weet of hij al dan niet 
+wordt beschermd door deze regeling, zal een (bank-)beleggingsonderneming op 
+voet van artikel 4:20 Wft verplicht worden om op voorhand duidelijkheid te 
+verschaffen aan haar cliënten over of zij al dan niet als tussenpersoon optreedt en 
+wat daarvan de goederenrechtelijke consequenties zijn. 
+ 
+Een karakteristiek aspect van de regeling is dat het aangaan van derivatenposities 
+door een bank, beleggingsonderneming of clearinginstelling die optreedt in de 
+hoedanigheid tussenpersoon resulteert in een afgescheiden vermogen. Aangezien 
+dit vermogen uitsluitend bestemd is voor het voldoen van de daarmee 
+samenhangende vorderingen van cliënten bij de betreffende derivatenposities, 
+hebben derden er geen verhaal op. Omdat veel derivaten niet alleen rechten, 
+maar ook verplichtingen inhouden voor de partijen bij het derivaat, behoren niet 
+alleen de rechten van de corresponderende posities tot het derivatenvermogen, 
+maar ook de daaraan verbonden verplichtingen. Dit is van belang voor het 
+verrekenen van openstaande vorderingen bij de beëindiging van een of meer 
+derivatenposities en voor de overdracht van de derivatenportefeuille in geval van 
+faillissement van de tussenpersoon. 
+Er is voor gekozen om ook de rechten en verplichtingen in verband met het stellen 
+van zekerheid uit hoofde van corresponderende posities tot het 
+derivatenvermogen te laten behoren. De reden hiervoor is dat het uitwisselen van 
+onderpand nauw verbonden is met het aangaan van een derivatenpositie. 
+Bovendien moet, in geval van faillissement van een tussenpersoon, bij de 
+overdracht van diens derivatenportefeuille aan een andere tussenpersoon ook het 
+bijbehorende onderpand (kunnen) worden overgedragen. Rechten en 
+verplichtingen die niet tot het derivatenvermogen behoren vloeien bijvoorbeeld 
+voort uit afspraken met betrekking tot vergoedingen voor het aangaan en beheren 
+van de derivatenposities. 
+ 
+Uit de definitie van tussenpersoon volgt dat een bank, beleggingsonderneming of 
+clearinginstelling slechts als tussenpersoon wordt aangemerkt als zij “voor 
+rekening en risico van haar cliënten corresponderende posities aangaat” met 
+derden. Dit heeft tot gevolg dat een bank, beleggingsonderneming of 
+clearinginstelling slechts als tussenpersoon optreedt indien zij bij het aangaan van 
+een derivatenpositie door een cliënt tevens een corresponderende positie aangaat 
+(met een andere tussenpersoon of een centrale tegenpartij). Indien geen 
+corresponderende positie wordt aangegaan, handelt zij tevens voor eigen rekening 
+en risico, en treedt zij dus niet op als tussenpersoon. Het gevolg is dat de rechten 
+en verplichtingen van cliëntposities waarvoor geen corresponderende positie wordt 
+aangegaan geen bescherming ontlenen aan deze regeling. Overigens is het 
+mogelijk dat een bank of beleggingsonderneming bij dezelfde derivatentransactie 
+                                                 
+20
+ Veelal zal de cliënt het tegenpartijrisico op zijn bank afdekken door middel van het uitwisselen van 
+onderpand. EMIR stelt dit zelfs verplicht voor niet-geclearde OTC-derivaten. 
+39

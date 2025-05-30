@@ -1,0 +1,60 @@
+tussenpersoon ten gunste van de boedel komen, zodat deze de gemaakte kosten 
+(in ieder geval deels) kunnen compenseren. 
+ 
+Aangezien een van de voornaamste doelen van deze regeling is ervoor te zorgen 
+dat de derivatenportefeuille van een tussenpersoon zo snel mogelijk kan worden 
+overgedragen aan een andere tussenpersoon – dit in lijn met de relevante 
+23
+voorschriften in de European Market Infrastructure Regulation (EMIR) – dient de 
+curator zijn medewerking te verlenen aan een dergelijke overdracht. Aangezien 
+artikel 48 van EMIR bepaalt dat de overdracht zonder toestemming van de in 
+gebreke blijvende tussenpersoon kan geschieden, is de curator niet bevoegd een 
+dergelijke overdacht tegen te houden. Zijn toestemming is dan ook niet vereist 
+voor het slagen van de overdracht; wel dient hij de overdracht waar nodig of 
+wenselijk (administratief) te faciliteren. Artikel 48 EMIR heeft uitsluitend 
+betrekking op de derivatenposities tussen een tussenpersoon en een centrale 
+tegenpartij (in deze regeling de corresponderende posities geheten). Om ervoor te 
+zorgen dat niet alleen de corresponderende posities, maar ook de daarmee 
+samenhangende cliëntposities worden overgedragen, bepaalt het tweede lid dat 
+ook deze laatste, tezamen met het derivatenvermogen, onderwerp van de 
+overdracht zijn, alsmede de vorderingen van cliënten met betrekking tot (hun 
+aandeel van) het te retourneren onderpand. Het zal voor de curator in beginsel 
+niet mogelijk zijn om een overdracht ex artikel 48 EMIR via een actio pauliana 
+ongedaan te maken, omdat door de overdracht andere schuldeisers van de 
+tussenpersoon niet kunnen worden benadeeld. Dit is gevolg van het feit dat het 
+derivatenvermogen slechts dient ter voldoening van de vorderingen uit hoofde van 
+hun posities, en niet strekt tot voldoening van vorderingen van de overige 
+schuldeisers. 
+ 
+Voor cliënten die met hun tussenpersoon hebben afgesproken dat hun 
+derivatenposities en de gestelde zekerheden – in lijn met artikel 39 lid 3 EMIR – 
+separaat worden geadministreerd bij de centrale tegenpartij, zal de overdracht 
+relatief eenvoudig op individuele basis plaats kunnen vinden. Dit is niet te 
+verwachten voor cliënten die hebben gekozen voor zogenaamde 
+omnibussegregatie, zoals bedoeld in artikel 39 lid 2 EMIR: hun posities worden bij 
+24
+de centrale tegenpartij niet separaat per cliënt geadministreerd. Om die reden 
+schrijft artikel 48 lid 5 EMIR voor dat de centrale tegenpartij de overdracht van de 
+betreffende posities naar een andere tussenpersoon initieert op verzoek van alle 
+cliënten tezamen. Voor de – niet denkbeeldige – situatie dat de cliënten het niet 
+eens zijn of zich niet uitlaten over de keuze voor de tussenpersoon aan wie de 
+posities dienen te worden overgedragen, voorziet het derde lid in de bevoegdheid 
+van de curator om zelf een andere tussenpersoon te vinden die bereid is de 
+posities van de betreffende cliënten en de daarmee corresponderende posities 
+over te nemen. Wel behouden de cliënten, voor zover contractueel 
+overeengekomen, de mogelijkheid om hun derivatenposities voortijdig te 
+beëindigen in verband met het faillissement van de tussenpersoon. Dit staat 
+immers niet in de weg aan de overdracht van de rest van de portefeuille.  
+ 
+                                                 
+23
+ Verordening (EU) nr. 648/2012 (EMIR): verordening (EU) nr. 648/2012 van het Europees Parlement en 
+de Raad van 4 juli 2012 inzake otc-derivaten, centrale tegenpartijen en transactieregisters (PbEU 2012, L 
+201). 
+24
+ Ombinussegragatie houdt in dat de derivatenposities van de cliënten van een tussenpersoon op een 
+gezamenlijke rekening bij de centrale tegenpartij worden aangehouden. Uit deze rekening is derhalve niet 
+op te maken wat de te onderscheiden posities van de individuele cliënten zijn. Ook het onderpand dat de 
+tussenpersoon voor deze posities bij de centrale tegenpartij heeft gestort is niet één op één herleidbaar 
+tot de individuele cliënten wier derivatenposities op de omnibusrekening worden geadministreerd. 
+44

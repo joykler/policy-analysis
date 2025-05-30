@@ -1,0 +1,38 @@
+zowel als tussenpersoon optreedt als in de hoedanigheid van uiteindelijke 
+tegenpartij. Ten behoeve van de centrale clearing van de positie met de cliënt 
+wordt dan een corresponderende positie ingenomen met een derde (doorgaans 
+een centrale tegenpartij); de rechten en verplichtingen die voortvloeien uit deze 
+positie – die bij de centrale tegenpartij op de zogenaamde client account van de 
+betreffende tussenpersoon worden geadministreerd – vallen dan in het 
+derivatenvermogen. Vervolgens gaat de bank of beleggingsonderneming nog een 
+positie aan met de centrale tegenpartij, maar dan voor eigen rekening en risico. 
+De rechten en verplichtingen inzake deze tweede positie – die bij de centrale 
+tegenpartij op de zogenaamde house account van de tussenpersoon worden 
+geadministreerd – vallen dan niet in het derivatenvermogen, aangezien de 
+betreffende positie niet als corresponderende positie kan worden aangemerkt.  
+ 
+Schematisch ziet dit er als volgt uit: 
+ 
+ 
+ 
+Overigens sorteert de regeling – als gevolg van de formulering van de definitie 
+van tussenpersoon – ook effect bij derivaten die niet worden gecleard via een 
+centrale tegenpartij. De keten van een derivaat zou er in een dergelijke situatie 
+als volgt uit zien: 
+ 
+ 
+ 
+Ook in deze situatie valt de (corresponderende) positie die de tussenpersoon is 
+aangegaan met cliënt B ten behoeve van cliënt A in het derivatenvermogen van de 
+tussenpersoon, en geniet cliënt A bescherming op grond van deze regeling tegen 
+de insolventie van zijn tussenpersoon. Hetzelfde geldt uiteraard voor cliënt B. 
+Overigens is het ook in dit model mogelijk dat zich meerdere tussenpersonen 
+bevinden tussen de cliënt A en B, zolang maar geldt dat de kernbedingen van de 
+positie van A overeenkomen met die van de positie die B is aangegaan. Verder 
+dient te worden opgemerkt dat met de uitdrukking ‘waaraan het op grond van die 
+wet is toegestaan beleggingsdiensten te verlenen’ wordt bedoeld dat die 
+toestemming kan zijn gelegen in een vergunning van DNB of de AFM, maar ook in 
+het feit dat de betreffende tussenpersoon bijvoorbeeld over een ontheffing 
+beschikt of over een vergunning van een toezichthouder van een andere EU-
+lidstaat. 
+40

@@ -1,0 +1,55 @@
+Indien een cliënt van een tussenpersoon – in lijn met artikel 39 lid 3 EMIR – heeft 
+bedongen dat zijn derivatenposities en onderpand separaat worden 
+geadministreerd bij de centrale tegenpartij, is de tussenpersoon gehouden al het 
+onderpand dat de cliënt heeft verstrekt door te geleiden naar de centrale 
+tegenpartij. Bij faillissement van de tussenpersoon zal de cliënt in dat geval met 
+betrekking tot de betreffende derivatenposities geen verlies lijden, omdat zijn 
+posities én onderpand in hun geheel kunnen worden overgedragen aan een 
+andere tussenpersoon; zie ook het tweede en het vijfde lid van het voorgestelde 
+artikel 49h. Wanneer een cliënt niet kiest voor separate administratie van zijn 
+posities bij de centrale tegenpartij, zullen zijn posities tezamen met die van 
+andere cliënten worden geadministreerd. Deze wijze van administreren staat toe 
+dat de tussenpersoon slechts voor de nettowaarde van zijn verplichting jegens de 
+centrale tegenpartij zekerheid hoeft te stellen. Dit zal in de regel minder zijn dan 
+de zekerheid die de cliënten van de tussenpersoon gezamenlijk hebben gesteld. 
+Afhankelijk van de wijze waarop de cliënten zekerheid hebben gesteld, lopen zij 
+wel of geen tegenpartijrisico op hun tussenpersoon met betrekking tot het 
+terugkrijgen van het verstrekte onderpand:  
+ 
+*
+Wijze van zekerheidsstelling Huidige goederenrechtelijke 
+bescherming 
+1. Verpanding van effecten zonder recht Hoofdstuk 2 Wet giraal effectenverkeer 
+van hergebruik (voor consumenten artikel 
+3:227 BW; voor anderen, indien van 
+toepassing, artikel 7:51 sub c BW) 
+2. Verpanding van effecten met recht op a. Als de effecten nog op de 
+hergebruik (artikel 7:53 lid 1 BW – alleen effectenrekening van de cliënt staan: 
+voor andere partijen dan consumenten) hoofdstuk 2 Wet giraal effectenverkeer 
+b. Als de tussenpersoon gebruik heeft 
+gemaakt van zijn recht op hergebruik: 
+voorrecht ex artikel 7:53 lid 3 BW 
+3. Overdracht van effecten (artikel 7:51 sub Geen 
+b BW) 
+4. Geld in de vorm van giraal tegoed Geen 
+* Het is mogelijk dat verplichtingen uit bepaalde derivatenposities van cliënten worden 
+gezekerd door rechten uit andere derivatenposities. Deze vorm van onderpandverstrekking 
+behoeft geen aanvullende bescherming, omdat de posities die tot zekerheid strekken op 
+naam van de cliënt blijven staan en dus niet hoeven te worden geretourneerd aan de cliënt, 
+zoals dat wel het geval is met terug te leveren effecten. Andere vormen van onderpand 
+(bijvoorbeeld goud en emissierechten) komen in de praktijk weinig voor en zijn daarom uit 
+dit voorbeeld weggelaten. Deze andere vormen vallen echter evengoed onder de 
+beschermingsregeling. 
+ 
+Voor de situaties onder 1 en 2a bevat de voorgestelde regeling geen verdere 
+bepalingen, omdat de bescherming op grond van hoofdstuk 2 van de Wet giraal 
+effectenverkeer voldoende moet worden geacht: indien de tussenpersoon failliet 
+gaat, behoudt de pandgever de beschikking over zijn effecten (voor zover er voor 
+de tussenpersoon geen aanleiding is om zich te verhalen op de verpande 
+effecten). Voor zover de effecten zich bij de betreffende tussenpersoon bevinden, 
+geniet de pandgever de goederenrechtelijke bescherming van het verzameldepot. 
+Anders is de situatie onder 2b en 3: de onderpandgever heeft slechts een 
+vordering op de tussenpersoon tot teruglevering van de door hem verstrekte 
+effecten. Onder het huidige wettelijke regime is dit een concurrente vordering 
+(waarbij in geval 2b. de onderpandgever wel een voorrecht heeft op de bij de 
+45

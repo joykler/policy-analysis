@@ -1,0 +1,57 @@
+bank: de vorderingen die zij op hun bank hadden uit hoofde van hun 
+derivatenposities vielen in de faillissementsboedel. Zij konden slechts als 
+concurrente crediteur een vordering indienen bij de curator, terwijl 
+effectenbezitters onverminderd hun aanspraken te gelde konden maken, omdat 
+hun effecten op grond van de Wge deel uitmaakten van de door Van der Hoop 
+beheerde verzameldepot, en dus buiten de boedel vielen. Om in die situatie 
+verandering te brengen, werd in 2009 gewerkt aan een wetsvoorstel waarmee bij 
+faillissement de overdracht van derivatenposities aan een andere bank of 
+beleggingsonderneming mogelijk gemaakt moest worden. Het 
+conceptwetsvoorstel werd echter kritisch ontvangen door marktpartijen en 
+rechtswetenschappers, waarna werd besloten om het niet in te dienen bij de 
+Tweede Kamer. 
+ 
+Mede op verzoek van de AFM en DNB, maar ook op basis van geluiden uit de 
+markt, is in 2012 besloten om opnieuw te trachten tot een regeling te komen om 
+derivatenbezitters te beschermen tegen het faillissement van hun bank, 
+beleggingsonderneming of clearinginstelling. In hetzelfde jaar kwam de European 
+2
+Market Infrastructure Regulation (EMIR) tot stand. EMIR schrijft onder meer voor 
+dat centrale tegenpartijen ervoor dienen te zorgen dat, wanneer een bij haar 
+aangesloten instelling (ook wel clearing member genoemd) in gebreke blijft, zij 
+bevoegd is om de derivatenposities van het betreffende clearing member over te 
+dragen aan een ander clearing member. Indien het in gebreke blijven het gevolg 
+is van een faillissement, is op grond van het huidige Nederlandse insolventierecht, 
+een dergelijke overdracht echter niet zonder meer mogelijk, althans niet zonder 
+medewerking van de curator. Het gevolg is dat sommige centrale tegenpartijen 
+terughoudend zijn met het aangaan van een relatie met Nederlandse clearing 
+members, omdat zij vrezen niet aan de eisen van EMIR te kunnen voldoen. 
+Bovendien ziet de verplichting van een centrale tegenpartij om ervoor te zorgen 
+dat derivatenposities kunnen worden overgedragen aan een ander clearing 
+member niet op de relatie tussen de clearing member en zijn cliënten. EMIR biedt 
+daarom onvoldoende instrumenten om cliënten te beschermen tegen het 
+faillissement van hun tussenpersoon, zodat een aanvullende regeling gewenst is. 
+Nu de voorgestelde regeling slechts ter aanvulling op Europees recht is, en zij 
+geen beperking voor het vrije verkeer van kapitaal of dienstverlening met zich 
+meebrengt, doet zich geen strijd met hoger recht voor. 
+ 
+Gelet op bovenstaande is het doel van de voorgestelde regeling om enerzijds de 
+derivatenposities die ten behoeve van cliënten worden aangegaan buiten het 
+faillissement van hun bank, beleggingsonderneming of clearinginstelling te houden 
+– en de cliënten zodoende te beschermen tegen faillissement – en anderzijds om 
+ervoor te zorgen dat de derivatenposities die voor een cliënt worden gehouden, en 
+het daarbij behorende onderpand, zonder al te veel complicaties kunnen worden 
+overgedragen aan een andere tussenpersoon. Het belangrijkste instrument 
+daartoe is het afscheiden van een deel van het vermogen van de betreffende 
+instelling. Daarvoor is, gezien de goederenrechtelijke aspecten, een wetswijziging 
+noodzakelijk, waarbij het meest voor de hand ligt om de kern van de regeling op 
+te nemen in de Wge, omdat er een aantal parallellen is te trekken tussen de rol 
+van een intermediair bij effecten en die van een tussenpersoon bij derivaten. Zo 
+vormen beiden slechts een tussenschakel in de keten van een effect 
+respectievelijk derivaat en treden zij beiden op voor rekening en risico van hun 
+cliënten. Weliswaar draagt de naam Wet giraal effectenverkeer in zich dat deze 
+                                                 
+2
+ Verordening (EU) Nr. 648/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende otc-
+derivaten, centrale tegenpartijen en transactieregisters. 
+3

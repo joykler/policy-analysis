@@ -1,0 +1,41 @@
+In deze keten is de derivatenbezitter aan te merken als cliënt van de indirect 
+clearing member en de indirect clearing member als cliënt van de clearing 
+member. Overigens kan een keten zelfs meer dan twee tussenpersonen bevatten. 
+Steeds geldt dan dat de lagergelegen schakel moet worden aangemerkt als cliënt 
+van de hogergelegen schakel. 
+ 
+Bij de definitie van cliëntpositie moet worden aangetekend dat in veel gevallen 
+cliënt en tussenpersoon een lastgevingsovereenkomst sluiten, op basis waarvan 
+de tussenpersoon voor rekening en risico van de cliënt een overeenkomst aangaat 
+met een derde met betrekking tot een derivatenpositie (in de regeling 
+‘corresponderende positie’ geheten; zie hierna). Daarbij komt er echter voor een 
+specifieke transactie geen separate overeenkomst tot stand tussen cliënt en 
+tussenpersoon. De cliëntpositie is in dat geval louter een economische weergave 
+van de rechten en verplichtingen van de cliënt die voortvloeien uit het 
+derivatencontract dat de tussenpersoon voor rekening en risico van de cliënt heeft 
+gesloten met een derde. 
+ 
+Met de definitie van ‘corresponderende positie’ wordt uitdrukking gegeven aan het 
+feit dat voor iedere derivatenpositie die een cliënt aangaat bij een tussenpersoon 
+(de cliëntpositie), de tussenpersoon een gelijkluidende positie aangaat met een 
+centrale tegenpartij (of bij indirect clearing: met een andere tussenpersoon), 
+waarbij de bedingen die de kern van het derivaat vormen – zoals de afspraak om 
+een vaste rente uit te ruilen tegen een variabele, een voorbeeld van een interest 
+19
+rate swap – dezelfde zijn. Veelal gebeurt het aangaan van een corresponderende 
+positie op basis van lastgeving, waarbij de tussenpersoon op eigen naam, maar 
+voor rekening en risico van zijn cliënten posities met betrekking tot derivaten 
+aangaat met derden. Door het aangaan van corresponderende posities staat 
+tegenover ieder recht dat een cliënt op de tussenpersoon kan uitoefenen een 
+equivalent recht van de tussenpersoon op een andere tussenpersoon of een 
+centrale tegenpartij. En andersom: tegenover iedere verplichting van een cliënt 
+jegens zijn tussenpersoon staat een verplichting van de tussenpersoon jegens een 
+andere tussenpersoon of een centrale tegenpartij. Daarmee is niet gezegd dat 
+                                                 
+19
+ Onder de bedingen die de kern van het derivaat vormen moet bijvoorbeeld worden gedacht aan de data 
+waarop betalingen plaatsvinden, de looptijd van het derivaat en het nominale bedrag waar het derivaat 
+betrekking op heeft, of in geval van een bijvoorbeeld een aandelenoptie: het aandeel waarop het derivaat 
+betrekking heeft. Tot de kern van de bedingen behoren echter niet de bepalingen met betrekking tot het 
+stellen van zekerheid. 
+38

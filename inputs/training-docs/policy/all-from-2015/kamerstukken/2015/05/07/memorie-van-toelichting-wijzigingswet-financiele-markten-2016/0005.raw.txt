@@ -1,0 +1,54 @@
+bij artikel 49h van de Wet giraal effectenverkeer. 
+ 
+Het aangaan van een corresponderende positie kan gebaseerd zijn op 
+verschillende rechtsfiguren. Voor beursverhandelde derivaten is het in Nederland 
+gebruikelijk dat dit gebeurt op basis van een lastgevingsverhouding, waarbij de 
+tussenpersoon (de lasthebber) op eigen naam, maar voor rekening en risico van 
+zijn cliënt (de lastgever) een overeenkomst met betrekking tot een derivaat 
+aangaat met een derde. Ook kan er sprake zijn van novatie van contracten, 
+waarbij de cliënt in eerste instantie een derivatenpositie aangaat met een 
+bepaalde tegenpartij. Vervolgens komt, ten behoeve van de clearing via een 
+centrale tegenpartij, een keten van contracten tot stand, via de tussenpersoon 
+van de cliënt naar de centrale tegenpartij, en daarvandaan naar de volgende 
+schakel in de keten van het derivatencontract, totdat men terecht komt bij de 
+aanvankelijke (en uiteindelijke) tegenpartij. Verder kan er sprake zijn van back-
+to-back-posities, waarbij de tussenpersoon eerst een derivatenpositie aangaat met 
+zijn cliënt, om vervolgens een corresponderende positie aan te gaan met een 
+derde, zodanig dat de rechten en verplichtingen die de kern van beide 
+derivatenposities uitmaken precies tegen elkaar wegvallen. Ongeacht de 
+verschillende mogelijke rechtsgrondslagen vallen de corresponderende posities 
+van de instelling in het derivatenvermogen als en zolang die corresponderende 
+positie samenhangt met en is aangegaan ten behoeve van een cliëntpositie. Welke 
+corresponderende positie hoort bij iedere door een cliënt aangegane 
+derivatenpositie moet blijken uit de administratie van de tussenpersoon. 
+ 
+Deze regeling is tevens een aanvulling op hetgeen in artikel 212e van de 
+Faillissementswet is bepaald. Op grond van dat artikel worden, indien een bank, 
+beleggingsonderneming of clearinginstelling failleert, “de rechten en de 
+verplichtingen die zij uit of in verband met deelname aan het [clearing]systeem 
+heeft, bepaald door het recht waardoor dat systeem wordt beheerst”. De 
+aanvulling is vooral gelegen in de goederenrechtelijke aspecten van deze regeling, 
+die ervoor zorgen dat de betreffende rechten en verplichtingen worden 
+afgescheiden van het vermogen van de faillerende instelling. De eventuele 
+afwikkeling of overdacht van posities zal – op grond van artikel 212e van de 
+Faillissementswet – geschieden conform het recht dat de betrokken 
+clearingsystemen beheert. De curator heeft daar rekening mee te houden.  
+ 
+Dat de regeling ook buiten faillissement werking dient te hebben, heeft te maken 
+met het korte tijdsbestek waarbinnen gehandeld moet worden op het moment dat 
+het derivatenvermogen dient te worden overgedragen aan een andere 
+tussenpersoon. In de regel stellen centrale tegenpartijen namelijk dat een 
+dergelijke overdracht binnen 48 uur dient plaats te vinden. Om dat mogelijk te 
+maken, dient op ieder moment de inhoud van het derivatenvermogen en de 
+daarmee samenhangende cliëntposities kenbaar te zijn. 
+ 
+c. gevolgen van de regeling 
+ 
+De voorgestelde regeling is tot stand gekomen in nauwe samenwerking met de 
+AFM en DNB, die tevens de beoogde toezichthouders zijn voor wat betreft de 
+naleving door beleggingsondernemingen respectievelijk banken en 
+clearinginstellingen. Bij het ontwerp van de voorliggende regeling is tevens een 
+aantal marktpartijen betrokken die in de praktijk met de regeling worden 
+geconfronteerd, zoals banken, de Amsterdamse beurs, een centrale tegenpartij en 
+een van de grootste gebruikers van derivaten. Daarnaast hebben in verschillende 
+5

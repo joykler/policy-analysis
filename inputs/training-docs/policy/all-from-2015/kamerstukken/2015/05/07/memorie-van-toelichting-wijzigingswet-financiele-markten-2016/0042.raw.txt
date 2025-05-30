@@ -1,0 +1,58 @@
+worden voldaan (omdat de corresponderende positie inmiddels is beëindigd), wat 
+de bescherming van de regeling teniet zou doen indien de tussenpersoon failliet 
+wordt verklaard tussen het moment van beëindiging van de positie en voldoening 
+van de vordering van de cliënt. Mocht de vordering die de tussenpersoon uit 
+hoofde van de corresponderende positie heeft niet voldoende zijn om de vordering 
+van de cliënt te voldoen (dat kan met name het geval zijn voor wat betreft de 
+teruggave van gestelde zekerheden), dan komt het niet-voldane gedeelte van zijn 
+vordering ten laste van het overige vermogen van de tussenpersoon. Aan deze 
+laatste vordering is geen specifiek voorrecht verbonden, omdat er geen aanleiding 
+is om de cliënt, na uitwinning van zijn aandeel in het derivatenvermogen, voor het 
+overige te bevoordelen boven andere schuldeisers. 
+ 
+Het vierde lid ziet op de situatie dat de cliëntpositie wordt beëindigd zonder dat 
+tegelijkertijd de corresponderende positie wordt beëindigd. Dit kan het geval zijn 
+wanneer een positie wordt beëindigd voor de beoogde einddatum, in de praktijk 
+beter bekend als closing out. Dit kan bijvoorbeeld voorkomen als een cliënt niet 
+aan zijn verplichtingen uit hoofde van een of meer derivatenposities voldoet. Bij 
+het beëindigen van de cliëntpositie wordt er een eindafrekening gemaakt, waarbij 
+de cliënt mogelijk nog een restvordering heeft, doorgaans met betrekking tot de 
+teruggave van onderpand. Omdat de cliëntpositie is beëindigd, strekt de daarmee 
+corresponderende positie niet meer tot voldoening van de vorderingen uit hoofde 
+van de cliëntpositie en maakt deze geen deel meer uit van het 
+derivatenvermogen. Een eventuele restvordering van de cliënt moet daarom 
+worden voldaan door de tussenpersoon. Daarbij heeft de cliënt echter wel een 
+22
+voorrecht op de voormalige corresponderende positie. Omdat uit de 
+administratie van een tussenpersoon moet blijken welke derivatenposities tot het 
+derivatenvermogen behoren (en daarmee zijn bestemd voor het voldoen van 
+vorderingen van zijn cliënten), moet de tussenpersoon – indien de voormalige 
+corresponderende positie wordt voorgezet – zijn administratie aanpassen, zodat 
+daaruit blijkt dat deze voortaan op eigen boek – dus voor haar eigen rekening en 
+risico – wordt gehouden. Tevens moet de voormalige corresponderende positie bij 
+de centrale tegenpartij worden overgeboekt van de client account naar de house 
+account van de tussenpersoon. Uiteraard staat het de tussenpersoon vrij om de 
+daarmee verbonden risico’s te mitigeren, bijvoorbeeld door het sluiten van een 
+nieuwe derivatenpositie waarmee de risico’s van deze positie worden afgedekt, 
+maar dit raakt het derivatenvermogen niet. 
+ 
+Het vijfde lid betreft de situatie dat de tussenpersoon niet aan zijn verplichtingen 
+jegens de centrale tegenpartij (of een andere derde) voldoet zonder dat zijn 
+cliënten in gebreke blijven. Ook in dat geval dienen de restvorderingen van de 
+tussenpersoon jegens de centrale tegenpartij, na voortijdige beëindiging van de 
+corresponderende posities, tot het voldoen van de vorderingen van de cliënten bij 
+de derivatenposities die samenhangen met de beëindigde corresponderende 
+posities. Indien de restvorderingen van de tussenpersoon niet voldoende zijn voor 
+het voldoen van de vorderingen van zijn cliënten, behouden de betreffende 
+cliënten ook in dit geval een vordering op het overige vermogen van de 
+tussenpersoon voor wat betreft het niet-voldane gedeelte. Aan deze laatste 
+vordering is geen specifiek voorrecht verbonden, omdat er geen aanleiding is om 
+de cliënt, na uitwinning van zijn aandeel in het derivatenvermogen, voor het 
+overige te bevoordelen boven andere schuldeisers. 
+                                                 
+22
+ Indien niet de cliënt maar de tussenpersoon een restvordering heeft, dan kan de tussenpersoon voor de 
+voldoening van zijn vordering gewoon gebruik maken van de rechten die hij heeft op grond van de met de 
+cliënt gesloten overeenkomst(en), het Burgerlijk Wetboek en het Wetboek van Burgerlijke 
+Rechtsvordering. 
+42

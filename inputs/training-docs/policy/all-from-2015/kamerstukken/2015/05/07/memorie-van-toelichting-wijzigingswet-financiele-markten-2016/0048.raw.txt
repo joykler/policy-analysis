@@ -1,0 +1,53 @@
+Als gevolg van het vierde lid kan een cliënt die ervoor kiest zijn derivatenposities 
+voortijdig te beëindigen nadat de tussenpersoon failliet is verklaard, mogelijk geen 
+aanspraak meer maken op volledige retournering van het door hem verstrekte 
+onderpand. Wel kan hij de waarde van het terug te leveren onderpand salderen 
+met de openstaande verplichtingen uit hoofde van zijn cliëntposities, maar voor 
+het meerdere is de in dit lid beschreven omslagregeling op hem van toepassing. 
+ 
+De omslagregeling geldt niet voor cliënten die met hun tussenpersoon hebben 
+afgesproken dat hun derivatenposities separaat, dat wil zeggen op individuele 
+basis worden geadministreerd door de centrale tegenpartij, de zogenaamde 
+“individuele vermogensscheiding” ex artikel 39 lid 3 EMIR. In dat geval is de 
+tussenpersoon namelijk verplicht om al het onderpand dat de cliënt aan de 
+tussenpersoon is verschuldigd door te storten naar de centrale tegenpartij, wat 
+voor de tussenpersoon minder gunstig is. De cliënt zal daarom in de regel een 
+hogere vergoeding zijn verschuldigd aan zijn tussenpersoon, maar daar staat 
+tegenover dat hij een betere bescherming tegen het faillissement van zijn 
+tussenpersoon geniet. Verplichte deelname aan de omslagregeling zou deze 
+hogere bescherming teniet doen en bovendien in strijd zijn met de gedachte 
+achter deze constructie in EMIR. Om die redenen bepaalt het vijfde lid dat de 
+betreffende cliënten niet meedelen in het verlies dat kan ontstaan indien bij het 
+faillissement van de tussenpersoon niet alle door cliënten gestelde zekerheden 
+kunnen worden geretourneerd. 
+ 
+In de toelichting van de definitie van cliënt is al aangegeven dat een 
+tussenpersoon niet altijd zelf is aangesloten op een centrale tegenpartij, maar dat 
+deze aansluiting soms via een andere tussenpersoon loopt. In een dergelijke 
+situatie is de regeling van het tweede tot en met vijfde lid onverkort van kracht, 
+maar moet steeds voor ‘centrale tegenpartij’ worden gelezen: andere 
+tussenpersoon. Het tweede tot en met vijfde lid gelden echter niet bij een keten 
+van derivatenposities die niet via een centrale tegenpartij wordt gecleard, omdat 
+EMIR niet voorschrijft dat deze posities moeten kunnen worden overgedragen. In 
+een dergelijke situatie wordt de cliënt slechts beschermd door hetgeen is bepaald 
+in artikel 49g. 
+ 
+Als de vordering van een cliënt of een centrale tegenpartij c.q. andere 
+tussenpersoon niet volledig kan worden voldaan uit het derivatenvermogen (zoals 
+in het voorbeeld bij de toelichting op het vierde lid), kan de betreffende 
+wederpartij het restant van zijn vordering indienen bij de curator. Deze vordering 
+zal dan, overige voorrechten daargelaten, als concurrentie vordering worden 
+behandeld bij de verdeling van de boedel. 
+ 
+Zoals eerder gezegd is de curator eindverantwoordelijk voor het beheer van het 
+derivatenvermogen. Om die reden dient hij er ook voor te zorgen dat, op het 
+moment dat het faillissement eindigt, de failliete tussenpersoon geen partij meer 
+is bij de derivatenposities waarvan de rechten en verplichtingen ten tijde van de 
+faillietverklaring tot het afgescheiden vermogen behoorden, alsmede de daarmee 
+samenhangende cliëntposities. Zodoende wordt voorkomen dat niemand meer 
+verantwoordelijk is voor het beheer van het derivatenvermogen en daardoor 
+sommige cliënten van de tussenpersoon tussen de wal en het schip zouden vallen. 
+Om te benadrukken dat het derivatenvermogen slechts dient tot het voldoen van 
+vorderingen uit hoofde van cliëntposities, wordt het derivatenvermogen 
+uitgesloten van het omslaan van de algemene faillissementskosten. De kosten die 
+48
