@@ -1,0 +1,43 @@
+2.4 Gerelateerde projecten 
+2.4.1 Torpedowerk- en ondersteuningsschip 2.4.3 Vastgoed en infrastructuur
+Het DMP-traject voor het project Vervanging Hulpvaartuigen, waarbinnen de capaciteit  Aangezien Defensie de komende jaren diverse nieuwe scheepsklassen introduceert, is een 
+Torpedowerk- en ondersteuningsschip wordt verworven, bevindt zich in de  integraal plan voor de Nieuwe Haven in Den Helder benodigd, zodat alle scheepsklassen  
+verwervingsvoorbereidingsfase. In dit project is voorzien dat de huidige onderzeeboot- en ondersteunende infrastructuur kunnen worden geaccommodeerd. Voor een  
+ondersteuningscapaciteit van Zr. Ms. Mercuur na vervanging wordt geleverd door twee van  toekomstbestendige ontwikkeling van zowel de militaire als civiele haven in Den Helder, 
+de vier zeegaande hulpvaartuigen, die daarnaast ook de hydrografische taken van het CZSK werkt Defensie actief samen met de provincie Noord-Holland en de gemeente Den Helder  
+1
+op zich zullen nemen (zie Kamerstuk 27830 nr. 361). Naar verwachting zal de DMP D-brief in in het bredere samenwerkingsverband ‘Ontwikkeling Maritiem Cluster regio Den Helder’.  
+het eerste kwartaal van 2025 aan de Tweede Kamer worden verstuurd. De ambitie om een “maintenance valley” te ontwikkelen maakt hier deel van uit.
+In de eerste VGR was het uitgangspunt nog dat Zr. Ms. Mercuur vervangen zou worden door Het CZSK heeft een eerste inventarisatie uitgevoerd van de benodigde aanpassingen  
+een nieuw schip dat volledig was gericht op onderzeeboot-ondersteuning. Daardoor  aan vastgoed en infrastructuur, onder meer met het oog op de onderzeebootvervanging.  
+waren de kosten hiervan volledig te koppelen aan de onderzeeboten en is deze vervanging Als onderdeel van de RFQ is een Facility Gap Analysis gevraagd, waarin de kandidaat-werven 
+opgenomen in het LCC-budget van de submarine enterprise. Omdat daarna is besloten om het moeten beschrijven wat er met de komst van de nieuwe onderzeeboot moet gebeuren op  
+torpedowerkschip te vervangen door een schip dat zowel capaciteiten heeft voor  het gebied van vastgoed en infrastructuur. Elk onderzeebootontwerp met de daarbij  
+onderzeeboot-ondersteuning als voor hydrografische taken, kunnen de kosten die zijn behorende leveringen zoals simulatoren en werktuigen voor de instandhouding, zal invloed 
+voorzien voor de onderzeeboot-ondersteuning niet langer worden geïsoleerd. Het zou hebben op de benodigde aanpassingen op dit gebied. Met de winnende werf zal het plan  
+daarnaast een vertekend beeld geven als de kosten voor hydrografische taken worden voor vastgoed en infrastructuur in meer detail moeten worden uitgewerkt.
+toegerekend aan de submarine enterprise. Het project Vervanging Hulpvaartuigen blijft  
+gerelateerd aan de onderzeebootcapaciteit, maar zal om genoemde redenen geen onderdeel 2.4.4 IT
+meer uitmaken van het LCC-budget voor het programma vervanging onderzeebootcapaciteit 
+zoals opgenomen in de vertrouwelijke bijlage E. In het materieellogistieke domein voor de nieuwe onderzeebootcapaciteit gaan data en 
+automatisering een sleutelrol spelen. De ambitie is op termijn het onderhoud van de nieuwe 
+2.4.2 Bewapening onderzeeboot volledig datagestuurd in te richten. De kandidaat-werven is gevraagd een 
+onderzeebootcapaciteit te leveren met geïntegreerde data-opslag, -verwerking en  
+In de basisrapportage en de eerste VGR is gemeld dat, naast het torpedowapensysteem,  -analysecapaciteit voor datagestuurd onderhoud.
+voor enkele (wapen)systemen geen behoefte is gesteld of budget gereserveerd voor de 
+aanschaf, maar in het eisenpakket wel provisions for zijn voorzien. Als onderdeel van de Data-uitwisseling met het Defensie ERP (SAP S/4HANA) is beoogd ten behoeve van de 
+totstandkoming van het definitieve eisenpakket voor de offerteaanvraag zijn de (functionele) ondersteuning van de bedrijfsprocessen voor keten-, systeemlogistiek en financiën. 
+eisen bepaald voor de beoogde wapensystemen. Zie voor het overzicht van de bewapening 
+vertrouwelijke bijlage D. Het programmateam VOZBT heeft in de afgelopen periode overeenstemming bereikt  
+met het programma Grensverleggende IT (GrIT) aangaande de software integratie van  
+Defensie heeft in de Defensienota 2022 aangegeven de slagkracht te vergroten. Voor de ondersteunende programmatuur voor de nieuwe onderzeeboot capaciteit in de toekomstige 
+marine wil Defensie investeren in de aanschaf van langeafstandsraketten die kunnen worden Defensie IT infrastructuur. Met het programma ROGER is eveneens afgestemd hoe  
+gelanceerd vanaf fregatten en onderzeeboten. Het aanschaffen van deze raketten behelst een de data-uitwisseling tussen het toekomstige onderzeebootwapensysteem en het  
+aparte behoeftestelling en valt buiten het levensduurbudget van het programma vervanging Defensie  ERP systeem op hoofdlijnen ingericht gaat worden. Eisen ter ondersteuning  
+onderzeebootcapaciteit. De Tweede Kamer wordt spoedig, conform het Defensie Materieel van softwareintegratie zijn meegenomen in het Programma van Eisen voor de RFQ van 
+Proces, met een A-brief geïnformeerd over de behoeftestelling van dit separate project VOZBT.
+(Maritime Strike). 
+1 
+Kamerbrief strategisch vastgoedplan defensie 2022, Bijlage: Projectenoverzicht uitwerking Strategisch Vastgoedplan 
+najaar 2022, paragraaf 4.6: Nieuwe Haven te Den Helder.
+Tweede voortgangsrapportage Programma Vervanging Onderzeebootcapaciteit 12 Tweede voortgangsrapportage Programma Vervanging Onderzeebootcapaciteit 13

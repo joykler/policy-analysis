@@ -1,0 +1,45 @@
+2.5 Ontwikkelingen en nieuwe 
+vraagstukken in de luchtvaart
+Op korte en middellange termijn kunnen zich binnen de 
+luchtvaart nieuwe vraagstukken of onderwerpen aandienen, 
+ook internationaal is hier aandacht voor. Hieronder zijn een 
+aantal van deze ontwikkelingen genoemd. Deze vraag-
+stukken kunnen in de toekomst mogelijk risico’s met zich 
+meebrengen, waarvoor dan tijdig veiligheidsinitiatieven 
+ontwikkeld moeten worden. Deze vraagstukken komen niet 
+nu in de tabel in Bijlage I terug, maar worden bij de 
+volgende NVA als input voor de risicoanalyse voor de NVA 
+meegenomen. 
+A. Vliegen op waterstof Bij verbranding van waterstof ontstaat in theorie alleen water als restproduct. Er is in de zuivere reactie geen emissie-
+probleem met kooldioxide, koolmonoxide, stikstof of fijnstof. Maar verbrandingsmotoren op waterstof zijn te zwaar 
+voor gebruik in de luchtvaart en bovendien ontstaan bij een waterstofverbrandingsmotor toch stikstofoxiden. In de 
+luchtvaart wordt daarom geëxperimenteerd met het tijdens de vlucht omzetten van waterstof en zuurstof naar water 
+en elektriciteit. De elektriciteit wordt gebruikt om een elektromotor te laten draaien.
+Hindernissen voor gebruik van waterstof in de luchtvaart zijn brand- en explosiegevaar bij gebruik van waterstof en het 
+gewicht van de tanks/cilinders die nodig zijn voor transport van waterstof.
+B.  Snelle toename Elektrisch vliegen geeft een nieuwe dimensie. Er is een andere manier van ‘brandstof’ laden en er zijn andere operatio -
+elektrisch vliegen nele regels en gewijzigde noodprocedures. Op een eventuele zeer snelle toename van de omvang van elektrisch vliegen 
+is IenW en de sector niet voorbereid.
+C. Beperkte ‘brandstof ’- De batterijcapaciteit voor elektrisch vliegen met een klein vliegtuigje is ongeveer een uur. Daarvan wordt dan 10 of 
+reserve bij elektrisch 15 minuten als reserve aangehouden. 
+vliegen In de kleine luchtvaart (GA) is het aanhouden van een reserve van 45 minuten tot een uur gebruikelijk. Zo’n reserve 
+geeft de mogelijkheid om uit te wijken naar een ander vliegveld als de baan plotseling versperd is (bijvoorbeeld door 
+een noodlanding of runway excursion van een ander toestel). Met de beperkte brandstofreserve van een elektrisch 
+vliegtuig lukt uitwijken of wachten niet.
+Daarnaast is ‘fuel-management’ in de praktijk bij regulier elektrisch vliegen ook een probleem: Het komt regelmatig 
+voor dat elektrische vliegtuigen bij de landing moeten ‘voordringen’ omdat ze te laag in hun reserve zitten.
+D.  Vluchten met onbeman- De Europese wetgeving onderscheidt vluchten met onbemande luchtvaarttuigen in drie categorieën:
+de luchtvaartuigen in de • open categorie: vluchten met een laag risico;
+gecertificeerde categorie • specifieke categorie: vluchten met een gemiddeld risico;
+• gecertificeerde categorie: vluchten met een hoog risico.
+Op dit moment vinden in Nederland vooral vluchten in de open en specifieke categorie plaats. Op termijn zullen daar 
+ook vluchten in de gecertificeerde categorie bij komen. Vluchten in de gecertificeerde categorie zijn dusdanig risicovol 
+dat daarvoor vergelijkbare regelgeving geldt als in de bemande luchtvaart. EASA is op dit moment bezig met het 
+ontwikkelen van regelgeving om vluchten in de gecertificeerde categorie mogelijk te maken.
+In de gecertificeerde categorie vallen vluchten uitgevoerd over mensen menigtes, het vervoer van personen en het 
+vervoer van gevaarlijke stoffen waarbij er een hoog risico is voor derden bij een ongeval.
+Met name het vervoeren van personen door middel van zogenoemde onbemande luchttaxi’s lijkt op de middellange 
+termijn echter nog niet relevant, omdat de aanpak in Europa is gericht om eerst vluchten in luchttaxi’s mét piloten 
+mogelijk te maken. Zodra de veiligheid van deze vluchten bewezen is kan hierna de stap worden gemaakt naar 
+luchttaxi’s zonder piloot.
+Nederlands Actieplan voor Luchtvaartveiligheid (NALV) 2023 – 2026 | 15

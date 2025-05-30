@@ -1,0 +1,103 @@
+81 Luchtruimschending met een onbemand luchtvaartuig: Detecteren 
+Categorie kleine luchtvaart 
+van luchtruimschendingen met behulp van radarsystemen 
+66 Geen goede vluchtvoorbereiding: Uitvoeren voorlichtings-
+
+(NVA: OL.15.B.1).
+campagne over het belang van goede vluchtvoorbereiding 
+82 Luchtruimschending met een onbemand luchtvaartuig: Publicatie 
+(NVA: GA.25.B.1).
+zoneringsdata op een gestandaardiseerde wijze (NVA: 
+67 Geen goede vluchtvoorbereiding: Stimuleren van toepassing van 
+OL.15.B.2).
+het vier ogen principe bij vluchtvoorbereiding (NVA: 
+83 Operators van onbemande luchtvaartuigen in de open categorie zijn 
+
+GA.25.B.2).
+onvoldoende op de hoogte van de op de operatie van toepassing 
+68 Geen goede vluchtvoorbereiding: Verbeteren van verstrekken 
+
+zijnde regelgeving en procedurevereisten: Informatieverstrekking 
+van informatie die gebruikt wordt bij het voorbereiden van 
+en voorlichtingscampagne over droneregelgeving (NVA: 
+vluchten (NVA: GA.25.B.3).
+OL.10.B.1).
+69 Complex en versnipperd Nederlands luchtruim: Het luchtruim 
+84 Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen 
+herzien (GA.12.B.1). 
+door technische falen: Verzamelen voorvalinformatie (NVA: 
+OL.17/25.B.1).
+70 Complex en versnipperd Nederlands luchtruim: Informatie 
+verstrekken over het Nederlandse luchtruim aan bezoe-
+85 Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen 
+kende vliegers (NVA: GA.12.B.2). 
+door technische falen: Implementatie markttoezicht op 
+onbemande luchtvaartuigen (NVA: OL.25).
+71 Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen 
+
+van zweefvliegclubs: Waarborgen informatieverstrekking 
+86 Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen 
+
+(statisch en dynamisch) over luchtsportactiviteiten aan alle 
+door menselijke fouten: Praktijktraining stimuleren (NVA: 
+luchtruimgebruikers (NVA: GA.32.B.1, B2 en B3). 
+OL.17.B.1).
+72 Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen 
+Categorie aspecten uniek voor de BES-eilanden
+van zweefvliegclubs: Voorlichting geven over het gebruik van 
+de VHF radio (NVA: GA.32.B.4). 87 Beheer en onderhoud luchthavens niet op orde: Sturen op 
+kritische elementen in het veiligheidsmanagementsysteem 
+73 Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen 
+van de luchthavens (NVA: C-NL.01.B.1).
+van zweefvliegclubs: Voorlichting geven over risico’s van 
+vliegen nabij luchtsportgebieden (NVA: GA.32.B.5). 88 Er is geen aangewezen Search And Rescue (SAR): Faciliteren van 
+reeds bestaande plannen voor SAR (NVA: C-NL.09.B.1).
+74 Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog 
+
+turbulentie): Invoeren van een uniform waarschuwings- 89 Beperkt niveau just culture: Opzetten van een regeling voor het 
+
+systeem aan boord van vliegtuigen (NVA: GA.03.B.1). melden van voorvallen (NVA: C-NL.24.B.1).
+75 Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog  90 Beperkt niveau just culture: Voorlichtingscampagne geven over 
+turbulentie): Verstrekken van operationele ondersteuning het nut van voorvalmeldingen (NVA: C-NL.24.B.2).
+vóór en tijdens de vlucht door de luchtverkeersleiding (NVA: 
+91 Onvoldoende (kwaliteit) toezicht: Afspraken maken met CCAA 
+
+GA.03.B.2).
+over toezicht op luchtverkeersleiding Curaçao (NVA: 
+76 Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog C-NL.03.B.1).
+
+turbulentie): Voorlichting verstrekken over separatie 
+92 Emergency plannen niet goed uitgerold en niet goed afgestemd 
+(benodigde afstand tussen vliegtuigen) NVA: GA.03.B.3).
+tussen verschillende diensten: Afronden van procedures voor 
+77 Geen of beperkt omgevingsbewustzijn: Voorlichting geven over  onderzoek door de Onderzoeksraad voor de Veiligheid 
+het belang van goed omgevingsbewustzijn (NVA: (OVV) (NVA: C-NL.25.B.1).
+GA.27.B.1).
+93 Doorwerking ICAO-richtlijnen in BES-regelgeving is niet volledig: 
+78 Geen of beperkt omgevingsbewustzijn: Verbeteren uitwisseling  Zorgen voor voldoende capaciteit en prioriteit om 
+van goede praktijkvoorbeelden en elementen van goed regelgeving op te stellen voor de BES-eilanden (NVA: 
+vliegerschap (NVA: GA.27.B.2). C-NL.02.B.1).
+Categorie onbemande luchtvaart
+  
+79 Onvoldoende separatie tussen onbemande luchtvaartuigen en 
+
+andere luchtruimgebruikers (inclusief andere onbemande 
+Systeemmonitor
+luchtvaartuigen): Actief deelnemen aan het Europese 
+programma U-space (betreffende tijdelijke claim door 
+Categorie veiligheidsmanagementsysteem
+onbemande luchtvaart op luchtruim tijdens vlucht) en 
+Onbemande luchtvaartuigoperaties in de nabijheid van 
+94 Vaststellen top-5 risico's voor de vlieg- en grondoperatie. 
+kleine luchtvaartoperaties (NVA: OL.03.B.1 + OL.16).
+Categorie mensaspecten en competent personeel
+80 Onvoldoende separatie tussen onbemande luchtvaartuigen en 
+95 Verbeteren implementatiestatus van toelating en toezicht 
+andere luchtruimgebruikers (inclusief andere onbemande 
+(onder andere beschrijving van procedures met betrekking 
+luchtvaartuigen): Installeren van apparatuur voor het 
+tot de training en kwalificaties van het technische personeel 
+weergeven van positie-informatie aan overige luchtruim-
+van ILT).
+gebruikers (NVA: OL.03.B.2 + OL.16).
+28 | Ministerie van Infrastructuur en Waterstaat

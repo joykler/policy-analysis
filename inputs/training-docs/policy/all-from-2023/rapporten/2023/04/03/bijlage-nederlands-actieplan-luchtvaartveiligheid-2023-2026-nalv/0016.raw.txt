@@ -1,0 +1,33 @@
+Domein Risico scenario
+Commerciële Luchtvaart Vogelaanvaringen (COM.01)
+Toenemende commerciële onbemande luchtvaartactiviteiten (COM.62)
+Luchtruimschendingen kleine luchtvaart en onbemande luchtvaart (COM.14)
+Gebrek aan kwaliteit van het toezicht op organisaties (COM.20)
+Werkdruk bij huidig personeel door moeite met het aantrekken van voldoende gekwalificeerd 
+personeel (COM.88)
+Gebrek aan, en onderhouden van just culture (inclusief just culture bij grondafhandeling en nieuw 
+personeel) (COM.21)
+Misdragende passagiers (COM.65)
+Kleine luchtvaart  Geen goede vluchtvoorbereiding (GA.25)
+(General Aviation)
+Complex en versnipperd Nederland luchtruim (GA.12)
+Laag vliegende motorvliegtuigen in de nabijheid van de lierbanen van zweefvliegclubs (GA.32)
+Onvoldoende separatie tussen vliegtuigen (inclusief gevolg zog turbulentie) (GA.03)
+Geen of beperkt omgevingsbewustzijn (GA.27)
+Onbemande Luchtvaart Onvoldoende separatie tussen onbemande luchtvaartuigen en andere luchtruimgebruikers 
+(inclusief andere onbemande luchtvaartuigen) (OL.03)
+Luchtruimschending met een onbemand luchtvaartuig (OL.15)
+Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door technische falen (OL.25)
+Verlies (loss-of-control, fly-away) van onbemande luchtvaartuigen door menselijke fouten (OL.17)
+Operators van onbemande luchtvaartuigen in de open categorie zijn onvoldoende op de hoogte 
+van de op de operatie van toepassing zijnde regelgeving en procedurevereisten (OL.10)
+Onbemande luchtvaartuig operaties in de nabijheid van kleine luchtvaartoperaties (OL.16)
+Luchtvaart in Caribisch Beheer en onderhoud van luchthavens niet op orde waardoor die niet volledig in overeenstemming 
+Nederland zijn of dreigen te zijn met ICAO Annex 14 'Aerodromes' (C-NL.01)
+Er is geen aangewezen Search And Rescue (SAR) (C-NL.09)
+Beperkt niveau just culture (C-NL.24)
+Onvoldoende (kwaliteit) toezicht (C-NL.03)
+Emergency plannen niet goed uitgerold en niet goed afgestemd tussen verschillende diensten 
+(C-NL.25)
+Doorwerking ICAO richtlijnen in BES regelgeving is niet volledig (C-NL.02)
+14| Ministerie van Infrastructuur en Waterstaat
