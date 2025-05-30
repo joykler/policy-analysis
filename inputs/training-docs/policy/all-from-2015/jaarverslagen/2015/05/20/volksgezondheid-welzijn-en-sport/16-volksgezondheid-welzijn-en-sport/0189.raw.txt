@@ -1,0 +1,51 @@
+4 
+vertekeningen van de cijfers. Ten aanzien van de premie-ontvangsten 
+kennen ZiNL en CBS ook een andere definitie. Het ZiNL verwerkt 
+correcties over oude jaren in het eerste jaarverslag waarin dat kan, terwijl 
+het CBS ze boekt in het jaar waarin ze kasmatig worden verwerkt.
+VWS presenteert uitgaven die aansluiten bij de BKZ-definitie. Lasten van 
+de fondsen die niet meetellen in het BKZ, verwerkt VWS bij de overige 
+inkomsten. Zo saldeert VWS rentelasten en rentebaten en neemt het saldo 
+op bij de inkomsten.
+Gegeven het bovenstaande geldt de volgende aansluiting uit tabel 15 en 
+tabel 16.
+  
+Tabel 15 Aansluitingstabel baten – en lasten Zorgverzekeringsfonds 2013
+1 
+(bedragen x 1 miljard) 
+  VWS  ZiNL  Verschil 
+Jaarverslag Jaarverslag ZiNL en 
+2014 VWS-Jaar-
+verslag 
+  Jaar 2013  Jaar 2013  Jaar 2013 
+Lasten   23,1  23,7  0,5 
+Baten   24,6  25,6 1,0  
+Saldo   1,5  1,9  0,4
+1 
+Als gevolg van afronding kan de som van de delen afwijken van het totaal.
+ 
+Zowel de lasten als de baten van het Zorgverzekeringsfonds zijn in 2013 in 
+het ZiNL jaarverslag € 0,5 miljard hoger dan in het VWS Jaarverslag 2014. 
+Dit verschil resulteert vrijwel geheel uit het salderen van € 0,5 miljard 
+niet-BKZ-relevante posten met de inkomsten. Daarnaast komen de 
+uitgaven bij VWS € 0,1 miljard lager uit vanwege correctie van de 
+DBC-hobbel bij geriatrische revalidatie. Bij de IAB is er daarnaast nog een 
+verschil van afgerond € 0,0 miljard omdat de IAB op EMU-basis iets lager 
+zijn dan de IAB in het ZiNL-jaarverslag fondsen.
+4
+Veel cijfers in deze paragraaf worden vertekend door schadelastverschuivingen. Verzekeraars 
+dienen de schade in jaar t+1 die hoort bij DBC’s geopend in jaar t in jaar t te verantwoorden, 
+terwijl bij een verrichtingenfinanciering handelingen uit jaar t+1 op jaar t+1 drukken. De 
+overgang van verrichtingenfinanciering naar DBC’s leidt dus tot hogere schade. Het betreft 
+echter geen extra schade, maar een schadelastverschuiving, die ook geen invloed heeft op de 
+inkomsten van zorgaanbieders. Schadelastverschuivingen hangen ook niet samen met meer of 
+minder geleverde zorg. Daarom zijn schadelastverschuivingen niet relevant voor het BKZ en 
+het EMU-saldo. Omdat ze wel van invloed zijn op het feitelijk vermogen van het Zvf, wordt dit 
+effect via bijstellingen van het normvermogen gecompenseerd. Om een zuiver zicht te krijgen 
+op de echte ontwikkelingen is in de tabel 16 gecorrigeerd voor schadelastverschuivingen. Deze 
+correctie betreft in 2013 de introductie van DBC’s in de geriatrische revalidatie (€ 83 miljoen) en 
+in 2014 het per ultimo 2014 beëindigen van DBC’s in de ggz-18-min vanwege de overheveling 
+naar gemeentes (– € 346 miljoen). Een schadelastverschuiving bij de verloskunde (€ 60 
+miljoen) in 2014 is niet gecorrigeerd, want deze extra schade is niet ten laste van het vermogen 
+van het ZvF gekomen.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XVI, nr. 1 188

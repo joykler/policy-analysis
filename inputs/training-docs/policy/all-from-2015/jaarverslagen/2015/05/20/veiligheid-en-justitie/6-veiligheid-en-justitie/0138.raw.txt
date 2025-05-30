@@ -1,0 +1,55 @@
+Agentschapsparagrafen
+  
+Tabel 10.2.13 Eigen vermogen
+ Exploitatie reserve  Onverdeeld  T otaal 
+resultaat 
+ Stand 01-01-2014 3.535   0 3.535  
+ + Toevoeging door moederdepartement  0  0  0 
+– /– Storting aan moederdepartement   0 0  0  
++/– Onverdeeld resultaat 2014   0  918  918 
+Stand 31-12-2014   3.535 918  4.453 
+Effect stelselwijziging op het eigen vermogen
+De IND heeft een stelselwijziging ten aanzien van de kortlopende schuld 
+resterende verlofuren doorgevoerd. Het effect van de stelselwijziging 
+bedraagt € 4,5 mln. en is als volgt verwerkt als een rechtstreekse 
+vermogensmutatie in het eigen vermogen:
+  
+Tabel 10.2.14 Effect stelselwijziging op eigen vermogen (x € 1.000)
+Stand eigen vermogen 1-1-2014 voor stelselwijziging   8.006 
+ Effect stelselwijziging (ten laste van exploitatiereserve 2013)  –/– 4.471 
+ Eindstand eigen vermogen 1-1-2014 na stelselwijziging  3.535
+ 
+  
+Tabel 10.2.15 Kasstroomoverzicht per 31 december 2014 (x € 1.000)
+  (1)   (2)  (3) = (2)-(1) 
+   Oorspronkelijk  Realisatie  Verschil 
+vastgestelde 
+begroting 
+ 1.  Rekening-courant RHB 1 januari 2014 + stand depositoreke-
+ningen  45.363  27.339  – 18.024 
+     
+ 2.  Totaal operationele kasstroom  20.714  39.920 19.206  
+     
+  Totaal investeringen (-/-)  – 10.200 14.825  – 4.625  
+ T otaal boekwaarde desinvesteringen (+) 0  38   38 
+3.   Totaal investeringskasstroom – 10.200  – 14.787   – 4.587 
+     
+ Eenmalige uitkering aan moederdepartement  0   0 0  
+  Eenmalige storting door moederdepartement  0  0 0  
+  Aflossing op leningen (-/-)  – 19.368 – 16.750  2.618  
+  Beroep op leenfaciliteit (+) 10.200   14.700 4.500  
+4.   Totaal financieringskasstroom – 9.168   – 2.050  7.118 
+     
+ 5. Rekening-courant RHB 31 december 2014 + stand depositoreke- 
+ningen (=1+2+3+4)  46.709  50.423  3.714 
+  maximale roodstand € 0,5 mln.    
+Operationele kasstroom
+De operationele kasstroom is hoger dan begroot door mutaties in de 
+balans. De voorzieningen zijn afgenomen evenals de vorderingen. Dit 
+wordt deels gecompenseerd door een toename van de kortlopende 
+schulden (vooruitontvangen projectgelden en nog te betalen kosten).
+Investeringen
+De investeringen zijn hoger dan begroot vanwege de doorontwikkeling en 
+verdere invoering van INDiGO en DWH. In een aantal releases, is de 
+kwaliteit en functionaliteit van INDiGO uitgebreid en geoptimaliseerd.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 VI, nr. 1 137

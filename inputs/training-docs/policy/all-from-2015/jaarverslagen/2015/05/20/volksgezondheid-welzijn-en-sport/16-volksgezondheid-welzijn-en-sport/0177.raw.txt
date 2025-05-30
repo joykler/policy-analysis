@@ -1,0 +1,75 @@
+1 
+1 
+Eenheid  2010  2011  2012 2013 
+ 2014
+ 26  Gem. aantal voorschriften geneesmiddelen 
+p.p.  per jaar  12,5  13,6  14,1  14,5  
+ 27  Generieke verstrekkingen naar voorschrift  %  60,6  63,3  66,7  69,7 71,5  
+ 28  Generieke verstrekkingen naar kosten  %  10,9  10,3  12  16,2  13,6 
+ 29  Personen dat vergoede hulpmiddelen 
+gebruikt  1 mln.  2,4  2,2  2,1  2,1  2,2 
+        
+  Geestelijke gezondheidszorg       
+ 30  Geestelijke ongezond. Op basis van 
+Somscore MHI-5 (Mental Health Inventory 
+5), internationale maat voor de psychische 
+gezondheid. De maximale score is 100. Hoe 
+lager de score hoe slechter de psychische 
+gezondheid. Het cijfer geeft het percentage 
+van personen van 12 jaar of ouder met een 
+score van minder dan 60.  %  10,7  11  10,8  10,9  
+ 31  Aantal cliënten curatieve ggz  1.000  1.207  1.266  1.044   
+  Aantal cliënten eerstelijns curatieve ggz  1.000  309  335  322   
+  Aantal cliënten tweedelijns curatieve ggz  1.000  947  985  762   
+4 
+ 32 Zorgaanbieders curatieve ggz waarvan  aantal  6.687  7.132  >9.000   
+  Eerstelijns psychologische zorgverlener  aantal  3.365  3.477  6.000   
+ T weede lijn gebudgetteerde zorgaanbieder  aantal  177  181  155   
+  Tweede lijn niet-gebudgetteerde instellingen  aantal 121   179  110   
+  Tweede lijn vrijgevestigde zorgaanbieder  aantal  3.024  3.295  3.000   
+  Dyslexie  aantal   30–35    
+1 
+Een aantal cijfers is nog niet beschikbaar en een aantal cijfers is voorlopig en kunnen nog wijzigen.
+2 
+Niet artsen voor verstandelijk gehandicapten en ouderengeneeskunde.
+3 
+DBC Zorgproducten zijn vanaf 2012 in gebruik. Daarvoor werd gebruikt gemaakt van Diagnose Behandelingcombinaties. De declaraties voor 2012 
+en 2013 zijn voor 100% respectievelijk 95% compleet.
+4 
+Vanaf 2012 aangepaste rekenmethode, reeks niet vergelijkbaar. 2012 betreft een raming. Voor toelichting zie bron.
+Bronnen:
+1–2: CBS
+3: CPB
+4: Vektis
+5: Nivel, Cijfers uit de registratie van huisartsen peiling januari 2013
+6: VWS
+7: NZa Marktscan mondzorg december 2012
+8: Nivel, Cijfers uit de registratie van verloskundigen peiling januari 2013
+9: CBS, Statline (http://statline.cbs.nl/StatWeb/publication/ 
+?VW=T&DM=SLNL&PA=81551NED&D1=1–2&D2=0&D3=0&D4=1,4,6,37,41,46,49,56,58,62,65&D5=(l-3)-l&HD=140623–1557&HDR=T,G1,G2,G4&STB=G)
+10: t/m 15: CBS, Statline 
+(http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=81027NED&D1=a&D2=0–2&D3=0&D4=a&HDR=G3,G2,G1&STB=T&VW=T ) 
+16: KNMG, Aantal geregistreerde specialisten/profielartsen op peildatum 31 december van het jaar ( 
+http://knmg.artsennet.nl/Opleiding-en-Registratie/RGS-1/Aantallen/Overzicht-aantal-geregistreerde-specialistenprofielartsen.htm ) 
+17: NZa, Marktscan Medisch-specialistische Zorg 2014
+18 en 19: CBS, Statline (http://statline.cbs.nl/StatWeb/publication/ 
+?VW=T&DM=SLNL&PA=71858NED&D1=2,6&D2=0&D3=0&D4=0&D5=(l-3)-l&HD=140624–1146&HDR=G1,G2,G3,G4&STB=T)
+20 en 21: CBS, Statline (http://statline.cbs.nl/StatWeb/publication/ 
+?VW=T&DM=SLNL&PA=81178NED&D1=12–13&D2=0&D3=0&D4=0&D5=a&HD=140624–1155&HDR=G1,G2,G3,G4&STB=T)
+22: KNMG, Aantal geregistreerde specialisten/profielartsen op peildatum 31 december van het jaar 
+(http://knmg.artsennet.nl/Opleiding-en-Registratie/RGS-1/Aantallen/Overzicht-aantal-geregistreerde-specialistenprofielartsen.htm ) 
+23: Vektis
+1) 199299012 – Letsel (excl heupfractuur) | Diagnostisch (zwaar)/ Therapeutisch licht | Letsel overig
+2) 199299028 – Letsel (excl heupfractuur) | Licht ambulant | Letsel overig
+3) 140301007 – Nierinsufficientie | Chronisch | Hemodialyse in centrum/ zkhs | Niet klin | Dialyse 1–3 | Urogenitaal nierinsufficientie
+4) 131999228 – Ov diagnosen | Licht ambulant | Botspierstelsel ziekte/laat gev trauma
+5) 029499039 – Licht ambulant | Nieuw maligne huid/premaligne dermatose
+24: Ambulancezorg Nederland, Ambulances in zicht 2013. (Betreft het aantal A1-inzetten. Het totale aantal inzetten – A1, A2 en B – bedroeg in 2011 
+1.084.426, in 2012 1.100.419 en in 2013 1.144.780.)
+25– 28: Stichting Farmaceutische Kengetallen
+29: Zorginstituut Nederland
+30: CBS, Statline (http://statline.cbs.nl/StatWeb/publication/ 
+?VW=T&DM=SLNL&PA=81174NED&D1=41&D2=0&D3=0&D4=0&D5=a&HD=140624–1531&HDR=T,G3,G2,G1,G4)
+31 en 32: NZa, Marktscan en beleidsbrief GGZ 19 november 2014; voor cijfers aanbieders 2010 en 2011 Marktscan en beleidsbrief Geestelijke 
+Gezondheidszorg Weergave van de markt 2009–2013
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 XVI, nr. 1 176

@@ -1,0 +1,53 @@
+Bedrijfsvoeringsparagraaf
+nadrukkelijk gewezen op hun verantwoordelijkheid voor integer 
+handelen.
+Voor 2014 zijn ten aanzien het gebruik van P-Direkt als systeem voor 
+het personeelsbeheer binnen Veiligheid en Justitie geen gevallen van 
+fraude of misbruik van het systeem bekend geworden.
+4. Overige aspecten van bedrijfsvoering 
+Informatiebeveiliging
+Op een aantal terreinen is in het jaar 2014 een aanzienlijke voortgang 
+geboekt op het gebied van informatievoorziening:
+� Binnen alle grote uitvoeringsorganisaties is naast een CIO (Chief 
+Information Officer, verantwoordelijk voor het inrichten van de 
+informatiemanagementfunctie in de organisatie) ook een CISO (Chief 
+Information Security Officer), belast met de implementatie van de 
+BIR-maatregelen binnen de eigen organisatie aangesteld;
+� Alle CISO’s hebben dezelfde vakopleidingen (CISSM en CISA) gevolgd 
+en komen maandelijks bij elkaar, waarbij de voortgang op de imple-
+mentatie van de BIR (Baseline Informatiebeveiliging Rijksdienst) wordt 
+besproken en ervaringen/best practices worden uitgewisseld;
+� In 2014 is een compleet overzicht tot stand gekomen van alle informa-
+tiesystemen die door de uitvoeringsorganisaties als kritieke worden 
+ervaren, de zogeheten risicokaart. In totaal zijn er binnen VenJ 88 
+kritieke systemen;
+� Voor al deze kritieke systemen moet een actuele (niet ouder dan drie 
+jaar) risicoanalyse beschikbaar zijn, waarin risicobeperkende maatre-
+gelen worden vastgesteld. Tevens moet per systeem op basis van deze 
+risicoanalyse een plan van aanpak voor het invoeren van deze 
+maatregelen worden opgesteld en moeten de maatregelen daadwerke-
+lijk worden ingevoerd.
+Bij aanvang van 2014 beschikte slechts ongeveer 30% van alle kritieke 
+systemen over een actuele risicoanalyse. Eind 2014 is dit percentage 
+gestegen tot 74%. In het eerste kwartaal van 2015 beschikken alle kritieke 
+systemen over een actuele risicoanalyse. Voor 32 van de 88 kritieke 
+systemen was per ultimo 2014 een plan van aanpak opgesteld.
+Grote lopende ICT-projecten (risico’s voor privacy en uitvoering)
+VenJ heeft een actuele lijst met lopende grote projecten. Conform de 
+procedures rapporteert VenJ over grote en risicovolle projecten onder 
+andere met het Rijks ICT-dashboard en via de Jaarrapportage Bedrijfs-
+voering Rijk van de Minister van Wonen en Rijksdienst aan de Tweede 
+Kamer. Naast de verplichte risicoanalyse en de Privacy Impact Assess-
+ments (PIA) bij de ontwikkeling of wijziging van een informatiesysteem 
+heeft VenJ ook al ruim ervaring opgedaan met de in 2014 voor grotere 
+projecten verplicht gestelde ICT Haalbaarheidstoets. VenJ is betrokken 
+geweest bij een groot aantal haalbaarheidstoetsen, en was vijf maal 
+opdrachtgever. Ook het instrument Gateway Review wordt veelvuldig 
+ingezet. Met onder meer deze maatregelen is VenJ in control voor de 
+grote en risicovolle projecten, inclusief de privacyrisico’s.
+Tijdigheid van betalen (betaalgedrag)
+De betalingstermijn voor de Nederlandse overheid is op dertig dagen 
+gesteld. De norm is om 90% van de facturen op tijd te betalen. In 2014 is 
+93% van de facturen voor het Ministerie van VenJ op tijd (binnen 30 
+dagen) betaald. Het ministerie voldoet daarmee aan de norm.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 VI, nr. 1 110
