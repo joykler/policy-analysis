@@ -1,0 +1,46 @@
+14.510
+2.250
+Spoor 4
+370
+980
+Spoor 2
+40
+2.690
+Spoor 1
+190
+0 2.000 4.000 6.000 8.000 10.000 12.000 14.000 16.000
+Inwilliging Afwijzing Overige afdoening
+Figuur 53: Beslissingen genomen op eerste asielaanvragen, per uitstroomspoor, 2022 (Bron: IND)
+De meeste aanvragen worden afgedaan in het spoor waarin de aanvraag is ingestroomd. 
+Het inwilligingspercentage voor eerste asielaanvragen die zijn afgedaan in 2022 in spoor 4 
+was 85%. In 2021 was dit 74%. Er worden geen asielaanvragen ingewilligd in spoor 1 
+(Dublinclaimanten) of spoor 2 (veilig land van herkomst/bescherming in andere EU-lidstaat). 
+Indien een asielaanvraag daartoe aanleiding geeft, vindt een zogeheten spoorwissel plaats. 
+Een asielaanvraag wordt dan afgedaan in een ander spoor dan waarin deze is ingestroomd. 
+Het komt overigens ook voor dat een afgehandelde aanvraag opnieuw in behandeling moet 
+worden genomen, bijvoorbeeld na een gegrond beroep of omdat een overdracht naar een 
+andere lidstaat niet kon worden gerealiseerd. In dit laatste geval betekent dit dat aanvragen 
+die in eerste instantie in spoor 1 zijn afgedaan, vervolgens in de nationale procedure moeten 
+worden afgehandeld en in spoor 4 instromen. In de IND-cijfers komt dit terug als zij-
+instroom en worden dus niet meegeteld bij de asielinstroom waarover in deze paragraaf 
+wordt gerapporteerd omdat het geen eerste asielaanvraag betreft.
+4.3.5 Hoeveel asielzoekers krijgen een verblijfsvergunning en hoe vaak wordt 
+beroep ingediend?
+Inwilliging Afwijzing Overig Totaal Inwilliging-
+beslissingen percentage
+2021 11.750 7.760 410 19.910 59%
+2022 14.520 5.920 600 21.040 69%
+114
+Figuur 54: Afhandeling eerste asielaanvragen, 2021-2022 (Bron: IND)
+Het inwilligingspercentage van eerste asielaanvragen waarop in 2022 is beslist, is 69%. 
+In 2021 was dit 59%. Dit inwilligingspercentage verschilt van het eerdergenoemde percentage 
+berekend aan de hand van de gegevens opgenomen in Eurostat. Binnen Eurostat worden de 
+aanvragen die niet in behandeling worden genomen op grond van Dublin, niet meegeteld 
+als afwijzing. Bij de nationale cijfers telt dit wel als een afwijzing. Daarnaast wordt het 
+inwilligingspercentage binnen de nationale context berekend over alle beslissingen, 
+114 
+De aantallen in deze figuur verschillen (minimaal) van de aantallen die beschikbaar zijn gesteld als open 
+data. In deze figuur zijn alleen de asielvergunningen meegeteld, terwijl bij de open data ook zaken zijn 
+meegeteld waarbij de asielaanvraag is afgewezen maar na zogeheten ‘doortoetsen’ een humanitaire 
+vergunning werd verleend (B8). Dat zijn reguliere vergunningen.
+90 De Staat van Migratie 2023

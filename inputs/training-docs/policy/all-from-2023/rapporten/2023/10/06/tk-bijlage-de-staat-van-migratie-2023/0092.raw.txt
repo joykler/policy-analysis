@@ -1,0 +1,47 @@
+Beroep
+Beroep Hoger beroep
+Instroom Afgehandeld Instroom Afgehandeld
+2021 Totaal 12.000 12.890 3.640 3.280
+AA 4.130 4.360 2.900 2.660
+VA 3.840 3.930 740 620
+Dublin 4.040 4.600 * *
+2022 Totaal 16.150 13.900 3.160 3.010
+AA 2.800 3.040 1.860 1.960
+VA 9.310 7.330 1.310 1.050
+Dublin 4.050 3.530 * *
+% verschil +35% +8% -13% -8%
+2022 t.o.v.
+2021
+Figuur 57: Aantallen ingediende en afgehandelde (hoger) beroepen inclusief voorlopige voorzieningen, 2021-2022  
+(Bron: Rvdr/RvS)
+Het aantal ingediende beroepen is in 2022 met 35% toegenomen. Het aantal afgehandelde 
+beroepen nam toe met 8%. De toename was het grootst in de Dublin-zaken. In 2022 bedroeg 
+de gerealiseerde gemiddelde doorlooptijd in beroep voor AA-zaken (Algemene Asielprocedure) 
+12 weken, voor Dublin 6 weken en voor VA-zaken 21 weken. Deze doorlooptijden bevatten 
+zowel hoofdzaken als voorlopige voorzieningen.
+De totale instroom van hoger beroepszaken is in 2022 afgenomen met 13% in vergelijking 
+met 2021. Het aantal afgehandelde hoger beroepen daalde met 8%. 
+Voor de hoger beroepszaken gold over 2021 een gemiddelde doorlooptijd van 12 weken voor 
+AA-zaken en 13 weken voor VA-zaken. Deze doorlooptijden bevatten zowel hoofdzaken als 
+voorlopige voorzieningen.
+Onderstaande doorlooptijden voor de rechtbanken en de RvS naar sporen zijn door 
+JenV gegenereerd met behulp van gegevens van de IND, omdat de rechtspraak 
+geen registratie van doorlooptijden naar sporen kent. Hier zijn ook de 
+doorlooptijden per spoor bij de RvS opgenomen. De werkwijze van berekenen 
+wordt nog aangescherpt, maar deze gemiddelde doorlooptijden geven een goed 
+beeld. In de berekening van deze doorlooptijden zijn de Voorlopige Voorzieningen 
+(VoVo’s) en ‘Beroep niet tijdig beslissen’ niet meegenomen. Omdat de 
+onderstaande cijfers een andere uitsplitsing geven van de (hoger) beroepszaken 
+dan bovenstaande cijfers kunnen deze niet met elkaar worden vergeleken.
+Wettelijke termijn  Gemiddelde doorlooptijd 
+(art. 83b VW) beroep
+Spoor 1 beroep Dublin 4 weken 7 weken
+Spoor 2 beroep EU bescherming/ 4 weken 12 weken
+veilig land van herkomst
+Spoor 4 AA beroep 4 weken 17 weken
+Spoor 4 VA beroep (niet-ontvankelijk, 4 weken 35 weken
+kennelijk ongegrond, 4:6 Awb, buiten 
+behandeling gesteld)
+Spoor 4 VA beroep (overig) 23 weken
+Figuur 58: Gemiddelde doorlooptijd beroep per spoor, 2022 (Bron: JenV)
+92 De Staat van Migratie 2023

@@ -1,0 +1,35 @@
+Hoe de scenariotabel te gebruiken? De lichtgrijze band geeft aan waar 90% van de jaarwaarden voor het maximale 
+neerslagtekort binnen valt. Kortom, gemiddeld valt 9 op de 10 jaar binnen de 
+De getallen voor klimaatverandering in de scenariotabel (tabel 1) voor 2100 band en 1 op de 10 jaar valt hier nog buiten. De extreem droge jaren, zoals in 
+laten zien hoe ­ per scenario ­ het gemiddelde van de betreffende variabele het verleden 1976 (362 mm), 2018 (308 mm) en 2022 (318 mm) liggen hier dus 
+in de toekomst (2086­ 2115) verandert ten opzichte van het gemiddelde in de nog boven. Rond 2100 ligt de bovengrens van de 90%­ range van het droogste 
+referentieperiode (1991-2020). Beide gemiddelden gaan over perioden van 30 scenario Hd op 445 mm. De meest extreme droogtes in het scenario Hd kunnen 
+jaar. Door natuurlijke variaties zullen de waarden het ene jaar hoger en het andere nog flink droger worden dan dat. Ook blijven er natte jaren voorkomen, zoals de 
+jaar lager zijn. In de figuren in dit rapport geeft de lichtgrijze band 90% van deze ondergrens van de 90%­ range aangeeft. 
+jaar­ op­ jaar variaties weer (zie voorbeeld hieronder). 
+Maximaal neerslagtekort april-september 
+Het KNMI berekent om de 10 jaar langjarige gemiddelden (‘normalen’) voor een groot aantal Toenemende droogte 
+KNMI-stations. De meest recente langjarige gemiddelden gaan over de periode 1991-2020. 
+Dit is de referentieperiode voor ‘het klimaat van nu’. De getallen voor klimaatverandering zijn 
+ten opzichte van deze periode berekend.
+Rekenvoorbeeld
+Stel, je wilt weten hoe het maximale neerslagtekort (een maat voor droogte) in 
+Nederland rond 2100 is veranderd:
+1) Zoek in de scenariotabel de variabele op onder ‘zomer’ en lees af in de lichtblauwe  
+kolom: Het gemiddelde maximale neerslagtekort is nu (1991­ 2020): 160 mm.
+2) Lees in de laatste vier kolommen de getallen voor 2100 af: Het gemiddelde 
+maximale neerslagtekort neemt in alle vier de scenario’s rond 2100 toe ten 
+opzichte van nu (1991­ 2020), maar het meest in het scenario Hoge uitstoot, 
+droog (Hd) met +79%. De kleinste toename geeft het scenario Lage uitstoot, 
+nat (Ln) met +13%. Figuur 1. Maximaal neerslagtekort april-september (mm), landelijk gemiddeld: waarnemingen (zwart) 
+en de vier KNMI’23-klimaatscenario’s (2050 en 2100, in vier kleuren).
+3) Dit geeft de volgende range voor de vier scenario’s voor het gemiddelde 
+maximale neerslagtekort (gemiddeld in de periode 2086­ 2115): tussen de  5) De conclusie is dat het maximale neerslagtekort rond 2100 (2086­ 2115) ten 
+181 en 286 mm. opzichte van nu (1991­ 2020) in alle vier de scenario’s toeneemt. Vooral in het 
+• Hd, scenario Hoge uitstoot, droog: 160 x 1,79 = 286 mm scenario Hoge uitstoot, droog (Hd) is er sprake van een zeer sterke toename in 
+• Ln, scenario Lage uitstoot, nat: 160 x 1,13 = 181 mm de droogte.
+4) Van jaar tot jaar kunnen grote verschillen in droogte optreden. Dat zie je ook 
+als je in Figuur 1 kijkt naar het waargenomen maximale neerslagtekort per jaar 
+(1906­ 2022): de zwarte bolletjes liggen zowel (ver) boven als (ver) onder de 
+blauwe trendlijn.
+KNMI’23-klimaatscenario’s Kerncijfers KNMI’23 6

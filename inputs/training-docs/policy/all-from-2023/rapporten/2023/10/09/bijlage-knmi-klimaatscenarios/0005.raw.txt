@@ -1,0 +1,26 @@
+Kerncijfers KNMI’23
+Toelichting tabel 1
+De getallen voor klimaatverandering zijn voor temperatuur afgerond op 0,1°C, 
+2
+voor de andere variabelen onder de tien op 0,1 (mm, dagen, %, m/s, W/m ) en 
+daarboven op hele getallen. Ranges zijn afgerond op hele getallen. 
+Landelijk gemiddelden zijn bepaald op basis van de volgende meetstations: 
+• T emperatuur, zonnestraling, verdamping, vochtigheid, wind: gemiddelde 
+van vijf stations: De Bilt, De Kooy, Eelde, Vlissingen, Maastricht.
+• Neerslag: gemiddelde van 13 neerslagstations (P13).
+• Droogte: P13 neerslagstations + verdamping op de meest nabije  
+KNMI­ stations.
+Zie www.knmi.nl/klimaatscenarios voor de uitgebreide tabel met getallen voor 
+klimaatverandering voor de KNMI’23­ klimaatscenario’s, voor meer variabelen, 
+seizoenen, tijdshorizonten (2150), locaties, aanvullende berekeningen voor een 
+matige uitstoot, aanvullende impact cases en eventuele errata. Op de de laatste 
+pagina (p. 65) van dit rapport staan voor vijf locaties enkele scenariogetallen.
+1  De referentieperiode voor zeespiegel is 1995­ 2014. Het gemiddelde zeespiegelniveau is in deze periode op 
+0 gezet.
+2  De relatieve vochtigheid is in procentpunten (voorbeeld: 80% in de referentie, met 1% erbij wordt 81%). 
+3  De hoeveelheid neerslag in de referentieperiode is de hoeveelheid die gemiddeld eens per jaar op een locatie 
+voorkomt, zoals beschreven in STOWA 2019­ 19, Neerslagstatistiek en ­ reeksen voor het waterbeheer 2019; 
+update volgt in 2024. Afgerond op hele getallen. 
+4  Gebaseerd op een andere methodiek en modellen en met een onzekerheidsband vanwege de bandbreedte in 
+kleinschalige processen rond buien (zie hoofdstuk Zomerbuien, hagel en onweer).
+KNMI’23-klimaatscenario’s Kerncijfers KNMI’23 5
