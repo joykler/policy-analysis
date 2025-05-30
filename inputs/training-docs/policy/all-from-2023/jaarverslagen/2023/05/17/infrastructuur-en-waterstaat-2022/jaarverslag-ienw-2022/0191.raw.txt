@@ -31,4 +31,4 @@ waarschijnlijke uitkomsten staan vermeld in de kolommen 4, 5 en 6. Als
 het bedrag in kolom 6 inclusief de basisonnauwkeurigheid en het nauwkeu­
 righeidsverval de tolerantiegrens overschrijdt, maar het bedrag in kolom 
 6 niet, wordt in kolom 7 géén percentage vermeld.
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 191
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1

@@ -45,4 +45,4 @@ Deze indicator geeft de ontwikkeling weer van de PIN-waarden (prestatie-
 indicatorwaarden) per netwerk. In de berekening van de PIN-waarden wordt 
 het verslagjaar als basisjaar genomen en worden de voorgaande jaren 
 hierop aangepast.
-Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1 219
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 XII, nr. 1
