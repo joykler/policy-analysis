@@ -1,0 +1,46 @@
+De MIVD levert dreigings- en inlichtingenanalyses aan de mi-
+Voor een analyse worden diverse bronnen gebruikt; deze 
+nisteries van Defensie, Algemene Zaken, Buitenlandse Zaken 
+staan in dit overzicht:
+en Veiligheid & Justitie. Daarnaast zijn bondgenoten, nationa-
+- Open Source Intelligence (OSINT): verzamelen en analyseren 
+le en internationale organisaties van dreigings- en inlichtin-
+van informatie uit open bronnen
+genanalyses voorzien. De analyses kunnen op 3 niveaus wor-
+- Imagery Intelligence (IMINT): analyse en rapportage van inlich-
+den uitgevoerd. De strategische analyses geven inzicht in de 
+tingen aan de hand van beelden verkregen van  satellieten en 
+algemene veiligheidssituatie en de stabiliteit van een regio of 
+luchtgebonden platformen
+een land. Daarnaast stelt de MIVD militair/operationele analy-
+- Classiﬁed Intelligence (CLASSINT): Gerubriceerde informatie 
+ses over capaciteiten, activiteiten en intenties van opposing 
+en inlichtingen, verkregen van (inter)nationale militaire netwer-
+military forces op voor militaire operaties, waar Nederlandse 
+ken en partners   
+militairen bij betrokken zijn. Deze analyses worden gemaakt 
+- Signals Intelligence (SIGINT): inlichtingen, verkregen uit onder-
+voor uitgezonden eenheden en geven speciﬁeke en gevalideer-
+schepping en verwerking van gegevens uit telecommunicatie en 
+de informatie over het inzetgebied. Tactische analyses onder-
+elektromagnetische uitzendingen
+steunen de patrouilles en operaties in het uitzendgebied met 
+- Human Intelligence (HUMINT): inlichtingen op basis van infor-
+inlichtingen. 
+matie uit menselijke bronnen
+- Medical Intelligence (MEDINT): informatie op medisch gebied
+- Geospatial Intelligence (GEOINT): een analysetechniek waarbij 
+De MIVD werkt met teams bestaande uit analisten en specialis-
+verschillende soorten inlichtingen overzichtelijk op een land-
+ten voor het verzamelen van informatie. De rapportages van 
+kaart worden gepresenteerd.
+de dienst zijn all-source producten op basis van OSINT, IMINT, 
+- Cyber (Computer Network Exploitation): het verzamelen van 
+CLASSINT, SIGINT, HUMINT, MEDINT, GEOINT en Cyber, van 
+inlichtingen uit genetwerkte computers.
+informatie uit andere delen van het inlichtingen en –veilig-
+heidsnetwerk van defensie en informatie van partnerdiensten 
+uit binnen- en buitenland. Bruikbare inlichtingenproducten 
+zijn tijdig, zo beknopt mogelijk en toegesneden op de infor-
+matiebehoee van de gebruikerft . 
+8
