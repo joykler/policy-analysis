@@ -1,0 +1,38 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+1. Ongeval met vracht- of bestelwagen
+Omschrijving ongewenste gebeurtenis
+Ongevallen met vracht- en bestelwagens kunnen door uiteenlopende oorzaken ontstaan. Achterliggende oorzaken zijn 
+bijvoorbeeld tijdsdruk en vermoeidheid van chauffeurs, de slechte technische staat van de voertuigen of overbelading.
+Toezicht door de ILT
+De ILT houdt toezicht op de overschrijding van rij- en rusttijden en op tachograaffraude. Daarmee wil zij het aantal 
+ongevallen door de vermoeidheid van chauffeurs terugbrengen.
+Populatie
+Slachtoffers van ongevallen met vracht- of bestelwagens kunnen de chauffeurs zelf zijn, maar ook alle andere weg-
+gebruikers. Dus het aantal mensen dat jaarlijks risico loopt is meer dan 10 miljoen.
+Frequentie
+Bij een verkeersongeval waarbij een vracht- of bestelwagen betrokken is vielen in de periode 2009-2018 jaarlijks 
+gemiddeld 147 doden [10]. Daarvan is 15-20% (gemiddeld 17,5%) een gevolg van vermoeidheid [9]. De ILT rekent daarom 
+met 25,73 doden per jaar. Daarnaast meldt de SWOV: Stichting Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV) 
+2
+dat in 2021 bij álle verkeersongevallen in Nederland 582 doden en 6.800 zwaargewonden [11] vielen. Er zijn dus 11,68 
+keer meer zwaargewonden dan doden.
+De frequentie schat de ILT op continu.
+Effecten
+Fysiek letsel
+In de periode 2009 tot 2018 werden jaarlijks gemiddeld 80 verkeersdoden geregistreerd in ongevallen met vrachtauto’s 
+[10]. In diezelfde periode werden jaarlijks gemiddeld 67 verkeersdoden geregistreerd in ongevallen met bestelauto’s [10]. 
+Dus in totaal vallen jaarlijks gemiddeld 147 doden bij verkeersongevallen waarbij een vracht- of bestelwagen is betrok-
+ken. Daarvan is 15-20% (gemiddeld 17,5%) een gevolg van vermoeidheid [9]: 17,5 x 147 doden = 25,73 doden. Dit geeft 
+een schadebedrag van (25,73*€ 4,1=) € 105,5 miljoen.
+Het is niet bekend hoeveel ernstig verkeersgewonden bij ongevallen met vracht- en bestelauto’s vallen. De SWOV kan dit 
+aantal sinds 2009 niet meer betrouwbaar vaststellen [11]. De SWOV vermeldt dat in 2021 bij álle verkeersongevallen in 
+Nederland 5820 doden vallen [12] en 6.800 zwaargewonden [15]. Er zijn dus 11,68 keer meer zwaargewonden dan doden.
+De ILT gebruikt deze factor voor het berekenen van het aantal zwaargewonden bij verkeersongevallen waarbij een 
+vracht- of bestelwagen is betrokken: 25,73 x 11,68 = 214,68 zwaargewonden. Dit levert een bedrag aan fysiek letsel-
+schade op van (214,68* € 408.000=) € 87,6 miljoen.
+Dit bedrag is een onderschatting, het aantal lichtgewonden zit hier nog niet in. Dat aantal lichtgewonden is onbekend (#).
+Economie, Milieu, en Gezondheidsschade
+Niet van toepassing.
+2 
+SWOV heeft de definitie van zwaargewond aangepast en daarom is hier een significante daling te zien.
+Inspectie Leefomgeving en Transport | 168

@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+1. Geluidsoverlast luchtvaartuig Schiphol
+Omschrijving ongewenste gebeurtenis
+Geluidsoverlast ontstaat door individueel vlieggedrag en door de overschrijding van een bepaalde grenswaarde aan 
+geluid.
+Toezicht door de ILT
+De wet- en regelgeving moet vermijdbare geluidhinder tegengaan. De ILT onderscheidt 2 soorten hinder. Als eerste de 
+overschrijding van grenswaarden. Dit zijn jaartotalen van geluidsbelasting. Bij de tweede soort gaat het om individuele 
+gedragingen die geluidhinder tot gevolg kunnen hebben. Voorbeelden hiervan zijn het verkeerd baangebruik en het 
+onjuiste gebruik van aan- en uitvliegroutes. De ILT controleert op afwijkingen van routes en minimale vlieghoogten, die 
+mogelijk zijn veroorzaakt door gezagvoerders. Daarnaast controleert de ILT op juist gebruik van banen en 
+openingstijden. 
+Populatie
+Geluidsoverlast van luchthavens raakt de populatie die in de nabijheid van de luchthaven of aanvliegroutes woont of 
+verblijft. Dit betreft de categorie 1-10 miljoen personen.
+Frequentie
+Jaarlijks stelt de ILT, voor de luchthavens, handhavingsrapportages op. Het doel daarvan is te laten zien wat de toe-
+zichtactiviteiten van de ILT waren. En of de luchthavens zich hebben gehouden aan de milieueisen [12-15]. Elk jaar 
+presenteert de ILT de Staat van Schiphol met, onder andere, informatie over de veiligheid en leefbaarheid rondom 
+Schiphol.
+In 2018 werd bij 1,2% van de dagvluchten en bij 9,4% van de nachtvluchten afgeweken van de voorgeschreven vliegroute 
+[14]. In 2019 is bij 1,1% van de dagvluchten en 10,2% van de nachtvluchten afgeweken van de voorgeschreven vliegroute [15]. 
+In 2020 en 2021 constateerde de ILT geen overtredingen op het gebied van baangebruik.
+De ILT stelt 1 keer per jaar overschrijdingen van de milieuwetgeving vast op basis van 35 handhavingspunten voor het 
+hele etmaal (L ) en 25 handhavingspunten specifiek voor de nacht (L ) [15].
+den night
+Totaal aantal handhavingspunten 
+Jaar met overschrijding Totale overschrijding Lden dB(A)
+2018 4 1,85
+2019 5 3,43
+2020 0 0
+2021 1 0,19
+2022 0 0
+Gemiddelde vijf jaar 2 1,09
+Effecten
+Gezondheidsschade
+Deze berekening gaat alleen uit van (lokale) geluidhinder door vliegtuigen, als gevolg van overschrijding van de 
+geluidsnormen. Dat is een fractie van de totale geluidhinder. In de gemeenten rond Schiphol, waar de handhavingspun-
+ten liggen, is sprake van ongeveer 510.000 personen. Bij eerdere versies van de IBRA lag dit lager.
+De schadeprijs is afhankelijk van het dB(A)-niveau van de overschrijding. De ILT gebruikt het hoogste dB(A)-niveau, om 
+een schaduwprijs per dB(A) voor alle overschrijdingen te bepalen. Deze stelt de ILT op € 214 per dB(A) per persoon [16]. 
+Voor de lagere dB(A)-niveaus is daarom sprake van enige overschatting. Verder stelt de ILT voor de berekening de 
+schadeprijs van een dB(A)-overschrijding op Lnight gelijk aan een dB(A)-overschrijding op Lden. Ook hier is daarom 
+sprake van enige overschatting.
+Inspectie Leefomgeving en Transport | 113

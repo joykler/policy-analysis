@@ -1,0 +1,44 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Bodem en grondwaterkwaliteit
+Omschrijving
+Schadelijke stoffen verontreinigen de bodem en het grondwater. Ze kunnen ook in het oppervlaktewater terecht komen. 
+De verontreiniging treedt op door bewuste en onbewuste lozingen en lekkages, door neerslag vanuit de lucht en door 
+uitspoeling uit toegepaste grond, bagger en bouwstoffen. 
+• De berekende maatschappelijke schade voor dit onderwerp: 560 miljoen euro
+• Is er extra schade waarvoor geen bedrag kan worden bepaald? Ja, zie ongewenste gebeurtenis 3. 
+• Aanzienlijke schade binnen de wettelijke regels: Onbekend.
+• Schade als Buitengewone gebeurtenis: Nee.
+Regelgeving en doel
+Er zijn veel regels voor bodembescherming, grondverwerking, opslag en reiniging, import en export [1 t/m 7]. Deze 
+wet- en regelgeving moet de bodem en het grondwater (onderdeel van de bodem) beschermen tegen verontreiniging. 
+Ook moet ze mensen beschermen tegen schade door verontreiniging.
+Bijzonderheden
+1. Naast de ILT houden andere partijen toezicht op het beschermen en saneren van bodem en het verwerken en 
+toepassen van grond (omgevingsdiensten, provincies, waterschappen, Rijkswaterstaat). Ook certificerende 
+instellingen zorgen dat bedrijven deze activiteiten volgens bepaalde normen uitvoeren. Deze instellingen staan 
+onder toezicht van de ILT.
+2. De ILT voert toezicht op de zogenoemde ‘eigen werken’ van Rijkswaterstaat. Dit zijn grond- en waterwerken die 
+bedrijven uitvoeren in opdracht van Rijkswaterstaat.
+3. Bestaande of bekende bodemverontreinigingen neemt de ILT niet als schade mee bij dit onderwerp, maar wel 
+eventuele schades bij het saneren van deze bekende bodemverontreiniging.
+4. Dit onderwerp komt ook voor bij aan Defensie gerelateerde ongewenste gebeurtenissen, waar de ILT ook toezicht 
+op houdt.
+Discussiepunten
+Grote (bagger)werken, zoals de Markerwaard, kunnen zorgen voor variaties in de jaarlijks gerapporteerde hoeveelheden. 
+Daarom kiest de ILT ervoor om, voor zover beschikbaar, de gemiddelde cijfers over de afgelopen 5 jaar te gebruiken.
+Voor grond en bagger zijn deze gevonden in de jaarlijkse rapportages ‘Afval in Nederland’ van Rijkswaterstaat  
+(2017-2021) [10]. Voor bouwstoffen zijn hiervoor de cijfers gebruikt van de categorie ‘mineraal afval’ van de CBS Statline 
+Afvalbalans uit 2020 [8]. Deze categorie is bijzonder heterogeen van samenstelling. En deze bevat onder andere beton-, 
+steen- en gipsafval, gemengd bouwafval, slakken en as van verbranding, asfaltgranulaat en afval van delfstoffen en 
+kunstmatige mineralen. Een deel van het mineraal afval wordt nuttig toegepast als ophoogmateriaal. Een ander deel 
+wordt verwerkt als toeslagmateriaal in bouwmaterialen (ter vervanging van bijvoorbeeld grind of zand). En een deel 
+wordt gestort.
+De (afval)categorie slib [8] bevat afvalwaterzuiveringsslib, drinkwaterslib en de inhoud van septic tanks. De verwerking 
+– hoofdzakelijk verbranding – maakt dat deze categorie geen goede maat is voor schade door bodemverontreiniging.
+Er is sprake van een onderschatting van de schade door bodemverontreiniging. Dit komt doordat de ILT niet in staat is de 
+schade door neerslag uit de lucht en lozingen op de bodem en in het water te kwantificeren.
+Overzicht van ongewenste gebeurtenissen 
+1. Onjuist verwerken van verontreinigde bagger, grond en bouwstoffen
+2. Niet registreren van verontreiniging of verwerking van verontreinigde grond en bagger
+3. Niet voldoen aan milieukwaliteitseisen of onjuist uitvoeren van bodembeschermingsmaatregelen
+Inspectie Leefomgeving en Transport | 64

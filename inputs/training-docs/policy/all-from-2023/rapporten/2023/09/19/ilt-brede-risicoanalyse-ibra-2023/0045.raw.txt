@@ -1,0 +1,50 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Toezicht door de ILT
+De ILT houdt toezicht op afvalstoffenregelgeving. Deze gaat over het inzamelen, verwerken hergebruiken en verwijderen 
+van afval. Daarnaast speelt de ILT een rol bij vergunningverlening op grond van de Europese Verordening Overbrenging 
+Afvalstoffen (EVOA) en het toezicht daarop. De ILT heeft vanuit de regelgeving de taak te zorgen voor versterking van de 
+samenwerking in het toezicht op afvalstromen. 
+Populatie
+De gehele Nederlandse bevolking. Dat is de categorie meer dan 10 miljoen personen.
+Frequentie
+Onvoldoende hergebruik van afvalstromen is een continu proces.
+Effecten
+Milieu
+De milieuschade berekent de ILT aan de hand van de milieuprijzen [14]. De schade is in onderstaande tabel 2 per 
+afvalcategorie te zien. Elke afvalcategorie ziet de ILT als een aparte ongewenste gebeurtenis.
+De ILT hanteert (in de tabel) dezelfde 14 categorieën afval die het CBS hanteert in de Afvalbalans [11]. In de tabel staat de 
+milieuschade per ongewenste gebeurtenis, de gehanteerde milieuprijzen [14] en de aannames die gedaan zijn voor de 
+berekening van de schades.
+Tabel 2. Ongeregistreerd Afval.
+Veronder-
+Totaal afval Veronder- steld Bedrag 
+herkomst NL steld Ongeregi- milieuprijs Schade  
+en buitenland Ongeregi- streerd Soort (peil 2020) (miljoen 
+Ongeregistreerd Afval (x1000ton) streerd (%) (x1000ton) milieuprijs (€/ton) euro)
+Afgedankt materiaal 742 30% 223 Ongecontr stort 839 187
+- Verbranding 1076 -
+Ander metaalafval 634 10% 63 Gecontroleerde 3933 249
+stort
+Chemisch afval 2074 10% 207 Verbranding/ 1075 223
+Ongec. Stort
+Dierlijk en plantaardig afval 24439 10% 2444 Verbranding 37 89
+- Stort 17 -
+Gemengd afval - Verbranding 830 -
+9733 15% 1460 Ongec. Stort 867 1265
+Gemengd metaalafval 585 15% 88 Ongecontroleerde 1209 106
+stort
+Glasafval 1148 10% 115 Ongecontr stort 82 9
+Houtafval 5289 10% 529 Ongecontr 109 57
+- Verbranden 65 -
+IJzerafval 5882 0% - Ongecontroleerde 741 -
+stort
+Overig recyclebaar afval 0 0% - Ongec. Stort 818 -
+Papierafval 4802 0% - Verbranding 303 -
+- Ongecontr stort 504 -
+Plasticafval - Verbranding 783 -
+1191 10% 119 Ongec. Stort 727 87
+Rubberafval 224 0% - Ongec. Stort 356 -
+Textielafval - Verbranding 1331 -
+309 10% 31 Ongecontr stort 1286 40
+2313
+Inspectie Leefomgeving en Transport | 45

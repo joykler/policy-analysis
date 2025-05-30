@@ -1,0 +1,46 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+1. Cybersecurity incident vitale aanbieder
+Omschrijving ongewenste gebeurtenis
+Een gerichte cyberaanval op een Nederlandse vitale aanbieder, waarbij deze voor langere tijd verstoord raakt, heeft 
+vergaande schade tot gevolg. Als definitie van ‘vitale aanbieder’ wordt hier de definitie uit de WBNI gebruikt [2]. De 
+digitale dreiging van landen in de vorm van spionage en sabotage zijn een permanente dreiging voor onze nationale 
+veiligheid. Ook het risico van grootschalige uitval van vitale processen is onverminderd aanwezig. De kwetsbaarheden in 
+Citrix-producten, de onbereikbaarheid van alarmnummer 112 door een storing bij KPN en ransomware-aanvallen zoals 
+op de Universiteit Maastricht in 2019 zijn voorbeelden daarvan.
+Toezicht door de ILT
+De ILT ziet erop toe dat de vitale aanbieders passende en evenredige maatregelen nemen om de risico’s voor de 
+beveiliging van hun netwerk- en informatiesystemen te beheersen en eventuele incidenten melden bij de Minister van 
+Justitie en Veiligheid, het Computer Security Incident Response Team (CSIRT) en de bevoegde autoriteit.
+Populatie
+De gehele Nederlandse bevolking kan worden getroffen. Populatie meer dan 10 miljoen.
+Frequentie
+In het Cybersecuritybeeld 2022 concludeert de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV): 
+“Cyberaanvallen door statelijke actoren zijn niet meer zeldzaam te noemen; ze zijn eerder het nieuwe normaal” [1]. De 
+frequentie is desondanks 0, er hebben zich nog geen maatschappijontwrichtende voorvallen voorgedaan.
+Effecten
+Fysiek letsel, Economie Milieu en Gezondheidsschade
+Omdat zich in Nederland nog geen cyberincidenten met maatschappelijke schade hebben voorgedaan stelt de ILT de 
+schade op € 0. Mocht een dergelijk incident zich voordoen, dan is de schade waarschijnlijk groot of zeer groot. Zie 
+hiervoor de berekening van mogelijke schade bij de buitengewone gebeurtenissen hieronder. 
+2. Cybersecurity incident drinkwatervoorziening BG
+Omschrijving buitengewone gebeurtenis
+Een gerichte cyberaanval op de Nederlandse drinkwatervoorziening, waarbij deze voor langere tijd verstoord raakt, heeft 
+vergaande fysiek letselschade tot gevolg. 
+Toezicht door de ILT
+De ILT ziet erop toe dat de vitale aanbieders passende en evenredige maatregelen nemen om de risico’s voor de 
+beveiliging van hun netwerk- en informatiesystemen te beheersen en eventuele incidenten melden bij de Minister van 
+Justitie en Veiligheid, het Computer Security Incident Response Team (CSIRT) en de bevoegde autoriteit.
+Populatie
+De gehele Nederlandse bevolking kan worden getroffen. Populatie meer dan 10 miljoen. 
+Frequentie
+Buitengewone gebeurtenis.
+Effecten
+De NCTV signaleert in de Risico- en crisisbarometer najaar 2022 dat Nederlanders het stoppen van vitale processen 
+(waaronder drinkwatervoorziening) ernstiger en waarschijnlijker zijn gaan vinden [4].
+Het Nationaal Cybersecurity Centrum en de NCTV hebben samen het Nationaal Crisisplan Digitaal opgesteld. Daarin 
+maken zij onderscheid tussen incidenten in de vitale processen van categorie A en categorie B [5]. 
+Categorie A bevat als vitale processen onder andere:
+• Drinkwatervoorziening
+• Keren en beheren waterkwantiteit
+• Opslag, productie en verwerking van nucleair materiaal
+Inspectie Leefomgeving en Transport | 80

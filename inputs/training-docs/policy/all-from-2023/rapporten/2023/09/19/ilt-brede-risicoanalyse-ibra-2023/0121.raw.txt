@@ -1,0 +1,47 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Genetische Modificatie de risico’s voor mens en milieu op verzoek van de minister van IenW. Het toezicht van de ILT is 
+erop gericht om de (potentiële) gevolgen van incidenten te beperken, te inventariseren en uit te dragen.
+Populatie
+Alle mensen (en ook planten, dieren en micro-organismen) in Nederland (en zelfs daarbuiten) lopen risico. Dit valt dus in 
+de categorie ‘meer dan 10 miljoen’.
+Frequentie
+Het aantal meldingen van incidenten steeg de afgelopen 10 jaar (sinds 2011) in Nederland van enkele naar circa  
+10 meldingen per jaar. Dit zijn alle meldingen op de 3 veiligheidsniveaus die in Nederland voorkomen, ook wel 
+inperkingsniveaus genoemd: van I (weinig risico) tot en met III (hoog risico).  
+Overzicht van de meldingen in Nederland van de afgelopen 5 jaar verdeeld naar inperkingsniveau: 
+Jaar Niveau I Niveau II Niveau III Totaal
+2018 6 2 3 11
+2019 7 6 4 17
+2020 4 2 1 7
+2021 4 1 1 6
+2022 4 4 3 11
+Tot inperkingsniveau I behoren activiteiten met ggo’s die leiden tot een verwaarloosbaar klein risico voor mens en 
+milieu. Activiteiten met ggo’s die behoren tot niveau IV (nog niet in Nederland voorgekomen), hebben het hoogste risico. 
+Deze ggo’s zijn potentieel dodelijk en kunnen permanente schade veroorzaken aan het milieu. Uitbraken van een voor 
+mens of milieu gevaarlijk ggo uit een laboratorium (niveau IV), zijn zeldzaam.
+Het aantal meldingen in 2021 (11) is hoger dan in 2020 (6), maar vergelijkbaar met het gemiddelde van afgelopen 5 jaar. 
+Gemiddeld over de jaren 2018-2022 melden mensen ongeveer 10 incidenten met ggo’s per jaar bij de ILT. De frequentie 
+wordt daarmee vastgesteld op eens per ‘1-3 maanden’.
+Effecten
+De incidenten lopen uiteen van het morsen van een kleine hoeveelheid ggo’s, tot het vrijkomen van 2.700 liter kweek-
+medium. Dat is een stof waarin een ggo zich vermeerdert. De effecten van een vrijgekomen ggo kunnen direct merkbaar 
+zijn bij mens, dier of milieu. Maar dit kan ook gevolgen hebben op de langere termijn, en kan zelfs invloed hebben op 
+meerdere generaties. Bovendien kunnen de effecten grensoverschrijdend zijn.
+De volgende voorbeelden geven een indruk van nationale en internationale calamiteiten.
+Voorbeeld 1: Schade aan het milieu door het onjuist toepassen van veiligheidsvoorschriften. 
+In 2015 loost een laborant een genetisch gemodificeerde (gg) schimmel-cultuur in de Achterhoek. Via de afvalwaterzui-
+vering kan deze gg-schimmel in het oppervlaktewater komen en zich dan vestigen in de lokale omgeving. De wildtype 
+variant groeit namelijk in bijvoorbeeld ingekuild veevoer (kuilvoer). Ingekuild veevoer ontstaat als boeren gras drogen in 
+kuilen, waardoor het meer voedingsstoffen behoudt. Ingekuild veevoer met deze gg-schimmel is onwenselijk. De schade 
+is onbekend, maar kan groot zijn. Omdat bij verdere verspreiding van de gg-schimmel veel kuilvoer onbruikbaar wordt. 
+Dat heeft grote gevolgen voor de melkveehouderij.
+Voorbeeld 2: Ongewenst verspreiding van een genetisch gemodificeerd (gg) gewas.
+In 2017 blijkt uit Fins onderzoek [5], dat een oranje gg-petunia op de markt beschikbaar is. Na wereldwijde signalering 
+blijken er al jaren meerdere gg-planten zonder vergunning te zijn veredeld en verspreid. Gelukkig kan de petunia niet 
+overleven in de Nederlandse natuur. Grassen kunnen zich wel vestigen. En daar bestaan buiten Europa ook gg-varianten 
+van. Deze gg-varianten zijn niet in de EU toegelaten. Terwijl ze elders in de wereld (bijvoorbeeld in de Verenigde Staten 
+en Australië) vrij van regelgeving zijn. Dit vergroot de kans dat deze grassen als zaden Nederland binnenkomen en zich 
+hier vestigen. Daarbij kunnen ongewenste modificaties, die een concurrentievoordeel bieden, (bijvoorbeeld resistentie-
+genen tegen gewasbeschermingsmiddelen) langzaam de inheemse populaties binnendringen. De schade is niet uit te 
+rekenen.
+Inspectie Leefomgeving en Transport | 121

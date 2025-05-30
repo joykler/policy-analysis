@@ -1,0 +1,48 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Frequentie
+Externe veiligheid buiten de inrichting
+Voor munitie-opslagen gelden effectzones. Deze effectzones zijn vergelijkbaar met zones voor externe veiligheid. Er zijn geen 
+overschrijdingen van deze zones bekend. Wel heeft het de ILT continu aandacht voor het voorkomen van overschrijdingen.
+Er zijn buiten Defensie-inrichtingen in Nederland de laatste decennia geen ongevallen geweest, met munitie of andere 
+gevaarlijke stoffen (externe veiligheid), waarbij slachtoffers vallen. Het RIVM stelt de kans op een dergelijke ongeval 
+6
+afloop binnen Nederland op 10 [16]. In het buitenland zijn wel munitiemagazijnen ontploft. Daarbij vielen slachtoffers en 
+vond soms een grootschalige evacuatie plaats. Bijvoorbeeld in Oekraïne (oktober 2018) [17].
+Samengevat: de ILT houdt de frequentie 0 aan.
+Milieuschade
+Frequentie vanwege milieu gerelateerde normoverschrijdingen en incidenten behandelt de ILT merendeels al in andere 
+IBRA-factsheets. Zie ook ‘vergelijkbare activiteiten’.
+Opmerking: Om de frequentie van normoverschrijding en daarmee ook de omvang van de risico’s van de ‘vergelijkbare’ 
+activiteiten enigszins in IBRA-perspectief te brengen, introduceert de ILT een rekenfactor. Daarbij is het een aanname dat 
+de omstandigheden binnen Defensie gelijk zijn aan de landelijke omstandigheden van het landsbrede toezichtveld van 
+het totale ILT-werk. Die omstandigheden en het naleefgedrag zullen waarschijnlijk niet geheel overeenkomen. Mede 
+omdat de ILT tot Defensie, Domeinen en TNO een eerstelijns verantwoordelijkheid heeft.
+Het gebruik van een rekenfactor is daarom slechts kwalitatief bedoeld.
+De gehanteerde rekenfactor heeft als basis de omvang van de beroepsbevolking bij Defensie ten opzichte van de gehele 
+Nederlandse bevolking.
+Er werken ruim 68.000 militairen, burgers en reservisten bij Defensie (2022) [19]. De totale beroepsbevolking van 
+Nederland (2018) is ongeveer 8,7 miljoen [20].
+-3
+Daarom hanteert de ILT voor de frequentie een rekenfactor van 0,068 / 8,7 = 7 x 10.
+De frequenties van de verschillende ‘andere’ van toepassing zijnde IBRA-onderwerpen vermelden we hier niet. Deze 
+komen hierna wel impliciet terug bij de effectberekening. 
+Effecten
+Fysiek letsel
+Externe veiligheid buiten de inrichting
+Mogelijke effecten van opgeslagen munitie en gevaarlijke stoffen zijn: explosie, fragmentatie, vuurbal, schokgolf en het 
+vrijkomen van giftige stoffen.
+Munitie-opslagen hebben veiligheidszones om overmatige effecten van een explosie richting voor de omgeving te 
+voorkomen. Opgeslagen (brand-) gevaarlijke stoffen kunnen in of dichtbij (dicht)bewoond gebied liggen. Daardoor kunnen 
+de effecten van calamiteiten buiten betreffende Defensie-inrichtingen groot zijn. Omdat de frequentie van het optreden 
+van dit soort incidenten/effecten gevallen zeer gering is en het effect niet is opgetreden, staat de schadelast op € 0.
+Economie, Milieu en Gezondheidsschade
+Mogelijke effecten van incidenten/overtredingen zijn al beschreven in ‘andere’ IBRA-onderwerpen. Deze effecten gaan 
+(kort samengevat) vooral over emissies en lozingen en milieuverontreinigingen die de gezondheid en het klimaat kunnen 
+schaden.
+Opmerking: Het totaal van de berekende schadelast van deze ‘andere’ IBRA-onderwerpen is € 1,4 miljard op de categorie 
+gezondheid, € 4,6 miljard op de categorie milieu (met #) en € 8 miljoen (met #) op de categorie economie. Om soort-
+-3
+gelijke schade van Defensie-inrichtingen te kunnen inschatten, gebruiken we de rekenfactor 7x10 (zie bij ‘frequentie, 
+milieuschade’). Als we deze rekenfactor toepassen komt de geschatte schade op circa € 9,8 miljoen op de categorie 
+gezondheid, circa € 32,2 miljoen op de categorie milieu (met #) en circa € 0,1 miljoen op de categorie economie (met #).
+Inspectie Leefomgeving en Transport | 86

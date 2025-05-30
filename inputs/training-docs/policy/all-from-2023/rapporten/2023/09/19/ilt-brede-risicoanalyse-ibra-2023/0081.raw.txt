@@ -1,0 +1,44 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Categorie A is als volgt omschreven:
+In deze categorie staat de infrastructuur die bij verstoring, aantasting of uitval, de ondergrenzen van minstens een van 
+de drie impactcriteria (economisch, fysiek of sociaal maatschappelijk) voor categorie A raakt en daarnaast ook voldoet 
+aan het criterium van cascade gevolgen: 
+1. Economische gevolgen: meer dan circa € 50 miljard schade of circa 5,0 % daling reëel inkomen. 
+2. Fysieke gevolgen: meer dan 10.000 personen dood, ernstig gewond of chronisch ziek. 
+3. Sociaal maatschappelijke gevolgen: meer dan 1 miljoen personen ondervinden emotionele problemen of ernstig 
+maatschappelijke overlevingsproblemen. 
+4. Cascade gevolgen: uitval heeft als gevolg dat minimaal twee andere sectoren uitvallen.
+Economie
+Er zijn geen harde cijfers bekend van de schadekosten. In het ‘Coördinatieplan uitval Drinkwatervoorziening’ [6] spreekt 
+de veiligheidsregio Brabant Noord van een scenario waarbij de drinkwatervoorziening uitvalt voor tenminste 2.000 
+aansluitingen, gedurende tenminste acht uur.
+De veiligheidsregio schat de (economische) schade in op enkele tientallen miljoenen euro’s.  
+Bij een doelbewuste (cyber)aanval is het waarschijnlijk dat de verstoring langer duurt en meer aansluitingen treft. Bij 
+(veel) meer aansluitingen en uitval gedurende langere tijd is het waarschijnlijk dat de schade toeneemt. (#)
+Fysiek letsel
+De NCTV houdt rekening met cascade-effecten. De ILT rekent voor deze schade met 2.500 doden en 7.500 ernstig 
+gewonden. De maatschappelijke schade is dan ruim €13 miljard. 
+Milieu, Gezondheidsschade
+De schade door langdurige verstoring van de drinkwatervoorziening kan niet bepaald worden (#).
+3. Cybersecurity incident luchtvaart BG
+Omschrijving buitengewone gebeurtenis
+Een gerichte cyberaanval op de Nederlandse luchtvaartsector, waarbij deze voor langere tijd verstoord raakt, heeft 
+vergaande economische schade tot gevolg.
+Toezicht door de ILT
+De ILT ziet erop toe dat de vitale aanbieders passende en evenredige maatregelen nemen om de risico’s voor de 
+beveiliging van hun netwerk- en informatiesystemen te beheersen. Ook moeten vitale aanbieders eventuele incidenten 
+melden bij de Minister van Justitie en Veiligheid, het Computer Security Incident Response Team (CSIRT) en de bevoegde 
+autoriteit.
+Populatie
+De gehele Nederlandse bevolking kan worden getroffen. Populatie meer dan 10 miljoen.
+Frequentie
+Buitengewone gebeurtenis.
+Effecten
+Economie
+Het Nationaal Cybersecurity Centrum en de NCTV hebben samen het Nationaal Crisisplan Digitaal opgesteld. 
+Daarin maken zij onderscheid tussen incidenten in de vitale processen van categorie A en categorie B [5]. 
+Categorie B bevat als vitale processen onder andere:
+• Vlucht- en vliegtuigafhandeling
+• Grootschalige productie/verwerking en/of opslag (petro-)chemische stoffen
+• Scheepvaartafwikkeling
+Inspectie Leefomgeving en Transport | 81

@@ -1,0 +1,50 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Schade (z)onder norm
+Uitstoot van CO
+2
+Het onnodig energieverbruik levert ook milieuschade op, in de vorm van onnodige uitstoot CO.
+2
+Populatie
+Alle 17 miljoen Nederlanders hebben last van deze milieuschade. Dat geldt ook voor de inwoners van de ons omringende 
+landen. Dit valt dus in de categorie meer dan >10 miljoen.
+Frequentie
+Continu stoten energiegerelateerde producten onnodig CO uit.
+2
+Effecten
+Alle producten die onder Ecodesign vallen zouden in 2020 in Europa hebben gezorgd voor 114 Megaton minder uitstoot 
+aan CO -equivalenten (broeikasgassen) [9, p18]. Gemiddeld is 21% van de op de markt verkochte producten echter niet 
+2
+conform de Ecodesign richtlijnen [15], waardoor de energiebesparingen met 10% [10, p35 (nr. 58)] afnemen. Dus is in 
+Europa 14 Megaton aan CO-equivalenten onnodig uitgestoten.
+2
+De ILT gebruikt voor Nederland een factor van 4,7% van heel Europa [11 + 12].
+Voor Nederland geldt dan dat 4,7% van 14 Megaton = 0,66 Megaton aan CO-equivalenten onnodige uitstoot in 2020. 
+2
+Dit is gelijk aan 7,6 TWh met de omrekenfactor 1 toe = 11,63 megawattuur (MWh) [13]. Rekenwaarde voor CO-uitstoot is 
+2
+0,355 kilogram CO per kWh en de prijs per kilogram is € 0,13 [CE DELFT]. Daarmee komt de milieuschade voor CO-
+2 2
+uitstoot op € 353 miljoen per jaar.
+Uitstoot van fijnstof
+Doordat men producten verkoopt die niet voldoen aan de wettelijke eisen en bepalingen ontstaat milieuschade, door 
+onnodige uitstoot van fijnstof. In dit geval gaat het om verwarmingsketels voor vaste brandstoffen en 
+verwarmingstoestellen.
+De producten die onder Ecodesign vallen, hebben door deze eisen in 2020 in Europa, gezorgd voor 10 kiloton minder 
+fijnstofuitstoot [9, p18]. Ook hier gaat de ILT ervan uit dat ongeveer 10% van de bedoelde verminderde uitstoot niet is 
+behaald. Dus is in Europa 1 kiloton aan fijnstof onnodig uitgestoten.
+De ILT gebruikt hier voor Nederland een factor van 4,7% van heel Europa [11 + 12].
+Voor Nederland geldt dan dat 4,7% van 1 kiloton = 0,047 kiloton = 0,047 x 106 kilogram aan fijnstof onnodig is uitgesto-
+ten in 2020. Het schadebedrag per kilogram voor PM is € 69,30 [CE DELFT]. Daarmee komt de milieuschade voor 
+10
+fijnstofuitstoot op € 3,3 miljoen per jaar.
+Toekomstige ontwikkelingen
+Dit jaar heeft de Europese Commissie een voorstel voor de Ecodesign for Sustainable Products Regulation (ESPR) 
+uitgebracht. De Commissie verwacht een akkoord in 2023 en inwerkingtreding in 2024. Met de ESPR wordt de reikwijdte 
+en de bepalingen uitgebreid. Nu is Ecodesign beperkt tot energie- gerelateerde producten. Maar die beperking gaat er af. 
+Textielproducten gaan er nu bijvoorbeeld ook onder vallen. Uiteindelijk moet Ecodesign de paraplu worden voor alle 
+duurzaamheidseisen voor producten, dus ook bijvoorbeeld materiaalhergebruik. Daarbij is een belangrijk nieuw aspect 
+het digitaal product paspoort. Aangewezen producten mogen alleen in de handel gebracht worden met dit digitaal 
+paspoort. De uitbreiding van wet- en regelgeving brengt veel verplichtingen voor bedrijven met zich mee. Voor een gelijk 
+speelveld is het belangrijk dat alle bedrijven aan deze eisen voldoen. En dat er geen financieel voordeel is bij het niet 
+voldoen aan de eisen. 
+Inspectie Leefomgeving en Transport | 104

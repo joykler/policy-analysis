@@ -1,0 +1,46 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Legionella
+Omschrijving
+De legionellabacterie ontwikkelt zich in stilstaand water en verspreidt zich bijvoorbeeld via drinkwaterinstallaties. 
+In delen van de drinkwaterinstallatie waar water gedurende langere tijd verblijft, kan het aantal bacteriën groeien. 
+Bacteriën reizen vervolgens met het drinkwater mee. Als mensen druppeltjes water met deze bacterie inademen krijgen 
+ze in sommige gevallen een ernstige longontsteking; legionellose.
+De berekende maatschappelijke schade voor dit onderwerp: 265 miljoen euro
+Is er extra schade waarvoor geen bedrag kan worden bepaald? Nee 
+Aanzienlijke schade binnen de wettelijke regels: Nee 
+Schade als Buitengewone gebeurtenis: Nee 
+Regelgeving en doel
+De ILT controleert of prioritaire instellingen de legionellabeheersmaatregelen uitvoeren uit het Drinkwaterbesluit [2, 
+hoofdstuk 4]. De legionellabeheersmaatregelen moeten besmettingen met legionella in het drinkwater voorkomen.
+Prioritaire instellingen zijn gedefinieerd in artikel 35 van het Drinkwaterbesluit [2]. Voorbeelden zijn ziekenhuizen, 
+zorginstellingen, hotels, asielzoekerscentra, gevangenissen, zwembaden, sauna’s, kampeerterreinen, jachthavens en 
+truckstops. Deze instellingen moeten maatregelen nemen om te voorkomen dat (teveel) legionellabacteriën groeien in 
+de drinkwaterinstallatie.
+Bijzonderheden
+1. Legionellabesmettingen kunnen ook plaatsvinden in niet-prioritaire instellingen, bijvoorbeeld thuis. Op alle plekken 
+waar mensen kleine waterdruppels (aerosolen) inademen, kunnen zij besmet raken.
+2. Het RIVM rapporteert ook over andere bronnen van legionellabesmettingen. Regenval na een warme periode, 
+koeltorens en afvalwaterzuiveringsinstallaties (AWZI’s) zijn ook mogelijke oorzaken of locaties van een legionella-
+besmetting [7]. Deze plaatsen vallen niet onder het toezicht van de ILT.
+3. Dit onderwerp komt ook voor bij ongewenste gebeurtenissen die zijn gerelateerd aan onderwerp Defensie.
+4. In 2020 en 2021 is het totaal aantal legionellabesmettingen, dat is opgelopen in het buitenland, gedaald. Deze 
+daling heeft waarschijnlijk te maken met de reisbeperkingen die golden vanwege COVID-19. Verder wijkt het 
+patroon van besmettingen van legionella weinig af van de patronen gedurende 2015-2019.
+5. Door de COVID-19-pandemie is er waarschijnlijk een onderrapportage van legionellabesmettingen in 2020 en 2021. 
+Dit komt door terughoudendheid in het zoeken van medische zorg, aangepaste zorgstappen voor respiratoire ziekte 
+en tijdelijke veranderingen aan laboratoriumdiagnostiek. 
+6. In 2021 waren er 2 grote uitbraken van legionella [4]. In augustus was er een uitbraak in Amsterdam waarbij er 19 
+patiënten waren. Daarvan zijn er 17 in het ziekenhuis opgenomen. De bron van deze uitbraak was een koeltoren. De 
+tweede grote uitbraak vond plaats in november, in Schijndel. Bij deze uitbraak, waarvan de bron onbekend is, waren 
+17 patiënten betrokken. Daarvan zijn er 12 opgenomen in het ziekenhuis. 4 van de patiënten zijn overleden.
+Discussiepunten
+Geen.
+Overzicht van ongewenste gebeurtenissen 
+1. Legionellabesmetting via de drinkwaterinstallatie van een prioritaire instelling
+2. Legionellabesmetting via de drinkwaterinstallatie van een prioritaire instelling in Caribisch Nederland 
+1. Legionellabesmetting via de drinkwaterinstallatie van een prioritaire instelling 
+Omschrijving ongewenste gebeurtenis
+De legionellabacterie veroorzaakt een ernstige longontsteking: legionellose. Dit heet ook wel legionellapneumonie. 
+Besmetting vindt plaats door het inademen van kleine waterdruppels of aerosolen waarin de legionellabacterie 
+aanwezig is.
+Inspectie Leefomgeving en Transport | 130

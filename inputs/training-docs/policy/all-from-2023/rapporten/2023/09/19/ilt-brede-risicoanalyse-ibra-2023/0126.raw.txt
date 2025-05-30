@@ -1,0 +1,50 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Ramp Jaar Schade Aantal doden Aantal getroffenen
+Stormvloed 1953 € 680 miljoen 1835 600.000
+Hoogwater Rivierengebied 1995 € 900 miljoen 1 250.000
+Overstroming Elbe Duitsland 2002 € 9 miljard 27 330.108
+Overstroming Elbe Tsjechië 2002 € 2,4 miljard 18 200.000
+Overstromingen VK 2007 € 4 miljard 7 340.000
+Dijk bezwijkt bij Wilnis 2003 Onbekend 0 1500
+Katrina VS 2005 € 125 miljard 1833 500.000
+Sandy VS 2012 € 50 miljard 54 100.000
+De ILT gaat bij deze buitengewone gebeurtenis uit van het meest schadelijke scenario, de ‘Ergst Denkbare Overstroming’, 
+uit de Nationale Risico Beoordeling [4]. De gevolgen van zo’n scenario zijn bijvoorbeeld: 10.000 doden, 2,3 miljoen getroffe-
+nen, grote materiële schade die kan oplopen tot € 121 miljard en verminderd vertrouwen in instituties.
+Als deze gebeurtenis in Nederland plaatsvindt, dan zou de schade een omvang hebben van (doden + materiële schade): 
+10.000 x € 4.100.000 + € 121 miljard = € 162 miljard. Ook is er in dit scenario een grote kans op maatschappelijke 
+ontwrichting [3].
+Toekomstige ontwikkelingen
+Tot nu toe heeft het werk van de ILT er aan bijgedragen, dat alle primaire waterkeringen zijn beoordeeld. Er is nu 
+duidelijk wat er tot 2050 gedaan moet worden, om Nederland veilig te houden voor overstromingen. Wanneer de 
+nieuwe Omgevingswet ingaat, verandert de taak van de ILT. De focus ligt dan op de bescherming tegen overstromingen 
+en minder alleen op de primaire waterkeringen. 
+Schadeoverzicht
+In de tabel hieronder wordt het schadebedrag, onderverdeeld in de 4 schadecategorieën, per ongewenste gebeurtenis 
+samengevat. Het totale schadebedrag dat hier van af is geleid staat eronder, dat is 162.000 miljoen euro. Ook staat het 
+schadebedrag van de buitengewone gebeurtenis in de tabel.
+Schade in € miljoen/jaar
+ 
+ 
+Overstroming (BG) 41.000 121.000 n.v.t. n.v.t. 162.000
+Totaal     162.000
+Verwijzingen wet- en regelgeving
+[1] Waterwet (2009), geraadpleegd 27 februari 2023, van https://wetten.overheid.nl/BWBR0025458/2018-02-17 
+[2] Regeling veiligheid primaire waterkeringen 2017, geraadpleegd 27 februari 2023, van https://wetten.overheid.nl/
+BWBR0039040/2017-01-01 
+Verwijzingen algemeen 
+[3] Planbureau voor de Leefomgeving. (2014). Maatschappelijke ontwrichting en overstromingen. Geraadpleegd  
+27 februari 2023, van https://www.pbl.nl/publicaties/maatschappelijke-ontwrichting-en-overstromingen 
+[4] Analistennetwerk Nationale veiligheid. (2014). Nationale Risico Beoordeling 6. Rijksinstituut voor Volksgezondheid en 
+Milieu. https://www.rivm.nl/sites/default/files/2019-10/NRB%206%202014.pdf 
+Inspectie Leefomgeving en Transport | 126
+Fysiek letsel
+Economie
+Milieu
+Gezondheids-
+schade
+Totale schade in 
+€ miljoen/jaar
+Buitengewone   
+gebeurtenis 
+in € miljoen

@@ -1,0 +1,48 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Marktwerking
+In Nederland komt het voor dat goedkope illegale operaties worden aangeboden met onbemande luchtvaartuigen. 
+Dit betreft operators die niet volgens de regels vliegen en die niet over de juiste exploitatievergunningen beschikken om 
+te vliegen in een Controlled Trafic Region (CTR). Dit leidt tot een concurrentievoordeel ten opzichte van operators die 
+zich wel aan de regels houden en over de juiste vergunningen beschikken. Daarnaast vergroot dit het risico op ongeval-
+len omdat dergelijke operators niet aantoonbaar beschikken over de juiste kennis om veilig te vliegen. 
+Overzicht van ongewenste gebeurtenissen 
+1. Ongeval met onbemande luchtvaart (drones)
+1. Ongeval met onbemande luchtvaart
+Omschrijving ongewenste gebeurtenis
+Een drone kan op verschillende manieren een ongeval veroorzaken. Zo kan een drone botsen met een ander (on)bemand 
+luchtvaartuig. Ook kan het gevaren met zich meenemen voor mens, milieu en infrastructuur wanneer een (on)bemand 
+luchtvaartuig neerstort.
+Toezicht door de ILT
+Door vergunningverlening, toezicht en handhaving probeert de ILT actief de veiligheid in de onbemande luchtvaartsector 
+te vergroten en daarmee de kans op ongevallen in de lucht en op de grond te verkleinen. Het vliegen met een onbemand 
+luchtvaartuig moet voldoen aan de Europese wet- en regelgeving. Of een vergunning vereist is, hangt af van het 
+risiconiveau van de beoogde operatie.
+Gebruikers moeten voldoen aan de eisen van de Europese Verordening 2019/947 om een exploitatievergunning 
+(Operational Authorisation – OA) te krijgen. Zo moeten drone-eigenaren die willen vliegen in een Controlled Traffic 
+Region (CTR) een OA hebben waarin staat dat ze mogen vliegen in een CTR. Door zonder een OA in een CTR te vliegen is 
+de kans groter dat een onbemand luchtvaartuig botst met een ander luchtvaartuig. Overigens, de kans op een ongeval 
+met een ander luchtvaartuig buiten een CTR is groter doordat daar geen controle is op de separatie tussen luchtvaar-
+tuigen. De ILT houdt alleen toezicht op bezitters van een OA die actief zijn in Nederland. Daarnaast houdt de ILT toezicht 
+op state-operators, opleidingsinstellingen en modelvliegclubs. 
+Populatie
+Het aantal onbemande luchtvaartuigen in Nederland is de afgelopen jaren fors toegenomen. Volgens cijfers uit het 
+Actieplan Programma onbemande luchtvaart [13] waren er in 2021 32.288 eigenaren geregistreerd en waren er 2.788 
+professionele onbemande luchtvaartuigen geregistreerd. In de huidige wettelijke situatie dient de operator zich te 
+registreren en worden drones niet langer geregistreerd. Het werkelijke aantal onbemande luchtvaartuigen in Nederland 
+is niet bekend. Aangenomen mag worden dat dit er vele duizenden zijn, zeker wanneer onbemande luchtvaartuigen voor 
+hobbymatige doeleinden worden meegeteld. In de Europese vooruitzichten blijkt dat de onbemande luchtvaart tot 2035 
+sterk doorzet. Dit geldt zowel voor het gebruik van onbemande luchtvaartuigen door de overheid, als door commerciële 
+partijen [13].
+In Nederland kan potentieel iedereen slachtoffer worden van een ongeval met drones. De ILT schat dat het gaat om >10 
+miljoen mensen.
+Frequentie
+In 2021 zijn bij het Analyse Bureau Luchtvaartvoorvallen (ABL) 116 voorvallen met onbemande luchtvaartuigen gemeld 
+[14]. Hiernaast blijkt uit gesloten bronnen dat er per maand duizenden overtredingen zijn met onbemande luchtvaar-
+tuigen. Een veelvoorkomend voorval is bijvoorbeeld illegaal vliegen in een CTR. Er is duidelijk sprake van een piek in de 
+lente- en zomermaanden.
+Een voorval leidt niet altijd tot een gevaarlijke situatie, maar de kans hierop is in dergelijke gevallen wel groter. De ILT 
+schat dat 80% van alle gemelde dronevoorvallen aan het ABL over hobbymatige onbemande luchtvaartuigen gaat. Het 
+aantal gemelde voorvallen stijgt langzaam. Dit betekent echter niet dat het ook daadwerkelijk onveiliger wordt. Het kan 
+ook betekenen dat er meer bewustwording is over veiligheid bij de onbemande luchtvaart en dat mensen beter weten 
+waar voorvallen te melden.
+Inspectie Leefomgeving en Transport | 150

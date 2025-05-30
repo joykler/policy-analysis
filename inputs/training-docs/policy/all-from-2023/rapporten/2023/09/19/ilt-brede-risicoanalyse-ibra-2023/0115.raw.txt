@@ -1,0 +1,43 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+3. Geluidsoverlast wegverkeer
+Omschrijving ongewenste gebeurtenis
+Verkeer op Nederlandse wegen zorgt voor geluidsoverlast.
+Toezicht door de ILT
+Nederland kent 2 typen rijkswegen, namelijk de A- en N-wegen. De A-wegen en een deel van de N-wegen vallen onder 
+het toezicht van de Rijksoverheid. De overige N-wegen hebben geen referentiepunten met geluidproductieplafonds. 
+Ze vallen onder het toezicht van de provincies. Daarnaast kent Nederland nog een groot aantal wegen dat onder het 
+toezicht van de gemeenten valt. Deze wegen hebben ook geen referentiepunten met geluidproductieplafonds.
+De ILT onderzoekt de berekeningen van het geluidsniveau (betrouwbaarheid), beoordeelt overschrijdingen van de 
+normen (vaststellen overtredingen). En zij achterhaalt de oorzaken van niet-naleving en laat deze wegnemen door 
+Rijkswaterstaat (interventie).
+Populatie
+Geluidsoverlast door wegverkeer raakt de gehele Nederlandse bevolking. De populatie valt in de categorie >10 miljoen 
+personen.
+Frequentie
+Het rijkswegennet telt eind 2021 60.883 referentiepunten langs het rijkswegennet. Op 0,8% van de referentiepunten 
+(461) is sprake van een overschrijding van het maximaal geaccepteerde geluidsniveau [18].
+Naast deze overschrijding constateert de ILT een dreigende overschrijding van het maximaal geaccepteerde geluidsni-
+veau op 2,3% (1413) van de punten in 2020.
+Ten opzichte van eerdere jaren is sprake van een lager percentage overschrijding van de geluidsproductieplafonds. 
+De hoofdoorzaak hiervan is de afname van de verkeersintensiteiten, als gevolg van de coronamaatregelen. In combinatie 
+met de landelijke snelheidsverlaging naar 100 kilometer per uur overdag, vanaf maart 2020.
+Gemiddeld heeft Rijkswaterstaat over de afgelopen 5 jaar een plafondoverschrijding van 2,8s% geconstateerd [18]. 
+De ILT stelt de frequentie op continu.
+Overschrijding Aantal referentiepunten 
+geluidproductie- Totaal aantal met overschrijding Percentage 
+plafonds referentiepunten geluidproductieplafonds overschrijding
+2017 60.885 2.351 3,9
+2018 60.876 2.746 4,5
+2019 60.888 2.487 4,1
+2020 60.882 396 0,7
+2021 60.883 461 0,8
+Vijfjaars gemiddelde 2,8
+Effecten
+Fysiek letsel, Economie, Milieu, Gezondheidsschade
+Het RIVM stelt in 2017 vast dat de effecten op de gezondheid, als gevolg van geluidhinder, groot zijn (60 doden per jaar 
+en >10.000 zieken per jaar). Het overgrote deel van de geluidhinder komt voort uit wegverkeer. De Wereld Gezondheids-
+organisatie (WHO) heeft in 2018 een rapport uitgebracht, met richtlijnen voor omgevingsgeluid voor Europa [11].
+In 2019 gaf 10,4% van alle inwoners van Nederland (van 16 jaar en ouder) aan in de afgelopen 12 maanden ernstige 
+hinder door geluid van wegverkeer te hebben ondervonden [19].
+Referentiepunten liggen verspreid door heel Nederland. Nederland telt in 2022 17.590.672 inwoners [20].
+Inspectie Leefomgeving en Transport | 115

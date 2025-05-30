@@ -1,0 +1,30 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Transport gevaarlijke stoffen
+Omschrijving
+Het vervoer van gevaarlijke stoffen vindt plaats op verschillende manieren, van kleine verpakking tot bulktanker. Ook 
+verloopt het via verschillende modaliteiten (bijvoorbeeld de weg, het spoor, de binnenvaart, de lucht of de zee). Een 
+route van verzender tot ontvanger verloopt vaak via verschillende modaliteiten, met of zonder tussentijdse opslag.
+Tijdens laden, lossen en transport kunnen gevaarlijke stoffen lekken. Dit leidt tot vervuiling van de lucht, het water of de 
+bodem met de stof of reactieproducten. Ook kan brand ontstaan of een explosie plaatsvinden.
+Deze factsheet beschrijft het laden, lossen en transport van gevaarlijke stoffen over de weg, het spoor, over water en 
+door de lucht. De schade bij het transport van gevaarlijke stoffen via een buisleiding staat beschreven bij het onderwerp 
+Buisleiding. 
+• De totale maatschappelijke schade voor dit onderwerp is onbekend
+• Extra schade die berekend kan worden door de ILT:  € 351 miljoen 
+• Schade bij Buitengewone gebeurtenis: Ja, meer dan € 808 miljoen.
+Regelgeving en doel
+In de Wet Vervoer Gevaarlijke stoffen [1] en het Besluit Vervoer Gevaarlijke stoffen [2] staan voorwaarden om het 
+transport van en het werken met gevaarlijke stoffen in de transportketen veilig te laten plaatsvinden.
+Het eerste doel van de regelgeving is om ervoor te zorgen dat gevaarlijke stoffen tijdens het transport in hun tank of 
+verpakking blijven. De regels beogen ook dat de juiste informatie voor de hulpdiensten beschikbaar is om een incident 
+op een veilige en juiste manier te kunnen bestrijden.
+Er gelden voorschriften voor de verschillende vervoersmodaliteiten voor het vervoer van gevaarlijke stoffen. Iedere wijze 
+van vervoer kent specifieke risico’s.
+Overzicht van regelgeving per modaliteit
+Weg European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR) [3]
+Binnenvaart European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN) [4]
+Rail Regeling vervoer over de spoorweg van gevaarlijke stoffen met daarin opgenomen de RID [5, 5b]
+Zeevaart Schepenbesluit [6] en IMDG-code [6b]
+Luchtvaart Wet Luchtvaart [7], het besluit vervoer gevaarlijke stoffen door de lucht [7b], de ICAO Annex 18 [7c] en de ICAO 
+Technical Instructions [7d]
+Inspectie Leefomgeving en Transport | 185

@@ -1,0 +1,47 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Duurzame producten
+Omschrijving
+De Europese Commissie wil duurzame producten op de Europese markt. Ze stelt daarom eisen aan het ontwerp van 
+energiegerelateerde producten (Ecodesign). Hierbij legt de Europese Commissie ook een beperking op het gebruik van 
+gevaarlijke stoffen met de RoHS (Restriction of Hazardous Substances) richtlijn.
+Ecodesign beperkt de schadelijke milieueffecten van een product. Vanaf de ontwerpfase worden alle schakels in de 
+levenscyclus van een product bekeken. Vanaf de winning van grondstoffen tot het moment waarop het product wordt 
+afgedankt en hergebruikt als grondstof voor nieuwe producten.
+De huidige handhaafbare eisen op het gebied van Ecodesign gaan voornamelijk over de energie-efficiëntie van het 
+product. Eerst alleen van elektronische apparaten, nu ook van apparaten die andere brandstoffen verbruiken.
+De komende jaren worden de handhaafbare eisen uitgebreid naar onder andere (her)gebruik van grondstoffen en de 
+beschikbaarheid van reserveonderdelen. Na aankoop moeten reserveonderdelen minstens 7 tot 10 jaar beschikbaar zijn. 
+Dit bevordert het repareren van apparatuur en verlengt de levensduur.
+De RoHS beschrijft de voorwaarden voor het gebruik van 10 verschillende stoffen in elektrische en elektronische 
+apparatuur. Voorbeelden zijn lood, kwik en cadmium. Deze 10 stoffen zijn gevaarlijk voor mens en milieu. Het milieurisi-
+co is in Nederland voor een groot deel afgedekt met effectieve afvalverwerking. Maar een product zonder gevaarlijke 
+stoffen is altijd beter voor het milieu. Op dit moment zijn er nog geen cijfers beschikbaar over de schade die deze stoffen 
+mogelijk veroorzaken. 
+• De berekende maatschappelijke schade voor dit onderwerp: 223 miljoen euro.
+• Is er extra schade waarvoor geen bedrag kan worden bepaald: Ja. 
+• Aanzienlijke schade binnen de wettelijke regels: Ja, namelijk 356 miljoen euro.
+• Schade als Buitengewone gebeurtenis: Nee.
+Regelgeving en doel
+De Europese Commissie heeft alle Europese richtlijnen over CE-markering (Conformité Européenne = in overeenstem-
+ming met de Europese regelgeving) op haar website geplaatst [1]. Daar horen de ontwerpeisen van energiegerelateerde 
+producten [2 t/m 6] ook bij. De Nederlandse wetgeving is terug te vinden in de Wet milieubeheer [7].
+Het doel van de wetgeving is verlaging van het energieverbruik, minder belasting van het milieu en vermindering van de 
+vraag naar natuurlijke hulpbronnen. 
+Bijzonderheden
+1. Verspreiding van gevaarlijke stoffen aan het einde van de levenscyclus van een product (voor elektronische 
+apparatuur, verpakkingen, batterijen/accu’s, auto-onderdelen) neemt de ILT bij het onderwerp ‘Afvalstromen en 
+circulaire materiaalketens’ mee.
+2. Als producten niet voldoen aan de wettelijke eisen en bepalingen van Ecodesign vindt onnodig uitstoot van fijnstof 
+plaats. Biomassaketels hebben nu al eisen voor maximale uitstoot van fijnstof. Per 1 januari 2022 geldt nieuwe 
+Europese regelgeving binnen Ecodesign, waarin uitstoot van fijnstof ook voor onder andere houtkachels wordt 
+gemaximaliseerd. Aan het einde van deze factsheet staat een beschrijving over de uitstoot van fijnstof.
+3. De Europese Commissie wil consumenten een ‘recht op reparatie’ geven. Om dat te bereiken moeten reparaties 
+aantrekkelijker, systematischer en betaalbaarder worden. De fabrikant moet garantieperiodes verlengen, garanties 
+verlenen voor het vervangen van onderdelen en de toegang tot informatie over reparaties en onderhoud makkelij-
+ker maken. Per 1 maart 2021 is dit in wetgeving geregeld [7].
+4. De Ecodesign wetgeving wordt de komende jaren fors uitgebreid met het Sustainable Products Initiative [18]. Dit 
+betekent dat Ecodesign niet meer beperkt is tot energiegerelateerde producten. Maar dat ook andere productsoor-
+ten (bijvoorbeeld textiel en beton) onder de Ecodesignwetgeving gaan vallen.
+5. Door een hoge vraag en een laag aanbod zijn de energieprijzen in 2021 en 2022 gestegen, ten opzichte van vorige 
+jaren. Vooral de prijs van gas voor consumenten is significant gestegen. Deze prijzen zorgen er, onder andere, voor 
+Inspectie Leefomgeving en Transport | 99

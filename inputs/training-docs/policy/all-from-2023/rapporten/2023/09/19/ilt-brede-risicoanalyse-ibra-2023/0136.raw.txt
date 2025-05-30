@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Invasieve exoten (via ballastwater)
+Jaarlijkse wereldwijde schade geraamd op € 10-15 miljard (bron onbekend). Het Nederlands aandeel is onbekend, 
+daardoor kan de ILT de milieuschade niet berekenen (#).
+Fysiek, gezondheidsschade
+Niet van toepassing.
+2. Lozing van schadelijke stoffen door scheepvaart in Caribisch Nederland 
+Omschrijving ongewenste gebeurtenis
+Deze ongewenste gebeurtenis betreft de lozing van schadelijke stoffen in het water door scheepvaart (zeevaart, visserij 
+en binnenvaart) rond de Caribisch Nederland . Het gaat onder meer om lozing van olie- en ladingrestanten en afvalwater 
+(zeevaart), scheepsafval (zeevaart), invasieve exoten (zeevaart), onjuiste/onterechte certificering/labelling van stoffen en 
+schadelijke stoffen die in het water komen door afgevallen lading. De lozing van onjuist gemarkeerde of verpakte lading 
+is hier geen onderdeel van. Deze bijdrage heeft de ILT toebedeeld aan het domein gevaarlijke stoffen.
+Toezicht door de ILT
+De ILT controleert de naleving van de regels voor het illegaal lozen van schadelijke stoffen. Dit toezicht vindt fysiek 
+plaats, onder andere door monstername. Ook kan de ILT gebruikmaken van al aan boord beschikbare gegevens. Het 
+toezicht van de ILT is erop gericht om de (potentiële) gevolgen van incidenten te beperken.
+Populatie
+De gehele bevolking van de Caribisch Nederland : 29.418 mensen. De populatie valt hiermee in de categorie 
+‘10.000-100.000’.
+Frequentie
+Refererend aan de eerste ongewenste gebeurtenis ‘Lozing van schadelijke stoffen door de scheepvaart (zeevaart, visserij, 
+binnenvaart)’ relateert de ILT de schade in Caribisch Nederland  hieraan via de frequentie. De ILT past deze frequentie 
+aan met een factor die ontleend wordt aan het aantal inwoners. Het aantal inwoners in Caribisch Nederland  bedraagt op 
+1 januari 2023 circa 29.500 [26] terwijl het aantal inwoners van Nederland circa 17,3 miljoen [27] bedraagt. Voor de 
+frequenties van ongewenste gebeurtenis ‘Lozing van schadelijke stoffen door de scheepvaart (zeevaart, visserij, 
+binnenvaart)’ wordt dus een omrekenfactor van 25.000/17,3 x 106 = 0,0015 gehanteerd.
+Lozing van scheepsafval door zeevaart
+Er komen jaarlijks circa 55.000 schepen in Nederlandse havens met plicht tot afgifte afval (Rotterdam 30.000).
+Tijdens 25% van de inspecties dwingt een toezichthouder tot afgifte. De ILT rekent daarom met 55.000 x 0,25 = 13.750 
+lozingen per jaar [16; 9, p21]. Voor de Caribisch Nederland  corrigeert de ILT dit naar 0,0015 x 13750 = 21 lozingen per jaar. 
+Stichting De Noordzee meet sinds 2004 de hoeveelheid afval op stranden. Meer dan de helft van het afval komt van de 
+maritieme sector. Men heeft geen stijgende of dalende trend gevonden [10].
+Ladingrestanten zeevaart
+Uit inspecties blijkt dat 10% van de schepen ladingrestanten niet correct afgeeft of verwijdert. Met 13.500 bezoeken van 
+zeeschepen per jaar is dat 1.350 gevallen per jaar [16]. Voor de Caribisch Nederland  levert dit met toepassing van de 
+omrekenfactor 0,0015 x 1350 = 2 gevallen per jaar.
+Afgevallen lading
+Jaarlijks vallen 10.000 containers van schepen [11, p9]. Nederland neemt 1,87% van het wereldwijde containervervoer 
+voor zijn rekening [12]. De ILT rekent met 2% (200 containers). Met toepassing van de omrekenfactor van 0,0015 levert dit 
+voor de Caribisch Nederland  circa 0 containers op.
+Olielozing zeevaart
+In 2018 ziet de kustwacht in totaal 477 lozingen. Dit zijn 224 waarnemingen vanuit een vliegtuig en 253 met een satelliet 
+[13, p5]. Toepassing van de factor 0,0015 levert voor de Caribisch Nederland  een resultaat van 1 lozing.
+Inspectie Leefomgeving en Transport | 136

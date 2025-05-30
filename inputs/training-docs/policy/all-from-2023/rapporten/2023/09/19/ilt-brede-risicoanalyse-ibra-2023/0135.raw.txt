@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Frequentie
+Lozing van scheepsafval (vuilnis) door zee- en binnenvaart
+Er komen jaarlijks circa 55.000 zeeschepen in Nederlandse havens, alle in beginsel met de plicht tot afgifte van het 
+scheepsafval (vuilnis, onder andere huishoudelijk afval) (in Rotterdam zijn dit er ongeveer 30.000) [1]. Bij 25% van de 
+inspecties moet een toezichthouder een verplichting tot afgifte aan het schip opleggen. De ILT rekent daarom met 
+55.000 x 0,25 = 13.750 lozingen per jaar [16; 3]. Stichting De Noordzee meet sinds 2004 de hoeveelheid afval op stranden 
+en stelt vast dat er een dalende trend is. De meest gevonden soorten afval zijn vispluis en allerhande plastic [2]. 
+Afgevallen lading
+Jaarlijks vallen 10.000 containers van schepen [11]. Nederland neemt 1,87% van het wereldwijde containervervoer voor 
+zijn rekening [12]. De ILT rekent met 2% (200 containers). 
+Ladingrestanten zeevaart
+Uit inspecties blijkt dat 10% van de schepen ladingrestanten niet correct bij havenontvangstinstallaties afgeeft of 
+verwijdert. Met 13.750 bezoeken van zeeschepen per jaar is dat 1.375 gevallen per jaar [16]. De Rotterdamse afgiftecijfers 
+voor ladingresidu in 2021 waren 31.000 m3 (annex ii) en 46.000 m3 (annex V) [3].
+Olielozing zeevaart
+In 2018 ziet de kustwacht in totaal 365 lozingen. Dit zijn 160 waarnemingen vanuit een vliegtuig en 205 met een satelliet 
+[4, 13].
+Onjuiste gevarenindeling milieucertificering xy stoffen?
+De frequentie van deze bijdrage is onbekend (#).
+Ballastwater en invasieve exoten
+Via ballastwater belanden invasieve exoten in Europese wateren. Het gaat om een verdubbeling ten opzichte van 1970 
+binnen sommige regio’s [19; 20]. Om verspreiding van deze invasieve exoten tegen te gaan, is het verplicht om ballast-
+water te behandelen.
+Samengevat: de frequentie van deze ongewenste gebeurtenis valt in de categorie ‘continu’.
+Effecten
+Economie
+Lozing van scheepsafval door zee- en binnenvaart
+In boekjaar 2017 zijn de kosten voor afgifte van scheepsafvalstoffen in Rotterdam ongeveer € 18 miljoen [3]. Dit had 1/3 
+hoger moeten zijn. Bovendien zijn er € 3,4 miljoen opruimkosten [5, 21, 22].
+Dit resulteert in € 6 + € 2 = € 8 miljoen economische schade.
+Afgevallen lading
+Economische schade treedt op als een container het scheepvaartverkeer hindert. Men verhaalt de bergingskosten op de 
+reder. Daarom is de schade voor de IBRA € 0. Als voorbeeld verliest de MSC Zoe begin 2019 342 containers. De bergings-
+kosten door publieke organisaties zijn minimaal € 3,35 miljoen. Een deel van de lading is nog niet geborgen en mogelijk 
+niet te bergen [23].
+De milieuschade als gevolg van gevaarlijke stoffen in een afgevallen container rekent de ILT tot het domein gevaarlijke 
+stoffen (en wordt in deze factsheet dus niet meegenomen).
+Milieu
+Ladingrestanten zeevaart
+Totale milieuschade opgegeven op basis van € 200.000 ton, € 30-40 miljoen [16]. Ingeschat aandeel Nederland
+= € 10 miljoen.
+Olielozing zeevaart
+Het volume van de olielozingen is onbekend, daardoor kan de ILT de milieuschade niet berekenen (#).
+Inspectie Leefomgeving en Transport | 135

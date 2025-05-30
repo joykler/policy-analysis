@@ -1,0 +1,49 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Effecten
+Fysiek letsel, Economie en Gezondheidsschade 
+Niet van toepassing.
+Milieu
+Alle producten die onder Ecodesign vallen zorgen in Europa in 2020 voor het verminderen van de uitstoot van NO, 
+x
+verzurende stof en ozonveroorzaker (smog), ter grootte van 83 kiloton zwaveldioxide (SO)-equivalent [9, p18]. Ook hier 
+2
+gaat de ILT ervan uit dat 10% van de bedoelde verminderde uitstoot niet is behaald. Dus is in Europa 8,3 kiloton aan 
+SO -equivalenten onnodig uitgestoten. De ILT gebruikt voor Nederland een factor van 4,7% van heel Europa [11, 12]. 
+2
+Voor Nederland geldt dan dat 4,7% van 8,3 kiloton = 0,39 kiloton = 0,39 x 10 kilogram aan SO-equivalenten onnodige 
+2
+uitstoot in 2020. Het schadebedrag per kilogram is € 57,50 [16, p35]. Daarmee komt de milieuschade voor NO-uitstoot 
+x
+op € 22 miljoen per jaar.
+4. Uitstoot van overige schadelijke stoffen (Ecodesign)
+Omschrijving ongewenste gebeurtenis
+Doordat men producten verkoopt die niet voldoen aan de wettelijke eisen en bepalingen, waardoor onnodig uitstoot 
+van koolmonoxide (CO) en Organic gaseous carbon (OGC) emissies plaatsvindt, ontstaat milieuschade. OGC is van 
+toepassing op verwarmingstoestellen met een met vaste brandstoffen gestookte ketel.
+Toezicht door de ILT
+De ILT controleert de fabrikanten en importeurs van energie-gerelateerde producten op het uitvoeren van een product-
+test, het hebben van een goed technisch dossier, het voorzien van het product met de juiste informatie (waaronder 
+CE-markering) en het publiceren van deze informatie op een openbare website.
+De ILT kijkt ook naar producten die op andere brandstoffen zoals aardgas en hout werken. De NVWA heeft ook een rol. 
+Zij houdt toezicht op het energielabel, als een product die onder Ecodesign valt een energielabel heeft.
+Populatie
+Gebruikers zijn burgers en industrie; alle 17 miljoen Nederlanders hebben last van deze milieuschade, net als inwoners 
+van ons omringende landen. Dit valt dus in de categorie meer dan 10 miljoen.
+Frequentie
+Continu stoten energie-gerelateerde producten onnodig deze overige schadelijke stoffen uit.
+Effecten
+Fysiek letsel, Economie en Gezondheidsschade 
+Niet van toepassing.
+Milieu
+De producten die onder Ecodesign vallen hebben in 2020 in Europa gezorgd voor het verminderen van de uitstoot van 
+CO-emissies met 143 kiloton en verminderen van de uitstoot van OGC-emissies met 10 kiloton [9, p18]. Ook hier gaat de 
+ILT ervan uit dat 10% van de bedoelde verminderde uitstoot niet is behaald. Dus is in Europa 14,3 kiloton aan 
+CO-emissies onnodig uitgestoten en 1 kiloton OGC-emissies onnodig uitgestoten. De ILT gebruikt voor Nederland een 
+factor van 4,7% van heel Europa.
+Voor Nederland geldt dan dat 4,7% van 14,3 kiloton = 0,67 kiloton = 0,67 x 106 kilogram aan onnodige CO-uitstoot in 
+2020. Het schadebedrag per kilogram voor CO-uitstoot is € 0,08 [CE DELFT]. Daarmee komt de milieuschade voor 
+CO-uitstoot op € 54 duizend per jaar.
+Voor Nederland geldt dan dat 4,7% van 1,3 kiloton = 0,06 kiloton = 0,06 x 106 kilogram aan onnodige OGC-uitstoot in 
+2020. Het schadebedrag per kilogram voor OGC is niet bekend. Daardoor is de milieuschade voor OGC-uitstoot onbe-
+kend en dus # per jaar.
+Inspectie Leefomgeving en Transport | 103

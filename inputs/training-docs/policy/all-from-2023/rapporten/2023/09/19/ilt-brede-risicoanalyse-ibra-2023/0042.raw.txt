@@ -1,0 +1,49 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Afvalstromen en circulaire 
+materiaalketens
+Omschrijving
+Het verwerken van afvalstoffen levert schade op aan de kwaliteit van de leefomgeving. Deze risicoanalyse richt zich op 
+de schade door verlies van grondstoffen. En energie door het onvoldoende hergebruiken of nuttig toepassen van 
+afvalstoffen. En van niet geregistreerd afval. Ook kan hierdoor schade ontstaan door diffuse verspreiding van afvalstof-
+fen in het milieu. Of door emissies naar het milieu door het onjuist verwerken. 
+• De berekende maatschappelijke schade voor dit onderwerp: 3,4 miljard euro
+• Is er extra schade waarvoor geen bedrag kan worden bepaald: Ja. 
+• Aanzienlijke schade binnen de wettelijke regels: Ja, de afvalverwerking in Nederland levert enkele tentallen miljarden 
+euro aan schade op. 
+• Schade als Buitengewone gebeurtenis: Nee.
+Regelgeving en doel
+De wet- en regelgeving gaat over het voorkomen, inzamelen, verwerken hergebruiken en/of verwijderen van afval. Voor 
+bijzondere categorieën afval (elektrische en elektronische apparatuur, batterijen en accu’s, autowrakken, autobanden, 
+verpakkingen en wegwerpplastic) bestaan er Productbesluiten Afvalbeheer [1 t/m 8]. Deze wet- en regelgeving beoogt 
+schade aan gezondheid en milieu te minimaliseren. Ook beoogt deze regelgeving het verlies van grondstoffen en energie 
+tegen te gaan. 
+Bijzonderheden
+1. De ILT is niet de enige toezichthouder op de verwerking van afval. Gemeenten, provincies en regionale uitvoerings- 
+diensten, douane en certificerende instellingen houden ook toezicht.
+2. Er is mogelijk een dubbeltelling van afval dat in deze analyse aangemerkt is als ongeregistreerd. Het is mogelijk ook 
+onderdeel van de categorie gemengd afval, omdat ongeregistreerd afval soms alsnog wordt ingezameld door 
+bijvoorbeeld de gemeentereinigingsdienst.
+3. De hier beschreven ongewenste gebeurtenissen kunnen ook voorkomen bij de aan Defensie gerelateerde factsheet.
+4. De staatssecretaris van Infrastructuur en Waterstaat heeft aangekondigd dat het Landelijk afvalbeheerplan (LAP3) 
+zal worden opgevolgd door een Circulair materialenplan (CMP1). Dit plan zal een grotere reikwijdte kennen. En meer 
+sturen op, onder andere, preventie, het minder toepassen van abiotische grondstoffen en hoogwaardig hergebruik. 
+5. Per 1-1-2023 geldt de Uitgebreide Producenten Verantwoordelijkheid (UPV) voor wegwerpplastic en medio 2023 zal 
+naar verwachting de UPV voor textiel van kracht worden. Ook voor andere materialen wordt de meerwaarde van 
+het instrument UPV onderzocht.
+6. We volgen in deze sheet de 14 afvalsoorten die het CBS gebruikt. En waarvoor CE-Delft afvalprijzen heeft berekend. 
+Het landelijk afvalplan LAP3 heeft deze afvalsoorten verder uitgesplitst in meer dan 50 afval categorieën.
+Discussiepunten
+De door de ILT toegepaste percentages voor de ongewenste gebeurtenissen ‘onvoldoende hergebruik’ en ‘niet-geregis-
+treerd afval’ hebben een grote mate van onzekerheid. Een aantal afvalcategorieën is zeer heterogeen van samenstelling 
+(bevatten zeer verschillende afval- soorten). Dit maakt het moeilijk om 1 milieuprijs vast te stellen voor die categorieën. 
+Daarnaast maakt die diversiteit binnen categorieën de aannames voor de omvang van gemist hergebruik en ongeregis-
+treerd afval extra onbetrouwbaar. Een voorbeeld is de categorie plastic afval. Kunststoffen zijn ook aanwezig in de 
+categorieën afgedankt materiaal (autowrakken en afgedankte elektrische en elektronische apparatuur (AEEA), gemengd 
+stedelijk afval en zwerfafval/plastic soep.
+Overzicht van ongewenste gebeurtenissen 
+In het onderwerp Afvalstromen en circulaire materiaalketens gaat de ILT uit van 2 ongewenste gebeurtenissen:
+1. Onvoldoende hergebruiken of nuttig toepassen ten opzichte van de beleidsdoelen.
+2. Ongeregistreerd afval dat niet hergebruikt of nuttig toegepast wordt.
+De ILT neemt aan dat niet-geregistreerd afval ook onjuist verwerkt wordt (niet hergebruikt of nuttig toegepast of 
+onvoldoende hoogwaardig hergebruikt).
+Inspectie Leefomgeving en Transport | 42

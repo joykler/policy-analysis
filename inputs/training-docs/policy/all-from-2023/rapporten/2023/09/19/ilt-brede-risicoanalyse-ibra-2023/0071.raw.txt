@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Buisleiding
+Omschrijving
+Op verschillende tracés in Nederland lopen buisleidingen voor het transport van gevaarlijke stoffen. Gevaarlijke stoffen 
+zijn stoffen die giftig zijn of brandbaar. Als een leiding lek raakt en een getransporteerde stof ontsnapt, levert dit risico’s 
+op. Dit kan bijvoorbeeld gebeuren doordat de leiding verouderd is of door werkzaamheden aan of vlakbij de buisleiding. 
+Bij een incident ontstaat schade aan mens en omgeving door brand, blootstelling aan de stof zelf of door blootstelling 
+aan stoffen die door een reactie ontstaan. 
+In Nederland ligt ongeveer 22.000 kilometer aan hoofdtransportleidingen. De leidingen transporteren voornamelijk 
+aardolie(producten) en aardgas. Ongeveer 10% van het getransporteerd product valt in de categorie ‘overige stoffen’ 
+(CO , O , N en acuut toxische stoffen zoals chloor, vinylchloride en ethyleenoxide).
+2 2 2
+Hoofdtransport(buis)leidingen zijn heel belangrijk voor zowel de burger (energievoorziening ten behoeve van woningen) 
+als voor de industrie (energievoorziening, aan- en afvoer van grondstoffen). Het transport door buisleidingen is een 
+relatief veilig transport, omdat er weinig incidenten zijn met buisleidingen.
+De ILT richt haar toezicht op het veiligheidsbeheerssysteem van de buisleidingexploitanten. Het doel van het toezicht is 
+om te zorgen dat buisleidingen niet (gaan) lekken. Over het algemeen leven buisleidingexploitanten de regels goed na 
+(meer dan 90% volgens de ervaringscijfers van de ILT). De externe veiligheidsrisico’s perkt men ruimtelijk in. Er mogen 
+bijvoorbeeld geen (beperkt) kwetsbare objecten (zoals woningen) voorkomen in de zogeheten PR 10-6-contour van de 
+buisleiding. PR 10-6 betekent dat de kans dat iemand overlijdt bij een zwaar ongeval 1 op 1 miljoen per jaar is. Op plekken 
+waar binnen de PR 10-6 contouren kwetsbare objecten stonden, heeft men maatregelen getroffen [3].
+• De berekende maatschappelijke schade voor dit onderwerp: € 0,12 miljoen
+• Is er extra schade waarvoor geen bedrag kan worden bepaald: ja
+• Aanzienlijke schade binnen de wettelijke regels: nee
+• Schade als buitengewone gebeurtenis: ja, € 140 miljoen euro
+Regelgeving en doel
+De ILT houdt toezicht op basis van de regelgeving rondom buisleidingen. Deze regelgeving bestaat uit het Besluit Externe 
+Veiligheid Buisleidingen [1] en de Regeling Externe Veiligheid Buisleidingen [2].
+Het doel van de regels is om gezondheid en milieu te beschermen [1 en 2]. De regels zijn er ook op gericht dat er een 
+hoofdstructuur van buisleidingen beschikbaar blijft.
+Bijzonderheden
+1. De energietransitie leidt tot ontwikkelingen in het transport via buisleidingen. Buisleidingen worden langer gebruikt 
+en (oude) aardgasleidingen worden gebruikt voor het transport van waterstof. Daarnaast zijn er technische 
+ontwikkelingen om bijvoorbeeld kunststofleidingen toe te passen voor transport van waterstof. Deze ontwikkelin-
+gen leveren nieuwe risico’s op. De ILT ziet erop toe dat de risico’s van deze ontwikkelingen binnen de normen 
+blijven.
+2. Criminelen tappen steeds vaker illegaal (olie)producten uit de transportleidingen. Het risico op lekken en incidenten 
+groeit daarmee ook.
+3. Dit onderwerp komt ook voor bij Defensie gerelateerde ongewenste gebeurtenissen.
+Discussiepunten
+Geen.
+Overzicht van ongewenste gebeurtenissen 
+1. Uitstroom buisleiding naar lucht/bodem/water inclusief een mogelijke explosie
+2. Uitstroom buisleiding naar lucht/bodem/water inclusief een mogelijke explosie BG
+Inspectie Leefomgeving en Transport | 71

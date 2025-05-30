@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Gemiddeld constateert ProRail over de afgelopen 4 jaar een plafondoverschrijding van 1,1% [21]. De ILT stelt de frequentie 
+op continu.
+Overschrijding Aantal referentiepunten 
+geluidproductiepla- Totaal aantal met overschrijding Percentage 
+fonds referentiepunten geluidproductieplafonds overschrijding
+2017 57.067 510 0,9
+2018 57.095 754 1,3
+2019 57.107 623 1,1
+2020 57.107 520 0,9
+2021 57.107 707 1,2
+Vijfjaars gemiddelde 1,1
+Effecten
+Gezondheidsschade
+Ernstige geluidhinder door railverkeer wordt veel minder ervaren dan geluid van wegverkeer [19]. In 2019 gaf 10,4% van 
+alle inwoners van Nederland, van 16 jaar en ouder, aan in de afgelopen 12 maanden ernstige hinder door geluid van 
+wegverkeer te hebben ondervonden. Voor railverkeer was dat 2,1% [19]. 
+Referentiepunten liggen verspreid door heel Nederland; om de 100 meter aan weerszijden langs de hoofdspoorwegen. 
+Bij 1,1% van deze punten constateert de ILT, gemiddeld over de afgelopen 5 jaar, een geluidsoverschrijding.
+Nederland telt in 2022 17.590.672 inwoners [20]. De ILT gaat ervan uit dat 1,1% van de bevolking, ongeveer 193.000 
+inwoners, in aanraking komt met geluidsoverlast door spoorwegen. Dit is een overschatting, aangezien niet iedere 
+inwoner in de nabijheid van een spoorweg woont of verblijft. Bovendien liggen de spoorlijnen met de meeste geluid-
+overschrijdingen in dunner bevolkte gebieden van Nederland [21].
+De geluidbelasting stelt de ILT op €52 per dB(A) per persoon [16] en de overschrijding op gemiddeld 1 dB(A). Met het 
+hanteren van deze schaduwprijs, houdt de ILT rekening met regionale verschillen in geluidshinder door treinverkeer. Het 
+aantal spoorwegen en daarmee referentiepunten is nu eenmaal in het ene deel van het land hoger, dan in een ander deel 
+van het land.
+De ILT berekent per referentiepunt, het aantal betrokken personen en de schadeprijs (€ 52 per dB(A)) een totaal schade-
+bedrag van circa € 10 miljoen per jaar, gemiddeld over de afgelopen 5 jaar.
+Schade (z)onder norm
+Rijdende treinen (met name goederentreinen) oefenen krachten uit op de ondergrond. Deze krachten kunnen zich 
+vertalen in trillingen die door omwonenden als hinderlijk ervaren kunnen worden. Verschillende factoren spelen een rol 
+bij trillingsoverlast door spoorvervoer, namelijk treinsamenstelling en (verdeling van) massa, treinsnelheid, fysieke 
+toestand van trein en onderdelen, samenstelling van de bodem, fundering en bouw van de woning en afstand tot het 
+spoor.
+Ongeveer 1 op de 5 mensen die binnen 300 meter van het spoor wonen, ondervindt (ernstige) hinder van spoortrillingen. 
+Het RIVM schat het aantal op ongeveer 270.000 personen. In Nederland liggen circa 845.000 woonadressen binnen 300 
+meter van het spoor. Hier wonen ruim 1,3 miljoen mensen van 16 jaar en ouder. 
+Internationaal onderzoek naar effecten van trillingen is hoofdzakelijk gericht op hinder, slaapverstoring en verstoring van 
+activiteiten, zoals concentratie, luisteren en praten [22]. Andere gezondheidseffecten die met trillingen in verband 
+worden gebracht zijn vermoeidheid, verminderde taakprestatie, bewegingsziekte en lichamelijke klachten. Lange termijn 
+gezondheidseffecten zijn niet of onvoldoende onderzocht.
+De ILT ontving in 2022 62 klachten van burgers over trillingsoverlast door spoorvervoer. Een groot deel van de ervaren 
+trillingsoverlast wordt niet bij de ILT gemeld. De werkelijke overlast is naar schatting groter. 
+Inspectie Leefomgeving en Transport | 117

@@ -1,0 +1,54 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Er bestaat in Nederland geen specifieke wetgeving voor trillingen rond het doorgaande spoor. Wel zijn er regels voor 
+trillingen die horen bij inrichtingen zoals stations en rangeerterreinen [24]. Ook is er een Beleidsregel trillingshinder 
+spoor, bedoeld voor tracébesluiten over de aanleg, wijziging of het opnieuw in gebruik nemen van een landelijke 
+spoorweg [25]. De ILT heeft hier echter geen bevoegdheid. 
+De ILT houdt vanuit veiligheidsoogpunt toezicht op de staat van het materieel, overbelading en snelheden van 
+goederen treinen. Deze factoren kunnen verband hebben met het ontstaan van trillingen. Er zijn geen directe normen, 
+maar indirect zijn afwijkingen aan bijvoorbeeld de wielen van spoorvoertuigen vast te stellen die trillingen tot gevolg 
+kunnen hebben. De ILT heeft hier geen bevoegdheid, maar kan hier wel signalen over afgeven.
+ 
+Bij ongeveer 1% van de trillingen is de maximale trillingssterkte hoger dan de grenswaarde van 3,2 millimeter per 
+seconde [22]. Deze grenswaarde is opgenomen in de SBR-richtlijn [26]. Een groot deel van de overlast doet zich echter 
+voor bij trillingsterktes beneden deze grenswaarde. 
+Schadeoverzicht
+In de tabel hieronder wordt het schadebedrag, onderverdeeld in de 4 schadecategorieën, per ongewenste gebeurtenis 
+samengevat. Het totale schadebedrag dat hier van af is geleid staat eronder.  
+Schade in € miljoen/jaar
+ 
+ 
+Geluidsoverlast luchtvaartuig Schiphol n.v.t. n.v.t. n.v.t. 5,9 5,9
+Geluidsoverlast wegverkeer n.v.t. n.v.t. n.v.t. 25,6 25,6
+Geluidsoverlast rail n.v.t. n.v.t. n.v.t. 10 10
+Totaal     41,5 41,5
+Verwijzingen wet- en regelgeving
+[1] Wet luchtvaart (1992). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/BWBR0005555/2021-07-10 
+[2] Besluit aanwijzing toezichthouders luchtvaart (2013). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0013478/2013-01-01 
+[3] Regeling milieu-informatie luchthaven Schiphol (2019). Geraadpleegd 23 februari 2023, van https://wetten.overheid.
+nl/BWBR0014722/2019-11-28 
+[4] Luchthavenverkeerbesluit Schiphol (2018). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0014330/2018-11-01 
+[5] Wet milieubeheer (1979). Specifiek hoofdstuk 11. Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0003245/2022-03-02 
+[6] Invoeringswet geluidproductieplafonds (2011). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0031679/2012-07-01/
+[7] Besluit geluid milieubeheer (2012). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0031477/2022-01-01 
+[8] Regeling geluidplafondkaart milieubeheer (2012). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0031711/2020-01-01 
+[9] Regeling geluid milieubeheer (2012). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0031712/2022-03-01 
+[10] Reken- en meetvoorschrift geluid (2012). Geraadpleegd 23 februari 2023, van https://wetten.overheid.nl/
+BWBR0031722/2022-03-01 
+Inspectie Leefomgeving en Transport | 118
+Fysiek letsel
+Economie
+Milieu
+Gezondheids-
+schade
+Totale schade in 
+€ miljoen/jaar
+Buitengewone   
+gebeurtenis 
+in € miljoen

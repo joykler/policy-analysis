@@ -1,0 +1,40 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Cybersecurity
+Omschrijving
+Cybersecurity betreft de weerbaarheid van aanbieders van een essentiële dienst tegen digitale risico’s die een maat-
+schappijontwrichtende schade tot gevolg kunnen hebben. Daarbij gaat het vooral om sabotage en spionage door 
+statelijke actoren, maar er is ook een risico van cyberaanvallen door criminele actoren die uit zijn op financieel gewin [1]. 
+Tenslotte is er een risico op hacktivisme [1]. Hacktivisme is een samentrekking van hacken en activisme: het uitvoeren 
+van digitale aanvallen uit ideologische motieven.
+• De berekende maatschappelijke schade voor dit onderwerp: 0 euro.
+• Is er extra schade waarvoor geen bedrag kan worden bepaald: Nee.
+• Aanzienlijke schade binnen de wettelijke regels: Nee.
+• Schade als Buitengewone gebeurtenis: Ja. De inspectie schat de mogelijke schade tussen €5 miljard en €13 miljard.
+Regelgeving en doel
+In de wet Beveiliging Netwerk- en Informatiesystemen [2] en het bijbehorende besluit [3] is vastgelegd dat vitale 
+aanbieders passende en evenredige maatregelen moeten nemen om hun netwerk- en informatiesystemen te beveiligen 
+en incidenten met (mogelijk) ernstige gevolgen moeten melden bij het Computer Security Incident Response Team 
+(CSIRT) en de bevoegde autoriteit. Als CSIRT is aangewezen het Nationaal Cyber Security Centrum (NCSC). De Minister 
+van Infrastructuur en Waterstaat is de bevoegde autoriteit voor de vervoerssector en de sector levering en distributie van  
+drinkwater.
+Vitale aanbieders die onder toezicht van de ILT staan zijn bijvoorbeeld de drinkwaterbedrijven, enkele luchthavens en 
+enkele spoorbedrijven.
+Bijzonderheden
+De Nederlandse bevolking acht de kans op een cyberverstoring hoog. Dat blijkt uit Risico- en crisisbarometer najaar 2022 
+[4] van de NCTB. Ook schat 88% van de bevolking de gevolgen catastrofaal of (zeer) ernstig in.
+Digitale veiligheid is een randvoorwaarde voor het functioneren van de maatschappij. Uitval van systemen kan leiden tot 
+problemen in de fysieke wereld. Vanwege een storing in een computersysteem werd op 31 juli 2022 het treinverkeer 
+rondom Rotterdam stilgelegd. Op 31 mei 2021 lag landelijk het treinverkeer stil door een storing in het telefonienetwerk 
+GSM-R. Hoewel beide incidenten niet veroorzaakt zijn door een cyberaanval illustreren de voorvallen wel de impact van 
+een computerprobleem op de samenleving.
+Dagelijks vinden cyberaanvallen met ransomware plaats. Het aantal meldingen dat de ILT ontvangt is lager dan inspec-
+teurs van de ILT verwachten.
+Discussiepunten
+Door verdere invoering van de wetgeving komen steeds meer en steeds kleinere partijen onder toezicht te staan. De 
+manier van toezicht houden zal daardoor in de komende jaren veranderen.
+Overzicht van ongewenste gebeurtenissen 
+1. Cybersecurity incident vitale aanbieder
+2. Cybersecurity incident drinkwatervoorziening BG
+3. Cybersecurity incident luchtvaart BG
+4. Cybersecurity incident scheepvaart BG
+Inspectie Leefomgeving en Transport | 79

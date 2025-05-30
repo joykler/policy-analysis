@@ -1,0 +1,53 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+In Nederland is nog geen officiële botsing voorgekomen tussen een onbemand en een bemand luchtvaartuig. In 2018 zijn 
+wel zeven bijna-botsingen gemeld [15]. De Onderzoekraad voor Veiligheid (OVV) heeft verscheidene onderzoeken gedaan 
+naar bijna-botsingen met drones in 2017 [16 t/m 18]. Het aantal incidenten is de afgelopen jaren toegenomen [14]. 
+Wel hebben zich in het buitenland incidenten voorgedaan met drones. Zo is in Kroatië een maritieme drone neergestort 
+tijdens een inspectie op illegale visserij en het meten van zwavelconcentraties in scheepsuitlaatgassen. Het ongeval 
+veroorzaakte een bosbrand die 150 hectare dennenbos vernietigde [19]. Ook is een incident bekend tijdens een drone-
+show in China. Bij dit incident vielen meerdere drones uit de lucht, hierbij vielen meerdere gewonden [20]. Het is 
+voorstelbaar dat dergelijke incidenten zich ook binnen Nederland kunnen voordoen. 
+Effecten
+Fysiek letsel
+Er zijn in Nederland nog geen incidenten met onbemande luchtvaartuigen bekend waarbij mensen gewond zijn geraakt. 
+Daarom schat de ILT het schadelijke effect op € 0.
+Economie
+Onbemande luchtvaartuigvoorvallen kunnen ernstige economische kosten meebrengen voor luchthavens en luchtvaart-
+maatschappijen. Na een dronewaarneming in een CTR kan een luchthaven besluiten een landingsbaan af te sluiten. De 
+European Union Aviation Safety Agency (EASA) schat de vertragingskosten van een baanafsluiting van 30 minuten voor 
+de 10 grootste Europese luchthavens op € 325.000 tot € 514.000 [21].
+Hoewel dit geen economische schade betreft zoals gedefinieerd in de IBRA, geeft het wel een indicatie van de schade die 
+kan ontstaan als gevolg van voorvallen met onbemande luchtvaartuigen. In Nederland is geen geval van economische 
+schade bekend na een waarneming van een onbemand luchtvaartuig in een CTR. Daarom schat de ILT het effect op € 0.
+Milieu
+Er hebben nog geen incidenten plaatsgevonden die hebben geleid tot milieuschade in Nederland. Daarom schat de ILT 
+het effect op € 0.
+Gezondheidsschade
+Niet van toepassing.
+Toekomstige ontwikkelingen
+Zowel het aantal onbemande luchtvaartuigen als het aantal toepassingen daarvan, neemt de komende jaren sterk toe. 
+Uit onderzoek blijkt dat die groei nog lang doorzet, met name binnen de sectoren bezorging en mobiliteit groeit de 
+toepassing van onbemande luchtvaartuigen na 2035 sterk [22].
+Met het aantal nieuwe toepassingen kan ook de kans op ongevallen toenemen. Dit risico is benoemd in het Actieplan - 
+Programma onbemande luchtvaart 2021-2023 [13] en is een belangrijke reden voor de oprichting van luchtverkeersleider 
+U-space op Europees niveau. Daarnaast zijn andere genoemde risico’s het misbruiken van onbemande luchtvaartuigen 
+voor terroristische doeleinden en illegale datawinning, maar ook ongewenste effecten voor het milieu. 
+Schadeoverzicht
+In de tabel hieronder wordt het schadebedrag, onderverdeeld in de vier schadecategorieën, per ongewenste gebeurtenis 
+samengevat. De totale schadebedrag dat hier van af is geleid staat eronder. 
+Schade in € miljoen/jaar
+ 
+ 
+1. Ongeval met onbemande luchtvaart (drones) €0 €0 €0 n.v.t. €0
+Totaal     €0
+Inspectie Leefomgeving en Transport | 151
+Fysiek letsel
+Economie
+Milieu
+Gezondheids-
+schade
+Totale schade in 
+€ miljoen/jaar
+Buitengewone   
+gebeurtenis 
+in € miljoen

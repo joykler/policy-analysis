@@ -1,0 +1,46 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+2. Onveilige defensiegebouwen
+Omschrijving ongewenste gebeurtenis
+Gebreken aan gebouwen kunnen leiden tot schade die hersteld moet worden. Uiteindelijk kan dit leiden tot letsel en/of 
+het overlijden van mensen.
+Toezicht door de ILT
+De ILT is verantwoordelijk voor het toezicht op ongeveer 140 locaties van Defensie. De inspectie werkt in opdracht van 
+de bewindspersonen van het ministerie van IenW. Het ministerie van Defensie moet zich aan de wet houden. Wanneer 
+dit niet gebeurt, handhaaft de ILT.
+Populatie
+De beroepsbevolking die werkt en verblijft (legering) op Defensieterrein. Er werken ruim 68.000 militairen, burger en 
+reservisten bij Defensie in Nederland. Daarom valt de populatie in de categorie ‘10.000-100.000’.
+Frequentie
+Bouw- en constructieveiligheid
+Voorbeelden van incidenten in ontwerp- en bouwfase van Defensiegebouwen kenmerken zich veelal in wijzigingen en 
+aanpassingen tijdens ontwerp en bouw, waar de ILT op toeziet. De ILT registreert deze incidenten/wijzigingen niet in 
+exacte aantallen en type.
+Om het aantal incidenten wel in te kunnen schatten, maakt de ILT een vergelijking met het landelijk gemiddelde van het 
+aantal incidenten binnen het werkveld van constructieve veiligheid. Dat aantal ligt op circa 20.000 per jaar (à € 50.000 
+schade per incident) bij een landelijk bouwbudget van € 50 miljard [22]. Dit vergelijken we met het Defensie- bouw-
+budget (daarbij kan constructieve onveiligheid optreden), zijnde circa € 200 miljoen [23]. Uit deze vergelijking van het 
+Defensiebouwbudget (2018) met het landelijke bouwbudget binnen heel Nederland komt een factor van 200/50.000= 
+-3
+4 x 10 .
+Als we uitgaan van deze factor, dan schatten we het aantal jaarlijkse incidenten bij Defensie op bouw/constructiegebied 
+-3
+op 4 x 10 x 20.000 = circa 80 incidenten per jaar. Dus de frequentie valt in de categorie ‘1-7 dagen’.
+Er komen binnen Defensie weinig ongevallen voor met doden en gewonden als gevolg van fouten in de bouw en 
+constructie (niet zijnde Arbo). Arbo-incidenten in de bouw telt de ILT hierin niet mee. Deze zijn geen onderdeel van het 
+bevoegd gezag van de ILT maar van het gezag van de Nederlandse Arbeidsinspectie.
+Er is slechts 1 voorbeeld bekend. Dit betreft een val van bezoekende studenten doordat een balustrade op de 
+Oranjekazerne ondeugdelijk is (2013). Daarbij vielen 3 zwaargewonden en 4 lichtgewonden [24; 25]. Het ontbreekt aan 
+meer voorbeelden. De ILT schat het optreden van slachtoffers, zoals doden en gewonden, daarom als zeer laag en zet 
+deze hier op 0 doden en gewonden.
+Brandveiligheid
+Defensie heeft een achterstand in het naleven van de regels voor brandveiligheid. Zoals hierboven bij bijzonderheden is 
+aangegeven, hebben de ILT en Defensie daarover afspraken gemaakt om dit weg te werken. De legeringsgebouwen zijn 
+op orde gebracht. De verbetering van de overige gebouwen is gestart. Dit project loopt tot 2027.
+Het brandveilig gebruik van de gebouwen door de militairen is bij regelmaat slecht en brengt risico’s met zich mee. 
+Ongevallen als gevolg van brand met doden of gewonden in gebouwen met een verblijfs- of legeringsfunctie, die leidden 
+tot doden of gewonden, zijn niet tot dusver niet voorgekomen. De frequentie hiervoor schat de ILT daarom zeer laag in 
+en zet deze hier op 0.
+Samengevat komt de ILT dus tot:
+• Bouw- en constructieveiligheid: 80 incidenten per jaar
+• Brandveiligheid: zeer laag (0 per jaar)
+Inspectie Leefomgeving en Transport | 87

@@ -1,0 +1,38 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+2. Verspreiding van chemische stoffen of residuen in de leefomgeving
+Omschrijving ongewenste gebeurtenis
+Verspreiding in de leefomgeving van bepaalde (schadelijke) chemische stoffen. Deze stoffen mogen niet worden 
+gebruikt, of er ontbreekt (veiligheids)informatie bij de stoffen.
+Toezicht door de ILT
+De ILT controleert de registratie van de stoffen bij het ECHA (European Chemicals Agency) en of de stoffen door bedrijven 
+geproduceerd, verhandeld en toegepast mogen worden. Ook controleert de ILT of de bedrijven de juiste informatie 
+(onder andere veiligheidsinformatiebladen en etikettering) bij de stoffen leveren.
+Populatie
+Industrie en beroepsbevolking, dit betreft de beroepsmatige gebruikers van chemische stoffen en biociden. De ILT schat 
+dit in tussen 10.000 en 100.000 personen.
+Frequentie
+Chemische stoffen worden dagelijks, dus continu gebruikt.
+Effecten
+Gezondheidsschade
+Door verspreiding van chemische stoffen in de leefomgeving ontstaat een ziektelast voor mensen. Daarnaast tast het de 
+kwaliteit van ecosystemen aan. En het kan invloed hebben op de biodiversiteit.
+De RIVM geeft aan dat in 2018 4% van de totale ziektelast wordt veroorzaakt door factoren gerelateerd aan het binnen- 
+en buitenmilieu. [10]In 2018 was de totale ziektelast in Nederland 5,2 miljoen DALY. Dit is een maatschappelijke schade 
+van (5,2 * 4% * €85.000,- =) € 17,7 miljard. De ILT beschikt niet over gegevens, op grond waarvan zij uitspraken kan 
+doen, over de omvang van deze schade door overtreding van regels. Of de omvang van de schade met een relatie tot de 
+taken van de ILT (#).
+Deze schade heeft een overlap met de schade door afval. En deze is ook genoemd bij het onderwerp bodem. Bovendien 
+wordt een deel van deze schade veroorzaakt door emissies van bijvoorbeeld industrie, verkeer en landbouw. De ILT heeft 
+geen directe taken voor deze emissies.
+Fysiek letsel, Economie en Milieu
+Niet van toepassing.
+Schade (z)onder norm
+Uit informatie van het RIVM en TNO/CBS [9] blijkt dat in 2018 omgevingsfactoren zorgden voor een werkgebonden 
+ziektelast van 151.000 DALY, gelijk aan € 12,8 miljard. Blootstelling van werknemers aan stoffen op de werkplek veroor-
+zaakt 97.100 DALY’s. Dit is een maatschappelijke schade van € 8,3 miljard. Van deze schade is € 1 miljard al bij ongewens-
+te gebeurtenis 1 opgenomen. Er resteert in totaal € 7,3 miljard.
+Toekomstige ontwikkelingen
+REACH wordt dit jaar aangepast, waarbij de ILT meer toezichtstaken krijgt. Ook komen er voortdurend nieuwe bepalin-
+gen voor specifieke stoffen of groepen van stoffen. Bij meer regels en gelijkblijvend toezicht valt er een groei van de 
+schade te verwachten.
+Inspectie Leefomgeving en Transport | 77

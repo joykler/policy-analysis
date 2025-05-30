@@ -1,0 +1,47 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+2. Uitstroom buisleiding naar lucht/bodem/water inclusief een mogelijk e 
+explosie BG 
+Omschrijving buitengewone gebeurtenis
+Door lekkage uit de buisleiding komt een gevaarlijke stof in de leefomgeving (lucht, water, bodem). De lekkage komt 
+bijvoorbeeld door corrosie, veroudering, verzakking of (graaf)werkzaamheden. De gelekte stof kan door diverse 
+mechanismen schade veroorzaken. Door een explosie vliegen objecten weg. De uitstromende stof verdrijft zuurstof 
+waardoor mens en dier stikken door zuurstoftekort. De stof kan zelf of na reactie met de lucht giftig of irriterend zijn. Als 
+brand ontstaat kan hittestraling op afstand schade of brand veroorzaken.
+Als voorbeeld van deze buitengewone gebeurtenis gebruikt de ILT een ongeval met een hogedruk gasleiding bij 
+Gellingen (België, 30 juli 2004). Recentere voorvallen zijn er niet.
+Toezicht door de ILT
+De ILT houdt toezicht op de veiligheidsbeheersystemen voor buisleidingen. Buisleidingexploitanten zijn wettelijk 
+verplicht om een veiligheidsbeheersysteem te hebben om lekkages en ongevallen te voorkomen.
+Populatie
+Burgers en werknemers die in de buurt van buisleidingen wonen, werken of verblijven. In dit specifieke geval waren ook 
+hulpverleners ter plaatse. De ILT schat de populatie in de categorie ‘100.000-1 miljoen’.
+Frequentie
+De ILT stelt de frequentie op basis van het aantal ongevallen op 5-55 jaar.
+Effecten
+Fysiek letsel
+Bij het ongeval in Gellingen worden 3 zones met afstanden tot de bron gedefinieerd:
+• Zone 1: tot 190-240 meter [6]. In dit gebied kon niemand de ramp overleven. 
+• Zone 2: tot 710 meter. Dit gebied was alleen voor brandweer in beschermende kleding toegankelijk.
+• Zone 3: vanaf 1.000 meter. Dit gebied was veilig.
+Deze afstanden zijn vergelijkbaar met de in Nederland gehanteerde waarden in het Scenarioboek externe veiligheid [7].
+Bij de ramp in Gellingen verloren 24 mensen het leven. Verder waren er 25 zwaargewonden en nog eens 107 lichtgewon-
+den. Dit komt overeen met een schade van 112 miljoen euro. Verzekeraars keerden €28 miljoen uit. De totale schade van 
+deze buitengewone gebeurtenis komt hiermee op €140 miljoen.
+Economie
+Verzekeraars keerden €28 miljoen uit. 
+Gezondheidsschade
+De gezondheidsschade is niet onafhankelijk bepaald. Veel van de gewonden zullen nog steeds hinder ondervinden van 
+hun verwondingen (#).
+Milieu
+Niet van toepassing.
+Toekomstige ontwikkelingen
+De energietransitie versnelt zich en leidt tot ontwikkelingen in het transport via buisleidingen. Buisleidingen worden 
+langer in gebruik gehouden en (oude) aardgasleidingen worden gebruikt voor het transport van waterstof. Daarnaast zijn 
+er technische ontwikkelingen om bijvoorbeeld kunststofleidingen toe te passen voor transport van waterstof, LNG, 
+ammoniak en CO . Deze ontwikkelingen leveren nieuwe risico’s op. De ILT ziet erop toe dat de risico’s van deze ontwik-
+2
+kelingen binnen de normen blijven.
+Ook wordt transport via buisleidingen een belangrijkere modaliteit. Voorbeeld hiervan is de aanleg van de Delta-corridor 
+waarmee de Europoort met Chemelot wordt verbonden. De geopolitieke ontwikkelingen zorgen verder voor extra 
+aandacht voor de fysieke veiligheid en cybersecurity van buisleidingen. Dit betekent een aanvullende inspectielast.
+Inspectie Leefomgeving en Transport | 73

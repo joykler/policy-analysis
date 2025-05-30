@@ -1,0 +1,44 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Frequentie
+Er vinden continu overtredingen plaats. De schade wordt vooral bepaald door incidenten met containertransport. De 
+haven van Rotterdam behandelt jaarlijks ongeveer 15 miljoen TEU [10]. Ruim de helft van de containers is beladen, de ILT 
+rekent met 9 miljoen containers.
+Inspecteurs van de ILT schatten dat 6% van het deepsea transport en 12% van het shortsea transport gevaarlijke stoffen 
+bevat. Het aantal containers met gevaarlijke stoffen ligt tussen (6% van 9 miljoen =) 540.000 en (12% van 9 miljoen =) 
+1.080.000 containers.
+Ervaringscijfers van de ILT leren dat bij ongeveer één op de drie van de voor inspectie geselecteerde containers de 
+tekortkomingen zo groot zijn, dat men deze moet oplossen, voordat men deze verder mag transporteren. Bij nog eens 
+één op de drie zijn er tekortkomingen die men verderop in de transportketen moet oplossen.
+Effecten
+Fysiek letsel
+Bij problemen met gevaarlijke stoffen in een container aan boord zijn de plaats van de container in het schip en de 
+bereikbaarheid van de container zeer bepalend voor het verloop van het incident (#). De schade aan het schip is 
+verzekerbaar. 
+Economie
+Economische schade ontstaat bijvoorbeeld door schade aan of verlies van andere lading of vertraging. De ILT kan de 
+economische schade als gevolg van vrijkomen van een gevaarlijke stof niet bepalen omdat het aantal incidenten en de 
+gevolgen van het vrijkomen onbekend zijn (#).
+Milieu
+Zowel aard als hoeveelheid van de vrijgekomen stoffen zijn onbekend. Daardoor kan de ILT de milieuschade niet 
+uitrekenen (#).
+Gezondheidsschade
+Langdurige blootstelling aan toxische stoffen kan ook bij lage dosering gevolgen hebben. Rapportage over deze schade 
+ontbreekt, daarom kan de ILT deze schade niet berekenen (#).
+6. Ongewenst vrijkomen van getransporteerde gevaarlijke stof uit luchtvracht
+Omschrijving
+Gevaarlijke lading die voor, tijdens of na het transport door de lucht lekt of ontbrandt. Hierdoor ademen inzittenden 
+vervuiling in of ontstaat schade aan het vliegtuig. Mogelijk moet het toestel een voorzorgslanding uitvoeren.
+In de luchtvaartsector is al enige jaren veel aandacht voor het transport van lithium-ion batterijen. De ICAO (de lucht-
+vaartorganisatie van de Verenigde Naties) stelde al in 2016 een verbod in op het vervoeren van LI-ion accu’s in ruimbaga-
+ge. Bij e-commerce werden dergelijke accu’s regelmatig zonder de juiste declaratie en voorzorgsmaatregelen verzonden. 
+Na thema-inspecties van de ILT is het aantal geconstateerde overtredingen drastisch teruggebracht. [11]
+Toezicht door de ILT
+De ILT houdt toezicht op de gehele keten van het vervoer van gevaarlijke stoffen door de lucht. Alle betrokken partijen 
+die werken vanuit Nederland of de Caribisch Nederland  zijn verplicht een erkenning te hebben als zij gevaarlijke stoffen 
+voor vervoer door de lucht aanbieden, doen vervoeren of vervoeren. Erkenninghouders krijgen periodiek een audit om 
+vast te stellen of ze nog aan de voorwaarden van de erkenning voldoen.
+De ILT voert objectinspecties uit om te beoordelen of aan de internationale regels [7c, 7d] wordt voldaan. Ook contro-
+leert de ILT of gevaarlijke stoffen als gewone vracht worden vervoerd (undeclared). Gevaarlijke stoffen die niet correct 
+zijn verpakt en gedeclareerd vormen een extra risico, omdat andere partijen in de keten dan niet de juiste 
+voorzorgsmaat regelen kunnen nemen.
+Inspectie Leefomgeving en Transport | 191

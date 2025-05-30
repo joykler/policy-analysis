@@ -1,0 +1,45 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+1. Terroristische aanslag op Nederlands schip of Nederlandse haven
+Omschrijving ongewenste gebeurtenis
+Een terroristische aanslag op een Nederlands schip in Nederland, of op een Nederlandse haven.
+Toezicht door de ILT
+De ILT controleert of betrokken partijen zich houden aan de afspraken uit het beveiligingsplan voor Nederlandse 
+zeeschepen of havens. Daarnaast handhaaft de ILT ook als betrokken partijen beperkingen voor handel of schepen uit 
+bepaalde landen overtreden.
+Populatie
+De gehele Nederlandse bevolking kan worden getroffen, bijvoorbeeld bij een grote aanslag op de Rotterdamse haven. 
+Populatie > 10 miljoen.
+Frequentie
+Algemeen
+De sector zeehavens heeft qua beveiliging of security te maken met verschillende dreigingstypen: proliferatie (van 
+ongewenste goederen zoals wapens), spionage, terrorisme, cyberaanvallen en piraterij [20].
+Denkbare scenario’s zijn bijvoorbeeld kaping, brandstichting, gijzeling en blokkades. Deze spelen een centrale rol in de 
+risicoanalyse voor te ontwikkelen securityvraagstukken.
+De Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) bepaalt, onder andere op basis van informatie van 
+de Algemene Inlichtingen- en Veiligheidsdienst (AIVD), de mate van dreiging voor Nederland [21]. De NCTV stelt dat de 
+dreiging tegen de Nederlandse zeehavens en territoriale wateren momenteel niet groot is.
+Het Dreigingsbeeld Terrorisme Nederland zegt: “Het dreigingsniveau in Nederland is aanzienlijk; niveau 3 op een schaal 
+van 5. Dat betekent dat de kans op een aanslag in Nederland voorstelbaar blijft is, maar dat er geen concrete aanwij-
+zingen zijn dat er voorbereidingen worden getroffen om in Nederland een aanslag te plegen’’.
+Schepen
+Port State Control (PSC) houdt toezicht op de veiligheid en de beveiliging van bezoekende zeeschepen onder een 
+buitenlandse vlag. Dat is een verplichting vanuit het Paris MoU [26], EU-Richtlijn PSC [8], en de Wet Havenstaatcontrole 
+[5]. In Nederland voert de ILT de PSC-inspecties uit. Zij is, vanuit de Nederlandse rol als vlaggenstaat, ook verantwoorde-
+lijk voor het toezicht op Nederlandse zeeschepen (veiligheids-, milieu- en beveiligings-eisen) en de certificering van het 
+personeel op deze schepen. Uiterlijk elke 5 jaar vindt hercertificering security plaats.
+Havens
+De EU-Richtlijn 2005/65 [16] en de Havenbeveiligingswet [1] vereisen dat Nederlandse havens waar zeeschepen komen 
+die vallen onder de Internationale code inzake de beveiliging van schepen en havenvoorzieningen (ISPS), voor de hele 
+haven een security-assessment en veiligheidsplan hebben. De burgemeester van de plaats waar de haven ligt, is 
+daarvoor verantwoordelijk.
+Ook hier geldt een 5-jaarlijkse certificering. De ILT houdt toezicht op die certificering en op de naleving van de veilig-
+heidsplannen. Zie hiervoor ook punt 7 bij het kopje ‘bijzonderheden’.
+Terroristische aanslagen
+In West-Europa is in de periode 2016 – 2020 één aanslag voorgekomen op een maritiem doel (Griekenland, 12/12/2029 
+[27]). Wereldwijd zijn er in die periode ongeveer 100 terroristische aanslagen geweest op maritieme doelen ([27], 
+bijgewerkt tot en met 2020).
+Verder zijn cyberaanvallen een reëel risico voor de maritieme sector. Dit blijkt onder andere uit de cyberaanval met 
+NotPetya gijzelingssoftware in 2017. Die aanval veroorzaakte wereldwijd honderden miljoenen euro’s schade in de 
+sector. Dat was ook in Nederland merkbaar; in de Rotterdamse haven vallen twee grote containerterminals (samen bijna 
+een derde van de Rotterdamse containercapaciteit) dagenlang compleet stil [28; 29].
+Inspectie Leefomgeving en Transport | 58

@@ -1,0 +1,44 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Effecten
+Fysiek letsel, Economie en Gezondheidsschade
+Niet van toepassing.
+Milieu
+In 2020 verbruikt Europa totaal 763 Mtoe energie aan producten, die onder Ecodesign vallen [9, p480]. Dit betreft 
+industrie, huishoudens en de diensten- en transportsector.
+De besparingen op energie in 2020, als gevolg van de Ecodesign-richtlijnen, zouden voor Europa op 46 Mtoe liggen  
+[9, p18]. Dit is als volgt verdeeld:
+• elektriciteit: 29 Mtoe
+• brandstoffen: 17 Mtoe
+Gemiddeld is 21% van de verkochte producten niet conform deze richtlijnen [15], waardoor de energiebesparingen met 
+ongeveer 10% [9, p21; 10, p35] afnemen.
+In 2020 liggen de gemiste besparingen op energie voor Europa daarom op 4,6 Mtoe:
+• elektriciteit: 2,9 Mtoe
+• brandstoffen: 1,7 Mtoe
+Totale consumptie in huishoudens (2021) in Mtoe [11] EU-27 Nederland
+Energie totaal
+261,7 10,1
+Elektriciteit 64,3 2,0
+Brandstoffen 163,9 7,6
+Aardgas 87,7 7,2
+ 
+Totale consumptie in industrie (2021) in Mtoe [12] EU-27 Nederland
+Energie totaal 240,3 13,2
+Elektriciteit 79,8 3,0
+Brandstoffen 140,9 8,8
+Aardgas 78,6 5,1
+Totale consumptie in huishoudens + industrie (2021) EU-27 Nederland
+Energie totaal 501,9 23,4
+Elektriciteit 144,1 5,0
+Brandstoffen 304,8 16,4
+Aardgas 166,3 12,3
+De gemiste elektriciteitsbesparing voor 2021 in Europa = 2,9 / 144,1 = 2,01%. Als Europa representatief gesteld mag 
+worden voor Nederland, geldt dat 2,01% van 5,0 Mtoe = 0,10 Mtoe aan elektriciteit niet is bespaard. Dit is een milieu-
+schade van € 136 miljoen. Hierbij zijn de volgende tarieven gebruikt: € 0,134 per kWh voor consumenten en € 0,105 per 
+kWh voor bedrijven [14]. Daarnaast kan 1 toe worden omgerekend naar 11,63 megawattuur (MWh). 
+In de EU wordt 304,8 Mtoe aan brandstoffen verbruikt. Hiervan is 166,28 Mtoe aardgas. Dit betreft 304,8 / 166,28 = 
+54,6%. Gemiste besparing aan brandstoffen is 1,7 Mtoe. 54,6% hiervan is 0,93 Mtoe: dit is de gemiste besparing aan 
+aardgas in EU in 2021. Voor Nederland betekent dit 12,3 / 166,3 x 0,93 Mtoe = 0,07 Mtoe. Dit is een milieuschade van € 65 
+miljoen. Hierbij zijn de volgende tarieven: € 28,103 per GJ voor consumenten en € 14,624 per GJ voor bedrijven [14], en de 
+omrekenfactor 1 toe = 41,868 gigajoule (GJ) [13] gebruikt. De andere brandstoffen zijn onbekend en laat de ILT buiten 
+beschouwing.
+Inspectie Leefomgeving en Transport | 101

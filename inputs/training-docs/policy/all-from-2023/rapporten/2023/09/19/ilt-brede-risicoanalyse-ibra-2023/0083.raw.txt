@@ -1,0 +1,50 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Toekomstige ontwikkelingen
+Door ontwikkelingen in de regelgeving komen steeds meer partijen onder toezicht te staan. De schade en de hoeveel-
+heid werk zullen daardoor toenemen.
+Schadeoverzicht
+In de tabel hieronder wordt het schadebedrag, onderverdeeld in de vier schadecategorieën, per ongewenste gebeurtenis 
+samengevat. De totale schadebedrag dat hier van af is geleid staat eronder. Ook staat het schadebedrag van de buiten-
+gewone gebeurtenis in de tabel.
+Schade in € miljoen/jaar
+ 
+ 
+Cybersecurity incident vitale aanbieder 0 0 0 0 0
+Cybersecurity incident drinkwatervoorziening BG 13.000 # # # 13.000 + #
+Cybersecurity incident luchtvaart BG n.v.t. 5.000 n.v.t. n.v.t. 5.000
+Cybersecurity incident scheepvaart BG n.v.t. 5.000 n.v.t. n.v.t. 5.000
+Totaal 0
+Verwijzingen wet- en regelgeving
+[2] Wet beveiliging netwerk- en informatiesystemen (2022, 1 december). Geraadpleegd van https://wetten.overheid.nl/
+BWBR0041515
+[3] Besluit beveiliging netwerk- en informatiesystemen (2021, 1 juni) Geraadpleegd van https://wetten.overheid.nl/
+BWBR0041520
+Verwijzingen algemeen 
+[1] Nationaal Coördinator Terrorismebestrijding en Veiligheid. (2022). Cybersecuritybeeld Nederland: CSBN 2022. In 
+https://www.nctv.nl/onderwerpen/cybersecuritybeeld-nederland/nieuws/2022/07/04/nctv-risico-op-ontwrich-
+ting-groter-door-scheefgroei-dreiging-en-weerbaarheid. Geraadpleegd op 6 februari 2023, van https://www.nctv.
+nl/binaries/nctv/documenten/publicaties/2022/07/04/cybersecuritybeeld-nederland-2022/
+Cybersecuritybeeld+Nederland+2022.pdf
+[4] Brookman, S., Van Straaten, G., & Ten Doeschot, F. (2022, december). Risico- en Crisisbarometer Najaar 2022 (Door I&O 
+Research). https://www.nctv.nl/onderwerpen/risico-en-crisisbarometer/documenten/rapporten/2022/12/22/
+risico--en-crisisbarometer---najaar-2022. Geraadpleegd op 6 februari 2023, van https://www.nctv.nl/binaries/nctv/
+documenten/rapporten/2022/12/22/risico--en-crisisbarometer---najaar-2022/Definitief_rapport+najaar+RC-
+B+IO+Research.pdf
+[5] Nationaal Cyber Security Centrum. (2020). Nationaal Crisisplan Digitaal. In https://www.nctv.nl/documenten/
+publicaties/2022/12/23/landelijk-crisisplan-digitaal. Nationaal Coördinator Terrorismebestrijding en Veiligheid. 
+Geraadpleegd op 6 februari 2023
+[6] Berben, J., De Leeuw, S., Van Venrooij, P., Tengnagel, W., & Hakkenberg, B. (2016). Coördinatieplan Uitval 
+Drinkwatervoorziening (Door Brandweer Brabant-Noord & R. Huveneers). Brandweer Brabant-Noord. Geraadpleegd 
+op 6 februari 2023, van https://www.vrbn.nl/publish/pages/24456/coordinatieplan_uitval_drinkwatervoorziening_
+def_mei_2016.pdf
+Inspectie Leefomgeving en Transport | 83
+Fysiek letsel
+Economie
+Milieu
+Gezondheids-
+schade
+Totale schade in 
+€ miljoen/jaar
+Buiten gewone  
+gebeurtenis 
+in € miljoen

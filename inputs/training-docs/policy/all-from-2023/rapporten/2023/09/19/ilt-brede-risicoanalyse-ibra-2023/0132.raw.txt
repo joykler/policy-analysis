@@ -1,0 +1,29 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+2. Legionellabesmetting via de drinkwaterinstallatie van een prioritaire instelling  
+in Caribisch Nederland 
+Omschrijving ongewenste gebeurtenis
+De legionellabacterie veroorzaakt een ernstige longontsteking: legionellose. Dit heet ook wel legionellapneumonie. 
+Besmetting vindt plaats door het inademen van kleine waterdruppels of aerosolen waarin de legionellabacterie 
+aanwezig is.
+Toezicht door de ILT
+De ILT houdt toezicht op de beheersmaatregelen die prioritaire instellingen, in Caribisch Nederland , nemen om 
+legionella te voorkomen en de uitvoering daarvan.
+Populatie
+Alle inwoners van de Caribisch Nederland , circa 29.500 [6]. Dit valt in de populatie 10.000-100.000 personen.
+Frequentie
+Legionellabesmettingen bij prioritaire instellingen kunnen doorlopend optreden. De ILT bepaalt de frequentie op 
+continu.
+Effecten
+Fysiek letsel, Economie en Milieu: 
+Niet van toepassing.
+Gezondheidsschade
+De effecten van legionella in Caribisch Nederland  zijn niet bekend. In Caribisch Nederland  komt hetzelfde soort 
+maatschappelijke schade voor als in Nederland. De schadelast voor de Caribisch Nederland  is daarom een factor van de 
+totale IBRA-schadelast binnen Nederland. Deze factor is berekend op basis van de verhouding tussen de omvang van 
+bevolking binnen de Caribisch Nederland  en die in Nederland in 2021 vanwege de meest recente aantal meldingen van 
+patiënten met legionellapneumonie.
+Het aantal inwoners in Caribisch Nederland  in 2021 is circa 26.000 [6] en dat van Nederland circa 17,4 miljoen [5]. Dus de 
+rekenfactor van het aantal inwoners in Caribisch Nederland  ten opzichte van Nederland is 26.000/17,4 miljoen = 0,0015 
+(afgerond op 4 cijfers). De maatschappelijke schade voor Nederland is 3.111 DALY’s. De maatschappelijke schade in 
+Caribisch Nederland  bedraagt daarmee 3.111 * 0,0015 * € 85.000 = € 400.000.
+Inspectie Leefomgeving en Transport | 132

@@ -1,0 +1,39 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+dat er in Nederland 700.000 huishoudens leven in ‘energiearmoede’ [17]. Deze huishoudens hebben moeite met het 
+betalen van hun gas- en elektriciteitsrekening. 
+6. Het Ecodesign Impact Accounting Annual Report 2020 [19] bevatte een correctie van de gebruikte rekenmodellen, 
+ten opzichte van voorgaande versies. De totale hoeveelheid bespaarde energie komt daardoor significant lager uit, 
+dan voorheen werd gedacht. Hierdoor daalden de berekende effecten voor dit onderwerp significant in de IBRA 
+2022 ten opzichte van de IBRA 2021.
+Discussiepunten
+Geen.
+Marktwerking
+De richtlijnen rondom Ecodesign stellen een kader vast voor de voorschriften over het ecologisch ontwerp voor energie- 
+gerelateerde producten. Dit draagt bij aan bescherming van het milieu en efficiënter gebruik van energie. Maar het zorgt 
+ook voor het vrije verkeer van die producten in de Europese markt. In bijlage C staat een beschrijving van alle onderwer-
+pen waar marktwerking speelt. De marktwerkingschade voor dit onderwerp betreft #.
+Overzicht van ongewenste gebeurtenissen 
+1. Onnodig energieverbruik (Ecodesign)
+2. Gebruik van schaarse stoffen (Ecodesign)
+3. Uitstoot van NOx (Ecodesign)
+4. Uitstoot van overige schadelijke stoffen (Ecodesign)
+1. Onnodig energieverbruik (Ecodesign)
+Omschrijving ongewenste gebeurtenis
+Doordat men producten verkoopt, die niet voldoen aan de wettelijke eisen en bepalingen over het efficiënt gebruik van 
+energie, ontstaat milieuschade. De consument is hier de dupe van, want die betaalt een onnodig hoge energierekening.
+Toezicht door de ILT
+De ILT controleert de fabrikanten en importeurs van energie- gerelateerde producten op het uitvoeren van een product-
+test, het hebben van een goed technisch dossier, het voorzien van het product met de juiste informatie (waaronder 
+CE-markering) en het publiceren van deze informatie op een openbare website.
+De ILT kijkt ook naar producten die op andere brandstoffen werken, zoals aardgas en hout. De NVWA heeft ook een rol. 
+Zij houdt toezicht op het energielabel, als een product dat onder Ecodesign valt een energielabel heeft.
+Populatie
+Alle gebruikers van deze producten, zowel burgers als industrie.
+Betreft alle volwassenen met een huishouden (14 miljoen), aangezien iedereen deze producten in huis heeft, zoals een 
+koelkast, een wasmachine, een televisie(s), een stofzuiger [8].
+Betreft ook alle ondernemingen. De productgroepen met Ecodesign-eisen komen in ieder bedrijf voor, zoals verlichting, 
+computers en luchtbehandelingssystemen [8].
+Dit valt dus in de categorie meer dan 10 miljoen.
+Frequentie
+Continu verbruiken energiegerelateerde producten onnodig energie.
+Inspectie Leefomgeving en Transport | 100

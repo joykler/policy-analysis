@@ -1,0 +1,43 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Beveiliging scheepvaart
+Omschrijving
+Onder de noemer beveiliging scheepvaart vallen zaken als een terroristische aanslag op een Nederlands schip (wereld-
+wijd) of een Nederlandse haven, migrantensmokkel, mensenhandel, en piraterij. Ten aanzien van een cybersecurity-inci-
+dent bij een Nederlandse haven is een aparte ongewenste gebeurtenis opgenomen.
+• De berekende maatschappelijke schade voor dit onderwerp: 0 euro
+• Is er extra schade waarvoor geen bedrag kan worden bepaald? Nee. 
+• Aanzienlijke schade binnen de wettelijke regels: Nee.
+• Schade als Buitengewone gebeurtenis: Ja, namelijk 476 miljoen euro.
+Regelgeving en doel
+De voor deze factsheet relevante wet- en regelgeving betreft zowel Europese als (inter)nationale regelgeving [1 t/m 13]. 
+Het doel van de wet- en regelgeving is om de Nederlandse zeeschepen wereldwijd goed te beveiligen. Dit betreft 
+zeeschepen uit Nederland en in de Nederlandse zeehavens. Ook de bescherming en beveiliging van economische 
+belangen in Nederland tellen hierbij mee.
+Bijzonderheden
+De ILT houdt toezicht op een breed scala aan onderwerpen in het kader van beveiliging:
+1. De security-eisen en -verplichtingen voor schepen en havenfaciliteiten komen voort uit het SOLAS Verdrag [14, H 
+XI-2], ISPS Code [15] en EU-verordening 725/2004 [8; 16].
+2. De havenbeveiliging in Caribisch Nederland  is bij het ter plaatse bevoegde gezag (de gezaghebber) ondergebracht. 
+De ILT heeft op het gebied van havenbeveiliging geen bevoegdheid in Caribisch Nederland  [11].
+3. Toezicht (oog- en oorfunctie) in het kader van de sanctiewet. Het gaat daarbij om beperkingen van handel of 
+schepen uit bepaalde landen [13; 17].
+4. In de Havenbeveiligingswet [1] is de beveiliging of bewaking geregeld van zeevervoer en havenfaciliteiten tegen 
+dreigingen van opzettelijk ongeoorloofde acties, in het bijzonder terrorisme. Ongewenste toegang, waaronder 
+vormen van migrantensmokkel via Nederlandse havens, moet hiermee onder andere worden voorkomen. Deze 
+vormen van smokkel vormen een inbreuk op het beveiligingsniveau van de haven [18].
+5. De beveiliging van passagiersschepen. Denk daarbij bijvoorbeeld aan internationale veerboten en cruiseschepen. 
+Zie ook de ISPS Code [15].
+6. De beveiliging van Nederlandse zeehavens of zeeschepen tegen cyberaanvallen [10].
+7. Burgemeesters van (Nederlandse) gemeenten met havens zijn, op basis van EU-Richtlijn 2005/65, verantwoordelijk 
+voor het opstellen van een veiligheidsplan en het toezicht op de uitvoering van beveiligingsmaatregelen op havens 
+waar zeeschepen komen. Niet de gemeenteraad, maar de ILT houdt hier toezicht op [12, art 124e; 12a, art. 1c]. Dit 
+toezicht is geregeld in de Havenbeveiligingswet [1].
+8. Deze schade kan optreden in Nederland en op de BES eilanden.
+9. Schade gerelateerd aan cybersecurity wordt behandeld in de factsheet Cybersecurity.
+Discussiepunten
+Geen.
+Overzicht van ongewenste gebeurtenissen 
+1. Terroristische aanslag op Nederlands schip in Nederland of Nederlandse haven.
+2. Terroristische aanslag op Nederlands schip in Nederland of Nederlandse haven, buitengewone gebeurtenis.
+3. Terroristische aanslag op Nederlandse zeeschepen ergens in de wereld.
+Inspectie Leefomgeving en Transport | 57

@@ -1,0 +1,44 @@
+ILT-brede risicoanalyse (IBRA) 2022 - Bijlage A IBRA factsheets
+Categorie B is als volgt omschreven:
+In deze categorie staat de infrastructuur die bij verstoring, aantasting of uitval de ondergrenzen van minstens een van de 
+drie impactcriteria voor categorie B raakt:
+1. Economische gevolgen: meer dan circa € 5 miljard schade of circa 1,0 % daling reëel inkomen.
+2. Fysieke gevolgen: meer dan 1.000 personen dood, ernstig gewond of chronisch ziek.
+3. Sociaal maatschappelijke gevolgen: meer dan 100.000 personen ondervinden emotionele problemen of ernstig 
+maatschappelijke overlevingsproblemen.
+Een cybersecurityincident met betrekking tot de luchtvaartsector valt in categorie B. De ILT kiest ervoor om een  
+economische schade van € 5 miljard op te nemen. 
+Fysiek letsel, Milieu en Gezondheidsschade
+Niet van toepassing.
+4. Cybersecurity incident scheepvaart BG
+Omschrijving buitengewone gebeurtenis
+Een gerichte cyberaanval op de Nederlandse scheepvaartsector, waarbij deze voor langere tijd verstoord raakt, heeft 
+vergaande economische schade tot gevolg.
+Toezicht door de ILT
+De ILT ziet erop toe dat de vitale aanbieders passende en evenredige maatregelen nemen om de risico’s voor de 
+beveiliging van hun netwerk- en informatiesystemen te beheersen en eventuele incidenten melden bij de Minister van 
+Justitie en Veiligheid, het Computer Security Incident Response Team (CSIRT) en de bevoegde autoriteit.
+Populatie
+De gehele Nederlandse bevolking kan worden getroffen. Populatie meer dan 10 miljoen.
+Frequentie
+Buitengewone gebeurtenis.
+Effecten
+Economie
+Het Nationaal Cybersecurity Centrum en de NCTV hebben samen het Nationaal Crisisplan Digitaal opgesteld. Daarin 
+maken zij onderscheid tussen incidenten in de vitale processen van categorie A en categorie B [5].
+Categorie B bevat als vitale processen onder andere:
+• Vlucht- en vliegtuigafhandeling
+• Grootschalige productie/verwerking en/of opslag (petro-)chemische stoffen
+• Scheepvaartafwikkeling
+Categorie B is als volgt omschreven:
+In deze categorie staat de infrastructuur die bij verstoring, aantasting of uitval de ondergrenzen van minstens een van 
+de 3 impactcriteria voor categorie B raakt:
+1. Economische gevolgen: meer dan circa € 5 miljard schade of circa 1,0 % daling reëel inkomen.
+2. Fysieke gevolgen: meer dan 1.000 personen dood, ernstig gewond of chronisch ziek.
+3. Sociaal maatschappelijke gevolgen: meer dan 100.000 personen ondervinden emotionele problemen of ernstig 
+maatschappelijke overlevingsproblemen.
+Een cybersecurity incident met betrekking tot de scheepvaartsector valt in categorie B. De ILT kiest ervoor om een 
+economische schade van € 5 miljard op te nemen.
+Fysiek letsel, Milieu en Gezondheidsschade
+Niet van toepassing.
+Inspectie Leefomgeving en Transport | 82
