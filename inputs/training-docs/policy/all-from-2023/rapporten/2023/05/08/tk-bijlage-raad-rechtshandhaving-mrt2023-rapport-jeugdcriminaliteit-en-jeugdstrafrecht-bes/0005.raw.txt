@@ -36,7 +36,4 @@ VWS  Volksgezondheid, Welzijn en Sport
 WBP  Wet bescherming persoonsgegevens 
 WODC  Wetenschappelijk Onderzoek- en Documentatiecentrum  
 ZJCN  Zorg en Jeugd Caribisch Nederland 
-ZVH  Zorg- en Veiligheidshuis 
- 
-  
-5
+ZVH  Zorg- en Veiligheidshuis
