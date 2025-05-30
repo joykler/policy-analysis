@@ -54,4 +54,4 @@ b. de leerling niet eerder was ingeschreven op een school voor basisonderwijs, s
 school voor basisonderwijs, school voor speciaal onderwijs, school voor voortgezet 
 speciaal onderwijs, school voor speciaal en voortgezet speciaal onderwijs of een school 
 voor voortgezet onderwijs. 
- W15047.K-2 3
+ W15047.K-2
