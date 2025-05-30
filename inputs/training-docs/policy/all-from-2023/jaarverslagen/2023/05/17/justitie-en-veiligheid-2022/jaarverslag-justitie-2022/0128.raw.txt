@@ -1,0 +1,42 @@
+Balans
+Tabel 60 Balans per 31 december 2021 (x € 1.000)
+31-12-2022 31-12-2021
+Activa
+Vaste Activa 25.970 60.043
+Immateriële activa 145 5.223
+Materiële vaste activa 25.825 54.820
+waarvan grond en gebouwen 51 285
+waarvan installaties en inventarissen 22.297 52.492
+waarvan projecten in uitvoering 0 0
+waarvan overige materiële vaste activa 3.477 2.043
+Vlottende Activa 821.991 428.483
+- Voorraden en onderhanden projecten 15.567 11.299
+- Debiteuren 30.736 32.135
+- Overige vorderingen en overlopende activa 109.280 85.412
+- Liquide middelen 666.408 299.637
+Totaal Activa 847.961 488.526
+Passiva
+Eigen vermogen 100.092 ‒ 1.450
+- Exploitatiereserve 77.990 33.270
+- Onverdeeld resultaat 22.102 ‒ 34.720
+Voorzieningen 62.570 62.769
+Langlopende schulden 0 0
+- Leningen bij het Ministerie van Financiën 0 0
+Kortlopende schulden 685.299 427.207
+- Crediteuren 79.884 33.559
+- Kortlopend deel leningen bij het Ministerie van Financiën 0 0
+- Overige schulden en overlopende passiva 605.415 393.648
+Totaal Passiva 847.961 488.526
+Toelichting op de debetzijde van de balans
+ 
+Tabel 61 Debiteuren (x € 1.000)
+Omschrijving 31-12-2022 31-12-2021
+Debiteuren 39.586 39.388
+-/- Voorziening dubieuze debiteuren ‒ 8.850 ‒ 7.253
+Totaal 30.736 32.135
+Nadere specificatie 31-12-2022 31-12-2021
+Debiteuren moederdepartement 13.311 13.142
+Debiteuren andere ministeries 2.369 1.447
+Debiteuren derden 23.906 24.799
+Totaal 39.586 39.388
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 128

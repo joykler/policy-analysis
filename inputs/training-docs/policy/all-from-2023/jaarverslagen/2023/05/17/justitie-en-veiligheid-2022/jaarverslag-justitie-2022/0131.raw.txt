@@ -1,0 +1,35 @@
+Crediteuren
+Tabel 67 Crediteuren (x € 1.000)
+Omschrijving 31-12-2022 31-12-2021
+Crediteuren 75.677 32.478
+Betalingen onderweg 4.207 1.081
+Totaal 79.884 33.559
+Openstaande crediteuren per jaar 31-12-2022 31-12-2021
+t/m 2018 58 58
+2019 0 0
+2020 36 39
+2021 ‒ 1.325 32.381
+2022 76.908 0
+Totaal 75.677 32.478
+Nadere specificatie 31-12-2022 31-12-2021
+Crediteuren moederdepartement 12.895 1.157
+Crediteuren andere ministeries 3.513 3.001
+Crediteuren derden 59.269 28.320
+Totaal 75.677 32.478
+De stijging van deze post heeft betrekking op de (per balansdatum) nog te 
+betalen facturen aan derden, met name aan forensische instellingen.
+Overige schulden en overlopende passiva
+Tabel 68 Overige schulden en overlopende passiva (x € 1.000)
+Omschrijving 31-12-2022 31-12-2021
+Overige schulden: nog te ontvangen facturen/declaraties 328.139 262.078
+Vooruitontvangen projectbijdragen 82.894 23.342
+Terug te betalen bijdragen 97.818 22.433
+Vooruitontvangen bedragen 9.051 7.090
+Niet opgenomen vakantiedagen 87.513 78.705
+Totaal 605.415 393.648
+Nadere specificatie 31-12-2022 31-12-2021
+Overige schulden en overlopende passiva aan moederdepartement 196.126 54.189
+Overige schulden en overlopende passiva aan andere ministeries 29.935 28.050
+Overige schulden en overlopende passiva aan derden (buiten het Rijk) 379.354 311.409
+Totaal 605.415 393.648
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 131

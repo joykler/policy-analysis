@@ -1,0 +1,46 @@
+Balans
+Tabel 87 Balans per 31 december 2022 (bedragen x € 1.000)
+31-12-2022 31-12-2021
+Activa
+Vaste Activa 3.477 6.025
+Immateriële activa 0 275
+Materiële vaste activa 3.477 5.750
+- grond en gebouwen 134 199
+- installaties en inventarissen 828 1.111
+- overige materiële vaste activa 2.515 4.440
+Vlottende Activa 70.450 57.095
+- Voorraden en onderhanden projecten 0 0
+- Debiteuren 591 414
+- Overige vorderingen en overlopende activa 5.743 8.378
+- Liquide middelen 64.116 48.303
+Totaal activa 73.927 63.120
+Passiva
+Eigen vermogen 3.147 5.857
+- exploitatiereserve 5.857 9.737
+- onverdeeld resultaat ‒ 2.710 ‒ 3.880
+Voorzieningen 1.787 898
+Langlopende schulden 3.188 4.267
+- Leningen bij het Ministerie van Financiën 3.188 4.267
+Kortlopende schulden 65.805 52.098
+- Crediteuren 1.618 1.442
+- Belastingen en premies sociale lasten 14 13
+- Kortlopend deel leningen bij het Ministerie van Financiën 1.729 2.811
+- Overige schulden en overlopende passiva 62.444 47.832
+Totaal Passiva 73.927 63.120
+Toelichting op de debetzijde van de balans
+ 
+Activa
+In onderstaand overzicht is voor de posten Debiteuren, Overige vorderingen 
+en overlopende activa en Liquide Middelen aangegeven welk deel van de 
+stand per 31 december 2022 vorderingen betreft tussen het agentschap en 
+het moederdepartement; het agentschap en andere Ministeries (inclusief 
+agentschappen); het agentschap en derden (buiten het Rijk).
+Tabel 88 Vlottende activa (bedragen * € 1.000)
+Moeder- Andere Derden Totaal
+departement Ministeries (buiten het 
+rijk)
+Debiteuren 306 63 222 591
+Overige vorderingen en overlopende activa 569 1.927 3.247 5.743
+Liquide middelen 64.116 0 0 64.116
+Totaal 64.991 1.990 3.469 70.450
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 149

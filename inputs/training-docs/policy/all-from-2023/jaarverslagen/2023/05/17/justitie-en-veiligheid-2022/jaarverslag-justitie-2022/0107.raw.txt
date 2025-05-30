@@ -1,0 +1,53 @@
+In 2022 is bij DJI naar aanleiding van de bevindingen van de ADR een 
+verbeterplan opgesteld. Uit de resultaten van de afsluiting bij DJI blijkt dat 
+een duidelijke verbetering zichtbaar is, maar dat er nog een stap gezet moet 
+worden.
+Bij de IND is verdere verbetering noodzakelijk in de vastlegging van een 
+kwalitatief goed onderbouwde prestatieverklaring of een goede audit trail 
+naar het brondocument. Er worden verdere verbetermaatregelen opgesteld 
+en die worden vervolgens opgenomen in het verbeterplan PV over 2023.
+Beheer financieel systeem Leonardo
+Technisch beheer Leonardo
+De systeemeigenaar van het financieel en inkoopsysteem van JenV 
+(Leonardo) heeft de ADR ook in 2022 verzocht om onderzoek te doen naar 
+het technisch beheer Leonardo, dat wordt uitgevoerd door SSC-ICT van 
+het ministerie van BZK. Een en ander is in aanvulling op de monitoring door 
+DFEZ op basis van de reguliere ISAE verantwoordingsrapportage. De kwali­
+teitsborging van het technisch beheer is in 2022 verder versterkt, echter de 
+vereiste verbeteringen met betrekking tot de beveiliging van componenten 
+heeft SSC-ICT binnen de auditperiode nog niet volledig gerealiseerd. De 
+aard en scope van deze beheerbeperking is zodanig dat JenV verwacht dat 
+SSC-ICT dit in 2023 (op korte termijn) op orde brengt.
+Functioneel Beheer Leonardo
+Het centraal functioneel beheer Leonardo dat binnen DFEZ wordt 
+uitgevoerd is in 2022 door de ADR in orde bevonden evenals het concern 
+toezicht op het decentrale functioneel beheer. De escalatieprocedure als 
+sluitstuk van dit toezicht wordt door DFEZ op korte termijn geactualiseerd. 
+De tekortkomingen van het decentraal functioneel beheer binnen SSC-BLS 
+worden ook in 2023 gemonitord als onderdeel van het concern toezicht.
+Facturatie van forensische zorg (DFORZO)
+De implementatie in 2022 van de nieuwe bekostigingssystematiek voor de 
+GGZ en FZ, het zorgprestatiemodel (ZPM) heeft bij de zorgverleners tot 
+stagnatie in de facturatie geleid. Om zorg te dragen voor een betrouwbare 
+verantwoording van deze uitgaven is een alternatieve methode ontwikkeld, 
+het Uniforme Productie Monitor overzicht (UPM). Deze werkwijze heeft 
+eenmalig tot veel extra werk geleid bij zowel DFORZO alsl bij de ADR. De 
+betrouwbaarheid van de verantwoordingsinformatie is pas kort voor de 
+opleverdatum van de jaarrekening grotendeels vastgesteld. De bedoeling 
+en de verwachting is dat zorgaanbieders over 2023 wel zullen factureren en 
+dat de controle op de juistheid en volledigheid van deze kosten conform 
+de gebruikelijke procedure kan plaatsvinden. De accountantscontrole op 
+de ZPM productieverantwoording van de zorgaanbieders komt in 2023 te 
+vervallen. DFORZO zal vooral gaan steunen op de eigen materiële controles. 
+In het voorjaar 2023 zal een nader voorstel worden uitgewerkt waarin is 
+opgenomen op welke wijze deze controle moet plaatsvinden inclusief het 
+tijdspad. Dit voorstel zal worden voorgelegd aan de ADR en worden 
+voorzien (na overeenstemming) van een implementatieplan.
+Datafixes Centraal Justitieel Incasso Bureau (CJIB)
+Het CJIB heeft het proces voor het doorvoeren van datafixes in het vierde 
+kwartaal verbeterd door de audit trail beter inzichtelijk te maken via Topdesk 
+en het uitvoeren van procescontroles. Deze verbeteringen zullen in 2023 
+verder worden verankerd in de processen voor het doorvoeren van 
+datafixes binnen het CJIB.
+Inkoopbeheer
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 107

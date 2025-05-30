@@ -1,0 +1,52 @@
+In het kader van de taskforce Papier is een kilometer operationele dossiers 
+gedigitaliseerd. De voorbereiding voor digitalisering is gestart bij andere 
+JenV-organisaties. Zo zijn scanfaciliteiten ingericht met inzet van 
+medewerkers met een afstand tot de arbeidsmarkt. Tevens zijn een archief­
+schouw en archiefbewerkingsplannen opgeleverd, voorbereiding getroffen 
+voor overdracht aan het Nationaal Archief en/of het vernietigen van 
+dossiers.
+In het kader van de taskforce Digitalisering Werkprocessen is een advies en 
+roadmap 2022-2026 opgesteld voor het verbeteren van de Informatievoor­
+ziening (IV) en Informatiehuishouding (IHH) bij de Raad voor Rechtsbijstand. 
+Met en voor de Raad voor de Kinderbescherming is een advies en roadmap 
+2023-2026 voor het verbeteren van de IV en IHH opgesteld en zijn twee 
+secundaire processen in kaart gebracht en verbetervoorstellen geformu­
+leerd voor het vastleggen van processen. Ten behoeve van het vreemdelin­
+genbeeld en het vreemdelingenportaal is met de migratieketen een GAP-
+analyse uitgevoerd. In samenwerking met de taskforce papier wordt 
+gekeken naar nog te digitaliseren processen om zo de nieuwe aanwas van 
+papier ook in te dammen.
+De Taskforce Datakwaliteit werkt in nauwe samenwerking met de Chief Data 
+Officer (CDO) aan het realiseren van verbeteringen in de datakwaliteit als 
+onderdeel van de CDO agenda. Er is een analyse uitgevoerd bij de Justitiële 
+Informatie Organisatie en een plan van aanpak opgesteld. In samenwerking 
+met DI&I is een logisch gegevensmodel en datakwaliteit dashboard 
+ontwikkeld. Er is gestart met analysevraagstukken m.b.t. Executiedash­
+board. En in samenwerking met de CDO is een aanpak uitgewerkt over 
+samenwerking in het kader van Federatief Datastelsel/Data Boekhouding in 
+2023 en volgende jaren.
+Informatiebeveiliging en Digitale Weerbaarheid JenV
+In 2022 is uitvoering gegeven aan het Plan van Aanpak Informatiebevei­
+liging 2.0 (PvA IB 2.0). Met de uitvoering van het PvA IB 2.0 wordt beoogd 
+de kans op en gevolgen van verstoringen van dienstverlening aan burgers, 
+bedrijven en instellingen zo veel als mogelijk te beperken. Ook is het doel 
+financiële chantage, spionage, diefstal van (persoons)gegevens, etc. te 
+voorkomen.
+In navolging van de red team onderzoeken in 2021 is ook in 2022 de opera­
+tionele informatieveiligheid bij diverse JenV-organisaties onderzocht. In 
+navolging hiervan zijn verbeterplannen opgesteld om kwetsbaarheden op 
+te lossen. Het programma faciliteert JenV organisaties. Zo is Tanium voor 
+onder meer assetmanagement en vulnerabilitymanagement uitgerold bij 
+vijf JenV-organisaties.
+Weerbaar JenV ondersteunt medewerkers in het risicobewust en alert 
+handelen met informatie en informatievoorzieningen. Instrumenten zijn 
+onder andere een basiscursus diverse modules voor specifieke 
+doelgroepen en phishingsimulaties. Er wordt gewerkt met een integrale 
+aanpak en periodieke meting. Evaluatie en bijsturing vindt plaats via onder 
+meer een jaarlijkse weerbaarheidsmeting en risicoweging. De basiscursus 
+is onderdeel van het personeelsreglement en daarmee onderwerp van het 
+personeelsgesprek.
+De verdere implementatie van de aanbevelingen van de ADR inzake risico­
+management is opgenomen in het project Governance, Risk en Compliance 
+van het PvA IB 2.0.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 111

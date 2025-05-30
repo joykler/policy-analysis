@@ -1,0 +1,21 @@
+Bereikbaarheid/beschikbaarheid
+Justid heeft per DNO een basisniveau dienstverlening (BND) afgesproken; 
+dit zijn de minimale service levels voor bereikbaarheid/beschikbaarheid van 
+systemen en informatie. Ingeval zich een verstoring voordoet met een hoge 
+impact en –urgentie, is er sprake van een zogenaamd prio 1 incident, dat 
+binnen een afgesproken hersteltijd opgelost moet zijn. Opdrachtgevers 
+hebben 4x per jaar een rapportage ontvangen waarin de bereikbaarheid en 
+eventuele prio 1 incidenten zijn vermeld en toegelicht. Over 2022 is dit nog 
+niet te vertalen in een gemiddelde totaalscore voor Justid, maar op basis 
+van de individuele rapportages kan worden gesteld dat de Justid zich heeft 
+gehouden aan de afgesproken normen en tijden.
+10.7 Justitiële ICT Organisatie (JIO)
+Inleiding
+De Justitiële ICT Organisatie is ICT-dienstverlener voor het gehele ministerie 
+van Justitie en Veiligheid. Wij maken onder meer apps waarmee onze Rijks­
+collega’s hun werk makkelijk en efficiënt kunnen doen. Wij zorgen voor de 
+juiste hard- en software op werkplekken, overal in Nederland. Wij 
+ontwikkelen veilige cloud-omgevingen waardoor onze collega’s hun werk 
+kunnen doen: thuis, onderweg en op een werkplek. En altijd veilig. Kortom: 
+wij zorgen dat ICT werkt.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 177

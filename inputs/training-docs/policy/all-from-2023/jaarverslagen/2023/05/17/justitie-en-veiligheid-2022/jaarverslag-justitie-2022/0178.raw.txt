@@ -1,0 +1,51 @@
+Staat van Baten en Lasten
+Tabel 135 Staat van baten en lasten per 2022 (x € 1.000)
+Verschil 
+realisatie en 
+Vastge­ vastge­
+stelde stelde 
+begroting Realisatie begroting (3 
+Omschrijving (1) (2) = 2 - 1)
+Baten
+Omzet 145.376 154.982 9.606
+- Omzet moederdepartement 140.049 150.730 10.681
+- Omzet overige departementen 5.327 2.675 ‒ 2.652
+- Omzet derden 0 1.577 1.577
+Vrijval voorzieningen 0 0 0
+Bijzondere baten 0 2 2
+Rentebaten 0 0 0
+Totaal baten 145.376 154.984 9.608
+Lasten
+Apparaatkosten 131.756 138.039 6.283
+-Personele kosten 74.384 78.365 3.981
+Waarvan eigen personeel 45.908 44.983 ‒ 925
+Waarvan inhuur externen 26.833 31.570 4.737
+Waarvan overige personele kosten 1.643 1.812 169
+-Materiële kosten 57.372 59.674 2.302
+Waarvan apparaat ICT 43.104 47.937 4.833
+Waarvan bijdrage aan SSO's ‒ 88 450 538
+Waarvan overige materiële kosten 14.355 11.287 ‒ 3.068
+Rentelasten 198 274 76
+Afschrijvingskosten 13.422 13.323 ‒ 100
+-Materieel 13.422 11.231 ‒ 2.192
+Waarvan apparaat ICT 13.422 11.231 ‒ 2.192
+Waarvan overige materiële kosten 0 0 0
+-Immaterieel 0 2.092 2.092
+Overige kosten 0 47 47
+Waarvan dotaties voorzieningen 0 24 24
+Waarvan bijzondere lasten 0 23 23
+Totaal lasten 145.376 151.682 6.306
+Saldo van baten en lasten gewone bedrijfsuitoefening 0 3.302 3.302
+Agentschapsdeel Vpb-lasten 0 0 0
+Saldo van baten en lasten 0 3.302 3.302
+1
+Mutatie POK/WaU gelden* 0 0 0
+Saldo van baten en lasten na resultaatbestemming* 0 3.302 3.302
+1 *Naar aanleiding van de Parlementaire Ondervragingscommissie Kinderopvangtoeslag (POK) en het 
+programma Werk aan Uitvoering (WaU) zijn middelen vrijgemaakt ter versterking van uitvoeringsorganisaties, 
+waaronder agentschappen. Indien deze middelen zijn doorverdeeld aan een agentschap via een 
+vermogensstorting, kan dit, in het kader van transparantie, separaat op deze regel verantwoord te worden in 
+de jaarverantwoording van het agentschap.
+Baten
+Omzet moederdepartement en overige departementen
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 178

@@ -1,0 +1,45 @@
+Toelichting op de debetzijde van de balans
+ 
+Tabel 149 Debiteuren (x € 1.000)
+Omschrijving 31-12-2022 1-1-2022
+Debiteuren 23.404 2.801
+-/- Voorziening dubieuze debiteuren 0 0
+Totaal 23.404 2.801
+Nadere specificatie 31-12-2022 1-1-2022
+Debiteuren moederdepartement 21.501 0
+Debiteuren andere ministeries 1.325 0
+Debiteuren derden 579 2.801
+Totaal 23.404 2.801
+De debiteurenvorderingen zijn als volgt naar ouderdom opgebouwd:
+Openstaande debiteuren vorderingen per jaar 31-12-2022 1-1-2022
+2022 23.404 2.801
+Totaal 23.404 2.801
+Per 1 januari 2022 is de Justitiële ICT Organisatie een agentschap. Alle 
+debiteuren bestaan uit opdrachtgevers die vanaf 1 januari 2022 van de 
+Justitiële ICT Organisatie een verkoopfactuur hebben ontvangen. De 
+opdrachtgevers bestaan uit partijen binnen de Rijksoverheid (zie toelichting 
+op de omzet voor een nadere specificatie). Binnen de Justitiële ICT 
+Organisatie wordt een voorziening gevormd indien een factuur langer open 
+staat dan 360 dagen. Een voorziening voor oninbare debiteuren wordt niet 
+noodzakelijk geacht.
+Overlopende activa en overige vorderingen
+De vooruitbetaalde bedragen bestaan voornamelijk uit onderhoudskosten 
+die voor de duur van 3 tot 5 jaren worden betaald om zodoende hoge 
+kortingen te bedingen bij leveranciers. Indien dit niet zou plaatsvinden dan 
+zouden de tarieven hoger zijn.
+De nog te vorderen bedragen bestaan uit geleverde diensten (m.n. 
+december), waarvan nog geen verkoopfactuur is verstuurd.
+Tabel 150 Overige vorderingen en Overlopende activa (x € 1.000)
+Omschrijving 31-12-2022 1-1-2022
+Vooruitbetaalde bedragen 21.699 19.130
+Personele (salaris)voorschotten 0 3
+Overige vorderingen en overlopende activa 0 9.173
+Nog te vorderen 2.814 1.346
+Totaal 24.513 29.652
+Nadere specificatie 31-12-2022 1-1-2022
+Overige vorderingen en overlopende activa van moederdepartement 2.814 10.519
+Overige vorderingen en overlopende activa van andere ministeries 0 0
+Overige vorderingen en overlopende activa van derden (buiten het Rijk) 21.699 19.133
+Totaal 24.513 29.652
+Omschrijving 31-12-2022 1-1-2022
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 183

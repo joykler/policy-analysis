@@ -1,0 +1,45 @@
+Crediteuren
+Het saldo van deze post heeft betrekking op de (per balansdatum) nog te 
+betalen (ontvangen) facturen aan leveranciers, onderlinge leveringen (o.a. 
+SSC-DJI) en andere overheidsinstellingen.
+Tabel 154 Crediteuren (x € 1.000)
+Omschrijving 31-12-2022 1-1-2022
+Crediteuren 13.190 229
+Totaal 13.190 229
+Leverancierssoort 31-12-2022 1-1-2022
+Leveranciers 10.679 229
+Crediteuren onderlinge levering 1.896 0
+Ministerie / (semi) overheid 613 0
+Personeel 1 0
+Incidentele crediteuren 1 0
+Eindtotaal 13.190 229
+Nadere specificatie 31-12-2022 1-1-2022
+Crediteuren moederdepartement 2.283 0
+Crediteuren andere ministeries 108 0
+Crediteuren derden 10.799 229
+Totaal 13.190 229
+Belastingen en premies sociale lasten
+Wanneer de Justitiële ICT Organisatie goederen of diensten buiten 
+Nederland koopt, betaalt de Justitiële ICT Organisatie op basis van de BTW 
+verleggingsregeling niet de BTW van het land waar de goederen of diensten 
+worden gekocht, maar Nederlandse BTW (enkele uitzonderingen 
+daargelaten). Daarnaast betaalt de Justitiële ICT Organisatie in een aantal 
+gevallen BTW voor zelfstandige bestuursorganen (ZBO’s) die BTW plichtig 
+zijn en zelfstandig vooraftrek en BTW-betaling als eindafnemer moeten 
+afdragen.
+Tabel 155 Belastingen en premies sociale lasten (x € 1.000)
+Omschrijving 31-12-2022 1-1-2022
+Belastingen 351 0
+sociale lasten 0 0
+Totaal 351 0
+Overige schulden en overlopende passiva
+De overige schulden en overlopende passiva zijn toegenomen met € 3,9 
+mln. ten opzichte van de goedgekeurde openingsbalans van de Justitiële 
+ICT Organisatie.
+De nog te betalen kosten F bestaan uit geleverde prestaties (uit het 
+tijdschrijfsysteem) door inhuur (voornamelijk december 2022), waarvan 
+de factuur in 2023 wordt verwacht. De nog te betalen kosten G bestaan uit 
+bestelde hardware en software waarvan de factuur wordt verwacht in 2023. 
+De vooruitontvangen bedragen bestaat vrijwel geheel uit het vooruitbe­
+taalde bedrag door DJI voor de algemene en specifieke dienstverlening voor 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 185

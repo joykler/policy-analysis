@@ -1,0 +1,56 @@
+Het totaal aantal vorderingen gegevensverstrekking steeg met 5,8% van 
+54.131 naar 57.253. Deze stijging is met name veroorzaakt door de stijging 
+in de categorie ‘historische verkeersgegevens’. Het aantal 
+vorderingen ’verkeersgegevens basisstations is in 2022 namelijk gedaald 
+als ook de ‘historische NAW-bevragingen’. Verder was een daling te zien in 
+het aantal onder ‘verkeersgegevens IP’ gecategoriseerde bevragingen en 
+de ‘historische verkeersgegevens e-mail’. De restcategorie ten slotte, telde 
+ten opzichte van 2021 een stijging van 2,7%.
+Tabel 17 Indicatoren Unit Landelijke Interceptie
+2018 2019 2020 2021 2022
+Aantal nummers waarvoor een bevel tot 
+23.458 26.111 29.015 28.174 31.801
+aftappen is gegeven
+1
+Aantal aanvragen op historische gegevens 56.882 57.212 69.388 54.131 57.253
+1 Zoals verkeersgegevens en identificerende gegevens. Het gaat bij deze nummers niet alleen over 
+telefoonnummers, maar ook over IP-adressen en emailadressen.
+Binnendringen in geautomatiseerd werk
+Tabel 18 Binnendringen in geautomatiseerd werk
+2019 2020 2021 2022
+Opsporingsonderzoeken 8 13 24 26
+Aantal keren gebruik commerciële 
+3 10 16 22
+binnendringsoftware
+Aantal softwarelicenties 7 11 13 16
+Bron: interne administratie van het Openbaar Ministerie en de politie
+Zoals is toegezegd in de Nadere Memorie van antwoord aan de Eerste 
+23
+Kamer bij de behandeling van de wijziging van het Wetboek van Strafrecht 
+en het Wetboek van Strafvordering in verband met de verbetering en 
+versterking van de opsporing en vervolging van computercriminaliteit 
+(computercriminaliteit III), wordt jaarlijks gerapporteerd over hoe vaak van 
+de bevoegdheid van het onderzoek in een geautomatiseerd werk gebruik is 
+gemaakt en of bij deze inzet gebruik gemaakt is van commerciële binnen­
+dringsoftware.
+Bij het samenstellen van deze cijfers, zijn de volgende uitgangspunten 
+gehanteerd:
+• Er wordt gesproken van een inzet in een opsporingsonderzoek (zaak), als 
+er ten minste één bevel door de officier is afgegeven in dat onderzoek. 
+Ongeacht of daarna is aangevangen met binnendringen, het binnen­
+dringen niet (volledig) is gelukt of het niet is gelukt (alle) onderzoeks­
+handelingen te verrichten. Ongeacht het aantal geautomatiseerde 
+werken / verdachten in een opsporingsonderzoek.
+• Opsporingsonderzoeken tellen mee in het jaar waarin de aanvangs­
+datum van het eerste bevel valt. Een bevel dat wordt gegeven op 
+30/12/2020 en een ingangsperiode heeft voor de uitvoering van de 
+bevoegdheid per 7/1/2021 telt mee voor 2021. Als een zaak in meer dan 
+1 jaar loopt, telt deze alleen mee in het eerste jaar. Een nieuw geauto­
+matiseerd werk of een nieuwe verdachte in een zaak tellen we in beginsel 
+niet als nieuwe inzet.
+• Zaken waarin gewerkt is voor andere landen in het Koninkrijk tellen niet 
+mee evenals zaken waarin sprake is geweest van een uitgaand rechts­
+hulpverzoek en de uitvoering door een ander dan DIGIT is gedaan.
+23
+ Kamerstukken I 2017/2018, 34 372, G
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 60

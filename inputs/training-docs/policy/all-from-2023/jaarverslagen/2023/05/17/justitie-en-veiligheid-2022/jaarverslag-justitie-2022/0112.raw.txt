@@ -1,0 +1,51 @@
+Datagedreven werken : Samenwerkingsverband JenV Datalab
+Het JenV datalab heeft in de samenwerking met de zelfstandige JenV 
+onderdelen in 2022 mooie resultaten neergezet. De kennisontwikkeling en 
+samenwerking op het gebied van data-analyse, data science, AI en de 
+benodigde juridische en ethische waarborgen zijn daarbij in een stroom­
+versnelling gekomen. Ook is het data-analyse platform in de JenV Trusted 
+Cloud doorontwikkeld en hebben verschillende partijen met dit platform 
+mooie eindproducten kunnen opleveren, zoals het dashboard voor 
+Experiment Gesloten Coffeeshop en ketenmetrieken voor de Gecertifi-
+ceerde Instellingen in het Jeugdbeschermingsdomein. Het JenV Datalab zal 
+het ministerie ook in de komende jaren faciliteren om kansen op het gebied 
+van AI en innovatie te benutten, kennis en kunde samen te brengen en te 
+versterken voor een rechtvaardige en veilige samenleving. Om de ontwik­
+keling van datagedreven werken te ondersteunen is in 2022 een departe­
+mentale datastrategie gerealiseerd in de vorm van een meerjarige Chief 
+Data Officer (CDO) agenda. Op verschillende thema’s van de CDO-agenda 
+zijn in 2022 stappen gezet. Te denken is aan een succesvolle JenV Datacon­
+ferentie, standaardisering van gegevensdelingsprotocol- en specificatie, 
+medewerking aan de ontwikkelingen t.a.v. algortimeregisters en data-ethiek 
+en nadere duidingen van Europese (Data) gerelateerde wetgeving zoals 
+de Data Act, AI act, Datagovernance act.
+Privacy 2022
+In 2022 is de Kamer geïnformeerd over de uitkomsten van de uitvoering van 
+de moties Marijnissen c.s. en Klaver c.s. naar het gebruik van afkomstgere­
+lateerde indicatoren in risicomodellen en andere verwerkingen. In interde­
+partementaal verband wordt een CPO (Chief Privacy Officer)-stelsel 
+ingericht, als basis voor verdere versterking van de rijksbrede privacygo­
+vernance.
+Duurzaamheid
+In 2022 heeft JenV het Manifest Maatschappelijk Verantwoord Opdracht­
+geven en Inkopen 2022-2025 medeondertekend. JenV vraagt zijn leveran­
+ciers om duurzame oplossingen. Maar ook de eigen bedrijfsvoering wordt 
+verduurzaamd. Om meer inzicht te verkrijgen in de mogelijkheden om JenV 
+verder te verduurzamen is in 2022 de CO2-prestatieladder geïmplemen­
+teerd. De CO2-prestatieladder helpt JenV inzicht te krijgen in de CO2-
+emissies en welke aanvullende maatregelen genomen kunnen worden om 
+deze te reduceren. In 2022 is gestart met het werken met korte impactvolle 
+acties zoals bijvoorbeeld het versneld reduceren van het aantal wegwerp­
+koffiebekers. Samen met het Rijksvastgoedbedrijf (RVB) werkt JenV aan 
+het verduurzamen van het vastgoed via de routekaarten en portefeuil­
+leaanpak. Verder heeft JenV in 2022 meegedaan aan de 15% gasreductie-
+opgave. De behaalde reducties liggen op schema.
+Paragraaf 2 - Rijksbrede bedrijfsvoeringsonderwerpen
+Grote lopende ICT-projecten
+Naast de informatie over grote ICT-projecten - opgenomen in het 
+voorgaande deel - valt te melden dat er geen hoge restrisico’s op het gebied 
+van uitvoering en privacy zijn. Wel kan worden opgemerkt dat er twee 
+projecten bij DJI (Basisvoorziening Justitiabelen en Gemeenschappelijke 
+executiemanagement module) zijn beëindigd.
+Gebruik open standaarden en open source software
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 112

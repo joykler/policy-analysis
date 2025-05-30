@@ -1,0 +1,51 @@
+Tabel 123
+Omschrijving 31-12-2022 31-12-2021
+Materiele vaste activa 1.764 0
+waarvan apparaat ICT 1.764 0
+Waarvan overige materiële afschrijvingskosten
+0 0
+Immaterieel vaste activa 760 0
+Totaal 2.524 0
+Overige lasten
+De overige lasten bestaan uit dotaties aan de voorzieningen voor reorgani­
+satie en een voorziening voor Regeling Vervroegd Uittreden.
+Balans
+Tabel 124 Balans per 31 december 2022 (x € 1.000)
+31-12-2022 1-1-2022
+Activa
+Immateriële activa 1.012 1.557
+Materiële vaste activa 4.717 4.251
+waarvan grond en gebouwen 0 0
+waarvan installaties en inventarissen 11 0
+waarvan projecten in uitvoering 0 0
+waarvan overige materiële vaste activa 4.707 4.251
+Vlottende Activa 27.069 5.076
+- Voorraden en onderhanden projecten 0 0
+- Debiteuren 6.547 2.400
+- Overige vorderingen en overlopende activa 9.441 2.676
+- Liquide middelen 11.080 0
+Totaal Activa 32.798 10.885
+Passiva
+Eigen vermogen 3.653 0
+Exploitatiereserve 0 0
+- Overige reserve 2.277 0
+- Onverdeeld resultaat 1.376 0
+Voorzieningen 380 113
+Langlopende schulden
+- Leningen bij het Ministerie van Financiën 2.700 3.531
+Kortlopende schulden 26.065 7.240
+- Crediteuren 1.970 74
+- Belastingen en premies sociale lasten 0 0
+- Kortlopend deel leningen bij het Ministerie van Financiën 2.000 2.269
+- Overige schulden en overlopende passiva 22.095 4.897
+Totaal Passiva 32.798 10.885
+Toelichting op de debetzijde van de balans
+De post debiteuren betreft de vorderingen met betrekking tot DNO's en 
+projecten. Er is geen reden voor het vormen van een voorziening voor 
+oninbaarheid is, omdat het zeer waarschijnlijk is dat betreffende 
+vorderingen daadwerkelijk zullen worden geïncasseerd.
+Tabel 125 Debiteuren, Nog te ontvangen (x € 1.000)
+Moeder- Andere Derden
+departement Ministeries (buiten het rijk) Totaal
+Debiteuren 3.806 617 2.124 6.547
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 VI, nr. 1 171
