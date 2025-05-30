@@ -1,0 +1,43 @@
+DHV
+Samenhangend met het wetsvoorstel programmatuur verkiezingsuitslagen 
+werkt de Kiesraad aan de ontwikkeling van een nieuw Digitaal Hulpmiddel 
+Verkiezingsuitslagen (DHV).
+In 2021 is de aanbesteding daarvan gestart (Kamerstukken II 2018/2019, 
+35 165, nr. 1) en heeft begin mei 2022 de gunning plaats gevonden. DHV zal 
+de huidige software OSV2020 opvolgen. Uitgangspunt bij deze nieuwe 
+software is dat de software wordt gehost in een centrale omgeving via 
+een besloten netwerk. Hierdoor kan de Kiesraad het gebruik van het 
+programma monitoren en tijdig maatregelen nemen in het geval er onregel­
+matigheden worden geconstateerd.
+D. Budgettaire gevolgen van beleid
+Tabel 23 Budgettaire gevolgen van beleidsartikel 9. Kiesraad (bedragen x € 1.000)
+Realisatie Vastgestelde Verschil
+begroting
+2018 2019 2020 2021 2022 2022 2022
+Verplichtingen 2.526 5.144 2.637 4.772 25.354 6.074 19.280
+Uitgaven 2.393 3.275 2.668 4.405 13.240 6.074 7.166
+Institutionele inrichting
+Kiesraad 2.393 3.275 2.668 4.405 13.240 6.074 7.166
+Ontvangsten 0 95 1 1 2 0 2
+E. Toelichting op de instrumenten
+Tabel 24 Specificatie apparaatsuitgaven (bedragen x € 1.000)
+2022
+Totaal apparaat 13.240
+waarvan personeel 4.207
+Eigen personeel 2.353
+Externe inhuur 1.854
+Overig personeel 0
+waarvan materieel 9.033
+ICT 8.242
+Bijdrage aan SSO's 699
+Overig materieel 92
+Verplichtingen
+Door de aanbesteding van DHV is de Kiesraad een vijfjarige verplichting 
+aangegaan van € 17,2 mln., hiervoor is verplichtingenbudget naar voren 
+gehaald.
+Uitgaven
+Kiesraad
+De oorspronkelijke begroting van de Kiesraad bedroeg in 2022 € 6,1 mln. 
+Hieraan werd bij gelegenheid van de 1e suppletoire begroting € 5,5 mln. 
+toegevoegd. In totaal is € 3,4 mln. toegevoegd voor het begeleiden van de 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IIB, nr. 1 35

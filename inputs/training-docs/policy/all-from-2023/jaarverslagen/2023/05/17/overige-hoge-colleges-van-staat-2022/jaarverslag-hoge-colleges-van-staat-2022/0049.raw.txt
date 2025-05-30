@@ -1,0 +1,44 @@
+5.7 Bedrijfsvoeringsparagraaf Kabinet van de Gouverneur van Sint Maarten
+Paragraaf 1 - Uitzonderingsrapportage
+Rechtmatigheid
+Er zijn door de ADR geen onrechtmatigheden aangetroffen. Er is sprake van 
+een getrouwe weergave.
+Totstandkoming niet-financiële verantwoordingsinformatie
+De totstandkoming van de beleidsinformatie in het jaarverslag voldoet aan 
+de eisen die daaraan worden gesteld in de Rijksbegrotingvoorschriften van 
+het ministerie van Financiën. Processen en informatie worden beheerd in 
+een Document Management Systeem (DMS). Aanvraag en uitgifte van 
+paspoorten en visa worden in beheersystemen van Buitenlandse Zaken 
+verwerkt. Ook organisatie- en personeelsinformatie is gedocumenteerd.
+Begrotingsbeheer, financieel beheer en de materiële bedrijfsvoering
+Het financieel beheer voldoet aan de eisen van rechtmatigheid, ordelijkheid 
+en controleerbaarheid en wordt overigens zo doelmatig mogelijk ingericht.
+Belangrijkste materiële fraude- en corruptierisico’s en genomen 
+maatregelen
+Het Kabinet van de Gouverneur van Sint Maarten neemt verschillende 
+maatregelen om fraude en corruptie binnen de organisatie te vermijden. Er 
+is een actuele administratieve organisatie waarbij het mitigeren van risico’s 
+voorop staat. Een voorbeeld hiervan is functiescheiding, waarbij taken en 
+verantwoordelijkheden binnen de organisatie zijn verdeeld over verschil­
+lende functies. Deze combinatie draagt bij aan een laag risicoprofiel.
+Overige aspecten van de bedrijfsvoering
+Behoudens alle doorgevoerde verbeteringen op het gebied van de bedrijfs­
+voering zijn er geen bijzonderheden te benoemen. 
+Paragraaf 2 - Rijksbrede bedrijfsvoeringsonderwerpen
+Misbruik en oneigenlijk gebruik
+Er hebben zich geen incidenten voorgedaan in 2022.
+Grote lopende ICT-projecten
+Op ICT gebied zijn er in 2022 zeer betekenisvolle verbeteringen 
+doorgevoerd.
+Allereerst is het DECOS/JOIN project succesvol afgerond. Het financiële 
+systeem is geheel vernieuwd, de gehele serverstructuur en ICT beveiliging 
+is fors geüpgraded, de ICT functie is geformaliseerd en er is middels een 
+aanbesteding een nieuwe ICT beheerder / kennispartner gecontracteerd. Er 
+is verder veel geïnvesteerd in het vastleggen van ICT procedures en 
+processen. 
+Gebruik open standaarden en open source software
+In concept is er in WordPress een nieuwe website gerealiseerd. Deze zal in 
+Q1 van 2023 worden gelanceerd.
+Audit Committees
+Er zijn geen bijzonderheden te melden.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360 IIB, nr. 1 49
