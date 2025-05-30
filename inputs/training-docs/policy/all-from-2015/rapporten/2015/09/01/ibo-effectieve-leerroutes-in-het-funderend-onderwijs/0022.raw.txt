@@ -59,5 +59,4 @@ aantal leerlingen dat voor de tweede of derde keer in de kleuterklas stond inges
 hanteert, is het aantal leerlingen dat op te hoge leeftijd instroomde in groep 3 als aandeel van alle leerlingen 
 die in dat jaar instroomden in groep 3. Voor dit rapport is de laatste wijze te prefereren, aangezien het in 
 tegenstelling tot de eerste berekening wél de versnelde kleuters meeneemt, maar niet de leerlingen die na 
-groep 2 uitstromen naar het speciaal basisonderwijs. 
-22
+groep 2 uitstromen naar het speciaal basisonderwijs.

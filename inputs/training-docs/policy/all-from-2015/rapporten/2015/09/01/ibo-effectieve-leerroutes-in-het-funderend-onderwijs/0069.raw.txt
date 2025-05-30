@@ -57,5 +57,4 @@ totaal aantal leerlingen in het voortgezet onderwijs dat op dezelfde school is b
 niet gelijk aan het totaal aantal zittenblijvers in het VO, aangezien er ook leerlingen zijn die in het 
 doubleerjaar van school wisselen. Het is voor deze leerlingen echter niet duidelijk bij welke school 
 ze als doubleur moeten worden aangerekend. Vandaar dat ze in deze berekening buiten 
-beschouwing zijn gelaten. Het totale aantal zittenblijvers in het VO ligt rond 50.000 leerlingen. 
-69
+beschouwing zijn gelaten. Het totale aantal zittenblijvers in het VO ligt rond 50.000 leerlingen.

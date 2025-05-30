@@ -54,5 +54,4 @@ Analyse: beoordeling leerroutevertragingen en -versnellingen
 Conclusie 1: 
 PO: Knelpunten in de leerroute doen zich met name voor in de leerjaren 1 tot en met 3.  
 VO: Zittenblijven komt in alle jaren voor met een piek in het voor-examenjaar. Leerroutes worden 
-langer door stapelen. Versnellen komt in het VO nauwelijks voor. 
-5
+langer door stapelen. Versnellen komt in het VO nauwelijks voor.

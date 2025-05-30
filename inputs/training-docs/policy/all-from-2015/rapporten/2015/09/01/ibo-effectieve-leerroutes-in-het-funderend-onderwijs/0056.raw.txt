@@ -51,5 +51,4 @@ vwo 3,6% 3,7% 3,9% 3,8% 3,2% 3,3% 4,0% 4,1% 4,0% 3,8%
 * Betreft percentage zittenblijven in het vo naar schoolsoort. 
  
 Dit IBO analyseert de doeltreffendheid en doelmatigheid van het huidige beleid ten aanzien van 
-leerroutes in het funderend onderwijs, en formuleert daar beleidsvarianten voor. De institutionele 
-56
+leerroutes in het funderend onderwijs, en formuleert daar beleidsvarianten voor. De institutionele

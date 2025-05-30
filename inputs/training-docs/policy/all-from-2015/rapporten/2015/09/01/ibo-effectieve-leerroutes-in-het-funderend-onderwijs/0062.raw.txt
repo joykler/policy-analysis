@@ -59,6 +59,4 @@ leerlingen)
  
 *Het percentage lumpsum variabel wijkt af van het percentage dat gebruikt wordt bij het doorrekenen van de 
 referentieraming (ca. 70%). Oorzaak is dat in deze tabel zowel de middelen voor de gewichtenregeling als voor 
-de prestatiebox als variabel worden beschouwd.  
-  
-62
+de prestatiebox als variabel worden beschouwd.

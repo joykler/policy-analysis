@@ -10,8 +10,4 @@ vmbo/mavo/vbo (lj. 3+4) (6) 7.084
 havo/vwo (lj. 3) 6.543 
 Vo 2 (havo lj. 4+5 en vwo lj. 4+5+6) 6.542 
 lwoo (lj. 1 t/m 4) 11.479 
-pro-lumpsum  11.136 
- 
- 
-   
-63
+pro-lumpsum  11.136
