@@ -1,0 +1,49 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+De oorzaak bleek de verwerking van de diplomastromen te zijn. In het ramingsmodel worden 
+de herkomsten van jaar t+1 namelijk altijd op basis van de bestemmingen van jaar t 
+berekend. De bestemmingen van jaar t worden daarbij de herkomsten van jaar t+1. Dit bleek 
+echter problematisch in het eerdere ramingsmodel (Figuur 81). De diplomalocatie aan de 
+rechterkant wordt hier behandeld als bestemming van jaar t. Het model gebruikt deze 
+‘bestemming’ vervolgens ten onrechte als herkomst voor de raming van jaar t+1. Hierdoor 
+veronderstelt het model dat het aantal diplomeringen in jaar t gelijk is aan het aantal 
+diplomeringen in jaar t+1. Dit leidt tot inconsistenties, die vervolgens door het 
+oplossingsalgoritme opgelost worden. Een bijwerking hiervan is dat stroomkansen soms 
+verschuiven.   
+ 
+Om deze problemen op te lossen, is besloten om vanaf RR2023 het model in Figuur 80 te 
+gebruiken. Hierbij stromen studenten eerst naar een diploma en vervolgens vanuit het diploma 
+naar andere bestemmingen. De diploma’s worden hier dus als een tussenstap behandeld. 
+Wiskundig gezien betekent dit dat studenten die een diploma halen twee matrices met 
+stroomkansen hebben: (1) een matrix voor de overgang van herkomst naar diploma en (2) 
+een matrix voor de overgang van diploma naar besteming. Hierdoor zijn er geen 
+inconsistenties meer en kunnen stroomkansen niet meer verschuiven. Het is in dit model ook 
+niet nodig om er met het oplossingsalgoritme voor te zorgen dat absolute stromen naar 
+diploma’s gelijk zijn aan stromen van diploma’s. De absolute stromen van diploma’s zijn 
+automatisch gelijk aan de stromen naar diploma’s, waardoor er geen personen verdwijnen of 
+verschijnen. Dit model werd door de BLS positief beoordeeld en het wordt daarom vanaf 
+RR2023 gebruikt voor de referentieraming. 
+ 
+5.1.9 Informatie op elk niveau 
+In deze publicatie worden de meeste uitspraken over aantallen en stromen op hoog niveau 
+gedaan: een verdeling van onderwijstype per sector. Basisonderwijs is bijvoorbeeld de som 
+van groep 1 tot en met groep 8. Gedetailleerdere resultaten zijn te vinden in de 
+publicatietabellen bij dit rapport. 
+ 
+De resultaten kunnen ook worden uitgesplitst naar andere dimensies, als ze in de 
+onderwijsmatrix aanwezig zijn. De raming wordt gebruikt door verscheidene afnemers, met elk 
+hun eigen wensen. Om zo goed mogelijk aan de vraag te voldoen, worden de cellen in de 
+matrix geaggregeerd naar het gewenste niveau. 
+ 
+5.1.10 Internationale studenten worden apart geraamd 
+Voor internationale studenten in het hoger onderwijs wordt een aparte raming gemaakt. In de 
+methodiek die hierboven wordt beschreven, is er geen onderscheid tussen nationale of 
+internationale studenten in het hoger onderwijs. De internationale studenten zitten met de 
+nationale studenten in de onderwijsmatrix. 
+ 
+De aantallen internationale studenten worden direct geëxtrapoleerd. Hierbij wordt geen 
+doorstroommodel gemaakt dat overgangskansen gebruikt, zoals in het basismodel (zie 
+paragraaf 5.1.1). De trends worden doorgetrokken in de toekomst met de P-OLS-methode (zie 
+paragraaf 5.1.3) om voor de jaren 2022 tot 2028 tot een raming te komen. Er wordt gekeken 
+naar de aantallen in de laatste 12 jaren. 
+ 
+Pagina 87 van 120

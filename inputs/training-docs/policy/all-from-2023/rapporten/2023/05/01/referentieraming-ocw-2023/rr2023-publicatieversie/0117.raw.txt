@@ -1,0 +1,61 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+6.5 Bronvermelding van gebruikte basisgegevens 
+6.5.1 Onderwijsmatrix 
+De onderwijsmatrix vormt de basis voor de referentieraming. DUO beheert sinds 1990 de 
+inschrijvingsgegevens van alle leerlingen en studenten (hiervoor beheerd door het CBS). Ook 
+14
+beheert DUO de gegevens van diploma’s. Deze gegevens worden door DUO afdeling 
+Informatieproducten verwerkt tot de onderwijsmatrix. 
+ 
+De basis voor de stroomgegevens zijn de ROD-bestanden, de op onderwijsnummers 
+gebaseerde basisbestanden uit het Register Onderwijsdeelnemers (ROD) van DUO. Deze 
+bestanden zijn vervolgens door DUO bewerkt tot “1-cijferbestanden” op grond van afspraken 
+die zijn gemaakt tussen DUO, OCW, IvhO en de sectorraden. 1-cijferbestanden van twee 
+opeenvolgende jaren worden aan elkaar gekoppeld om te komen tot een onderwijsmatrix met 
+de stroomgegevens tussen die twee jaren. 
+ 
+De onderwijsmatrices bevatten tevens de telgegevens (de per jaar getelde aantallen 
+leerlingen, studenten en gediplomeerden), die voortkomen uit de 1-cijferbestanden. Ze maken 
+namelijk als randtotalen onderdeel uit van de onderwijsmatrices. De stromen opgeteld naar 
+herkomst geven de telling in het herkomstjaar en opgeteld naar bestemming die in het 
+bestemmingsjaar. De aantallen leerlingen en studenten in 2022-2023 en aantallen 
+gediplomeerden in 2021-2022 betreffen voorlopige tellingen.  
+ 
+6.5.2 Historische aanpassingen in de onderwijsmatrices  
+1983 CBS-onderwijsmatrices, met uitzondering van instroomgegevens van bbl (uit 
+t/m OVL-tellingen). Herkomstaantallen bao naar groep zijn geschat op basis van 
+1990 bestanden bao naar leeftijd. 
+1991 DUO-onderwijsmatrices. Vanaf het jaar 2010 is een 
+t/m vernieuwde onderwijsmatrix gebruikt.  
+2016 Ten opzichte van oudere onderwijsmatrices is de specificatie 
+van de onderwijssoorten in de herkomst- en 
+bestemmingsdimensie sterk uitgebreid sinds 2010. 
+2009- Omdat het ROD-bestand 2009-2010 voor het po nog niet compleet beschikbaar 
+2010 was, moesten de stroomgegevens van het po in onderwijsmatrix 2010 nog deels 
+geschat worden. Onderwijsmatrix 2011 is de eerste onderwijsmatrix die volledig 
+is gebaseerd op onderwijsnummergegevens. 
+2017- Met ingang van dit jaar is het lwoo niet meer meegenomen als aparte 
+2018 strategische stroom. Door de dalende aantallen in het lwoo, door een andere 
+invulling via de samenwerkingsverbanden, is een aparte strategische stroom niet 
+realistisch. Het lwoo is met ingang van schooljaar 2017-2018 bij de strategische 
+stroom van de afzonderlijke brugjaren gevoegd. De hierbij optredende minieme 
+verschillen zijn in een aparte notitie aangegeven. 
+2020- Basisschoolleerlingen aan ligplaatsscholen zijn voor het eerst opgenomen in alle 
+2021 onderwijsmatrices. In de referentieraming is het (voortgezet) speciaal onderwijs 
+onderscheiden naar clusters 1+2 enerzijds en 3+4 anderzijds. Tevens is de 
+verdeling tussen speciaal onderwijs en voortgezet speciaal onderwijs op basis van 
+leeftijd strikter gemaakt. Dit heeft vooral gevolgen voor de onderwijsmatrices tot 
+ 
+14
+ Specifiek voor vo: alle gediplomeerden aan bekostigde instellingen. Dit is inclusief vso-leerlingen die aan een 
+bekostigde vo-instelling het vo-diploma halen. En het is exclusief diploma’s aan particuliere instellingen en exclusief 
+vo-staatsexamens.  
+Specifiek voor mbo: alle gediplomeerden aan bekostigde mbo-instellingen, ongeacht of het diploma is bekostigd of 
+niet. Het is dus exclusief particulier mbo.  
+Specifiek voor vavo: alle gediplomeerden vavo aan bekostigde mbo-instellingen. Dit is dus exclusief particulier 
+vavo.  
+Specifiek voor ho (hbo+wo): alle gediplomeerden aan bekostigde ho-instellingen, exclusief de Open Universiteit. 
+Dit is dus exclusief de aangewezen ho-instellingen.  
+Let wel: er wordt specifiek over gediplomeerden gesproken, niet over diploma’s. Diploma’s van personen die binnen 
+een jaar meerdere diploma’s halen, worden ontdubbeld. 
+Pagina 117 van 120

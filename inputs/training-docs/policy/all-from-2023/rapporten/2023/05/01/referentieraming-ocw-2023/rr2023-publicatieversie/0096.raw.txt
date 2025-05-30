@@ -1,0 +1,39 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+Figuur 87 Percentage bol in correctiemodel en telling 
+ 
+ 
+ 
+5.3 Opbouw van de ramingen 
+De raming wordt opgebouwd in stappen. De raming van vorig jaar, RR2022, wordt eerst 
+uitgekleed voor een ‘kale raming’. Vervolgens worden in stappen nieuwe gegevens 
+toegevoegd. We presenteren de volgende stappen: 
+A. Als eerste wordt RR2022 ontdaan van alle sturing, resulterend in RR2022 kaal. 
+B. Het effect van het toevoegen van de nieuwe bevolkingsprognose (zie paragraaf 
+5.2.1). Dit leidt tot RR2023 bevolkingsprognose. 
+C. Het effect van het toevoegen van nieuwe onderwijsstroomgegevens. Dit leidt tot 
+RR2023 kaal. 
+D. Het effect van het toevoegen van geëxtrapoleerde trends in onderwijskeuzes (zie 
+paragraaf 5.1.3). Dit leidt tot extrapolaties in RR2023. 
+E. Het effect van het toevoegen van sturingen (zie paragraaf 5.1.11), exclusief de 
+werkloosheidscorrectie. Dit leidt tot RR2023 sturingen. 
+F. De laatste stap is het toevoegen van de werkloosheidscorrectie in het mbo (zie 
+paragraaf 5.1.6). Dit leidt tot RR2023. 
+In Tabel 69 staan de effecten van deze stappen op de totale onderwijsdeelname van 2021 tot 
+en met 2029. 2022 is het laatste jaar waarvan tellingen beschikbaar zijn. De aantallen vanaf 
+2023 worden geraamd. In totaal zijn er in 2022 25.800 (-0,7%) leerlingen en studenten 
+minder geteld dan vorig jaar geraamd. Dit betekent dat er sprake is van een overraming. De 
+omvang is een vergelijkbaar verschil tussen raming en telling in eerdere ramingen, hoewel er 
+de afgelopen keren vaker sprake was van een onderraming (zie paragraaf 5.4).  
+ 
+De wijziging in de telling van 2021 van 1.500 personen in RR2023 kaal is het gevolg van de 
+totstandkoming van de definitieve onderwijsmatrix 2021. De bijstelling wordt voornamelijk 
+veroorzaakt door een verschuiving in het mbo. Vermoedelijk komt dit door studenten die geen 
+onderwijs meer volgden, maar pas later met terugwerkende kracht zijn uitgeschreven door de 
+mbo-instellingen. Voorheen waren deze bijstellingen groter (meer dan 3.000 studenten). De 
+verbetering ten opzichte van eerdere bijstellingen heeft te maken met de definitiewijziging in 
+RR2022. Vanaf RR2022 worden namelijk ook niet-bekostigde mbo-studenten opgenomen in de 
+data. 
+ 
+Tot en met 2029 worden er in RR2023 minder leerlingen en studenten geraamd dan in de 
+vorige raming. Ondanks de grote positieve bijstelling van de nieuwe bevolkingsprognose (stap 
+Pagina 96 van 120

@@ -1,0 +1,69 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+BRIN Basisregistratie Instellingen, register van onderwijsinstellingen (oude 
+benaming van RIO) 
+brj brugjaren in het voortgezet onderwijs 
+BRON Basisregister Onderwijs, verzameling van gegevens van leerlingen en 
+studenten (oude benaming van ROD) 
+BRP Basisregistratie Personen 
+CBS Centraal Bureau voor de Statistiek 
+CLR Coördinatiegroep Leerlingen Ramingen 
+CPB Centraal Planbureau 
+DUO Dienst Uitvoering Onderwijs 
+DUO/INP DUO, afdeling Informatieproducten 
+dt deeltijdonderwijs 
+ECTS European Credit Transfer System, studiepunt 
+EER Europese Economische Ruimte, landen met toegang tot de interne markt 
+van de Europese Unie, en welke ook gebonden zijn aan het vrije verkeer 
+van personen, goederen, diensten en kapitaal. Personen uit deze landen, 
+aangevuld met Zwitserland en Suriname, worden op dezelfde wijze 
+bekostigd als studenten met de Nederlandse nationaliteit 
+FEZ directie Financieel-Economische Zaken van het Ministerie van OCW 
+FIN Ministerie van Financiën 
+FIN/IRF Inspectie der Rijksfinanciën van het Ministerie van Financiën 
+havo hoger algemeen voortgezet onderwijs  
+havo/vwo 3 het derde leerjaar van het havo en het vwo samen 
+havo/vwo 4+ havoleerjaren 4+5 en vwo-leerjaren 4+5+6 
+hbo hoger beroepsonderwijs, voltijds 
+ho hoger onderwijs (hbo + wo) 
+HO&S directie Hoger Onderwijs & Studiefinanciering van het Ministerie van 
+OCW 
+INP zie DUO/INP 
+IRF zie FIN/IRF 
+IvhO Inspectie van het Onderwijs 
+Kennis/PSB directie Kennis van het Ministerie van OCW, afdeling Prognoses, 
+Scenario’s en Beleidsstatistiek 
+lwoo leerwegondersteunend onderwijs, onderdeel van het vmbo 
+mavo middelbaar algemeen voortgezet onderwijs (benaming voor vmbo-tl + 
+vmbo-gl) 
+MEV Macro-economische verkenningen 
+mbo middelbaar beroepsonderwijs, vanaf 1997 bestaat deze uit bol + bbl 
+MBO directie Middelbaar Beroeps Onderwijs van het Ministerie van OCW 
+MBO Raad brancheorganisatie voor de scholen in het mbo 
+MLT Middellangetermijnverkenningen 
+OCW Ministerie van Onderwijs, Cultuur en Wetenschap 
+OLS Ordinary Least Squares (kleinste kwadraten; regressiemethode) 
+OU Open Universiteit 
+PBL Planbureau voor de Leefomgeving 
+po primair onderwijs (bao + sbao + (v)so) 
+PO directie Primair Onderwijs van het Ministerie van OCW 
+PO-Raad sectororganisatie van het primair onderwijs 
+p-OLS Pseudo-Ordinary Least Squares, lineaire extrapolatie waarbij de lijn 
+wordt verhoogd of verlaagd zodat deze door de laatst geobserveerde 
+waarde gaat 
+pro praktijkonderwijs: kan beschouwd worden als de voortzetting van vso-
+mlk 
+PSB zie Kennis/PSB 
+RIO Registratie Instellingen en Opleidingen (voorheen BRIN geheten) 
+ROA Research Centre for Education and the Labour Market 
+ROD Register Onderwijsdeelnemers, verzameling van gegevens van leerlingen 
+en studenten (voorheen BRON geheten) 
+RR20XX Referentieraming met 20XX het betreffende jaar 
+sbao speciaal basisonderwijs, kan beschouwd worden als de voortzetting van 
+de schoolsoorten so-lom en so-mlk 
+SCP Sociaal Cultureel Planbureau 
+so speciaal onderwijs 
+so-wec speciaal onderwijs, vallend onder de Wet op de expertisecentra 
+UNL Universiteiten van Nederland, koepelorganisatie van publieke 
+universiteiten van Nederland, voorheen Vereniging van Samenwerkende 
+Nederlandse Universiteiten (VSNU) 
+Pagina 114 van 120

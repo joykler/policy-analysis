@@ -1,0 +1,58 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+Deze overgangskansen voor 18-jarigen worden vervolgens gebruikt in de referentieraming. 
+Voor elk ramingsjaar krijgen de 18-jarigen de overgangskansen die zijn gebaseerd op 
+bestaande overgangskansen.  
+ 
+In het volgende ramingsjaar zijn de 18-jarigen van dit ramingsjaar 19 geworden en zijn ze 
+terechtgekomen op het havo, vwo, mbo, hbo, wo of hebben ze het onderwijs verlaten. Ze 
+zullen verdeeld worden aan de hand van de overgangskansen van 19-jarigen, die op dezelfde 
+manier zijn afgeleid uit de onderwijsmatrix.  
+ 
+Zo kunnen stromen (met een herkomst en bestemming) en aantallen (met een herkomst of 
+een bestemming) geraamd worden. Daarin ontbreekt echter een aantal details. Die worden in 
+de volgende paragrafen toegelicht. 
+ 
+5.1.2 De raming groeit mee met de bevolking in Nederland 
+De raming houdt ook rekening met het aantal geboorten. Als iedereen ieder ramingsjaar een 
+jaar ouder wordt in de raming, ontbreken bij het eerste ramingsjaar de 0-jarigen, bij het 
+tweede ramingsjaar de 0- en 1-jarigen, etc. Daarom wordt ieder ramingsjaar het aantal 
+geboorten uit de bevolkingsprognose van het CBS toegevoegd. 
+ 
+Daarnaast wordt gecorrigeerd voor sterfte, immigratie en emigratie. Het CBS presenteert 
+daarvan ieder jaar een raming naar leeftijd. Deze ramingen vormen, met de geboorten, de in- 
+en uitstroom naar leeftijd. De netto bevolkingsgroei (instroom min uitstroom) wordt opgeteld 
+bij de herkomstcategorie ‘geen onderwijs’ voor de leeftijden waarbij de instroom groter is dan 
+de uitstroom. 
+ 
+5.1.3 Trends in onderwijskeuzes worden doorgetrokken 
+Van een aantal overgangskansen wordt ook gekeken naar de ontwikkeling in de afgelopen 
+jaren. Het gaat daarbij om de kansen van de ‘strategische overgangen’. Dat zijn de 
+overgangen tussen onderwijssoorten waar beleidsveranderingen de meeste invloed op hebben, 
+zoals van primair onderwijs naar voortgezet onderwijs, en van voortgezet onderwijs naar 
+vervolgonderwijs. Tot de strategische stromen behoren niet de overgangen als van 
+basisonderwijs groep 4 naar groep 5. Hieronder staan de strategische herkomsten en 
+8
+bestemmingen. 
+• Strategische herkomsten: basisonderwijs groep 8, speciaal basisonderwijs, speciaal 
+onderwijs, brugjaar 2, vmbo kl/bl-diploma, vmbo tl/gl-diploma, vmbo kl/bl-diploma, 
+havodiploma, vwo-diploma, bolniveau 4-diploma, hbo-diploma, geen onderwijs. 
+• Strategische bestemmingen: basisonderwijs groepen 1-7, basisonderwijs groep 8, 
+speciaal basisonderwijs, speciaal onderwijs, voortgezet speciaal onderwijs, 
+praktijkonderwijs, brugjaar 1, brugjaar 2, brugjaar 3, mavo 3, havo 3, havo 4, havo 
+5, vwo 3, vwo 5, vmbo kl/bl 3, bolniveaus 1 en 2, bolniveaus 3 en 4, bbl-niveaus 1 en 
+2, bbl-niveaus 3 en 4, (deeltijd-)hbo-associate degree, voltijd- en deeltijd-hbo-
+bachelor, voltijd- en deeltijd-hbo-master, voltijd- en deeltijd-wo, vavo. 
+ 
+In de referentieraming worden alle combinaties van strategische herkomst en -bestemming 
+geëxtrapoleerd, voor zover ze voorkomen in de onderwijsmatrix. 
+ 
+De extrapolatie wordt berekend op basis van de laatste 12 waarnemingen (jaren). Door deze 
+punten wordt de best passende rechte lijn getrokken (lineaire regressie met OLS). Deze lijn 
+wordt verschoven, zodat deze door de laatste getelde waarde gaat (verder in het rapport 
+pseudo-OLS of P-OLS genoemd). Door deze lijn vervolgens door te trekken naar de toekomst, 
+worden de kansen geëxtrapoleerd. Na zeven jaar wordt de overgangskans niet verder 
+geëxtrapoleerd en blijft deze op ongeveer de dan bereikte waarde. 
+ 
+8
+ Voor een toelichting van de verschillende onderwijsvormen, zie de lijst van afkortingen en begrippen in bijlage 3. 
+Pagina 81 van 120

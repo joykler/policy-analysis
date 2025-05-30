@@ -1,0 +1,56 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+ 
+Ongeloofwaardige extrapolaties worden uitgefilterd. Dit gebeurt op basis van eenvoudige 
+rekenregels en door de extrapolaties te bestuderen. De reden hiervoor is dat het niet altijd 
+waarschijnlijk is dat trends uit het verleden zullen doorzetten. Het is bijvoorbeeld mogelijk dat 
+beleidskeuzes hebben geleid tot veranderingen in onderwijskeuzes, maar dat inmiddels een 
+nieuw evenwicht is gevonden. Een ander voorbeeld zijn extrapolaties die naar 0% gaan (dat 
+wil zeggen: de stroom droogt op). Het is meestal onwaarschijnlijk dat een stroom volledig naar 
+0% gaat en zulke extrapolaties worden daarom uitgefilterd. De volgende extrapolaties zijn na 
+bestudering niet meegenomen: 
+• van so naar bao8 
+• van bao8 naar bao8 
+• van geen onderwijs naar bbl-niveau 1-2 
+• van bolniveau 4-diploma naar bolniveau 1-2 
+• van geen onderwijs naar bolniveau 1-2 
+• van havodiploma naar bolniveau 1-2 
+• van mavodiploma naar bolniveau 1-2 
+• van bolniveau 4-diploma naar voltijd-hbo associate degree 
+• van havodiploma naar voltijd-hbo associate degree 
+• van vwo-diploma naar voltijd-hbo associate degree 
+• van bolniveau 4-diploma naar voltijd-hbo-bachelor 
+• van havodiploma naar voltijd-hbo-bachelor 
+• van vwo-diploma naar voltijd-hbo-bachelor 
+• van mavodiploma naar vavo 
+• van vbo-diploma naar vavo 
+• van geen onderwijs naar vso 
+• van mavodiploma naar vso 
+• van vbo-diploma naar vso 
+• van vwo-diploma naar wo 
+ 
+Voor RR2023 zijn er na alle filteringen uiteindelijk 89 strategische stromen geëxtrapoleerd. 
+ 
+De extrapolaties worden toegevoegd als sturingen. Er zijn ook andere vormen van sturing (zie 
+volgende paragraaf). Hoe die in het model verwerkt worden, zal later aan bod komen. 
+ 
+5.1.4 Rekening houden met sturingen 
+Toekomstige stromen worden berekend door een compromis te vinden tussen (1) data en (2) 
+sturingen. Met data bedoelen we hier de onderwijsmatrix (stromen in, door en uit het 
+onderwijs) en de bevolkingsprognose (geboorten, sterfte, immigratie, emigratie). Met 
+sturingen bedoelen we aanpassingen in het model die uit andere overwegingen volgen. Stel 
+bijvoorbeeld dat het door beleidsveranderingen vrij zeker is dat bepaalde stromen zullen 
+toenemen. In dat geval is het mogelijk om het ramingsmodel te “dwingen” om deze stroom te 
+verhogen. 
+ 
+Er wordt onderscheiden tussen absolute en relatieve sturing. Een absolute sturing is een 
+aanpassing van het aantal leerlingen (zie Tabel 64). Als bijvoorbeeld bekend is dat niet meer 
+dan 100 leerlingen in een bepaalde stroom kunnen voorkomen, dan is het mogelijk om deze 
+stroom af te kappen op dat aantal. Een relatieve sturing is een aanpassing van een 
+stroomkans (zie Tabel 65). Als bijvoorbeeld aannemelijk is dat 90% van de leerlingen van een 
+bepaalde bestemming naar een bepaalde herkomst doorstromen, is het mogelijk om deze 
+stroomkans op 90% te zetten. 
+ 
+Een sturing heeft ook een gewicht, dat bepaalt hoe sterk een sturing meeweegt. Als het 
+gewicht van een sturing op een bepaalde stroom nul is, dan wordt deze stroom volledig 
+berekend op basis van de onderwijsmatrix en bevolkingsprognose. Als het gewicht van een 
+Pagina 82 van 120

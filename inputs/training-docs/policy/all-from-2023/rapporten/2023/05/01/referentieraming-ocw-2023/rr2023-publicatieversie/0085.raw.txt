@@ -1,0 +1,46 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+5.1.7 Methodewijziging 1: Verdwijnende personen 
+In eerdere ramingen verdween een zeer klein aantal personen uit de berekeningen. Het totale 
+aantal geraamde personen (binnen en buiten het onderwijs) was hierdoor iets lager dan de 
+bevolkingsprognose van het CBS, wat niet de bedoeling is. Vanaf RR2023 is dit probleem 
+opgelost. Het totale aantal geraamde personen is hierdoor licht hoger, vergeleken met de oude 
+methode, maar het verschil is zeer gering.  
+ 
+De belangrijkste reden waarom in de eerdere methode personen verdwenen, was dat personen 
+soms een combinatie van herkomst en leeftijd hebben die in de meest recente onderwijsmatrix 
+niet voorkwam. Het gevolg was dat het voor deze personen geen stroomkansen berekend 
+konden worden. Als bijvoorbeeld een 65-jarige naar een bepaalde studie stroomt, dan kan het 
+ramingsmodel stroomkansen alleen berekenen als in de laatste onderwijsmatrix ook 65-jarige 
+personen in hetzelfde studie waren. Dat is echter niet altijd het geval. 
+ 
+In de eerder gebruikte ramingsmethode verdwenen deze personen uit de berekeningen. Dit 
+verschijnsel trad echter vooral op bij hogere leeftijdscategorieën die (1) weinig in het 
+onderwijs voorkomen en (2) meestal snel weer uitstromen. Het effect op de raming is daarom 
+zeer gering. Het verschijnsel van de verdwijnende personen was echter wel een probleem voor 
+de doorontwikkeling van het ramingsmodel. Het aantal verdwijnende personen nam namelijk 
+toe voor ramingen met fijnmaziger onderwijsmatrices. Het was daardoor bijvoorbeeld niet 
+mogelijk om naar nationale en internationale studenten uit te splitsen, zonder dat te veel 
+personen verdwenen. 
+ 
+In RR2023 is een methodewijziging uitgevoerd waardoor het aantal verdwijnende personen 
+nagenoeg nul wordt. Het gaat om twee wijzigingen: 
+1. Als een combinatie van herkomst en leeftijd niet in de laatste onderwijsmatrix 
+voorkomt, dan kijkt het ramingsmodel nu ook naar eerdere onderwijsmatrices.  
+2. Als uit deze matrices ook geen stroomkansen kunnen worden berekend, dan worden 
+de personen naar ‘geen onderwijs’ geleid. Dit is besloten omdat het verschijnsel van 
+de verdwijnende personen vooral bij hogere leeftijdscategorieën optreedt, en 
+personen in die categorieën vaak snel weer uitstromen.  
+ 
+5.1.8 Methodewijziging 2: Verwerking van diplomastromen 
+Vanaf RR2023 worden stromen naar een diploma en stromen van een diploma anders verwerkt 
+dan in eerdere ramingen. Diplomastromen zijn een speciaal geval in het ramingsmodel. Als 
+een student bijvoorbeeld aan een diploma haalt en het onderwijs uitstroomt, dan stroomt deze 
+student eigenlijk twee keer; eerst naar een diploma en dan van diploma naar ‘geen onderwijs’.  
+ 
+Figuur 80 laat zien hoe diplomastromen vanaf RR2023 verwerkt worden. Om het figuur simpel 
+te houden, gebruiken we slechts de herkomsten ‘onderwijs’ en ‘geen onderwijs’, en tekenen 
+pijlen alleen voor diplomastromen. Studenten stromen in dit model eerst naar een diploma en 
+vervolgens van een diploma naar andere bestemmingen. Een diploma is dus een tussenstap in 
+het model. 
+ 
+Pagina 85 van 120

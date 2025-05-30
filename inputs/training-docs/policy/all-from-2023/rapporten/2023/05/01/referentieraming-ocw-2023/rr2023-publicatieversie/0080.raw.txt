@@ -1,0 +1,53 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+5 Verantwoording 
+5.1 Methoden 
+De referentieraming wordt uitgevoerd met een leeftijdsafhankelijk doorstroommodel. Hiermee 
+worden stromen van personen in, door, uit en buiten het onderwijs geraamd, om tot 
+verwachte, toekomstige aantallen leerlingen en studenten te komen. In deze paragraaf gaan 
+we in op de methodiek. 
+ 
+5.1.1 Doorstroommodel op basis van de onderwijsmatrix 
+Uitgangspunt voor de referentieraming is de onderwijsmatrix. Die vermeldt de aantallen 
+personen die in-, door-, en uitstromen. Hieruit worden ook overgangskansen afgeleid. De 
+aantallen en kansen worden gebruikt om de stromen in de toekomst te schatten. In de 
+gebruikte onderwijsmatrices zitten aantallen personen, uitgesplitst naar: 
+• herkomst: onderwijscode in jaar t-1 (of van buiten het onderwijs); 
+• bestemming: onderwijscode in jaar t (of naar buiten het onderwijs); 
+• leeftijd; 
+• jaar t van de onderwijsmatrix. 
+Deze onderwijsmatrices worden aangevuld met personen buiten het onderwijs, uitgesplitst 
+naar leeftijd, zodat de hele Nederlandse bevolking in elke onderwijsmatrix vertegenwoordigd 
+is. 
+ 
+Een voorstelling van een deel van de matrix wordt hieronder weergegeven. Het is een 
+schematisch voorbeeld van de matrix voor 18-jarigen in een gegeven jaar. De aantallen zijn 
+fictief. De onderwijsmatrix bevat in werkelijkheid meer onderwijssoorten op een dieper 
+detailniveau. ‘Geen onderwijs’ is ook een mogelijke herkomst en bestemming.  
+ 
+De matrix is opgesteld voor alle jaren en leeftijden. De overgangen naar vervolgonderwijs 
+vinden uiteraard op verschillende leeftijden plaats. De leeftijd van 18 jaar is slechts ter 
+illustratie.  
+ 
+Tabel 64 Fictief voorbeeld van een onderwijsmatrix voor 18-jarigen (aantallen) 
+ bestemming  
+herkomst havo vwo mbo hbo wo geen onderwijs totaal 
+vmbo-diploma 5  85   10 100 
+havodiploma  10 10 150  30 200 
+vwo-diploma    20 150 30 200 
+totaal 5 10 95 170 150 70 500 
+ 
+In de matrix zien we bijvoorbeeld dat er in het gegeven jaar 10 leerlingen met een 
+havodiploma naar het mbo gaan, van de in totaal 200 18-jarigen met een havodiploma. Ook 
+zien we dat er in totaal 95 18-jarigen in het gegeven jaar naar het mbo gaan. 
+ 
+Voor de referentieraming worden dergelijke aantallen omgezet in overgangskansen, door de 
+aantallen te delen op de totale herkomst. In het voorbeeld ontstaat dan het volgende. 
+ 
+Tabel 65 Voorbeeld onderwijsmatrix (overgangskansen) 
+ bestemming  
+herkomst havo vwo mbo hbo wo geen onderwijs totaal 
+vmbo-diploma 5%  85%   10% 100% 
+havodiploma  5% 5% 75%  15% 100% 
+vwo-diploma    10% 75% 15% 100% 
+ 
+Pagina 80 van 120

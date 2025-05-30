@@ -1,0 +1,54 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+stroom van mbo 4 naar mbo 4-diploma als van mbo 4-diploma naar hbo-verblijfsjaar 
+1 worden met ditzelfde aantal verhoogd. Om dubbeltelling van gediplomeerden te 
+voorkomen, wordt het aantal mbo 4-gediplomeerden in 2021-2022 weer verlaagd met 
+911, omdat deze gediplomeerden nu in 2020-2021 worden geteld (zie correctie voor 
+matrixjaar 2021). 
+• Voor de raming van internationale studenten wordt de telling hoger onderwijs 
+uitgesplitst naar studenten met een Nederlandse nationaliteit, een nationaliteit uit een 
+EER-land en overige nationaliteiten (niet-EER). Er wordt uitgegaan van de eerste 
+nationaliteit, zoals die in het meest recente jaar bekend is. Dat leidt in de laatste 
+jaren tot een verschuiving van niet-EER naar Nederlands. Enerzijds betreft dit 
+bijvoorbeeld voormalige asielzoekers die genaturaliseerd zijn, anderzijds zijn het 
+studenten waarvan de eerste nationaliteit eerder niet bekend was en nu wel. In de 
+referentieraming wordt niet uitgesplitst naar nationale en internationale studenten. De 
+tellingen van internationale studenten worden wel gebruikt in de aparte raming van 
+internationale studenten in paragraaf 3.4. 
+ 
+5.2.3 Werkloosheidsprognose 
+Voor de historische en de geraamde toekomstige werkloosheidsontwikkeling wordt in de 
+referentieraming gebruik gemaakt van de middellangetermijnverkenning (MLT, onderdeel van 
+de MEV) van het CPB (zie gegevensbron in paragraaf 6.5.4). Het geraamde toekomstige 
+werkloosheidspercentage wordt gebruikt om de verwachte verhouding tussen bol en bbl te 
+bepalen. 
+ 
+Sinds RR2009 wordt het volgende model toegepast om het aandeel bol in het mbo te 
+berekenen: 
+ 
+v = a + b ∙ t + c ∙ w(t-1) 
+ 
+met: 
+v = procentueel aandeel bol in de onderwijsdeelname in het mbo 
+t = jaartal 
+w(t-1) = werkloosheidspercentage in het vorige jaar volgens de Macro Economische 
+Verkenningen (MEV) van CPB  
+ 
+In RR2023 (met gerealiseerde aantallen tot en met 2022) zijn de volgende parameterwaarden 
+geschat: 
+• a is geschat op-14,403. Deze geeft de hoogte van de lijn aan. Het is de intercept als b 
+= 0 en c = 0. 
+• De geschatte waarde voor b is 0,007. Dit betekent dat sinds 1982 het aandeel bol 
+gemiddeld met 0,7% per jaar toeneemt en deze trend naar verwachting doorzet.  
+• c is geschat op 2,793. Dit betekent dat er, bovenop de trend, een conjunctuureffect 
+is: 1% meer werkloosheid leidt (met 1 jaar vertraging) tot 2,793% meer bol (ten 
+opzichte van totaal mbo). Dus zouden er precies 500.000 mbo-studenten zijn, en zou 
+de werkloosheid met 1% stijgen, dan zou volgens dit model in het jaar daarop 
+2,793% van 500.000 = 14.000 studenten meer naar bol, en minder naar bbl gaan. 
+ 
+In Figuur 87 zien we hoe het percentage bol in de referentieraming gecorrigeerd wordt, naar 
+aanleiding van de geraamde werkloosheidspercentages in de komende jaren. Merk op dat de 
+verticale as in de figuur niet zoals gebruikelijk op het nulpunt begint, om de ontwikkelingen 
+duidelijk te kunnen zien. In paragraaf 4.3.1 wordt toegelicht hoeveel studenten er door deze 
+correctie in de bol- en bbl-opleidingen geraamd worden.  
+ 
+Pagina 95 van 120

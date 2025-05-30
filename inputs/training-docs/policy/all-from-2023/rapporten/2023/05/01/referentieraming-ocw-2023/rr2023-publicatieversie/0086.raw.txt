@@ -1,0 +1,34 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+Figuur 80 Het nieuwe ramingsmodel (vanaf RR2023) 
+ 
+ 
+In eerdere ramingen werd een ander model toegepast, dat in Figuur 81 te zien is. De locatie 
+‘diploma’ komt in dit model twee keer voor: één keer als herkomst in jaar t-1 en één keer als 
+bestemming in jaar t. Een diploma is hier dus geen tussenstap. Dit maakt de berekeningen in 
+sommige opzichten eenvoudiger, doordat alle studenten slechts één overgang hebben (van 
+jaar t-1 naar jaar t). Het losknippen van de diplomastromen heeft ook een ongewenst effect: 
+stromen naar diploma’s zijn niet per se gelijk aan stromen vanuit diploma’s. Het is in dit model 
+mogelijk dat 100 studenten naar een diploma stromen en vervolgens 110 studenten van dat 
+diploma naar andere bestemmingen stromen. Dan komen er dus studenten bij. Het is ook 
+mogelijk dat 100 studenten naar een diploma stromen en daarna 90 studenten van dat 
+diploma naar andere bestemmingen stromen. Dan verdwijnen studenten.  
+ 
+Figuur 81 Het oude ramingsmodel (tot en met RR2022). 
+ 
+ 
+Om ervoor te zorgen dat in de diplomastromen geen mensen verdwijnen of nieuwe personen 
+verschijnen, werd in de eerdere methode een oplossingsalgoritme toegepast. Het algoritme 
+probeert een onderwijsmatrix te vinden die zo dicht mogelijk bij de oorspronkelijke 
+onderwijsmatrix is, maar met de voorwaarde dat de stromen naar diploma’s gelijk moeten zijn 
+aan de stromen van diploma’s in aantallen. 
+ 
+In RR2022 bleek echter dat ook deze oplossing een ongewenst effect heeft: de stroomkansen 
+in geraamde jaren kunnen verschuiven. Over het algemeen moeten stroomkansen in 
+geraamde jaren constant blijven, tenzij deze stroomkansen door sturingen worden beïnvloed. 
+Als de laatste berekende stroomkans van vavo roc naar een vavodiploma op basis van de 
+laatste telling bijvoorbeeld 50% is, dan moet deze stroomkans in alle geraamde jaren 50% 
+zijn. In RR2022 bleek echter dat de stroomkans van vavo roc naar een vavodiploma in de 
+geraamde jaren afnam, ondanks dat geen sturing werd toegepast. Het aantal diploma’s nam 
+hierdoor af, en het aantal studenten in de bestemming vavo roc nam toe. 
+ 
+Pagina 86 van 120

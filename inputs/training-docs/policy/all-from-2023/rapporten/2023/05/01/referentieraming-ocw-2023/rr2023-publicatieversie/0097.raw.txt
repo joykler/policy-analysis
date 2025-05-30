@@ -1,0 +1,30 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+B) is de totale bijstelling negatief. Dit komt door geüpdatete stroomgegevens (stap C). Zonder 
+sturingen (stap D) zouden de bijstellingen op termijn nog hoger komen te liggen. 
+ 
+Tabel 68 Bijstelling referentieraming in stappen per ramingsjaar (x 1.000) 
+bijstelling absoluut 2021 2022 2023 2024 2025 2026 2027 2028 2029 
+  
+         
+A: RR2022 kaal 0,0 0,2 0,2 -0,7 -2,5 -5,3 -9,3 -13,7 -16,9 
+B: RR2023 bev prog 0,0 31,9 55,6 68,2 73,4 63,3 49,1 36,9 27,4 
+C: RR2023 kaal -1,5 -57,9 -90,3 -111,4 -125,7 -134,1 -139,7 -143,2 -144,8 
+D: RR2023 extrapolaties 0,0 0,0 -0,5 -0,6 0,0 1,5 3,7 6,5 9,8 
+E: RR2023 sturingen 0,0 0,0 26,2 35,7 41,8 46,0 49,1 51,9 54,5 
+F: RR2023 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,7 1,4 
+          
+totaal -1,5 -25,8 -8,9 -8,8 -13,1 -28,5 -47,0 -60,8 -68,6 
+ 
+In onderstaande tabel staan de resultaten van deze stappen per (sub)sector voor ramingsjaar 
+2023. Te zien is dat de geüpdatete stroomgegevens in stap C voor grote bijstellingen zorgen in 
+mbo, hbo en wo. Dit geldt in mindere mate ook voor het po. Voor het po is er echter een 
+grotere bijstelling in stap E, waar voornamelijk de sturing op onderwijsdeelname naar leeftijd 
+(zie paragraaf 5.1.11) effect heeft op leeftijden die in het po voorkomen. Dat vertaalt zich naar 
+een positieve bijstelling voor po. Onder de streep zijn de bijstellingen in po en hbo het grootst. 
+De bijstellingen omhoog zijn het grootst voor de subsectoren basisonderwijs en de brugjaren 
+van het voortgezet onderwijs. Dit komt voornamelijk door de instroom vanuit Oekraïne, die 
+verwerkt is in de bevolkingsprognose, zoals besproken in paragraaf 5.2.1. De subsectoren bol, 
+voltijd-hbo-bachelor en voltijd-wo-master hebben de grootste bijstellingen omlaag, om 
+redenen die zijn besproken in de sectorhoofdstukken voor mbo (4.3), hbo (4.4) en wo (4.5). 
+ 
+Pagina 97 van 120

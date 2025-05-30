@@ -1,0 +1,53 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+sturing op een bepaalde stroom oneindig is, dan wordt deze stroom volledig door de sturing 
+bepaald. Voor alle gewichten tussen nul en oneindig moet het ramingsmodel een compromis 
+vinden tussen data en sturing. 
+ 
+De geëxtrapoleerde stroomkansen, die we eerder hebben besproken, worden aan het 
+ramingsmodel toegevoegd als relatieve sturingen. De geëxtrapoleerde stroomkansen worden 
+dus niet direct gebruikt, maar hebben wel indirect invloed op de stroomkansen in het 
+ramingsmodel. 
+ 
+Voor de sturingen die vanuit de extrapolaties ontstaan (zie paragraaf 5.1.3) worden 
+automatisch gewichten bepaald. De waarde van een gewicht is afhankelijk van hoe goed de 
+2
+rechte lijn door de laatste twaalf tellingen gaat, gemeten met de zogenaamde R . Als de lijn 
+een goede benadering vormt, zal de sturing met een hoog gewicht worden opgelegd. Als de 
+lijn een slechte benadering vormt, zal het gewicht laag zijn. 
+ 
+Voor de andere sturingen (zie bijvoorbeeld paragraaf 5.2.3), wordt gewicht ‘oneindig’ 
+gehanteerd. Dat betekent dat aan deze sturing helemaal voldaan moet worden. 
+ 
+5.1.5 Sturingen hebben gevolgen voor andere stromen 
+Als een sturing op een bepaalde stroom wordt toegepast, dan heeft dat vaak ook gevolgen 
+voor andere stromen. Stel dat we met de extrapolatie bepalen dat de overgangskans van een 
+havodiploma naar het hbo (zie het voorbeeld in paragraaf 5.1.1, waarin de stroom van 
+diplomering havo naar hbo 75% was) het volgende verloop moet gaan kennen: 
+ 
+ jaar 1 jaar 2 jaar 3 en verder 
+van havodiploma naar voltijd-hbo-bachelor 76% 77% 78% 
+ 
+In de laatste onderwijsmatrix was de gerealiseerde stroomkans van havodiploma naar voltijd-
+hbo-bachelor 75%, terwijl de stroomkansen van havodiploma naar andere bestemmingen tot 
+25% optellen. Bij elkaar waren dit dus 75% + 25% = 100%. Vanaf ramingsjaar 1 wordt de 
+stroomkans van havodiploma naar voltijd-hbo-bachelor opgehoogd, waardoor de 
+stroomkansen niet meer tot 100% optellen. In jaar 1 zouden we hierdoor 76% + 25% = 101% 
+van de herkomst havodiploma verdelen. Daarbij ontstaan in de raming dus extra personen, 
+wat niet de bedoeling is.  
+ 
+We passen daarom alle andere stromen licht aan, zodat uiteindelijk weer 100% van de 
+9
+gediplomeerden havo een bestemming krijgt. Dit gebeurt geautomatiseerd , waarbij ook 
+andere sturingen en voorwaarden in acht worden genomen. Het rekenmodel probeert daarbij 
+een zo goed mogelijke oplossing te vinden, waarbij zo min mogelijk aanpassingen nodig zijn in 
+de overgangskansen. 
+ 
+5.1.6 Correctie voor invloed werkloosheid op het mbo 
+Het aandeel bolstudenten binnen het mbo wordt gecorrigeerd op basis van de verwachte 
+werkloosheid. Er is namelijk al 25 jaar een duidelijke correlatie tussen werkloosheid en (met 1 
+jaar vertraging) het aandeel voltijdbol binnen het mbo (zie Figuur 79).  
+ 
+ 
+9
+ Het gebruikte rekenmodel is speciaal voor de referentieraming ontwikkeld. 
+Pagina 83 van 120

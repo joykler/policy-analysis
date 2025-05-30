@@ -1,0 +1,22 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+Tabel 76 Afwijkingen in wo (in procenten voor t+1 t/m t+5 sinds RR2012) 
+raming t+1 t+2 t+3 t+4 t+5 
+RR2012 1,9% -0,6% -1,5% -2,1% -3,3% 
+RR2013 -3,6% -7,3% -8,7% -10,4% -13,5% 
+RR2014 -3,2% -5,9% -8,0% -11,4% -14,9% 
+RR2015 -4,5% -7,2% -11,1% -15,1% -17,8% 
+RR2016 -2,4% -5,9% -9,7% -12,0% -17,1% 
+RR2017 -3,0% -6,3% -8,4% -13,6% -15,3% 
+RR2018 -3,2% -5,0% -10,1% -11,5% -9,5% 
+RR2019 -1,5% -6,5% -8,0% -6,0% 
+ 
+RR2020 -5,5% -7,1% -5,2% 
+  
+RR2021 0,6% 4,1% 
+   
+RR2022 3,4%         
+st.dev. 3,4% 6,2% 8,8% 11,7% 15,0% 
+ 
+Figuur 92 Aantal leerlingen in wo met 67%-betrouwbaarheidsinterval 
+ 
+Pagina 106 van 120

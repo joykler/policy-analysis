@@ -1,0 +1,41 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+Figuur 79 Percentages bol en werkloosheid 
+ 
+ 
+Als de werkloosheid laag is, wordt de bbl een jaar later populairder dan de bol. Dit komt mede 
+doordat er in een hoogconjunctuur meer beroepspraktijkvormingsplaatsen (bpv) voor bbl-
+studenten zijn. 
+ 
+In Figuur 79 zien we ook dat het percentage bolstudenten door de jaren iets stijgt, en de 
+werkloosheid niet. Deze trend lijkt daarom los te staan van de directe effecten van de 
+werkloosheid. 
+ 
+Vanwege de samenhang tussen het werkloosheidspercentage en het percentage bol, plus de 
+gemiddelde groei van het percentage bol in de afgelopen jaren, wordt de verhouding tussen 
+bol en bbl aangepast aan de geraamde werkloosheid. Sinds RR2009 wordt het volgende model 
+toegepast om het aandeel bol in het mbo te berekenen: 
+ 
+v = a + b ∙ t + c ∙ w(t-1) 
+ 
+met: 
+v = procentueel aandeel bol in de onderwijsdeelname in het mbo 
+t = jaartal 
+w(t-1) = werkloosheidspercentage in het vorige jaar volgens de Macro Economische 
+Verkenning (MEV) van CPB  
+ 
+De parameters worden geschat met OLS (zie paragraaf 5.1.3). De geschatte 
+parameterwaarden staan in paragraaf 5.2.3. 
+ 
+Dit jaar is er een kleine methodewijziging doorgevoerd, mede op advies van de BLS. Tot nu toe 
+werden de parameters geschat op basis van de gegevens over de werkloosheid en het 
+percentage bol vanaf 1983. Vanaf dit jaar worden de parameters geschat op basis van 
+dezelfde gegevens, maar dan vanaf 2004. Aanleiding hiervoor was dat het CBS de 
+werkloosheid anders meet. Zij hebben deze gegevens in hun reeksen tot en met het jaar 2003 
+met terugwerkende kracht aangepast. Daardoor vallen de historische 
+werkloosheidspercentages in deze periode 1,1 tot 1,2% hoger uit. 
+ 
+Het directe gevolg daarvan is dat de jaarlijkse trend ook iets steiler uitvalt, dan met de OLS 
+vanaf 1983 het geval zou zijn geweest. en daarmee ook de geschatte percentages 
+bolstudenten over de komende 5 jaar,  
+ 
+Pagina 84 van 120

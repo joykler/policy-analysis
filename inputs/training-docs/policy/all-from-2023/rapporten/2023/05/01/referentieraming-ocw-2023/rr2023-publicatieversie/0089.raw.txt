@@ -1,0 +1,23 @@
+Directie Kennis | DEFINITIEF | Referentieraming 2023 | 1 mei 2023 
+hoger onderwijs weer hersteld worden naar het niveau van 2019. In 2022 zagen we 
+hierin namelijk een trendbreuk, doordat veel meer gediplomeerden buiten het 
+onderwijs vielen. Specifiek gaat het om de stromen van (1) bolniveau 4-diploma naar 
+voltijd-hbo-bachelor, (2) havodiploma naar voltijd-hbo-bachelor, (3) vwo-diploma 
+naar wo en (4) wo-bachelor-diploma naar wo-master. 
+• De onderwijsdeelname van 4- tot 16-jarigen bleek in 2022 een stuk lager te liggen 
+dan in 2021. Zonder hiervoor te corrigeren, zouden er structureel meer leerlingen 
+buiten het onderwijs worden geraamd. In overleg met de BLS en CLR wordt verwacht 
+dat dit geen systematische ontwikkeling is. Hoewel de onderwijsdeelname van deze 
+groep al geruime tijd lichtelijk aan het dalen was, lijkt de situatie in 2022 wel op een 
+trendbreuk. Daarom sturen we in RR2023 op onderwijsdeelname van 4- tot 16-
+jarigen. Om rekening te houden met de eerder dalende trend, hebben we een 
+regressiemodel opgesteld via POLS zonder gegevens van 2022. De regressielijn is 
+geëxtrapoleerd naar 2023. Vanwege de grote daling in 2022, betekent dat we in 2023 
+omhoog corrigeren ten opzichte van 2022. 
+ 
+In RR2022 werd verwacht dat doubleren in het vo in 2023 weer op het niveau van 2019 zou 
+zitten. Dit blijkt echter niet uit de onderwijsmatrix 2022. Daarom is de sturing die in RR2022 is 
+gehanteerd niet nogmaals toegepast in RR2023. 
+ 
+  
+Pagina 89 van 120
