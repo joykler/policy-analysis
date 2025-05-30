@@ -1,0 +1,25 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 18,00 € 21,26 € 21,26
+TOTALEN € 18,00 € 21,26 € 21,26
+4b. Verwachte kosten voor beheer en onderhoud
+Na afronding van het project: 1,5 miljoen Euro op jaarbasis (onderhoud en beheer op weg-infrastructurele voorzieningen, sensoren, ICT-hardware en -software). In de behoeftestellingsfase werd 
+rekening gehouden met een jaarlijks budget van 2 miljoen Euro.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Na afrondong van het project: 1,5 miljoen Euro op jaarbasis (onderhoud en beheer op weg-infrastructurele voorzieningen, sensoren, ICT-hardware en -software). In de behoeftestellingsfase 
+werd rekening gehouden met een jaarlijks budget van 2 miljoen Euro.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-12-07 31-12-11 31-12-14
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+In 2014 is het project gesloten. Het Project Eind Rapport is opgemaakt, de Lessons Learned zijn uitgewerkt en de financiële nacalculatie is uitgevoerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 110

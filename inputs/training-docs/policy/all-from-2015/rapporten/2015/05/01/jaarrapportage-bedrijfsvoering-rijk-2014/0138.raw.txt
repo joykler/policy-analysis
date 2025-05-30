@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+07-03-11 RAD Audit De RAD heeft eind 2010 / begin 2011 een 3e audit op de BRI uitgevoerd. De audit had betrekking op de 
+testaanpak, de meegenomen bedrijfsvoeringsfunctionaliteiten, de spelregels projectmanagement en de 
+afloop van de eerdere RAD-aanbevelingen.
+01-11-10 RAD Audit Testproces, invoering en werking uitvoeringsorganisatie en projectbeheersing.
+01-06-09 RAD Advies - Project ‘ Aansluiten’, focus op tijd en deadlines voor globale ontwerpen van de ketens voor die 
+basis registraties waar de Belastingdienst op korte termijn op aansluit.
+- Project BRI, focus op bouwproces en waarborgen voor kwaliteit binne n het bouwproces en de 
+voorbereiding van het testtraject.
+-  Het verstrekkingenproces, focus op de huidige bedrijfsvoeringsfunctionaliteiten en op kwaliteits-
+waarborgen binnen het proces. Onderzochte periode is januari tot mei 2009.
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,00 € 7,70 € 7,70
+intern personeel € 0,00 € 32,10 € 30,70
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 35,00 € 2,70 € 2,50
+TOTALEN € 35,00 € 42,50 € 40,90
+4b. Verwachte kosten voor beheer en onderhoud
+De kosten voor beheer en onderhoud zijn geraamd op maximaal € 0,5 mln. op jaarbasis.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Voor ontwerp- en ontwikkelwerkzaamheden kent de Belastingdienst twee concernbrede tariefsoorten die beide een mixtarief zijn van intern en extern personeel. Als benadering voor de 
+verdeling tussen intern en extern personeel is het onderscheid tussen ontwerp- en ontwikkelwerk gehanteerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 138

@@ -1,0 +1,20 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+26.  Beveiligd Werken Rijkswaterstaat
+1b. Projectomschrijving
+Het aantoonbaar beschermen van de ICT in de missiekritieke ketens van Rijkswaterstaat tegen uitval, misbruik en inbraak. Wanneer BWR is afgerond voldoet de ICT aan de eisen gesteld in de 
+Baseline Informatiebeveiliging Rijksdienst en zijn de maatregelen van de uitgevoerde risicoanalyses uitgevoerd. Kortgezegd betreft dit het Cyber Security programma bij Rijkswaterstaat.
+1c. Maatschappelijke relevantie
+Het betrouwbaar functioneren van de ICT in de missiekritieke ketens van RWS draagt direct bij aan droge voeten, schoon en voldoende water, vlot en veilig verkeer over weg en water.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+24-12-13 Definitief ja Bestuursbesluit RWS over de te volgen strategie en het plan van aanpak.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+05-03-14 Policy Research Corporate Externe audit Totale aanpak en uitvoering (28 jan t/m 5 mrt)
+16-01-14 Algemene Rekenkamer Interne audit Verantwoordingsonderzoek 2013 (nov - dec 2013)
+30-08-13 Audit Dienst Rijk Advies Risicoanalyses + mitigatieplannen beveiliging missiekritieke systemen domein HWS en het ICT-netwerk
+22-08-13 VKA Advies Risicoanalyses
+20-08-13 CapGemini Externe Audit Proces van totstandkoming risicoanalyses (11 jul t/m 15 aug)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 182

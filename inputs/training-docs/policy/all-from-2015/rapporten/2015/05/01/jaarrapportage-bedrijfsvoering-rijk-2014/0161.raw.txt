@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+20-11-14 € 26,66 31-03-16 In de herijkte businesscase zijn de einddatum en de In de herijkte businesscase zijn de einddatum en de 
+kosten herijkt ten opzichte van de uitgewerkte kosten herijkt ten opzichte van de uitgewerkte 
+businesscase. De einddatum is opgeschort businesscase. De einddatum is opgeschort 
+vanwege aanpassingen in de architectuur om veilig vanwege aanpassingen in de architectuur om veilig 
+te kunnen aansluiten op MijnBelastingdienst.nl. te kunnen aansluiten op MijnBelastingdienst.nl. 
+Daardoor heeft het project een jaar vertraging Daardoor heeft het project een jaar vertraging 
+opgelopen met als gevolg dat er voor de toen al opgelopen met als gevolg dat er voor de toen al 
+opgeleverde formulieren nog een extra jaar opgeleverde formulieren nog een extra jaar 
+jaaraanpassingen moeten plaatsvinden. jaaraanpassingen moeten plaatsvinden.
+De einddatum is ook uitgesteld vanwege wetswij- De einddatum is ook uitgesteld vanwege wetswij-
+zigingen ten aanzien van het C-formulier voor zigingen ten aanzien van het C-formulier voor 
+belastingplichtigen in het buitenland: forse belastingplichtigen in het buitenland: forse 
+wetswijzigingen voor 2015 maakten het niet wetswijzigingen voor 2015 maakten het niet 
+efficiënt om het C-formulier voor 2014 te ontwik - efficiënt om het C-formulier voor 2014 te ontwik -
+kelen om vervolgens het jaar erop het formulier kelen om vervolgens het jaar erop het formulier 
+fors te moeten aanpassen als gevolg van deze fors te moeten aanpassen als gevolg van deze 
+wetswijzigingen. wetswijzigingen.
+7a. Geschatte levensduur na oplevering
+Langlopend: meer dan 10 jaar.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+-
+8. Tweede Kamerstukken
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 161

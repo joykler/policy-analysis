@@ -1,0 +1,33 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+De einddatum is 10 februari 2015, maar tot en met 31 juli 2015 worden nog afrondende activteiten uitgevoerd.
+Oorspronkelijk was het de bedoeling om een volledig digitaal ontslagproces te ontwikkelen en implementeren met als datum van inwerkingtreding 1 juli 2015. Gedurende het afgelopen jaar is 
+gebleken dat de omvang en bijhorende kosten fors naar boven moesten worden bijgesteld. Gevolg hiervan was dat UWV in najaar 2014 heeft moeten vaststellen dat ook de (conform de 
+aangepaste planning zoals overeengekomen in de zomer van 2014) eerste fase van het totale project niet operationeel kon zijn op 1 juli 2015. Dit alles heeft gedurende het jaar 2014 bovendien 
+geleid tot het in gebreke stellen van de ICT leverancier en begin januari 2015 tot ontbinding van de overeenkomst met deze partij. In januari 2015 is besloten om de volledige digitalisering van het 
+ontslagproces (i.c. zowel de uitvraag aan partijen als het behandelproces binnen UWV) stop te zetten.
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+10-02-15 € 20,30 10-02-15 Van de € 20,3 mln. betreft 6,3 miljoen deels De einddatum is 10 februari 2015, maar tot en met 
+aangegane verplichtingen die in 2015 betaald 31 juli 2015 worden nog afrondende activteiten 
+worden. uitgevoerd.
+Deze kosten omvatten tevens activiteiten voor de Oorspronkelijk was het de bedoeling om een 
+beperkte digitalisering, waarvan de omvang op dit volledig digitaal ontslagproces te ontwikkelen en 
+moment niet precies weer te geven is. implementeren met als datum van inwerking-
+Het onderdeel dat met name zou zorgen voor een treding 1 juli 2015. Gedurende het afgelopen jaar is 
+langere doorlooptijd en hogere kosten dan gebleken dat de omvang en bijhorende kosten fors 
+oorspronkelijk voorzien, is authenticatie en naar boven moesten worden bijgesteld. Gevolg 
+autorisatie in combinatie met machtigen. Deze hiervan was dat UWV in najaar 2014 heeft moeten 
+uitloop zou de te maken kosten laten toenemen vaststellen dat ook de (conform de aangepaste 
+naar € 35 tot € 45 mln. Begin januari 2015 is planning zoals overeengekomen in de zomer van 
+besloten om de volledige digitalisering van het 2014) eerste fase van het totale project niet 
+ontslagproces (i.c. zowel de uitvraag aan partijen operationeel kon zijn op 1 juli 2015. Dit alles heeft 
+als het behandelproces binnen UWV) stop te gedurende het jaar 2014 bovendien geleid tot het 
+zetten. in gebreke stellen van de ICT leverancier en begin 
+januari 2015 tot ontbinding van de overeenkomst 
+met deze partij. In januari 2015 is besloten om de 
+volledige digitalisering van het ontslagproces (i.c. 
+zowel de uitvraag aan partijen als het behandel-
+proces binnen UWV) stop te zetten.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 220

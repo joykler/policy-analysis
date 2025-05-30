@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+41.  C2000 Project ODIN
+1b. Projectomschrijving
+Het versneld oplossen van 53 dekkingsproblemen in het C2000 netwerk
+1c. Maatschappelijke relevantie
+Met het bijplaatsen van opstelpunten wordt de dekking van het C2000 netwerk geborgd.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+31-01-12 PID 1.0 ja PID fase 2 ODIN aangeboden op 22-12-2011. Goedgekeurd door VenJ op 31-1-2012
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+25-10-11 OGC Gateway TM Gateway review Betrokkenheid veld / organisatie project
+Review uitgevoerd op PID versie 0.5. Uitkomsten verwerkt in PID 1.0 die op 31-01-2012 door VenJ is 
+goedgekeurd.
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 38,99 € 28,55 € 28,00
+ingehuurd extern personeel € 1,57 € 1,58 € 0,90
+intern personeel € 3,06 € 3,06 € 2,67
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 0,00 € 0,00 € 0,00
+TOTALEN € 43,62 € 33,19 € 31,57
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 239

@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,13
+ingehuurd extern personeel € 0,00 € 0,00 € 0,49
+intern personeel € 0,00 € 0,00 € 0,91
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 10,00 € 10,00 € 0,00
+TOTALEN € 10,00 € 10,00 € 1,53
+4b. Verwachte kosten voor beheer en onderhoud
+€ 1,8 mln. op jaarbasis
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De daadwerkelijke realisate bevat een verbijzondering naar de verschillende kostensoorten. Voor de schatting is de verbijzondering afhankelijk van de vraag of de capaciteitsbehoefte ingevuld 
+wordt met eigen of ingehuurd extern personeel. Dit wordt op een later moment duidelijk.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-11-13 01-04-16 01-04-16
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 120

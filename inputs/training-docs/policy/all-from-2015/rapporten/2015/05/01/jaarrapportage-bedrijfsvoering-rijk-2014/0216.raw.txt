@@ -1,0 +1,18 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De geschatte meerjarige projectkosten voor de periode 2013 tot en met 2016 zijn naar beneden bijgesteld op basis van de door CIBG uitgebracht offerte voor de realisatie van het personen-
+register (juni 2014).
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+28-11-13 31-12-16 31-12-16
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+7a. Geschatte levensduur na oplevering
+De levensduur is niet gecalculeerd. Bij de ontwikkeling en bouw van het personenregister gaat veel aandacht uit naar de functionele eisen (doet het systeem wat het moet doen op basis van het 
+wettelijke kader) en de niet functionele eisen (technische kwaliteit, beveiliging, privacy en gebruiksvriendelijkheid). Dit met oog op een goede onderhoudbaarheid en meerjarige levensduur.  
+De onderhoudbaarheid van het personenregister wordt in 2015 onafhankelijk getoetst conform de SIG/TÜViT Evaluation Criteria for Trusted Product Maintainability
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 216

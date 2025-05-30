@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+16.  Basisregistraties
+1b. Projectomschrijving
+1.  Het project BRI is verantwoordelijk voor de realisatie van de basisregistratie ‘inkomen’ als ook voor het ketenproces ‘beschikbaar stellen van het authentieke en niet-authentieke inkomen-
+gegeven’ aan de toekomstige afnemers van de basisregistratie. 
+2.  Het project Aansluiten is verantwoordelijk voor het inwinnen, opslaan en ter beschikking stellen van authentieke en niet-authentieke gegevens van de verschillende basisregistraties. 
+3.  Relevantie van het project. Het stelsel van basisregistraties, waarbij één basisregistratiehouder verantwoordelijk is voor het authentiek gegeven en afnemers wettelijk verplicht zijn deze 
+gegevens te gebruiken, niet meer opnieuw uit te vragen en bij gerede twijfel terug te melden, is gericht op het verkrijgen van administratieve lastenverlichting, verbeterde handhaving en 
+dienstverlening en meer efficiency voor burgers, bedrijven en afnemers.’
+1c. Maatschappelijke relevantie
+- Zie punt 3 bij projectomschrijving: administratieve lastenverlichting, verbeterde handhaving en dienstverlening, meer efficiency.
+- In het regeerakkoord Rutte-Samsom is opgenomen dat basisregistraties als instrument worden ingezet om mede de taakstellingen uit het regeerakkoord te realiseren. 
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+13-02-14 v2.0 Business case ja Update uitgevoerd na uitkomsten Gateway Review (december 2013) van het programma KvK-G3 (BD, 
+Aansluiten Handelsregister CBS en Justis), waarbij noodzaak bleek het programma ook in 2014 te continueren.
+12-09-13 v1.21 Business case ja De business case aansluiten Handelsregister v1.21 is vastgesteld in het MT-BD van 7 oktober 2013.
+Aansluiten Handelsregister
+27-09-12 1.0 Business case ja Bij de heroverweging van het project is door het MT-BD afgesproken per aan te sluiten basisregistratie 
+Aansluiten Handelsregister een eigen specifieke business case op te stellen. De bestaande generieke business case Aansluiten BRS is 
+hiervoor ingetrokken.
+19-08-10 1.0 Business Case BRI en ja Batenanalyse vooral kwalitatief en beperkt kwantitatief. Alternatieve scenario's zijn beperkt opgesteld 
+Business Case Aansluiten (Aansluiten).
+06-10-09 1.1 PID ja Niet van toepassing
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 137

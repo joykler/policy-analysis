@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Het project is per 3 oktober 2014 decharge verleend. Dit is geschied na afronding van het project: de beoogde systemen en functionaliteiten zijn gerealiseerd en overgedragen aan de beheer-
+organisatie die deze in productie heeft genomen. Tevens is de legacy (m.n. CRIHO) uitgefaseerd. In de dechargebrief is ingegaan op de ervaringen met dit ketenproject in termen van kwaliteit, 
+tijd en geld.
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+01-11-11 € 15,40 01-04-14 Bij de vaststelling van het masterplan per  Bij de vaststelling van het masterplan per  
+1 november 2011 is ook de scope van het project 1 november 2011 is ook de scope van het project 
+definitief bepaald. Ten opzichte van de initiele definitief bepaald. Ten opzichte van de initiele 
+indicatieve planning en bijbehorende meerjarige indicatieve planning en bijbehorende meerjarige 
+kosten is sprake van uitbreiding van de scope kosten is sprake van uitbreiding van de scope 
+waarbij ook herziening van de aanmelding waarbij ook herziening van de aanmelding 
+onderwerp van het vastgestelde project is. Tevens onderwerp van het vastgestelde project is. Tevens 
+is bij deze vaststelling besloten de kosten die is bij deze vaststelling besloten de kosten die 
+Studielink vanwege het project moet maken ten Studielink vanwege het project moet maken ten 
+lasten van de projectmiddelen te brengen en het lasten van de projectmiddelen te brengen en het 
+testtraject fors uit te breiden, met bijbehorende testtraject fors uit te breiden, met bijbehorende 
+meerkosten ten opzichte van de indicatieve meerkosten ten opzichte van de indicatieve 
+(tussentijdse) inschatting (en). (tussentijdse) inschatting (en).
+7a. Geschatte levensduur na oplevering
+De verwachte levensduur is gemiddeld 10 jaar, waarbij voor de gegevensbakken (databases) een langere levensduur geldt dan voor de applicatie componenten in het landschap. Vervanging zal 
+naar verwachting gedifferentieerd per component plaatsvinden, waarbij de verschillende leeftijden van de componenten ook een rol spelen.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 191

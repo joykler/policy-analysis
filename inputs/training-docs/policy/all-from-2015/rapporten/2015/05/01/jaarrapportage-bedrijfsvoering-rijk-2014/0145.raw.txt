@@ -1,0 +1,33 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+23-09-11 01-01-13 01-02-14
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+06-07-12 € 19,23 01-02-14 De herijking is hoofdzakelijk gebaseerd op: De herijking is hoofdzakelijk gebaseerd op: 
+realisatiecijfers voor de fase Initiatie; realisatie- realisatiecijfers voor de fase Initiatie; realisatie-
+cijfers ontwerpactiviteiten voor de Europese cijfers ontwerpactiviteiten voor de Europese 
+overschrijving; de offertecijfers voor ontwikkel- overschrijving; de offertecijfers voor ontwikkel-
+activiteiten Europese overschrijving; ramingen activiteiten Europese overschrijving; ramingen 
+voor de overige onderdelen. Dit is een logisch voor de overige onderdelen. Dit is een logisch 
+gevolg van de gehanteerde lineaire ontwikkel- gevolg van de gehanteerde lineaire ontwikkel-
+methodiek. In dit geval betekende deze bijstelling methodiek. In dit geval betekende deze bijstelling 
+een lagere schatting van de totale projectkosten. een lagere schatting van de totale projectkosten.
+04-10-11 € 20,83 01-02-14 Het bleek niet haalbaar te zijn om de Belasting- Het bleek niet haalbaar te zijn om de Belasting-
+dienst per 1-1-2013 geheel SEPA compliant te dienst per 1-1-2013 geheel SEPA compliant te 
+maken. Daarnaast was in eerste instantie aan- maken. Daarnaast was in eerste instantie aan-
+gegeven dat de Europese Unie tijdslijnen zou gegeven dat de Europese Unie tijdslijnen zou 
+hanteren die in overeenstemming waren met deze hanteren die in overeenstemming waren met deze 
+datum. Op een later tijdstip is a) het tijdspad in de datum. Op een later tijdstip is a) het tijdspad in de 
+Europese Verordening aangepast naar een Europese Verordening aangepast naar een 
+deadline op 1-2-2014 als gevolg van langdurige deadline op 1-2-2014 als gevolg van langdurige 
+onderhandelingen over de definitieve SEPA onderhandelingen over de definitieve SEPA 
+specificaties en b) door het Nationaal Forum specificaties en b) door het Nationaal Forum 
+SEPA-migratie een nationaal migratieplan SEPA-migratie een nationaal migratieplan 
+opgesteld met tijdslijnen die lopen tot aan deze opgesteld met tijdslijnen die lopen tot aan deze 
+Europese deadline, waarmee de Belastingdienst nu Europese deadline, waarmee de Belastingdienst nu 
+in de pas loopt. in de pas loopt.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 145

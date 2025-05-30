@@ -1,0 +1,25 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Geen wijziging ten opzichte van herijking.
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+24-12-14 € 27,87 30-06-16 Het verschil is ontstaan door het bestaan van veel Het verschil is ontstaan door het bestaan van veel 
+meer documenten dan aanvankelijk was verwacht. meer documenten dan aanvankelijk was verwacht.
+Consequentie is dat de migratieopgave veel Consequentie was dat overgestapt is van een 
+omvangrijker is geworden. handmatige migratie naar een geautomatiseerde 
+De omvangrijkere migratieopgave leidde (en leidt) migratie. 
+tot extra investeringen in de ICT (o.a. aankoop van Het ontwikkelen van een geautomatiseerde 
+storage) en de noodzaak om de migratie te migratie vraagt om tijd.
+automatiseren. Bovendien betekent een grotere massa documen-
+ten, dat er meer werk verzet moet worden. Dit 
+vergt extra inzet van tijd.
+7a. Geschatte levensduur na oplevering
+8 tot 10 jaar
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Gebruikelijke levensduur van systemen binnen het bedrijfsvoeringsdomein.
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+Wijziging contractvorm
+Contractvorm is niet gewijzigd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 187

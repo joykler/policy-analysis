@@ -1,0 +1,32 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+12-07-07 € 76,00 31-12-13 Veranderstrategie ICT in 2007 bijgesteld naar meer Veranderstrategie ICT in 2007 bijgesteld naar meer 
+geleidelijke aanpassing van nieuwe ICT. Door geleidelijke aanpassing van nieuwe ICT. Door 
+herschikking van de planning is de doorlooptijd herschikking van de planning is de doorlooptijd 
+verlengd met drie jaar tot en met 2013. In de verlengd met drie jaar tot en met 2013. In de 
+rapportage over 2010 is abusievelijk 31-1-2013 als rapportage over 2010 is abusievelijk 31-1-2013 als 
+herijkte einddatum opgenomen in plaats van de herijkte einddatum opgenomen in plaats van de 
+beoogde 31-12-2013. beoogde 31-12-2013.
+7a. Geschatte levensduur na oplevering
+Afhankelijk van de mate van hergebruik van gerealiseerde onderdelen.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Het Veranderprogramma SVB Tien is beëindigd. Het ICT-deel inzake BR1 Vrijwillig Verzekeren is in gebruik. De ontwikkeling van het ICT-deel voor de uitvoering van de kindregelingen (BR2) is 
+stopgezet. Hiermee komt BR3 (pensioenregelingen) ook niet tot ontwikkeling. De SVB zal haar bestaande ICT infrastructuur gebruiken en blijven versterken. Er wordt onderzocht of onderdelen 
+van de ontwikkeling van het multi-regelingen-systeem toegevoegd kunnen worden aan het huidige ICT platform.
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+17-12-14 TK 26448, nr 528 Brief SUWI verander- https://zoek.officielebekendmakingen.nl/kst-26448-528.html
+programma SVB tien
+02-09-14 TK 26448, nr. 523 Verslag van een schriftelijk https://zoek.officielebekendmakingen.nl/kst-26448-523.html
+overleg
+02-09-14 TK 26448, nr.524 Brief SUWI https://zoek.officielebekendmakingen.nl/kst-26448-524.html
+26-05-14 TK 26448, nr. 514 Brief SUWI, verander- https://zoek.officielebekendmakingen.nl/kst-26448-514.html
+programma SVB Tien
+02-04-14 TK 26448, nr.510 Brief SUWI https://zoek.officielebekendmakingen.nl/kst-26448-510.html
+12-12-13 TK 26448, nr. 507 Brief SUWI https://zoek.officielebekendmakingen.nl/kst-26448-507.html
+08-07-13 TK 26448, nr. 499 Brief SUWI https://zoek.officielebekendmakingen.nl/kst-26448-499.html
+20-12-11 TK 26 488, nr. 473 Brief SUWI, verander- https://zoek.officielebekendmakingen.nl/blg-146171.html
+programma SVB TIEN
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 205

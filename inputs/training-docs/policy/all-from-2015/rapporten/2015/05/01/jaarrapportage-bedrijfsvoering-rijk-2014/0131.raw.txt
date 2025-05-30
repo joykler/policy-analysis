@@ -1,0 +1,18 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+De NVWA is een baten- en lastendienst. De programmabegroting bevat activeerbare- en niet activeerbare kosten
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+10-07-14 31-12-17 31-12-17
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+7a. Geschatte levensduur na oplevering
+Het programma levert een nieuwe (basis)informatievoorziening. De kosten worden in vier jaar afgeschreven. Met de verwerving van de nieuwe informatievoorziening is duurzaamheid een 
+kenmerk.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Indien het programma door risico’s of issues qua planning niet kan verlopen als voorzien, dan wordt geëscaleerd naar de opdrachtgever.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 131

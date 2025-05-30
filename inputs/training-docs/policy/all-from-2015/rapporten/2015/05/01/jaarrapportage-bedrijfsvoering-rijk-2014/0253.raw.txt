@@ -1,0 +1,18 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+€ 0,45 mln. per jaar
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Baten-/lastenstelsel
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Jaarlijks wordt de BC herijkt op basis van de tot dan toe bereikte resultaten. Gelet op het feit dat faseovergangen expliciete besluitvorming vragen dient de BC continue te worden herijkt.  
+T/m 2015 kan met enige mate van zekerheid gezegd worden dat het projectbedrag € 5,284 miljoen is. Het resterende bedrag van € 6,394 mln. is een voorlopige schatting voor 2016 en 2017.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-11-13 01-07-15 31-12-17
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+De projectaanpak is opgezet in verschillende fases. Na de brede inventarisatie binnen de IND werd duidelijk dat meerdere componenten geoptimaliseerd konden worden door deze functionali-
+teit. Verder is een risicomitigerende aanpak gekozen waarbij kleine stapjes worden uitgevoerd en beproefd waarna op basis van de resultaten en besluitvorming de volgende stappen worden 
+gezet. De functionaliteit wordt gefaseerd opgeleverd en geimplementeerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 253

@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 6,60 € 8,40 € 6,60
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 3,00 € 7,10 € 2,80
+uitbesteed werk € 9,20 € 21,60 € 16,20
+overige projectkosten € 0,00 € 0,00 € 0,00
+TOTALEN € 18,80 € 37,10 € 25,60
+4b. Verwachte kosten voor beheer en onderhoud
+De verwachte kosten voor beheer en onderhoud zijn nog onbekend.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Voor ontwerp- en ontwikkelwerkzaamheden kent de Belastingdienst twee concernbrede tariefsoorten die beide een mixtarief zijn van intern en extern personeel. Als benadering voor de 
+verdeling tussen intern en extern personeel is het onderscheid tussen ontwerp- en ontwikkelwerk gehanteerd.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Kostenstijging wordt veroorzaakt door een aantal wijzigingsvoorstellen van de Belastingdienst en de externe leverancier. Deze wijziging voorstellen hebben te maken met onder andere 
+additionele functionaliteit.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-13 01-07-14 01-07-16
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 148

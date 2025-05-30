@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+11.  Advance Passenger Information (API-3)
+1b. Projectomschrijving
+Het API-systeem dient, geruime tijd voordat de passagier fysiek het grenscontroleproces ondergaat, passagiersgegevens snel en adequaat te kunnen vergelijken met watchlists en profielen. 
+Tevens faciliteert het systeem steekproeven om trends te kunnen onderkennen. De output van het systeem (controle-opdrachten, informatieverstrekkingen en adviezen), dient in de reguliere 
+grenscontrolesystemen (grensbalies, automatische poorten) verwerkt te kunnen worden om het grenscontroleproces sneller, effectiever en efficiënter te kunnen vormgeven. Het koppelen van 
+het API-systeem aan de balies en automatische poorten draagt bij aan de opvang van de passagiersgroei. Voor het project is subsidie aangevraagd bij het Europees Buitengrenzen Fonds (EBF).
+1c. Maatschappelijke relevantie
+Nederland heeft zich ten doel gesteld het grenstoezicht door de KMar effectiever en efficiënter in te richten, hiermee de mobiliteit van de reizigers met een laag risico te vergroten, illegale 
+migratie tegen te gaan en maximaal bij te dragen aan de veiligheid in Nederland en het Schengengebied. Relevante wet- en regelgeving:
+- EU-Richtlijn API 2004/082/EG d.d. 29 april 2004
+- Vreemdelingenwet 2000, artikel 4, vierde lid
+- Wijziging Vreemdelingenbesluit t.a.v. aanpassing API-dataset, Stb 688- Wijz Vb- ivm PNR/API- 281212
+- Schengengrenscode (Artikel 7 van Verordening (EG) nr. 562/2006)
+- Europese richtlijn 2010/65/EU
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+14-11-13 1.0.0 nee Geautoriseerd door Stuurgroep CAB JIVC. Privacytoets nog niet uitgevoerd.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 119

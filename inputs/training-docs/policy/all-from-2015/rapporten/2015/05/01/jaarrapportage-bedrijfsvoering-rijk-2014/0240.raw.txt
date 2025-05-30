@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+Valt binnen het reguliere jaarplan beheer en onderhoud C2000. Jaarlijks wordt voor het gehele systeem C2000 een jaarplan opgesteld ten aanzien van het beheer en onderhoud van het systeem 
+inclusief de masten etc.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Project gefinancierd op basis van kasverplichting door ministerie van VenJ / directie Politie
+Kosten intern personeel van vts Politie Nederland worden gefinancierd uit het budget voor regulier beheer C2000. Volledigheidshalve wel toegevoegd aan geschatte projectkosten.
+Licenties: niet van toepassing
+Departementaal overstijgend project: niet van toepassing
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Verschil van € 1,62 mln. tussen actuele schatting en daadwerkelijke realisatie betreft onbenutte deel post onvoorzien
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-12 01-09-13 01-07-14
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Project is op 1 juli 2014 afgerond.
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+01-07-13 € 33,19 01-07-14 Afwijkingsrapportage ODIN programmamanager Afwijkingsrapportage ODIN programmamanager 
+van 1 juli 2013 op 29 juli 2013 middels brief aan de van 1 juli 2013 op 29 juli 2013 middels brief aan de 
+opdrachtgever VenJ mbt herziening opleverdatum opdrachtgever VenJ mbt herziening opleverdatum 
+project naar medio 2014 aangeboden. Planning op project naar medio 2014 aangeboden. Planning op 
+basis informatie programmamanager aangepast. basis informatie programmamanager aangepast. 
+Opdrachtgever heeft hiermee op 9 september 2013 Opdrachtgever heeft hiermee op 9 september 2013 
+ingestemd. ingestemd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 240

@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+31-12-14 € 21,26 31-12-14 Nacalculatie bij afsluiting project. In 2014 is het project gesloten. Het Project Eind 
+Rapport is opgemaakt, de Lessons Learned zijn 
+uitgewerkt en de financiële nacalculatie is 
+uitgevoerd.
+20-12-13 € 21,70 31-12-13 Op basis van een afwijkingsrapportage heeft de Op basis van een afwijkingsrapportage heeft de 
+opdrachtgever toestemming gegeven voor opdrachtgever toestemming gegeven voor 
+ophoging van het projectbudget. Het product is ophoging van het projectbudget. Het product is 
+door openstaande disputen en restpunten nog niet door openstaande disputen en restpunten nog niet 
+geaccepteerd. Dat brengt extra kosten voor de geaccepteerd. Dat brengt extra kosten voor de 
+projectorganisatie mee. projectorganisatie mee.
+13-06-12 € 20,80 31-05-13 Op 13 juni 2012 heeft de opdrachtgever vastgesteld Op 13 juni 2012 heeft de opdrachtgever vastgesteld 
+dat er vijf belangrijke knelpunten moesten worden dat er vijf belangrijke knelpunten moesten worden 
+opgelost alvorens het project als afgerond opgelost alvorens het project als afgerond 
+beschouwd kan worden. Drie van de vijf punten beschouwd kan worden. Drie van de vijf punten 
+zijn in 2012 opgelost. zijn in 2012 opgelost.
+23-12-11 € 20,80 31-05-12 Uitkomst dispuut nav vertraging is door contract- Uitkomst dispuut nav vertraging is door contract-
+management bepaald op 1,3 milj. excl.,  management bepaald op 1,3 milj. excl., 
+verder valt de inrichting van enkele locaties tegen verder valt de inrichting van enkele locaties tegen 
+zoals de N280, deze wordt 0.2 milj. excl. duurder zoals de N280, deze wordt 0.2 milj. excl. duurder 
+o.a. door het ontbreken van de vluchtstrook. o.a. door het ontbreken van de vluchtstrook.
+7a. Geschatte levensduur na oplevering
+15 à 20 jaar
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+@MIGO-BORAS bestaat uit diverse hardware en software componenten.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 111

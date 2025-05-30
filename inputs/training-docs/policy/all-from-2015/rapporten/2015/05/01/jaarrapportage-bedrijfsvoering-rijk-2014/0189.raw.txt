@@ -1,0 +1,37 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+14-12-11 1.0 nee Projectstartarchitectuur. Het project BRON-HO loopt al vanaf 2008. Na een uitgebreide verkennende 
+fase is in het Masterplan BRON-HO de achterliggende doelstelling en visie opgenomen, en zijn onder 
+meer de scope en de organisatiestructuur bepaald. Het Masterplan BRON-HO voldoet niet aan alle door 
+het format voorgeschreven criteria. Niet alle criteria komen in dit Masterplan voor, maar zijn wel 
+uitgewerkt in andere plannen aansluitend aan het Masterplan, te weten PID en PSA. In het PID is 
+gekozen voor de SCRUM-methodiek en daarmee ook het kader waarbinnen gedurende het ontwikkel-
+traject inhoudelijk en politiek-bestuurlijk noodzakelijk en wenselijk gebleken aanpassingen te kunnen 
+doorvoeren. Daarmee zijn sindsdien tussentijdse herijkingen cf de hier relevante definities niet aan de 
+orde gebleken.
+01-11-11 1.0 nee Masterplan BRON-HO. Het project BRON-HO loopt al vanaf 2008. Na een uitgebreide verkennende fase 
+is in het Masterplan BRON-HO de achterliggende doelstelling en visie opgenomen, en zijn onder meer 
+de scope en de organisatiestructuur bepaald. Het Masterplan BRON-HO voldoet niet aan alle door het 
+format voorgeschreven criteria. Niet alle criteria komen in dit Masterplan voor, maar zijn wel uitgewerkt 
+in andere plannen aansluitend aan het Masterplan, te weten PID en PSA. In het PID is gekozen voor de 
+SCRUM-methodiek en daarmee ook het kader waarbinnen gedurende het ontwikkeltraject inhoudelijk 
+en politiek-bestuurlijk noodzakelijk en wenselijk gebleken aanpassingen te kunnen doorvoeren. 
+Daarmee zijn sindsdien tussentijdse herijkingen cf de hier relevante definities niet aan de orde gebleken.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+25-03-14 PBLQ Beheeraudit BRON-HO Audit op (de voorbereidingen van) de implementatie van BRON HO binnen DUO voor volledige 
+DUO maart 2014 overdracht van project naar lijn in april 2014.
+18-12-13 ADR Audit conversie De conversie BRON-HO (CRIHO-OD/OR, HORS-HOST) en plaatsen van gegevensabonnementen van 
+studenten.
+09-12-13 PBLQ Beheeraudit BRON-HO Audit op (de voorbereidingen van) de implementatie van BRON-HO binnen DUO voor de lancering van 
+DUO november 2013 BRON-HO eind 2013.
+22-11-13 PBLQ Performance BRON-HO Advies over performance BRON-HO.
+(assurance rapportage)
+03-10-13 PBLQ Evaluatie ontwikkeling van Organisatie en procesgang gedurende de gehele projectperiode.
+BRON-HO (review)
+17-09-13 PBLQ Beheeraudit BRON-HO Audit op (de voorbereidingen van) de implementatie van BRON-HO binnen DUO voor de lancering van 
+BRON-HO eind 2013.
+01-12-11 PBLQ Externe beoordeling Maandelijks betreffende aspecten die aandacht van de opdrachtgever vragen.
+voortgang BRON-HO 
+Advies dwarskijker
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 189

@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 9,91 € 9,91
+ingehuurd extern personeel € 0,00 € 7,81 € 7,81
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 4,22 € 4,22
+overige projectkosten € 9,00 € 0,09 € 0,09
+TOTALEN € 9,00 € 22,03 € 22,03
+4b. Verwachte kosten voor beheer en onderhoud
+De digitale keten, inclusief de studentadministraties bij de instellingen en Studielink en het Basisregister Onderwijs DUO zullen in deze structurele situatie permanent worden onderhouden. Het 
+beheer en onderhoud van de nieuwe processen zal meer onderhoud en beheer vergen bij DUO. Deze nieuwe processen leveren besparingen op elders in de keten.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+DUO is een agentschap van het Ministerie van OCW en hanteert een baten-lastenstelsel. Op basis van jaarlijks afgesproken tarieven worden de aan het project bestede uren op kasbasis aan OCW 
+in rekening gebracht. Voor BRON-HO geldt het uurtarief Opdrachten; dit is één uurtarief voor alle uursoorten. Dit tarief is gelijk aan de gemiddelde personeelskosten per uur obv een gestelde 
+verhouding inzet intern/extern plus opslag dekking overheadkosten apparaat DUO. De kosten voor overige uitgaven (o.a. licenties etc.) worden als materiële kosten en/of investeringen 
+beschouwd en rechtstreeks ten laste van het programmabudget gebracht, zonder verdere opslagen. Het project is geen departementoverstijgend project. Subsidie verstrekt aan Studielink is 
+opgenomen bij de gerealiseerde kosten bij uitbesteed werk. Instellingen worden geacht zelf in dekking van te maken kosten te voorzien.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De actueel geschatte kosten zijn hoger dan tussentijds (stand voor herijking 2011) geschat o.a. vanwege verbreding van de scope inclusief wetswijzigingen (langstudeerders, nationaliteitsvereiste) 
+en uitbreiding van de testfase zoals mogelijk binnen het vastgestelde Masterplan, PID en PSA conform de daarin bepaalde SCRUM-methodiek. Tevens zijn aanvullende kosten gemaakt bij 
+Studielink.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-07-08 31-12-11 03-10-14
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 190

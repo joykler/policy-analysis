@@ -1,0 +1,20 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+25.  Vervanging Voice Communicatiesysteem Systeem LVNL
+1b. Projectomschrijving
+Vervanging van het Voice Communicatie Systeem als gevolg van naderende end-of-life situatie in 2014. Het huidige systeem is continu in gebruik sinds 1998 en hard aan vervanging toe. Een 
+voice communicatiesysteem is cruciaal voor het leveren van luchtverkeersdienstverlening. Verstoring of uitval van (radio)communicatie is een groot veiligheidsrisico en zal tevens de operatie op 
+Schiphol en andere civiele luchthavens hevig ontregelen.
+1c. Maatschappelijke relevantie
+De vervanging van het Voice Communicatie Systeem moet ervoor zorgen dat radiocontact tussen verkeersleiders en vliegers, en contact tussen verkeersleiders onderling, maximaal beschikbaar 
+blijft. Dit is essentieel voor het veiligheidsrisico en het economisch belang van de Schiphol operatie.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+22-04-14 5.0 ja realisatieplan V.5.0
+05-06-13 4.0 ja realisatieplan V.4.0
+02-07-10 1.0 ja realisatieplan V.1.0
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+02-01-12 Sogeti review testplannen Testfase
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 179

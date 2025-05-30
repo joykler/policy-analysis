@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+37.  Kwaliteit en Innovatie (KEI)
+1b. Projectomschrijving
+De wereld van de Rechtspraak zal er over een jaar of vijf anders uitzien. De papieren dossiers hebben plaatsgemaakt voor digitale dossiers en procederen vanaf papier is dan alleen nog mogelijk 
+voor burgers die geen advocaat in de arm hebben genomen. Voor de overige partijen geldt dat digitaal procederen verplicht is. Iedereen krijgt digitaal toegang tot zijn dossier, ook de burger. Die 
+kan via zijn DigiD inloggen en aan de hand van een track and trace systeem zien in welk stadium de procedure zich bevindt. De rechters of raadsheren die de zaak behandelen, zijn ‘eigenaar’ van 
+het dossier. Partijen, ook burgers, kunnen stukken indienen die in het digitale dossier terechtkomen. In de gerechten wordt gewerkt met digitale zittingszalen waar rechters in het digitale dossier 
+kunnen bladeren. In het civiel en bestuursrecht hebben de verschillende en omslachtige procedures, dankzij nieuwe wetgeving, plaatsgemaakt voor een nieuwe, eenvoudige procedure. Ondanks 
+deze uniformering is er nog steeds ruimte voor differentiatie en maatwerk. Een mondelinge behandeling blijft essentieel onderdeel van de procedure. De rechter heeft meer dan in het verleden 
+de regie over een zaak. Ten aanzien van de procesgang naar de kantonrechter wordt binnen KEI een digitale procedure ingericht die partijen in de gelegenheid stelt (gezamenlijk) hun geschil in 
+een beveiligde elektronische omgeving aan de kantonrechter voor te leggen (digitaal procederen volgens art. 96 Rv). Daar waar de rechtspraak/rechter optreedt als toezichthouder wordt de 
+bedrijfsvoering in hoge mate bepaald door grote aantallen en langjarig lopende dossiers. Daarmee is juist dit rechtspraakonderdeel in sterke mate gebaat bij eenvoudigere digitale dossier-
+systemen. Daarnaast is er binnen het toezicht behoefte aan betere sturings- en beleidsinformatie en heeft het tot taak (via registers) informatie beschikbaar te stellen aan derden. KEI zal het 
+proces voor toezichthouder, ketenpartner en belanghebbende (partij, crediteur, afnemer van informatie) volledig digitaal (toegankelijk) maken. Ten aanzien van het strafrecht zullen middels 
+‘proeftuinen’ alle (onder)delen in de keten uitgeprobeerd en aangepast worden tot het moment dat de digitale ondersteuning geschikt is om landelijk te worden uitgerold. Hoe de digitale 
+toegang en het digitale proces er voor de burgers en professionals eruit komt te zien, is voor het strafrechtsgebied dus nog niet bepaald.
+1c. Maatschappelijke relevantie
+In het regeerakkoord Rutte 2 is opgenomen dat digitaal procederen in het bestuursrecht mogelijk gemaakt gaat worden en dat het civiele proces vergaand wordt vereenvoudigd en gedigitali-
+seerd. Het onderscheid tussen verzoekschrift en dagvaarding kan vervallen.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+09-10-13 Masterplan ja In het masterplan staan de doelstellingen, uitgangspunten en globale plannen van aanpak beschreven 
+van het programma KEI.
+25-06-13 Business Case ja Een opgestelde (rechtspraak) interne kosten/baten analyse voor het programma KEI
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 225

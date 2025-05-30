@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+22.  Programma Rationalisatie
+1b. Projectomschrijving
+Binnen de Belastingdienst is het streven dat onze IV-voorzieningen continu onze burgers, bedrijven, politiek en medewerkers ondersteunen. Hiervoor hebben we een geordend, wendbaar en 
+flexibel landschap nodig tegen marktconforme kosten. Rationalisatie is een belangrijk middel om dit te bereiken.
+Het programma Rationalisatie behelst een omvangrijke inhaalslag op benodigd onderhoud en daarmee een majeure update/actualisatie van ons ICT-infra en –applicatielandschap. Binnen het 
+programma wordt onder andere als realisatie-indicator de verhoging van de technische waarde van applicaties gehanteerd. Doelstelling is dat het aantal applicaties met een technische waarde 
+lager dan 50% is afgenomen met 40% wanneer het programma is afgerond. Dit zal ook een positief effect hebben op de verwachte levensduur van die applicaties.
+De programma-activiteiten zijn een aanvulling op de activiteiten die in het reguliere beheer en onderhoud/ lifecycle management plaatsvinden. De opdrachtgever van het programma is de CIO 
+van de Belastingdienst. Hij is daarmee de Senior Responsible Owner van het programma.
+1c. Maatschappelijke relevantie
+Rationalisatie is nodig voor de continuïteit, het sneller realiseren van (wets-)wijzigingen en het creëren van ruimte voor vernieuwing van de IV-voorzieningen, bijvoorbeeld voor verdere digitali-
+sering van de dienstverlening.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+15-12-14 Plan Rationalisatie v1.0 ja Definitief
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+16-12-14 Gartner Kwaliteitstoets De APW (Applicatie Portfoliowaardering)
+Applicatieportfolio Analyse
+19-11-14 ADR Beoordeling projectplan Projectplan
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 163

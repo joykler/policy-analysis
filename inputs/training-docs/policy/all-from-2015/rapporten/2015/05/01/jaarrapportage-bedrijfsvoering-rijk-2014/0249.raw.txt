@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+44.  Zelfbediening Justitiabelen (ZBJ)
+1b. Projectomschrijving
+Politiek en bestuurlijk is de keuze gemaakt om op cel ICT-functies aan te bieden. Het project Zelf Bediening Justitiabelen (ZBJ) richt zich op het DJI-breed beschikbaar stellen van ICT-functies aan 
+justitiabelen. Onder andere winkelbestellingen (inclusief facturatie), internettoegang, rekening-courant, strafdossier op cel, bezoekplanning kunnen met deze voorziening door justitiabelen zelf 
+worden geregeld.
+De belangrijkste kwalitatieve baten die met de implementatie van ZBJ worden gerealiseerd zijn toenemende zelfredzaamheid van justitiabelen en een verlaging van de administratieve taken 
+voor het personeel, waardoor meer tijd overblijft voor de eigenlijke taken, zoals bejegening. ZBJ biedt daarnaast een platform waarmee meerdere innovatieve toepassingen kunnen worden 
+ontwikkeld die passen in de doelstellingen van DJI. Hierbij kan gedacht worden aan toepassingen op het gebied van e-Health en e-Learning. Implementatie van ZBJ is een randvoorwaarde voor 
+verdere ontwikkelingen op dit gebied en biedt mogelijkheden voor toekomstige initiatieven.
+1c. Maatschappelijke relevantie
+Terugdringen recidive, verbeterde zelfredzaamheid justitiabelen, efficiëntere overheid
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+23-07-14 1.0 ja Initiële Business Case
+04-12-13 2.01 ja Plan voor plateau 1 (vooral infrastructuur)
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+15-09-14 Nederland ICT Haalbaarheidstoets Haalbaarheid doelstellingen DJI omtrent zelfbediening justitiabelen
+15-06-14 TNO Security Review Opzet van de prison cloud
+15-01-14 F&C weerbaarheidsaudit Initiatiefase
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 249

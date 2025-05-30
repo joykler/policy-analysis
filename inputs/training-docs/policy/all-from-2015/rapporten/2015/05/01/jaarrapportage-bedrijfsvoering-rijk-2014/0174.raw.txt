@@ -1,0 +1,25 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+24.  Programma Informatie-uitwisseling Milieuhandhaving (PIM)
+1b. Projectomschrijving
+Doel van het Programma Informatie-uitwisseling Milieuhandhaving (PIM) is het ontwikkelen en invoeren van een landelijke structuur voor informatie-uitwisseling op het gebied van milieu-
+handhaving. Die structuur moet bijdragen aan een informatiegestuurde en risicogerichte handhaving en een betere samenwerking tussen de betrokken bestuurlijke en strafrechtelijke  
+organisaties. Het programma was opgedeeld in zeven projecten. Drie ervan omvatten de bouw van het informatie-uitwisselingsysteem en de verschillende functionaliteiten. De andere vier 
+waren randvoorwaardelijk en gericht op standaardisatie, juridische inkadering, harmonisatie van landelijke meldpunten en de implementatie van de structuur.
+Concreet heeft PIM een digitaal systeem ontwikkeld waarmee milieu-handhavende instanties informatie kunnen uitwisselen, Inspectieview Milieu, uitgebreid met een bulkvoorziening voor 
+analyse en een centraal ontwikkelde aansluitvoorziening. Om die uitwisseling goed te laten werken, heeft PIM verder standaarden en een juridisch kader opgesteld. Specifiek voor informa-
+tie-uitwisseling in de ketens, zoals vuurwerk en asbest, heeft PIM aanvullende hulpmiddelen (digitale controlelijsten, asbest-alert) gemaakt.
+Op 31 december 2014 is het Programma Informatie-uitwisseling Milieuhandhaving geeindigd. De producten zijn overgedragen aan de Inspectie Leefomgeving en Transport, die de verdere 
+implementatie en doorontwikkeling en de aansturing van het beheer voor haar rekening neemt.
+1c. Maatschappelijke relevantie
+De winst van het programma is dat organisaties de milieuregelgeving informatiegestuurd en risicogericht en daarmee effectief en efficiënt kunnen handhaven. Als zij makkelijk informatie over 
+een bepaald bedrijf kunnen uitwisselen, ontstaat een integraal beeld van dat bedrijf. Een handhaver heeft daardoor voor zijn bezoek voldoende informatie. Ook vergemakkelijkt het de samen-
+werking tussen handhavende instanties bij inspecties. Bovendien maakt de nieuwe structuur informatiegestuurd en risicogericht handhaven beter mogelijk. Organisaties kunnen gegevens van 
+alle aangesloten instanties analyseren en gebruiken bij de planning van inspecties. Dit betekent ook minder toezichtlast voor bedrijven en een veiliger en schonere leefomgeving voor de 
+maatschappij als geheel.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+01-01-12 2.0 nee Herziene versie van programmaplan 1.0 uit maart 2011.
+Na vaststelling van het programmaplan is gebleken dat het een hoogrisicoproject betreft.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 174

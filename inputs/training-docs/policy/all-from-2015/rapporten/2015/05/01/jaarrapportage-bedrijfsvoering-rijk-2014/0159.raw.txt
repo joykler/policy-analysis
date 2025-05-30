@@ -1,0 +1,37 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Definitief (herijking Ernst & Young Advisory Attack & Penetration-test Het formulier IH-Niet Winst 2014
+uitgevoerd)
+Definitief Capgemini Attack & Penetration-test Het formulier IH-Niet Winst 2014
+Definitief BT Attack & Penetration-test Online Dienstverlening
+Definitief Belastingdienst Attack & Penetration-test Online Aangifte Simulatie
+(Java-vakgroep)
+Definitief Software Improvement Technische kwaliteit van de Het formulier IH-Niet Winst 2014
+Group applicatie
+Definitief Capgemini Architectuur t.a.v. Online Dienstverlening
+Performance
+Definitief Belastingdienst Attack & Penetration-test Het formulier Voorlopige Aangifte 2015
+01-10-14 Software Improvement Technische kwaliteit van de Het formulier Voorlopige Aangifte 2015
+Group applicatie
+01-05-14 iComply Code Review Het formulier Voorlopige Aangifte 2015
+01-02-14 Capgemini Attack & Penetration-test Het formulier IH-Niet Winst 2013
+01-01-14 M-Brace Performance tijdens Alle componenten van Online Dienstverlening; doorlopende activiteit
+applicatie-ontwikkeling
+01-01-14 IBM Performance Infrastructuur Infrastructuur; doorlopende activiteit
+01-12-13 BT Attack & Penetration-test Online Dienstverlening
+01-12-13 Belastingdienst Attack & Penetration-test Het formulier IH-Niet Winst 2013
+(Java-vakgroep)
+01-12-13 Software Improvement Technische kwaliteit van de Het formulier IH-Niet Winst 2013
+Group applicatie
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 3,14 € 7,34 € 4,24
+intern personeel € 15,47 € 19,32 € 17,52
+uitbesteed werk € 0,00 € 0,00 € 0,40
+overige projectkosten € 0,00 € 0,00 € 0,00
+TOTALEN € 18,61 € 26,66 € 22,16
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 159

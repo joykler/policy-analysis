@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+40.  Datacenter Rechtspraak (DCR)
+1b. Projectomschrijving
+Het programma DCR richt zich op de realisatie van de centrale ICT-voorzieningen in een nieuwe landelijk datacenter, de opwaardering van de netwerkvoorzieningen en de migraties van de 
+applicaties uit de Rechtspraak Maasland, JuBIT en lokale rekencentra (MER’s), inclusief locatie Uniceflaan naar het nieuwe landelijke datacenter.
+1c. Maatschappelijke relevantie
+Niet van toepassing
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+19-12-13 3.0 ja Programmaplan bijgewerkt
+18-04-13 2.0 ja Programmaplan bijgewerkt
+05-03-12 1.0 ja Programmaplan
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+06-01-14 E&Y Kwaliteitsaudit DCR-Verhuizing
+01-12-13 KPMG A&K analyse Programma DCR
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 11,60 € 10,32 € 9,86
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 10,00 € 9,07 € 8,46
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 0,00 € 0,00 € 0,00
+TOTALEN € 21,60 € 19,39 € 18,32
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 236

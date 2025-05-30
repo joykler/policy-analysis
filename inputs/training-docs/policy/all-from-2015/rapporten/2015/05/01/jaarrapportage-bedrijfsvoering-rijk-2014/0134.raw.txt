@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+30-03-10 Scenario-onderzoek AGS ja -
+2010
+17-01-07 Scenario Goederenstroom ja -
+gerelateerd Toezicht v1.1
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+01-10-13 Auditdienst Rijk Audit De applicatie DMS (Declaration Management System), de koppelvlakkan met de applicaties voor het 
+proces Invoer en de applicatie DTV (Douane Tarief Voorziening).
+01-12-12 Auditdienst Rijk Audit De applicatie DMS (Declaration Management System), de koppelvlakken met de applicaties voor het 
+proces invoer, en de applicatie DTV (Douane Tarief Voorziening).
+01-04-12 Ministerie van Financiën Kwaliteitstoets De projectorganisatie AGS.
+01-03-12 Rijksauditdienst Audit De projectorganisatie AGS.
+01-01-10 BZK bureau Gateway Gateway onderzoek Ecustoms project - incluis project Vervanging AGS (onderdeel van eCustoms).
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 2,20 € 3,20 € 2,20
+ingehuurd extern personeel € 1,50 € 1,10 € 1,10
+intern personeel € 16,10 € 22,40 € 21,40
+uitbesteed werk € 5,70 € 18,20 € 15,00
+overige projectkosten € 0,00 € 1,90 € 0,00
+TOTALEN € 25,50 € 46,80 € 39,70
+4b. Verwachte kosten voor beheer en onderhoud
+Na afronding van het project zijn de beheerkosten geraamd op € 3,6 mln. per jaar.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Voor ontwerp- en ontwikkelwerkzaamheden kent de Belastingdienst twee concernbrede tariefsoorten die beide een mixtarief zijn van intern en extern personeel. Als benadering voor de 
+verdeling tussen intern en extern personeel is het onderscheid tussen ontwerp- en ontwikkelwerk gehanteerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 134

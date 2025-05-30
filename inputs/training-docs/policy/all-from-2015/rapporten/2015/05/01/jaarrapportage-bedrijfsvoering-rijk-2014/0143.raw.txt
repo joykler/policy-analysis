@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+17.  SEPA
+1b. Projectomschrijving
+De projectopdracht van het project SEPA (Single Euro Payments Area) is om de Belastingdienst SEPA-compliant te maken voor de hoofdbetaalproducten overschrijving, incasso en acceptgiro 
+zonder verstoring van de kasstroom. Met deze veranderingen worden bijzonder veel processen en systemen van de Belastingdienst geraakt, uitgezonderd de FIOD. Na voorbereidende werk-
+zaamheden in 2010 is het project in 2011 gestart.
+SEPA wordt in drie delen, parallel, gerealiseerd. Het eerste deel betreft de realisatie van de Europese overschrijving (SEPA Credit Transfer). Het tweede deel betreft de realisatie van de Europese 
+incasso (SEPA Direct Debit). Het derde en laatste deel betreft de migratie van de huidige in Nederland gebruikte euro-Acceptgiro naar de IBAN-Acceptgiro. Er wordt aangesloten bij de door de 
+Europese Unie gestelde uiterste invoeringsdatum van 1-2-2014. Deze uiterste invoeringsdatum is vastgesteld in een Europese Verordening die in februari 2012 definitief is vastgesteld. Na deze 
+uiterste invoeringsdatum zijn de oude betaalproducten niet meer bruikbaar.
+In januari 2014 heeft de Europese Commissie een wetsvoorstel gedaan om de migratieperiode met een half jaar te verlengen tot 1 augustus 2014. Deze uiterste invoeringsdatum is vastgesteld in 
+een Europese Verordening die in februari 2014 definitief is vastgesteld. Na deze uiterste invoeringsdatum zijn de oude betaalproducten niet meer bruikbaar. De Belastingdienst heeft de migratie 
+naar SEPA medio december 2013 geheel afgerond met de laatste stap: de migratie naar de IBAN-Acceptgiro en het project formeel in februari 2014 afgesloten na de oplevering van het end 
+project report.
+1c. Maatschappelijke relevantie
+SEPA (Single Euro Payments Area) heeft tot doel om alle eurobetalingen in Europa te standaardiseren zodat er geen verschil meer is tussen een binnenlandse betaling en een eurobetaling van of 
+naar andere Europese landen. Na de fysieke invoering van de euro, betekent dit dat nu ook de girale eurobetalingen in Europa worden gestandaardiseerd. Gevolg van deze besluitvorming is dat 
+de vertrouwde nationale betaalproducten binnenlandse overschrijving en incasso, per 1-2-2014 niet meer zijn te gebruiken. De Belastingdienst moet voor deze datum gemigreerd zijn naar de 
+Europese overschrijving en incasso om nog geld uit te kunnen betalen en ontvangen.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+04-01-13 Project Initiation ja Definitief
+Documentation v2.0
+06-07-12 Business Case v2.0 ja Definitief (herijking uitgevoerd)
+13-12-11 Project Initiation ja Definitief
+Documentation v1.0
+29-11-11 Business case v1.2 ja Definitief
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 143

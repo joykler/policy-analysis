@@ -1,0 +1,25 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,70 € 0,70
+ingehuurd extern personeel € 18,33 € 21,90 € 19,40
+intern personeel € 27,99 € 19,50 € 16,00
+uitbesteed werk € 18,11 € 53,60 € 47,10
+overige projectkosten € 3,66 € 1,70 € 1,60
+TOTALEN € 68,09 € 97,40 € 84,80
+4b. Verwachte kosten voor beheer en onderhoud
+De verwachte beheerkosten voor 2016 en verder bedragen op jaarbasis € 11 miljoen.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Algemene systematiek is baten/lastenstelsel. Intern personeel wordt alleen bij substantiële inzet ten laste van het project gebracht. In de uitvoering worden kosten alleen doorbelast als de 
+medewerker extern vervangen wordt. Licentiekosten zijn niet opgenomen bij de projectkosten, maar worden geactiveerd en vervolgens voor de duur van het contract lineair afgeschreven, 
+conform UWV-waarderingsgrondslagen.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Het project SCHIP 2.0 had een uitloop in 2014 waardoor de releases in 2015 ook later in productie gaan, waardoor de kosten hoger zijn. In het vierde kwartaal 2014 is een stand van zaken 
+opgesteld van de business case van Redesign, waarin de cijfers en de verwachtingen zijn geactualiseerd.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-04-11 31-12-15 31-12-15
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 208

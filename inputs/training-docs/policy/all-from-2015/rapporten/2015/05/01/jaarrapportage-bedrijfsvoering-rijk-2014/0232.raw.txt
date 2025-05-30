@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+39.  Elektronische Detentie
+1b. Projectomschrijving
+Het project had initieel als doel om elektronische detentie te implementeren. Op 30 september 2014 is in de Eerste Kamer het wetsvoorstel Invoering van Elektronische Detentie verworpen. 
+Hiermee zijn de doelstelling en de scope van het projet gewijzigd. Door deze scopewijziging beperkt het project zich tot de invoering van een nieuwe systematiek voor elektronische monitoring 
+en modernisering van het Penitentiair Programma. Het project wordt voortgezet onder de naam Elektronische Monitoring met een budget van circa € 2,5 miljoen.
+1c. Maatschappelijke relevantie
+Elektronische Monitoring is een executiemodaliteit in de vrije maatschappij, met grote publieke zichtbaarheid en met een duidelijk politiek en maatschappelijk afbreukrisico bij incidenten.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+03-02-14 1.0 ja Project Initiatie Document voor activiteiten in 2014
+23-08-13 1.0 ja Plan van Aanpak
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+15-12-14 Fox-IT Security audit Toetsing monitoringsoftware, setups, verbindingslijnen en hardware configuratie op veiligheids- en 
+beveiligingsaspecten
+15-03-14 Intern Business impact analyse / Toetsing configuratie monitoringsoftware op BIA-/ PIA-aspecten
+(projectonafhankelijk) privacy impact assessment
+01-11-13 Emtio Juridische toetsing Toetsing Bestuursdepartement aanbesteding op juridische aspecten
+01-11-13 Verdonck Klooster Informatiebe veiligingstoets Toetsing Pakket van Eisen aanbesteding op informatiebeveiliging
+Associates
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 232

@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+18-11-14 € 18,70 31-03-16 Ten opzichte van de initiële PID zijn de kosten in de 
+herijkte PID gestegen. Oorzaak is wijziging van de 
+scope als gevolg van een verdiepte uitwerking 
+middels de ontvangen U-toets lagere Wet en 
+Regelgeving van december 2013 van € 1,7 mln.  
+Bij de uitwerking bleek de leverancier te worden 
+geconfronteerd met de complexiteit van de 
+systeemaanpassingen, dit heeft geleid tot verder 
+kosten toename van € 2,9 mln.
+7a. Geschatte levensduur na oplevering
+Dit project realiseert een definitieve oplossing, echter afhankelijk van mogelijke toekomstige strategische keuzes ten opzichte van het vervangen van het applicatielandschap WW wordt er 
+mogelijk aangepaste software gemaakt.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Geen
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+Wijziging contractvorm
+Niet gewijzigd
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 224

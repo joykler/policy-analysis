@@ -1,0 +1,25 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+8.  @MIGO-BORAS
+1b. Projectomschrijving
+Camerasysteem voor Mobiel Toezicht Veiligheid (MTV) met herkenning van voertuigkenmerken. De baten van dit systeem liggen in het feit dat de Koninklijke Marechaussee haar informatie-
+positie aanzienlijk verbetert, zij weet wie haar ‘klanten’ zijn en waar en wanneer zij de grens passeren. Dit betekent dat de Koninklijke Marechaussee gericht kan optreden. Dat is een eerste grote 
+stap in Informatie Gestuurd Optreden (IGO). Verdere baten liggen bij externe afnemers zoals de Belastingdienst, Politie, AIVD, etc. @MIGO-BORAS bestaat uit weg-infrastructurele componen-
+ten, sensoren en diverse ICT-hard- en -softwarecomponenten.
+1c. Maatschappelijke relevantie
+Op grond van de Vreemdelingenwet 2000 kunnen personen die Nederland in reizen worden gecontroleerd ter voorkoming en bestrijding van illegaal verblijf. De Koninklijke Marechaussee is 
+belast met de uitvoering van dit toezicht, het Mobiel Toezicht Veiligheid (MTV). Door dit toezicht informatiegestuurd uit te voeren worden drie effecten beoogd:
+1.  Vergroten veiligheid door effectiever toezicht: op basis van goede informatie wordt de kans vergroot dat relevante doelgroepen tijdig worden onderkend en gecontroleerd.
+2.  Verhoging mobiliteit: door controles te richten op relevante doelgroepen zullen minder personen hinder ondervinden van de MTV-controles.
+3.  Efficiency: door capaciteitsmanagement toe te passen op basis van informatie kan de capaciteit van de Koninklijke Marechaussee gerichter worden ingezet, waardoor inzet op plaatsen en 
+tijden met relatief lage ‘opbrengst’ wordt verminderd. Door het vervangen van routinematige handelingen door geautomatiseerde verwerking is een bijkomend voordeel het vergroten van 
+zingeving en werkbeleving voor en door het eigen Marechaussee personeel.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+26-06-08 1.0.0 nee Getekend door PC-Kmar
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+14-07-09 Audit Dienst Defensie Audit, referentiemodel -
+Prince 2
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 109

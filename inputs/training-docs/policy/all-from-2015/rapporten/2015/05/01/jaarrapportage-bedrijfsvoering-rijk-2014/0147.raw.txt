@@ -1,0 +1,22 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+18.  Cumulus
+1b. Projectomschrijving
+Het Cumulus-project omvat de ontwikkeling van een op Cloud-technologie gebaseerd .Net platform (Platform as a Service) t.b.v. het Toeslagen Verstrekking Systeem (TVS), incl. het inrichten van 
+de Service Provider & Service Consumer organisatie en de migratie van Toeslagen naar dit platform.
+1c. Maatschappelijke relevantie
+Door het nieuwe infrastructuur-platform is het mogelijk om sneller en met minder kans op fouten wijzigingen door te voeren in het Toeslagensysteem. Het Toeslagensysteem is een zeer 
+bedrijfskritisch en complex systeem binnen de Belastingdienst. In de basis omvat het systeem het toekennen, controleren en het uitkeren van diverse toeslagen voor een totaal van ca.  
+€ 10 miljard ten behoeve van ca. 7 miljoen burgers. Burgers kunnen via een webportaal toeslagen aanvragen en wijzigingen doorgeven. De Belastingdienst kan via een kantoorportaal burgers en 
+bedrijven ondersteunen en controleren inzake deze aanvragen en wijzigingen. Continue veranderende wetgeving inzake Toeslagen, en het doorvoeren van deze wijzigingen in het 
+Toeslagensysteem binnen een bepaalde periode, zetten een grote druk op enerzijds de kwaliteit en anderzijds de continuïteit van het Toeslagensysteem. Het verkorten van time-to-market en 
+het verkleinen van de foutkans, kunnen hieraan een positieve bijdrage leveren.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+17-02-15 Gartner Externe review Onderzoek naar de door Microsoft opgeleverde technologie dec-2014 / feb-2015 
+18-06-14 MS Centre of Excellence Externe review Onderzoek naar de door Microsoft opgeleverde technologie juni-juli 2014 
+(COE)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 147

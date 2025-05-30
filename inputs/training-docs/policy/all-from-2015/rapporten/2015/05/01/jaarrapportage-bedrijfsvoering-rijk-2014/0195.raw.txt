@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 3,00 € 2,55 € 0,46
+ingehuurd extern personeel € 40,30 € 66,22 € 38,08
+intern personeel € 20,15 € 44,14 € 23,12
+uitbesteed werk € 0,00 € 4,41 € 3,46
+overige projectkosten € 11,55 € 11,28 € 1,46
+TOTALEN € 75,00 € 128,60 € 66,58
+4b. Verwachte kosten voor beheer en onderhoud
+De te verwachten jaarlijkse kosten voor beheer en onderhoud van het nieuwe systeem, processen en organisatie (op basis gegevens business case december 2014) bedragen:
+- onderhoud en beheer ICT-systemen: € 4.576
+- projectmatige aanpassingen ICT-systemen: € 4.185
+Totaal: € 8.761
+De verwachting is dat het kostenniveau voor beheer en onderhoud in zijn geheel in 2020 zal worden gerealiseerd.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+DUO is een agentschap van het Ministerie van OCW en hanteert een baten-lastenstelsel. Op basis van jaarlijks afgesproken tarieven worden de aan PVS bestede uren op kasbasis aan OCW in 
+rekening gebracht. Vanwege de omvang van PVS, werkt het programma met een gedifferentieerde tariefsstructuur. Hiervoor zijn een drietal tarieven afgesproken: een intern tarief (niet ICT-
+gerelateerd), een intern tarief (ICT-gerelateerd) en een externen tarief. De kosten voor overige uitgaven (onder andere licenties) worden als materiële kosten en/of investeringen beschouwd en 
+rechtstreeks ten laste van het programmabudget gebracht, zonder verdere opslagen. PVS is geen departementsoverstijgend project.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Deze rapportage is onder voorbehoud van de uitkomsten van het proces rond de Voorjaarsnota 2015: n.a.v. dit proces zal de laatste herijking van PVS definitief worden. Ten opzichte van de 
+vorige rapportage, zijn de kosten van PVS met € 21,3 miljoen toegenomen van € 107,3 tot € 128,6 miljoen. Deze meerkosten zijn te wijten aan het incorporeren van de implementatie van de wet 
+studievoorschot hoger onderwijs in het programma en het tegelijkertijd nemen van extra maatregelen t.b.v. risicobestrijding. Deze wet omvat een grote stelselwijziging en deze kostenstijging is 
+in de behandeling van de wet in de Tweede en Eerste Kamer aangekondigd en hierbij is een schatting van € 20 miljoen afgegeven. De businesscase blijft, ondanks de herijking, positief.
+De kosten van sociaal flankerend beleid (onderdeel van deze begroting) zijn geraamd op € 2,9 miljoen en opgenomen onder de post overige projectkosten en maken eveneens onderdeel uit van 
+de business case. De daadwerkleijke omvang van het sociaal flankerend beleid is mede afhankelijk van de arbeidsmarkt in de komende jaren.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 195

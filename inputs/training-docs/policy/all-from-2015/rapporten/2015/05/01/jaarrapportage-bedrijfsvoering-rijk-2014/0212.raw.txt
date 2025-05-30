@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+De verwachte kosten voor beheer en onderhoud voor 2015 en verder bedragen op jaarbasis € 34 miljoen.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Algemene systematiek is baten/lastenstelsel. Intern personeel wordt alleen bij substantiele inzet ten laste van het project gebracht. Licentiekosten zijn niet opgenomen bij de projectkosten, 
+maar worden geactiveerd en vervolgens voor de duur van het contract lineair afgeschreven, conform UWV-waarderingsgrondslagen.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De programma kosten stijgen met € 6 mln. Dit is opgebouwd uit:
+(1)  Onderdeel Transitie & Transformatie loopt uit + € 0,4 mln.
+(2)  Uitrol telefonie toegevoegd aan scope + € 1,9mln.
+(3)  Hardware Refresh, extra kosten omdat hardware nu als dienst wordt ingekocht +€ 2,9 mln.
+(4) Hierdoor neemt programma besturing toe met € 0,3 mln.
+(5)  Periodiek herijking business case per juli 2014 van +€ 0,5 mln.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-10 31-12-15 31-12-15
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+18-02-14 € 46,70 31-12-15 De businesscase, waaronder de kosten, wordt 
+periodiek herijkt.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 212

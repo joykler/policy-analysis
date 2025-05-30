@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 10,16 € 1,96 € 1,22
+ingehuurd extern personeel € 3,04 € 14,43 € 11,90
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,93 € 0,68
+overige projectkosten € 34,35 € 0,74 € 0,14
+TOTALEN € 47,55 € 18,06 € 13,94
+4b. Verwachte kosten voor beheer en onderhoud
+Nog niet bekend
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Gehanteerde systematiek is conform Baten-lastenstelsel. De investeringen in de op te leveren infrastructuur worden geactiveerd en maken geen onderdeel uit van de projectbegroting.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Door scope-aanpassing wordt de technische oplevering van het project als eindpunt van het project gezien. De aanpassing van de beheerorganisatie is buiten scope geplaatst en vooralsnog als 
+een taak van de afdeling beheer gezien. Het buiten scope plaatsen van de aanpassing van de beheerorganisatie en ook van de exploitatiekosten gedurende de looptijd van het programma, leidt 
+tot een daling van de geprognoticeerde kosten. In bovenstaande geschatte meerjarige kosten zijn ook de verwachte kosten voor de uitloop in tijd meegenomen, hierbij is rekening gehouden met 
+een daling van de HW/SW-kosten als gevolg van het buiten scope plaatsen van de verbindingskosten voor de infrastructuur. De gevolgen van de laatste vertraging van de leverancier (circa  
+6 weken, december 2014) in de oplevering van de infrastructuur worden verwerkt in een afwijkingsrapport waarvan de financiele impact nog niet is meegenomen in het bovenstaande overzicht.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-12 31-12-16 14-05-15
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 243

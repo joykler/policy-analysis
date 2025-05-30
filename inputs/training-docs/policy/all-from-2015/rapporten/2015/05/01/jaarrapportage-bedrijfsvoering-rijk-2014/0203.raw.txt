@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+01-08-14 Sneller-Hakkenberg Review Tussenbericht externe deskundigen
+01-08-14 Gartner Review Eindrapportage voortgangsprognose en monitoring MRS
+01-06-14 IT-Excellence Review Opvolging Quick Scan Datamigratie
+01-05-14 Auditdienst Rijk Review Advies implementatie MRS bij de SVB
+01-05-14 KPMG Review Review op uitvoering verbeterplan periode mei 2014-juli 2014
+01-05-14 KPMG Review Rapportage onderzoek IT-Readiness
+03-03-14 Oracle Review Code Reviews in de periode februari 2013-maart 2014
+01-02-14 IT-Excellence Review Quick Scan Datamigratie
+01-02-14 KPMG Review Gezamenlijk onderzoek KPMG, SVB en implementatiepartner naar de kwaliteit van het MRS
+10-12-12 Oracle Consulting Services Review Scripts Business release 2
+16-08-12 LBVD Consultancy Review Security infrastructuur Business release 2
+01-03-11 HEC Review Review Fase 2 Update programmaplan SVB Tien
+01-02-11 SIG Review Onderzoek BR1 van Tien voor Service Software Risk Assessment Rapport
+15-10-10 HEC Review Update van programmaplan
+01-04-10 SIG Review Onderzoek realisatie SVB10 BR 1
+01-01-10 HEC Review Review op hoofdlijnen
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 33,10
+ingehuurd extern personeel € 0,00 € 0,00 € 23,70
+intern personeel € 0,00 € 0,00 € 4,30
+uitbesteed werk € 0,00 € 0,00 € 50,60
+overige projectkosten € 76,00 € 121,80 € 10,10
+TOTALEN € 76,00 € 121,80 € 121,80
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 203

@@ -1,0 +1,33 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum
+01-12-08 € 44,00 31-05-11
+Toelichting kosten Toelichting doorlooptijd
+In de periode 2006-2008 wordt MOBZ een pilotproject voor Nederland: de project- In de periode 2006-2008 wordt MOBZ een pilotproject voor Nederland: de projectscope en -aanpak 
+scope en -aanpak wordt verder uitgewerkt waarbij het accent komt te liggen op de wordt verder uitgewerkt waarbij het accent komt te liggen op de ontwikkeling van een nieuwe stan-
+ontwikkeling van een nieuwe standaard voor Bediening op Afstand in Nederland.  daard voor Bediening op Afstand in Nederland. Dit heeft scopewijzigingen tot gevolg waaronder het 
+Dit heeft scopewijzigingen tot gevolg waaronder het ontwikkelen van een bediening- ontwikkelen van een bedieninsimulator voor de opleidingen van de operators en een proef met het 
+simulator voor de opleidingen van de operators en een proef met het ‘stitchen’ van ‘stitchen’ van camerabeelden voor het overzichtsbeeld van de operator. Er wordt meer geïnvesteerd in 
+camerabeelden voor het overzichtsbeeld van de operator. Er wordt meer geïnvesteerd de opleidingen en ontwikkeling van competenties van het bestaande personeel in de bediening om 
+in de opleidingen en ontwikkeling van competenties van het bestaande personeel in medewerkers klaar te maken voor het nieuwe bedienconcept. Daarnaast is aan de scope van het project 
+de bediening om medewerkers klaar te maken voor het nieuwe bedienconcept. het achterstallig onderhoud aan de sluizen en bruggen toegevoegd. De verdere ‘vermarkting’ van 
+Daarnaast is aan de scope van het project het achterstallig onderhoud aan de sluizen overheidstaken zorgt voor meer druk op de projectkosten. 
+en bruggen toegevoegd. De verdere ‘vermarkting’ van overheidstaken zorgt voor NB.: interne personeelskosten behoren niet tot projectkosten.
+meer druk op de projectkosten. 
+NB.: interne personeelskosten behoren niet tot projectkosten.
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum
+01-10-06 € 30,31 01-01-10
+Toelichting kosten Toelichting doorlooptijd
+Het datanetwerk wordt aangelegd (glasvezelnetwerk) in plaats van gehuurd zoals Het datanetwerk wordt aangelegd (glasvezelnetwerk) in plaats van gehuurd zoals initieel was opgeno-
+initieel was opgenomen. Dit gebeurt op initiatief van de Data ICT-Dienst van men. Dit gebeurt op initiatief van de Data ICT-Dienst van Rijkwaterstaat. Het netwerk zal voor meerdere 
+Rijkwaterstaat. Het netwerk zal voor meerdere doeleinden worden gebruikt, doeleinden worden gebruikt, ‘bediening op afstand’ is een van deze doelen. Toelichting kosten aanleg 
+‘bediening op afstand’ is een van deze doelen. Toelichting kosten aanleg glasvezel- glasvezelnetwerk: De initiële raming heeft een bandbreedte van 30%. Uit gedetailleerde raming blijkt nu 
+netwerk: De initiële raming heeft een bandbreedte van 30%. Uit gedetailleerde dat de ombouw inderdaad 30% meer zal kosten. De nautische centrales worden meer uitgebreid voor 
+raming blijkt nu dat de ombouw inderdaad 30% meer zal kosten. De nautische een toekomstgerichte toepassing, zoals het geschikt maken voor bediening door andere Overheden.  
+centrales worden meer uitgebreid voor een toekomstgerichte toepassing, zoals het Dit is een uitbreiding op de bestaande scope.
+geschikt maken voor bediening door andere Overheden. Dit is een uitbreiding op de 
+bestaande scope.
+7a. Geschatte levensduur na oplevering
+Van gebouwen en netwerk is de geschatte levensduur meer dan 40 jaar, de geschatte levensduur voor besturing objecten varieert tussen 15 en 20 jaar, en de geschatte levensduur van de 
+ICT-systemen varieert tussen 10 en 15 jaar.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 171

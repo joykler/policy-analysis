@@ -1,0 +1,32 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+15-03-12 2.0 nee Actualisatie voor fase III/IV.
+01-03-10 1.0 nee Projectplan is geactualiseerd in het eerste kwartaal 2010.
+17-12-07 0 nee Betreft businesscase (uitwerking verkenning)
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+22-11-13 Accountantsdienst Rijk SCB Audit Toets op de werking en uitvoering van de systeemgerichte contract beheersing (SCB) op het contract 
+met opdrachtnemer. O.a. gericht op de controle van rechtmatige betalingen. Bevinding: betalingen 
+hebben rechtmatig plaatsgevonden.
+01-12-12 Accountantsdienst Rijk SCB Audit Toets op de werking en uitvoering van de systeemgerichte contract beheersing (SCB) op het contract 
+met opdrachtnemer. O.a. gericht op de controle van rechtmatige betalingen. Bevinding: betalingen 
+hebben rechtmatig plaatsgevonden.
+05-09-10 RWS Dienst Infrastructuur projectoverdracht van DZL Een quick scan heeft plaatsgevonden naar aanleiding van een signaal uit de markt ten aanzien van 
+naar DP haalbaarheid van de planning en zorgen over de realiseerbaarheid van de scope. Het auditteam was 
+zeer onder de indruk van het project. Zij vonden het enthousiasme, de gedegen aanpak en de kennis, de 
+hoge mate van risicobewustzijn en proactieve risicobeheersing van het projectteam opvallend.
+04-12-09 Rijkswaterstaat RWS Dienst gateway review 4 Projectbeheersing en kwaliteit, uitvoering Fase III/IV. Daarnaast is er in 2008 een evaluatie op de 
+Infrastructuur business case uitgevoerd. De voortgang en beheersing van het project wordt bewaakt in de plannings- 
+en controlcyclus binnen Rijkswaterstaat.
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 21,31 € 59,43 € 31,67
+ingehuurd extern personeel € 0,00 € 4,73 € 2,64
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 2,11 € 1,89
+overige projectkosten € 1,83 € 5,89 € 5,81
+TOTALEN € 23,14 € 72,16 € 42,01
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 167

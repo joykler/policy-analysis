@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+28.  Invoeren BRON-HO
+1b. Projectomschrijving
+Het project Basisregister in het hoger onderwijs (BRON-HO) voorziet in invoering van het burgerservice of persoonsgebonden nummer in het hoger onderwijs en het gebruik van het Basisregister 
+Onderwijs (BRON), beheerd door de Dienst Uitvoering Onderwijs (DUO). De invoering van het persoonsgebonden nummer is een wettelijke verplichting voor onderwijsinstellingen. Het aan het 
+bestaande CRIHO gerelateerde proces van aanmelding- en inschrijving zal daartoe worden omgezet en gemoderniseerd. DUO beheert dit register. Instellingen, Studielink en leveranciers van 
+studenten-informatie-systemen zijn nauw betrokken bij deze ontwikkeling. Om deze invoering mogelijk te maken is het nodig om het bestaande proces van aanmelding- en inschrijving te 
+moderniseren. Onderwijsinstellingen, Studielink en leveranciers van studenten-informatiesystemen zijn nauw bij deze ontwikkeling betrokken. Het invoeringstraject omvat zowel de voorberei-
+ding (2008-2011), de systeem- en procesontwikkeling (2011-2013) als de aansluiting van de instellingen op de elektronische uitwisseling met BRON (2013-2014).
+Het project is per 3 oktober 2014 decharge verleend. Dit is geschied na afronding van het project: de beoogde systemen en functionaliteiten zijn gerealiseerd en overgedragen aan de beheers-
+organisatie die deze in productie heeft genomen. Tevens is de legacy (m.n. CRIHO) uitgefaseerd. In de dechargebrief is ingegaan op de ervaringen met dit ketenproject in termen van kwaliteit, 
+tijd en geld.
+1c. Maatschappelijke relevantie
+De overheid kan hiermee beter toezien op de rechtmatigheid van de bekostiging. Ook nemen de tijdigheid en actualiteit van studentgegevens toe. Daarnaast komt er betere beleidsinformatie 
+beschikbaar voor het ministerie, voor de onderwijsinstellingen en voor andere rechthebbenden. Met verdergaande digitalisering van het aanmeld- en inschrijfproces worden diverse keten-
+processen eenvoudiger.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+19-12-11 1.0 nee Projectinitiatiedocumentatie. Het project BRON-HO loopt al vanaf 2008. Na een uitgebreide verkennen-
+de fase is in het Masterplan BRON-HO de achterliggende doelstelling en visie opgenomen, en zijn onder 
+meer de scope en de organisatiestructuur bepaald. Het Masterplan BRON-HO voldoet niet aan alle door 
+het format voorgeschreven criteria. Niet alle criteria komen in dit Masterplan voor, maar zijn wel 
+uitgewerkt in andere plannen aansluitend aan het Masterplan, te weten PID en PSA. In het PID is gekozen 
+voor de SCRUM-methodiek en daarmee ook het kader waarbinnen gedurende het ontwikkeltraject 
+inhoudelijk en politiek-bestuurlijk noodzakelijk en wenselijk gebleken aanpassingen te kunnen door-
+voeren. Daarmee zijn sindsdien tussentijdse herijkingen cf de hier relevante definities niet aan de orde 
+gebleken.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 188

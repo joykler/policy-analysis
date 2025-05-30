@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De initieel geschatte kosten in de uitgewerkte business case zijn gebaseerd op het globaal ontwerp. 
+Bij de nadere uitwerking bleek dat de inrichting van SAP (ten behoeve van afdrachten derden) en het betalingsverkeersysteem ten behoeve van (financiële) bedrijfsvoering veel complexer was 
+dan gedacht en € 1,6 miljoen meer kostte dan in de business case fase werd geraamd.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-06-13 01-06-15 31-12-15
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+01-12-14 € 11,91 31-12-15 het project heeft achterstand opgelopen in de het project heeft achterstand opgelopen in de 
+geplande test- en implementatiewerkzaamheden geplande test- en implementatiewerkzaamheden 
+doordat de beoogde infrastructuur vertraagd is doordat de beoogde infrastructuur vertraagd is 
+opgeleverd. opgeleverd.
+Naar aanleiding van een risicoanalyse en op basis Naar aanleiding van een risicoanalyse en op basis 
+van gesprekken met de Europese Commissie en is van gesprekken met de Europese Commissie en is 
+in december 2014 besloten om voor fase 1 in december 2014 besloten om voor fase 1 
+overbruggingsmaatregelen en tijdelijke processen overbruggingsmaatregelen en tijdelijke processen 
+in te zetten. in te zetten.
+26-06-14 € 10,80 20-06-15 Aangezien het niet mogelijk bleek om de bestaan- Aangezien het niet mogelijk bleek om de bestaan-
+de inningsapplicatie uit te breiden is het noodzake- de inningsapplicatie uit te breiden is het noodzake-
+lijk gebleken een nieuwe ICT-service hiervoor te lijk gebleken een nieuwe ICT-service hiervoor te 
+realiseren. realiseren.
+7a. Geschatte levensduur na oplevering
+Langlopend: meer dan 10 jaar
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 156

@@ -1,0 +1,22 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+9.  Defensiebrede vervanging C2000 randapparatuur
+1b. Projectomschrijving
+Voorzien in de Defensiebrede vervanging van ca. 3700 randapparaten C2000 te verdelen in de jaargangen 2010 en 2013:
+- De vervanging van de Landelijke Aanbesteding Randapparatuur (in 2010 gestart en gerealiseerd).
+- De vervanging van de Geavanceerde Aanbesteding Randapparatuur (is in 2013 besteld en is begin 2014 geleverd).
+Het landelijk communicatienetwerk C2000 is opgezet voor alle Openbare Orde en Veiligheid (OOV) (hulp)diensten in Nederland. Hiervan wordt gebruikgemaakt door de veiligheidsregio’s van het 
+Korps Landelijke Politiediensten (KLPD), door Defensie (KMar, Defensie Bewakings- en Beveiligingsorganisatie (DBBO), Militaire Inlichtingen en Veiligheidsdienst (MIVD), Kustwacht, 
+Intensivering Civiel-Militaire Samenwerking (ICMS)) de ambulancediensten, brandweer, en diverse bijzondere gebruikers (Douane en Algemene Inlichtingen- en Veiligheidsdienst (AIVD)).
+Het Landelijke Aanbesteding Randapparatuur contract conform het projectplan is niet gewijzigd. In dit contract zijn tevens opgenomen de garantiezaken gedurende de levensduur van de 
+randapparatuur. Jaarlijkse kosten voor beheer en onderhoud 0,18 miljoen (kosten zijn voorzien in het projectbudget).
+1c. Maatschappelijke relevantie
+Baten: met C2000 is één landelijk dekkend netwerk gerealiseerd, waarbij communicatie binnen een gesloten beveiligd netwerk binnen het domein van OOV mogelijk is, hetgeen bijdraagt aan de 
+veiligheid van Nederland, in het bijzonder bij calamiteiten.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+01-07-10 6.0 (eerste vastgestelde) nee Het Projectplan is volgens het format DMP-A opgesteld.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 113

@@ -1,0 +1,19 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+12.  SWD Olympus
+1b. Projectomschrijving
+In Nederland beschikt de krijgsmacht over een groot aantal hoog gerubriceerde netwerken die functioneren op een uitgebreide netwerk infrastructuur. Dit grote aantal netwerken resulteert 
+steeds meer in een grotere beheerlast en beveiligingsrisico’s. Om met name de beveiliging te vergroten en de beheersinspanning te verkleinen wordt het project Secure Werkplek Defensie (SWD) 
+uitgevoerd. Met dit project wordt het aantal netwerken teruggebracht en worden de functionele toepassingen op dezelfde wijze gebruikt in zowel de statische omgeving in Nederland als in de 
+inzetgebieden door de operationele gebruikers.
+1c. Maatschappelijke relevantie
+Het enerzijds zekerstellen dat hoog gerubriceerde informatie niet in onbevoegde handen komt door de vergroting van de beveiliging; anderzijds het doelmatiger beheren van de hoog gerubri-
+ceerde netwerken waardoor de exploitatielasten beheersbaar blijven.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+03-03-14 Project Initiatie Document ja
+versie 1
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 122

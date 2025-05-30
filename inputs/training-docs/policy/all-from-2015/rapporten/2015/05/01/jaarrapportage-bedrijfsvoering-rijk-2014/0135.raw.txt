@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-10-08 31-12-11 01-09-15
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+AGS wordt incrementeel opgeleverd. Door verschillende oorzaken, waaronder onvoldoende kwaliteit van het op te leveren product, onbeschikbaarheid van een testomgeving en problemen in 
+de performance is er vertraging opgetreden in de oplevering van het 2e increment. Dit leidt tot vertraging in het gehele traject. In mei is een request for change opgesteld waarin de planning 
+aangepast is naar september 2015.
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+27-11-12 € 46,80 01-05-14 Op basis van een aanvullende business case voor Op basis van een aanvullende business case voor 
+de onderdelen Koeriers, Meldingen, GPA, Vervoer de onderdelen Koeriers, Meldingen, GPA, Vervoer 
+en Reizigers is besloten Reizigers(bagage) en en Reizigers is besloten Reizigers(bagage) en 
+Vervoer buiten scope te plaatsen. Vooralsnog heeft Vervoer buiten scope te plaatsen. Vooralsnog heeft 
+dit geen gevolgen voor kosten en doorlooptijd. dit geen gevolgen voor kosten en doorlooptijd.
+23-01-12 € 46,80 01-05-14 Een nadere overeenkomst met de externe Een nadere overeenkomst met de externe 
+leverancier als gevolg van een update van het leverancier als gevolg van een update van het 
+scenario-onderzoek en onvoorziene changes scenario-onderzoek en onvoorziene changes 
+leidden tot meerwerk voor de leverancier. leidden tot meerwerk voor de leverancier. 
+Daarnaast zijn licentiekosten toegevoegd en heeft Daarnaast zijn licentiekosten toegevoegd en heeft 
+een verschuiving plaatsgevonden van kosten voor een verschuiving plaatsgevonden van kosten voor 
+ingehuurd personeel naar eigen personeel. Op ingehuurd personeel naar eigen personeel. Op 
+basis van de gewijzigde verwachting is de business basis van de gewijzigde verwachting is de business 
+case van AGS geactualiseerd. case van AGS geactualiseerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 135

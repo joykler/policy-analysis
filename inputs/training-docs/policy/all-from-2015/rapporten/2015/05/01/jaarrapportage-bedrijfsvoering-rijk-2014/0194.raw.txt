@@ -1,0 +1,34 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+26-03-11 1.1 ja Programmaplan
+22-09-10 1.0 ja Vooronderzoek
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+12-12-14 ADR Review Onderzoek delta PVS business case Tranche 5 dec. 2014
+08-12-14 Verdonck, Klosters & Review Audit gegevensmagazijn - OOR dec. 2014 - DUO-intern
+associates BV
+27-11-14 ADR Review Rapport programma planning Tranche 3 en 4 nov. 2014
+16-09-14 ADR Review Onderzoek besturing PVS sep. 2014 - DUO-intern
+02-09-14 KPMG Review PVS Requirementmanagement sep. 2014
+27-06-14 Bureau Gateway BZK Gateway review Gateway T3-4 juni 2014
+20-06-14 ADR Review PVS Requirementsmanagement DUO-intern
+20-03-14 Argitek Review SOA Beheer & PVS bij DUO mrt 2014
+27-01-14 KPMG Review Vervolg op nulmeting jan. 2014
+10-12-13 Software Improvement onderzoek Software Risk Assessment: onderzoek naar de technische onderhoudbaarheid, toekomstvastheid en 
+Group voortgang m.b.t. de in PVS ontwikkelde source code.
+23-09-13 ADR Review Business Case versie 0.7 aug 2013
+20-09-13 KPMG Review Business Case versie 0.7 aug 2013
+19-09-13 Software Improvement Review Architectuuronderzoek
+Group
+13-09-13 Bureau Gateway BZK Gateway review 2 Programmaplan, scope, governance, risico’s, business case
+15-05-13 KPMG Review Business Case versie 0.2 april 2013
+26-03-13 KPMG Review Aanpak en werkwijze rond bedrijfsregels
+03-12-12 KPMG Review Review concept business case v1.99 i.h.k.v. herijking business case voorjaar 2013
+03-12-12 KPMG Review Source code review: onderzoek naar staat en kwaliteit van in PVS geproduceerde source code.
+16-10-12 Chris Verhoef Onderzoek Onderzoek naar staat van het oude WSF-systeem in het kader van de business case van PVS.
+18-07-12 Bureau Gateway BZK Gateway review 0 Programmaplan, scope, governance, risico’s, business case.
+13-07-12 Rijsenbrij Digitecture B.V. Review Review van Globaal Ontwerp v0.95 van PVS.
+09-06-12 KPMG Onderzoek Nulmeting stand van het programma i.h.k.v. doorlopende quality assurance KPMG, juni 2012
+20-05-11 Bureau Gateway BZK Gateway review 0 Programmaplan, scope, governance, risico’s, business case.
+01-12-10 Bureau Gateway BZK Gateway review 0 Visiedocument en eerste resultaten vooronderzoek
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 194

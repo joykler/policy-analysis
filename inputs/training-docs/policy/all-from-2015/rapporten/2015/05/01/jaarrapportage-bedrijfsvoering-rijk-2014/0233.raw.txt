@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 7,72 € 0,00 € 0,00
+ingehuurd extern personeel € 1,30 € 0,00 € 1,33
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,88
+overige projectkosten € 0,00 € 2,46 € 0,15
+TOTALEN € 9,02 € 2,46 € 2,36
+4b. Verwachte kosten voor beheer en onderhoud
+De kosten voor monitoringsoftware inclusief het technisch beheer bedragen € 640.000 per jaar.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Conform de systematiek van het baten-lastenstelsel
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Het verschil tussen de initiële schatting en de actuele schatting wordt vrijwel volledig veroorzaakt door lagere kosten voor aan te schaffen hard- en software dan oorspronkelijk ingeschat. Dit 
+werd veroorzaakt door het verwerpen van het wetsvoorstel Elektronische Detentie door de Eerste Kamer op 30 september 2014. De kosten voor de hard- en software van de voortzetting van het 
+project onder de naam Elektronische Monitoring met een beperkte scope zijn aanzienlijk lager dan de intiële schatting.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+15-05-13 01-09-14 31-03-15
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 233

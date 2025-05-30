@@ -1,0 +1,21 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+43.  Basis Voorziening Justitiabelen (BVJ)
+1b. Projectomschrijving
+Een nieuw informatiesysteem over justitiabelen dat ondersteuning biedt voor gevangeniswezen en vreemdelingenbewaring.
+1c. Maatschappelijke relevantie
+Binnen de inrichtingen van Gevangeniswezen (GW) en Dienst Bijzondere Voorzieningen (DBV, vreemdelingenbewaring) worden softwareapplicaties gebruikt die de werkzaamheden van de 
+medewerkers ondersteunen. Veel van deze softwareapplicaties zijn verouderd en voldoen veelal niet meer aan de eisen en verwachtingen van dit moment. Het is bijvoorbeeld lastig om de 
+applicaties aan te passen op gewijzigde wetgeving of om koppelingen te maken met applicaties van ketenpartners, zoals het Openbaar Ministerie, de Raad voor de Kinderbescherming en de 
+Reclassering.
+Het project Basisvoorziening Justitiabelen (BVJ) zal zorgdragen voor vervanging van de bestaande applicaties TULP GW en TULP Selectie. Voor de aanschaf van de BVJ wordt een openbare 
+aanbesteding gestart, met als doel om de beste oplossing te selecteren.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+31-03-14 1.2 ja Project Initiatie Document (PID) vervolg
+03-09-13 0.4 ja Project Initiatie document (PID)
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+16-02-15 ICT Nederland Haalbaarheidstoets Haalbaarheid van de projectdoelstellingen
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 246

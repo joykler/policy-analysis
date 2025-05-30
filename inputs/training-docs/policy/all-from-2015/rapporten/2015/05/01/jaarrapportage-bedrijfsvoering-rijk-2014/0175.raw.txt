@@ -1,0 +1,25 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+12-02-14 SAY Stakeholderanalyse PIM
+01-11-13 VKA Expert advies Impactanalyse op de opties voor architectuur van Inspectieview Milieu
+30-09-13 SQS Nederland Audit SQS Nederland heeft de broncode van de voorzieningen Inspectieview Milieu, Bulk en de 
+Aansluitvoorzieningen getoetst conform de richtlijnen beschreven in SIG/TaVit Evaluation Criteria for 
+Trusted Product Maintainability
+01-09-12 SAY Stakeholderanalyse PIM
+27-01-12 Bureau Gateway Gateway Review Doelstellingen programma reviewen en omgeving waarin PIM opereert.
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,30 € 0,57 € 0,57
+intern personeel € 0,50 € 0,00 € 0,00
+uitbesteed werk € 9,10 € 7,71 € 7,71
+overige projectkosten € 0,25 € 0,30 € 0,30
+TOTALEN € 10,15 € 8,58 € 8,58
+4b. Verwachte kosten voor beheer en onderhoud
+De kosten voor onder meer juridisch, functioneel en technisch beheer liggen bij de aansluitende partijen en de eigenaar. Omdat na afloop van het programma nog niet alle toezichthouders zijn 
+aangesloten, is ook nog aansluitondersteuning nodig vanuit de beheerorganisatie. De totale gezamelijke kosten voor alle aangesloten partijen en gebruikers is in aanvang van het programma 
+voorlopig geschat op € 1,6 miljoen euro per jaar.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 175

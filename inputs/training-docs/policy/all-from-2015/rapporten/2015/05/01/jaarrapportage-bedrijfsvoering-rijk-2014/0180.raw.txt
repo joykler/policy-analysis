@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 6,80 € 7,40 € 7,20
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 11,00 € 9,90 € 9,60
+overige projectkosten € 7,33 € 5,50 € 5,40
+TOTALEN € 25,13 € 22,80 € 22,20
+4b. Verwachte kosten voor beheer en onderhoud
+€ 142.500 per jaar.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+De Projectbegroting bevat:
+* De zgn. ‘immateriële kosten’, zoals bijvoorbeeld reis/advies;
+* De financiële investeringswaarde (Activa in Aanbouw).
+De waarde van interne manpower en generieke inhuur maken geen deel uit van de projectbegroting.Ook de toerekening van voorfinancieringsrente is daarin niet opgenomen.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+10-05-10 31-12-14 30-06-15
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Enige vertraging opgelopen door afgekeurde systeemtesten (kwaliteit onvoldoende) en herbezinning technische transitierisico’s.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 180

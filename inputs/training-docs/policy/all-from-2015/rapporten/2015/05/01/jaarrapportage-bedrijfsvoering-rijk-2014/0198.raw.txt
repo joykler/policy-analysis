@@ -1,0 +1,31 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+30.  Digitale Taken Rijksarchieven (DTR)
+1b. Projectomschrijving
+Doel van het programma is om bij het Nationaal Archief (NA) een stevige basis te leggen voor het borgen van ons cultureel erfgoed en de democratische rechtsstaat in het digitale tijdperk. Het 
+programma treft voorzieningen die nodig zijn om de kerntaak van het Nationaal Archief en de Regionale Historische Centra (RHC’s) die rijksarchief beheren, ook in het digitale tijdperk uit te 
+kunnen voeren. Het Nationaal Archief en de RHC’s zorgen samen voor de uitvoering.
+DTR is gericht op de Rijksoverheid. Daarnaast kunnen ook andere overheden en instellingen op termijn gebruikmaken van de voorzieningen die getroffen worden en van de kennis en expertise 
+die binnen het programma wordt opgedaan.
+Het programma moet ervoor zorgen dat op 1 januari 2016:
+- de gemeenschappelijk e infrastructuur van het Nationaal Archief en de RHC’s in staat is om digitaal en gedigitaliseerd rijksarchief in te nemen, te beheren en te ontsluiten. Hiervoor wordt een 
+basis-digitale (rijks)infrastructuur ontwikkeld voor achivering van overgebrachte (gedigitaliseerde) archieven
+- een serviceorganisatie bij het Nationaal Archief is ingericht voor de RHC’s. De RHC’s zijn het eerste aanspreekpunt voor gebruikers in de regio van het digitale depot (het zogeheten eDepot)
+- duidelijkheid is over de duurzaamheidseisen en richtlijnen voor informatiebheer voor de Rijksoverheid in de vorm van een normenkader
+- een eerste deel van gedigitaliseerde rijksarchieven via een open toegang voor publiek vindbaar, toegankelijk en herbruikbaar is
+Meer informatie: http://www.archief2020.nl/over-dtr
+1c. Maatschappelijke relevantie
+Het NA dient ieders recht op informatie en geeft inzicht in het verleden. Deze taak moet ook in de digitale toekomst op een goede manier vormgegeven kunnen worden. De ontwikkelingen op 
+het gebied van digitalisering raken de processen van het NA en de RHC’s in het hart. Steeds meer documenten zullen digitaal bewaard en ontsloten worden. Om de basistaak nu en in de 
+toekomst op een goede manier te kunnen blijven vervullen zijn investeringen nodig in de digitale infrastructuur en de dienstverlening aan burgers.
+Het e-Depot van het Nationaal Archief maakt een belangrijk deel uit van de eerder genoemde gemeenschappelijke infrastructuur van het NA en de RHC’s.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+01-07-14 Projectplan DTR-WP2 NA nee Programmaplan voor het werkpakket Servicorganisatie (WP-2)
+Serviceorganisatie
+24-04-14 Plan van Aanpak DTR4: nee Programmaplan voor het werkpakket Normenkader (WP-4)
+Normenkader duurzaam 
+toegankelijke 
+overheidsinformatie
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 198

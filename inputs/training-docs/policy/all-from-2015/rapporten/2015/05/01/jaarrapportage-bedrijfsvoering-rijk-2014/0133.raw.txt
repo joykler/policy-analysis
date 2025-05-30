@@ -1,0 +1,31 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+15.  Vervanging Aangiftesystemen (AGS)
+1b. Projectomschrijving
+De Douane wil haar huidige aangiftesystemen vervangen door een moderne applicatie ter ondersteuning van de nieuwe aangifteprocessen. Argumenten hiervoor zijn met name de verouderde 
+functionele en technologische toestand van de huidige systemen en de nieuwe Europese Douane-wetgeving (Union Customs Code). Deze vervanging resulteert in minder complexe systemen, 
+passend in de architectuurvisie van de Douane.
+In 2008 is ervoor gekozen om via een Europees aanbestedingstraject een aangifteoplossing aan te schaffen, de applicatie DMS (Declaration Management System). Om dit in te voeren binnen de 
+Belastingdienst is het project Vervanging Aangiftesystemen AGS gestart. Dit project is over 2011 voor het eerst gerapporteerd. Hiervoor was het onderdeel van het programma e-Customs 
+(waarover ook een rapportage werd opgeleverd).
+De opdracht van het project AGS is de volgende: Realiseer de volgende heringerichte (aangifte)processen ondersteund door het verworven aangiftesysteem DMS (Declaration Management 
+System): Invoer; Uitvoer; Opslag; Meldingen/kennisgevingen/koeriers; Postzendingen; Reizigersbagage; Aanvullende aangiften. Draagt daarbij zorg voor werkende processen die volledig 
+voldoen aan de kaders van (Europese en landelijke) wetgeving, het bestek en de Bedrijfsonderdeel Architectuur Douane.
+1c. Maatschappelijke relevantie
+De Douane is de handhavingsdienst die de veiligheid, de integriteit en de fiscaliteit van het buitengrensoverschrijdend goederenvervoer controleert en bevordert en zorg draagt voor heffing en 
+inning van de binnenlandse accijnzen en verbruiksbelastingen. De Douane heeft een Bewijs van Goede Dienst ingezet om de dienstverlening aan ondernemers zichtbaar te verbeteren. Hierin zijn 
+onder meer normen opgenomen die betrekking hebben op de snelheid van de douaneafhandeling en op minimale administratieve lasten voor de ondernemer. Het project AGS geeft hier 
+invulling aan door een verdergaande digitalisering van het aangifteproces. Daarnaast beoogt het project zorg te dragen voor de continuïteit van de geautomatiseerde afhandeling van de 
+aangifteprocessen door te voorzien in een toekomstvaste oplossing hiervoor. Hiermee draagt het project AGS bij aan de volgende doelstelling uit het regeerakkoord: Belemmeringen voor het 
+goederenvervoer weg te nemen door het bevorderen van snelle en goede douaneafhandeling.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+16-12-14 Plan van aanpak AGS 3.0 ja Het plan van aanpak AGS is 1 van 7 juridische bijlagen van het contract met de externe leverancier.
+27-11-12 Outline Business Case ja -
+AGS4
+27-03-12 Plan van Aanpak AGS 2.0 nee Het plan van aanpak AGS is 1 van 7 juridische bijlagen van het contract met de externe leverancier.
+23-01-12 Business Case AGS v1.1 ja
+30-04-11 Update scenario-onder- ja -
+zoek AGS_v1.0
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 133

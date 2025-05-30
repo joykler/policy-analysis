@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+De digitale infrastructuur wordt gebouwd voor blijvend te bewaren archief. Het systeem wordt dan ook nu gebouwd met het doel in stand te worden gehouden. In de business case zijn kosten 
+opgenomen voor beheer, onderhoud en vervanging van onderdelen van het systeem. Daarbij geldt dat software een afschrijving kent van 3 jaar, hardware (servers en opslagcapaciteit) een 
+afschrijving van 5 jaar en andere hardware een langere afschrijvingstermijn kennen. 
+Kosten ICT-infrstructuur
+2015: € 5.053.819 
+2016: € 5.413.819
+2017: € 5.773.819
+2018: € 6.133.819
+2019: € 6.133.819
+2020: € 6.133.819
+2021: € 6.133.819
+2022: € 6.133.819
+Bron: Fin doorlichting. Gevalideerd door HEC.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Alle projecten ten laste van 2e of 3e geldstromen binnen het NA worden in de boekhouding op baten en kosten onderscheiden naar grootboekrekeningen en projectcode. Personele kosten en 
+overhead worden doorbelast op basis van op betreffende projecten geregistreerde uren. Alle materiële uitgaven worden doorbelast op projectbudget. Investeringen worden geactiveerd en voor 
+afschrijvingen wordt een investeringsfonds opgenomen op de balans ten laste van voor project ontvangen baten. De business case is gevalideerd door PBLQ HEC d.d. 1 februari 2013.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Het Masterplan (business case - programmaplan) is d.d. 22-11-2013 getekend door de opdrachtgever. Formeel is dit daarmee de startdatum van het programma. In 2013 lag het accent echter op 
+het treffen van voorbereidingen. De feitelijke start van het programma was 1-1-2014. De kostenraming was oorsponkelijk begroot op € 31 mln. Het in 2013 beschikbare en toegekende bedrag was 
+€ 28 mln. Dit is het bedrag dat opgenomen is in het Masterplan. In 2014 was wel het volldedige bedrag beschikbaar en is de resterende € 3,3 mln. toegekend bij Voorjaarsnota.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-14 31-12-15 31-12-15
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 200

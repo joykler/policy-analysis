@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+14.  Programma Blik op NVWA 2017
+1b. Projectomschrijving
+De Nederlandse Voedsel- en Warenautoriteit (NVWA) staat onder druk. De opeenstapeling van verschillende taakstellingen, de fusietrajecten van de afgelopen jaren en diverse incidenten en 
+crises hebben zichtbaar gemaakt dat het toezicht van de NVWA verbetering en versterking behoeft. Momenteel is er geen sprake van een eenduidige werkwijze, dit komt mede doordat de fusie 
+op procesgebied nog niet is afgerond (dit blijkt uit diverse, o.a. de rapporten Hoekstra (2008), Vanthemsche I (2008), Vanthemsche II (2011) en Rapport Onderzoeksraad over risico’s vleesketen 
+(2014)). Er bestaan hoge maatschappelijke verwachtingen ten aanzien van het werk van de NVWA. Het toezicht van de NVWA is van groot belang voor het borgen van de publieke belangen, zoals 
+de voedselveiligheid, de volksgezondheid en de handelspositie van Nederland. Voor dit toezicht is een adequate informatiepositie cruciaal: zorgen dat de stroom van informatie op het goede 
+moment op de juiste plek terecht komt. Eind december 2013 is het Verbeterplan NVWA behandeld in de Tweede Kamer. Doel van het Verbeterplan is het toezicht NVWA te versterken en te 
+verbeteren en de fusie af te ronden. ‘Procesvernieuwing, Informatie en ICT’ is een van de verbeterlijnen in het Verbeterplan van de NVWA. Dit programma heeft de naam ‘Blik op NVWA 2017’ 
+gekregen.
+1c. Maatschappelijke relevantie
+De NVWA bewaakt de gezondheid van dieren en planten, het dierenwelzijn en de veiligheid van voedsel- en consumentenproducten. Als toezichthouder en handhaver moet zij maximaal gebruik 
+kunnen maken van de beschikbare informatie. De informatiepositie en de -voorziening van de NVWA wordt op adequaat niveau gebracht voor alle bedrijfsprocessen. Om dit te bereiken wordt/
+worden:
+- de informatiepositie versterkt door het werken met informatie een prominenteplaats te geven in alle bedrijfsprocessen van de NVWA;
+- de geüniformeerde en vernieuwde producten en processen NVWA breed geïmplementeerd;
+-  niet alleen bedrijfsprocessen gerelateerd aan toezicht bezien, maar alle bedrijfsprocessen, inclusief de processen gerelateerd aan o.a. business intelligence of certificering, klantinteractie, etc. 
+vormen onderwerp van dit programma;
+- geïnvesteerd in moderne en passende informatiesystemen en hulpmiddelen;
+- het huidige applicatielandschap gesaneerd;
+- voorzien in opleiding van medewerkers in het gebruik van de nieuwe systemen en hulpmiddelen.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+23-02-15 1.0 ja Plan plateau 2 - Realiseren
+10-07-14 1.0 ja Plan plateau 1 - Bepalen
+10-07-14 1.0 ja Programmaplan Blik op NVWA 2017 - Verbeterlijn Procesvernieuwing, informatie en ICT
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 129

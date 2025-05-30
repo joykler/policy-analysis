@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum
+27-09-13 € 107,30 31-12-15
+Toelichting kosten Toelichting doorlooptijd
+PVS is op 27 september 2013 voor het eerst herijkt. De reden hiervoor is dat het PVS is op 27 september 2013 voor het eerst herijkt. De reden hiervoor is dat het programma inmiddels 
+programma inmiddels voldoende inzicht in de complexe veranderopgave heeft kunnen voldoende inzicht in de complexe veranderopgave heeft kunnen verkrijgen, om een volledige backlog 
+verkrijgen, om een volledige backlog voor op te kunnen stellen en hiermee tevens een voor op te kunnen stellen en hiermee tevens een goed onderbouwde integrale planning. De herijking 
+goed onderbouwde integrale planning. De herijking was in 2012 reeds voorzien en in de was in 2012 reeds voorzien en in de rapportage voor dit kalenderjaar aangekondigd. Initiële budget en 
+rapportage voor dit kalenderjaar aangekondigd. Initiële budget en doorlooptijd waren doorlooptijd waren gebaseerd op grovere top-down inschattingen en daarnaast ging men uit van een 
+gebaseerd op grovere top-down inschattingen en daarnaast ging men uit van een implementatie ineens (‘Big Bang’). Deze herijking is gebaseerd op bottom-up calculaties en PVS kent nu 
+implementatie ineens (‘Big Bang’). Deze herijking is gebaseerd op bottom-up calcula- een stapsgewijze implementatiestrategie. OCW is bij vaststelling van de herijking onder andere 
+ties en PVS kent nu een stapsgewijze implementatiestrategie. OCW is bij vaststelling bijgestaan door de ADR en KPMG en heeft, op basis van de positieve business case, de herijking 
+van de herijking onder andere bijgestaan door de ADR en KPMG en heeft, op basis van geaccepteerd. De herijking viel samen met de start van Tranche 3 van PVS. In totaal zijn er 6 tranches 
+de positieve business case, de herijking geaccepteerd. De herijking viel samen met de voorzien.
+start van Tranche 3 van PVS. In totaal zijn er 6 tranches voorzien.
+7a. Geschatte levensduur na oplevering
+20 jaar na oplevering
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Conform actuele business case
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+Wijziging contractvorm
+PVS wordt uitgevoerd door DUO, een agentschap van het Ministerie van OCW. DUO is opdrachtnemer en het bestuursdepartement opdrachtgever. Derhalve is er geen sprake van onderlinge 
+contractvormen.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 197

@@ -1,0 +1,20 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-11-13 31-12-16 31-12-16
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+7a. Geschatte levensduur na oplevering
+Technische levensduur 5 jaar
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+De gebruikelijke afschrijvingstermijn voor hardware bij baten-lastendienst en in overeenstemming met de richtlijnen van V&J
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+14-11-13 TK 29279 nr. 177 Rechtstaat en rechtsorde https://zoek.officielebekendmakingen.nl/kst-29279-177.html
+(voortgang VPS)
+Wijziging contractvorm
+Niet van toepassing
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 231

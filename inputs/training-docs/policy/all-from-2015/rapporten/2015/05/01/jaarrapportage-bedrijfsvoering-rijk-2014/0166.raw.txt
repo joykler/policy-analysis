@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+23.  Modernisering Objectbediening Zeeland (MOBZ)
+1b. Projectomschrijving
+Het doel van project Modernisering Object Bediening Zeeland (MOBZ) is centrale 24 uurs bediening van sluizen en bruggen in beheer bij Rijkswaterstaat Zeeland vanuit de nautische centrales in 
+het Ir J.W. Tops-huis en Verkeerscentrale Terneuzen.
+De afgelopen jaren is onderzoek gedaan naar een meer efficiënte manier van bedienen en bemensen van bruggen en sluizen in beheer bij Rijkswaterstaat Zeeland. Op basis van het onderzoek 
+heeft Rijkswaterstaat het project Modernisering Object Bediening Zeeland gestart. Zo wordt concreet invulling gegeven aan de aanbevelingen en voorstellen uit verschillende 
+onderzoeksrapporten.
+De verbinding tussen de objecten en de verkeerscentrales wordt gerealiseerd door middel van een glasvezelnetwerk van Rijkswaterstaat. De aanleg ervan maakt echter geen onderdeel uit van de 
+projectopdracht. In hoofdlijnen is de scope van project MOBZ als volgt:
+- Reorganisatie van de bedieningsorganisatie (verandertraject);
+-  Technisch aanpassen voor bediening op afstand en noodzakelijk groot onderhoud van de Rijkssluizen en -bruggen in Zeeland. Daarnaast het verbouwen en inrichten (groot ICT component) van 
+nautische centrales. In de ICT rapportage worden de kosten opgenomen exclusief het groot onderhoud. Dus inclusief verbouwing en inrichting van de nautische centrales, dit zijn bestaande 
+gebouwen.
+Het project wordt uitgevoerd in fases. MOBZ Fase I/II is inmiddels afgerond en betrof de pilot voor afstandsbediening die is uitgevoerd op 4 recreatiesluizen. Deze pilot liep in de periode 
+2005-2009. Deze 4 sluizen worden sinds 2009 op afstand bediend vanuit een centrale in het Topshuis bij de Oosterscheldekering. In MOBZ Fase III/IV worden de grote sluizen en bruggen op 
+afstand bedienbaar gemaakt en wordt ook variabel onderhoud op deze objecten uitgevoerd. Binnen MOBZ is een groot deel van de kaders die nodig zijn om tot uniforme processen en systemen 
+te komen ontwikkeld. Deze kaders worden nu ook in andere projecten van Rijkswaterstaat toegepast.
+Het gehele project betreft naast ICT ook ‘reguliere’ onderhouds- en renovatie-activiteiten. Het ICT-deel van het project is aanzienlijk, maar kleiner dan de overige delen. In het ICT dashboard 
+worden alleen de ICT kosten gerapporteerd.
+1c. Maatschappelijke relevantie
+Het project Modernisering Object Bediening Zeeland maakt onderdeel uit van de vaarwegcorridor-aanpak die Rijkswaterstaat voorstaat. De doelstelling is efficiëntere bediening, begeleiding, 
+toezicht, handhaving en regelgeving voor het vaarwegennet. Uniformering van processen en bediening moet leiden tot efficiëntie en betere doorstroming van het verkeer.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 166

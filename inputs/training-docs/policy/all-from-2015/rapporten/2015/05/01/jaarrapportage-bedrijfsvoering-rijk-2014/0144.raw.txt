@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+25-01-13 Auditdienst Rijk Audit De beheersing van het volledig, juist en tijdig aanpassen van de processen, applicaties, brieven en 
+formulieren binnen de Belastingdienst aan de eisen van SEPA. Onderzoek met name gericht op de 
+waarborgen ten aanzien van de aspecten Risicobeheersing en Issuemanagement, Financiën en Testen.
+14-12-11 Rijksauditdienst Audit 1:  De projectorganisatie ten behoeve van het project SEPA.
+2:  De totstandkoming van producten in zijn algemeen en het Generieke Globaal Ontwerp SEPA in het 
+bijzonder.
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,18 € 4,28 € 4,28
+intern personeel € 20,25 € 12,69 € 12,69
+uitbesteed werk € 0,00 € 1,29 € 1,29
+overige projectkosten € 0,40 € 0,04 € 0,04
+TOTALEN € 20,83 € 18,30 € 18,30
+4b. Verwachte kosten voor beheer en onderhoud
+Specifieke beheer- en onderhoudskosten voor dit project zijn niet voorzien. Er is één zeer oud systeem vervangen en tientallen bestaande systemen aangepast. De jaarlijkse beheer- en onder -
+houdskosten zijn in de situatie voor en na de migratie naar SEPA identiek.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Voor ontwerp- en ontwikkelwerkzaamheden kent de Belastingdienst twee concernbrede tariefsoorten die beide een mixtarief zijn van intern en extern personeel. Als benadering voor de 
+verdeling tussen intern en extern personeel is het onderscheid tussen ontwerp- en ontwikkelwerk gehanteerd.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 144

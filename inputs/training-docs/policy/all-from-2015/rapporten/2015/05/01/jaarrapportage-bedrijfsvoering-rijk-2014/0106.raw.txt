@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+7.  PALS
+1b. Projectomschrijving
+Het project PALS behelst de koppelingen van de legacysystemen naar het nieuwe SAP systeem, inclusief de daarvoor benodigde aanpassingen van de legacy. Het gaat om permanente koppelin-
+gen met de systemen die niet en om tijdelijke koppelingen met de legacysystemen die uiteindelijk wel worden vervangen door SAP.
+1c. Maatschappelijke relevantie
+Het project PALS draagt bij aan het realiseren van de doelstellingen van het programma SPEER.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+05-07-05 1.0.0 (Definitief) nee Aan projectplannen van vóór 12 december 2008 worden geen specifieke eisen gesteld
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 36,00 € 31,60 € 27,35
+TOTALEN € 36,00 € 31,60 € 27,35
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 106

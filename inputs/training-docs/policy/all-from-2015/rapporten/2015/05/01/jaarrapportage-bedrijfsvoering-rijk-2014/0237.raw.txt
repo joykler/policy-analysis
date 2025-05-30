@@ -1,0 +1,23 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+De kosten zullen naar verwachting vanaf 2014 gaan afnemen van rond de € 8 miljoen naar € 6,5 miljoen per jaar
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Spir-it is onderdeel van de rechtspraak van valt daarmee ook onder de afspraken en regels van de Raad. De Raad is een Baten en Lasten organisatie sui generies (Wet RO). De Raad rapporteert 
+obv BW2 titel 9. De kosten van het project bestaan uit interne en externe uren die direct worden toegerekend aan het project. De kosten voor onderhoud, licenties, hardware ed worden 
+toegerekend obv de afspraken zoals die in het handboek financiele bedrijfsvoering van de rechtspraak zijn opgenomen. Materiele vaste activa worden daarbij geactiveerd indien de stuksprijs 
+hoger ligt dan € 500.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De investeringsprognose is neerwaarts bijgesteld door meevallers in investeringen t.b.v. de inrichting van het datacentrum en licenties. Als gevolg hiervan nemen ook de onderhoudskosten af.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-08-11 31-12-14 01-03-15
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Het programma DCR zal op 1 maart 2015 worden afgerond. De migraties van de KA systemen worden daarna als separaat project uitgevoerd
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+24-10-13 € 22,40 31-12-14 RFC voor extra budget € 32.622 ten behoeve van RFC voor extra budget € 32.622 ten behoeve van 
+kwaliteitsaudit E&Y. kwaliteitsaudit E&Y.
+23-08-13 € 21,60 31-12-14 RFC om budget te verschuiven van 2013 naar 2014 RFC om budget te verschuiven van 2013 naar 2014
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 237

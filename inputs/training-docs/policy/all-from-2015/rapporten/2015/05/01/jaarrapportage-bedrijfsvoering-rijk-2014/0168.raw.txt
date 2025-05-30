@@ -1,0 +1,21 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+Nog niet bekend
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Onder hard- en software zijn de kosten van bediening op afstand kleine en grote objecten in Zeeland opgenomen, daarnaast ook de kosten van het glasvezelnetwerk. Vanwege de interne 
+sturingsmethodiek registreert Rijkswaterstaat niet de kosten van eigen personeel dat werkzaam is op de projecten: de ingezette capaciteit wordt wel bewaakt, maar er worden geen kosten 
+doorberekend. De overige projectkosten betreffen de investering in gebouwen en de nieuwe bediencentrales alsmede implementatiekosten. De implementatiekosten betreffen voornamelijk het 
+verandertraject, dat opgezet is voor de medewerkers waarvan de functie wijzigt van bedienaar naar operator (o.a. opleidingskosten).
+Voor MOBZ wordt zowel het kasverplichtingen- als het baten-lastenstelsel gehanteerd als systematiek van kostentoerekening aan projecten.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Geen wijziging op de kosten t.o.v. de laatste herijking.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+02-05-05 01-01-10 01-01-20
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Geen wijziging op de planning t.o.v. de laatste herijking. Behoudens de Kreekrkasluizen moet voor de andere objecten nog besluitvorming plaatsvinden. Voor de objecten Oostsluis en Westsluis 
+Terneuzen, Postbrug en Vlakebrug, loopt op dit moment de besluitvorming over de opdrachtverlening volgens de gewijzigde projectaanpak per object. De beoogde planning is dat deze objecten 
+vóór 1-1-2017 worden opgeleverd. Voor de objecten Hansweert, Krammer, Bruggen Sluiskil en Sas van Gent wordt de scope geactualiseerd en wordt een nieuwe aanpak overwogen.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 168

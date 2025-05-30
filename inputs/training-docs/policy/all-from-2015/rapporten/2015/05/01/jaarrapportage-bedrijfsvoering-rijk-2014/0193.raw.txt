@@ -1,0 +1,31 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+29.  Programma Vernieuwing Studiefinanciering (PVS)
+1b. Projectomschrijving
+Het Programma Vernieuwing Studiefinanciering heeft als doel de huidige systemen, processen en organisatieonderdelen van de Dienst Uitvoering Onderwijs (DUO) die betrokken zijn bij de 
+uitvoering van de Wet studiefinanciering 2000 integraal te moderniseren.
+1c. Maatschappelijke relevantie
+Het programma zal leiden tot een efficiëntere bediening van de klant door de introductie van een nieuw dienstverleningsconcept en een structureel goedkopere uitvoering van de studiefinancie-
+ring. Daarnaast maakt de vernieuwing het mogelijk om sneller en goedkoper beleidswijzigingen door te voeren en voorkomt het dat de uitvoeringskosten voor de uitvoering van de WSF 2000 
+verder zullen stijgen. In 2014 is hier nog bijgekomen dat PVS ook zal zorgen voor de implementatie van de Wet studievoorschot Hoger onderwijs, waarmee een omvangrijke stelselwijziging 
+wordt gerealiseerd.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+15-12-14 D1.0 ja Trancheplan Tranche 5
+15-12-14 D5.0 ja Programmaplan PVS
+05-12-14 D5.0 ja PVS Business Case
+29-05-14 D4.0 ja Programmaplan PVS
+26-05-14 D1.0 ja Trancheplan Tranche 4
+16-05-14 D4.0 ja PVS Business Case
+27-09-13 D3.0 ja PVS Business Case - bijgestelde versie n.a.v. tranche-overgang Tranche 2 naar Tranche 3 en de herijking 
+van het programma
+27-09-13 D3.0 ja Programmaplan - bijgestelde versie n.a.v. tranche-overgang Tranche 2 naar Tranche 3 en de herijking 
+van het programma
+27-09-13 D1.0 ja Trancheplan Tranche 3
+13-09-12 C0.98 ja Trancheplan Tranche 2
+13-09-12 C1.98 ja Programmaplan PVS - bijgestelde versie n.a.v. Tranche-overgang Tranche 1 naar Tranche 2
+21-03-12 1.99 ja Trancheplan Tranche 1 - v1.99 - bijgestelde versie
+22-09-11 1.0 ja Trancheplan Tranche 1
+20-09-11 C1.3 ja PVS Business Case versie C1.3
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 193

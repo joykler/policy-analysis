@@ -1,0 +1,20 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+32.  UWV: ICT Transitie WERKbedrijf
+1b. Projectomschrijving
+ICT Transitie WERKbedrijf heeft tot doel om de kernactiviteiten/dienstverlening, inclusief de ondersteunende werkprocessen, infrastructuur en organisatie van het UWV WERKbedrijf dusdanig  
+te veranderen dat de vereiste besparingen worden gerealiseerd binnen de daarvoor gestelde termijnen. Buiten de scope van de ICT Projecten vallen de reguliere activiteiten  
+(Organisatieinrichting & Mobiliteit, Interventieteams, Huisvesting en Communicatie) en de frictiekosten.
+1c. Maatschappelijke relevantie
+Het kabinet Rutte I heeft bezuinigingen afgesproken op de uitvoeringskosten van de sociale zekerheid. UWV WERKbedrijf kan deze bezuinigingen alleen realiseren door de dienstverlening aan 
+klanten daar waar mogelijk via het internet te laten plaatsvinden. Wij stellen werkzoekenden in staat om via het internet gebruik te maken van hun rechten en te voldoen aan hun plichten inzake 
+de sociale zekerheid.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+12-11-13 2.0 nee Programmaplan Redesign WERKbedrijf
+10-12-12 1.0 nee Programmaplan Redesign WERKbedrijf
+11-11-11 1.01 nee Programmaplan Redesign WERKbedrijf
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 207

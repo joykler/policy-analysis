@@ -1,0 +1,29 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+13.  AERIUS
+1b. Projectomschrijving
+Het Programma AERIUS-II ontwikkelt de ICT ondersteuning voor totstandkoming en inwerkingtreding van de programmatische aanpak stikstof (PAS) alsmede de vergunningverlening in het 
+kader van de Natuurbeschermingswet (Nb-wet) 1998 met een beroep op de PAS.
+1c. Maatschappelijke relevantie
+AERIUS II is een integraal onderdeel van de PAS. Het systeem berekent de uitstoot van stikstof en de depositie op natuurgebieden en zal door het bedrijfsleven en de overheid gebruikt worden 
+bij de vergunningverlening in het kader van de Natuurbeschermingswet van stikstofuitstotende activiteiten. Het LEI (Landbouw Economisch Instituut) heeft in 2012 de sociaaleconomische baten 
+van de PAS geanalyseerd en verwacht dat deze tenminste € 100 miljoen per jaar zijn gedurende de gehele looptijd van de PAS. De uitvoeringskosten Nb-wet vergunningverlening dalen naar 
+schatting met € 1 á 2 miljoen per jaar. Het goedkoopste alternatief voor AERIUS II is naar verwachting 2 á 3 maal zo duur als AERIUS II.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+14-02-14 1.0 ja Faseplan Aerius Register en Connect; Actualisatie projectplan in 2013
+01-06-13 1.0 ja Faseplan Aerius Register en Connect: Actualisatie projectplan in 2013
+01-02-13 1.0 ja Projectplan AERIUS II v1.0
+01-01-12 0.91 ja Concept voor pilotfase AERIUS
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+01-04-14 Gateway bureau Gateway review 4 Toets of het systeem gereed is voor implementatie
+01-11-13 HEC Algemene kwaliteits review voortgang en implementatie
+01-05-13 TNO Doelmatigheidstoets Calculator
+01-05-13 IPO-GBO GAT Calculator
+01-01-13 Gateway bureau Gateway review 2 Ontwikkeling AERIUS in relatie tot het bestuurlijk proces van de PAS
+01-11-12 Graham Bolton Code review Kwaliteit van code
+01-11-12 HEC Functie punten analyse Omvang van applicatie
+01-11-12 HEC Algemene kwaliteitsreview Ontwikkelproces
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 125

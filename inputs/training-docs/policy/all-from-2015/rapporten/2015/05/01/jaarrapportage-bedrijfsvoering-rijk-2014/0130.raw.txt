@@ -1,0 +1,33 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+01-04-15 SIG Review kernapplicaties 16 kernapplicaties NVWA (10-2014 t/m 4-2015)
+NVWA
+01-02-15 Audit Commitee NVWA Voortgang Programma Blik Verbeterplan NVWA (2-2015)
+op NVWA 2017
+01-02-15 Review Board NVWA Review Plateauplan 2 Plateauplan 2 (2-2014)
+01-01-15 KBenP Review leidraad/bestek Aanbesteding basisinformatievoorziening (12-2014 t/m 1-2015)
+aanbesteding
+01-01-15 VKA Expertmening concernar- Resultaat project geactualiseerde concernarchitectuur (geactualiseerde concernarchitectuur)  
+chitectuur NVWA (11-2014 t/m 1-2015)
+01-12-14 PBLQ-HEC Review Plateauplan 2 Plateauplan 2 (11-2014 t/m 12-2014)
+01-11-14 Audit Commitee NVWA Voortgang Programma Blik Verbeterplan NVWA (9-2014 t/m 11-2014)
+op NVWA 2017
+01-06-14 Review Board NVWA Review programmaplan & Review programmaplan & Plateauplan (5-2014)
+Plateauplan 1
+01-06-14 PBLQ-HEC Review programmaplan & Programmaplan & Plateau 1 (5-2014 t/m 6-2014)
+Plateauplan 1
+01-12-13 PwC Financiële toetsing Verbeterlijn Proces, Informatie & ICT van het Algehele Verbeterplan NVWA (10-2013 t/m 12- 2013)
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 21,00 € 21,00 € 0,00
+ingehuurd extern personeel € 8,70 € 8,70 € 1,80
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 6,30 € 6,30 € 0,00
+TOTALEN € 36,00 € 36,00 € 1,80
+4b. Verwachte kosten voor beheer en onderhoud
+De verwerving en inrichting van de nieuwe informatievoorziening moet nog plaatsvinden. De beheerfase is nog niet inzichtelijk.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 130

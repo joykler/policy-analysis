@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+27.  CONNECT
+1b. Projectomschrijving
+Via het digitaal platform CONNECT optimaliseert RWS het documentbeheer en de digitale samenwerking. Kern van het platform vormt het Document Management Systeem (DMS) dat voor RWS 
+operationeel is gemaakt met behulp van SharePoint 2013. In 2014 is de eerste release in gebruik genomen. In 2015 zal, via het operationaliseren van volgende releases, het niveau van BasisDMS 
+worden bereikt. In 2016 wordt CONNECT gebruikt door alle medewerkers van RWS en is het gebruik van de nu bestaande systemen voor documentbeheer stopgezet. Alle documenten zijn dan, 
+vanuit de bestaande systemen, opgeschoond en overgezet naar CONNECT.
+1c. Maatschappelijke relevantie
+De implementatie van CONNECT draagt - in algemene termen - bij aan een kleinere en efficiëntere overheid. Medewerkers van Rijkswaterstaat en relaties van Rijkswaterstaat kunnen (mits 
+geautoriseerd) eenvoudiger en sneller over de juiste informatie beschikken. Dit leidt tot tijdswinst.
+Vanwege de implementatie van CONNECT kan het gebruik van bestaande systemen worden gestopt. Dit leidt tot een besparing van beheerkosten.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+24-12-14 41997 nee BusinessCase CONNECT, Herziene BusinessCase, 24 december 2014.
+In de BusinessCase staat de implementatie van CONNECT centraal en is de scope van het project 
+aangepast aan de actualiteit.
+13-01-13 41287 nee Globaal Ontwerp CONNECT, Eerste BusinessCase, 13 januari 2013.
+Het Globaal Ontwerp is de uitwerking van de DIM-visie (DIM = Documentair InformatieManagement). 
+Deze visie is - in 2012 - vastgesteld door het bestuur van RWS.
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 185

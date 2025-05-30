@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+19-12-14 Boston Consulting Group Herijking Business Case De Businesscase KEI is gevalideerd in de periode november - december 2014 door The Boston 
+Consulting Group
+30-04-14 PA Consulting Programmareview Beoordeling van risico’s en programmaorganisatie en-sturing
+30-03-13 Boston Consulting Group Valideren van gegevens De Businesscase KEI is gevalideerd in de periode december 2012-maart 2013 (herijking en validatie vindt 
+2x per jaar plaats)
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,00 € 79,00 € 14,76
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 7,00 € 0,00 € 0,00
+TOTALEN € 7,00 € 79,00 € 14,76
+4b. Verwachte kosten voor beheer en onderhoud
+Toename van kosten voor beheer en onderhoud van € 6 mln. per jaar naar € 12 - € 13 miljoen per jaar als gevolg van verbreding scope met additionele IT-investeringen Straf, Toezicht en Centrale 
+IT-randvoorwaarden (o.a. digitale zittingzalen).
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Sinds 2005 werkt de rechtspraak in een Baten en Lastenstelsel. Activa met een aanschafprijs van minimaal € 500 per stuk worden geactiveerd in afgeschreven volgens voorgeschreven termijnen 
+(voor ICT activa servers, software in eigendom ed geldt 3 jaar). Kosten van activa worden niet doorbelast aan projecten maar wel meegenomen in de kosten/baten analyse. Externe inzet op een 
+project wordt niet geactiveerd, kosten worden naar projecten toegerekend in de periode dat de prestatie wordt geleverd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 226

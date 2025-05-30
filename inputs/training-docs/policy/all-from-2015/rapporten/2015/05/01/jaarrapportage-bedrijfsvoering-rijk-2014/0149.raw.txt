@@ -1,0 +1,21 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+De oplevering van het Private Cloud PaaS .Net platform is in een aantal deelreleases opgeleverd, release 1.0 per 1-1-2014 en release 1.1 per 1-4-2014. Beide opleveringen leverden in de vervolg-
+fase teveel technische problemen op. Additionele activiteiten om deze technische problemen op te lossen hebben tot dusver geen bijdrage kunnen leveren aan een reële actueel geschatte 
+einddatum. Bovengenoemde actueel geschatte einddatum representeert de huidige algehele verwachting.
+In februari 2015 is een audit uitgevoerd door Gartner. De conclusies van de audit in combinatie met gebrek aan voldoende voortgang heeft aanleiding gegeven tot herbezinning op de wijze 
+waarop het Cumulus-project kan worden voortgezet. Op basis van de in kaart gebrachte scenario’s zal besluitvorming plaatsvinden in mei 2015. Op basis daarvan zal het dashboard worden 
+aangepast.
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+7a. Geschatte levensduur na oplevering
+De geschatte levensduur van het Private Cloud PaaS .Net platform is langlopend, meer dan 5 jaar, uitgaande van het huidige gebruik van de geïmplementeerde producten. Toekomstige markt-
+ontwikkelingen voor wat betreft Cloud-technologie kunnen deze geschatte levensduur verkorten of verlengen.
+7b. Toelichting gehanteerde systematiek bij bepaling levensduur indien afwijkend van in business case gecalculeerde levensduur
+Niet van toepassing
+8. Tweede Kamerstukken
+Datum Nummer Titel Link
+Wijziging contractvorm
+De contractvorm is gedurende de looptijd van het project niet gewijzigd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 149

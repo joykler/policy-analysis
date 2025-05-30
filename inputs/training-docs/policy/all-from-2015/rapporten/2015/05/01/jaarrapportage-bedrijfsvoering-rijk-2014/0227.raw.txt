@@ -1,0 +1,30 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De IT-investeringen nemen toe van € 29 mln. naar € 79 mln. De aanpassing van de eenmalige investeringen wordt veroorzaakt door een aantal factoren. Ten eerste zijn na de initiële busines-
+scase aan het programma KEI al eerder geplande projecten toegevoegd (Straf, eKanton en Toezicht: € 23 mln.). Daarnaast zijn, na de keuze om de ontwikkeling in eigen beheer uit te voeren, de 
+verbeterde inzichten in de IT investeringen verwerkt op basis van het masterplan (€ 22 mln.). De IT investeringen in de IT randvoorwaarden komen als afschrijvings- en rentekosten terug in de 
+verwachten kosten voor beheer en onderhoud.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+02-07-12 01-01-15 02-07-18
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+6. Herijkingspunten
+Datum herijking Herziene kosten (mln. €) Nieuwe einddatum Toelichting kosten Toelichting doorlooptijd
+30-04-14 € 29,00 02-07-18 Herijking en validatie van gehele programmaplan: Herijking en validatie van gehele programmaplan: 
+IT kosten en doorlooptijd ongewijzigd. IT kosten en doorlooptijd ongewijzigd.
+30-03-13 € 29,00 02-07-18 De initieel geschatte einddatum stamt nog van De initieel geschatte einddatum stamt nog van 
+voor de business case en het masterplan. Nu de voor de business case en het masterplan. Nu de 
+omvang van het programma duidelijk is, is er een omvang van het programma duidelijk is, is er een 
+realistische planning opgesteld, in overleg met realistische planning opgesteld, in overleg met 
+VenJ. Hierbij wordt uitgegaan van een gefaseerde VenJ. Hierbij wordt uitgegaan van een gefaseerde 
+uitrol over de gerechten. De laatste uitrol van de uitrol over de gerechten. De laatste uitrol van de 
+laatste release is afgerond medio 2018. De laatste release is afgerond medio 2018. De 
+consequenties van deze verlenging van de consequenties van deze verlenging van de 
+doorlooptijd zijn nog niet verwerkt in de boven- doorlooptijd zijn nog niet verwerkt in de boven-
+genoemde business case en zullen worden genoemde business case en zullen worden 
+meegenomen in de nieuwe herijking. De producten meegenomen in de nieuwe herijking. De producten 
+die nodig zijn om de toezeggingen aan de Tweede die nodig zijn om de toezeggingen aan de Tweede 
+Kamer te kunnen realiseren zijn 31-12-2015 gereed. Kamer te kunnen realiseren zijn 31-12-2015 gereed.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 227

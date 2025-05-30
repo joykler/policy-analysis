@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 6,80 € 6,80 € 0,00
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 2,24 € 2,24 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 0,75 € 0,75 € 1,08
+TOTALEN € 9,79 € 9,79 € 1,08
+4b. Verwachte kosten voor beheer en onderhoud
+De kosten voor beheer en onderhoud lopen op van € 1.660.000 in het eerste jaar (2015) tot structureel € 6.640.000 per jaar op het moment dat alle functionaliteiten in gebruik zijn genomen 
+(vanaf 2018).
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Het systeem van toerekening van kosten dat gehanteerd is voor het project betreft het baten- lastenstelsel. Implementatie van ZBJ is in financieel opzicht positief voor de Dienst Justitiële 
+Inrichtingen (DJI). Het vervangen van huidige (papieren) processen en diensten door gebruik te maken van ZBJ levert DJI na volledige realisatie van de baten een jaarlijks bedrag op van  
+€ 16 miljoen. Na aftrek van de exploitatiekosten resteert aan structurele baten € 9,3 miljoen per jaar. De netto contante waarde over de jaren 2014 tot en met 2020 bedraagt € 24,7 miljoen, 
+zonder restwaarde.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+De kosteninschatting bevat nog een ruime marge. Na afloop van de nog te starten aanbesteding is een exactere kosteninschatting mogelijk.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-07-13 31-12-17 31-12-17
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 250

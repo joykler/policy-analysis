@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4b. Verwachte kosten voor beheer en onderhoud
+Het Programma onderdeel Business Release 1 Vrijwillig verzekeren (BR1) is gerealiseerd. De ontwikkeling van BR2 Kindregelingen is beëindigd. Hierdoor ontstaat er geen ondersteuning met een 
+nieuw systeem voor de uitvoering van kindregelingen en voor het voorziene BR3 Pensioenregelingen binnen programma SVB Tien. De SVB zal haar bestaande ICT infrastructuur gebruiken en 
+blijven versterken. Er wordt onderzocht of onderdelen van de ontwikkeling van het multi-regelingensysteem kunnen worden toegevoegd aan het huidige ICT platform. Door het beëindigen van 
+de ontwikkeling MRS zal er in mindere mate sprake zijn van (dubbele) beheerkosten.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+De SVB kostentoerekeningssystematiek aan wetten en regelingen waarvoor het project wordt uitgevoerd.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Het met het Ministerie van SZW overeengekomen budget voor Programma SVB Tien bedraagt € 79,2 miljoen. Het programma is beëindigd. Het totaal aan programmakosten bedraagt bij 
+beëindiging € 95,7 mln. Dit bestaat uit het nu gestaakte herontwerp MRS en BR2 (€ 43,7 mln., inclusief kosten afwikkeling programma in 2014), de binnen het programma gerealiseerde infra-
+structuur (€ 7 mln.), de implementatie van Business Intelligence (€ 0,6 mln.), plus het gerealiseerde deel van Programma SVB Tien. Dit gerealiseerde deel bestaat uit de organisatorische verande-
+ring (€ 14,6 mln.) en het in productie genomen systeem rond Vrijwillig verzekeren (€ 29,7 mln.). Daarnaast is buiten het programma (in de staande organisatie) € 26,2 mln. uitgegeven aan 
+aanschaf en beheer van Oracle licenties. Deze kosten aanschaf en beheer van Oracle licenties kosten licenties en infrastructuur oracle vormden geen onderdeel van de begroting maar overeen-
+komstig brief aan kamer van 2 sept wel in het kostenoverzicht opgenomen. De totale kosten bestaan uit de programmakosten ad € 95,7 miljoen en de buiten het programma verantwoorde 
+kosten ad € 26,2 miljoen, gezamenlijk € 121,8 miljoen. De interne uren zijn, voor zover het extra programmaformatie betreft, opgenomen in de cijfers van Programma SVB Tien. Daarnaast heeft 
+de SVB sinds 2010 uit haar reguliere bedrijfsvoering circa € 5 mln. per jaar aan interne reguliere verandercapaciteit ingezet. Deze interne inzet maakt geen onderdeel uit van de begroting van het 
+programma en is om deze reden nooit opgenomen geweest in de verantwoording over het programma.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-01-06 31-12-10 02-09-14
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Op 2 september is besloten Programma SVB Tien te beëindigen.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 204

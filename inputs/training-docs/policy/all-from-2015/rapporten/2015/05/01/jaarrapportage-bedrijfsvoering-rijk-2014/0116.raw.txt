@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+10.  ARGO II
+1b. Projectomschrijving
+De Militaire Inlichtingen en Veiligheidsdienst (MIVD) is een belangrijke leverancier van inlichtingen op operationeel, tactisch en strategisch niveau. Binnen de mogelijkheden van de MIVD zijn 
+inlichtingen verkregen uit Signals Intelligence (SIGINT) een belangrijke bron.
+Juist die SIGINT inlichtingen zien grote veranderingen om zich heen voltrekken in het gebruik van communicatiemiddelen. Waar voorheen fax, telex en (mobiele) telefonie de mogelijkheden van 
+SIGINT bestreken, is er nu de wereld van ‘Internet Protocol’ (IP) bij gekomen. Deze wereld is anders dan de traditionele communicatiewereld.
+Om SIGINT ook naar de toekomst toe in staat te stellen die bijdrage te leveren die het nu doet en te verbeteren is een project gedefinieerd dat de SIGINT keten moet vernieuwen en toekomstvast 
+moet maken.
+1c. Maatschappelijke relevantie
+Inlichtingen afkomstig uit SIGINT leveren een significante bijdrage aan de bescherming van de troepen in het uitzendgebied. Naar de huidige inzichten zal het nieuwe SIGINT platform een 
+randvoorwaarde zijn voor Cyber inlichtingen. Eind 2011 is besloten het project in samenwerking met de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) op te lopen.
+Baten kunnen worden onderverdeeld naar:
+Financieel besparing 7 Voltijdsequivalenten, besparing uitfaseren legacy IT systemen 2,8 mln. euro per jaar.
+Kwalitatief: beter inzicht in proceskwaliteit, betere rapportages door gerichter aanbod en betere mogelijkheden tot delen van kennis en inlichtingen.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+30-08-12 1.0 ja Faseplan Fase 1
+26-05-11 1.2 ja Verwerving loopt, ontvangen aanbiedingen geven een één op één afdekking op de wensen en eisen
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 116

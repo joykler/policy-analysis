@@ -1,0 +1,31 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+19.  MijnBelastingdienst.nl
+1b. Projectomschrijving
+Doel is het realiseren van een web-gebaseerde voorziening (een portaal), waarmee burgers en bedrijven digitaal hun belastingzaken met de Belastingdienst kunnen regelen. Het projectresultaat 
+is een veilig, toegankelijk en eigentijds dienstverleningskanaal, gericht op zelfservice.
+1c. Maatschappelijke relevantie
+De Belastingdienst wil aansluiten op en bijdragen aan ontwikkelingen in e-overheidsland. Aansluiting op deze e-overheidsbrede initiatieven maakt het noodzakelijk om een eigentijdse voorzie-
+ning aan te bieden, die aansluit op wat de burger van de Belastingdienst verwacht. MijnBelastingdienst.nl draagt bij aan deze online dienstverlening van de Belastingdienst, waarbij de burger de 
+benodigde informatie (persoonsgebonden en niet-persoonsgebonden) op één plek kan vinden en transacties met de Belastingdienst zelf kan afhandelen en volgen.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+01-11-14 Project Initiation ja Definitief (herijking uitgevoerd)
+Documentation v2.0
+01-11-14 Herijkte Business Case 2014 ja Definitief (herijking uitgevoerd)
+v1.0
+23-08-13 Herijkte Business Case 2013 ja Definitief (herijking uitgevoerd)
+v1.0
+15-03-12 Business Case v1.0 ja Definitief
+15-03-12 Project Initiation ja Definitief
+Documentation v1.1
+01-12-10 Outline Business Case v1.0 ja Definitief
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+08-10-14 CapGemini Expert Opinion Performance, robuustheid, schaalbaarheid en toekomstvastheid
+31-05-13 Gartner Beveiligings-scan Online Beveiliging van het systeem
+Dienstverlening
+25-07-12 Gartner Dreigings- en Beveiliging van het systeem
+kwetsbaarheidsanalyse
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 150

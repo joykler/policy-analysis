@@ -1,0 +1,26 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+42.  Vernieuwing Rekencentrum DJI (3Vs)
+1b. Projectomschrijving
+Het project heet Verwerf, Verhuis en Veranker het rekencentrum voor DJI, afgekort als 3V.
+Eigenlijk moet het acroniem gelezen worden als: Verwerf via aanbesteding met de trekker van RekenCemter3 uit het Programma Consolidatie Data Center van de Rijksoverheid een gedeelte van 
+een rekencentrum geschikt voor housing via een gezamenlijke functionele aanbesteding: Verhuis de bestaande rekencentra van Dienst Justitiële Inrichtingen Shared Service Center ICT naar het 
+aldus verworven rekencentrum inclusief hosting en Veranker het beheer tijdens de aanbesteding, de verhuizing en de oplevering in de staande (beheer) organisatie.
+1c. Maatschappelijke relevantie
+Het project Verwerf, Verhuis en Veranker het rekencentrum is het gevolg van het voornemen van de rijksoverheid in de perioden van 2012 tot 2015 een dataconsolidatie uit te voeren op  
+64 rekencentra van de rijksoverheid. Na de consolidatie zullen er 4 nieuwe rekencentra zijn.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+30-07-14 1.01 ja Integrale PID 3V herzien
+13-12-13 0.9 ja Herzien Project Initiatie Document
+20-05-12 1.0 ja PID, geaccordeerd september 2012
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+15-12-14 Dell Nederland Externe Kwaliteitstoets Inrichting migratiesoftware
+15-11-14 Fox-IT Security Audit Basisinfrastructuur 3V
+15-06-14 Citrix Nederland Externe kwaliteitstoets Technische Ontwerp(en)
+15-05-14 Microsoft Nederland Externe kwaliteitstoets Technische Ontwerp(en)
+09-12-13 Gartner Audit Business Case
+14-06-13 Gartner Audit PID (gehele looptijd i.c. ultimo 03-2014)
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 242

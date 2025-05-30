@@ -1,0 +1,24 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+13-05-14 uitgewerkte businesscase ja UBC goedgekeurd door de portfolioboard en het MT van Belastingen (MTB3)
+v0.9
+17-10-12 outline business case v1.0 ja Ten behoeve van scenariokeuze
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,48 € 0,17 € 0,00
+ingehuurd extern personeel € 2,26 € 4,59 € 3,96
+intern personeel € 5,29 € 8,18 € 6,19
+uitbesteed werk € 0,00 € 0,38 € 0,38
+overige projectkosten € 0,56 € 0,49 € 0,00
+TOTALEN € 8,59 € 13,81 € 10,53
+4b. Verwachte kosten voor beheer en onderhoud
+De verwachte (technische) beheer- en exploitatiekosten bedragen na realisatie jaarlijks € 0,18 miljoen. De verwachte kosten voor de jaaraanpassingen (adaptief onderhoud) bedragen € 0,13 mln.
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Voor ontwerp- en ontwikkelwerkzaamheden kent de Belastingdienst twee concernbrede tariefsoorten die beide een mixtarief zijn van intern en extern personeel. Als benadering voor de 
+verdeling tussen intern en extern personeel is het onderscheid tussen ontwerp- en ontwikkelwerk gehanteerd.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 155

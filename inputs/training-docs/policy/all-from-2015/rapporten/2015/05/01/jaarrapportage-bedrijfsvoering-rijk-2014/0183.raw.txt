@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 31,90 € 24,40 € 2,50
+ingehuurd extern personeel € 7,50 € 6,30 € 2,20
+intern personeel € 6,72 € 6,06 € 2,01
+uitbesteed werk € 108,80 € 81,95 € 10,32
+overige projectkosten € 3,22 € 2,05 € 0,58
+TOTALEN € 158,14 € 120,76 € 17,61
+4b. Verwachte kosten voor beheer en onderhoud
+Meerjarig 5% van 115M€ = 5,75 M€
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Voor het berekenen van de kosten van intern personeel is uitgegaan van de Handleiding Overheidstarieven 2014 (Ministerie van Financiën/Directie Begrotingszaken).
+Voor BWR wordt het baten-lastenstelsel gehanteerd als systematiek van kostentoerekening aan projecten.
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Met name de kosten van op BIR-niveau brengen van de 50 missiekritieke, deels maatschappelijk vitale systemen en basis ICT waren initiëel te hoog ingeschat. De huidige raming van de 
+netwerkbeveiling betekent dat de totale raming met 37M€ naar beneden kon worden bijgesteld.
+5a. Doorlooptijd
+Startdatum Initieel geschatte Actueel geschatte 
+einddatum einddatum
+01-12-13 31-12-16 31-12-17
+5b. Toelichting op de verschillen tussen initieel en actueel geschatte einddatum of bij herijkingen tussen de laatste herijking en de actueel geschatte einddatum
+Het programma loopt op schema. Bij het bepalen van de initieel geschatte einddatum was onvoldoende rekening gehouden met de looptijd van de uitvoering van de verbetermaatregelen, met 
+name op de objecten. Momenteel wordt ingeschat dat geheel 2017 nog nodig zal zijn om de laatste verbetermaatregelen uit te voeren en af te ronden.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 183

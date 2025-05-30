@@ -1,0 +1,28 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+38.  Centrale Voorziening Executieopdrachten (CVE)
+1b. Projectomschrijving
+Het project Centrale Voorziening Executieopdrachten (CVE) is een project van het CJIB-programma USB, dat onderdeel is van het (landelijk) programma Uitvoeringsketen Strafrechtelijke 
+Beslissingen. Het programma USB streeft na dat opgelegde straffen sneller starten, dat straffen veiliger (volledig en juist) ten uitvoer worden gelegd en dat ketenpartners en gebruikers van 
+informatie uit de executieketen beter worden geinformeerd en richt een nieuwe governancestructuur voor de uitvoeringsketen strafrechtelijke beslissingen, waarin het CJIB het Administratie- en 
+Informatiecentrum voor de Executieketen is.
+Het project CVE realiseert een nieuw centraal, gestandaardiseerd en elektronisch koppelvlak tussen het Administratie- en Informatiecentrum voor de Executieketen (het AICE; een onderdeel van 
+het CJIB) en de politie en de Koninklijke Marechaussee.
+Het nieuwe koppelvlak sluit aan op de nieuwe door de politie, in het kader van de nieuwe politie-architectuur, te realiseren basisvoorziening voor Executie & Signalering dat onder andere de 
+systemen PAPOS en OPS moet vervangen. Bezien vanuit de politie en de KMAR fungeert dit koppelvlak als de authentieke bron ten aanzien van gerichte en ongerichte executieopdrachten. Alle 
+executie- en betekeningsopdrachten die het AICE verstrekt aan de politie en de KMAR, op basis van de haar bekende strafrechtelijke beslissingen (incl. WAHV) en gerechtelijke mededelingen, 
+zullen via dit nieuwe koppelvlak verlopen. De opdrachtverstrekking door het AICE gebeurt in het eindresultaat (na plateau B van het project) persoonsgericht en is dan inclusief nieuwe executie-
+opdrachten die het AICE t.z.t. kan verstrekken op basis van de strafrechtelijke beslissingen die bij het AICE dan (nieuw ten opzichte van de huidige situatie) ook bekend zijn.
+1c. Maatschappelijke relevantie
+Het project CVE draagt bij aan het programma Uitvoeringsketen Strafrechtelijke Beslissingen (USB), dat als doel heeft dat strafrechtelijke beslissingen sneller, veiliger en beter geïnformeerd ten 
+uitvoer worden gelegd. Mede door CVE wordt een nationale aanpak van executieopdrachten door de politie en de KMAR mogelijk. De KMAR kan tevens uitvoering geven aan (een deel) van de 
+executieopdrachten die nu onzichtbaar zijn voor de KMAR. De politie krijgt inzicht in alle executieopdrachten, waar in de regio nu alleen de executieopdrachten van die regio inzichtelijk zijn. Dit 
+draagt bij aan de reductie van uitval in de keten. 
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+05-08-14 0.95 nee Concept Project Initiatie Document (PID)
+26-06-14 1.0 nee Definitief Kaderdocument Politie-CJIB
+28-05-14 0.9 nee Concept Bedrijfsanalyse
+12-11-13 1.22 nee Concept business Case
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 229

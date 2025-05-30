@@ -1,0 +1,27 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+3. Externe kwaliteitstoetsen
+Datum Uitvoerende partij Type Object (scope en onderzochte periode)
+07-06-13 Bureau gateway Gatewayreview Haalbaarheid, aanpak en opzet project
+4a. Kosten onderverdeeld naar
+In € mln. Initieel geschatte Actueel geschatte Cumulatief gerealiseerde meerjarige uitgaven
+meerjarige projectkosten meerjarige projectkosten
+hardware en software € 0,00 € 0,00 € 0,00
+ingehuurd extern personeel € 0,00 € 0,00 € 0,00
+intern personeel € 0,00 € 0,00 € 0,00
+uitbesteed werk € 0,00 € 0,00 € 0,00
+overige projectkosten € 8,88 € 8,88 € 1,60
+TOTALEN € 8,88 € 8,88 € 1,60
+4b. Verwachte kosten voor beheer en onderhoud
+CVE plateau A (zaaksgeericht): circa € 200.000 per jaar
+CVE plateau B (persoonsgericht): nog niet bekend
+4c. Toelichting algemene systematiek van kostentoerekening aan projecten
+Conform systhematiek baten-lastenstelsel
+4d. Toelichting op de verschillen tussen initieel en actueel geschatte kosten of bij herijkingen tussen de laatste herijking en de actueel geschatte kosten
+Bij de initiële budgetkaderstelling voor het CVE-project is een raming afgegeven van € 8.8 mln. +/- 20%. Bij de verdere uitwerking van de projectplannen is er eind 2013, samen met de opdracht-
+gever en de politie, gekozen voor een gefaseerde uitvoering in 2 plateaus (A & B) . Voor de realisatie van het eerste plateau (A) zijn de gemaakte ketenafspraken vastgelegd in het Kaderdocument 
+1.0. Over de beoogde doorontwikkeling van CVE in plateau B vindt nog besluitvorming plaats. 
+De PID en de Bedrijfsanalyse zijn specifiek gericht op de scope van plateau A. Zij worden op dit moment beiden geactualiseerd op basis van een migratiestrategie en ketenmijlpalenplanning, die 
+samen met onder andere de politie (E&S-project) en Justid tot stand is gekomen. De PID en de Bedrijfsanalyse worden op basis van huidige inzichten uiterlijk in Q1 2015 geactualiseerd en 
+definitief gemaakt.
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 230

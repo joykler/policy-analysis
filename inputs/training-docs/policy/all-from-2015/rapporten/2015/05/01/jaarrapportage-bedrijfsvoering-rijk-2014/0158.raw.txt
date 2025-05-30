@@ -1,0 +1,31 @@
+Hoofdstukken Bijlagen
+1 2 3 4 5 1 2 3 4 5 66
+1a. Projectnaam
+21.  Online Aangifte Voorziening (OLAV)
+1b. Projectomschrijving
+Doel van Online Aangifte Voorziening (OLAV) is het realiseren van een online-voorziening voor het realiseren van complexe formulieren. Met deze voorziening kunnen online (aangifte)formulie-
+ren worden ontwikkeld waarmee burgers aangifte kunnen doen. Deze voorziening en de formulieren worden in eerste instantie ontwikkeld in het kader van de vervanging van Easytax. De 
+formulieren die binnen OLAV worden ontwikkeld zijn de IH-Niet Winst, de IH-Winst, de Voorlopige Aangifte (VA), het C-formulier voor belastingplichtigen in het buitenland en het VpB-formulier. 
+(Het loonheffingsformulier uit Easytax wordt vervangen door een voorziening voor Eenvoudige Formulieren.)
+1c. Maatschappelijke relevantie
+Easytax, het succesvolle programma voor elektronische aangifte, is aan het eind van zijn technische levensduur. Uitbreiding van functionaliteit is niet meer mogelijk. De Belastingdienst mag niet 
+het risico lopen dat de technische voorziening voor aangifte doen onderuit gaat.
+Daarnaast wil de Belastingdienst een voortrekkersrol spelen in e-overheidsprojecten. Aansluiting op deze e-overheidsbrede initiatieven maakt het noodzakelijk om het technische platform 
+onder het proces van uitvragen middels complexe formulieren toekomstvast te maken. OLAV is een eigentijdse voorziening, die aansluit op wat de burger van de Belastingdienst verwacht en die 
+voldoet aan de technische eisen van deze tijd.
+2. Projectplannen
+Datum Versie Conform eisen (j/n) Toelichting
+20-11-14 Herijking Business Case v1.0 ja Definitief (herijking uitgevoerd)
+08-10-14 Mijlpaalplan D1 (formulier ja Definitief
+IH-Niet winst en IH-Winst 
+2014) v2.0
+17-09-13 Mijlpaalplan C2 (formulier ja Definitief
+VA 2015) v1.0
+17-08-13 Mijlpaalplan B/C1 (formu- ja Definitief
+lier IH-Niet Winst 2013) v1.0
+08-05-13 Uitgewerkte Business Case ja Definitief
+v1.01
+18-10-12 Project Initiation ja Definitief
+Documentation v1.0
+14-02-11 Outline Business Case v1.1 ja Definitief
+Jaarrapportage Bedrijfsvoering Rijk 2014 | 158
