@@ -1,0 +1,51 @@
+Tabel 1.9 Uitgaventoetsing Budgettair Kader Zorg (in miljoenen euro; min is onderschrijding)
+Begrotingsaf- FJR 2014 Verschil 
+spraken 2014 
+1. Raming uitgaven bij Begrotingsafspraken 2014 67.826 67.826 0 
+2. NB-deflator ten tijde van MLT 2013–2017 / Begrotingsafspraken 2014 1,0350 1,0350 0 
+3. Reëel kader 65.534 65.534 0 
+4. NB-deflator 1,0350 1,0297 – 0,01 
+5. Overboekingen 0 – 53 – 53 
+6. Statistisch 0 – 346 – 346 
+7. BKZ in lopende prijzen 67.826 67.081 – 745 
+8. Actuele ramingen uitgaven 67.826 65.092 – 2.735 
+waarvan begrotingsgefinancierd 2.222 2.291 70 
+waarvan premiegefinancierd 65.605 62.800 – 2.804 
+9. Over/onderschrijding BKZ (9=8–7) 0 – 1.990 – 1.990
+  
+Tabel 1.10 Uitgaventoetsing totaal kader (in miljoenen euro; min is onderschrijding)
+Begrotingsaf- FJR 2014 Verschil 
+spraken 2014 
+1. Reëel kader 242.247 242.247 0 
+2. NB-deflator 1,0350 1,0297 – 0,01 
+3. Overboekingen 0 0 0 
+4. Statistisch 0 – 266 – 266 
+5. Totaal kaders in lopende prijzen 250.720 249.176 – 1.544 
+6. Actuele ramingen uitgaven 250.720 246.574 – 4.146 
+7. Over/onderschrijding totaal uitgavenkader (7=6–5) 0 – 2.602 – 2.602
+  
+Tabel 1.11 Uitgaven en niet-belastingontvangen niet relevant voor enig kader (in miljoenen euro)
+MN 2014 FJR 2014 Verschil 
+Rentelasten 9.179 8.769 – 410 
+Rente swaps 0 – 294 – 294 
+Rente schatkistbankieren – 318 – 327 – 9 
+Rente sociale fondsen – 82 – 17 65 
+Rijksbijdrage aan de sociale fondsen 17.373 18.006 633 
+Zorgtoeslag 4.069 4.052 – 17 
+BTW-compensatiefonds 2.816 2.954 137 
+Studieleningen 1.531 1.738 207 
+Gasbaten (kasbasis, exclusief VPB) – 11.850 – 10.505 1.345 
+ETS veilingopbrengsten – 200 – 134 66 
+SDE+ – 200 – 174 26 
+Kasbeheer (exclusief schatkistbankieren decentrale overheden) 4.458 3.609 – 849 
+Schatkistbankieren decentrale overheden 0 – 333 – 333 
+Netto-verkoop staatsbezit – 1.132 – 3.590 – 2.459 
+Netto-opbrengsten interventies financiële sector – 523 – 607 – 83 
+Crisisgerelateerde en vermogenswinst DNB – 989 – 873 116 
+ESM 915 915 0 
+Diverse leningen – 267 – 253 15 
+Landbouwheffingen – 253 – 222 31 
+Werkgeversbijdrage kinderopvang – 1.072 – 1.053 18 
+Overig 83 – 353 – 436 
+Totaal netto niet-relevante uitgaven 23.539 21.308 – 2.231
+6

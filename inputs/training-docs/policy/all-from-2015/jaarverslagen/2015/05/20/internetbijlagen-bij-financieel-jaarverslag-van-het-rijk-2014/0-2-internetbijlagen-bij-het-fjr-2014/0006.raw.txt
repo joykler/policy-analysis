@@ -1,0 +1,40 @@
+Financieel Jaarverslag van het Rijk 2014. De tabellen tonen eerst de 
+bepaling van de reële uitgavenkaders. De reële uitgavenkaders worden 
+bepaald door de ramingen ten tijde van de begrotingsafspraken te 
+defleren met de prijsontwikkeling van de Nationale Bestedingen 
+(NB-deflator). Vervolgens wordt weergegeven hoe de uitgaven zich 
+verhouden tot het uitgavenkader in lopende prijzen. Het uitgavenkader in 
+lopende prijzen wordt bepaald door het reële uitgavenkader te corrigeren 
+voor de deflator. Daarnaast wordt gecorrigeerd voor overboekingen 
+tussen het kader Rijksbegroting in enge zin enerzijds, en de sector Sociale 
+Zekerheid en Arbeidsmarkt en de sector Zorg anderzijds. Ook wordt 
+gecorrigeerd voor statistische factoren.
+  
+Tabel 1.7 Uitgaventoetsing Rijksbegroting in enge zin (in miljoenen euro; min is onderschrijding)
+Begrotingsaf- FJR 2014 Verschil 
+spraken 2014 
+1. Raming uitgaven bij Begrotingsafspraken 2014 105.013 105.013 0 
+2. NB-deflator ten tijde van MLT 2013–2017 / Begrotingsafspraken 2014 1,0350 1,0350 0 
+3. Reëel kader 101.465 101.465 0 
+4. NB-deflator 1,0350 1,0297 – 0,01 
+5. Overboekingen 0 53 53 
+6. Statistisch 0 1.760 1.760 
+7. Uitgavenkader RBG-eng in lopende prijzen 105.013 106.291 1.278 
+8. Actuele ramingen uitgaven 105.013 106.517 1.503 
+9. Over/onderschrijding kader RBG-eng (9=8–7) 0 226 226
+  
+Tabel 1.8 Uitgaventoetsing Sociale Zekerheid en Arbeidsmarkt (in miljoenen euro; min is onderschrijding)
+Begrotingsaf- FJR 2014 Verschil 
+spraken 2014 
+1. Raming uitgaven bij Begrotingsafspraken 2014 77.880 77.880 0 
+2. NB-deflator ten tijde van MLT 2013–2017 / Begrotingsafspraken 2014 1,0350 1,0350 0 
+3. Reëel kader 75.249 75.249 0 
+4. NB-deflator 1,0350 1,0297 – 0,01 
+5. Overboekingen 0 0 0 
+6. Statistisch 0 1.681- – 1.681 
+7. Uitgavenkader SZA in lopende prijzen 77.880 75.803 – 2.077 
+8. Actuele ramingen uitgaven 77.880 74.965 – 2.915 
+waarvan begrotingsgefinancierd 21.357 20.060 – 1.297 
+waarvan premiegefinancierd 56.523 54.905 – 1.618 
+9. Over/onderschrijding kader SZA (9=8–7) 0 – 838 – 838
+5

@@ -1,0 +1,43 @@
+Internetbijlage 2: EMU-saldo en EMU-schuld
+  
+Tabel 2.1 Opbouw EMU-schuld collectieve sector (in miljoenen euro)
+MN 2014 FJR 2014 
+EMU-schuld primo 451.024 441.039 
+EMU-saldo collectieve sector (min is overschot) 19.942 15.035 
+1 
+Correctie EMU-saldo sociale fondsen – 6.179 – 5.826 
+KTV’s en financiële transacties 4.138 4.446 
+ING back-up faciliteit – 1.349 – 2.722 
+EFSF 646 583 
+2 
+Derdenrekening en overig 0 – 1.549 
+EMU-schuld ultimo 466.290 451.006 
+EMU-schuldquote 76,1% 68,8%
+1 
+Het EMU-saldo van de collectieve sector wordt gecorrigeerd voor het saldo van de sociale 
+fondsen omdat het EMU-saldo van de sociale fondsen ook onderdeel uitmaakt van de post 
+kas-transverschillen en financiële transacties (kasbeheer).
+2 
+Dit is een post die bestaat uit mutaties die alleen relevant zijn voor de EMU-schuld en dus niet 
+voor het EMU-saldo.
+ 
+  
+Tabel 2.2 Opbouw EMU-schuldquote (in procenten bbp)
+MN 2014 FJR 2014 
+EMU-schuld 1 januari 2014 75,0% 67,3% 
+Noemereffect – 1,4% – 0,8% 
+EMU-saldo collectieve sector (min is overschot) 3,3% 2,3% 
+Financiële en Europese interventies – 0,6% – 0,9% 
+Ktv’s en overige financiële transacties – 0,2% 0,9% 
+EMU-schuld ultimo 2014 76,1% 68,8%
+ 
+  
+Tabel 2.3 Opbouw EMU-schuld (in miljoenen euro)
+FJR 2014 
+Rijk 372.458 
+Overige centrale overheid 3.742 
+Lokale overheid 47.753 
+Sociale fondsen 27.053 
+EMU-schuld 451.006
+ 
+8
