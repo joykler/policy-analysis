@@ -38,15 +38,15 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + " ! Batch process invoked: $F [BatchNr: $BatchNr; BatchedItems: $BatchedItems]..." + $R)
     }
 
-    Add-LoggingMethod 'Info_StartedPruningIntroPages' -Method {
+    Add-LoggingMethod 'Info_StartedRemovingIntroPages' -Method {
 
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + 'Started pruning intro-pages from all raw-text files...' + $R)
+        Write-Information $($S + 'Started removing intro-pages from all raw-text-dirs...' + $R)
     }
 
-    Add-LoggingMethod 'Info_PruningIntroPagesFromFile' -Method {
+    Add-LoggingMethod 'Info_RemovingIntroPagesFrom' -Method {
 
         param($file)
 
@@ -54,21 +54,10 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Pruning intro-pages from raw-text file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+        Write-Information $($S + " * Removing intro-pages from raw-text-dir: $F[ $($file.Folder) ]" + $R)
     }
 
-    Add-LoggingMethod 'Warn_TargetFolderAllreadyExists' -Method {
-
-        param($file)
-
-        $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
-        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
-        $R = $PSStyle.Reset
-
-        Write-Warning $($S + " ! Target-folder allready exists: $F[ $($file.LoggedDir) ]" + $R)
-    }
-
-    Add-LoggingMethod 'Warn_ExportIntroPagesFailed' -Method {
+    Add-LoggingMethod 'Warn_RemovingIntroPagesFailed' -Method {
 
         param($file, $err)
 
@@ -76,7 +65,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Warning $($S + " ! Failed Pruning raw-text from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
+        Write-Warning $($S + " ! Failed removing intro-pages from raw-text-dir: $F[ $($file.Folder) ]" + $R + "`n$err")
     }
 
 }
@@ -172,8 +161,8 @@ function Get-TargetInfoFromSourceFile {
 }
 #endregion
 
-#region -- Declare: Export-IntroPagesFromSourceFile --
-function Export-IntroPagesFromSourceFile {
+#region -- Declare: Remove-IntroPagesFromSourceFile --
+function Remove-IntroPagesFromSourceFile {
 
     [CmdletBinding()]
     param(
@@ -187,7 +176,7 @@ function Export-IntroPagesFromSourceFile {
     )
 
     begin {
-        function Export-IntroPages([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
+        function Remove-IntroPages([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
 
             $PageMax = $Source_PdfReader.NumberOfPages
             for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
@@ -214,17 +203,13 @@ function Export-IntroPagesFromSourceFile {
     }
 
     process {
-        $Logging.Info_PruningIntroPagesFromFile($SourceFile)
+        $Logging.Info_RemovingIntroPagesFrom($SourceFile)
 
         try {
-            Export-IntroPages $Source_PdfReader
+            Remove-IntroPages $Source_PdfReader
 
         } catch {
-            $Logging.Warn_ExportIntroPagesFailed($TargetFile, $_)
-
-            if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
-                Remove-Item $TargetFile.Path -Force
-            }
+            $Logging.Warn_RemovingIntroPagesFailed($TargetFile, $_)
         }
     }
 }
@@ -240,21 +225,16 @@ try {
         param([int] $BatchNr, [object[]] $BatchedItems)
 
         git add --all
-        git commit -m "Added batch of extracted raw-text files from pdf files #$BatchNr"
+        git commit -m "Added batch of removing intro-pages from raw-text dirs #$BatchNr"
         git push
     }
 
 
 
-    Add-Type -Path "$PSScriptRoot\.lib\BouncyCastle.Cryptography\lib\net6.0\BouncyCastle.Cryptography.dll"
-    Add-Type -Path "$PSScriptRoot\.lib\iTextSharp\itextsharp.dll"
-
-
-
-    $Logging.Info_StartedPruningIntroPages()
+    $Logging.Info_StartedRemovingIntroPages()
     Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
-        Export-IntroPagesFromSourceFile -OnlyUpdateExistingPages |
+        Remove-IntroPagesFromSourceFile -OnlyUpdateExistingPages |
         ForEach-Object {
             $BatchProc.ForEachItem($PSItem)
         }

@@ -43,10 +43,10 @@ $global:Logging = [PSCustomObject]::new()
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + 'Started exporting raw-text pages from all pdf files...' + $R)
+        Write-Information $($S + 'Started exporting raw-text-pages from all pdf-files...' + $R)
     }
 
-    Add-LoggingMethod 'Info_ExportingRawTextPagesFromFile' -Method {
+    Add-LoggingMethod 'Info_ExportingRawTextPagesFrom' -Method {
 
         param($file)
 
@@ -54,7 +54,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Exporting raw-text pages from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+        Write-Information $($S + " * Exporting raw-text-pages from pdf-file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
     Add-LoggingMethod 'Warn_TargetFolderAllreadyExists' -Method {
@@ -68,7 +68,7 @@ $global:Logging = [PSCustomObject]::new()
         Write-Warning $($S + " ! Target-folder allready exists: $F[ $($file.LoggedDir) ]" + $R)
     }
 
-    Add-LoggingMethod 'Warn_ExportRawTextPagesFailed' -Method {
+    Add-LoggingMethod 'Warn_ExportingRawTextPagesFailed' -Method {
 
         param($file, $err)
 
@@ -76,7 +76,7 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Warning $($S + " ! Failed exporting raw-text pages from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
+        Write-Warning $($S + " ! Failed exporting raw-text-pages from pdf-file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
     }
 
 }
@@ -221,7 +221,7 @@ function Export-RawTextPagesFromSourceFile {
             $Logging.Warn_TargetFolderAllreadyExists($TargetFile)
 
         } else {
-            $Logging.Info_ExportingRawTextPagesFromFile($SourceFile)
+            $Logging.Info_ExportingRawTextPagesFrom($SourceFile)
 
             try {
                 if (-not $TargetFolderExists) {
@@ -233,11 +233,7 @@ function Export-RawTextPagesFromSourceFile {
                 Export-RawTextPages $Source_PdfReader
 
             } catch {
-                $Logging.Warn_ExportRawTextPagesFailed($TargetFile, $_)
-
-                if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
-                    Remove-Item $TargetFile.Path -Force
-                }
+                $Logging.Warn_ExportingRawTextPagesFailed($TargetFile, $_)
             }
         }
     }
