@@ -1,0 +1,33 @@
+tekstuele bronnen kunnen nieuwe digitale methoden het proces van data-
+verwerking en data-analyse aanzienlijk bespoedigen, verbeteren en verrijken. In 
+platforms voor text- and data-mining (TDM) kunnen op een gebruiksvriendelijke 
+wijze analyses worden uitgevoerd in omvangrijke (corpora) datasets. Een 
+voorbeeld hiervan is ianalyzer.hum.uu.nl, waarin het krantenbestand van Delpher 
+is toegevoegd voor onderzoek. Met gebruikmaking van software voor ‘topic 
+modeling’ kunnen verborgen thematische structuren en verbanden in grote 
+hoeveelheden tekst worden ontdekt. Ook kan moderne software analyses 
+uitvoeren die zijn gericht op chronologie (‘time stamps’) of andere raakpunten 
+en verbanden. Deze manieren van onderzoek bevorderen een beter begrip van 
+situaties en verbanden.
+De op een breed publiek gerichte vorm van Digital Humanities is niet per definitie 
+heel ingewikkeld. Met een zorgvuldige verwerking van data in Excel of met 
+behulp van online tools voor het maken van een kaart of een tijdlijn kan iedereen 
+gemakkelijk een interessante visualisatie maken. 
+Ook zijn er platforms die een gratis webomgeving met database bieden 
+waarin onderzoekers hun collecties en projecten kosteloos kunnen delen. Een 
+voorbeeld is het Brits-Caribische project Digital Grainger waarin iedereen 
+informatie en verwijzingen (annotaties) aan een koloniale tekst kan toevoegen 
+ Hypothes.is. 
+door gebruik making van de tool
+Dergelijke werkwijzen in onderwijs, wetenschap en de culturele sector kunnen 
+een groot verschil maken in het begrijpen en bespreken van het verleden. Juist 
+voor onderzoek naar het Nederlands koloniaal verleden en slavernijverleden 
+zijn er uitdagingen. Veel belangrijke corpora zijn nog niet digitaal beschikbaar 
+en kunnen dus ook niet toegevoegd worden aan TDM-platforms. Systemen en 
+softwareproducten voor grootschalige analyses zijn bovendien veelal nog niet 
+in staat minder bekende talen en handschriften, zoals Papiaments, Sranantongo 
+en talen van Zuidoost-Azië te lezen. Voor grootschalig inclusief historisch onder-
+zoek naar de doorwerking van slavernijverleden is dit essentieel. 
+Margo Groenewoud (1968) is een sociaal historicus gespecialiseerd  
+in de twintigste-eeuwse Nederlandse Cariben. 
+— 51 —
