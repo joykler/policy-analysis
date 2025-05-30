@@ -1,0 +1,55 @@
+Versie 0.16 ter inzagelegging | Generieke  Selectielijst MIVD | maart 2015  
+ 
+ 
+De volgende stap in de inlichtingenproductiecyclus bestaat uit 
+het (voor-)selecteren en bewerken van veelal ruwe gegevens. 
+Elke vorm van analyse heeft een gedegen voorbewerking nodig 
+zodat schaarse analysecapaciteit binnen een inlichtingendienst 
+zich zoveel mogelijk kan richten op het analyseren zelf. 
+Voorbewerking bestaat grofweg uit het selecteren en klaarzetten 
+van informatie die nodig is voor de analyse. De ruwe informatie 
+wordt allereerst toegankelijk gemaakt (bijv. beeldmateriaal 
+‘lezen’, berichten ontcijferen en vertalen, enz.). Toegankelijk 
+gemaakte informatie wordt vervolgens bijeen gebracht en 
+gegroepeerd, en van opmerkingen voorzien, bijv. t.a.v. de 
+herkomst en de betrouwbaarheid van de bron. Voorts wordt 
+aangegeven of aanvullende achtergrondgegevens en verdere 
+analyse van de informatie zinvol is.  
+ 
+Analyse (analysis) 
+ 
+In deze fase worden door de analist(en) achtereenvolgens de 
+substappen registreren, evalueren, analyseren, integreren en 
+interpreteren doorlopen. Beschikbare informatie wordt grondig 
+onderzocht, met elkaar vergeleken en op samenhang bezien. De 
+betekenis, de relevantie, de waarschijnlijkheid en de 
+betrouwbaarheid van tot informatie verwerkte single-source 
+gegevens worden geëvalueerd. Vastgesteld wordt in hoeverre 
+gegevens elkaar en al dan niet expliciet geformuleerde 
+hypothesen tegenspreken of juist bevestigen. Indien reeds een 
+zgn. normbeeld beschikbaar is (d.w.z. een reeds geëvalueerde, 
+bestaande situatie die als referentie dient voor verder 
+onderzoek) dan wordt nieuwe informatie daartegen afgezet. De 
+diverse aangeleverde single-source producten worden tijdens 
+deze fase geïntegreerd in all-source-based inzichten en diverse 
+soorten producten. Vervolgens wordt een beoordeling gegeven 
+van de dreiging op dat moment en de wijze waarop deze zich op 
+de korte, middellange en/of langere termijn kan ontwikkelen. In 
+het bijzonder tijdens de productiefase staat het zoveel mogelijk 
+voldoen aan de volgende inlichtingencriteria centraal: juistheid, 
+objectiviteit, relevantie, bruikbaarheid en tijdigheid.   
+ 
+Productie (production) 
+ 
+Na de analysefase worden de aldus verkregen kennis en 
+inzichten samengebracht in een afgerond inlichtingenproduct 
+(d.w.z. tot ‘inlichtingen’ gemaakt), dat meerdere 
+verschijningsvormen kent, al naar gelang de behoefte van de 
+afnemer (bijvoorbeeld op schrift, in een briefing of in een 
+gesprek). Inlichtingenproducten kunnen tussentijdse 
+rapportages zijn voor andere analisten (veelal ‘halffabrikaten’ uit 
+single source bronnen zoals SIGINT, HUMINT en IMINT), dan wel 
+afgeronde rapportages en/of briefings voor afnemers. Kern van 
+ 
+ 
+Pagina 102 van 167

@@ -1,0 +1,54 @@
+Versie 0.16 ter inzagelegging | Generieke Selectielijst MIVD | maart 2015 
+gegevens die slechts via het gebruik van bijzondere 
+bevoegdheden te verkrijgen zijn (zoals de inzet van informanten 
+en agenten) of die verstrekt zijn door partnerdiensten en/of 
+zusterdiensten (zoals de AIVD).  
+ 
+Afhankelijk van de middelen waarmee en de wijze waarop 
+inlichtingen verzameld worden zijn de gesloten 
+inlichtingenbronnen op diverse manieren in te delen. Een 
+veelgebruikte indeling is een onderscheid in categorieën: 
+ 
+- Openbaar toegankelijke bronnen (open source 
+intelligence, oftewel OSINT).  
+- Menselijke bronnen: de inzet van natuurlijke personen, 
+al dan niet onder dekmantel van een aangenomen 
+identiteit of hoedanigheid, die onder 
+verantwoordelijkheid en /of onder instructie van dienst 
+zijn belast met (bijv.) gerichte gegevensverzameling. 
+(human intelligence, oftewel HUMINT); 
+- Het met een technisch hulpmiddel ontvangen en 
+opnemen van (niet-) kabelgebonden telecommunicatie 
+en electromagnetische signalen (signals intelligence, 
+oftewel SIGINT en communication intelligence, 
+COMINT); 
+- Informatie verkregen uit luchtfoto’s (imagery 
+intelligence, oftewel IMINT); 
+- Informatie verkregen uit communicatie via cyberspace, 
+door bijvoorbeeld het inbreken in 
+     gesloten internetfora of door computer aanvallen 
+(oftewel cyber intelligence).  
+ 
+  
+ 
+ 
+Single source/all-source 
+ 
+Analyses en beoordelingen in inlichtingenrapportages kunnen 
+zowel gebaseerd zijn op gegevens uit één enkele (soort) bron 
+(single source), als op gegevens afkomstig uit verschillende 
+(soorten) bronnen (all source). In het algemeen geldt dat 
+verificatie van een gegeven vanuit verschillende bronnen de 
+betrouwbaarheid en de waarschijnlijkheid van het gegeven 
+verhoogt. Desalniettemin kunnen single source gegevens ook 
+een belangrijke rol spelen in het kader van Indicatie en 
+Waarschuwing (I&W). In dit geval is het oordeel van de 
+betrokken entiteit die het gegeven heeft verzameld, bijvoorbeeld 
+een HUMINT-operateur, een SIGINT-team, of een partnerdienst, 
+over de betrouwbaarheid van de bron en de waarschijnlijkheid 
+van het door de bron verkregen bericht van bijzonder belang.  
+ 
+Bewerking (processing) 
+ 
+ 
+Pagina 101 van 167

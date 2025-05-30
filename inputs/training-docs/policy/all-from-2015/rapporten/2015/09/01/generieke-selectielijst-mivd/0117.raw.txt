@@ -1,0 +1,54 @@
+Versie 0.16 ter inzagelegging | Generieke Selectielijst MIVD | maart 2015 
+ 
+De ordening op hoofdprocessen is geregeld in de Richtlijn 
+ordening en selectie digitale informatie van 16 mei 2011 
+(BS/201115746). Archiefbescheiden worden geordend binnen de 
+limitatieve structuur van de hoofdprocessen zoals beschreven in 
+voornoemde richtlijn. De hoofdprocessen mogen worden 
+verdiept in subprocessen en dossiers. De hoofdprocessen uit de 
+Richtlijn komen overeen met de hoofdprocessen zoals deze zijn 
+vastgelegd in onderhavige generieke selectielijst. Er is dus een 
+duidelijke relatie tussen ordening en selectie. 
+ 
+De ordening op hoofdprocessen is in januari 2012 
+geïmplementeerd. 
+ 
+2.3.2 Militaire operaties 
+ 
+Voor militaire operaties (uitzendingen) is de ordening 
+voorgeschreven in de Aanwijzing van de Commandant der 
+Strijdkrachten nummer A 158. Voor grote militaire operaties is 
+als ordeningsprincipe bepaald dat er minimaal wordt geordend 
+2
+op grond van de commandostructuur. Voor kleine operaties 
+geldt, dat de documenten tenminste op datum zijn geordend.  
+ 
+Alle neerslag van militaire operaties is te koppelen aan proces 
+10.1.1,het ontwikkelen van militaire capaciteit of een van de 
+subwerkprocessen die hier zijn onderscheiden. 
+2.3.3 Personeelsdossiers 
+ 
+Personele archiefdocumenten die samen het personeelsdossier 
+vormen, worden opgeslagen in de applicatie Adacta. 
+ 
+De metadata voor personele archiefstukken bestaan uit vier 
+hoofdonderdelen. Met twee groepen van deze metadata kunnen 
+de documenten worden geordend, te weten persoonsgegevens 
+en documentkenmerken. Deze twee groepen van metadata zijn 
+hieronder nader uitgewerkt. 
+ 
+Van elk digitaal personeelsdocument worden een aantal 
+gerelateerde personeelsgegevens vastgelegd, zoals: 
+ 
+• Werknemersnummer; 
+• Registratienummer; 
+• Werknemersnaam; 
+• Defensieonderdeel. 
+ 
+                                                
+2 Binnen staven vanaf brigadeniveau en hoger worden negen secties onderkend. Van 
+ sectie 1, personeel tot sectie 9, civiel-militaire samenwerking. Elke sectie is aan een 
+ werkproces in deze selectielijst te koppelen.  
+ 
+ 
+Pagina 117 van 167

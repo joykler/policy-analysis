@@ -1,0 +1,54 @@
+Versie 0.16 ter inzagelegging | Generieke Selectielijst MIVD | maart 2015 
+2.4 Ordeningsstructuur van de MIVD-archieven 
+ 
+De MIVD is gehouden aan de departementale voorschriften op 
+het gebied van de documentaire informatievoorziening (o.m. de 
+beheersregels en de onderliggende uitvoeringrichtlijnen, die 
+momenteel allemaal worden herzien). In verband met de rubri-
+cering van een deel van de archiefbescheiden maakt de MIVD bij 
+de uitvoering van de taken gebruik van eigen netwerken, data-
+bases, etc. Als gevolg van deze compartimentering zijn MIVD-
+archieven opgeslagen in het centrale depot van het ministerie, 
+maar onder een afzonderlijk beveiligd toegangsregime. 
+ 
+De MIVD stelt een eigen documentair structuurplan op. De 
+ordening structuur sluit aan op de werkprocessen van deze 
+selectielijst.  
+ 
+Gezien de omvang van en veelvormigheid van de papieren 
+archieven het niet doenlijk is hier een overzicht te geven hoe 
+deze selectielijst aansluit op de ordeningsstructuur van de 
+papieren archieven uit deze periode. Dit zal in archief-
+bewerkingsplannen worden vastgelegd.  
+ 
+2.4.1 XPost 
+ 
+Hoewel de aard van de MIVD ertoe geleid heeft dat XPost op het 
+eigen netwerk is geïnstalleerd inclusief een eigen Oracle 
+database, wordt voor de inrichting de defensierichtlijnen 
+gevolgd. Sedert oktober 2013 beschikt ook de MIVD over 
+XPostWeb en is het digitale document – mits geautoriseerd – 
+terug te vinden.  
+ 
+ 
+De GSD vormt, samen met de GS MIVD, het wettelijke kader 
+voor het waarderen en selecteren van documenten voor heel 
+Defensie. Ze bevatten samen alle processen die Defensie 
+uitvoert. Deze processen zijn vertaald in een Defensiebreed 
+ordeningsplan (de Richtlijn ordening archiefbescheiden 
+Defensie). 
+ 
+In vervolg op het vaststellen van deze GS MIVD, zal de Richtlijn 
+ordening archiefbescheiden Defensie worden herzien en opnieuw 
+worden vastgesteld. In deze richtlijn zijn regels opgenomen 
+inzake de ordening van door Defensie beheerde 
+archiefbescheiden. De richtlijn stelt hiervoor het kader vast en 
+dient als leidraad om de bewaartermijn, context en samenhang 
+van archiefbescheiden aan te geven 
+ 
+Op grond van voornoemde richtlijn wordt voor de MIVD in de 
+loop van 2015 een ordeningsplan opgesteld. De processen van 
+dat ordeningsplan wordt vervolgens in de procestabel in XPost 
+ 
+ 
+Pagina 119 van 167

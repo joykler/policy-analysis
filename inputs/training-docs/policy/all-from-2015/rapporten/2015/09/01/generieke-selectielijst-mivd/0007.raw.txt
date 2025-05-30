@@ -1,0 +1,55 @@
+Versie 0.16 ter inzagelegging | Generieke Selectielijst MIVD | maart 2015 
+1.4 Leeswijzer 
+ 
+In deel II is een overzicht opgenomen van categorieën van te 
+bewaren en te vernietigen archiefbescheiden. Hierin worden de 
+processen, risico´s, onderwerpen en daarbij behorende 
+vernietigingstermijnen van de neerslag van het ministerie van 
+Defensie beschreven.  
+Het overzicht is ingedeeld in zes functies, overgenomen uit de 
+Model Architectuur RIJksoverheid (MARIJ, met veertien catego-
+rieën (hoofdprocessen) en plusminus 70 (sub)processen.  
+De zes functies zijn:  
+ Sturing en inrichting 
+ Primaire functies 
+ Handhaving en toezicht 
+ Kennis en Advies 
+ Ondersteunende functies 
+ Uitvoering 
+ 
+De omschrijvingen van deze functies zijn opgenomen in het 
+overzicht van de categorieën. 
+De categorieën en werkprocessen zijn beschreven volgens het 
+volgende schema:  
+ 
+Nummer: Dient als referentie voor de ordening van de categorieën en processen 
+Categorie: Naam van de categorie 
+Toelichting Informatie over bereik en neerslag van de categorie 
+Nr. Proces Risico Waardering Toelichting 
+!! Attentie 
+ Voorbeelden 
+Nummer Naam van het proces Risico voor Waardering Hier staat indien nodig 
+van het de van de verhelderende informatie over 
+proces bedrijfsvoe neerslag van het proces. 
+ring van het proces:  
+Defensie: - B !! Hier wordt indien nodig 
+- - Hoog (bewaren), gewezen op mogelijke 
+(rood) met nr. interpretatieproblemen en 
+- - Laag algemeen geattendeerd op verwante 
+(groen) selectiecri- processen. 
+terium of  
+- - V  Cursief: voorbeelden van 
+(vernietigen processen die onder dit 
+), met een proces vallen. 
+vernietigings
+termijn in 
+aantal jaren 
+ 
+De bewaarplaats van archiefstukken is gekoppeld aan het 
+organisatieonderdeel dat primair is belast met de opstelling en 
+behandeling van de neerslag van een proces. Bijvoorbeeld de 
+notulen van het beraad van de SG met de DG’s worden alleen 
+bewaard bij het secretariaat daarvan en niet bij alle directies die 
+ 
+ 
+Pagina 7 van 167

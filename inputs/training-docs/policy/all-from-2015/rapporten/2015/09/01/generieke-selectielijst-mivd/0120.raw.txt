@@ -1,0 +1,51 @@
+Versie 0.16 ter inzagelegging | Generieke  Selectielijst MIVD | maart 2015  
+ 
+opgenomen. In de database van de MIVD kunnen documenten 
+en dossiers aan een proces uit deze tabel worden gekoppeld. 
+ 
+2.4.2 Aeolus 
+ 
+De MIVD heeft voor het werkproces dat betrekking heeft op het 
+uitvoeren van veiligheidsonderzoeken een apart document 
+management systeem ingericht. Met deze specifieke toepassing 
+van Filenet, die binnen de dienst bekend staat als Aeolus, wordt 
+het proces digitaal afgehandeld. 
+ 
+2.5 Toepasbaarheid GS MIVD bij bewerking papieren 
+archieven 
+ 
+In onderstand tabel wordt in hoofdlijnen aangegeven hoe de GS 
+MIVD kan worden toegepast bij het bewerken en selecteren van 
+reeds gevormd, papieren archieven van de dienst. 
+ 
+Archiefblok Bewerkingsgrond Toelichting 
+Veiligheidsonderzoeken 7.7  Direct 
+(Aeolus) toepasbaar, 
+wegwerken 
+deel 
+achterstand 
+Bestuurlijke archieven 1 Direct 
+toepasbaar, 
+wegwerken 
+deel 
+achterstand 
+Luchtfotografie 10.1 Direct 
+toepasbaar, 
+wegwerken 
+deel 
+achterstand 
+PIOFACH 9 GSD Direct 
+toepasbaar, 
+wegwerken 
+deel 
+achterstand 
+Niet gebruikte 7/9/3 Direct 
+broninformatie toepasbaar, 
+wegwerken 
+deel 
+achterstand 
+ 
+ 
+ 
+ 
+Pagina 120 van 167

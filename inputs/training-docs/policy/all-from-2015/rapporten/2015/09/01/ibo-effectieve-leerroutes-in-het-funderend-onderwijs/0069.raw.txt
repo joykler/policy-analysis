@@ -1,0 +1,61 @@
+IBO Effectieve leerroutes in het funderend onderwijs 
+ 
+Bijlage 7 Voorbeeldberekeningen hoofdstuk 4 
+ 
+In aanvulling op box 4.1 is hieronder weergegeven hoeveel minder leerlingen vertraging door 
+zittenblijven oplopen en wat dit aan besparingen kan opleveren indien de maatregelen uit de 
+beleidsvarianten ertoe zouden leiden dat het laagst-scorende kwartiel van de scholen hun aandeel 
+e
+vertraagde leerlingen weet terug te brengen tot het gemiddelde zittenblijfpercentage van het 3 
+kwartiel en het derde en tweede kwartiel scholen hun percentage weten te verlagen naar het 
+gemiddelde van het kwartiel daarboven. 
+ 
+Primair Onderwijs 
+Tabel B7.1 geeft de verdeling van het gemiddelde percentage zittenblijvers per kwartiel en het 
+totaal aantal leerlingen met een leeftijdsachterstand in groep 8. 
+ 
+Tabel B7.1. verdeling percentages zittenblijven in het PO per kwartiel 
+Kwartiel Gemiddelde Aantal 
+zittenblijvers zittenblijvers 
+1 0,47% 1962 
+2 1,46% 6012 
+3 2,34% 9300 
+4 4,30% 12558 
+Totaal 2,14% 29832 
+ 
+In tabel B7.2 is weergeven wat de mogelijke effecten zijn wanneer de maatregelen uit de 
+beleidsvarianten ertoe zouden leiden dat het kwartiel scholen met het hoogste zittenblijfpercentage 
+hun percentage kunnen verlagen van gemiddeld 4,3% naar het gemiddelde zittenblijfpercentage 
+van het derde kwartiel (2,34%) en het derde en tweede kwartiel scholen hun percentage weten te 
+verlagen naar het kwartiel daarboven. 
+ 
+Tabel B7.2 Effect vermindering aantal zittenblijvers verbetering per kwartiel (PO) 
+ Vermindering Vermindering Opbrengst 
+zittenblijvers zittenblijvers, (structureel) 
+aantal percentage in € mln. 
+Vierde kwartiel op niveau derde -5300 -18% -24 
+kwartiel 
+Derde kwartiel op niveau tweede -3500 -12% -16 
+kwartiel 
+Tweede kwartiel op niveau eerste -4100 -14% -18 
+kwartiel 
+Totaaleffect: tweede, derde en -13.000 -43% -58 
+vierde kwartiel op één kwartiel-
+niveau hoger 
+ 
+Wanneer het vierde kwartiel gaat presteren op het niveau van het derde kwartiel, dan leidt dat 
+naar verwachting tot een daling van het aantal vertraagde leerlingen met 5300. Dat is een afname 
+van het aantal zittenblijvers met 18% en zou een structurele besparing van 24 miljoen opleveren. 
+Wanneer ook de scholen in het derde en tweede kwartiel hun gemiddelde percentage zittenblijvers 
+zouden verlagen naar het gemiddelde percentage van het kwartiel erboven, kan de structurele 
+besparing in totaal oplopen naar € 58 mln. Het aantal zittenblijvers in het primair onderwijs zou 
+daarmee dalen van 30.000 nu naar zo’n 17.000 in de nieuwe situatie. 
+ 
+Voortgezet Onderwijs 
+Tabel B7.3 geeft de verdeling van het gemiddelde percentage zittenblijvers per kwartiel en het 
+totaal aantal leerlingen in het voortgezet onderwijs dat op dezelfde school is blijven zitten. Dit is 
+niet gelijk aan het totaal aantal zittenblijvers in het VO, aangezien er ook leerlingen zijn die in het 
+doubleerjaar van school wisselen. Het is voor deze leerlingen echter niet duidelijk bij welke school 
+ze als doubleur moeten worden aangerekend. Vandaar dat ze in deze berekening buiten 
+beschouwing zijn gelaten. Het totale aantal zittenblijvers in het VO ligt rond 50.000 leerlingen. 
+69

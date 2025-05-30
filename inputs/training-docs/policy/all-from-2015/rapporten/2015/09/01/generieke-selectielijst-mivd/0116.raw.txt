@@ -1,0 +1,55 @@
+Versie 0.16 ter inzagelegging | Generieke  Selectielijst MIVD | maart 2015  
+ 
+dat de ‘systematische opsomming van categorieën 
+archiefbescheiden’ in overeenstemming moet zijn met de voor 
+het archief geldende ordeningstructuur. Voor enkele van de 
+informatiesystemen die Defensie in gebruik heeft, geldt dat 
+hierin de ordening van de selectielijst toegepast wordt. 
+Hieronder worden enkele belangrijke informatiesystemen die 
+archiefwaardige informatie bevatten beschreven en de 
+aansluiting van deze informatiesystemen op selectie en het 
+informatiebeheer.  
+ 
+Zoals reeds hierboven is gesteld zal  deze selectielijst ook 
+worden gebruikt bij de bewerking en selectie van reeds 
+gevormde papieren archieven vanaf 1945. Gezien de omvang 
+van en veelvormigheid van deze papieren archieven is het niet 
+doenlijk hier een overzicht te geven hoe deze selectielijst 
+aansluit op de ordeningsstructuur van de papieren archieven uit 
+deze periode. Dit zal in archiefbewerkingsplannen worden 
+vastgelegd.  
+2.3.1 XPost 
+ 
+Sedert medio 2007 is de applicatie Xpost als defensiebrede 
+applicatie vastgesteld voor de dienstcorrespondentie (nota’s, 
+brieven, etc.). XPost is de ICT-standaard applicatie – het 
+postregistratiesysteem - voor het op gecontroleerde wijze 
+registreren, routeren en (doen) opslaan van archiefbescheiden. 
+ 
+Met XPost(Web) wordt de papieren poststroom gedigitaliseerd, 
+geregistreerd en gerouteerd door de defensieorganisatie naar de 
+behandelaar(s) ter ondersteuning van de bedrijfsvoering. De 
+bedrijfsvoering wordt hiermee ondersteund in de dagelijkse 
+afhandeling van documenten, waarbij zicht is op de behandelaar 
+van het document en de afhandelingstermijn, en op de 
+informatie die wordt vastgelegd over de wijze waarop het 
+document is afgedaan. Tevens is het digitale document, mits 
+men daartoe is geautoriseerd, voor een ieder met toegang tot 
+XPostWeb terug te vinden. 
+ 
+Er wordt gebruik gemaakt van de standaard functionaliteit van 
+het relationeel database systeem (Oracle).Elk defensieonderdeel 
+heeft een eigen database. 
+ 
+De inrichting van XPost kan worden aangepast aan de eigen 
+situatie en werkmethoden, waardoor alleen de relevante functies 
+weergegeven worden. Bovendien zijn autorisaties per afdeling in 
+te stellen. Iedereen kan dus van hetzelfde systeem gebruik 
+maken op basis van aan hem of haar toegekende rechten. 
+ 
+De primaire ordening in het Xpost systeem is op organisatie 
+(defensieonderdeel), en daarbinnen op hoofdprocessen 
+(secundaire ordening). 
+ 
+ 
+Pagina 116 van 167

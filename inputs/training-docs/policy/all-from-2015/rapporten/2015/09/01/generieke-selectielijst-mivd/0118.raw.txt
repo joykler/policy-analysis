@@ -1,0 +1,54 @@
+Versie 0.16 ter inzagelegging | Generieke  Selectielijst MIVD | maart 2015  
+ 
+Het onderdeel documentkenmerken is opgebouwd uit een aantal 
+velden, waaronder: 
+• Classificatie: 
+o  Rubriek; 
+o Onderwerp; 
+• DatumNummer. 
+ 
+Rubriek, onderwerp en datum zijn verplichte velden. Rubriek en 
+onderwerp hebben vastgestelde waarden. Voor het datumveld is 
+procedureel vastgelegd het hier het datumveld als 20111223 
+(JJJJMMDD) in te vullen, de datering van het betreffende 
+personele document.  
+ 
+Documenten die aan specifieke MIVD-functies - anders dan de 
+documenten die het dienstverband met Defensie betreffen - zijn 
+te relateren worden niet in het digitale personeelsdossier 
+opgenomen, maar blijven gedurende de bewaartermijn 
+gecompartimenteerd binnen de dienst opgeslagen. Dit volgt uit 
+regelgeving op het gebied van informatiebeheer en -beveiliging. 
+Niet iedereen is geautoriseerd het inzien en behandelen van 
+MIVD stukken. 
+ 
+Alle personeelsdossiers vallen onder werkproces 9.1.3 van deze 
+selectielijst, het beheren van personeelsdossiers. Elke 
+classificatie of rubriek kent slechts één bewaartermijn, 
+bijvoorbeeld V 100 of V 7 jaar.  
+2.3.4 Materieel-logistieke processen 
+ 
+Sedert eind 2011 gebruiken de defensieonderdelen Defensie 
+Materieel Organisatie en de Hoofddirectie Financiën en Control 
+de applicatie Speer Matlog en Financiën (Speer M&F) voor onder 
+meer het routeren, documenteren en archiveren van de 
+hoofdprocessen materieel-logistiek en financiën. Speer zorgt  
+voor de defensiebrede integratie en standaardisatie van deze 
+processen.  
+Het hoofdproces materieel-logistiek kent een verdere  
+onderverdeling in de subprocessen marktverkenning, 
+verwerving, onderhoud, afstoten et cetera.  
+ 
+De ordening in het systeem is op proces. Bij de waardering van 
+de processen is uitgegaan van onderhavige selectielijst, die 
+reeds in concept voorhanden was. Het systeem kent nog 
+alternatieve zoekkenmerken. Er kan worden gezocht naar 
+objecten, eigenaren, op onderwerp et cetera. 
+ 
+De MIVD kent geen eigen materieel-logistieke processen en 
+wordt in deze ondersteund door de hierboven genoemde 
+defensieonderdelen. 
+ 
+ 
+ 
+Pagina 118 van 167
