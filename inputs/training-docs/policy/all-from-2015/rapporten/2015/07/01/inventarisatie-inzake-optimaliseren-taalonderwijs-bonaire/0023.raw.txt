@@ -39,5 +39,4 @@ taalontwikkeling te faciliteren.
  
  OCW wordt geadviseerd de implementatie en opbrengsten van Kaleidoscoop 
 nogmaals te (doen) evalueren:   
-- hoe en hoe goed wordt het programma in de praktijk toegepast?  
-23
+- hoe en hoe goed wordt het programma in de praktijk toegepast?

@@ -47,5 +47,4 @@ lands; het betreft Academisch Nederlands.
   4.1.2.1 Methode Nederlands 
                                                            
 27
- 3.3, 3.4 en 3.5 hoeven wellicht niet per onderwijssoort te worden uitgewerkt. 
-32
+ 3.3, 3.4 en 3.5 hoeven wellicht niet per onderwijssoort te worden uitgewerkt.
