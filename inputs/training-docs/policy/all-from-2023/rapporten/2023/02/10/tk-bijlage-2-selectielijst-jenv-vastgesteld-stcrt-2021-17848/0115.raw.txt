@@ -1,0 +1,52 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+Justid hierbij creëert zijn onder meer adviezen, rapporten, risico-
+inventarisaties en systeemdocumentatie. Een ander voorbeeld is het beheer 
+en beschikbaar stellen van DigiJust door het Dienstencentrum van JenV. 
+Dit proces moet ook worden bezien vanuit het perspectief van informatie-
+uitwisseling tussen ketenpartners met behulp van ketenvoorzieningen. 
+De Justitiële Informatiedienst (Justid) levert en beheert een aantal 
+ketenvoorzieningen, waaronder  
+- de Strafrechtsketendatabank (SKDB);
+- het Justitieel documentatiesysteem (JDS);
+- het Informatieportaal Justitiabelen (Injus);
+- het Generiek Casus Ondersteunend Systeem (GCOS);
+- het Centraal Digitaal Depot (CDD+);
+- Elektronisch Berichtenverkeer (EBV);
+- Digitale handtekening;
+- Basisregister Communicatie Service (BCS);
+- Collectieve Opdracht Routeer Voorziening (CORV);
+- Centraal Informatiepunt Onderzoek Telecommunicatie (CIOT).
+De BCS ontsluit op dit moment de Basisregistratie Personen (BRP, voorheen 
+GBA), het Handelsregister (NHR) en de registers van de RDW. In de toekomst 
+zullen mogelijk ook andere registraties worden aangesloten. 
+Volgnummer 13.3 
+Werkproces De vaststelling van documenten met betrekking tot ordening, selectie, 
+vernietiging, vervreemding, vervanging en overbrenging van archief 
+Grondslag GWR 2.0, proces 9.2 
+Product(en) Verklaring van overbrenging, vernietiging en vervreemding, documentair 
+structuurplan, ordeningsplan, selectielijst, vervangingsbesluit 
+Waardering SA-B4 
+Toelichting Onder dit proces vallen beleidsdocumenten zoals genoemd onder “producten”. 
+Organisatie 
+Volgnummer 13.4 
+Werkproces Het uitvoeren van beleid op het gebied van organisatie 
+Grondslag GWR 2.0, proces 9.3 
+Product(en) Procedure, werkinstructie, handboek 
+Waardering V5 na vervallen 
+Toelichting Het vastleggen van procedures van de administratieve organisatie, juridische 
+zaken, milieu, privacy. Zie voor het instellen van organisatieonderdelen, raden 
+en commissies: proces 1.1 Organisatie en reorganisatie. Zie voor jaarplannen 
+en jaarverslagen de processen 1.10 en 1.11.  
+Financiën 
+Volgnummer 13.5 
+Werkproces Het uitvoeren van beleid op het gebied van financiën 
+Grondslag GWR 2.0, proces 9.4 
+Product(en) Rapportage (o.a. auditing), contract, beschikking, (Europese) aanbesteding 
+Waardering V7 
+Toelichting Dit proces omvat het voeren van de boekhouding, het verrichten en 
+ontvangen van betalingen en de administratieve verwerking daarvan, 
+uitvoeren van de interne accountancy en inkoop. Voor huur-, koop- en 
+verkoopcontract van panden: zie proces 13.8. Voor contract en 
+(subsidie)beschikking in het kader van de uitvoering van activiteiten: zie 
+proces 8.1 
+115

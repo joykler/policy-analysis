@@ -1,0 +1,61 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+ 
+Waardering V5 
+Toelichting De verwerkingsverantwoordelijken over justitiële, strafvorderlijke en 
+tenuitvoerleggingsgegevens mogen onder bepaalde voorwaarden en aan 
+bepaalde partijen deze gegevens verstrekken. Van die verstrekkingen moet 
+tenminste vier jaar een bewijs bewaard worden, aldus artikel 19, 39j en 51c 
+van de Wjsg.  
+ 
+Verstrekkingen van justitiële gegevens kunnen (door de minister) gedaan 
+worden aan rechterlijke ambtenaren ten behoeve van de rechtspleging en het 
+uitvoeren van strafbeschikkingen en aan andere personen en instanties 
+vastgelegd in een Algemene Maatregel van Bestuur. 
+ 
+Verstrekkingen van strafvorderlijke gegevens kunnen (door het College van 
+Procureurs-generaal) gedaan worden aan Nederlandse rechterlijke 
+ambtenaren: de minister van Justitie en Veiligheid, de politie, instanties belast 
+met de tenuitvoerlegging van strafrechtelijke beslissingen, Koninklijke 
+marechaussee en bijzondere opsporingsdiensten, Justitiële Informatiedienst, 
+Minister van Buitenlandse Zaken en de Geneesheer-directeur van een GGZ-
+instelling. 
+ 
+Informatieverstrekking geschiedt ook aan instanties en personen met als doel: 
+het voorkomen en opsporen van strafbare feiten, het handhaven van de orde 
+en veiligheid, het uitoefenen van toezicht op het naleven van regelgeving, het 
+nemen van een bestuursrechtelijke beslissing, het beoordelen van de noodzaak 
+tot het treffen van een rechtspositionele of tuchtrechtelijke maatregel, het 
+verlenen van hulp aan slachtoffers en anderen die bij een strafbaar feit 
+betrokken zijn, of het verrichten van een privaatrechtelijke rechtshandeling 
+door een persoon of instantie die met een publieke taak is belast. 
+Tenslotte wordt ook informatie verstrekt aan andere landen ten behoeve van 
+de strafrechtpleging 
+ 
+Verstrekkingen van tenuitvoerleggingsgegevens door het College van 
+Procureurs-generaal of de minister van Justitie en Veiligheid kunnen aan  
+personen of instanties worden verstrekt voor zover dit noodzakelijk is met het 
+oog op een zwaarwegend algemeen belang: de tenuitvoerlegging van een 
+strafrechtelijke beslissing; de voorkoming, opsporing, onderzoek en de 
+vervolging van strafbare feiten; schuldhulpverlening of resocialisatie van 
+betrokkene; bestuurlijk handelen of het nemen van een bestuursrechtelijke 
+beslissing, of; het verlenen van hulp aan slachtoffers. 
+Volgnummer 7.17 
+Werkproces Het verstrekken van telecomgegevens aan opsporings- en inlichtingen- 
+en veiligheidsdiensten 
+Grondslag Wetboek van strafvordering; Wet op de inlichtingen- en veiligheidsdiensten;  
+art. 7, eerste lid, Besluit verstrekking gegevens telecommunicatie 
+Product(en) Kenmerk informatieverstrekking  
+Waardering V3 
+Opsporingsdiensten gebruiken informatie van telecom- en internetaanbieders 
+Toelichting 
+om verdachten van criminele activiteiten op te sporen. Telecom- en 
+internetbedrijven moeten persoonlijke gegevens die bij IP-adressen, 
+telefoonnummers en e-mailadressen horen, beschikbaar stellen. Het Centraal 
+Informatiepunt Onderzoek Telecommunicatie (CIOT) zorgt ervoor dat die 
+informatie bij de opsporingsdiensten terecht komt. 
+Telecommunicatiebedrijven zijn verplicht om  persoonsgegevens van hun 
+klanten beschikbaar te stellen aan het CIOT. Het CIOT sluit deze bedrijven aan 
+op het CIOT-informatiepunt De provider levert elke 24 uur een actueel bestand 
+met klantgegevens aan. 
+De opsporingsdiensten mogen het informatiesysteem niet zomaar raadplegen. 
+66

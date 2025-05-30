@@ -1,0 +1,50 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+Cluster 4: Ondersteunende functies 
+Cluster 4 Ondersteunende functies 
+Toelichting Ondersteunende functies zijn gericht op het ter beschikking stellen van 
+mensen, gebouwen en middelen aan de Rijksdienst zelf ten behoeve van het 
+zo goed mogelijk uitvoeren van de primaire taken. Binnen de overheid worden 
+de ondersteunende functies doorgaans aangeduid met het acroniem PIOFACH 
+(Personeel, Informatievoorziening, Organisatie, Financiën, Automatisering, 
+Communicatie en Huisvesting). 
+Categorie 13:  Ondersteunende functies 
+Ondersteunende functies zijn gericht op het ter beschikking stellen van mensen, gebouwen en 
+middelen aan de Rijksdienst zelf ten behoeve van het zo goed mogelijk uitvoeren van de primaire 
+taken. Het gaat voornamelijk om die diensten die worden opgenomen in producten en diensten 
+catalogi, inclusief de kaders en instrumenten die daarvoor worden ontwikkeld en ingezet. 
+De documentaire neerslag van deze processen is zeer omvangrijk en veelvormig. 
+ Zie voor jaarverslagen van de accountantsdiensten betreffende het afleggen van
+verantwoording aan de Kamer: de processen in categorie 2.
+ Zie voor het opstellen en verantwoorden van het beleid op het gebied van ondersteuning
+(PIOFACH): Secundair beleid
+Sinds 2010 is het beheer van de meeste personeelsdossiers ondergebracht bij P-Direkt en 
+opgenomen in de selectielijst BSD Mens-en-werk 
+Personeel 
+Volgnummer 13.1 
+Werkproces Het uitvoeren van beleid op het gebied van personeel 
+Grondslag GWR 2.0,  proces 9.1 
+Product(en) Organisatieadvies, departementale maatregel, functiewaardering, beloning en 
+vergoeding, centrale opleidingsvoorziening (inclusief interne en externe 
+scholing), personeelsactiviteit en -vereniging, Arbodienst, (schending) van 
+integriteit, feitenonderzoek 
+Waardering V10 
+Toelichting Onder dit werkproces worden alle andere processen verstaan dan de 
+processen in BSD P-Direkt (168): Mens en werk, over het personeelsdossier. 
+Informatie en ICT 
+Volgnummer 13.2 
+Werkproces Het uitvoeren van  beleid op het gebied van informatievoorziening 
+Grondslag GWR 2.0, proces 9.1 
+Product(en) Dienstverleningsovereenkomst, advies, interne procedure, werkinstructie, 
+architectuurdocument,, autorisatieschema, gebruikerslijst, 
+systeemdocumentatie, monitor (rapportage datakwaliteit, gebruik van 
+systemen), loggegevens, hash-waarde 
+Waardering V5 na vervallen 
+Toelichting Onder dit proces vallen de uitvoerende processen over het informatiebeheer, 
+informatiebeveiliging, automatisering en telecommunicatie (informatie- en 
+communicatietechnologie). Te denken valt aan het afhandelen van meldingen 
+over datalekken en het uitvoeren van Privacy Impactanalyses (PIA).  
+Zie voor informatieverzoeken de processen in categorie 6. 
+In dit proces gaat het om het beschikbaar stellen, het (door)ontwikkelen en 
+beheren van applicaties. Hieronder vallen ook lifecyclemanagement, 
+informatiebeveiliging, functioneel en technisch beheer. De informatie die 
+114

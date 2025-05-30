@@ -1,0 +1,67 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+ 
+betere re-integratie van een ex-justitiabele.  
+ 
+Sinds mei 2019 versturen penitentiaire inrichtingen gegevens naar gemeenten 
+via de Applicatie Gegevensverstrekking Gemeenten (AGG). Dit vervangt het 
+oude systeem Digitaal Platform Aansluiting Nazorg (DPAN). In 2020 wordt 
+Injus in gebruik genomen. Deze systemen werden en worden ondersteund door 
+Justid. 
+Volgnummer 7.39 
+Werkproces Het indiceren (en financieren) van forensische plaatsingen 
+Grondslag Wet forensische zorg, Wet zorg en dwang in werking (tot 2020 Wet Bopz). 
+Handboek Forensische Zorg, editie 5, 2019, Ministerie van Justitie en Veiligheid 
+Product(en) Plaatsingsverzoek, indicatiestelling, plaatsingsadvies, plaatsingsbesluit, 
+rapportage over de behandeling 
+V80, terbeschikkingstelling met voorwaarden 
+Waardering 
+V20, overige forensische zorg 
+Een rechter kan een justitiabele bevelen tot behandeling en verpleging. Het 
+Toelichting 
+doel daarvan is de kans op herhaling (recidive) van strafbaar gedrag te 
+verkleinen. De behandeling moet daarom zijn gericht op de achtergrond van 
+het delictgedrag, de zogenaamde criminogene factoren (forensische zorg).  
+ 
+Forensische zorg is geestelijke gezondheidszorg, verslavingszorg en 
+verstandelijke gehandicaptenzorg, die onderdeel is van een (voorwaardelijke) 
+straf of maatregel of de tenuitvoerlegging daarvan, dan wel een andere 
+justitiële titel. Forensische zorg wordt meestal door de rechter opgelegd als 
+onderdeel van een straf of maatregel aan iemand met een psychisch 
+/psychiatrische stoornis of verstandelijke beperking die een strafbaar feit heeft 
+gepleegd (zie ook https://www.forensischezorg.nl/introductie/keten-
+forensische-zorg/forensische-zorgtitels). 
+ 
+Om een justitiabele voor behandeling in een instelling te kunnen plaatsen, is 
+een indicatiestelling voor forensische zorg nodig. Dit wordt gedaan door 
+indicatiestellers die verbonden zijn aan het NIFP. De indicatiesteller indiceert 
+voor zowel de gewenste zorgintensiteit als het noodzakelijke 
+beveiligingsniveau.  
+Op grond van deze tweeledige indicatiestelling doet het NIFP een 
+plaatsingsverzoek aan de Divisie Individuele Zaken (DIZ) van de Dienst 
+Justitiële Inrichtingen. Het is aan DIZ om op redelijke termijn een plaats te 
+vinden op een forensische afdeling in de GGZ of in een forensische kliniek. Op 
+grond van artikel 6.1, eerste lid van de Wfz, ontvangt de justitiabele namens 
+de minister voor Rechtsbescherming een plaatsingsbesluit. 
+ 
+De maatregel terbeschikkingstelling met bevel tot verpleging van 
+overheidswege (tbs met dwangverpleging) is een van de titels (zie proces 
+7.40).  
+   
+Het ministerie van JenV bekostigt forensische zorg nadat een indicatie is 
+gesteld en er geplaatst is op basis van een plaatsingsbesluit. Uitzondering 
+hierop is de titel ‘plaatsing ten behoeve van een rapportage pro Justitia (art. 
+196 Sr). Hiervoor wordt geen indicatie gesteld en wordt door het OM geplaatst 
+in één van de in de wet  aangewezen instellingen (Pieter Baancentrum en 
+Teylingereind zie proces 7.32) financiering vindt plaats door zowel OM (verblijf) 
+als de Divisie ForZo/Jeugd (DJI) (diagnostiek en onderzoek). 
+ 
+Het Informatiesysteem Forensische Zorg (Ifzo) ondersteunt het totale proces 
+van forensische zorg; van het invoeren van een indicatiestelling tot en met 
+plaatsing bij een gecontracteerde zorginstelling die beschikt over een passend 
+zorgaanbod. De indicerende organisatie maakt in Ifzo de indicatiestelling aan 
+met een indicatiestellingformat. De plaatser kan vervolgens door Ifzo de meest 
+geschikte zorgplek voor de patiënt vinden bij een gecontracteerde 
+zorgaanbieder. De plaatsingsfunctionaris beslist uiteindelijk bij welke 
+gecontracteerde zorgaanbieder de patiënt geplaatst wordt. Alle indicerende en 
+plaatsende medewerkers en gecontracteerde zorgaanbieders, die werken 
+81

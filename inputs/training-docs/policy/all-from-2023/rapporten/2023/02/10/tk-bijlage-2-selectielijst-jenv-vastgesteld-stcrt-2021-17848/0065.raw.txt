@@ -1,0 +1,60 @@
+Selectielijst van het ministerie van Justitie en Veiligheid vanaf 5 mei 1945 
+ 
+vingerafdrukken) 
+- de Justitiële Informatiedienst, ((beheer SKDB en VVI(Voorziening 
+Vingerafdrukken Identificatie), toekennen SKN, Matching Autoriteit)).  
+ 
+Het voornaamste systeem dat de afdeling Matching ondersteunt bij de 
+uitvoering van haar taken is de StrafrechtsKetenDataBank (SKDB), die als 
+verwijsindex is opgezet. 
+Volgnummer 7.15 
+Werkproces Het opnemen en verwijderen van justitiële gegevens over misdrijven 
+en overtredingen van veroordeelden (Justitiële Documentatie) en 
+onderzoeksgegevens naar het gedrag of de levensomstandigheden van 
+een persoon (persoonsdossiers)  
+Grondslag Art. 4, 6, 15 lid 1 en art 40-51 (titel 3) Wet justitiële en strafvorderlijke 
+gegevens (Wjsg); Besluit justitiële en strafvorderlijke gegevens (Bjsg)  
+Product(en) Justitiële Documentatie en het persoonsdossier 
+Waardering Justitiële Documentatie: 
+SA-B5  
+ 
+Persoonsdossiers: 
+V10 na sluiting van het rapport, dan wel na einde van de opgelegde 
+vrijheidsstraf of vrijheidsbeperkende maatregel 
+Toelichting De Justitiële Documentatie (JD) is de wettelijk geregelde, samenhangende 
+gegevensverzameling van justitiële gegevens over misdrijven en overtredingen 
+van veroordeelden (art. 1 onder g Wjsg). Justitiële gegevens zijn 
+persoonsgegevens of gegevens over een rechtspersoon inzake de toepassing 
+van het strafrecht of de strafvordering, die in een gegevensbestand zijn of 
+worden verwerkt. Hieronder vallen ook onherroepelijke vonnissen vanuit een 
+EU-lidstaat of verdragsland van personen met een Nederlandse nationaliteit. 
+ 
+De Justitiële Documentatie wordt door Justid beheerd in het justitieel 
+documentatiesysteem (JDS). Na verloop van tijd wordt deze informatie uit JDS 
+verwijderd en overgezet naar de Onderzoeksdatabase Justitiële Documentatie 
+(OBJD) ten behoeve van onderzoek door het WODC. Uit het uittreksel justitiële 
+documentatie (het ‘strafblad’) blijkt of de betrokken persoon eerder met 
+Justitie in aanraking is geweest, voor welke strafbare feiten deze verdacht is 
+(geweest), welke strafrechtelijke beslissing is genomen, welke straffen / 
+maatregelen / voorwaarden daarbij zijn opgelegd en wanneer en op welke 
+manier deze straffen / maatregelen zijn uitgevoerd. 
+ 
+In verband met strafzaken of bij de tenuitvoerlegging van opgelegde straffen of 
+maatregelen kunnen onderzoeken nodig zijn naar het gedrag of de 
+levensomstandigheden van een persoon. De uitkomsten van deze onderzoeken 
+zijn vastgelegd in een rapport ten behoeve van een rechter, officier van justitie 
+of een selectiefunctionaris. De rapporten zijn afkomstig van de Raad voor de 
+Kinderbescherming, het Nederlands Instituut voor Forensische Psychiatrie en 
+Psychologie / het Pieter Baan Centrum of een (jeugd) reclasseringsinstelling. 
+Het gaat onder meer om de rapportage Pro justitia (zie ook proces 7.32). 
+De rapporten worden in de Wet justitiële en strafvorderlijke 
+gegevens persoonsdossiers genoemd en worden door Justid bewaard in JDS.  
+Volgnummer 7.16 
+Werkproces Het verstrekken van justitiële, strafvorderlijke en 
+tenuitvoerleggingsgegevens 
+Grondslag Wet justitiële en strafvorderlijke gegevens, art 19, art.39 lid e, lid i en lid j en 
+art.51 lid c; Besluit justitiële en strafvorderlijke gegevens (Bjsg). 
+Product(en) Bewijs van verstrekking van justitiële, strafvorderlijke en 
+tenuitvoerleggingsgegevens  gegevens; uittreksel justitiële documentatie; 
+neerslag Slachtofferportaal OM 
+65
