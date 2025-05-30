@@ -58,4 +58,4 @@ wordt naar de uitstoot tijdens de start- en landingscyclus. De ILT schat in dat 
 2
 deze cyclus wordt uitgestoten. Voor NMVOS is dat 32%. Voor de berekening van de schade zonder norm hanteert de 
 ILT de reductiedoelstelling ook voor de totale uitstoot door de luchtvaart. 
-Inspectie Leefomgeving en Transport | 199
+Inspectie Leefomgeving en Transport |

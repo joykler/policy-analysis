@@ -42,4 +42,4 @@ een schaduwprijs per dB(A) voor alle overschrijdingen te bepalen. Deze stelt de 
 Voor de lagere dB(A)-niveaus is daarom sprake van enige overschatting. Verder stelt de ILT voor de berekening de 
 schadeprijs van een dB(A)-overschrijding op Lnight gelijk aan een dB(A)-overschrijding op Lden. Ook hier is daarom 
 sprake van enige overschatting.
-Inspectie Leefomgeving en Transport | 113
+Inspectie Leefomgeving en Transport |

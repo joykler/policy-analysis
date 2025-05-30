@@ -46,4 +46,4 @@ Gezondheidsschade Het gaat hier om verlies van levenskwaliteit of levensduur doo
 gezondheidsbeschadigende stoffen en straling. 
 De ILT drukt ziektelast uit in verloren jaren in gezondheid (DALY). Om gezondheidsschade in euro’s 
 uit te rekenen gebruikt de ILT: 1 DALY = € 85.000 (CE Delft)
-Inspectie Leefomgeving en Transport | 265
+Inspectie Leefomgeving en Transport |

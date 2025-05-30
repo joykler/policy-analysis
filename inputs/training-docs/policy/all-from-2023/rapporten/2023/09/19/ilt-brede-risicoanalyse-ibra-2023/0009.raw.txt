@@ -41,4 +41,4 @@ Top 15 onderwerpen met hoogste schade Totale schade in  Rangorde ten opzichte
 Legenda
 # = de ILT kan een deel van de schade niet berekenen; niet ‘0’  positie in IBRA 2022 is gelijk aan die in 2021
  positie in IBRA 2022 is hoger dan die in 2021  positie in IBRA 2022 is lager dan die in 2021
-Inspectie Leefomgeving en Transport | 9
+Inspectie Leefomgeving en Transport |

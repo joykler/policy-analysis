@@ -41,4 +41,4 @@ per afvalcategorie te zien.
 De ILT hanteert in tabel 1 dezelfde 14 categorieën afval die het CBS hanteert in de Afvalbalans [11]. In de tabel staat de 
 milieuschade per afvalcategorie, de gehanteerde milieuprijzen [14] en de aannames van de ILT voor de berekening van de 
 schades.
-Inspectie Leefomgeving en Transport | 43
+Inspectie Leefomgeving en Transport |

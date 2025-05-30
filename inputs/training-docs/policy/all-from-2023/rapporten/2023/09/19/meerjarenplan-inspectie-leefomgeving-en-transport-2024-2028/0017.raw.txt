@@ -39,5 +39,4 @@ op F-gassen.
 Toezicht certificerende instellingen 
 In vrijwel elk domein binnen het werkveld van de ILT komen certificeringsstelsels voor. Certificeringsstelsels zijn vormen van 
 publiek-private samenwerking, waarbij publieke en private partijen gezamenlijk verantwoordelijk zijn voor het borgen van 
-een publiek belang. De ILT houdt toezicht op taken die de partijen binnen deze certificeringsstelsels uitvoeren. 
-17
+een publiek belang. De ILT houdt toezicht op taken die de partijen binnen deze certificeringsstelsels uitvoeren.

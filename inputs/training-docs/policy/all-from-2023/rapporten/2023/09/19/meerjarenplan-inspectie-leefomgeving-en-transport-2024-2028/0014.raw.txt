@@ -42,5 +42,4 @@ Tabel 1 IBRA 2023: Onderwerpen met grootste maatschappelijke schade
 12 Bouwproduct 
 13 Wabo 
 14 Asbest 
-15 Uitstoot wegverkeer 
-14
+15 Uitstoot wegverkeer
