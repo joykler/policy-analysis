@@ -1,0 +1,41 @@
+14 
+ 
+ Eerste situatie: Er is sprake van een inkomensbestanddeel dat afkomstig is uit een van de landen 
+en toevloeit aan een entiteit die in het andere land is gevestigd. Volgens de nationale wetgeving van 
+het andere land wordt de entiteit als fiscaal transparant aangemerkt (d.w.z. de entiteit wordt zelf niet in 
+de belastingheffing betrokken). Het inkomensbestanddeel wordt gezien als inkomen van de 
+deelnemers in de entiteit. Indien de deelnemers in de entiteit inwoner zijn van het andere land en voor 
+dat inkomen in dat land in de belastingheffing worden betrokken, past het bronland de regeling toe als 
+ware het inkomensbestanddeel van de deelnemers zelve. Daarbij is dus niet van belang hoe het 
+bronland de entiteit kwalificeert. Ook als de entiteit volgens de nationale wetgeving van het bronland 
+als niet fiscaal transparant worden aangemerkt, gaat het bronland in een dergelijke situatie uit van de 
+toegang van de deelnemers tot toepassing van de regeling. 
+ Tweede situatie: Er is sprake van een inkomensbestanddeel dat afkomstig is uit een land en 
+toevloeit aan een entiteit die in het andere land is gevestigd en daar aan de belastingheffing is 
+onderworpen. Volgens de nationale wetgeving van het andere land wordt de entiteit als niet fiscaal 
+transparant aangemerkt (de entiteit wordt zelf in de belastingheffing betrokken). Volgens de nationale 
+wetgeving van het bronland is de entiteit fiscaal transparant. In dit geval kan door de entiteit zelf een 
+beroep worden gedaan op toepassing van de regeling omdat de entiteit in het andere land op de 
+normale wijze in de belastingheffing wordt betrokken en inwoner is als bedoeld in artikel 4 (afgezien 
+van eventueel een uitsluiting volgens artikel 1). 
+ Derde situatie: Er is sprake van een inkomensbestanddeel dat afkomstig is uit een van de landen 
+en toevloeit aan een entiteit die in een derde land is gevestigd en waarin inwoners van het andere 
+land deelnemen. Volgens de nationale wetgeving van het andere land wordt de entiteit als fiscaal 
+transparant aangemerkt. Het inkomensbestanddeel wordt gezien als inkomen van de deelnemers in 
+de entiteit. Indien de deelnemers in de entiteit, die inwoner zijn van het andere land, voor dat inkomen 
+in dat land in de belastingheffing worden betrokken, past het bronland de regeling toe als ware het 
+bestanddeel rechtstreeks aan de deelnemer in de entiteit uitgekeerd. Daarbij is niet van belang hoe 
+het bronland de entiteit in het derde land kwalificeert. 
+ Vierde situatie: Er is sprake van een inkomensbestanddeel dat afkomstig is uit een van de landen 
+en toevloeit aan een entiteit die in een derde land is gevestigd. Volgens de nationale wetgeving van 
+het andere land wordt de entiteit als niet fiscaal transparant aangemerkt (de entiteit wordt zelf in de 
+belastingheffing betrokken). Op het inkomensbestanddeel hoeft de regeling niet te worden toegepast. 
+Voorbeeld: Natuurlijk persoon Z woont in Sint Maarten. Z neemt deel in entiteit Y welke is opgericht en 
+gevestigd in een derde land. Via de entiteit verkrijgt Z dividenden uit Nederland van BV X. Volgens de 
+fiscale wetgeving van Sint Maarten is Y niet fiscaal transparant; volgens de Nederlandse fiscale 
+wetgeving wel. Het dividend dat afkomstig is uit Nederland wordt bij de natuurlijke persoon Z in Sint 
+Maarten niet in de belastingheffing betrokken. Ook de entiteit wordt niet in Sint Maarten voor de 
+dividenden in de heffing betrokken omdat de entiteit naar het recht van Sint Maarten niet in Sint 
+Maarten is gevestigd. De entiteit is met andere woorden geen inwoner van een van de landen voor 
+toepassing van de regeling en er is geen sprake van inkomen dat aan een inwoner van Sint Maarten 
+kan worden toegerekend. Nederland wordt op grond van de bepaling niet beperkt in het heffingsrecht.
