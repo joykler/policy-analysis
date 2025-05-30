@@ -1,0 +1,53 @@
+‘Klik hier eens op, echt iets voor jou’. Het is dus niet gek dat hij een kilometerhoge stapel 
+afbeeldingen van talloze meiden wist te bemachtigen.” 
+ 
+De verdachte kwam tijdens het onderzoek ook naar voren als ‘de klokkenluider’ van de bekende 
+examenfraude op de Ibn Ghaldounschool. Bonnes vertelt dat hij toevallig via RAT zag dat een van 
+zijn slachtoffers een USB-stick in haar laptop deed, met daarop een examen waarvan hij wist dat 
+het nog niet geweest was. “Onze verdachte wilde zelf niet de klokkenluider zijn. Hij infecteerde 
+daarom met de RAT-tool de computer van een onschuldige man om de fraude aan de kaak te 
+stellen. Hij deed dat door het uitgelekte examen Frans vanaf dat IP-adres op diverse websites te 
+uploaden. De man werd daarom korte tijd als verdachte gezien en zelfs opgepakt. Het feit dat de 
+jongen een onschuldig persoon ernstig in moeilijkheden bracht, rekenen we hem zwaar aan.” 
+ 
+2000 computers 
+De terechtzitting vond plaats op 21 augustus 2014. In de rechtszaal was een deskundige aanwezig 
+om de technische kant van de cybercriminaliteit en de mogelijkheden van RAT toe te lichten. De 
+officier zette onder meer het hacken van 2000 computers en het gewoonte maken van het bezit 
+en de verspreiding van kinderporno op de tenlastelegging. Het laatste verwijt gaat over het 
+verspreiden van de video van het minderjarige meisje op social media. De jongen werd voor alle 
+feiten veroordeeld. Gedeeltelijk onder het minderjarigen en deels onder het meerderjarigen 
+strafrecht. Hij kreeg 107 dagen jeugddetentie en als meerderjarige 30 dagen celstraf. Die tijd had 
+hij echter al in voorarrest gezeten en hoefde hij daarom niet meer uit te zitten. Daarnaast kreeg 
+hij een jaar voorwaardelijke gevangenisstraf van een jaar. 
+ 
+Wat officier Bonnes vooral zorgen baart is de grote dreiging die deze zaak blootlegt. Deze vorm 
+van criminaliteit, nu gericht op individuele burgers, kan ook zeer maatschappij-ontwrichtend 
+zijn. Bijvoorbeeld als hackers het inzetten tegen grote computersystemen. “Vroeger had men veel 
+meer technische kennis nodig. Tegenwoordig hoef je helemaal geen ‘nerd’ meer te zijn. Het 
+gebruik neemt daarom ook toe. Het voorhanden hebben van dit programma is voor individuen 
+strafbaar. Zij kunnen er immers alleen maar kwade bedoelingen mee hebben.”  
+ 
+Computerfix 
+Bonnes vindt dat het bij dit soort tools hard nodig is om na te denken over nieuwe vormen van 
+bestrijding. Ook denkt ze dat de analysecapaciteit van de politie moet verbeteren. Bij deze 
+cybercrimezaak ging het toevallig om drie aangiftes in Rotterdam, maar de officier denkt dat ze 
+de link niet zo snel hadden gelegd als de aangiftes verspreid over het land waren gedaan. Bonnes 
+pleit daarom voor een centrale database waar relevante informatie landelijk samen komt. Voor 
+sommige vormen van computercriminaliteit is dat er al, maar voor het fenomeen RAT nog niet.  
+ 
+Onder burgers en bedrijven moet ook meer awareness komen, denkt Bonnes. “Mensen moeten 
+alerter zijn op de beveiliging van hun computer. Om hen een handje te helpen, vroegen we het 
+Nationaal Cyber Security Centre of ze een speciale ‘computerfix’ wilden ontwikkelen. Een soort 
+opschoonprogramma voor computers die geïnfecteerd waren of voor mensen die daar voor 
+vreesden. Bij het naar buiten brengen van ‘De Rotterdam RAT-case’ werd deze ‘fix’ daarom gratis 
+aangeboden aan iedereen die dat wilde.” Bonnes benadrukt dat vooral midden-en kleinbedrijven 
+de huidige dreiging van RAT serieus moeten nemen. “Je moet er als bedrijf toch niet aan denken 
+dat individuen of groeperingen in een handomdraai bij vertrouwelijke documenten kunnen 
+komen of klanten ongepast kunnen aanspreken? RAT biedt simpelweg legio mogelijkheden voor 
+personen met een criminele geest.”  
+ 
+In de Rotterdamse zaak zijn zowel het OM als de verdachte in hoger beroep gegaan. 
+ 
+_________________________________________________________________________________________ 
+Verantwoording aanpak georganiseerde criminaliteit 2014 p. 24/38

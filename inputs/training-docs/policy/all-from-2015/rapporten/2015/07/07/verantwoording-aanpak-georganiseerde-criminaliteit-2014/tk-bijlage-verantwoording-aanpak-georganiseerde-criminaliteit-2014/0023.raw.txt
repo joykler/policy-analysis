@@ -1,0 +1,55 @@
+3.3 “Sommige meisjes begluurde hij langer dan een jaar” 
+ 
+Het zal je maar gebeuren. Je neemt plaats achter je computer om aan een belangrijk document 
+te werken, maar het bestand blijkt plotseling verwijderd. Je begrijpt er niets van. Wat je niet 
+weet is dat iemand op afstand, door jouw webcam, geamuseerd naar jouw paniek gluurt. De 
+illegale hackerstool RAT (Remote Access Toolkit) maakt deze ernstige privacyschending 
+mogelijk. Hackers kunnen in een handomdraai de computers van hun slachtoffers infecteren en 
+ongemerkt op afstand overnemen. Tegenwoordig hoef je daar ook geen ‘nerd’ meer voor te zijn. 
+Het OM in Rotterdam draaide een groot onderzoek naar deze vorm cybercriminaliteit.  
+ 
+‘De Rotterdam RAT-case’, van de officieren van justitie Marleen van Solingen (zwacri) en 
+Jacqueline Bonnes (cybercrime), kwam aan de hand van drie aangiftes aan het licht. Februari 
+2013 deed een minderjarig meisje aangifte bij de politie omdat er seksueel getinte beelden van 
+haar op een social media account waren gezet. Het meisje had het filmpje zelf op haar laptop 
+gezet, maar deze ook weer verwijderd. Even later zag ze de video tot haar grote schrik openbaar 
+op haar account staan. Toegankelijk voor driehonderd contacten. Jacqueline Bonnes hield 
+destijds een slachtoffergesprek met haar. “Ontzettend dapper dat ze aangifte deed. Zo’n video is 
+natuurlijk beschamend, het maakt je enorm kwetsbaar. Digitale rechercheurs onderzochten haar 
+laptop. Wat zij zagen, is dat haar computer contact maakte met een bepaald IP-adres, dat weer te 
+linken was aan een woonadres in Rotterdam.” 
+ 
+Scriptie vernietigd 
+Eerder had de eigenaar van een Rotterdamse discotheek ook al aangifte gedaan. De website bleek 
+gehackt. Een onbekend persoon had een sensationeel stukje tekst over uitgaansgeweld in de club 
+online gezet, met daarbij een link naar meer informatie. Ook die gegevens kwamen bij de digitale 
+opsporing terecht. Een derde aangifte was van een meisje van wie haar bachelor scriptie 
+plotseling onverklaarbaar vernietigd was. Bonnes: “Een oplettende digitaal rechercheur wist de 
+drie totaal verschillende aangiftes met elkaar te verbinden. Het digitale onderzoek bracht de 
+speurders bij twee IP-adressen, die weer te herleiden waren naar één woonadres. Uit onderzoek 
+bleek dat daar een gezin woonde en dat onze verdachte individueel handelde. Wat was hier aan 
+de hand?” 
+ 
+Om daar achter te komen vielen de officieren en de politie de woning binnen. De verdachte, een 
+achttienjarige jongen, werd aangehouden. Ook nam de politie tijdens de inval computers, USB-
+sticks en harde schrijven in beslag voor nader onderzoek. De verdachte bekende meteen, hij had 
+ook duidelijk sporen achtergelaten. Als snel bleek uit back-ups die de politie maakte dat de 
+verdachte een gigantische hoeveelheid afbeeldingen van zijn slachtoffers had opgeslagen. Hij had 
+de foto’s keurig geordend, in aparte mapjes op naam van zijn slachtoffers. De RAT-tool maakte 
+het mogelijk om de webcam van zijn slachtoffers te activeren. Beelden van meisjes die hij 
+aantrekkelijk vond, sloeg hij op. “Sommige foto’s waren onschuldige taferelen van etende 
+vrouwen, maar er zaten ook naaktfoto’s tussen. Soms begluurde hij meiden zelfs langer dan een 
+jaar. Heel eng, natuurlijk. In totaal had de jongen 41 miljoen plaatjes opgeslagen. Stel: we 
+plaatsen per A4’tje vier afbeeldingen. Dan zouden we 20.000 pakken A4 nodig hebben om alles te 
+kunnen bekijken. Een berg van maar liefst 1 kilometer hoog”, zegt Bonnes ter illustratie. 
+ 
+Besmet 
+RAT is een simpel programma dat het mogelijk maakt om heimelijk de besturing van andermans 
+computer over te nemen. Het programma is gewoon te koop. Een computer is eenvoudig te 
+besmetten door ergens een linkje te plaatsen, waar het slachtoffer nietsvermoedend op klikt. 
+Vanaf dat moment kan de hacker naar hartenlust zijn gang gaan. De verdachte plaatste om die 
+reden dus ook het linkje naar zogenaamd ‘meer informatie’ op de website van de discotheek. Veel 
+jonge slachtoffers tuinden daar in. “We zagen ook dat hij stiekem de Facebookpagina van een 
+meisje overnam om met haar vriendinnen te chatten. Hij stuurde hen linkjes onder het mom van 
+_________________________________________________________________________________________ 
+Verantwoording aanpak georganiseerde criminaliteit 2014 p. 23/38
