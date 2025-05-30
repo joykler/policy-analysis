@@ -53,5 +53,4 @@ bestuursakkoord-2022-hoger-onderwijs-en-wetenschap )
 2
  UNL: Universiteiten van Nederland 
 3
- VH: Vereniging van Hogescholen 
-2
+ VH: Vereniging van Hogescholen

@@ -41,5 +41,4 @@ IACK: opbouwpercentage 11,45% 11,45%
 Jonggehandicaptenkorting € 820 € 902 
    
 Zelfstandigenaftrek € 5.030 € 3.750 
-Mkb-winstvrijstelling 14% 12,7% 
-34
+Mkb-winstvrijstelling 14% 12,7%

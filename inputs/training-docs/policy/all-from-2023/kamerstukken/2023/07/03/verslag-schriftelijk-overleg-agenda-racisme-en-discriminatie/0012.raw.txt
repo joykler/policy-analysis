@@ -51,5 +51,4 @@ de verschillende migratiegeschiedenissen in Nederland. Overwegende dat op een ee
 18
  po: primair onderwijs  
 19
- vo: voortgezet onderwijs  
-12
+ vo: voortgezet onderwijs
