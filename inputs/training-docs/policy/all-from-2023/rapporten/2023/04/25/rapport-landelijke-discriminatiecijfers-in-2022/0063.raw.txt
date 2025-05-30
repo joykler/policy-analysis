@@ -1,0 +1,37 @@
+|
+Verdeling naar Politie-eenHeid tabellen  bijlage 3
+11 12
+politie-eenheid - politie   aantal 2019 per 1000 aantal 2020 per 1000 aantal 2021 per 1000  aantal 2022 per 1000  
+      
+amsterdam 695 0,66 762 0,72 823 0,77 851 0,79
+den Haag 686 0,36 728 0,38 919 0,47 874 0,45
+limburg 331 0,30 323 0,29 326 0,29 361 0,32
+midden-nederland 515 0,26 697 0,35 871 0,43 803 0,39
+noord-Holland 458 0,30 523 0,34 446 0,29 561 0,36
+noord-nederland 481 0,28 522 0,30 566 0,33 529 0,31
+oost-brabant 285 0,20 321 0,22 384 0,27 372 0,26
+oost-nederland 845 0,26 906 0,28 958 0,29 1036 0,32
+rotterdam 822 0,46 891 0,50 908 0,51 897 0,50
+zeeland-West-brabant 369 0,25 468 0,31 379 0,25 454 0,30
+Landelijk totaal 5.487 0,32 6.141 0,36 6.580 0,38 6.738 0,39
+ 
+Tabel 11 discriminatie-incidenten politie per politie-eenheid en naar aantal per 1.000 inwoners in 2019-2022
+13
+politie-eenheid toaantal inwoners 
+amsterdam 1.071.823
+den Haag 1.936.697
+limburg 1.115.872
+midden-nederland 2.048.488
+noord-Holland 1.557.554
+noord-nederland 1.733.143
+oost-brabant 1.443.914
+oost-nederland 3.263.136
+Noten
+rotterdam 1.789.353 11 bij de berekening van de promillages van 2019 is gebruik gemaakt 
+van de inwoneraantallen per 1 januari 2019   
+zeeland-West-brabant 1.515.435
+12 bij de berekening van de promillages van 2020 is gebruik gemaakt 
+Landelijk totaal 17.475.415
+van de inwoneraantallen per 1 januari 2019  
+13 inwoneraantallen per 1 januari 2021 (bron: cbs) 
+Discriminatiecijfers in 2022 63

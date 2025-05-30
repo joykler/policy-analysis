@@ -1,0 +1,48 @@
+CO -effect als niet-plausibel hebben beoordeeld. Deze fiches kunnen wel een CO -effect hebben, 
+2 2
+maar dat achten we dan minder groot dan in het fiche is verondersteld. Het valt echter buiten de 
+scope van deze reflectie om een schatting te maken van welke CO -emissiereductie we dan wel 
+2
+plausibel achten. In de KEV 2023 wordt beoogd om integraal – rekening houdend met onderlinge 
+interacties van beleid – te analyseren wat het emissie-effect is van de toegekende middelen uit het 
+Klimaatfonds, inclusief effecten van ander beleid, waaronder zowel bestaande beleidsinstrumen-
+ten als mogelijk nieuwe beleidsinstrumenten die in het IBO Klimaat zijn voorgesteld. 
+Tabel 8.2 
+Samenvattend overzicht oordeel plausibiliteit van de in de fiches genoemde fysieke effecten 
+Titel Plausibiliteit 
+Bedrijfsduurverlenging Borssele Geen zelfstandig effect 
+Nieuwbouw kerncentrales Geen zelfstandig effect 
+Kennisinfrastructuur Geen zelfstandig effect 
+Uitvoeringslasten Geen zelfstandig effect 
+CO -vrije gascentrales Niet te valideren 
+2
+Nationale subsidieregeling warmtenetten Geen zelfstandig effect 
+Waterstofnetwerk op zee Geen zelfstandig effect 
+De-risken grootschalige waterstofopslag Geen zelfstandig effect 
+Vergunningenprocedures, fixers en transport Geen zelfstandig effect 
+Randvoorwaarden technische arbeidsmarkt Geen zelfstandig effect 
+Laadinfrastructuur voor wegvervoer Geen zelfstandig effect 
+Laadinfra bouw Geen zelfstandig effect 
+Coördinatie MIEK-projecten Geen zelfstandig effect 
+Distributienetten glastuinbouw Geen zelfstandig effect 
+Stimuleringsprogramma energy hubs Geen zelfstandig effect 
+Laadinfra stopcontact op land Geen zelfstandig effect 
+Laadinfra walstroom Niet te valideren 
+Laadinfra luchtvaart Geen zelfstandig effect 
+Stimuleringsprogramma snel het net op Geen zelfstandig effect 
+Ontwikkelbudget EBN Geen zelfstandig effect 
+Pilots en demonstratie DEI+ Niet te valideren 
+Elektrolyse, onshore: 50 MW Plausibel 
+Elektrolyse, onshore: 500-1.000 MW  Plausibel 
+Elektrolyse, offshore: <=100 MW (CAPEX) Plausibel, mits 
+Elektrolyse, offshore: 500 MW (CAPEX + OPEX) Plausibel, mits 
+H2Global, import van groene waterstof Plausibel 
+Elektrolyse: kennisplatform offshore en ketenbrede consortia Geen zelfstandig effect 
+Vergassing: stimulering projecten vergassing 1e en 2e fase Niet plausibel 
+Vergassing: expertisecentrum, organisatie, haalbaarheidsstudies Geen zelfstandig effect 
+Continuering DEI+ CE Niet te valideren 
+DEI+ Niet te valideren 
+DEI-XL Niet te valideren 
+Djewels Plausibel 
+Solvolyse (chemische recycling): stimulering demo’s Niet plausibel 
+PBL | 100

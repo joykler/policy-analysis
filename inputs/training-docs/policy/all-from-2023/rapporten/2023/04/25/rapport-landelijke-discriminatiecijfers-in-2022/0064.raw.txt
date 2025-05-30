@@ -1,0 +1,28 @@
+|
+Verdeling naar Politie-eenHeid tabellen  bijlage 2
+14 15
+politie-eenheid - adv   aantal 2019 per 1000 aantal 2020 per 1000 aantal 2021 per 1000  aantal 2022 per 1000  
+      
+amsterdam 595 0,56 901 0,85 802 0,75 684 0,64
+den Haag 437 0,23 574 0,30 699 0,36 575 0,30
+limburg 287 0,26 418 0,37 534 0,48 381 0,34
+midden-nederland 598 0,30 720 0,36 969 0,47 801 0,39
+noord-Holland 290 0,19 342 0,22 621 0,40 422 0,27
+noord-nederland 539 0,31 559 0,32 748 0,43 585 0,34
+oost-brabant 221 0,15 293 0,20 375 0,26 242 0,17
+oost-nederland 631 0,20 670 0,21 953 0,29 659 0,20
+rotterdam 475 0,27 587 0,33 703 0,39 533 0,30
+zeeland-West-brabant 309 0,21 413 0,28 496 0,33 399 0,26
+16
+Landelijk totaal  4.382 0,25 5.477 0,32 6.922 0,40 5.281 0,30
+ 
+Tabel 12 adV-meldingen per politie-eenheid en naar aantal per 1.000 inwoners in 2019-2022
+Noten
+14 bij de berekening van de promillages van 2019 is gebruik gemaakt 
+van de inwoneraantallen per 1 januari 2019.   
+15 bij de berekening van de promillages van 2020 is gebruik gemaakt 
+van de inwoneraantallen per 1 januari 2019.   
+16 in 2021 zijn 22 meldingen direct door discriminatie.nl behandeld 
+en niet doorgestuurd naar een adV. daardoor zijn deze meldingen 
+niet op regionaal niveau terecht gekomen. 
+Discriminatiecijfers in 2022 64

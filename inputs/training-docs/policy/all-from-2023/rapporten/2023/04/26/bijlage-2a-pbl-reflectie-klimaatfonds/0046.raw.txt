@@ -1,0 +1,47 @@
+Plausibiliteit van het genoemde fysieke effect 
+Het fiche noemt een CO -emissiereductie van 1,35 megaton in 2030. Dit lijkt aan de hoge kant. Het 
+2
+emissie-effect zal afhangen van het aantal vollasturen dat met deze installaties wordt gemaakt, en 
+welke CO -emissie gemoeid is met de elektriciteit die door de elektrolysers wordt gebruikt. Het 
+2
+omzetten van de groene elektriciteit naar waterstof zal leiden tot een extra emissiereductie in Ne-
+derland ten opzichte van de KEV 2022. In de KEV is namelijk wel al rekening gehouden met een ver-
+dere toename van het windvermogen op zee, maar blijft de vraag naar elektriciteit daarbij achter, 
+waardoor er sprake is van een aanzienlijke hoeveelheid curtailment en export van elektriciteit. Door 
+toename van het elektrolysevermogen nemen de curtailment en export af. Toch kan er ook sprake 
+zijn van gebruik van elektriciteit die niet hernieuwbaar wordt opgewekt, of die het gebruik van her-
+nieuwbare elektriciteit voor andere toepassingen dan elektrolyse verdringt, hetgeen tot emissies 
+kan leiden bij elektriciteitsproductie. De mate waarin dit het geval zou kunnen zijn, wordt mede be-
+paald door eisen uit de gedelegeerde handeling bij de richtlijn hernieuwbare energie, die omschrijft 
+welke waterstof uit elektrolyse als groene waterstof kan worden aangemerkt (EC 2023). 
+ 
+De groene waterstof zal in Nederland worden ingezet, zoals ter vervanging van grijze waterstofpro-
+ductie. Het kan ook in andere sectoren worden ingezet, bijvoorbeeld voor transport. Gewaakt moet 
+worden voor dubbeltellingen van emissie-effecten bij de inzet van waterstof (in dit rapport rekenen 
+we het emissie-effect van groene waterstof toe aan de productie). Oordeel: plausibel wat betreft 
+het realiseren van de onderkant van de bandbreedte voor het elektrolysevermogen. 
+5.2.4 Elektrolyse, offshore: <=100 MW (CAPEX) 
+Omschrijving voorstel 
+Dit voorstel betreft subsidie voor demonstratieprojecten van modulaire offshore elektrolysetoe-
+passingen bij een bestaand windpark of een windpark dat nog in aanbouw is. Met de kennis die 
+hiermee wordt opgedaan, wordt een kostenreductie beoogd, waarvan geprofiteerd kan worden bij 
+een tender voor vervolgopschaling. Over de vormgeving van de subsidieregeling wordt nog nage-
+dacht. Het kan gaan om alleen investeringssteun, of om een combinatie van investeringssteun en 
+operationele steun. De budgetclaim bedraagt 380 miljoen euro. 
+Beoordeling fondsbeheerder 
+‘Opnemen in het MJP 2024, onder voorbehoud uitwerking bestedingsplan en regeling.’ 
+Reflectie PBL  
+Het is verstandig om ervaring op te doen met offshore elektrolyse. Dit kan in potentie belangrijk 
+zijn om de infrastructuurkosten op zee te verminderen. In dit fiche wordt expliciet vermeld dat ei-
+sen worden gesteld aan kennisdeling. In het fiche ‘Elektrolyse, onshore: 50 MW’ (paragraaf 5.2.2) 
+wordt dat niet expliciet genoemd, terwijl ook daar wordt gezegd dat kennisdeling een belangrijk 
+oogmerk is. 
+Plausibiliteit van het genoemde fysieke effect 
+De reservering beoogt ondersteuning te bieden tot 100 megawatt elektrolysevermogen. Het ge-
+noemde vermogen wordt als bovengrens benoemd. In het fiche wordt geen CO -emissiereductie 
+2
+gemeld. Het realiseren van elektrolyservermogen tot 100 megawatt lijkt plausibel, mits de kosten 
+voor offshore elektrolyse niet heel veel hoger liggen dan die van onshore elektrolyse. Het effect is 
+ook afhankelijk van de vormgeving van de regeling, zoals de verhouding tussen ondersteuning van 
+investeringskosten en van operationele kosten. Het is ook denkbaar dat het vermogen niet verder 
+PBL | 46
