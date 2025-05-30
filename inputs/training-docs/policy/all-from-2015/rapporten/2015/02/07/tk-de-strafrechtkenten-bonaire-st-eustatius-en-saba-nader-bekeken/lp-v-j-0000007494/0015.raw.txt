@@ -42,5 +42,4 @@ afhandeling van de zaken op de bulklijst).
 Het OM geeft aan deze situatie te hebben aangegrepen om noodzakelijke aanpassingen in het 
 sturingssysteem aan te brengen. Schaarste in capaciteit betekent nieuwe keuzes maken en een 
 prioritering in zaken aanbrengen. Het proces om de sturing aan te passen is ten tijde van het 
-onderzoek nog lopende. De eerste stap is om de bulklijst aan zaken te ordenen. Het is niet mogelijk 
-15
+onderzoek nog lopende. De eerste stap is om de bulklijst aan zaken te ordenen. Het is niet mogelijk

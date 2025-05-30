@@ -41,5 +41,4 @@ afgehandeld. Met de huidig beschikbare capaciteit wordt gestreefd naar een gepri
 (ongeveer) vijftien zaken.  
  
 De prioritering vindt plaats aan de hand van een aantal criteria. Gekeken wordt naar de 
-opsporingsindicatie (hoeveel handelingen moeten worden verricht om de zaak rond te krijgen), de 
-21
+opsporingsindicatie (hoeveel handelingen moeten worden verricht om de zaak rond te krijgen), de

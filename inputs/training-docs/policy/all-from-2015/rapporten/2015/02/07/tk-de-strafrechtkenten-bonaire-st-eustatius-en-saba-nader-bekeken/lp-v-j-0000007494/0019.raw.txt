@@ -42,5 +42,4 @@ opsporingsonderzoeken op een goede manier inzichtelijk te maken. Enerzijds omdat
 onvoldoende muteren in het systeem, anderzijds omdat het systeem niet de functionaliteiten heeft 
 om opsporingsgegevens te kunnen genereren. Het systeem biedt op dit moment onvoldoende 
 mogelijkheden om een procesdossier op te maken. Als een zaak nu in het  systeem belandt, dan is 
-daar nog onvoldoende zicht op, met als gevolg dat de politie niet de juiste sturingsinformatie bij het 
-19
+daar nog onvoldoende zicht op, met als gevolg dat de politie niet de juiste sturingsinformatie bij het

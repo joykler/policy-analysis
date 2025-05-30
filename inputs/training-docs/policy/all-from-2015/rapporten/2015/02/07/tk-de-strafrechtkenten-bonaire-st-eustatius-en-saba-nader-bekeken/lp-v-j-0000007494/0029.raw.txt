@@ -38,7 +38,4 @@ vonnissen een kwetsbaar proces is. Het ontbreken van een eenduidig en betrouwbaa
 stand van zaken van (uitstaande) vonnissen vormt een groot risico. Door gebrekkige 
 informatiesystemen en handmatig bijgehouden (schaduw)registraties bestaat de kans dat vonnissen 
 ‘verdwijnen’ en dus nooit uitgevoerd worden. Dit is strijdig met de fundamentele uitgangspunten 
-van de rechtshandhaving.   
- 
- 
-29
+van de rechtshandhaving.
