@@ -32,4 +32,4 @@ inclusief aanpak jeugdwerkloosheid  6.457.735  6.529.723  500  94.917  -25.768  
  96 Apparaatsuitgaven kerndepartement  278.491  278.491  3.573  11.565  11.565  -500  9.030  8.315  1.700 
 97 Aflopende regelingen 0 0 0 0 0 0 199 
 98 Algemeen 46.404 46.326 0 -6.574 -6.289 0  -6.708  -8.555 984 
-99 Nominaal en onvoorzien 19.008 19.008 0 12.497 12.497 0 -31.505 -31.505
+99 Nominaal en onvoorzien 19.008 19.008 0 12.497 12.497 0 -31.505 -31.50
