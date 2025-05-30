@@ -1,0 +1,54 @@
+Tabel 5.3 Overzicht toerekenbare kosten en opbrengsten (in miljoenen euro) 
+ Kosten en opbrengsten  2008 2009  2010   2011  2012 2013   2014  Cumulatief 
+ Fortis/RFS/AA         
+dividend  0  0   6  200  121  488  424  1.239 
+premie counter indemnity  0   0  26  26  26  26  12 116  
+rente overbruggingskrediet  
+(voormalig) Fortis 502   705 167   169  152 103  98   1.896 
+premieontvangsten CRI  0   28  165  0  0  0  0  193 
+         
+ SNS Reaal         
+couponrente SNS Reaal  0  38   0  0  0  0  0  38 
+repurchase fee SNS Reaal  0   0  0 0   0  0 0  0  
+ afboeking core-tier-1 securities      – 565    – 565 
+ dividend  0 0   0  0    0  
+ rente overbruggingskrediet      7   21  28 
+Resolutieheffing        0  1.005  1.005 
+         
+ Aegon         
+ couponrente Aegon  0  166 11  0  0  0  0  177  
+ repurchase fee Aegon  0  108 52   750 0  0  0   910 
+         
+ ING         
+ couponrente ING  0  645  39  0  34 31  90   839 
+ repurchase fee ING 0   295  52 1.000  341   344 660  2.692  
+ back up faciliteit (na vorming 
+voorziening)   0  0  0  0 0   1.455  1.455 
+         
+ Griekenland         
+ rente en servicefee 0  0   30 115   41  26 14   226 
+ rentevergoeding Griekenland 
+(ANFA)  0  0  0  0  – 13  – 13  – 13 – 39  
+teruggave winsten SMP  0   0 0   0  0 – 126   – 112  – 238 
+         
+ IJsland         
+ topping up  – 106        – 106 
+ recovery topping up   0 0   33  21 6  46   106 
+ aangegroeide rente   74  – 23  42 27  23  16   159 
+         
+ Europese instrumenten         
+ crisisgerelateerde winst DNB 0  0  0   0  0  905  754  1.659 
+         
+Overige          
+ premieontvangsten garanties 
+bancaire leningen  0 116  407   361  230 165   100  1.379 
+ uitvoeringskosten crisismaatre-
+gelen  – 9 – 31   – 3 2   – 1  – 12 5   – 49 
+ toerekenbare rentelasten op 
+staatsschuld  – 450 – 2.036   – 1.493  – 1.280  – 1.160  – 909  – 804 – 8.132  
+         
+Resultaat   43  2 – 564   1.418 – 746  1.064  3.771   4.989
+In onderstaand overzicht staan de uitstaande garanties die in het kader 
+van de kredietcrisis en Europa verstrekt zijn. Het cumulatief saldo geeft de 
+stand van de uitstaande garanties per einde 2014 weer.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200, nr. 1 82

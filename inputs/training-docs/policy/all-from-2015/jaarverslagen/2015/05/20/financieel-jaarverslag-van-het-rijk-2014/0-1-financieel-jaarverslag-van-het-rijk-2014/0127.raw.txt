@@ -1,0 +1,51 @@
+Rente 10, 14, 20, 21, 23, 24, 28, 29, 43, 44, 48, 50, 54, 69, 75, 77, 78, 79, 80, 
+81, 82
+Renteswaps 21, 24, 44, 75
+Rijksbegroting in enge zin 20, 23, 24, 32, 33, 34, 122
+Rijksbrede bedrijfsvoering 56, 57, 58
+Risicomanagement 43, 65
+Ruilvoet 33, 35, 36, 119
+Saldi begrotingsfondsen 71, 73
+Saldi begrotingsreserve 71, 73
+Schatkistbankieren 42, 47, 48
+Schokproef Overheidsfinanciën 26
+Schuldregel 27, 29
+Securities 81, 82, 122
+Shared Service Centrum 122
+Shared Service Organisatie 122
+Significanteafwijkingsprocedure 28
+SiSa 59, 122
+Sociale Zaken en Werkgelegenheid 63, 68, 69, 94, 97, 123
+Sociale Zekerheid 20, 32, 35, 53, 97, 118, 119, 123
+Stabiliteits- en Groeipact 7, 19, 26, 27, 28
+Staten-Generaal 68, 69, 72, 97, 118, 120
+Stresstest 7, 49, 50
+Structureel saldo 27, 28, 29
+Subsidies 53, 58, 59, 60, 91
+SZW 49, 66, 99, 100, 113, 114, 123
+Toekomstfonds 29, 33, 34
+Toezicht 7, 14, 44, 47, 49, 59, 61, 89, 110
+Toleranties 53
+Uitgavenkader 19, 24, 31, 32, 33, 36, 97, 119
+Uitgavenregel 27, 28
+Uitkering 23, 34, 35, 41, 47, 54, 59, 78, 79, 85, 92, 94, 96, 100, 115, 117, 
+118, 119, 121
+Vennootschapsbelasting 38, 39, 41
+Verantwoord Begroten 61, 62, 64, 65
+Volksgezondheid, Welzijn en Sport 63, 68, 69, 97, 114, 123
+Voorschotten 56, 57, 71, 72
+VWS 49, 53, 66, 89, 100, 101, 108, 114, 123
+Waarborgfonds 46, 86, 87, 123
+WAO 123
+Werkgelegenheid 12, 34, 39, 114
+Werkloosheid 12, 20, 21, 35, 37, 123
+Wet Houdbare Overheidsfinanciën 23
+Wfz 46
+Wonen en Rijksdienst 34, 52, 53, 56, 63, 68, 69, 73, 94, 97, 123
+WSW 46, 86, 87, 123
+WW 20, 35, 98, 123
+Zorg 11, 13, 15, 17, 20, 22, 24, 25, 27, 28, 29, 30, 31, 32, 36, 37, 38, 39, 40, 
+41, 46, 47, 48, 51, 52, 54, 57, 64, 85, 87, 95, 103, 108, 110, 117, 118, 121, 
+122, 123
+Zorguitgaven 23, 30, 36
+Tweede Kamer, vergaderjaar 2014–2015, 34 200, nr. 1 126

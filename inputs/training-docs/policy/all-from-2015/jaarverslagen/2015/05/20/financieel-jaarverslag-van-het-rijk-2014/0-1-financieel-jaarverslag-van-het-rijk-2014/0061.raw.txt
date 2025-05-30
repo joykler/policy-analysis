@@ -1,0 +1,58 @@
+temen waarvoor de BIR2012 aanwijzingen geeft. De ADR heeft de ICV’s 
+van de ministeries beoordeeld en onderzoek gedaan naar de implemen-
+tatie van de BIR2012. De Jaarrapportage Bedrijfsvoering Rijk 2014 gaat 
+aan de hand van de ICV’s nader in op de invoering van de BIR2012 en de 
+uitkomsten van de onderzoeken van de ADR.
+62 
+Gebruik open data
+63 
+In 2013 heeft het kabinet het Actieplan «Open Overheid» uitgebracht. 
+Het kabinet beschrijft hierin diverse acties en pilots voor de jaren 2014 en 
+2015 om te gaan werken aan een open overheid onder regie van het 
+Ministerie van BZK. Een van de actiepunten betreft het onderdeel Open 
+Spending: meer inzicht geven in de financiële informatie van de vier 
+bestuurslagen (Rijk, provincies, waterschappen en gemeenten).
+64 
+Inmiddels is op dit actieplan een onafhankelijke review uitgevoerd. Deze 
+review is te raadplegen op http://www.opengovpartnership.org/country/
+netherlands/progress-report/2013–2014-progress-report-netherlands.
+Voor het actiepunt «Open budgets en open spending» is aangegeven dat 
+voor de Nederlandse rijksoverheid hier substantiële stappen zijn gezet. Uit 
+de review blijkt dat er buiten de rijksoverheid nog onvoldoende is 
+gebeurd. De review geeft verder aan dat de Nederlandse rijksoverheid de 
+transparantie kan verstevigen door, net als de Algemene Rekenkamer, ook 
+het grootboek open te stellen. Op Verantwoordingsdag wordt de eerste 
+stap in die richting gezet.
+Passend binnen het rijksbrede beleid voor open data van de Minister van 
+BZK wordt binnen de financiële kolom stapsgewijs toegewerkt naar meer 
+open data. Sinds 2014 zijn de subsidie-uitgaven van de departementen als 
+open data beschikbaar. Tevens is in 2014 een dataset met meerjarige 
+balans- en resultaatcijfers van agentschappen ontsloten als open data en 
+zijn de budgettaire tabellen van de ontwerpbegroting op Prinsjesdag 2014 
+gepubliceerd in de vorm van open data. Vanaf 2013 worden alle achter-
+grondtabellen van de Miljoenennota al beschikbaar gesteld als open data.
+Daarnaast hebben de departementen over 2014 twee extra bestanden met 
+financiële data opengesteld. Het eerste bestand bevat – analoog aan de 
+subsidies – een overzicht van de uitgaven aan medeoverheden. Het 
+tweede bestand geeft een nadere uitsplitsing van de apparaatsuitgaven 
+van de departementen. Hierdoor ontstaat inzicht in bijvoorbeeld de 
+gedane uitgaven voor reis- en verblijfkosten en ICT-uitgaven voor de 
+kantoorautomatisering.
+Het is de bedoeling dat de begroting de komende jaren steeds meer een 
+digitale vorm gaat aannemen waardoor de ontwikkeling naar open 
+spending ook sneller is te realiseren. Het kabinet verwacht dat over 5 jaar 
+alle financiële data als open data beschikbaar zijn.
+62
+Open data bij de overheid zijn data die:
+– uit publieke middelen bekostigd en gegenereerd zijn bij of voor de uitvoering van een 
+publieke taak;
+– openbaar zijn;
+– vrij zijn van auteursrechten of andere rechten van derden;
+– computer-leesbaar zijn en bij voorkeur voldoen aan de «open standaarden» (geen pdf, wel 
+xml of csv);
+– voor hergebruik beschikbaar zijn zonder beperkingen, zoals kosten of verplichte registratie.
+63
+TK 2013–2014, 32 802, nr. 5
+64
+Volgens de richtlijnen van het Open Government Partnership (OGP)
+Tweede Kamer, vergaderjaar 2014–2015, 34 200, nr. 1 60

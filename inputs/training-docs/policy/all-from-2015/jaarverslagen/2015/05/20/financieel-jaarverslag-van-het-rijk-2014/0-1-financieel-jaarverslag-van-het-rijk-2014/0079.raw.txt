@@ -1,0 +1,70 @@
+# Stand: FJR 2014  T elling 2008–2012  2013   2014  Bron 
+ 15  Kapitalisatie holding en bank   0  2.200  0 IX art.3  
+ 16  Overbruggingskrediet   0 1.100   0  IX art.3 
+ 17  Kapitalisatie Propertize (vastgoedorganisatie)  0   500  0  IX art.3 
+       
+ 18  Renteontvangsten overbruggingskrediet  0   – 7  – 21  IX art.3 
+19   Dividend SNS Reaal N.V.   0  0  0 IX art.3  
+ 20  Premieontvangsten garantie Propertize   0 0   – 2  IX art.3 
+ 21  Resolutieheffing   0  0  – 1.005  IX art.1 
+       
+  Verleende garanties      
+ 22  Garantieverlening Propertize   0  4.166   IX art.3 
+ 23  waarvan vervallen     – 566  IX art.3 
+       
+  Totale uitgaven minus ontvangsten  15 t/m 
+21  0 3.793   – 1.028  
+2 
+  Effect op EMU saldo 18 t/m  
+21  0  – 1.123  1.028  
+3 
+ Effect op EMU schuld 15 t/m  
+23  0  7.848  – 1.594  
+  Effect op staatsschuld  15 t/m 
+21  0 3.793   – 1.028  
+       
+  C. Kapitaalverstrekkingsfaciliteit  
+(€ 20 mld.)     
+       
+ 24  Verstrekt kapitaal ING   2.250  – 750  – 1.500  IX art.3 
+25  V erstrekt kapitaal Aegon   0  0  0  IX art.3 
+ 26  Verstrekt kapitaal SNS Reaal   565  0  0  IX art.3 
+ waarvan afgeboekt    – 565    IX art.3 
+       
+ 27  Couponrente ING   – 718  – 31  – 90  IX art.3 
+ 28 Couponrente Aegon    – 177  0  0 IX art.3  
+ 29  Couponrente SNS Reaal   – 38  0  0 IX art.3  
+30  Repurchase fee ING    – 1.688  – 344  – 660 IX art.3  
+ 31  Repurchase fee Aegon   – 910 0   0  IX art.3 
+ 32 Repurchase fee SNS Reaal    0  0  0 IX art.3  
+       
+  Totale uitgaven minus ontvangsten 24 t/m  
+32  – 716  – 1.125 – 2.250   
+  Effect op EMU saldo  27 t/m 
+29  933  31  90  
+  Effect op EMU schuld  24 t/m 
+32  – 716 – 1.125   – 2.250  
+  Effect op staatsschuld  24 t/m 
+32  – 716  – 1.125  – 2.250  
+       
+  D. Back-up faciliteit ING      
+       
+ 33  Meerjarenverplichting aan ING  7.655   – 4.933  – 2.722  IX art.3 
+ 34  Alt-A portefeuille   11.140  – 6.454  – 4.686  IX art.3 
+ 35  relevant voor de EMU schuld CBS/ 
+  7.501 – 4.779   – 2.722 Eurostat 
+       
+ 36  Back-up faciliteit ING totaal:   – 1  1  – 1.455  IX art.3 
+ a  waarvan funding fee (rente + aflossing)   14.134  4.808  2.778  IX art.3 
+ b  waarvan management fee   178  26  0 IX art.3  
+ c  waarvan portefeuille ontvangsten  
+(rente + aflossing)  – 13.323  – 4.275  – 4.231  IX art.3 
+ d waarvan garantiefee   – 390   – 58  0  IX art.3 
+e   waarvan additionele garantiefee   – 392  – 87 0  IX art.3  
+f   waarvan additionele fee   – 193  – 35 – 1   IX art.3 
+ g  waarvan verhandelbaarheidsfee  – 15   – 18  – 1  IX art.3 
+h   waarvan eenmalige uitkering   0  – 379   IX art.4 
+ i  waarvan incidentele uitgave   0  19   IX art.3 
+       
+ T otale uitgaven minus ontvangsten  36  – 1  1  – 1.455  
+Tweede Kamer, vergaderjaar 2014–2015, 34 200, nr. 1 78

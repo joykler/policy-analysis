@@ -1,0 +1,70 @@
+Beleidsverslag
+  
+1 
+Tabel 1: De budgettaire gevolgen van de kredietcrisis (x € mln.)
+2 
+  2008–2012 2013   2014 Bron jaar -  Afgerond 
+verslag: 
+ A. Verwerving Fortis/RFS/AA      
+ 1 ABN AMRO Group N.V ., RFS Holdings 
+N.V. en ASR Nederland N.V.  27.955 27.955  27.955   Saldibalans  Nee 
+ 2 Overbruggingskredieten Fortis  44.341   0  0  par. 4.8  
+ 3 Aflossingen overbruggingskredieten  
+Fortis  – 40.591  0  – 200 par . 4.8  
+ 4  Stand overbruggingskredieten Fortis 
+(2–3)  3.750  3.750  3.550  Saldibalans  Nee 
+5   Renteontvangst overbruggingskredieten 
+Fortis  – 1.695 – 103   – 98 par . 4.8  
+6   Dividend ABN AMRO Group  – 250  – 400  – 325 par . 4.3  
+ 7 Dividend ASR  – 71  – 88   – 99  par. 4.3  
+8   Dividend en repatriëring kapitaal RFS  – 6 0  0  par . 4.3  
+       
+ Capital Relief Instrument ABN-AMRO (CRI)      
+ 9  Premieontvangsten uit CRI – 193  0  0   par. 4.3  
+ 10  Stand openstaande garanties  0  0  0 Saldibalans   ja 
+       
+Mandatory Convertible Notes ABN-AMRO (MCN)       
+ 11  Rente-ontvangsten uit MCN’s  – 103  0  0 par . 4.3  
+       
+ Counter Indemnity ABN-AMRO (garantie)      
+12   Garantieverlening (geëffectueerd)  950 0   – 950 par . 4.3  
+ 13  Stand openstaande garanties (12)  950  950  0  Saldibalans ja  
+14  Premie-ontvangsten uit garantie   – 78  – 26  – 12 par . 4.3  
+ Δ Staatsschuld 2014 (nr. 2+3+5 t/m 9+11+14)  29.309 – 617  – 734    
+       
+ B. Verwerving SNS Reaal      
+ 15  Kapitaalinjectie SNS Bank 0  1.900  0   par. 4.3  
+ 16 Stand geïnjecteerd Kapitaal SNS Bank   0  1.900 1.900  Saldibalans  Nee  
+17   Kapitaalinjectie SNS Reaal Holding N.V.  0  300  0  par. 4.3  
+ 18  Stand geïnjecteerd kapitaal SNS Reaal 
+Holding N.V.  0  300  300 Saldibalans   Nee 
+ 19  Overbruggingskredieten SNS Reaal 
+Holding N.V. 0   1.100  0 par . 4.3  
+20  Stand Overbruggingskredieten SNS  
+Reaal Holding N.V. 0   1.100  1.100  Saldibalans Nee  
+ 21  Rente overbruggingskrediet 0  – 7  – 21   par. 4.3  
+ 22 Kapitaalinjectie Propertize   0  500 0  par . 4.3  
+ 23  Stand geïnjecteerd kapitaal Propertize  0  500  500  Saldibalans  Nee 
+ 24  Garantie Propertize 0  4.166   – 566  par. 4.3  
+25   Stand verleende garantie Propertize  0 4.166  3.600  Saldibalans  Nee  
+ 26 Premieontvangsten garantie Propertize   0  0  – 2  par. 4.3  
+ 27  Resolutieheffing 0  0   – 1.005  par. 4.1  
+ Δ Staatsschuld 2014 (nr. 15+17+19+21+22+26+27)  -  3.793  – 1.028   
+       
+ C. Kapitaalverstrekkingsfaciliteit (€ 20 mld.)      
+28   Verstrekt kapitaal ING 10.000  0  0   par. 4.3  
+ 29  Verstrekt kapitaal Aegon  3.000  0 0   par. 4.3  
+30  V erstrekt kapitaal SNS Reaal  750  0  0  par. 4.3  
+31   Aflossing ING  – 7.750 – 750  – 1.500  par . 4.3  
+ 32  Aflossing Aegon – 3.000   0  0 par . 4.3  
+33   Aflossing SNS Reaal – 185   0  0  par. 4.3  
+ 34  Afboeking uitstaand kapitaal SNS Reaal 
+3 
+bij nationalisatie – 565  0   0  Saldibalans  Ja 
+ 35  Stand uitstaand kapitaal ING  2.250  1.500 0  Saldibalans  Ja  
+ 36 Stand uitstaand kapitaal Aegon   0  0  0  Saldibalans  Ja 
+ 37  Stand uitstaand kapitaal SNS Reaal  0 0   0  Saldibalans  Nee 
+ 38  Couponrente ING  – 718  – 31 – 90   par. 4.3  
+ 39  Couponrente Aegon  – 177  0 0   par. 4.3  
+ 40 Couponrente SNS Reaal  – 38   0  0  par. 4.3  
+Tweede Kamer, vergaderjaar 2014–2015, 34 200 IX, nr. 1 11

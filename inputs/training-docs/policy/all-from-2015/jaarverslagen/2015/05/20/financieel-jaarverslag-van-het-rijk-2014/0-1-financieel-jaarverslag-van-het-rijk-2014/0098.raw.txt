@@ -1,0 +1,57 @@
+Tabel 9.1: Ontwikkeling van netto gecorrigeerde rijksuitgaven: van begroting naar 
+accrespercentage
+ 2013   2014 
+ 1 De Koning 40   40 
+ 2A Staten-Generaal  134  128 
+ 2B Overige Hoge Colleges van Staat en Kabinetten  108  110 
+ 3 Algemene Zaken  50 53  
+4 Koninkrijksrelaties  91   72 
+ 5 Buitenlandse Zaken  7.839  9.769 
+ 6 Veiligheid en Justitie  10.918  11.181 
+ 7 Binnenlandse Zaken en Koninkrijksrelaties  530  656 
+8 Onderwijs, Cultuur en W etenschappen  32.382  33.001 
+ 9A Nationale Schuld (Transactiebasis)  16  17 
+ 9B Financien  1.584  1.591 
+10 Defensie  7.310  7.412  
+ 12 Infrastructuur & Milieu  9.806  9.856 
+ 13 Economische Zaken  4.679  4.480 
+ 15 Sociale Zaken en Werkgelegenheid  20.270 20.406  
+ 16 Volksgezondheid, Welzijn en Sport 4.294   4.278 
+ 17 Buitenlandse Handel en Ontwikkelingssamen-
+werking  2.970  2.709 
+18 W onen en Rijksdienst  2.566  3.033 
+ 50 Gemeentefonds 17.989  18.741  
+51 Provinciefonds  1.553  1.296 
+ Aanvullende posten  193  42 
+ (A) Totaal netto uitgaven  125.322  128.868 
+   
+(B) T otaal correcties  – 36.136  – 37.881 
+   
+ (C)Totaal NGRU (=A+B)  89.186  90.987 
+   
+ Accres (%) = (Ct – Ct-1)/Ct-1)   2,02%
+ 
+De correcties op de netto rijksuitgaven (tabel 9.2) kunnen in drie catego-
+rieën ingedeeld worden.
+1. Uitgaven die wel relevant zijn voor de uitgavenkaders, maar niet voor 
+de basis van de accresberekening, de ngru. Het gaat om uitgaven die 
+relatief gevoelig zijn voor macro-economische ontwikkelingen en 
+waarop het Rijk geen invloed heeft, bijvoorbeeld de afdrachten aan 
+de EU. Door de rijksuitgaven voor deze uitgavenposten te corrigeren, 
+wordt de accresraming minder afhankelijk van macro-economische 
+ontwikkelingen, wat de stabiliteit van de accresontwikkeling ten 
+goede komt.
+2. Uitgaven die niet relevant zijn voor het uitgavenkader, maar wel voor 
+de ngru, bijvoorbeeld studieleningen.
+3. Financieringsverschuivingen. Financieringsverschuivingen zijn 
+verschuivingen van geldstromen binnen het Rijk die niet tot meer of 
+minder bestedingsruimte van het Rijk leiden, maar in de normerings-
+systematiek wel effect hebben op het accres doordat het schuiven zijn 
+tussen ngru-relevante uitgaven en niet-ngru-relevante uitgaven. De 
+rijksuitgaven worden voor deze posten gecorrigeerd omdat per saldo 
+geen sprake is van meer of minder uitgaven, er is alleen sprake van 
+een andere financieringsbron. Het gaat bij deze correcties bijvoor-
+beeld om overhevelingen van departementale begrotingen naar het 
+gemeente- en provinciefonds en financieringsverschuivingen tussen 
+het Rijk en de sociale zekerheidsfondsen.
+Tweede Kamer, vergaderjaar 2014–2015, 34 200, nr. 1 97
