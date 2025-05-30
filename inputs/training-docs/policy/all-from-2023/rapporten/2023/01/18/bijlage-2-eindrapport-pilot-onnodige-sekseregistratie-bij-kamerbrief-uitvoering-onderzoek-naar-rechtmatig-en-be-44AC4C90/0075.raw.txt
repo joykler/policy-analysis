@@ -1,0 +1,32 @@
+Het geslacht wordt opgeslagen in Nodig     
+P-Direkt/SAP aangezien dit een 
+Verwerking en 
+verplicht veld is bij het registreren 
+van een nieuwe medewerker.  
+opslag 
+ 
+ 
+Vanuit P-Direkt (1e systeem Nodig     
+waarin het geslacht wordt 
+geregistreerd) wordt het geslacht 
+M2M 
+doorgeschreven naar SAP.  
+ 
+ 
+Het geslacht wordt alleen getoond Nodig     
+in P-Direkt/SAP. Alle 
+managementinformatie (denk aan 
+Output 
+m/v verhouding) wordt 
+M2H 
+gegenereerd uit SAP.  
+ 
+ 
+In arbeidsovereenkomsten, Niet nodig   Macht der gewoonte/van oudsher.  
+stageovereenkomsten, brieven en Waarbij je je ook hier kunt 
+besluiten wordt de medewerker afvragen om de medewerker te 
+H2H 
+aangeschreven met de vragen hoe hij/zij wil worden 
+heer/mevrouw. aangeschreven.  
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         75

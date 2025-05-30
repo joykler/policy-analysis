@@ -1,0 +1,35 @@
+- Geen registratie in RDE.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+Kinderopvangpersoneel Nederland 
+a. Wordt het geslacht geregistreerd? 
+Ja,; 
+- op het fysieke) aanvraagformulier. 
+- in RDE 
+- in brieven aan zaakwaarnemer (vb: Naar aanleiding van uw aanvraag ten behoeve van #if($klant.geslacht == 'M')de heer 
+#else#if ($klant.geslacht=='V') mevrouw #else de heer/mevrouw #end#end$klant.opgemaakteVoorletters 
+$!klant.voorvoegsel $klant.achternaam voor erkenning van zijn/haar beroepskwalificatie om te mogen werken in de 
+kinderopvang deel ik u het volgende mee. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van (fysiek) aanvraagformulier. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+Legalisatie 
+a. Wordt het geslacht geregistreerd? 
+Ja,; 
+- op (fysiek aanvraagformulier) 
+- registratie in RDE. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Nee, wettelijke basis ontbreekt.  
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- sekseregistratie verwijderen van (fysiek) aanvraagformulier. 
+- Geen registratie in RDE. 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+Onderwijs Ondersteunend Personeel 
+a. Wordt het geslacht geregistreerd? 
+Ja: 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         59

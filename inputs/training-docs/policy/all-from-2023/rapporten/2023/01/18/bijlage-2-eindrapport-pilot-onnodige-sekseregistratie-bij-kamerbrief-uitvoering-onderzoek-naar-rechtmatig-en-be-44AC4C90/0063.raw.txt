@@ -1,0 +1,46 @@
+Bijlage 4 Resultatentabel - Onderdeel Facet 
+DUO Hoofdtaak: Organiseren van school-, staats- en inburgeringsexamens FACET 
+Indien Onnodig hoe Indien Nodig welke 
+Omschrijving en doel 
+Nodig of  verminderen alternatieven  
+13
+Flow Interface van het gebruik van het 
+Onnodig (zie OS checklist) 
+geslacht 
+Maatregelen Kosten Maatregelen Kosten 
+Vanuit scholen en commerciële n.v.t. n.v.t. In de facet db is nu opslag 0,- 
+opleidingsinstituten wordt via van M, V, of onbekend 
+geautomatiseerde koppeling mogelijk.  
+M2M 
+aangeleverd van de verschillende Nodig   
+LAS’en aan de db van Facet voor  Bij de invoer controle 
+elke individuele kandidaat Doorleveren worden alle andere opties 
+aan Cito van dan m/v automatisch 
+Een examinator voert gegevens 
+in het portaal “centrale gegevens voor onbekend. Het gegeven 
+statistieken wordt verder niet gebruikt 
+eindtoets” of  portaal van Facet. 
+Via online web formulier of waarmee of getoond aan de 
+onderzoeken kandidaat alleen gebruikt 
+middels upload van een csv 
+en analyses voor statistieken. Vanuit 
+excel bestand. Voor elke 
+individuele kandidaat naar  de organisaties die de 
+Input 
+verschillen analyses uitvoeren is niet 
+H2M 
+tussen jongens de vraag gekomen om 
+en meisjes naar m/v de optie non 
+ binair of geen van deze 
+Wet SLOA, opties te registreren in de 
+artikel 3, lid 1 Facet db. Een vrij 
+invoerveld is zeer 
+onwenselijk omdat er geen 
+controle is op invoer. 
+De helpdesk Facet bij DUO heeft Onnodig Zie hieronder de 0k n.v.t. n.v.t. 
+H2H contact met scholen en de DUO  argumentatie en 
+helpdesk medewerker registreert  
+ 
+13
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         63

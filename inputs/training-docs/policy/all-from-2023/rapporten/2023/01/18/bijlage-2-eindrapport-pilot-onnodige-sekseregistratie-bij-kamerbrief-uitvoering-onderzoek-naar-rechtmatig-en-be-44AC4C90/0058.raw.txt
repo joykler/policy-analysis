@@ -1,0 +1,37 @@
+Correctieverzoek 
+a. Wordt het geslacht geregistreerd? 
+Doordat de aanvraag voor een correctieverzoek wordt gedaan vanuit MijnDUO, wordt er bij deze aanvraag geen geslacht gevraagd. Daarvoor is ingelogd 
+met DigiD, en onderwater gaan alle persoonsgegevens die op het uittreksel staan mee in de mail richting KANA. Vervolgens wordt het correctieverzoek in 
+RDI geregistreerd met ook het geslacht. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+De wettelijke basis ligt in het besluit register onderwijsdeelnemers artikel 15 lid c 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Zie het kopje Mijn diploma’s 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+Zie het kopje Mijn diploma’s 
+ 
+Diplomabeschrijving 
+a. Wordt het geslacht geregistreerd? 
+Ja maar op de diplomabeschrijving niet, maar wel op het (fysieke) aanvraagformulier en registratie in RDE.  
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Ja, een wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+- Sekseregistratie van (fysieke) aanvraagformulier verwijderen. 
+- Geen registratie in RDE.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+- 
+ 
+Kinderopvangpersoneel 
+a. Wordt het geslacht geregistreerd? 
+Ja; 
+- in: brieven gericht aan de zaakwaarnemer (vb.; Naar aanleiding van uw aanvraag ten behoeve van de heer/mevrouw G.G. Dummyzeven voor 
+erkenning van zijn/haar beroepskwalificatie om te mogen werken in de kinderopvang deel ik u het volgende mee) 
+- op het (online en fysieke) aanvraagformulier (zowel erkenning als tijdelijke en incidentele dienstverrichting) 
+- in RDE 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Ja, een wettelijke basis ontbreekt. 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+e
+- Brieven gericht aan zaakwaarnemer herschrijven (project herschrijven brieven start na 2 kwartaal 2022) 
+- Sekseregistratie van (fysieke) aanvraagformulier verwijderen. 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         58

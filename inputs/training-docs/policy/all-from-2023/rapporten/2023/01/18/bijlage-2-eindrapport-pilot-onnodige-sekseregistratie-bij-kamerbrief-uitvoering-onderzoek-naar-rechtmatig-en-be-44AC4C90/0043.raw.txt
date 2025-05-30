@@ -1,0 +1,45 @@
+DUO Hoofdtaak: BEKOSTIGING Status Toekenning 
+Indien Onnodig hoe Indien Nodig welke alternatieven  
+Omschrijving en doel van 
+Nodig of  
+7
+Flow Interface het gebruik van het verminderen (zie OS checklist) 
+Onnodig 
+geslacht Maatregelen Kosten Maatregelen Kosten 
+      
+Hoofdproces Bekostigen  
+“Statustoekenning” is  n.v.t. 
+gebaseerd op gegevens uit de 
+registers die via 
+gegevensmagazijn (GM) worden 
+opgevraagd.  
+In de uitvraag van OI aan GM 
+wordt alleen gevraagd naar 
+M2M 
+gegevens die nodig zijn voor het 
+Input 
+proces statustoekenning t.b.v. 
+bekostiging (alle 
+onderwijssectoren). In die 
+uitvraag komt het gegeven 
+sekse/geslacht nergens voor. 
+Reden is dat het niet nodig is voor 
+het vervolg, namelijk bekostigen.  
+ 
+ n.v.t.     
+H2M 
+ n.v.t.     
+H2H 
+ n.v.t.     
+Verwerking en 
+ 
+opslag 
+De verzamelbeschikking (OFB) Nee Aanpassing naar ‘geacht 200 uur   
+bevat een aanhef ‘geachte bestuur’ 
+Output M2M 
+heer/mevrouw’. 
+ 
+ 
+7
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         43

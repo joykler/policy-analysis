@@ -1,0 +1,35 @@
+Bijlage 3 Resultaten – onderdeel Erkennen van Diploma’s, beheren Diplomabank 
+Inventarisatie (onnodige) sekseregistratie Internationale Diensten 
+ 
+Mijn diploma’s 
+a. Wordt het geslacht geregistreerd? 
+Ja, het geslacht wordt uit de BAP gehaald en wordt getoond op het digitaal uittreksel. (Kanttekening: tijdens de pilot is deze situatie gewijzigd, het 
+geslacht wordt niet meer getoond.) Bij EMREX staat het geslacht in het ELMO bericht. Bij DR services wordt geen geslacht meegestuurd in het bericht. 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+De wettelijke basis ligt in het besluit register onderwijsdeelnemers artikel 15 lid c 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Bij OCW signaal neerleggen of dit nog gewenst is. Zowel de diplomamodellen VO als MBO bevatten ook geen sekse, het getuigschrift HO ook niet. 
+Aangezien Mijn diploma’s zoveel mogelijk wil aansluiten op de originele diploma’s, is dit een argument om de registratie van het geslacht uit het besluit 
+te schrappen 
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+Niet meer tonen op het uittreksel. Voor EMREX geldt: ELMO bericht aanpassen. 
+ 
+Verklaring afgelegd examen  
+a. Wordt het geslacht geregistreerd? 
+Nee, niet op de VAE zelf  maar wel op het onlineaanvraagformulier, en het wordt geregistreerd in RDI 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Er ligt een wettelijke basis in het eindexamenbesluit VO artikel 54 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Desondanks onderzoeken of de registratie van het geslacht noodzakelijk is voor identificatie.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+Vervangend opleidingsdocument 
+a. Wordt het geslacht geregistreerd? 
+Nee niet op de VOD zelf, maar wel op het onlineaanvraagformulier en registratie in RDI 
+b. Is de sekseregistraties onnodig (wettelijke basis ontbreekt daarvoor)? 
+Er ligt een wettelijke basis in het eindexamenbesluit VO artikel 54 
+c. Als het onnodig is welke stappen om dit te verminderen kunnen worden gezet? 
+Desondanks onderzoeken of de registratie van het geslacht noodzakelijk is voor identificatie.  
+d. Als het nodig is om de sekse te blijven registreren welke alternatieven zijn er? (zie de bijlage OS-checklist) . 
+ 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         57

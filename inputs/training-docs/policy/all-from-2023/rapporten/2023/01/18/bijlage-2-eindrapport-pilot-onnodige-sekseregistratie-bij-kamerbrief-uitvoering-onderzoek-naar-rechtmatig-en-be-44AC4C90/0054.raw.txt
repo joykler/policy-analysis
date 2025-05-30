@@ -1,0 +1,37 @@
+TLO ABL per? 
+Generiek VZ-BD 2021/INK  
+ondersteunend 
+divers 
+ TLV In analyse 
+ RMA - 
+ INK - 
+ BAP  - 
+ 
+Scope OVG 
+• Taak verstrekken van Studiefinanciering (WSF2000, WSFBES) 
+• Taak verstrekken van tegemoetkoming studiekosten (WTOS) 
+• Taak Innen van lesgelgelden (Les en Cursusgeld) en Studiefinanciering (WSF2000, WSFBES, WTOS). 
+• Taak verstrekking van subsidies Leraren (Lerarenbeurs e.a.) 
+• Betreft systemen SFS en ABL.   
+• RMA en INK bevat geen persoonsgegevens. 
+ 
+Buiten Scope OVG 
+• Voor de processen van SFS en ABL  geldt dat de identificatie van de persoon via de BAP (en GBA) én de registratie van de persoon in de BAP, 
+plaatsvindt. Daarnaast wordt de BAP geraadpleegd voor communicatie naar de klant, ook vanuit SAP. De BAP is de generieke Basisadministratie 
+Persoon van DUO. De BAP registraties worden gevuld vanuit de Basis Registratie Personen (BRP). Voordat een organisatie gegevens krijgt van de 
+BRP moet deze een verzoek indienen bij de minister van Binnenlandse Zaken en Koninkrijksrelaties. Als de minister beoordeelt dat de 
+verstrekking van de gegevens in overeenstemming is met de wet, dan neemt deze een autorisatiebesluit. Met zo’n besluit krijgt een organisatie 
+toestemming om persoonsgegevens uit de BRP te mogen ontvangen. De BRP voorziet in de juridische sekse (m,v,o) en niet in een sociale sekse.  
+• De systemen waarvan bekend is dat deze uit gefaseerd zullen worden zijn buiten scope. Zie hiervoor bovenstaande tabel, kolom “uitfaseren”. 
+• Leveringen naar buiten als CBS, CJIB, SWZ. 
+ 
+Het toepassen van het geslacht in de communicatie naar de klant is niet evenredig, uitzonderingen daargelaten. In 2019 is een analyse uitgevoerd over 
+het Gender neutraal communiceren. De impact voor het achterwege laten van sekse in de communicatie is overgenomen uit deze analyse (exclusief de 
+impact op legacy systemen omdat de legacy systemen binnen deze opdracht buiten scope zijn). De impact is daarnaast uitgebreid met een update van 
+Contentbeheer Klantinteractie, ABL, en met het achterwege laten van gegeven geslacht op de medewerkersschermen. Daarnaast geldt het uitgangspunt 
+dat de medewerkers altijd de BAP kunnen raadplegen indien in uitzonderlijke gevallen er noodzaak is om kennis te hebben van de sekse in de 
+communicatie.  
+ 
+ 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         54

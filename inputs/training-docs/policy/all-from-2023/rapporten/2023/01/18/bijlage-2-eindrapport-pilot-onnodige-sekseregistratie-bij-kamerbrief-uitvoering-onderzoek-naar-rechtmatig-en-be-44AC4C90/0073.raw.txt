@@ -1,0 +1,41 @@
+Bijlage 7 Resultatentabel – HRM 
+DUO Hoofdtaak: HRM 
+Indien Onnodig hoe Indien Nodig welke alternatieven  
+Omschrijving en doel Nodig 
+16
+Flow Interface van het gebruik van het of  verminderen (zie OS checklist) 
+geslacht Onnodig Maatregelen Kosten Maatregelen Kosten 
+      
+Het geslacht wordt geregistreerd Nodig  Onbekend 
+in P-Direkt en daarna   
+doorgeschreven naar SAP.    
+  De keuzemogelijkheden in P-direkt 
+  en SAP zouden uitgebreid kunnen 
+  worden met meerdere opties 
+  (non-binair / zeg ik liever niet). 
+  Daarnaast zou de medewerker de 
+  mogelijkheid moet krijgen om aan 
+  te geven of hij/zij in 
+  brieven/overeenkomsten wil 
+M2M 
+  worden aangeschreven met de 
+Input 
+ Nodig heer / mevrouw / voornaam 
+Voor het aanmaken van het /voorletters en achternaam. Een 
+unieke RijksIdentificatieNummer soortgelijke optie is er al wel 
+(RIN) maakt de afdeling gecreëerd voor het voeren van 
+e
+Personeelsbeheer gebruik van het een 2 naam naast je 
+RIN B.V. Ook in dit systeem moet geboortenaam. 
+het geslacht worden geregistreerd    
+ 
+P-Direkt valt buiten de scope!  
+ 
+     Onbekend 
+Nieuwe medewerkers vullen Idem als hierboven 
+H2M 
+diverse formulieren in maar op  
+ 
+16
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         73

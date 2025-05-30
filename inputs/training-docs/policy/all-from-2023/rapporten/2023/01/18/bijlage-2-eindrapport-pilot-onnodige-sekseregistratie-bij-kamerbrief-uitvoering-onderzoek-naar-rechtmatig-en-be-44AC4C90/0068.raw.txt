@@ -1,0 +1,38 @@
+Bijlage 6 Resultatentabel – IP  
+DUO Hoofdtaak: Verrijken van onderwijsgegevens tot informatieproducten 
+Indien Onnodig hoe Indien Nodig welke 
+Omschrijving en doel 
+Nodig of  verminderen alternatieven  
+15
+Flow Interface van het gebruik van 
+Onnodig (zie OS checklist) 
+het geslacht 
+Maatregelen Kosten Maatregelen Kosten 
+Geslacht komt vanuit DUO Dit is nodig omdat deze   Andere mogelijkheden geen 
+M2M 
+BAP in de 1 cijferbestanden bestanden dienen als naast man/vrouw kunnen extra 
+leerlingen en examens PO, grondslag voor zonder meer worden kosten 
+VO, MBO en HO. (beleids)onderzoek. opgenomen in de 
+1cijferbestanden. Dit is 
+echter afhankelijk van 
+welke gegevens door de 
+BAP worden aangeleverd. 
+Geslacht kan voorkomen in Onnodig. Wel een De afdeling die n.v.t.   
+het veld NAAM (vrij wettelijke taak, maar verantwoordelijk is 
+invulbaar) bij de gegevens het sekse gegeven voor het (xbrl) 
+Input over topfunctionarissen van heeft geen rol. portaal waar deze 
+schoolbesturen en gegevens op 
+organisaties uit de binnenkomen is 
+cultuursector in het kader BKP/Productie1. 
+van de Wet Normering Aanpassing van het 
+Topinkomens (WNT). Deze veld is niet mogelijk, 
+worden verwerkt door het toevoegen van een 
+team verantwoorden. Het extra invulinstructie 
+team haalt de data op uit een is alleen mogelijk 
+database, die wordt beheerd door tussenkomst 
+door BKP/productie1. van ministerie van 
+   BZK. 
+ 
+15
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         68

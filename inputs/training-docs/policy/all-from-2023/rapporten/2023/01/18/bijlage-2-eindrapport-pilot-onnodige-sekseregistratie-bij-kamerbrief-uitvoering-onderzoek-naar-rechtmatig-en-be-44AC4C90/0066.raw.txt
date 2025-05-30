@@ -1,0 +1,44 @@
+Bijlage 5 Resultatentabel - Onderdeel ROD 
+DUO Hoofdtaak: Registratie Onderwijsdeelnames en resultaten ROD 
+Indien Onnodig hoe Indien Nodig welke alternatieven  
+Omschrijving en doel 
+Nodig of  
+14
+Flow Interface van het gebruik van het verminderen (zie OS checklist) 
+Onnodig 
+geslacht Maatregelen Kosten Maatregelen Kosten 
+Geslacht komt van Instelling bij Nodig. Artikel   geen alternatieven  
+identificatie van 9, lid 2 sub c 
+onderwijsdeelnemer 
+Bij aanlevering met BSN wordt 
+het gebruikt om juistheid BSN te 
+valideren 
+Bij aanlevering met 
+M2M 
+persoonsgegevens wordt het 
+gebruikt om persoon in BRP te 
+zoeken. 
+Input 
+Als niet gevonden wordt persoon 
+met klantgegevens geregistreerd 
+en wordt een onderwijsnummer 
+gegenereerd en teruggekoppeld 
+Gegevens over contactpersonen Misschien     
+H2M 
+bij HO-instellingen. Dit wordt niet nodig 
+gebruikt bij contactmomenten. 
+n.v.t.      
+ 
+H2H 
+ 
+Het geslacht van Nodig, BAP   geen alternatieven.  
+onderwijsdeelnemers wordt gebruikt het 
+Verwerking en geregistreerd in BAP bij 
+BAP gebruikt het geslacht in identificatie 
+opslag 
+uitwisseling met BRP om van de 
+identiteit te bepalen persoon 
+ 
+14
+ H = Human, M= Machine 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         66

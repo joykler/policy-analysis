@@ -1,0 +1,35 @@
+Update van Contentbeheer Klantinteractie waarbij de volgende onderwerpen zijn geïnventariseerd: 
+ 
+• IDG (brievenbieb). De aanhef is technisch (ligt bij PADI), maar de teksten beheren wij. Dit zijn circa 270 brieven. 40 uur 
+• Voice response. Mogelijk wordt hier ook ‘hem’ of ‘haar’ genoemd, maar geslacht niet uitgevraagd. 8 uur 
+• Pro-actieve mailingen, in ieder geval de aanhef. 1 uur 
+• Social media (teksten). 1 uur 
+• Onze standaardteksten voor overige mailingen. 8 uur 
+• Veelgestelde vragen in Mijn DUO. 16 uur 
+• Outputkalender: 40 uur 
+ 
+Totaal 114 uren, afgerond 150 uren 
+ 
+Update ABL 
+Sinds de analyse Gender neutraal communiceren zijn regelingen toegevoegd aan de nieuwe applicatie ABL. 
+Het aanpassen van de ABL brieven betreft 
+ 
+- Factuur/betaalverzoek  
+- Herinneringsbrief 
+- Aanmaanbrief 
+- Betalingsregeling 
+- Brief bij volledige aflossing 
+ 
+Voor het neutraal communiceren zijn 12 uren toegevoegd (bouw en test). Deze zijn afgerond naar 50 uren. 
+ 
+Aanpassen medewerkersschermen 
+In totaal zijn er ongeveer 60 medewerkersschermen met duiding geslacht. De verwachting is dat de aanpassing van een gemiddeld scherm ongeveer 6 
+uur voor bouw gaat kosten. Dit betekent dat de verwachte uren per schermaanpassing ongeveer 15 uur zal zijn (bij een verdeelsleutel van 3 uur FO, 6 
+uur Bouw, 6 uur Test). 
+ 
+Dit betekent dat de raming voor het verwijderen van de geslachtsaanduiding in de medewerkersschermen ongeveer 900 uur gaat kosten (60*15). Deze 
+urenraming dekt alleen de uren voor het verwijderen van het veld ‘geslacht’ van de schermen en nog niet de uren die nodig zijn om deze gegevens niet 
+meer mee te leveren in de WVB services naar het scherm toe. Als ook de services aangepast moeten worden dan zal deze raming verdubbelen (dus 1800 
+uur). Deze raming is globaal gemaakt, er moet rekening worden gehouden met een onzekerheidsmarge van 25%. 
+ 
+Bijlagen – Eindrapport Pilot Onnodige Sekseregistratie (POS)         56
