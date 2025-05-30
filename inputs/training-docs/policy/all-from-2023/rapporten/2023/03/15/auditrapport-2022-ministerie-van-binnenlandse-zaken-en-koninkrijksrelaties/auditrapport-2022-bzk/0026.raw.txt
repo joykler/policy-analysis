@@ -41,4 +41,4 @@ marktconcentratierisico van grote public cloud providers blijft een aandachtspun
 is monitoring van dit risico geadresseerd in het concept implementatiekader als onderdeel van de 
 taak van de CIO-Rijk om stapelingsrisico’s op het gebied van cloud over departementen heen te 
 signaleren aan het CIO-beraad.
- Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 26
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) |

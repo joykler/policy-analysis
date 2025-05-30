@@ -43,4 +43,4 @@ In 2022 zijn door SSO CN overleggen gevoerd over aansluiting op het Security Ope
 beveiligingsmaatregelen kunnen beveiligingsexperts van het SOC van het SSC-ICT mogelijke 
 beveiligingsincidenten ‘actief op afstand monitoren’. Deze aansluiting op het SOC is van cruciaal 
 belang voor SSO CN en vraagt daarmee blijvende aandacht van het management in 2023.
- Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) | 16
+ Auditrapport 2022 | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) |
