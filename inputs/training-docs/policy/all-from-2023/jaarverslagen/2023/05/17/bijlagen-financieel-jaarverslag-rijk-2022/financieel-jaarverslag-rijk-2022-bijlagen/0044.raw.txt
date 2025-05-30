@@ -1,0 +1,45 @@
+4. Financieringsverschuivingen gedurende de kabinetsperiode
+Financieringsverschuivingen zijn verschuivingen van geldstromen binnen 
+het Rijk die niet tot meer of minder bestedingsruimte van het Rijk leiden, 
+maar zonder correctie wel effect zouden hebben op het accres. Dit zijn dus 
+schuiven tussen accresrelevante uitgaven en niet-accresrelevante uitgaven. 
+Bij een schuif is per saldo geen sprake van meer of minder uitgaven op 
+rijksniveau, maar is alleen sprake van een andere financieringsbron. Denk 
+bijvoorbeeld aan overhevelingen van departementale begrotingen naar 
+het Gemeentefonds en Provinciefonds en financieringsverschuivingen 
+tussen de inkomsten- en de uitgavenkant.
+5. Corona-noodmaatregelen en Oekraïne-noodmaatregelen
+Gegeven de uitzonderlijke situatie als gevolg van zowel het coronavirus als 
+de oorlog in Oekraïne heeft het kabinet besloten de uitgaven hiervoor buiten 
+het reguliere uitgavenplafond te behandelen. Dit betekent dat de extra 
+uitgaven niet ten koste gaan van andere uitgaven, maar dat ze zorgen voor 
+een verslechtering van het EMU-saldo en een verhoging van de EMU-
+schuld. Om boekhoudkundige redenen wordt een aantal van deze uitgaven 
+met plafondcorrecties onder het uitgavenplafond geboekt. Ook hiervoor 
+geldt dat ze niet ten koste gaan van andere uitgaven. Omdat de reguliere 
+systematiek niet geldt voor deze uitgaven leiden ze ook niet tot een effect 
+op het accres.
+6. Maatregelen uit het energie-pakket
+In september 2022 heeft het kabinet vanwege de gestegen energieprijzen 
+besloten tot een pakket aanvullende maatregelen om de koopkracht van 
+burgers te ondersteunen. Hierbij is aangegeven dat deze maatregelen 
+vanwege hun uitzonderlijke karakter niet meelopen in de normeringssyste­
+matiek.
+Grondslag
+De normeringsystematiek is van toepassing op alle middelen die worden 
+verantwoord onder het Provinciefonds exclusief corona- en Oekraine-
+noodmaatregelen.
+Voor de berekening van het accres in jaar t wordt de grondslag van het 
+voorgaande jaar (t-1) genomen. Het accrespercentage in jaar t betreft 
+immers ook de groei van de aru ten opzichte van het voorgaande jaar (t-1). 
+Als de aru met x% stijgen in jaar t groeit het Provinciefonds via het accres 
+in jaar t ook met x%. Hiermee wordt het principe van trap-op-trap-af 
+gewaarborgd. Dit heeft tot gevolg dat mutaties in de grondslag altijd met 
+een jaar vertraging doorwerken in de normeringsystematiek. Via taakmu­
+taties kunnen departementen geld toevoegen of onttrekken aan een van 
+beide fondsen; dit werkt door als grondslagmutatie. Uitgangspunt is dat bij 
+taakmutaties geen jaren ontstaan zonder indexatie van deze overgehevelde 
+budgetten. Dat betekent dat bij overheveling van of naar het Provinciefonds 
+het verantwoordelijke departement een reeks overhevelt met indexatie over 
+het lopende jaar.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 2 44

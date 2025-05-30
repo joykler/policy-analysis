@@ -1,0 +1,42 @@
+Tabel 5.12 Aansluiting uitgaven Rijksrekening en budgettaire 
+kerngegevens (in miljarden euro, - is tekort)
+FJR 2022 Bron
+Totaal kasuitgaven begrotingen 324,7 Tabel 1.2
+Rentelasten 8,5 Tabel 1.4
+Totaal kasuitgaven begrotingen en rentelasten 333,2
+Af: uitgaven aflossing vaste schuld 30,8 H9A artikel 11
+Af: uitgaven aflossing vlottende schuld 0,0 H9A artikel 11
+Af: uitgaven (dis)agio bij inkoop schuld (U/O IXA 0.1.22.1) 0,0 0
+Af: uitgaven (dis)agio bij inkoop schuld (U/O IXA 0.1.22.1) 13,4 Tabel 4.2
+Totaal uitgaven begrotingen 288,9 Tabel 4.2
+Af: niet-belastingontvangsten begrotingen 42,0 Tabel 4.3
+Totaal netto-uitgaven begrotingen 247,0 Tabel 4.4
+Totaal premiegefinancierde netto-uitgaven 143,5
+w.v. Sociale Zekerheid en Arbeidsmarktrelaties 64,1 Tabel 4.6
+w.v. Zorg 79,5 Tabel 4.7
+Totaal netto-uitgaven (begrotingen en premies) 390,5 Tabel 5.1
+w.v. Netto-uitgaven onder het uitgavenplafond 357,1 Tabel 5.1
+w.v. Netto-uitgaven buiten het uitgavenplafond 33,4 Tabel 4.8
+Af: niet EMU-saldo relevante uitgaven 27,9 Tabel 5.2
+Bij: kas-transverschillen en overige posten ‒ 11,1 Tabel 5.2
+Totaal netto-uitgaven relevant voor EMU-saldo 351,5 Tabel 5.1
+Tabel 5.13 Aansluiting ontvangsten Rijksrekening en budgettaire 
+kerngegevens (in miljarden euro, - is tekort)
+FJR 2022 Bron
+Totaal kasontvangsten begrotingen 346,7 Tabel 1.3
+Rentebaten 0,7 Tabel 1.5
+Totaal kasontvangsten begrotingen en rentebaten 347,3
+Af: uitgifte vaste schuld 44,1 H9A artikel 11
+Af: uitgifte vlottende schuld 22,7 H9A artikel 11
+Af: consolidatie 13,4 Tabel 4.3
+Af: niet-belastingontvangsten 42,0 Tabel 4.3
+Totaal belastingen op kasbasis 225,1 Tabel 3.2
+Premie-inkomsten op kasbasis 117,3
+w.v. volksverzekeringen 41,6 Tabel 3.2
+w.v. werknemersverzekeringen (EMU-basis) 75,7 Tabel 3.2
+Totale inkomsten op kasbasis 342,4
+Kas-transverschillen inkomsten 8,0
+w.v. kas-transverschillen belastingen 7,0 Tabel 3.2
+w.v. kas-transverschillen premies volksverzekeringen 1,0 Tabel 3.2
+Totaal belastingen en premies op EMU-basis 350,5 Tabel 6.1
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 2 27

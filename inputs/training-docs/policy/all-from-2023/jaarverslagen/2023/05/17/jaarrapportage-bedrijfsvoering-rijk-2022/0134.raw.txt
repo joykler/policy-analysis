@@ -1,0 +1,63 @@
+Organisatieomvang *
+1
+Tabel 66 Woo-(hoger) beroepen per ministerie
+Woo-beroepen Woo-hoger beroepen
+Uitspraken (Deels) gegrond Uitspraken (Deels) gegrond
+Ministerie aantal aantal % aantal aantal %
+AZ 2 0 0 1 0 0
+BZ 4 4 100 0 0 0
+BZK 0 0 0 0 0 0
+Def 1 1 100 0 0 0
+EZK 10 7 70 2 0 0
+Fin 3 1 33,3 1 0 0
+IenW 5 5 100 1 1 100
+JenV 14 7 50 5 3 60
+LNV 13 6 46,2 4 4 100
+OCW 13 13 100 0 0 0
+SZW 5 1 20 0 0 0
+VWS (reguliere verzoeken) 9 1 11,1 1 1 100
+VWS (verzoeken COVID-19) 1 1 100 1 1 100
+Totaal 80 47 58,8 16 10 62,5
+1 Een (deels) gegrond bezwaar of beroep betekent niet per definitie dat ten onrechte informatie niet openbaar is gemaakt. Het kan bijvoorbeeld ook om het herstellen   
+van een motiveringsgebrek gaan zonder dat dit leidt tot verdere openbaarmaking.
+* Uitzonderingen organisatieomvang: Bij VWS zijn de reguliere verzoeken en de COVID-19-verzoeken uitgesplitst.
+Bij BZK, EZK, FIN, IenW en OCW wordt een aantal organisaties en/of organisatieonderdelen niet meegeteld, omdat de verzoeken bij die organisaties niet centraal worden 
+afgehandeld en daarover ook niet gerapporteerd wordt richting het kerndepartement. Bij JenV telt enkel het kerndepartement mee.
+Bron: Uitvraag onder Woo-coördinatoren van de kerndepartementen.
+Organisatieomvang *
+1
+Tabel 67 Woo-beroepen wegens niet tijdig beslissen per ministerie
+Aantal verzoeken 
+waarbij de rechter 
+Aantal gegronde Aantal uitspraken in Totaalbedrag aan Totaalbedrag aan 
+een termijn heeft 
+(hoger) beroepen 2022 waarbij een verbeurde betaalde 
+opgelegd en waar op 
+niet tijdig beslissen dwangsom in 2022 dwangsommen in dwangsommen in 
+31 december 2022 nog 
+in 2022 is verbeurd 2022 2022
+geen besluit op is 
+genomen
+Ministerie Aantal Aantal Bedrag Bedrag Aantal
+AZ 15 4 € 6.500 € 4.100 6
+0
+BZ 4 2 € 28.560 € 28.560
+BZK 8 1 € 6.500 € 3.000 5
+Def 5 3 € 39.184 € 39.184 2
+EZK 17 4 € 63.000 € 18.000 4
+Fin 30 17 € 141.550 € 115.050 3
+IenW 35 14 € 292.850 € 277.700 9
+JenV 10 5 € 9.700 € 4.600 1
+LNV 68 17 € 325.000 € 360.000 16
+OCW 1 1 € 8.500 € 0 1
+SZW 1 0 € 15.000 € 43.000 3
+0
+VWS (reguliere verzoeken) 11 2 € 2.900 € 41.100
+VWS (verzoeken COVID-19) 24 14 € 290.650 € 223.100 30
+Totaal 229 84 € 1.229.894 € 1.157.394 80
+1 Het gaat hierbij om het aantal verzoeken waarbij een termijn door de rechter is opgelegd in 2022 en waar op 31 december 2022 nog geen besluit op is genomen. 
+* Uitzonderingen organisatieomvang: Bij VWS zijn de reguliere verzoeken en de COVID-19-verzoeken uitgesplitst.
+Bij BZK, EZK, FIN, IenW en OCW wordt een aantal organisaties en/of organisatieonderdelen niet meegeteld, omdat de verzoeken bij die organisaties niet centraal worden 
+afgehandeld en daarover ook niet gerapporteerd wordt richting het kerndepartement. Bij JenV telt enkel het kerndepartement mee.
+Bron: Uitvraag onder Woo-coördinatoren van de kerndepartementen.
+134

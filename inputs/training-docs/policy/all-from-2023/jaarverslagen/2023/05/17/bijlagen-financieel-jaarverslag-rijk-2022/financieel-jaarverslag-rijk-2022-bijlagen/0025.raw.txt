@@ -1,0 +1,50 @@
+Tabel 5.5 geeft de verdeling van het EMU-saldo over de verschillende 
+onderdelen van de collectieve sector weer. In tabel 5.6 wordt het EMU-saldo 
+van het Rijk verder uitgesplitst.
+Tabel 5.5 Opbouw EMU-saldo collectieve sector (in miljoenen euro, - is 
+tekort)
+MN2022 FJR 2022 Verschil
+EMU-saldo Rijk ‒ 24.324 ‒ 12.393 11.932
+EMU-saldo sociale fondsen 5.473 11.366 5.893
+EMU-saldo decentrale overheden ‒ 2.425 1.114 3.539
+EMU-saldo collectieve sector ‒ 21.276 88 21.364
+EMU-saldo collectieve sector (in procenten bbp) ‒ 2,4% 0,0% 2,4%
+Tabel 5.6 EMU-saldo Rijk (in miljoenen euro, - is uitgave / tekort)
+MN2022 FJR 2022 Verschil
+Belastingontvangsten 222.795 232.165 9.370
+Netto begrotingsgefinancierde uitgaven ‒ 245.715 ‒ 246.958 ‒ 1.244
+Af: niet EMU-saldo relevante uitgaven 35.168 27.873 ‒ 7.294
+Betaalde rijksbijdrage en rente aan sociale fondsen ‒ 39.007 ‒ 36.359 2.649
+Kas-transverschillen en overige posten Rijk 2.435 10.887 8.452
+EMU-saldo Rijk (centrale overheid) ‒ 24.324 ‒ 12.393 11.932
+Tabel 5.7 geeft het financieringstekort van het Rijk weer. Het financierings­
+tekort is het bedrag dat het Rijk op kasbasis in een jaar tekort komt of over 
+heeft. Het financieringstekort is daarmee dus ook het bedrag dat in een jaar 
+extra moet worden geleend of, bij een overschot, waarmee schulden kunnen 
+worden afgelost. Waar het EMU-saldo een begrip op transactiebasis is, is 
+het financieringstekort een begrip op kasbasis. Om te komen tot het finan­
+cieringstekort moeten naast de belastingontvangsten en de uitgaven op 
+de begrotingen nog een aantal correcties worden toegepast. Ten eerste zijn 
+de belastingen, zoals die meetellen voor het EMU-saldo, berekend op trans­
+actiebasis. Om tot de belastingen op kasbasis te komen moet het kas-trans­
+verschil hier vanaf worden getrokken. Hetzelfde geldt voor posten op de 
+Rijksbegroting die niet op kasbasis zijn. Allereerst is dat de rente op de 
+staatsschuld. Deze staat in de Rijksbegroting op transactiebasis, terwijl voor 
+het financieringstekort alleen de kasuitgaven meetellen. Daarnaast wordt 
+geld storten in (of opnemen uit) een begrotingsreserve op de begroting 
+gezet als uitgave of ontvangst, terwijl het geld de schatkist in dat geval niet 
+daadwerkelijk verlaat of binnenkomt. Daarom wordt voor dit type uitgaven 
+ook gecorrigeerd om tot het financieringssaldo te komen.
+Tabel 5.7 Financieringssaldo Rijksoverheid (in miljoenen euro, - is 
+uitgave / tekort)
+MN 2022 FJR 2022 Verschil
+Belastinginkomsten (kasbasis) 223.125 225.140 2.015
+Netto begrotingsgefinancierde uitgaven ‒ 245.715 ‒ 246.958 ‒ 1.244
+Af: kas-transverschil rentelasten ‒ 860 ‒ 955 ‒ 95
+Mutatie begrotingsreserves 116 1.137 1.021
+Mutaties derdenrekeningen inclusief Fortis lening 0 ‒ 269 ‒ 269
+Financieringssaldo Rijksoverheid ‒ 23.334 ‒ 21.905 1.429
+Het financieringssaldo werkt één op één door in de staatsschuld. Voor een 
+financieringstekort moet immers geleend worden op de financiële markten, 
+terwijl een overschot gebruikt kan worden om schulden af te lossen. Tabel 
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 2 25

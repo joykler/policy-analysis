@@ -1,0 +1,35 @@
+Nr. Ministerie ICT-activiteit Startdatum Initiele Actuele Initiele schatting Actuele schatting Actuele schatting Verschil Cumulatieve Cumulatieve Prognose Status
+schatting schatting meerjarige kosten meerjarige kosten meerjarige kosten schatting meerjarige uitgaven meerjarige toekomstige 
+einddatum einddatum 2022 2021 2022 - 2021 t/m 2022 uitgaven t/m kosten
+2021
+122 OCW Vervangen Java ontwikkelstraat CD1.0 naar Quattro CD2.0 2017-01-01 2022-12-31 2022-03-01 8,72 8,74 8,72 0,02 7,09 7,04 1,7 Afgerond
+123 OCW Vervangen Legacy Innen 2020-01-01 2024-12-31 2023-04-01 9,07 5,26 13,23 -7,97 5,26 4,98 0,28 In heroriëntatie
+124 OCW Vervangen Legacy Toekennen 2020-01-01 2024-12-31 2023-04-01 8,19 3,31 11,1 -7,79 3,31 0,98 2,33 In heroriëntatie
+125 SZW Aansluiting op NHR 2019-12-04 2021-03-31 2022-11-30 3,8 4,85 5,24 -0,39 4,85 4,17 0,68 Afgerond
+126 SZW Datafabriek 2020-01-14 2023-12-31 2025-12-31 30,13 30,13 30,13 0 33,98 21,93 8,2 In uitvoering
+127 SZW E-Herkenning Overige Portalen 2020-09-01 2022-06-30 2023-06-30 5,1 8,16 5,32 2,84 7,97 3,87 4,29 In uitvoering
+128 SZW E-Publicatie 2021-07-06 2023-02-28 2023-06-30 5,53 8,17 5,54 2,63 4,37 1,22 6,95 In uitvoering
+129 SZW EESSI - UWV 2018-03-13 2021-06-30 2023-06-30 7,92 13,47 13,47 0 11,48 8,14 5,33 In uitvoering
+130 SZW Helios 2022-05-03 2024-06-30 2024-06-30 8,52 7,86 0 7,86 2,69 0 7,86 In uitvoering
+131 SZW Herontwerp Faillissementen 2022-06-14 2023-05-31 2023-05-31 6,17 6,17 0 6,17 2,62 0 6,17 In uitvoering
+132 SZW Herontwerp WW Klant 2020-01-14 2021-12-31 2022-08-23 9,77 14,31 13,16 1,15 13,77 13,05 1,26 Afgerond
+133 SZW IB&P Sonar 2021-05-11 2022-12-31 2023-03-31 8,93 6,63 8,93 -2,3 4,78 2,76 3,87 In uitvoering
+134 SZW Modernisering Elektronisch Bestuurlijk Verkeer 2020-07-14 2026-01-01 2026-01-01 10,08 22 10,15 11,85 5,92 3,91 18,09 In uitvoering
+135 SZW Open VMS 2022-02-08 2025-12-31 2025-12-31 36,08 36,08 0 36,08 14,98 0 36,08 In uitvoering
+SMZ IV Optimalisatie Realisatie ZW
+136 SZW 2021-04-20 2022-06-30 2024-01-01 8,38 8,38 8,38 0 4,57 3,05 5,33 In uitvoering
+137 SZW STAP 2020-12-31 2022-04-01 2022-12-31 12,12 18,31 18,8 -0,49 18,31 14,09 4,22 Afgerond
+138 SZW Samen naar de Moderne Werkplek 2022-04-04 2023-09-30 2023-09-30 9,27 13,54 0 13,54 7,29 0 13,54 In uitvoering
+139 SZW VBS FIN 2018-07-30 2022-03-31 2022-12-31 3,79 7,1 7,1 0 7,1 6,17 0,93 Afgerond
+140 SZW Vaardig met Vaardigheden 2022-07-01 2025-12-31 2025-12-31 25,31 25,31 0 25,31 0 0 25,31 In uitvoering
+141 SZW Veranderopgave Inburgering 2020-12-04 2022-01-01 2022-08-30 13,41 14,51 24,63 -10,12 14,51 8,86 5,65 Afgerond
+142 SZW Verbeteren Uitwisseling Matchingsgegevens 2021-05-19 2022-12-31 2024-07-01 17,21 22,13 17,5 4,63 15,5 10,61 11,52 In uitvoering
+Vereenvoudiging Wajong
+143 SZW 2019-08-13 2021-04-01 2022-08-01 7,89 9,6 8,19 1,41 9,6 9,27 0,33 Afgerond
+144 SZW Vereenvoudiging beslagvrije voet 2019-12-19 2021-03-01 2022-07-31 23 42,2 42,2 0 35,5 35,5 6,7 In uitvoering
+145 SZW Verwerving Datacenter 2016-10-01 2022-12-31 2023-06-30 67,67 117,48 108,47 9,01 104,9 71,13 46,35 In uitvoering
+146 VWS Programma Heraanbesteding ICT CIZ 2021-04-01 2024-03-31 2024-03-31 30,44 30,44 0 30,44 0 0 30,44 In uitvoering
+Totaal 5503,2 6802,6 5944,46 858,14
+* Uitzonderingen organisatieomvang: exclusief wapensystemen.
+Bron: Rijks-ICT Dashboard.
+132

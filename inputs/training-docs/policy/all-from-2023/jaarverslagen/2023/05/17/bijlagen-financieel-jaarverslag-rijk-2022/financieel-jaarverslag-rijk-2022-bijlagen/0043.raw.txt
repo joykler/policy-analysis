@@ -1,0 +1,49 @@
+(in miljoenen euro, tenzij anders aangegeven) Realisatie Begroting 
+2022 MN 2022
+J) accres cumulatief 185 127
+Ten opzichte van de ontwerpbegroting bij Miljoenennota 2022 is het accres 
+voor het provinciefonds gestegen met 58 miljoen euro. Dit komt door een 
+stijging van de accresrelevante uitgaven. De componenten van deze 
+berekening worden hieronder toegelicht. Ten opzichte van de laatste 
+bijstelling bij Miljoenennota 2023 is het accres gestegen met 7 miljoen euro.
+Presentatie en berekening van de accresontwikkeling
+Bij de bepaling van de omvang van accresrelevante uitgaven (aru) vormen 
+de netto uitgaven van het Rijk onder het uitgavenplafond het startpunt. 
+Netto wil zeggen dat de rijksuitgaven worden gesaldeerd met de niet-belas­
+tingontvangsten. Op de netto uitgaven onder het uitgavenplafond (A) 
+worden correcties (B) doorgevoerd voor verschillende posten zoals het 
+Provinciefonds zelf. Het saldo (C) geeft de accresrelevante uitgaven (aru) en 
+vormt de basis voor de accresberekening. Het accres (G) is vervolgens het 
+product van de grondslag (E en H) en de aru in procenten (D).
+Bepaling accresrelevante uitgaven (aru).
+Om de aru te berekenen wordt uitgegaan van de netto rijksuitgaven onder 
+het uitgavenplafond inclusief vier typen standaardcorrecties en een 
+bijzondere correctie voor corona- en Oekraïne-noodmaatregelen:
+1. Rijksuitgaven aan gemeenten en provincies
+Uitgaven onder het uitgavenplafond die het Rijk overmaakt naar gemeenten 
+en provincies worden uit de aru gecorrigeerd. Deze overdrachten zijn 
+immers bestemd voor de financiering van uitgaven door gemeenten en 
+provincies zelf en maken derhalve geen onderdeel uit van de rijksuitgaven 
+waarop de trap-op-trap-af van toepassing is. Het corrigeren van de 
+overdrachten is ook nodig om een onbedoelde doorwerking van accres op 
+accres in hetzelfde jaar te voorkomen. Rijksuitgaven die op deze wijze gecor­
+rigeerd worden zijn onder andere de algemene, decentralisatie- en 
+integratie-uitkeringen van het Gemeentefonds en Provinciefonds, de 
+uitgaven van het Btw-compensatiefonds, de bijstand en de integratie-
+uitkering sociaal domein.
+2. Niet-accresrelevante rijksuitgaven onder het plafond
+In het coalitieakkoord van kabinet Rutte VI is gekozen om de uitvoerings­
+kosten van medeoverheden voor investeringspakketten (klimaat, ontsluiten 
+nieuwbouwwoningen en stikstof) specifiek te verstrekken. In samenhang 
+hiermee is besloten om de middelen voor het Transitiefonds, het Klimaat­
+fonds, het budget voor ontsluiting van nieuwe woningen in het Mobiliteits­
+fonds en het Nationaal Groeifonds uit te zonderen van de berekening van 
+de accresrelevante rijksuitgaven.
+3. Uitgavenmutaties in de WW als gevolg van conjunctuur
+In de begrotingsregels van het kabinet Rutte IV is afgesproken dat 
+gedurende de regeerperiode het uitgavenplafond gecorrigeerd wordt voor 
+mutaties in de WW-uitgaven als gevolg van de conjunctuur. Het Rijk hoeft 
+zodoende mee- en tegenvallers in de WW-uitgaven als gevolg van 
+conjunctuur niet op te vangen binnen het uitgavenplafond en deze uitga­
+venmutaties zijn om deze reden ook niet accresrelevant.
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 2 43

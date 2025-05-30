@@ -1,0 +1,46 @@
+5 EMU-SALDO EN EMU-SCHULD
+Tabel 5.1 betreft een overzicht van de inkomsten, de uitgaven, het EMU-
+saldo en de EMU-schuld (de budgettaire kerngegevens). Het betreft de 
+inkomsten en uitgaven van het Rijk die relevant zijn voor het EMU-saldo. 
+Om van het EMU-saldo Rijk tot het saldo van de gehele collectieve sector te 
+komen, wordt het EMU-saldo van de decentrale overheden meegeteld. De 
+EMU-schuld wordt hier voor de gehele collectieve sector weergeven.
+Tabel 5.1 Budgettaire kerngegevens (in miljarden euro, tenzij anders 
+aangegeven)
+MN 2022 FJR 2022 Verschil
+Inkomsten (belastingen en sociale premies) 334,1 350,5 16,4
+Nood- en steunmaatregelen corona relevant voor EMU-
+saldo (uitgaven) 0,0 11,2 11,2
+Reguliere netto-uitgaven onder het uitgavenplafond 346,3 345,9 ‒ 0,4
+Rijksbegroting 171,7 162,3 ‒ 9,4
+Sociale Zekerheid 93,3 88,5 ‒ 4,7
+Zorg 81,4 81,2 ‒ 0,1
+Investeringen 13,8 13,8
+Overige netto-uitgaven en correcties voor het EMU-saldo 6,6 ‒ 5,6 ‒ 12,2
+Totale netto-uitgaven en correcties voor het EMU-saldo 353,0 351,5 ‒ 1,5
+EMU-saldo centrale overheid ‒ 18,9 ‒ 1,0 17,8
+EMU-saldo decentrale overheden ‒ 2,4 1,1 3,5
+EMU-saldo collectieve sector ‒ 21,3 0,1 21,4
+EMU-saldo collectieve sector (in procenten bbp) ‒ 2,4% 0,0% 2,4%
+EMU-schuld collectieve sector 517 480,1 ‒ 37
+EMU-schuld collectieve sector (in procenten bbp) 57,7% 51,0% ‒ 6,7%
+Bruto binnenlands product (bbp) 895 941 46
+Tabel 5.2 geeft de opbouw van het EMU-saldo van de collectieve sector 
+weer. Dit EMU-saldo, ook wel het overheidssaldo genoemd, is de optelsom 
+van alle inkomsten en uitgaven van de Rijksoverheid en de decentrale 
+overheden. De inkomsten en uitgaven van de Rijksoverheid zijn in meer 
+detail te vinden in bijlage 3 en 4. Om tot het EMU-saldo te komen worden 
+enkele correcties toegepast: sommige uitgaven tellen namelijk niet mee 
+voor het EMU-saldo (deze zijn uitgesplitst in tabel 5.3) en voor sommige 
+posten telt een ander bedrag mee voor het EMU-saldo (op transactiebasis) 
+dan op kasbasis in de Rijksbegroting is opgenomen (deze zijn uitgesplitst in 
+tabel 5.4).
+Tabel 5.2 EMU-saldo (in miljoenen euro, + is overschot)
+MN 2022 FJR 2022 Verschil
+1 Belasting- en premieontvangsten 334.108 350.462 16.354
+2 Totale netto-uitgaven 391.064 390.499 ‒ 565
+3 Af: niet EMU-saldo relevante uitgaven ‒ 35.168 ‒ 27.873 7.294
+4 Bij: Kas-transverschillen en overige posten 2.937 11.137 8.200
+5 Bij: EMU-saldo decentrale overheden ‒ 2.425 1.114 3.539
+6 EMU-saldo collectieve sector (1-2-3+4+5) ‒ 21.276 88 21.364
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 2 23

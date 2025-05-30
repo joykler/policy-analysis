@@ -1,0 +1,52 @@
+De uitgaven die wel op de Rijksbegroting staan, maar die niet meetellen 
+voor het EMU-saldo, staan vermeld in tabel 5.3. Wat er wel en niet meetelt 
+voor het EMU-saldo is vastgesteld door het Europese statistiekbureau 
+Eurostat in de Manual on Government Deficit and Debt.
+Tabel 5.3 Uitgaven niet-relevant voor het EMU-saldo (in miljoenen euro, 
++ is uitgave)
+MN2022 FJR 2022 Verschil
+Verstrekking studieleningen 3.368 2.837 ‒ 531
+Aflossing studieleningen ‒ 1.139 ‒ 1.164 ‒ 26
+Aan- en verkoop staatsdeelnemingen 507 244 ‒ 263
+Voortijdige beeindiging derivaten 0 ‒ 248 ‒ 248
+Rente-ontvangsten derivaten ‒ 921 ‒ 516 405
+Uitgaven gerelateerd aan Oekraine 197 197
+Coronagerelateerde leningen ‒ 111 ‒ 291 ‒ 180
+Rijksbijdragen aan sociale fondsen 39.007 36.359 ‒ 2.649
+Kasbeheer ‒ 5.661 ‒ 9.308 ‒ 3.647
+Overig 117 ‒ 238 ‒ 355
+Totaal 35.168 27.873 ‒ 7.294
+Tabel 5.4 geeft de posten weer die wel meetellen voor het EMU-saldo, maar 
+die niet, of niet op dezelfde manier, in de Rijksbegroting staan. Voor een deel 
+ervan geldt dat voor het EMU-saldo wordt gerekend met de uitgaven en 
+ontvangsten op transactiebasis, terwijl de Rijkbegroting de uitgaven op 
+kasbasis bijhoudt. Om tot het EMU-saldo te komen moet daarom bovenop 
+het bedrag dat daadwerkelijk de kas heeft verlaten nog een zogenaamd kas-
+transverschil (ktv) worden meegeteld. Daarnaast is er een aantal posten die 
+niet op de Rijkbegroting staan, zoals het positieve of negatieve saldo van 
+agentschappen en de kosten van zorgverzekeraars. Deze posten zijn ook 
+meegenomen in tabel 5.4 omdat deze ook meetellen voor het EMU-saldo.
+Tabel 5.4 Kas-transverschillen en overige posten (in miljoenen euro, + is 
+saldoverbeterend)
+MN 2022 FJR 2022 Verschil
+KTV EU-afdrachten 0 ‒ 659 ‒ 659
+KTV Tijdelijke Noodmaatregel Overbrugging voor 
+2.575 ‒ 3.756 ‒ 6.331
+Werkgelegenheid (NOW)
+KTV Tegemoetkoming Vaste Lasten (TVL) 540 2.349 1.809
+KTV OV-beschikbaarheidsvergoeding 0 455 455
+KTV OV-studentenkaart ‒ 1.050 ‒ 90 960
+KTV Veilingopbrengsten 284 292 8
+KTV Gasbaten 0 7.330 7.330
+KTV Publiek private samenwerking ‒ 30 ‒ 172 ‒ 142
+KTV Defensie 0 ‒ 54 ‒ 54
+KTV prestatiebeurzen ‒ 60 ‒ 60
+KTV toeslagen 127 127
+KTV Rijksbijdragen aan decentrale overheden 0 0 0
+Overige kas-transverschillen (aansluiting bij CBS) 0 3.530 3.530
+Mutatie begrotingsreserves 116 1.137 1.021
+Saldo agentschappen en rest centrale overheid 0 458 458
+Totaal Rijk 2.435 10.887 8.452
+Totaal Sociale fondsen 502 250 ‒ 252
+Totaal Rijk en sociale fondsen 2.937 11.137 8.200
+Tweede Kamer, vergaderjaar 2022–2023, 36 360, nr. 2 24

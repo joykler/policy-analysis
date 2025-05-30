@@ -1,0 +1,38 @@
+Organisatieomvang
+1
+Tabel 50 Aandeel rijksambtenaren met een westerse en niet-westerse migratieachtergrond naar ministerie
+Jaar 2018 2019 2020 2021 2022
+Niet- Niet- Niet- Niet- Niet-
+Afkomst Westers westers Westers westers Westers westers Westers westers Westers westers
+AZ 11,8% 8,8% 11,3% 10,8% 10,9% 10,3% 11,0% 10,3% 12,4% 10,8%
+BZ 14,3% 10,5% 14,2% 11,6% 13,8% 12,4% 13,9% 13,1% 13,9% 14,2%
+BZK 10,5% 14,3% 10,2% 14,6% 9,7% 14,7% 9,5% 15,2% 9,6% 16,1%
+EZ - EZK en LNV - EZK 9,9% 8,3% 10,0% 10,3% 10,1% 11,0% 9,7% 11,3% 9,6% 11,6%
+Fin 7,8% 10,1% 7,7% 11,6% 7,7% 12,7% 7,8% 13,5% 7,8% 14,5%
+IenM/IenW 8,6% 6,8% 8,7% 7,4% 8,5% 8,2% 8,4% 8,8% 8,3% 9,3%
+LNV 9,4% 5,0% 10,6% 5,6% 10,3% 6,1% 10,2% 6,4%
+OCW 9,0% 7,1% 9,0% 7,7% 9,0% 8,2% 8,6% 8,7% 8,6% 9,6%
+SZW 10,2% 25,3% 10,1% 26,6% 9,8% 30,3% 9,8% 31,2% 10,0% 31,7%
+VenJ/JenV 9,2% 12,0% 9,0% 12,8% 9,0% 13,6% 8,8% 14,1% 8,7% 14,4%
+VWS 10,1% 8,7% 9,9% 9,8% 10,1% 10,3% 10,2% 12,0% 10,2% 13,1%
+HCvS 10,8% 8,7% 10,4% 9,4% 10,5% 13,8% 10,1% 13,6% 9,9% 14,6%
+Rechtspraak 8,8% 11,3% 8,8% 11,2% 8,8% 11,7% 8,6% 12,4% 8,5% 12,5%
+Totaal 9,1% 10,7% 9,0% 11,6% 9,0% 12,5% 8,9% 13,2% 8,9% 13,8%
+1 Exclusief EK, TK en RvS in 2018; exclusief RvS in 2019.
+Bron: P-Direkt, RvIG.
+Organisatieomvang
+1
+Tabel 51 Aandeel rijksambtenaren met een westerse en niet-westerse migratieachtergrond naar schaalcategorie
+Jaar 2018 2019 2020 2021 2022
+Niet- Niet- Niet- Niet- Niet-
+Afkomst Westers westers Westers westers Westers westers Westers westers Westers westers
+RSO 10,4% 58,3% 10,6% 59,6% 9,9% 62,9% 9,6% 64,3% ‒ ‒
+Schaal 1-4 9,7% 16,0% 8,3% 17,4% 8,2% 18,8% 8,5% 18,5% 8,7% 30,2%
+Schaal 5-9 9,1% 13,9% 9,0% 15,0% 9,0% 16,0% 8,9% 16,7% 8,8% 17,6%
+Schaal 10-13 9,0% 7,6% 9,1% 8,4% 9,0% 8,9% 8,9% 9,8% 8,9% 10,5%
+Schaal 14-16 8,5% 2,6% 8,4% 2,9% 8,6% 3,3% 8,3% 3,6% 8,4% 3,9%
+Schaal 17+ 11,7% 0,4% 10,9% 0,9% 10,5% 0,7% 10,2% 1,9% 10,3% 2,1%
+Totaal 9,1% 10,7% 9,0% 11,6% 9,0% 12,5% 8,9% 13,2% 8,9% 13,8%
+1 Exclusief EK, TK en RvS in 2018; exclusief RvS in 2019.
+Bron: P-Direkt, RvIG.
+Jaarrapportage Bedrijfsvoering Rijk 2022 120

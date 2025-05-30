@@ -1,0 +1,23 @@
+Organisatieomvang
+BIJLAGE 2D TABELLEN EN FIGUREN BIJ H4
+Tabel 68 Ontvangen e-facturen Rijksoverheid naar ministerie in 2022
+Totaal Totaal 
+Percentage 
+Ministerie aantal e- aantal 
+e-facturen
+facturen facturen
+AZ 3.902 7.968 49%
+BZK 142.239 168.790 84%
+BZ 36.685 38.890 94%
+Def 267.761 413.574 65%
+EZK 86.535 108.144 80%
+LNV 27.685 34.297 81%
+Fin 342.786 359.615 95%
+IenW 209.356 246.224 85%
+JenV 456.786 602.158 76%
+OCW 53.333 60.396 88%
+SZW 27.451 29.347 94%
+VWS 67.174 77.879 86%
+Totaal 1.721.693 2.147.282 80%
+Bron: Inventarisatie.
+135

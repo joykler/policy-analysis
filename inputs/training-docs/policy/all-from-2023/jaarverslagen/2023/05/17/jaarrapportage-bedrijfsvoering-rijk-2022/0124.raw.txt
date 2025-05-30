@@ -1,0 +1,32 @@
+Organisatieomvang*
+Tabel 60 Uitgaven aan externe inhuur en personeel naar ministerie in euro x 1.000
+Ministerie AZ BZ BZK DEF EZK FIN IenW LNV OCW SZW JenV VWS Totaal Aandeel
+1. Interim-management € 0 € 818 € 22.219 € 1.900 € 34.945 € 5.218 € 6.893 € 4.790 € 782 € 693 € 10.426 € 9.258 € 97.942 4%
+2. Organisatie- en formatieadvies € 0 € 181 € 4.868 € 2.227 € 1.138 € 1.562 € 5.363 € 392 € 280 € 848 € 27.498 € 8.447 € 52.804 2%
+3. Beleidsadvies € 0 € 545 € 5.627 € 6.359 € 38.001 € 1.714 € 16.315 € 2.716 € 847 € 1.475 € 5.072 € 18.262 € 96.933 4%
+4. Communicatieadvisering € 1.068 € 326 € 7.054 € 808 € 2.631 € 11.577 € 5.390 € 2.662 € 2.233 € 2.456 € 7.751 € 13.621 € 57.577 2%
+Totaal Beleid € 1.068 € 1.870 € 39.768 € 11.294 € 76.715 € 20.071 € 33.961 € 10.561 € 4.142 € 5.472 € 50.747 € 49.588 € 305.257 11%
+5. Juridisch advies € 0 € 119 € 2.696 € 574 € 4.997 € 106.822 € 3.631 € 2.459 € 474 € 894 € 7.649 € 11.630 € 141.945 5%
+6. Advisering opdrachtgevers
+€ 7.154 € 727 € 125.822 € 142.464 € 149.738 € 282.556 € 25.381 € 20.282 € 62.887 € 6.099 € 197.278 € 100.660 € 1.121.048 42%
+automatisering
+7. Accountancy, financiële en
+€ 303 € 173 € 7.222 € 1.570 € 22.418 € 128.183 € 7.233 € 1.227 € 146 € 10.717 € 8.418 € 22.401 € 210.011 8%
+administratieve organisatie
+Totaal (beleids)ondersteunend € 7.457 € 1.019 € 135.740 € 144.608 € 177.153 € 517.561 € 36.246 € 23.967 € 63.507 € 17.710 € 213.345 € 134.691 € 1.473.004 55%
+8. Uitvoering (formatie en piek) € 794 € 46.948 € 89.191 € 65.253 € 156.287 € 109.863 € 211.791 € 5.236 € 18.616 € 9.224 € 166.631 € 20.262 € 900.096 34%
+Totaal ondersteuning bedrijfsvoering € 794 € 46.948 € 89.191 € 65.253 € 156.287 € 109.863 € 211.791 € 5.236 € 18.616 € 9.224 € 166.631 € 20.262 € 900.096 34%
+Totale uitgaven aan externe inhuur € 9.320 € 49.837 € 264.699 € 221.155 € 410.155 € 647.494 € 281.998 € 39.764 € 86.265 € 32.401 € 430.723 € 204.541 € 2.678.352 100%
+Totale uitgaven aan personeel € 53.047 € 483.302 € 1.225.908 € 5.204.469 € 1.278.301 € 3.511.469 € 1.693.981 € 417.181 € 566.094 € 399.088 € 3.196.382 € 796.689 € 18.825.911
+Aandeel externe inhuur in uitgaven aan 
+17,6% 9,1% 21,6% 4,2% 32,1% 18,4% 16,6% 9,5% 15,5% 8,1% 13,5% 25,7% 14,2%
+1
+personeel
+Aantal overschrijdingen max. uurtarief
+0 00011 0001 2 4 9
+€ 225/uur 
+1 
+Bij de berekening van dit percentage is externe inhuur op programma-artikelen buiten beschouwing gelaten.
+* Uitzonderingen organisatieomvang: OM, de Hoge Raad en de zbo's zonder rechtspersoonlijkheid (NRGD, SGM en CRM) zijn meegenomen. Bron: Bijlagen bij de Departementale 
+Jaarverslagen.
+124

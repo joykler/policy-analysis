@@ -1,0 +1,50 @@
+Organisatieomvang*
+Tabel 63  Aantal ICT-activiteiten op het Rijks ICT-dashboard naar ministerie
+Nr. Ministerie ICT-activiteit Startdatum Initiele Actuele Initiele schatting Actuele schatting Actuele schatting Verschil Cumulatieve Cumulatieve Prognose Status
+schatting schatting meerjarige kosten meerjarige kosten meerjarige kosten schatting meerjarige uitgaven meerjarige toekomstige 
+einddatum einddatum 2022 2021 2022 - 2021 t/m 2022 uitgaven t/m kosten
+2021
+1AZ AZNext 2020-01-01 2024-12-31 2024-12-31 27,39 27,39 27,39 0 15,77 11,01 16,38 In uitvoering
+2BZ Eidos 2018-09-19 2020-07-01 2023-08-31 14,27 32,05 32 0,05 32,09 24,3 7,75 In uitvoering
+3 BZK Basisregistratie Ondergrond (BRO) 2016-01-01 2021-12-31 2026-12-31 52,3 64,2 52,3 11,9 56,36 51,25 12,95 In uitvoering
+4 BZK DIT (OMS) 2022-04-21 2025-12-31 2025-12-31 15,1 15,1 0 15,1 3,6 0 15,1 In uitvoering
+5 BZK Digitaal Hulpmiddel Verkiezingen 2022-05-02 2023-07-01 2023-12-01 8 8 0 8 5,2 0 8 In uitvoering
+6 BZK Digitaal Werken, Duurzaam Documenteren (DWDD) 2019-01-01 2023-12-31 2023-12-31 5,5 5,5 0 5,5 3,2 0 5,5 In uitvoering
+7 BZK Digitaal stelsel omgevingswet (DSO) 2017-01-18 2019-06-30 2024-07-01 104,07 177,5 172 5,5 154,8 154,8 22,7 In uitvoering
+8 BZK Federatief Berichten Stelsel (FBS) 2019-01-01 2021-12-31 2023-06-30 30,53 37,91 37,91 0 19,43 9,75 28,16 In uitvoering
+9 BZK GCMK 2019-06-01 2020-12-31 2024-07-31 18 25,49 21,9 3,59 13,97 12 13,49 In uitvoering
+HNR2
+10 BZK 2022-01-01 2025-07-01 2025-07-01 11,06 11,06 0 11,06 0 0 11,06 In uitvoering
+11 BZK Herbouw Digipoort 2021-07-01 2023-12-31 2023-12-31 28 28 28 0 8,66 2,98 25,02 In uitvoering
+12 BZK Impuls eID (voorheen: Idensys) 2014-01-01 2016-12-31 2023-07-31 18 57,71 57,71 0 75,11 75,11 -17,4 In uitvoering
+13 BZK Kadastrale Kaart Next (KKN) 2021-05-01 2027-12-31 2028-07-01 35,1 36,71 35,1 1,61 1,6 0,45 36,26 In uitvoering
+14 BZK PLOOI 2020-12-31 2024-12-31 2024-12-31 5,39 28,05 28,05 0 11,44 5,82 22,23 In uitvoering
+15 BZK Programma Machtigen 2018-10-01 2020-12-31 2023-03-31 16,82 22,7 22,7 0 18,05 14,5 8,2 In uitvoering
+16 BZK Programma Verbeteren Reisdocumenten Stelsel (VRS) 2019-04-01 2024-07-01 2025-12-31 46,1 47,3 49,58 -2,28 23,4 16,54 30,76 In uitvoering
+Toekomst BRP
+17 BZK 2021-12-31 2026-01-01 2026-01-01 53 53 0 53 10,04 0 53 In uitvoering
+18 BZK Transformatie SSC-ICT 2022-09-01 2025-12-31 2025-12-31 17 17 0 17 1,5 0 17 In uitvoering
+19 BZK Transitie SSC-ICT 2020-01-01 2021-12-31 2022-04-30 35,04 35,04 35,04 0 25,76 25,76 9,28 Afgerond
+20 BZK Vernieuwing Single Sign On 2021-11-01 2022-12-31 2022-12-31 0 0 0 0 0,25 0,25 -0,25 Afgerond
+21 DEF EES (Entry Exit System) 2021-07-07 2022-09-30 2024-08-30 18,87 22,37 18,87 3,5 4,98 1,32 21,05 In uitvoering
+22 DEF EKMS (cryptosleutelmanagement) 2014-09-01 2017-12-31 2024-08-31 18 24,04 24,04 0 17,91 15,74 8,3 In uitvoering
+23 DEF Grensverleggende IT (GrIT) 2015-12-21 2020-12-31 2027-12-31 0 0 0 0 0 0 0 In uitvoering
+IT-KMAR_IGO
+24 DEF 2016-04-06 2020-12-31 2023-03-31 51,2 50,51 50,51 0 48 46,02 4,49 In uitvoering
+25 DEF MDG EAM 2020-09-01 2021-07-12 2022-08-16 16,47 16,47 16,47 0 16,47 16,47 0 Afgerond
+26 DEF MLU BMS 2020-12-31 2024-03-31 2024-07-01 26,57 26,57 26,57 0 7,14 0 26,57 In uitvoering
+27 DEF Maritiem Operatiecentrum Kustwacht (MOC KW) 2017-01-01 2023-06-30 2026-03-31 11,22 128 128 0 40,51 31,33 96,67 In uitvoering
+28 DEF Midlife Update NAFIN Transport Netwerk (NTNv2) 2019-11-01 2023-07-01 2024-11-29 30,41 31,15 30,52 0,63 22,81 16,28 14,87 In uitvoering
+29 DEF Roger (SAP4HANA) 2022-07-01 2025-12-31 2025-12-31 0 0 0 0 0 0 0 In uitvoering
+30 DEF Upgrade HGI&LGI infra op CZSK eenheden 2020-09-07 2023-08-31 2023-08-31 20,88 24,14 24,14 0 7,6 14,1 10,04 In uitvoering
+31 EZK BKG 2019-09-02 2021-12-31 2022-12-31 11,1 25,8 23 2,8 24,6 15,3 10,5 In uitvoering
+32 EZK Kern Gezond 2016-12-31 2019-12-31 2023-03-31 34,7 43,39 38,82 4,57 42,58 34,45 8,94 In uitvoering
+33 EZK Maritiem Informatievoorziening Service Punt 2017-04-05 2023-12-31 2023-12-31 33,47 70,64 70,64 0 64,22 52,89 17,75 In uitvoering
+34 EZK Project CRM 2021-11-01 2023-10-31 2023-10-31 7,5 11,25 7,5 3,75 3,31 1,01 10,24 In uitvoering
+35 FIN Automatic Exchange of Information (AEOI) 2014-11-01 2019-12-31 2022-12-31 14,21 21,26 19,78 1,48 21,26 20,17 1,09 Afgerond
+36 FIN Digitale Snelweg Douane 2020-10-01 2025-07-01 2025-07-01 68,1 53,4 55,89 -2,49 0 0 53,4 In uitvoering
+37 FIN Dividend Uitvoering Systeem 2021-01-01 2023-12-31 2024-04-01 6,9 6,9 6,9 0 0,6 0,6 6,3 In uitvoering
+38 FIN EU BTW eCommerce 2020-10-01 2023-03-31 2023-12-31 32,2 40,95 32,2 8,75 30,63 18,1 22,85 In uitvoering
+39 FIN Generiek platform Document- en Archiefbeheer 2020-10-01 2022-12-31 2022-12-31 3,4 8,7 8,7 0 3 3 5,7 In heroriëntatie
+40 FIN Informatie op orde 2021-06-25 2026-12-31 2026-12-31 52,4 52,4 52,4 0 0 0 52,4 In heroriëntatie
+41 FIN Klantoptimalisatie schenk- en erfbelasting (KOS) 2014-04-17 2016-07-01 2022-07-31 8,17 32,55 32,4 0,15 32,55 27,97 4,58 Afgerond
