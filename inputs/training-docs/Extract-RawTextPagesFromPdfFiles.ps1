@@ -262,7 +262,7 @@ try {
 
 
     $Logging.Info_StartedExportingRawTextPages()
-    Get-ChildItem -Path "$PSScriptRoot\slavery" -Filter *.pdf -File -Recurse |
+    Get-ChildItem -Path "$PSScriptRoot" -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
         Export-RawTextPagesFromSourceFile -OnlyUpdateExistingPages |
         ForEach-Object {

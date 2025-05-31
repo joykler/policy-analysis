@@ -14,4 +14,4 @@ vier nieuwe topfuncties gecreëerd. Dit betreft drie militaire topfuncties bij h
 Command, bij Operations (IT-uitvoeringsorganisatie) van de Defensie Materieel Organisatie en bij 
 de Division Schnelle Kräfte, waarin de Luchtmobiele Brigade wordt geïntegreerd. Daarnaast is een 
 burgertopfuctie toegevoegd bij de Hoofddirectie Beleid van de Bestuursstaf. Het bestand 
-topfuncties groeit daarmee van 80 naar 84 (63 militair en 21 burger).
+topfuncties groeit daarmee van 80 naar 84 (63 militair en 21 burger
