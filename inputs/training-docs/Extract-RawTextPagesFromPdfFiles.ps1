@@ -199,9 +199,9 @@ function Export-RawTextPagesFromSourceFile {
 
                     $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr).Trim()
 
-                    foreach ($EndOfPage in $("$PageNr", "-$PageNr-", "- $PageNr -")) {
-                        if ($TargetPageText.EndsWith($EndOfPage)) {
-                            $TargetPageText = $TargetPageText.Substring(0, $TargetPageText.Length - $EndOfPage.Length).Trim()
+                    foreach ($EndOfPage in $("$PageNr", "([\p{P}]+)$PageNr([\p{P}]+)", "([\s\p{P}]+)$PageNr([\s\p{P}]+)")) {
+                        if ($TargetPageText -match "($EndOfPage)\Z") {
+                            $TargetPageText = "$($TargetPageText -replace "($EndOfPage)\Z")".Trim()
                         }
                     }
 
@@ -262,7 +262,7 @@ try {
 
 
     $Logging.Info_StartedExportingRawTextPages()
-    Get-ChildItem -Path $PSScriptRoot -Filter *.pdf -File -Recurse |
+    Get-ChildItem -Path "$PSScriptRoot\slavery" -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
         Export-RawTextPagesFromSourceFile -OnlyUpdateExistingPages |
         ForEach-Object {

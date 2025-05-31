@@ -57,6 +57,17 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + " * Removing intro-pages from raw-text-dir: $F[ $($file.Folder) ]" + $R)
     }
 
+    Add-LoggingMethod 'Warn_FirstRawTextPageNotExists' -Method {
+
+        param($file, $err)
+
+        $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
+        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
+        $R = $PSStyle.Reset
+
+        Write-Warning $($S + " ! Failed removing intro-pages from raw-text-dir: $F[ $($file.Folder) ]" + $R + "`n$err")
+    }
+
     Add-LoggingMethod 'Warn_RemovingIntroPagesFailed' -Method {
 
         param($file, $err)
@@ -176,29 +187,17 @@ function Remove-IntroPagesFromSourceFile {
     )
 
     begin {
-        function Remove-IntroPages([iTextSharp.text.pdf.PdfReader] $Source_PdfReader) {
+        function Get-RawTextPageFileInfo([int] $PageNr) {
+            Get-FileInfo $($TargetFile.Path -f $PageNr) -LoggedDir $TargetFile.LoggedDir
+        }
 
-            $PageMax = $Source_PdfReader.NumberOfPages
-            for ($PageNr = 1; $PageNr -le $PageMax; $PageNr++) {
+        function Test-FileExists([PSCustomObject] $FileInfo) {
 
-                $TargetPageFile = Get-FileInfo $($TargetFile.Path -f $PageNr) -LoggedDir $TargetFile.LoggedDir
-                $TargetPageFileExists = Test-Path $TargetPageFile.Path -PathType Leaf
+            Test-Path $FileInfo.Path -PathType Leaf
+        }
 
-                if (($OnlyUpdateExistingPages.IsPresent -and $TargetPageFileExists) -or -not $OnlyUpdateExistingPages.IsPresent) {
+        function Test-IntroPage([int] $PageNr) {
 
-                    $TargetPageText = [iTextSharp.text.pdf.parser.PdfTextExtractor]::GetTextFromPage($Source_PdfReader, $PageNr).Trim()
-
-                    foreach ($EndOfPage in $("$PageNr", "-$PageNr-", "- $PageNr -")) {
-                        if ($TargetPageText.EndsWith($EndOfPage)) {
-                            $TargetPageText = $TargetPageText.Substring(0, $TargetPageText.Length - $EndOfPage.Length).Trim()
-                        }
-                    }
-
-                    Set-Content -Path $TargetPageFile.Path -Value $TargetPageText
-
-                    Write-Output $TargetPageFile
-                }
-            }
         }
     }
 
@@ -206,6 +205,10 @@ function Remove-IntroPagesFromSourceFile {
         $Logging.Info_RemovingIntroPagesFrom($SourceFile)
 
         try {
+            $FirstPageFile = Get-RawTextPageFileInfo -PageNr 1
+            if (-not $(Test-FileExists $FirstPageFile)){
+
+            }
             Remove-IntroPages $Source_PdfReader
 
         } catch {
