@@ -1,0 +1,3 @@
+nltk
+pdfminer.six
+gensim
