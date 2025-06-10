@@ -27,7 +27,7 @@ $global:Logging = [PSCustomObject]::new()
 
 
 
-    Add-LoggingMethod 'Info_BatchProcessInvoked' -Method {
+    Add-LoggingMethod 'BatchProcess_Invoked' -Method {
 
         param([int] $BatchNr, [int] $BatchedItems)
 
@@ -38,7 +38,7 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + " ! Batch process invoked: $F [BatchNr: $BatchNr; BatchedItems: $BatchedItems]..." + $R)
     }
 
-    Add-LoggingMethod 'Info_StartedCopyingPolicyDocs' -Method {
+    Add-LoggingMethod 'Process_Started' -Method {
 
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
@@ -46,18 +46,29 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + 'Started copying policy-docs from archive-repo...' + $R)
     }
 
-    Add-LoggingMethod 'Info_CopyingPolicyDocFromArchiveRepo' -Method {
+    Add-LoggingMethod 'EachDoc_Copying_Started' -Method {
 
         param($file)
 
-        $S = $PSStyle.Foreground.Green + $PSStyle.Bold
-        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
+        $S = $PSStyle.Foreground.White
+        $F = $PSStyle.Foreground.White + $PSStyle.Italic
         $R = $PSStyle.Reset
 
         Write-Information $($S + " * Copying policy-doc from archive-repo: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
-    Add-LoggingMethod 'Info_CreatingTargetFolder' -Method {
+    Add-LoggingMethod 'EachDoc_Copying_Failed' -Method {
+
+        param($file, $err)
+
+        $S = $PSStyle.Foreground.BrightRed + $PSStyle.Bold
+        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
+        $R = $PSStyle.Reset
+
+        Write-Warning $($S + " ! Failed copying policy-doc from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
+    }
+
+    Add-LoggingMethod 'EachDoc_CreatingTargetDir' -Method {
 
         param($file)
 
@@ -65,10 +76,10 @@ $global:Logging = [PSCustomObject]::new()
         $F = $PSStyle.Foreground.White + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Creating policy-doc folder: $F[ $($file.LoggedDir) ]" + $R)
+        Write-Information $($S + " * Creating policy-doc target folder: $F[ $($file.LoggedDir) ]" + $R)
     }
 
-    Add-LoggingMethod 'Warn_TargetFileAllreadyExists' -Method {
+    Add-LoggingMethod 'EachDoc_WarnTargetFileExists' -Method {
 
         param($file)
 
@@ -77,17 +88,6 @@ $global:Logging = [PSCustomObject]::new()
         $R = $PSStyle.Reset
 
         Write-Warning $($S + " ! Target-file allready exists: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
-    }
-
-    Add-LoggingMethod 'Warn_CopyingPolicyDocFailed' -Method {
-
-        param($file, $err)
-
-        $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
-        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
-        $R = $PSStyle.Reset
-
-        Write-Warning $($S + " ! Failed copying policy-doc from file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
     }
 
 }
@@ -117,11 +117,11 @@ function Initialize-BatchProcess ([int] $Size = 30, [scriptblock] $OnProcess) {
 
     $Batch = $Batch | Add-Member -Name 'FlushItems' -Value {
 
-        if ($this.Items.Count -ge 0) {
+        if ($this.Items.Count -gt 0) {
 
             $this.Number++
 
-            $global:Logging.Info_BatchProcessInvoked($this.Number, $this.Items.Count)
+            $global:Logging.BatchProcess_Invoked($this.Number, $this.Items.Count)
             $this.OnProcess.Invoke($this.Number, $this.Items)
 
             $this.Items.Clear()
@@ -189,14 +189,14 @@ function Copy-PolicyDocFromArchiveRepo {
 
     process {
         if ($(Test-Path $TargetFile.Path -PathType Leaf)) {
-            $Logging.Warn_TargetFileAllreadyExists($TargetFile)
+            $Logging.EachDoc_WarnTargetFileExists($TargetFile)
 
         } else {
-            $Logging.Info_CopyingPolicyDocFromArchiveRepo($SourceFile)
+            $Logging.EachDoc_Copying_Started($SourceFile)
 
             try {
                 if (-not $(Test-Path $TargetFile.Folder -PathType Container)) {
-                    $Logging.Info_CreatingTargetFolder($TargetFile)
+                    $Logging.EachDoc_CreatingTargetDir($TargetFile)
                     mkdir $TargetFile.Folder | Out-Null
                 }
 
@@ -205,7 +205,7 @@ function Copy-PolicyDocFromArchiveRepo {
                 Write-Output $TargetFile
 
             } catch {
-                $Logging.Warn_CopyingPolicyDocFailed($TargetFile, $_)
+                $Logging.EachDoc_Copying_Failed($TargetFile, $_)
             }
         }
     }
@@ -235,7 +235,10 @@ try {
         2023 = "$(Resolve-Path 'inputs\training-docs\policy\all-from-2023')"
     }
 
-    $Logging.Info_StartedCopyingPolicyDocs()
+
+
+    $Logging.Process_Started()
+
     foreach ($current in $TargetRootPaths.GetEnumerator()) {
         Get-ChildItem -Path $SourceRootPath -Directory |
             Where-Object Name -In @(

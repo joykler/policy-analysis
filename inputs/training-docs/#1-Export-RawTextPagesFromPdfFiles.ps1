@@ -27,7 +27,7 @@ $global:Logging = [PSCustomObject]::new()
 
 
 
-    Add-LoggingMethod 'Info_BatchProcessInvoked' -Method {
+    Add-LoggingMethod 'BatchProcess_Invoked' -Method {
 
         param([int] $BatchNr, [int] $BatchedItems)
 
@@ -38,45 +38,45 @@ $global:Logging = [PSCustomObject]::new()
         Write-Information $($S + " ! Batch process invoked: $F [BatchNr: $BatchNr; BatchedItems: $BatchedItems]..." + $R)
     }
 
-    Add-LoggingMethod 'Info_StartedExportingRawTextPages' -Method {
+    Add-LoggingMethod 'Process_Started' -Method {
 
         $S = $PSStyle.Foreground.BrightWhite + $PSStyle.Bold + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + 'Started exporting raw-text-pages from all pdf-files...' + $R)
+        Write-Information $($S + 'Started exporting raw-text pages from all pdf-files...' + $R)
     }
 
-    Add-LoggingMethod 'Info_ExportingRawTextPagesFrom' -Method {
+    Add-LoggingMethod 'EachPdf_Exporting_Started' -Method {
 
         param($file)
 
-        $S = $PSStyle.Foreground.Green + $PSStyle.Bold
-        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
+        $S = $PSStyle.Foreground.White
+        $F = $PSStyle.Foreground.White + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Information $($S + " * Exporting raw-text-pages from pdf-file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
+        Write-Information $($S + " * Exporting raw-text pages from pdf-file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R)
     }
 
-    Add-LoggingMethod 'Warn_TargetFolderAllreadyExists' -Method {
-
-        param($file)
-
-        $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
-        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
-        $R = $PSStyle.Reset
-
-        Write-Warning $($S + " ! Target-folder allready exists: $F[ $($file.LoggedDir) ]" + $R)
-    }
-
-    Add-LoggingMethod 'Warn_ExportingRawTextPagesFailed' -Method {
+    Add-LoggingMethod 'EachPdf_Exporting_Failed' -Method {
 
         param($file, $err)
 
+        $S = $PSStyle.Foreground.BrightRed + $PSStyle.Bold
+        $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
+        $R = $PSStyle.Reset
+
+        Write-Warning $($S + " ! Failed exporting raw-text pages from pdf-file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
+    }
+
+    Add-LoggingMethod 'EachPdf_WarnRawTextDirExists' -Method {
+
+        param($file)
+
         $S = $PSStyle.Foreground.BrightYellow + $PSStyle.Bold
         $F = $PSStyle.Foreground.White + $PSStyle.BoldOff + $PSStyle.Italic
         $R = $PSStyle.Reset
 
-        Write-Warning $($S + " ! Failed exporting raw-text-pages from pdf-file: $F[ $($file.LoggedDir) ]> $($file.Name)" + $R + "`n$err")
+        Write-Warning $($S + " ! Raw-text folder allready exists: $F[ $($file.LoggedDir) ]" + $R)
     }
 
 }
@@ -106,11 +106,11 @@ function Initialize-BatchProcess ([int] $Size = 30, [scriptblock] $OnProcess) {
 
     $Batch = $Batch | Add-Member -Name 'FlushItems' -Value {
 
-        if ($this.Items.Count -ge 0) {
+        if ($this.Items.Count -gt 0) {
 
             $this.Number++
 
-            $global:Logging.Info_BatchProcessInvoked($this.Number, $this.Items.Count)
+            $global:Logging.BatchProcess_Invoked($this.Number, $this.Items.Count)
             $this.OnProcess.Invoke($this.Number, $this.Items)
 
             $this.Items.Clear()
@@ -118,6 +118,18 @@ function Initialize-BatchProcess ([int] $Size = 30, [scriptblock] $OnProcess) {
     }
 
     return $Batch
+}
+#endregion
+
+#region -- Declare: Initialize-PdfImporting --
+function Initialize-PdfImporting() {
+
+    $Logging.LibInit_PdfImporting_Started()
+
+    Add-Type -Path "$PSScriptRoot\.lib\BouncyCastle.Cryptography\lib\net6.0\BouncyCastle.Cryptography.dll"
+    Add-Type -Path "$PSScriptRoot\.lib\iTextSharp\itextsharp.dll"
+
+    $Logging.LibInit_PdfImporting_Finished()
 }
 #endregion
 
@@ -218,10 +230,10 @@ function Export-RawTextPagesFromSourceFile {
     process {
         $TargetFolderExists = Test-Path $TargetFile.Folder -PathType Container
         if ($TargetFolderExists -and -not $OnlyUpdateExistingPages.IsPresent) {
-            $Logging.Warn_TargetFolderAllreadyExists($TargetFile)
+            $Logging.EachPdf_WarnRawTextDirExists($TargetFile)
 
         } else {
-            $Logging.Info_ExportingRawTextPagesFrom($SourceFile)
+            $Logging.EachPdf_Exporting_Started($SourceFile)
 
             try {
                 if (-not $TargetFolderExists) {
@@ -233,7 +245,7 @@ function Export-RawTextPagesFromSourceFile {
                 Export-RawTextPages $Source_PdfReader
 
             } catch {
-                $Logging.Warn_ExportingRawTextPagesFailed($TargetFile, $_)
+                $Logging.EachPdf_Exporting_Failed($TargetFile, $_)
             }
         }
     }
@@ -256,12 +268,12 @@ try {
 
 
 
-    Add-Type -Path "$PSScriptRoot\.lib\BouncyCastle.Cryptography\lib\net6.0\BouncyCastle.Cryptography.dll"
-    Add-Type -Path "$PSScriptRoot\.lib\iTextSharp\itextsharp.dll"
+    Initialize-PdfImporting
 
 
 
-    $Logging.Info_StartedExportingRawTextPages()
+    $Logging.Process_Started()
+
     Get-ChildItem -Path "$PSScriptRoot" -Filter *.pdf -File -Recurse |
         Get-TargetInfoFromSourceFile -SourceRootPath $PSScriptRoot |
         Export-RawTextPagesFromSourceFile -OnlyUpdateExistingPages |
