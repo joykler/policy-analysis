@@ -34,6 +34,10 @@ theory_dictionary_output = 'theory_dictionary.txt'
 
 Run the numbered cells (2.a, 2.b, ...) to generate each dictionary.
 
+1.d **Generate stopword list**
+
+Run `Clean_words.ipynb` after installing the requirements. Cell **1.a** writes a combined list of Dutch, English and policy-specific stop words to `stopwords_extra.txt`. Other notebooks read this file when cleaning text.
+
 ## 2. Topic discovery
 
 2.a **Prepare documents** – place PDFs or text files in clearly named folders (e.g. `policydocument_2015.pdf`, `theorydocument_slavery.pdf`).
