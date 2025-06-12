@@ -18,7 +18,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import wordpunct_tokenize
-from pdfminer.high_level import extract_text
+import fitz  # PyMuPDF
 
 
 # ---------------------------------------------------------------------------
@@ -29,7 +29,11 @@ def extract_text_from_file(path: str) -> str:
     """Return text extracted from ``path`` which can be a PDF or TXT file."""
     ext = os.path.splitext(path)[1].lower()
     if ext == ".pdf":
-        return extract_text(path)
+        text = []
+        with fitz.open(path) as doc:
+            for page in doc:
+                text.append(page.get_text())
+        return "\n".join(text)
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         return f.read()
 

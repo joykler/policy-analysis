@@ -10,7 +10,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import wordpunct_tokenize
-from pdfminer.high_level import extract_text
+import fitz  # PyMuPDF
 
 from gensim import corpora, models
 
@@ -18,7 +18,11 @@ from gensim import corpora, models
 def extract_text_from_file(path: str) -> str:
     ext = os.path.splitext(path)[1].lower()
     if ext == ".pdf":
-        return extract_text(path)
+        parts = []
+        with fitz.open(path) as doc:
+            for page in doc:
+                parts.append(page.get_text())
+        return "\n".join(parts)
     with open(path, "r", encoding="utf-8", errors="ignore") as fh:
         return fh.read()
 
