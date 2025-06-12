@@ -4,7 +4,9 @@
 import argparse
 import os
 import re
-from typing import Iterable, List, Sequence
+from typing import Iterable, List, Sequence, Dict
+
+from collections import Counter
 
 import nltk
 from nltk.corpus import stopwords
@@ -83,6 +85,29 @@ def discover_topics(corpus, dictionary, num_topics: int, passes: int = 5) -> mod
     return lda
 
 
+def extract_topic_words(lda: models.LdaModel, topn: int) -> Dict[int, List[str]]:
+    """Return top ``topn`` words for each topic."""
+    words_per_topic: Dict[int, List[str]] = {}
+    for index in range(lda.num_topics):
+        words_per_topic[index] = [w for w, _ in lda.show_topic(index, topn)]
+    return words_per_topic
+
+
+def filter_common_terms(topics: Dict[int, List[str]], max_topics: int) -> Dict[int, List[str]]:
+    """Remove words that appear in more than ``max_topics`` topics."""
+    if max_topics <= 0:
+        return topics
+    counts: Counter = Counter()
+    for words in topics.values():
+        for word in set(words):
+            counts[word] += 1
+    common_terms = {w for w, c in counts.items() if c > max_topics}
+    filtered: Dict[int, List[str]] = {}
+    for idx, words in topics.items():
+        filtered[idx] = [w for w in words if w not in common_terms]
+    return filtered
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Discover topics using LDA")
     parser.add_argument("input", help="File or directory with documents")
@@ -92,6 +117,12 @@ def main() -> None:
     parser.add_argument("--topics", type=int, default=10, help="Number of topics")
     parser.add_argument("--passes", type=int, default=5, help="Training passes for LDA")
     parser.add_argument("--topn", type=int, default=10, help="Words per topic to display")
+    parser.add_argument(
+        "--drop-common",
+        type=int,
+        default=0,
+        help="Remove words that appear in more than N topics",
+    )
     args = parser.parse_args()
 
     nltk.download("stopwords", quiet=True)
@@ -105,8 +136,11 @@ def main() -> None:
 
     lda = discover_topics(corpus, dictionary, args.topics, args.passes)
 
-    for i, topic in lda.show_topics(num_topics=args.topics, num_words=args.topn, formatted=False):
-        words = ", ".join(w for w, _ in topic)
+    topics = extract_topic_words(lda, args.topn)
+    topics = filter_common_terms(topics, args.drop_common)
+
+    for i in range(args.topics):
+        words = ", ".join(topics.get(i, []))
         print(f"Topic {i}: {words}")
 
 
