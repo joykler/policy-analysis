@@ -1,25 +1,61 @@
 # policy-analysis
 
-## Dictionary creation
-You can build token dictionaries either via the command line or with the new
-Jupyter notebook.
+This repository contains lightweight tools for dictionary building and topic discovery. Steps below reference numbers like **1.a** so you can follow them sequentially.
 
-1.a **Script usage** – generate a dictionary from PDF or text sources:
+## 1. Dictionary creation
+
+1.a **Install requirements**
+
 ```bash
-python scripts/build_dictionary.py INPUT_PATH output.txt --language dutch --stem
+pip install -r requirements.txt
 ```
 
-1.b **Notebook usage** – open `Build_Dictionary.ipynb` and follow the numbered
-cells to set your document paths (`policy_documents_path` or
-`theory_documents_path`) and create outputs such as `policy_dictionary.txt`.
+PDF text extraction relies on **PyMuPDF**, included in the requirements file.
 
-## Topic discovery
-LDA topic modelling can likewise be run from a script or interactively.
+1.b **Run the command line tool**
 
-2.a **Script usage**:
 ```bash
-python scripts/discover_topics.py INPUT_PATH --topics 5 --topn 15
+python scripts/build_dictionary.py PATH_TO_POLICY_DOCS policy_dictionary.txt --language dutch --stem
 ```
 
-2.b **Notebook usage** – open `Discover_Topics.ipynb`, adjust variables like
-`policydocument_path` and run the cells to train the model and view the topics.
+Provide the directory containing your PDF/TXT files. Use descriptive output names such as `theory_dictionary_2023.txt` so the source remains clear.
+
+1.c **Use the notebook**
+
+Open `Build_Dictionary.ipynb` and configure variables for each source:
+
+```python
+policy_documents_path = 'Policy-documents'
+policy_dictionary_output = 'policy_dictionary.txt'
+
+theory_documents_path = 'sources'
+theory_dictionary_output = 'theory_dictionary.txt'
+```
+
+Run the numbered cells (2.a, 2.b, ...) to generate each dictionary.
+
+## 2. Topic discovery
+
+2.a **Prepare documents** – place PDFs or text files in clearly named folders (e.g. `policydocument_2015.pdf`, `theorydocument_slavery.pdf`).
+
+2.b **Run via command line**
+
+```bash
+python scripts/discover_topics.py PATH_TO_DOCS --topics 5 --topn 10
+```
+
+2.c **Use the notebook**
+
+Open `Discover_Topics.ipynb` and set parameters:
+
+```python
+policydocument_path = 'Policy-documents'
+slaverydocument_path = 'sources'
+num_topics = 5
+```
+
+Execute the cells (2.a–2.d) to train the LDA model and print topics.
+
+## 3. Modular design
+
+Scripts and notebooks accept arbitrary source paths so you can mix policy, theory or slavery documents. Adopt clear variable names like `policy_vocab`, `theory_vocab` or `slaverydocument_path` to keep outputs organized by origin.
