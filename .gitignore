@@ -12,3 +12,6 @@ bertje_slavery_predictions_with_embeddings.csv
 policy-bertje-matched_results-2015.*
 slavery-bertje-matched_results-2015.*
 \~$*.xlsx
+__pycache__/
+*.pyc
+
