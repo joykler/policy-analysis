@@ -1,3 +1,6 @@
 {
-  "notebook.output.textLineLimit": 300
+  "notebook.output.textLineLimit": 300,
+  "python.analysis.extraPaths": [
+    "./scripts"
+  ]
 }

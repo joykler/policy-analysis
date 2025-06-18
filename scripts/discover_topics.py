@@ -67,7 +67,7 @@ def read_extra_stopwords(path: str | None) -> List[str]:
         return [w.strip().lower() for w in fh if w.strip()]
 
 
-def build_corpus(files: Iterable[str], stop_words: Sequence[str], stemmer: SnowballStemmer | None) -> tuple[list[list[str]], corpora.Dictionary]:
+def build_corpus(files: Iterable[str], stop_words: Sequence[str], stemmer: SnowballStemmer | None) -> tuple[list[list[str]], list, corpora.Dictionary]:
     texts: list[list[str]] = []
     for path in files:
         raw = extract_text_from_file(path)
@@ -77,7 +77,8 @@ def build_corpus(files: Iterable[str], stop_words: Sequence[str], stemmer: Snowb
             texts.append(tokens)
     dictionary = corpora.Dictionary(texts)
     corpus = [dictionary.doc2bow(toks) for toks in texts]
-    return corpus, dictionary
+    return texts, corpus, dictionary  # <--- fix hier
+
 
 
 def discover_topics(corpus, dictionary, num_topics: int, passes: int = 5) -> models.LdaModel:
