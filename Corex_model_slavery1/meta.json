@@ -1,0 +1,5 @@
+{
+  "created": "2025-06-30T14:09:54.638111",
+  "notes": "CorEx v1; trained on cleaned/stemmed docs; stopwords and vectorizer saved; topic-wordlists are stemmed.",
+  "n_topics": 5
+}
