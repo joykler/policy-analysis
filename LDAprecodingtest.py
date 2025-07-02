@@ -9,15 +9,20 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # USER SETTINGS
-USE_FOLDER = True
-SOURCE_FOLDER_PATH = "Policyarchive_text"
-OUTPUT_FOLDER = "Policyarchive/corex_chunk_outputs_2015"
-MODEL_FOLDER = "Corex_model_slavery1"
-YEAR_FILTER = ('2015', '2016')
-DOC_TYPES = ["ambtsberichten", "beleidsnotas", "besluiten", "jaarplannen", "jaarverslagen"]
-SENTS_PER_CHUNK = 5
-CONFIDENCE_THRESHOLD = 0.40
-MIN_COSINE = 0.05
+import json
+
+with open("corex_config.json", "r", encoding="utf-8") as f:
+    config = json.load(f)
+
+USE_FOLDER = config["USE_FOLDER"]
+SOURCE_FOLDER_PATH = config["SOURCE_FOLDER_PATH"]
+OUTPUT_FOLDER = config["OUTPUT_FOLDER"]
+MODEL_FOLDER = config["MODEL_FOLDER"]
+YEAR_FILTER = tuple(config["YEAR_FILTER"])
+DOC_TYPES = config["DOC_TYPES"]
+SENTS_PER_CHUNK = config["SENTS_PER_CHUNK"]
+CONFIDENCE_THRESHOLD = config["CONFIDENCE_THRESHOLD"]
+MIN_COSINE = config["MIN_COSINE"]
 
 def find_txt_files_by_folder(base_folder, year_filter=None, doc_types=None):
     matches = []
