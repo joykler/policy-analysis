@@ -9,8 +9,6 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # USER SETTINGS
-import json
-
 with open("corex_config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
@@ -18,15 +16,26 @@ USE_FOLDER = config["USE_FOLDER"]
 SOURCE_FOLDER_PATH = config["SOURCE_FOLDER_PATH"]
 OUTPUT_FOLDER = config["OUTPUT_FOLDER"]
 MODEL_FOLDER = config["MODEL_FOLDER"]
+FOLDER_MODE = config["FOLDER_MODE"]  # Default to False if not specified
 YEAR_FILTER = tuple(config["YEAR_FILTER"])
 DOC_TYPES = config["DOC_TYPES"]
 SENTS_PER_CHUNK = config["SENTS_PER_CHUNK"]
 CONFIDENCE_THRESHOLD = config["CONFIDENCE_THRESHOLD"]
 MIN_COSINE = config["MIN_COSINE"]
 
-def find_txt_files_by_folder(base_folder, year_filter=None, doc_types=None):
+def simple_tokenizer(text):
+    # Gebruik de originele tokenizer code waarmee de vectorizer is gemaakt
+    # Bijvoorbeeld:
+    return text.split()
+
+def find_txt_files_by_folder(base_folder, year_filter=None, doc_types=None, simple_mode=False):
     matches = []
-    for root, dirs, files in os.walk(base_folder):
+    if simple_mode:
+        for fname in os.listdir(base_folder):
+            if fname.lower().endswith('.txt'):
+                matches.append(os.path.join(base_folder, fname))
+        return matches
+    for root, _, files in os.walk(base_folder):
         path_parts = os.path.normpath(root).split(os.sep)
         if len(path_parts) < 3:
             continue
@@ -71,6 +80,11 @@ def load_topic_data(model_folder):
         topic_data = json.load(f)
     return topic_data["topic_names"], topic_data["topic_word_lists"]
 
+def load_topic_word_scores(model_folder):
+    with open(os.path.join(model_folder, "corex_topicdata_ranked.json"), "r", encoding="utf-8") as f:
+        topic_data = json.load(f)
+    return topic_data["topic_word_scores"]
+
 def process_file_chunk(
     file_path,
     model_folder,
@@ -79,6 +93,7 @@ def process_file_chunk(
     min_cosine,
     topic_names,
     topic_word_lists,
+    topic_word_scores,
 ):
     try:
         import spacy
@@ -121,6 +136,36 @@ def process_file_chunk(
                     max_cos = cos
             return max_cos
 
+        def compute_cosine_with_anchors_weighted(chunk, topic_word_scores, vectorizer, clean_and_tokenize=None):
+            vocab = vectorizer.get_feature_names_out()
+            if clean_and_tokenize is not None:
+                tokens = clean_and_tokenize(chunk)
+            elif isinstance(chunk, str):
+                tokens = chunk.split()
+            else:
+                tokens = chunk
+            chunk_vec = np.zeros(len(vocab))
+            for word in tokens:
+                if word in vocab:
+                    idx = np.where(vocab == word)[0][0]
+                    chunk_vec[idx] += 1
+            max_cos = 0
+            for topic_scores in topic_word_scores:
+                anchor_vec = np.zeros(len(vocab))
+                for word, score in topic_scores.items():
+                    if word in vocab:
+                        idx = np.where(vocab == word)[0][0]
+                        anchor_vec[idx] = score
+                norm_chunk = np.linalg.norm(chunk_vec)
+                norm_anchor = np.linalg.norm(anchor_vec)
+                if norm_chunk != 0 and norm_anchor != 0:
+                    cos = np.dot(chunk_vec, anchor_vec) / (norm_chunk * norm_anchor)
+                else:
+                    cos = 0
+                if cos > max_cos:
+                    max_cos = cos
+            return max_cos
+
         def assign_topic_corex(chunk):
             tokens = clean_and_tokenize(chunk)
             if not tokens:
@@ -152,6 +197,7 @@ def process_file_chunk(
             topic_idx, confidence = assign_topic_corex(chunk)
             if topic_idx is not None:
                 cosine = compute_cosine_with_anchors(chunk, topic_word_lists, vectorizer)
+                cosine_weighted = compute_cosine_with_anchors_weighted(chunk, topic_word_scores, vectorizer, clean_and_tokenize)
                 if cosine >= min_cosine:
                     out_list.append({
                         'filename': fname,
@@ -162,7 +208,8 @@ def process_file_chunk(
                         'chunk_text': chunk,
                         'topic': topic_names[topic_idx],
                         'confidence': confidence,
-                        'cosine': cosine
+                        'cosine': cosine,
+                        'cosine_weighted': cosine_weighted
                     })
         return out_list
     except Exception as e:
@@ -172,8 +219,9 @@ def process_file_chunk(
 
 if __name__ == "__main__":
     topic_names, topic_word_lists = load_topic_data(MODEL_FOLDER)
+    topic_word_scores = load_topic_word_scores(MODEL_FOLDER)
     if USE_FOLDER:
-        files = find_txt_files_by_folder(SOURCE_FOLDER_PATH, year_filter=YEAR_FILTER, doc_types=DOC_TYPES)
+        files = find_txt_files_by_folder(SOURCE_FOLDER_PATH, year_filter=YEAR_FILTER, doc_types=DOC_TYPES, simple_mode=FOLDER_MODE)
         confirm_and_print_settings(files)
         if len(files) == 0:
             print("No files found that match the filter settings! Exiting.")
@@ -192,6 +240,7 @@ if __name__ == "__main__":
                 MIN_COSINE,
                 topic_names,
                 topic_word_lists,
+                topic_word_scores
             )
             for f in files
         ]
@@ -224,4 +273,3 @@ if __name__ == "__main__":
         print(train_source.head(20))
     else:
         print("Excel mode not implemented.")
-

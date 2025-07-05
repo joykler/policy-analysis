@@ -1,0 +1,12 @@
+{
+  "USE_FOLDER": true,
+  "SOURCE_FOLDER_PATH": "sources",
+  "OUTPUT_FOLDER": "Corex_topicdata_slavery_v2",
+  "MODEL_FOLDER": "Corex_topicdata_slavery_v2",
+  "FOLDER_MODE": true,
+  "YEAR_FILTER": [],
+  "DOC_TYPES": [],
+  "SENTS_PER_CHUNK": 5,
+  "CONFIDENCE_THRESHOLD": 0.4,
+  "MIN_COSINE": 0.05
+}

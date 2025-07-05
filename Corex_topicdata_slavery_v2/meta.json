@@ -1,0 +1,5 @@
+{
+  "created": "2025-07-03T18:18:45.222986",
+  "notes": "Slavery LDA v1; trained on cleaned/stemmed docs; stopwords and dictionary saved; topic-wordlists are stemmed.",
+  "n_topics": 5
+}
