@@ -1,9 +1,9 @@
 {
   "USE_FOLDER": true,
-  "SOURCE_FOLDER_PATH": "sources",
+  "SOURCE_FOLDER_PATH": "Policyarchive_text",
   "OUTPUT_FOLDER": "Corex_topicdata_slavery_v2",
   "MODEL_FOLDER": "Corex_topicdata_slavery_v2",
-  "FOLDER_MODE": true,
+  "FOLDER_MODE": false,
   "YEAR_FILTER": [],
   "DOC_TYPES": [],
   "SENTS_PER_CHUNK": 5,
