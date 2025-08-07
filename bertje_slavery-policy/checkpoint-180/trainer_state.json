@@ -1,0 +1,64 @@
+{
+  "best_global_step": 180,
+  "best_metric": 0.3596048057079315,
+  "best_model_checkpoint": "./bertje_slavery-policy\\checkpoint-180",
+  "epoch": 3.0,
+  "eval_steps": 500,
+  "global_step": 180,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "eval_accuracy": 0.4171779141104294,
+      "eval_f1": 0.6817957404027447,
+      "eval_loss": 0.4306192696094513,
+      "eval_runtime": 1.8213,
+      "eval_samples_per_second": 178.993,
+      "eval_steps_per_second": 6.04,
+      "step": 60
+    },
+    {
+      "epoch": 2.0,
+      "eval_accuracy": 0.4662576687116564,
+      "eval_f1": 0.7216031863561281,
+      "eval_loss": 0.38546496629714966,
+      "eval_runtime": 1.8007,
+      "eval_samples_per_second": 181.038,
+      "eval_steps_per_second": 6.109,
+      "step": 120
+    },
+    {
+      "epoch": 3.0,
+      "eval_accuracy": 0.4754601226993865,
+      "eval_f1": 0.7117986113024278,
+      "eval_loss": 0.3596048057079315,
+      "eval_runtime": 1.7984,
+      "eval_samples_per_second": 181.274,
+      "eval_steps_per_second": 6.117,
+      "step": 180
+    }
+  ],
+  "logging_steps": 500,
+  "max_steps": 180,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 3,
+  "save_steps": 500,
+  "stateful_callbacks": {
+    "TrainerControl": {
+      "args": {
+        "should_epoch_stop": false,
+        "should_evaluate": false,
+        "should_log": false,
+        "should_save": true,
+        "should_training_stop": true
+      },
+      "attributes": {}
+    }
+  },
+  "total_flos": 188257650384384.0,
+  "train_batch_size": 16,
+  "trial_name": null,
+  "trial_params": null
+}
