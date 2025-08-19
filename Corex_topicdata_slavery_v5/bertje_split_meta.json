@@ -8,33 +8,33 @@
   "cosine_min": 0.0,
   "cosine_weighted_min": 0.04,
   "class_weights": [
-    0.6927763272410792,
-    0.7019400352733686,
-    0.6503267973856209
+    0.7105045492142267,
+    0.7176274018379282,
+    0.6850079744816587
   ],
-  "train_size": 796,
-  "val_size": 293,
+  "train_size": 859,
+  "val_size": 345,
   "topic_counts": [
     {
       "Topic": "Colonial Exploitation, Slavery & Economic Inequality",
-      "Train": 383,
-      "Val": 118,
-      "Train Avg Weighted Cosine": 0.2206,
-      "Val Avg Weighted Cosine": 0.2374
+      "Train": 403,
+      "Val": 106,
+      "Train Avg Weighted Cosine": 0.2577,
+      "Val Avg Weighted Cosine": 0.2553
     },
     {
       "Topic": "Reparations and Remembrance",
-      "Train": 378,
-      "Val": 101,
-      "Train Avg Weighted Cosine": 0.1197,
-      "Val Avg Weighted Cosine": 0.114
+      "Train": 399,
+      "Val": 93,
+      "Train Avg Weighted Cosine": 0.1889,
+      "Val Avg Weighted Cosine": 0.2
     },
     {
       "Topic": "Modern & Everyday Racism",
-      "Train": 408,
-      "Val": 93,
-      "Train Avg Weighted Cosine": 0.1442,
-      "Val Avg Weighted Cosine": 0.124
+      "Train": 418,
+      "Val": 89,
+      "Train Avg Weighted Cosine": 0.1921,
+      "Val Avg Weighted Cosine": 0.2449
     }
   ]
 }

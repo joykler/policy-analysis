@@ -1,12 +1,12 @@
 {
   "USE_FOLDER": true,
   "SOURCE_FOLDER_PATH": "Policyarchive_text",
-  "OUTPUT_FOLDER": "Corex_topicdata_slavery_policyv1",
-  "MODEL_FOLDER": "Corex_topicdata_slavery_policyv1",
+  "OUTPUT_FOLDER": "Corex_topicdata_slavery_policyv2",
+  "MODEL_FOLDER": "Corex_topicdata_slavery_v5",
   "FOLDER_MODE": false,
   "YEAR_FILTER": [
-    2015,
-    2015
+    2023,
+    2023
   ],
   "DOC_TYPES": [
     "beleidsnotas",
