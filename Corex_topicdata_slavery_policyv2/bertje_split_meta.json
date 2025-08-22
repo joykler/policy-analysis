@@ -5,36 +5,36 @@
     "Modern & Everyday Racism"
   ],
   "num_topics": 3,
-  "cosine_min": 0.0,
-  "cosine_weighted_min": 0.04,
+  "cosine_min": 0.08,
+  "cosine_weighted_min": 0.0,
   "class_weights": [
-    0.6289308176100629,
-    0.4728132387706856,
-    0.411522633744856
+    0.6768916155419223,
+    0.38578088578088576,
+    0.3363821138211382
   ],
-  "train_size": 200,
-  "val_size": 83,
+  "train_size": 331,
+  "val_size": 107,
   "topic_counts": [
     {
       "Topic": "Colonial Exploitation, Slavery & Economic Inequality",
-      "Train": 106,
-      "Val": 19,
-      "Train Avg Weighted Cosine": 0.0325,
-      "Val Avg Weighted Cosine": 0.0353
+      "Train": 163,
+      "Val": 40,
+      "Train Avg Weighted Cosine": 0.0148,
+      "Val Avg Weighted Cosine": 0.0138
     },
     {
       "Topic": "Reparations and Remembrance",
-      "Train": 141,
-      "Val": 37,
-      "Train Avg Weighted Cosine": 0.0205,
-      "Val Avg Weighted Cosine": 0.02
+      "Train": 286,
+      "Val": 75,
+      "Train Avg Weighted Cosine": 0.0118,
+      "Val Avg Weighted Cosine": 0.0118
     },
     {
       "Topic": "Modern & Everyday Racism",
-      "Train": 162,
-      "Val": 40,
-      "Train Avg Weighted Cosine": 0.0394,
-      "Val Avg Weighted Cosine": 0.0444
+      "Train": 328,
+      "Val": 83,
+      "Train Avg Weighted Cosine": 0.0297,
+      "Val Avg Weighted Cosine": 0.0273
     }
   ]
 }
