@@ -1,0 +1,155 @@
+{
+  "generated_on": "2025-09-18T12:44:14.814208",
+  "checkpoint_path": "Regex_pretraining_Policy_v2/bertje_policy_checkpoints",
+  "meta_path": "Regex_pretraining_Policy_v2/Bertje_prep/regex_split_meta.json",
+  "input_csv": "Regex_pretraining_Policy_v2/chunk_regex_matchesbest.csv",
+  "use_multi_label": true,
+  "num_labels": 13,
+  "tsne_perplexity": 30,
+  "batch_size": 16,
+  "max_len": 256,
+  "thresholds_loaded": true,
+  "regex_split_meta": {
+    "topic_names": [
+      "burgerrechten",
+      "gezondheidszorg",
+      "arbeid",
+      "onderwijs",
+      "milieu",
+      "immigratie",
+      "criminaliteit",
+      "sociale_zaken",
+      "huisvesting",
+      "buitenlandse_zaken",
+      "ruimtelijke_ordening",
+      "Cultuur_en_sport",
+      "Ramp_ongeval"
+    ],
+    "num_topics": 13,
+    "topic_source_column": "topic_thresholded",
+    "label_source": "scores",
+    "use_multi_label": true,
+    "select_single_label_by": "priority",
+    "min_match_count_per_topic": 1,
+    "min_density_per_topic": 0.0,
+    "score_min": 0.6,
+    "topk_per_row": 4,
+    "drop_topics": [
+      "democratie_en_bestuur"
+    ],
+    "keep_whitelist": [],
+    "min_pos_samples_per_topic": 100,
+    "val_fraction": 0.2,
+    "redistribute_after_split": true,
+    "class_weights": [
+      5.989917506874427,
+      3.4885226603884636,
+      3.9583875162548763,
+      5.648648648648648,
+      3.347776510832383,
+      10.484939759036145,
+      6.703030303030303,
+      5.766637089618456,
+      11.359805510534846,
+      8.891050583657588,
+      17.64547677261614,
+      20.183333333333334,
+      50.0
+    ],
+    "train_size": 7626,
+    "val_size": 1961,
+    "topic_counts": [
+      {
+        "Topic": "burgerrechten",
+        "Train": 1091,
+        "Val": 283,
+        "Train Avg Score": 0.72983,
+        "Val Avg Score": 0.71016
+      },
+      {
+        "Topic": "gezondheidszorg",
+        "Train": 1699,
+        "Val": 433,
+        "Train Avg Score": 0.81755,
+        "Val Avg Score": 0.82144
+      },
+      {
+        "Topic": "arbeid",
+        "Train": 1538,
+        "Val": 386,
+        "Train Avg Score": 0.80497,
+        "Val Avg Score": 0.81044
+      },
+      {
+        "Topic": "onderwijs",
+        "Train": 1147,
+        "Val": 290,
+        "Train Avg Score": 0.84694,
+        "Val Avg Score": 0.83491
+      },
+      {
+        "Topic": "milieu",
+        "Train": 1754,
+        "Val": 439,
+        "Train Avg Score": 0.80825,
+        "Val Avg Score": 0.81053
+      },
+      {
+        "Topic": "immigratie",
+        "Train": 664,
+        "Val": 173,
+        "Train Avg Score": 0.80693,
+        "Val Avg Score": 0.81402
+      },
+      {
+        "Topic": "criminaliteit",
+        "Train": 990,
+        "Val": 248,
+        "Train Avg Score": 0.7901,
+        "Val Avg Score": 0.79423
+      },
+      {
+        "Topic": "sociale_zaken",
+        "Train": 1127,
+        "Val": 313,
+        "Train Avg Score": 0.79584,
+        "Val Avg Score": 0.78234
+      },
+      {
+        "Topic": "huisvesting",
+        "Train": 617,
+        "Val": 157,
+        "Train Avg Score": 0.80616,
+        "Val Avg Score": 0.80362
+      },
+      {
+        "Topic": "buitenlandse_zaken",
+        "Train": 771,
+        "Val": 198,
+        "Train Avg Score": 0.80091,
+        "Val Avg Score": 0.80646
+      },
+      {
+        "Topic": "ruimtelijke_ordening",
+        "Train": 409,
+        "Val": 102,
+        "Train Avg Score": 0.75755,
+        "Val Avg Score": 0.7477
+      },
+      {
+        "Topic": "Cultuur_en_sport",
+        "Train": 360,
+        "Val": 90,
+        "Train Avg Score": 0.88877,
+        "Val Avg Score": 0.87703
+      },
+      {
+        "Topic": "Ramp_ongeval",
+        "Train": 91,
+        "Val": 26,
+        "Train Avg Score": 0.74047,
+        "Val Avg Score": 0.70847
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "generated_on": "2025-09-15T15:15:41.965674",
+  "checkpoint_path": "Regex_pretraining_Policy/bertje_policy_checkpoints",
+  "meta_path": "Regex_pretraining_Policy/Bertje_prep/regex_split_meta.json",
+  "input_csv": "Regex_pretraining_Policy/chunk_regex_matchesbest.csv",
+  "use_multi_label": true,
+  "num_labels": 13,
+  "tsne_perplexity": 30,
+  "batch_size": 16,
+  "max_len": 256,
+  "thresholds_loaded": true
+}

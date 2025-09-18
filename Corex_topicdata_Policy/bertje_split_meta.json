@@ -1,0 +1,148 @@
+{
+  "topic_names": [
+    "Cultuur_en_sport",
+    "Ramp_ongeval",
+    "arbeid",
+    "buitenlandse_zaken",
+    "burgerrechten",
+    "criminaliteit",
+    "democratie_en_bestuur",
+    "gezondheidszorg",
+    "huisvesting",
+    "immigratie",
+    "milieu",
+    "onderwijs",
+    "religie",
+    "ruimtelijke_ordening",
+    "sociale_zaken"
+  ],
+  "num_topics": 15,
+  "cosine_min": 0.09,
+  "cosine_weighted_min": 0.0,
+  "class_weights": [
+    6.835416666666666,
+    0.190700377797152,
+    10.415873015873016,
+    0.7439909297052154,
+    15.623809523809523,
+    0.47344877344877345,
+    109.36666666666666,
+    5.334959349593496,
+    0.3202537823328453,
+    5.911711711711711,
+    2.0442367601246105,
+    1.4582222222222223,
+    4.755072463768116,
+    2.485606060606061,
+    1.3932059447983014
+  ],
+  "train_size": 3281,
+  "val_size": 1067,
+  "topic_counts": [
+    {
+      "Topic": "Cultuur_en_sport",
+      "Train": 32,
+      "Val": 8,
+      "Train Avg Weighted Cosine": 0.1655,
+      "Val Avg Weighted Cosine": 0.1338
+    },
+    {
+      "Topic": "Ramp_ongeval",
+      "Train": 1147,
+      "Val": 243,
+      "Train Avg Weighted Cosine": 0.2614,
+      "Val Avg Weighted Cosine": 0.2688
+    },
+    {
+      "Topic": "arbeid",
+      "Train": 21,
+      "Val": 5,
+      "Train Avg Weighted Cosine": 0.1409,
+      "Val Avg Weighted Cosine": 0.1487
+    },
+    {
+      "Topic": "buitenlandse_zaken",
+      "Train": 294,
+      "Val": 76,
+      "Train Avg Weighted Cosine": 0.1538,
+      "Val Avg Weighted Cosine": 0.1466
+    },
+    {
+      "Topic": "burgerrechten",
+      "Train": 14,
+      "Val": 3,
+      "Train Avg Weighted Cosine": 0.0413,
+      "Val Avg Weighted Cosine": 0.0
+    },
+    {
+      "Topic": "criminaliteit",
+      "Train": 462,
+      "Val": 135,
+      "Train Avg Weighted Cosine": 0.3578,
+      "Val Avg Weighted Cosine": 0.355
+    },
+    {
+      "Topic": "democratie_en_bestuur",
+      "Train": 2,
+      "Val": 1,
+      "Train Avg Weighted Cosine": 0.091,
+      "Val Avg Weighted Cosine": 0.0782
+    },
+    {
+      "Topic": "gezondheidszorg",
+      "Train": 41,
+      "Val": 11,
+      "Train Avg Weighted Cosine": 0.162,
+      "Val Avg Weighted Cosine": 0.1985
+    },
+    {
+      "Topic": "huisvesting",
+      "Train": 683,
+      "Val": 184,
+      "Train Avg Weighted Cosine": 0.3131,
+      "Val Avg Weighted Cosine": 0.3039
+    },
+    {
+      "Topic": "immigratie",
+      "Train": 37,
+      "Val": 11,
+      "Train Avg Weighted Cosine": 0.1482,
+      "Val Avg Weighted Cosine": 0.1481
+    },
+    {
+      "Topic": "milieu",
+      "Train": 107,
+      "Val": 32,
+      "Train Avg Weighted Cosine": 0.1546,
+      "Val Avg Weighted Cosine": 0.1583
+    },
+    {
+      "Topic": "onderwijs",
+      "Train": 150,
+      "Val": 37,
+      "Train Avg Weighted Cosine": 0.1417,
+      "Val Avg Weighted Cosine": 0.1542
+    },
+    {
+      "Topic": "religie",
+      "Train": 46,
+      "Val": 13,
+      "Train Avg Weighted Cosine": 0.1846,
+      "Val Avg Weighted Cosine": 0.1727
+    },
+    {
+      "Topic": "ruimtelijke_ordening",
+      "Train": 88,
+      "Val": 13,
+      "Train Avg Weighted Cosine": 0.1953,
+      "Val Avg Weighted Cosine": 0.1984
+    },
+    {
+      "Topic": "sociale_zaken",
+      "Train": 157,
+      "Val": 49,
+      "Train Avg Weighted Cosine": 0.0959,
+      "Val Avg Weighted Cosine": 0.0952
+    }
+  ]
+}
