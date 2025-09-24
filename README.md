@@ -1,110 +1,73 @@
-# policy-analysis
+# Policy Analysis Workspace
 
-This repository contains lightweight tools for dictionary building and topic discovery. Steps below reference numbers like **1.a** so you can follow them sequentially.
+## 1. Getting Started
+1.a **Create your workspace clone** – Copy the repository and place it inside your preferred development folder so you can edit notebooks such as `Build_Dictionary.ipynb`, `Discover_Topics.ipynb`, and `topic modelling-application.ipynb` without altering raw inputs.
 
-## 1. Dictionary creation
+1.b **Install Python dependencies** – Use the root-level `requirements.txt` to ensure local notebooks and scripts share the same environment when you run modular pipelines for policy or slavery sources.
 
-1.a **Install requirements**
+1.c **Review training inputs** – Inspect `inputs/training-docs/` to confirm both the policy archive text and slavery text corpora are available before launching any notebook-driven workflow.
 
-```bash
-pip install -r requirements.txt
-```
+## 2. Directory Orientation
+2.a **Notebook collection** – Core analyses live in notebooks such as `Build_Dictionary.ipynb`, `Clean_words.ipynb`, `Discover_Topics.ipynb`, `regex-precoding#2.ipynb`, and `topic modelling-application.ipynb`; keep source-specific variables like `policydocument_path` or `slaverydocument_path` explicit when editing them.
 
-PDF text extraction relies on **PyMuPDF**, included in the requirements file.
+2.b **Command-line scripts** – Automated routines reside in `scripts/build_dictionary.py`, `scripts/discover_topics.py`, and `scripts/topic_dictionary.py`, letting you reproduce notebook logic with clear source arguments (e.g., `--input policydocument_path`).
 
-1.b **Run the command line tool**
+2.c **Model artefacts** – Store pretrained resources (`Policy-label2topic.pickle`, `Policy-topic2label.pickle`, `slavery-label2topic.pickle`, `slavery-topic2label.pickle`, `label_encoder.pkl`) in the repository root so both Corex and BERTje steps can reuse them per corpus.
 
-```bash
-python scripts/build_dictionary.py PATH_TO_POLICY_DOCS policy_dictionary.txt --language dutch --stem
-```
+2.d **Extended stopwords** – The shared `stopwords_extra.txt` extends language-specific stop lists with policy- and slavery-specific vocabulary; reference it when normalising multiple corpora.
 
-Provide the directory containing your PDF/TXT files. Use descriptive output names such as `theory_dictionary_2023.txt` so the source remains clear.
+## 3. Discover Topics Workflow
+3.a **Notebook-driven exploration** – `Discover_Topics.ipynb` guides you through data loading, preprocessing, and topic modelling; adjust parameters like `policydocument_path`, `slaverydocument_path`, or `num_topics` to keep each run source-aware.
 
-1.c **Use the notebook**
+3.b **Command-line runs** – Execute `python scripts/discover_topics.py policydocument_path --topics 10 --topn 15` (or the slavery equivalent) for batch jobs that mirror the notebook's modular cells.
 
-Open `Build_Dictionary.ipynb` and configure variables for each source:
+3.c **Corex integration** – Dedicated cells import `corextopic`, fit `Corex` models, and extract topic-word lists, enabling you to compare Corex topics against LDA within the same notebook while naming objects such as `policy_corex_topics` or `slavery_corex_topics` for clarity.
 
-```python
-policy_documents_path = 'Policy-documents'
-policy_dictionary_output = 'policy_dictionary.txt'
+3.d **Topic outputs** – Summaries such as `topic_counts_per_document.csv` capture per-document topic weights; duplicate them with descriptive names (`policy_topic_counts.csv`, `slavery_topic_counts.csv`) when branching analyses.
 
-theory_documents_path = 'sources'
-theory_dictionary_output = 'theory_dictionary.txt'
-```
+## 4. Corex & BERTje Training (corexlabelerscriptv6)
+4.a **Corex labeler cells** – Reuse the Corex sections in `Discover_Topics.ipynb` to generate label suggestions; persist results with names like `policy_corexlabeler_labels.json` to distinguish policy versus slavery experiments.
 
-Run the numbered cells (2.a, 2.b, ...) to generate each dictionary.
+4.b **BERTje predictions** – The repository stores `bertje_policy_predictions.csv`, `bertje_slavery_predictions.csv`, and `bertje_topic_predictions.csv` alongside `label_encoder.pkl`; regenerate them after fine-tuning by saving new files such as `policy_bertje_predictions_2023.csv` to keep provenance obvious.
 
-1.d **Generate stopword list**
+4.c **Topic label mappings** – Synchronise Corex and BERTje outputs with the pickled dictionaries (`Policy-label2topic.pickle`, `slavery-topic2label.pickle`) and name any new variants by source and year (e.g., `policy_label2topic_2015.pkl`).
 
-Run `Clean_words.ipynb` after installing the requirements. Cell **1.a** writes a combined list of Dutch, English and policy-specific stop words to `stopwords_extra.txt`. Other notebooks read this file when cleaning text.
+## 5. Regex Precoding Pipeline
+5.a **Notebook workflow** – `regex-precoding#2.ipynb` orchestrates pattern design, application, and evaluation; configure variables such as `policy_regex_patterns` and `slavery_regex_patterns` for modular reuse.
 
-## 2. Topic discovery
+5.b **Primary exports** – CSV outputs (`policy-regex-matched_results.csv`, `slavery-regex-matched_results.csv`, `train-regex-matched_results.csv`) catalogue matches per document; create derivatives with explicit naming like `policy_regex_matched_results_2015.csv` to track versions.
 
-2.a **Prepare documents** – place PDFs or text files in clearly named folders (e.g. `policydocument_2015.pdf`, `theorydocument_slavery.pdf`).
+5.c **Filtered matches** – `Policy_regex_filtered_matched` retains topic-labelled policy sentences, showing fields `sentence`, `topic`, `document`, and `label`; replicate the filtering logic for other corpora (e.g., `slavery_regex_filtered_matched.csv`).
 
-2.b **Run via command line**
+5.d **Sentence-level excerpts** – Use `policy-regex-matched_sentences.csv` and `slavery-regex-matched_sentences.csv` to inspect context; maintain corpus-aware filenames when generating new reports (e.g., `slavery_regex_matched_sentences_2023.csv`).
 
-```bash
-python scripts/discover_topics.py PATH_TO_DOCS --topics 5 --topn 10
-```
+## 6. Topic Modelling Application
+6.a **Application notebook** – `topic modelling-application.ipynb` combines dictionary outputs, regex matches, and topic models into end-to-end analyses; toggle inputs such as `policydictionary_path` or `slaverydictionary_path` to reuse it across sources.
 
-2.c **Filter dominating terms** – add `--drop-common 10` to remove words shared across more than ten topics.
+6.b **Visual reporting** – `Visualisatie.ipynb` supports plotting topic distributions or regex coverage; label figures with corpus-specific titles (e.g., "Slavery 2023 Topic Share").
 
-```bash
-python scripts/discover_topics.py PATH_TO_DOCS --topics 5 --topn 10 --drop-common 10
-```
+6.c **Aggregate tables** – Maintain per-document metrics in `topic_counts_per_document.csv` and its variants (`topic_counts_per_document (3).csv`); extend them with columns like `source_corpus` to simplify cross-source comparisons.
 
-2.d **Use the notebook**
+## 7. Dictionaries & Vocabulary Assets
+7.a **Primary dictionaries** – `Policy_dictionairy.xlsx` and `Slavery_dictionairy.xlsx` store curated vocabularies; clone them into `policy_dictionary_2015.xlsx` or `slavery_dictionary_research.xlsx` when experimenting with new corpora.
 
-Open `Discover_Topics.ipynb` and set parameters:
+7.b **Topic dictionary workbooks** – `inputs/topic_dictionary/` contains consolidated topic dictionaries (`policy.xlsx`, `Policy2.xlsx`, `slavery.xlsx`); use sheet names and filenames that encode corpus and iteration numbers for clarity.
 
-```python
-policydocument_path = 'Policy-documents'
-slaverydocument_path = 'sources'
-num_topics = 5
-```
+7.c **Stopword extensions** – Augment `stopwords_extra.txt` with source-specific tokens (e.g., `policystopwords_2023.txt`) before re-running dictionary or topic extraction routines.
 
-Execute the cells (2.a–2.d) to train the LDA model and print topics.
+7.d **Dictionary-building notebook** – `Build_Dictionary.ipynb` provides the canonical pipeline; assign variables like `policydocument_folder` and `slaverydictionary_output` so outputs remain source-labelled.
 
-## 3. Modular design
+## 8. Source Text Collections
+8.a **Policy archive text (policyarchive_text)** – The policy corpus resides under `inputs/training-docs/policy/`, subdivided by year (`all-from-2015`, `all-from-2023`) and document type (`beleidsnotas`, `kamerstukken`, `rapporten`, `publicaties`, `jaarverslagen`); each final folder holds `.raw.txt` files extracted from PDF pages, nested by publication date to preserve metadata from the policy archive.
 
-Scripts and notebooks accept arbitrary source paths so you can mix policy, theory or slavery documents. Adopt clear variable names like `policy_vocab`, `theory_vocab` or `slaverydocument_path` to keep outputs organized by origin.
+8.b **Slavery text (slavery_text)** – The slavery corpus is stored in `inputs/training-docs/slavery/`, where each book or report has both the original PDF and the split raw text pages (`0001.raw.txt`, etc.); leverage these folders for targeted analyses by naming variables `slaverydocument_pages` or `slavery_pdf_path` when scripting pipelines.
 
-## 4. Create topic dictionaries
+## 9. Auxiliary Resources
+9.a **Automation scripts** – PowerShell helpers (`#0-Copy-PolicyDocsFromArchiveRepo.ps1`, `#1-Export-RawTextPagesFromPdfFiles.ps1`, `#2-Remove-IntroPagesFromRawTextDirs.ps1`) streamline document ingestion; adapt them with parameters like `-PolicyArchiveRoot` or `-SlaveryArchiveRoot` to remain source-aware.
 
-4.a **Run the helper script** – after training an LDA model, convert the topics to dictionary files using `scripts/topic_dictionary.py`.
+9.b **Precomputed analytics** – Files such as `matched_results.csv` and `bertje_topic_predictions.csv` provide ready-made baselines; duplicate them under names like `policy_matched_results_baseline.csv` or `slavery_topic_predictions_experiment1.csv` whenever you run new experiments.
 
-```bash
-python scripts/topic_dictionary.py PATH_TO_DOCS topic_output_dir \
-    --labels policy_2015,policy_2016,policy_2017 --topics 5 --topn 15
-```
+---
 
-Each label corresponds to a topic index (0, 1, ...). The script writes
-`<label>_dictionary.txt` files containing the top words for that topic. Use
-descriptive labels such as `slavery_2023` or `theory_reform` so the source
-remains clear.
-
-4.b **Refine manually** – open the generated dictionary files and remove
-overlapping or irrelevant terms. You can rerun the script with new labels to
-produce additional versions.
-4.c **Filter dominating terms** – when discovering topics (see step 2.c), add `--drop-common 10` to drop words that appear in many topics before exporting dictionaries.
-
-
-## 5. Alternative topic modelling methods
-
-5.a **Hierarchical LDA (hLDA)** – explore deeper topic structures by nesting
-topics. Gensim implements `models.hdpmodel.HdpModel` which can serve as a
-starting point for hLDA.
-
-5.b **Non-negative Matrix Factorization (NMF)** – NMF is another technique that
-uses matrix factorisation rather than probabilistic modelling. It often yields
-different topics from LDA. Scikit-learn provides a straightforward
-implementation.
-
-5.c **BERTopic** – this method leverages transformers to embed sentences before
-clustering them into topics. The `bertopic` package can be installed
-separately and integrated with the existing corpus-building utilities.
-
-These approaches can all reuse the same `gather_files` and `build_corpus`
-functions so you can mix policy, theory or slavery documents while keeping
-variables like `policydocument_path` or `theory_vocab` explicit.
+### Testing
+⚠️ Not run (read-only analysis request).
