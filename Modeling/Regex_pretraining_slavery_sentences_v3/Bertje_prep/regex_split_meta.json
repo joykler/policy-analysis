@@ -1,0 +1,74 @@
+{
+  "topic_names": [
+    "Reparations and Remembrance",
+    "Modern & Everyday Racism",
+    "Colonial Exploitation, Slavery & Economic Inequality",
+    "Uncategorised"
+  ],
+  "num_topics": 4,
+  "topic_source_column": "Reg_topic_thresholded",
+  "label_source": "scores",
+  "use_multi_label": true,
+  "select_single_label_by": "priority",
+  "min_match_count_per_topic": 1,
+  "min_density_per_topic": 0.0,
+  "score_min": 0.4,
+  "topk_per_row": 3,
+  "drop_topics": [
+    "democratie_en_bestuur",
+    "religie",
+    "Ramp_ongeval"
+  ],
+  "keep_whitelist": [
+    "Uncategorised"
+  ],
+  "min_pos_samples_per_topic": 1,
+  "val_fraction": 0.2,
+  "redistribute_after_split": true,
+  "class_weights": [
+    14.677600749765698,
+    11.769465648854961,
+    5.421497120921305,
+    1.0
+  ],
+  "keep_uncategorised": true,
+  "uncategorised_topic_name": "Uncategorised",
+  "uncat_source": "explicit",
+  "uncat_assign_mode": "add",
+  "uncat_require_no_thresholded": true,
+  "uncat_max_score": 0.2,
+  "uncat_use_total_score": true,
+  "uncat_total_score": 0.5,
+  "train_size": 16728,
+  "val_size": 4227,
+  "topic_counts": [
+    {
+      "Topic": "Reparations and Remembrance",
+      "Train": 1067,
+      "Val": 267,
+      "Train Avg Score": 0.80726,
+      "Val Avg Score": 0.82862
+    },
+    {
+      "Topic": "Modern & Everyday Racism",
+      "Train": 1310,
+      "Val": 328,
+      "Train Avg Score": 0.87986,
+      "Val Avg Score": 0.89536
+    },
+    {
+      "Topic": "Colonial Exploitation, Slavery & Economic Inequality",
+      "Train": 2605,
+      "Val": 652,
+      "Train Avg Score": 0.78278,
+      "Val Avg Score": 0.79284
+    },
+    {
+      "Topic": "Uncategorised",
+      "Train": 13875,
+      "Val": 3472,
+      "Train Avg Score": NaN,
+      "Val Avg Score": NaN
+    }
+  ]
+}

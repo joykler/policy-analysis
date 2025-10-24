@@ -1,0 +1,23 @@
+{
+  "total_chunks": 2841,
+  "agreement_count": 2553,
+  "agreement_percentage": 89.86272439281943,
+  "disagreement_count": 288,
+  "disagreement_percentage": 10.13727560718057,
+  "bert_confidence_distribution": {
+    "high": 2385,
+    "medium": 300,
+    "low": 114,
+    "very_low": 42
+  },
+  "bert_label_distribution": {
+    "Modern Racism & Inequality": 1070,
+    "Colonialism": 894,
+    "Historical Slavery": 877
+  },
+  "cosine_label_distribution": {
+    "Colonialism": 999,
+    "Modern Racism & Inequality": 938,
+    "Historical Slavery": 904
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label2id": {
+    "Colonialism": 0,
+    "Historical slavery": 1,
+    "Modern racism& inequality": 2,
+    "Remembrance": 3,
+    "Reparations": 4
+  },
+  "id2label": {
+    "0": "Colonialism",
+    "1": "Historical slavery",
+    "2": "Modern racism& inequality",
+    "3": "Remembrance",
+    "4": "Reparations"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-10-24T16:09:36.254902",
+  "source_data": {
+    "high_confidence_file": "Model_iterations\\Trained_Slavery_001\\processed_data\\xfmr_doc_topic_cosine_scores_high_confidence.csv",
+    "low_confidence_file": "Model_iterations\\Trained_Slavery_001\\processed_data\\xfmr_doc_topic_cosine_scores_low_confidence.csv",
+    "no_confidence_file": "Model_iterations\\Trained_Slavery_001\\processed_data\\xfmr_doc_topic_cosine_scores_no_confidence.csv"
+  },
+  "statistics": {
+    "high_confidence_chunks": 1525,
+    "low_confidence_chunks": 869,
+    "no_confidence_chunks": 506,
+    "training_examples": 1220,
+    "validation_examples": 305
+  },
+  "label_mapping": {
+    "Colonialism": 0,
+    "Historical Slavery": 1,
+    "Modern Racism & Inequality": 2
+  },
+  "topic_distribution": {
+    "Modern Racism & Inequality": 659,
+    "Historical Slavery": 513,
+    "Colonialism": 353
+  },
+  "options": {
+    "option1_size": 1220,
+    "option2_size": 1726,
+    "option3_size": 2089,
+    "option4_size": 2595
+  }
+}

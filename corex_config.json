@@ -1,0 +1,23 @@
+{
+  "USE_FOLDER": true,
+  "SOURCE_FOLDER_PATH": "Policyarchive_text",
+  "OUTPUT_FOLDER": "Corex_topicdata_policy_v6",
+  "MODEL_FOLDER": "Corex_topicdata_Policy_v5",
+  "FOLDER_MODE": false,
+  "YEAR_FILTER": [
+    2023,
+    2023
+  ],
+  "DOC_TYPES": [
+    "beleidsnotas",
+    "convenanten",
+    "kamerstukken",
+    "brieven",
+    "besluiten",
+    "jaarverslagen",
+    "jaarplannen"
+  ],
+  "SENTS_PER_CHUNK": 300,
+  "CONFIDENCE_THRESHOLD": 0.0,
+  "MIN_COSINE": 0.05
+}

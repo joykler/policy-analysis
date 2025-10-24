@@ -1,0 +1,898 @@
+filename,chunk_id,sentence_count,raw_text,text_for_scoring,cos_Colonialism,cos_Historical Slavery,cos_Modern Racism & Inequality,max_score,primary_topic,score_margin,text,predicted_label_id,predicted_label,confidence,prob_Colonialism,prob_Historical Slavery,prob_Modern Racism & Inequality,prediction_margin,bert_confidence_tier
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.134.txt,eab9afc4:00000,10,"— 134 —
+— STAAT EN SLAVERNIJ —
+­‘vrijheid, gelijkheid en broederschap’ bleek niet van toepassing op de 
+slaafgemaakten in de Bataafse overzeese gebiedsdelen. Met de overgang naar het Verenigd Koninkrijk der Nederlanden werd 
+in de grondwet van 1815 bepaald dat niet meer de Staten-Generaal, maar 
+koning Willem i het opperbestuur genoot over de koloniën. Hij had 
+­grootse plannen met deze gebieden, daarbij gesteund door de macht die 
+de grondwet hem toebedeelde en het snelle herstel van de Nederlandse 
+­slavenkoloniën en slavernijgerelateerde industrieën na de napoleontische 
+oorlogen. Na het verlies van een groot deel van het koloniale wereldrijk 
+behoorde Nederland vanaf het begin van de negentiende eeuw niet 
+meer tot de grootste slavenhoudende staten in de wereld, maar de slaven­
+houdende plantages waren nog wel van economisch belang voor de staat 
+en de ondernemers. Recent onderzoek naar de oprichting van De Neder­
+landsche Bank wees bijvoorbeeld uit dat het startkapitaal waarmee de 
+oprichting van dat instituut mogelijk werd gemaakt deels afkomstig was 
+van ondernemers met directe belangen in de plantageslavernij. Verder 
+steeg de ­consumptie van katoen, indigo, suiker en koffie, hoewel de 
+publieke ­opinie zich tegen slavernij had gekeerd. Willem i wilde dat de 
+staatskas daarvan profiteerde en stuurde wetsvoorstellen naar de Tweede 
+Kamer voor verhoogde accijnzen op koffie en suiker. Ondanks pogingen 
+van Amsterdamse handelshuizen om dat wetsvoorstel in de kiem te smo­
+ren vanwege teruglopende winstgevendheid, stemden de Tweede en Eer­
+ste Kamer in met de accijnsverhoging. Door Britse internationale druk was 
+de afschaffing van de slavenhandel opgelegd. Slavenhouders beseften dat 
+zij lippendienst konden bewijzen aan de abolitionistische zaak door de 
+afschaffing van de slavenhandel stilzwijgend te accepteren: die stond 
+immers het gebruik van slavernij als productiewijze niet in de weg.2
+Als opperbestuurder van de koloniën vond Willem i een gelijk­
+gestemde ziel en trouwe dienaar in de militair Johannes van den Bosch: 
+beide mannen ontwikkelden een allesomvattende visie op koloniaal 
+bestuur die het lot van vele slaafgemaakten en lokale boeren bezegelde.3 
+Van den Bosch had gediend in Nederlands-Indië en werd in 1827 benoemd 
+als ­commissaris-generaal van Suriname en de Antillen, met als opdracht 
+het bestuur grondig te herzien.",staat slavernij vrijheid gelijkheid broederschap bleek toepassing slaafgemaakten bataafse overzeese gebiedsdelen overgang verenigd koninkrijk nederlanden grondwet bepaald staten generaal koning willem opperbestuur genoot koloniën grootse plannen gebieden daarbij gesteund macht grondwet toebedeelde snelle herstel nederlandse slavenkoloniën slavernijgerelateerde industrieën napoleontische oorlogen verlies groot koloniale wereldrijk behoorde nederland vanaf begin negentiende eeuw grootste slavenhoudende staten wereld slaven houdende plantages economisch belang staat ondernemers recent oprichting neder landsche bank wees bijvoorbeeld startkapitaal waarmee oprichting instituut mogelijk gemaakt deels afkomstig ondernemers directe belangen plantageslavernij verder steeg consumptie katoen indigo suiker koffie hoewel publieke opinie slavernij gekeerd willem wilde staatskas daarvan profiteerde stuurde wetsvoorstellen tweede kamer verhoogde accijnzen koffie suiker ondanks pogingen amsterdamse handelshuizen wetsvoorstel kiem smo ren vanwege teruglopende winstgevendheid stemden tweede eer ste kamer accijnsverhoging britse internationale druk afschaffing slavenhandel opgelegd slavenhouders beseften lippendienst konden bewijzen abolitionistische zaak afschaffing slavenhandel stilzwijgend accepteren stond immers slavernij productiewijze weg opperbestuurder koloniën vond willem gelijk gestemde ziel trouwe dienaar militair johannes den bosch beide mannen ontwikkelden allesomvattende visie koloniaal bestuur lot vele slaafgemaakten lokale boeren bezegelde den bosch gediend nederlands indië benoemd commissaris generaal suriname antillen opdracht bestuur grondig herzien,0.4870615124623273,0.4970785492070324,0.29742127627798454,0.4970785492070324,Historical Slavery,0.01001703674470511,staat slavernij vrijheid gelijkheid broederschap bleek toepassing slaafgemaakten bataafse overzeese gebiedsdelen overgang verenigd koninkrijk nederlanden grondwet bepaald staten generaal koning willem opperbestuur genoot koloniën grootse plannen gebieden daarbij gesteund macht grondwet toebedeelde snelle herstel nederlandse slavenkoloniën slavernijgerelateerde industrieën napoleontische oorlogen verlies groot koloniale wereldrijk behoorde nederland vanaf begin negentiende eeuw grootste slavenhoudende staten wereld slaven houdende plantages economisch belang staat ondernemers recent oprichting neder landsche bank wees bijvoorbeeld startkapitaal waarmee oprichting instituut mogelijk gemaakt deels afkomstig ondernemers directe belangen plantageslavernij verder steeg consumptie katoen indigo suiker koffie hoewel publieke opinie slavernij gekeerd willem wilde staatskas daarvan profiteerde stuurde wetsvoorstellen tweede kamer verhoogde accijnzen koffie suiker ondanks pogingen amsterdamse handelshuizen wetsvoorstel kiem smo ren vanwege teruglopende winstgevendheid stemden tweede eer ste kamer accijnsverhoging britse internationale druk afschaffing slavenhandel opgelegd slavenhouders beseften lippendienst konden bewijzen abolitionistische zaak afschaffing slavenhandel stilzwijgend accepteren stond immers slavernij productiewijze weg opperbestuurder koloniën vond willem gelijk gestemde ziel trouwe dienaar militair johannes den bosch beide mannen ontwikkelden allesomvattende visie koloniaal bestuur lot vele slaafgemaakten lokale boeren bezegelde den bosch gediend nederlands indië benoemd commissaris generaal suriname antillen opdracht bestuur grondig herzien,1,Historical Slavery,0.5161305,0.47698715,0.5161305,0.006882373,0.039143354,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.162.txt,b7de1f49:00000,10,"— 162 —
+— STAAT EN SLAVERNIJ —
+Europese koloniale ondernemingen. Zo vormden de opbrengsten uit de 
+handel in (gedeeltelijk) via slavenarbeid verkregen Braziliaanse diamanten 
+en tabak het onderpand voor grote leningen aan het begin van de negen­
+tiende eeuw.2  
+ 
+Hope & Co is exemplarisch voor de historische verwevenheid van de 
+Nederlandse financiële en zakelijk dienstverlenende sector met slavernij 
+en kolonialisme, al was de schaal van de betrokkenheid van deze firma wel 
+uitzonderlijk. Recent onderzoek naar dnb toonde de voortzetting van 
+deze verwevenheid in de negentiende eeuw, in de laatste decennia van de 
+slavernij.3 Tussen het eind van de zestiende en de late negentiende eeuw 
+nam de financiering van koloniale en slavernijondernemingen vele ver­
+schillende vormen aan. Het is onmogelijk om die in een korte bijdrage 
+allemaal te bespreken, laat staan om daarnaast ook nog aandacht te beste­
+den aan de ideeënwereld en mentaliteit die schuilgingen achter het wijd­
+vertakte systeem van investeren in handel in mensen of door dwangarbeid 
+verkregen producten. Dit hoofdstuk concentreert zich op drie gezichts­
+bepalende aspecten van de Nederlandse financiële betrokkenheid: de 
+financiering van koloniale handelscompagnieën in de zeventiende eeuw, 
+de expansie van de West-Indische plantagesector in de achttiende eeuw 
+en de erfenissen in de negentiende eeuw en daarna. ◼ ◼◼  Financiering van de voc en de wic
+De opkomst van de Nederlandse slavenhandel en de organisatie van 
+­slavernij in door Nederlanders beheerste gebieden zijn onlosmakelijk 
+­verbonden met de voc en wic. Maar deze compagnieën opereerden nooit 
+alleen. Achter de door de Staten-Generaal goedgekeurde monopoliemaat­
+schappijen stonden private investeerders, die niet zelden probeerden om 
+ook buiten de compagnieën om een graantje mee te pikken van de groei­
+ende koloniale handel. De voc was verantwoordelijk voor een van de 
+belangrijkste financiële innovaties in de geschiedenis van het kapitalisme: 
+ze werd het eerste bedrijf ter wereld met permanent kapitaal en verhan­
+delbare aandelen. Compagnieën waren al voor de oprichting van de voc in 1602 een gang­
+bare ondernemingsvorm.",staat slavernij europese koloniale ondernemingen vormden opbrengsten handel gedeeltelijk via slavenarbeid verkregen braziliaanse diamanten tabak onderpand grote leningen begin negen tiende eeuw hope co exemplarisch historische verwevenheid nederlandse financiële zakelijk dienstverlenende sector slavernij kolonialisme schaal betrokkenheid firma uitzonderlijk recent dnb toonde voortzetting verwevenheid negentiende eeuw laatste decennia slavernij eind zestiende late negentiende eeuw nam financiering koloniale slavernijondernemingen vele ver schillende vormen onmogelijk korte bijdrage allemaal bespreken laat staan daarnaast aandacht beste den ideeënwereld mentaliteit schuilgingen wijd vertakte systeem investeren handel mensen dwangarbeid verkregen producten hoofdstuk concentreert drie gezichts bepalende aspecten nederlandse financiële betrokkenheid financiering koloniale handelscompagnieën zeventiende eeuw expansie west indische plantagesector achttiende eeuw erfenissen negentiende eeuw daarna financiering voc wic opkomst nederlandse slavenhandel slavernij nederlanders beheerste gebieden onlosmakelijk verbonden voc wic compagnieën opereerden nooit alleen staten generaal goedgekeurde monopoliemaat schappijen stonden private investeerders zelden probeerden compagnieën graantje mee pikken groei ende koloniale handel voc verantwoordelijk belangrijkste financiële innovaties geschiedenis kapitalisme eerste bedrijf ter wereld permanent kapitaal verhan delbare aandelen compagnieën oprichting voc gang bare ondernemingsvorm,0.46614226366316835,0.5223501204685173,0.30678015761261246,0.5223501204685173,Historical Slavery,0.0562078568053489,staat slavernij europese koloniale ondernemingen vormden opbrengsten handel gedeeltelijk via slavenarbeid verkregen braziliaanse diamanten tabak onderpand grote leningen begin negen tiende eeuw hope co exemplarisch historische verwevenheid nederlandse financiële zakelijk dienstverlenende sector slavernij kolonialisme schaal betrokkenheid firma uitzonderlijk recent dnb toonde voortzetting verwevenheid negentiende eeuw laatste decennia slavernij eind zestiende late negentiende eeuw nam financiering koloniale slavernijondernemingen vele ver schillende vormen onmogelijk korte bijdrage allemaal bespreken laat staan daarnaast aandacht beste den ideeënwereld mentaliteit schuilgingen wijd vertakte systeem investeren handel mensen dwangarbeid verkregen producten hoofdstuk concentreert drie gezichts bepalende aspecten nederlandse financiële betrokkenheid financiering koloniale handelscompagnieën zeventiende eeuw expansie west indische plantagesector achttiende eeuw erfenissen negentiende eeuw daarna financiering voc wic opkomst nederlandse slavenhandel slavernij nederlanders beheerste gebieden onlosmakelijk verbonden voc wic compagnieën opereerden nooit alleen staten generaal goedgekeurde monopoliemaat schappijen stonden private investeerders zelden probeerden compagnieën graantje mee pikken groei ende koloniale handel voc verantwoordelijk belangrijkste financiële innovaties geschiedenis kapitalisme eerste bedrijf ter wereld permanent kapitaal verhan delbare aandelen compagnieën oprichting voc gang bare ondernemingsvorm,0,Colonialism,0.52253085,0.52253085,0.47330275,0.0041663446,0.049228102,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.176.txt,2f5dd161:00001,6,"De koloniale 
+overheid stelde echter paal en perk aan landvlucht door boeren met straf­
+maatregelen te verbieden hun woonplaats te verlaten. Omdat er vaak te 
+weinig bouwgrond en tijd overbleef om in het eigen levensonderhoud te 
+voorzien, probeerden velen toch te vluchten. ◼ ◼◼  Het cultuurstelsel (1830-1870)
+Het cultuurstelsel zoals dit door Van den Bosch werd ingevoerd was dus 
+de uitkomst van ontwikkelingen die al waren ingezet onder voc-bewind 
+en op grotere schaal uitgebreid waren onder de vroeg-koloniale staat van 
+Daendels. Onder Van den Bosch werd het dwangstelsel nu nog verder 
+­aangedreven. Boeren op Java moesten twintig procent van hun grond 
+gebruiken om gouvernementsproducten te produceren. Dit werd gerecht­",koloniale overheid stelde echter paal perk landvlucht boeren straf maatregelen verbieden woonplaats verlaten vaak bouwgrond tijd overbleef eigen levensonderhoud voorzien probeerden velen vluchten cultuurstelsel cultuurstelsel den bosch ingevoerd uitkomst ontwikkelingen ingezet voc bewind grotere schaal uitgebreid vroeg koloniale staat daendels den bosch dwangstelsel verder aangedreven boeren java moesten twintig procent grond gebruiken gouvernementsproducten produceren gerecht,0.5392556178540217,0.5361070270935265,0.37190764807327603,0.5392556178540217,Colonialism,0.003148590760495118,koloniale overheid stelde echter paal perk landvlucht boeren straf maatregelen verbieden woonplaats verlaten vaak bouwgrond tijd overbleef eigen levensonderhoud voorzien probeerden velen vluchten cultuurstelsel cultuurstelsel den bosch ingevoerd uitkomst ontwikkelingen ingezet voc bewind grotere schaal uitgebreid vroeg koloniale staat daendels den bosch dwangstelsel verder aangedreven boeren java moesten twintig procent grond gebruiken gouvernementsproducten produceren gerecht,1,Historical Slavery,0.5014911,0.48682836,0.5014911,0.0116804885,0.014662772,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.304.txt,9a5d1dbb:00001,4,"Zo kwam in meerdere onderzoeken naar opstanden in 
+Suriname, Berbice en Demerara-Essequibo de rol van seksueel geweld, jaloezie 
+en inmengingen in relaties van slaafgemaakte mannen en vrouwen door 
+directeuren centraal te staan, terwijl zulke intimiteiten normaal gesproken zelden 
+expliciet besproken werden. Er is voorzichtigheid geboden bij het gebruik van verslagen van rechtszaken 
+als bron. De processtukken die bewaard zijn in de archieven van koloniale 
+rechtbanken hadden een eenduidig doel: het vergaren van bewijs dat de 
+openbare aanklager tegen de verdachten kon gebruiken. Beklaagden met",kwam meerdere onderzoeken opstanden suriname berbice demerara essequibo rol seksueel geweld jaloezie inmengingen relaties slaafgemaakte mannen vrouwen directeuren centraal staan terwijl zulke intimiteiten normaal gesproken zelden expliciet besproken werden voorzichtigheid geboden verslagen rechtszaken bron processtukken bewaard archieven koloniale rechtbanken hadden eenduidig doel vergaren bewijs openbare aanklager verdachten gebruiken beklaagden,0.4700183599450271,0.5477011323736011,0.5159288488924421,0.5477011323736011,Historical Slavery,0.031772283481159014,kwam meerdere onderzoeken opstanden suriname berbice demerara essequibo rol seksueel geweld jaloezie inmengingen relaties slaafgemaakte mannen vrouwen directeuren centraal staan terwijl zulke intimiteiten normaal gesproken zelden expliciet besproken werden voorzichtigheid geboden verslagen rechtszaken bron processtukken bewaard archieven koloniale rechtbanken hadden eenduidig doel vergaren bewijs openbare aanklager verdachten gebruiken beklaagden,2,Modern Racism & Inequality,0.5052323,0.0067177797,0.48804998,0.5052323,0.01718229,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.355.txt,9d7911ad:00000,10,"— 355 —
+— VROEGE VORMING VAN SLAVERNIJ EN KOLONIALISME —
+­Antwerpen herbevestigd en Jehan Maria werd vrijgelaten. Nadat Jehan 
+Maria Wannemaquer vele jaren trouw gediend heeft, staat Wannemaquer 
+hem toe om als vrij man naar zijn geboorteland terug te keren. Deze ver­
+klaring werd allicht doelbewust in het Frans opgemaakt zodat Jehan 
+Maria zijn vrije status kon aantonen tijdens zijn reis.11
+De aanwezigheid van zwarte mensen in Antwerpen zorgde ook voor 
+een verandering in de beeldcultuur. De zwarte koning, Balthasar, krijgt 
+in het in de zestiende eeuw erg populaire tafereel van de Aanbidding der 
+Wijzen een steeds individueler gezicht, bijvoorbeeld in het werk van 
+Gerard David, Barend van Orley en Jan Gossaert. De beeldcultuur wijzigt 
+vanaf het begin van de zestiende eeuw, op het moment dat Antwerpen 
+erg aantrekkelijk wordt voor handelaars en ambachtslui uit Spanje en 
+­Portugal. Ook de doop van moren werd een thema, zoals in het schilderij 
+van Jan van der Elburcht, bestemd voor een altaar in de Antwerpse kathe­
+draal. Dit dooptafereel weerspiegelt de incompatibiliteit van christen zijn 
+en ­slavernij in de Antwerpse context. ◼ ◼◼  Continuïteiten met de Republiek
+Na de politieke en religieuze strubbelingen van de tweede helft van de 
+­zestiende eeuw en een Europese diaspora, vonden steeds meer Zuid-­
+Nederlandse kooplieden, die meestal een sterke band met Antwerpen 
+­hadden, een nieuwe basis in Amsterdam. De transitie van Antwerpen naar 
+Amsterdam als metropool voor de wereldhandel is goed bestudeerd vanuit 
+het perspectief van de kooplieden. De connecties van die kooplieden met 
+de slavenhandel en slavernij zijn nog niet goed onderzocht.",vroege vorming slavernij kolonialisme antwerpen herbevestigd jehan maria vrijgelaten nadat jehan maria wannemaquer vele trouw gediend staat wannemaquer toe vrij man geboorteland terug keren ver klaring allicht doelbewust frans opgemaakt zodat jehan maria vrije status aantonen reis aanwezigheid zwarte mensen antwerpen zorgde verandering beeldcultuur zwarte koning balthasar krijgt zestiende eeuw erg populaire tafereel aanbidding wijzen steeds individueler gezicht bijvoorbeeld werk gerard david barend orley jan gossaert beeldcultuur wijzigt vanaf begin zestiende eeuw moment antwerpen erg aantrekkelijk handelaars ambachtslui spanje portugal doop moren thema schilderij jan elburcht bestemd altaar antwerpse kathe draal dooptafereel weerspiegelt incompatibiliteit christen slavernij antwerpse context continuïteiten republiek politieke religieuze strubbelingen tweede helft zestiende eeuw europese diaspora vonden steeds zuid nederlandse kooplieden meestal sterke band antwerpen hadden nieuwe basis amsterdam transitie antwerpen amsterdam metropool wereldhandel goed bestudeerd vanuit perspectief kooplieden connecties kooplieden slavenhandel slavernij goed onderzocht,0.4787183454515216,0.48961930308998125,0.4657066045642433,0.48961930308998125,Historical Slavery,0.010900957638459663,vroege vorming slavernij kolonialisme antwerpen herbevestigd jehan maria vrijgelaten nadat jehan maria wannemaquer vele trouw gediend staat wannemaquer toe vrij man geboorteland terug keren ver klaring allicht doelbewust frans opgemaakt zodat jehan maria vrije status aantonen reis aanwezigheid zwarte mensen antwerpen zorgde verandering beeldcultuur zwarte koning balthasar krijgt zestiende eeuw erg populaire tafereel aanbidding wijzen steeds individueler gezicht bijvoorbeeld werk gerard david barend orley jan gossaert beeldcultuur wijzigt vanaf begin zestiende eeuw moment antwerpen erg aantrekkelijk handelaars ambachtslui spanje portugal doop moren thema schilderij jan elburcht bestemd altaar antwerpse kathe draal dooptafereel weerspiegelt incompatibiliteit christen slavernij antwerpse context continuïteiten republiek politieke religieuze strubbelingen tweede helft zestiende eeuw europese diaspora vonden steeds zuid nederlandse kooplieden meestal sterke band antwerpen hadden nieuwe basis amsterdam transitie antwerpen amsterdam metropool wereldhandel goed bestudeerd vanuit perspectief kooplieden connecties kooplieden slavenhandel slavernij goed onderzocht,2,Modern Racism & Inequality,0.3769238,0.37291527,0.25016096,0.3769238,0.0040085316,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.390.txt,c8c5c0b3:00001,5,"Bronnen over regelgeving en afspraken over welke christelijke 
+organisaties welke werkzaamheden, waar en voor welke groepen en tegen 
+welke vergoedingen mochten uitvoeren, kunnen aantonen hoe diep koloniale 
+overheid, missie en zending met elkaar waren verweven. Sommige archieven bevatten verslagen van reizen of expedities, notities over 
+taal en cultuur of over concreet gedrag van lokale bevolkingsgroepen; soms 
+vergezeld van antropologische foto’s. Ook kronieken, kerkboeken, officiële en 
+persoonlijke correspondentie en zendings- en missietijdschriften, blijken vaak 
+gedetailleerde informatie te bevatten over lokale bevolkingen en slaafgemaakten. Het gaat onder meer over specifieke gebruiken, taal, verwantschapsstructuren, 
+werkzaamheden, kleding, haardracht, lichaamsversieringen, geloofs­
+voorstellingen en opvattingen over leeftijd, seksualiteit en gender. De bronnen",bronnen regelgeving afspraken christelijke organisaties werkzaamheden waar groepen vergoedingen mochten uitvoeren aantonen diep koloniale overheid missie zending elkaar verweven sommige archieven bevatten verslagen reizen expedities notities taal cultuur concreet gedrag lokale bevolkingsgroepen soms vergezeld antropologische foto kronieken kerkboeken officiële persoonlijke correspondentie zendings missietijdschriften blijken vaak gedetailleerde informatie bevatten lokale bevolkingen slaafgemaakten gaat specifieke gebruiken taal verwantschapsstructuren werkzaamheden kleding haardracht lichaamsversieringen geloofs voorstellingen opvattingen leeftijd seksualiteit gender bronnen,0.4557173060624789,0.4504897312199463,0.3612839446339945,0.4557173060624789,Colonialism,0.005227574842532612,bronnen regelgeving afspraken christelijke organisaties werkzaamheden waar groepen vergoedingen mochten uitvoeren aantonen diep koloniale overheid missie zending elkaar verweven sommige archieven bevatten verslagen reizen expedities notities taal cultuur concreet gedrag lokale bevolkingsgroepen soms vergezeld antropologische foto kronieken kerkboeken officiële persoonlijke correspondentie zendings missietijdschriften blijken vaak gedetailleerde informatie bevatten lokale bevolkingen slaafgemaakten gaat specifieke gebruiken taal verwantschapsstructuren werkzaamheden kleding haardracht lichaamsversieringen geloofs voorstellingen opvattingen leeftijd seksualiteit gender bronnen,0,Colonialism,0.37698072,0.37698072,0.2704979,0.35252145,0.024459273,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.450.txt,3f46e62e:00005,10,"Joseph Siwpersad, De Nederlandse regering en de 
+afschaffing van de Surinaamse slavernij, 1833-1863 
+(Groningen 1979) 122. 5. M. Kuitenbrouwer, De Nederlandse afschaffing 
+van de slavernij in vergelijkend perspectief (1978) 
+96. 6. Collectie Baud, Nationaal Archief (na), inv. nr. 930, Brugmans aan Baud, 5 mei 1856. 7. Reggie Baay, ‘De stille afschaffing van de 
+slavernij in Nederlands-Indië,’ De slavernij in 
+Oost en West.",joseph siwpersad nederlandse regering afschaffing surinaamse slavernij groningen kuitenbrouwer nederlandse afschaffing slavernij vergelijkend perspectief collectie baud nationaal archief inv nr brugmans baud mei reggie baay stille afschaffing slavernij nederlands indië slavernij oost west,0.5215402106257213,0.5486534002358404,0.4161861506302867,0.5486534002358404,Historical Slavery,0.027113189610119104,joseph siwpersad nederlandse regering afschaffing surinaamse slavernij groningen kuitenbrouwer nederlandse afschaffing slavernij vergelijkend perspectief collectie baud nationaal archief inv nr brugmans baud mei reggie baay stille afschaffing slavernij nederlands indië slavernij oost west,1,Historical Slavery,0.50773525,0.4604268,0.50773525,0.031837896,0.047308445,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.451.txt,c0aee7eb:00006,10,"4. Oscar Gelderblom, Abe de Jong, en Joost 
+Jonker, ‘The Formative Years of the Modern 
+Corporation. The Dutch East India 
+Company voc, 1602-1623,’ The Journal of 
+Economic History 73:4 (2013) 1050-1076. 5. Henk den Heijer, De geschiedenis van de wic 
+(Zutphen 1994) 33. 6. Cátia Antunes, ‘From binary narratives to 
+diversified tales. Changing the paradigm in 
+the study of Dutch colonial participation,’ 
+Tijdschrift voor Geschiedenis 131:3 (2018) 393-407. 7. Ottho Keye, Het waere onderscheyt tusschen 
+koude en warme landen (Den Haag 1659)  
+148-149.",oscar gelderblom abe jong joost jonker formative years modern corporation henk den heijer geschiedenis wic zutphen cátia antunes binary narratives diversified tales ottho keye waere onderscheyt tusschen koude warme landen den haag,0.499962523426338,0.4150381871276602,0.4868929193643663,0.499962523426338,Colonialism,0.013069604061971718,oscar gelderblom abe jong joost jonker formative years modern corporation henk den heijer geschiedenis wic zutphen cátia antunes binary narratives diversified tales ottho keye waere onderscheyt tusschen koude warme landen den haag,2,Modern Racism & Inequality,0.50731486,0.46776643,0.02491871,0.50731486,0.039548427,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.464.txt,b59a53f0:00006,5,"Donnet, F., ‘Les Anversois aux Canaries, un 
+voyage mouvementé au xvie siècle,’ Bulletin de 
+la Société de Géographie d’Anvers 18-19 (1895-1896) 
+276-311, 202-365. Dorsey, Joseph C., Slave Traffic in the Age of 
+Abolition, Puerto Rico, West Africa and the Non-
+Hispanic Caribbean, 1815-1859 (2003). Drossaers, S.W.A. en Th.H. Lunsingh Scheurleer, 
+Inventarissen van de inboedels in de verblijven van",donnet f les anversois aux canaries un voyage mouvementé au xvie siècle bulletin la société géographie anvers drossaers w th h lunsingh scheurleer inventarissen inboedels verblijven,0.4700026955324216,0.47551231971674235,0.4005430016435739,0.47551231971674235,Historical Slavery,0.005509624184320772,donnet f les anversois aux canaries un voyage mouvementé au xvie siècle bulletin la société géographie anvers drossaers w th h lunsingh scheurleer inventarissen inboedels verblijven,0,Colonialism,0.44786403,0.44786403,0.14094807,0.41118786,0.03667617,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.466.txt,e5b440f0:00000,10,"— 466 —
+— STAAT EN SLAVERNIJ —
+hedendaagse uiting van de permanente 
+revolutie. Een standpunt,’ Bijdragen en 
+Mededelingen betreffende de Geschiedenis der 
+Nederlanden 129(4) (2014) 106-117. ◼ ◼◼  H
+Hägerdal, Hans, ‘Warfare, Bestowal, Purchase. Dutch Acquisition of Slaves in the World of 
+Easter Indonesia, 1650-1800,’ Slavery & Abolition 
+43, nr. 3 (2022) 553-573. Harris, Leslie M., In the Shadow of Slavery. African 
+Americans in New York City, 1626-1863 (Chicago 
+2003). Hart, M.C. ’t, The Making of a Bourgeois State. War, 
+Politics, and Finance during the Dutch Revolution 
+(Manchester 1993).",staat slavernij hedendaagse uiting permanente revolutie standpunt bijdragen mededelingen betreffende geschiedenis nederlanden h hägerdal hans warfare bestowal purchase african americans new york city chicago hart c making bourgeois state war politics finance dutch revolution manchester,0.5624263953570219,0.42583490106091954,0.5050411300496047,0.5624263953570219,Colonialism,0.057385265307417166,staat slavernij hedendaagse uiting permanente revolutie standpunt bijdragen mededelingen betreffende geschiedenis nederlanden h hägerdal hans warfare bestowal purchase african americans new york city chicago hart c making bourgeois state war politics finance dutch revolution manchester,0,Colonialism,0.5137277,0.5137277,0.0023603127,0.483912,0.029815733,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.469.txt,6c828483:00005,6,"Ponte, Mark, ‘Zwarte vrouwen in het midden 
+van de zeventiende eeuw,’ in: Maarten Hell 
+(red.), Amstelodamum. Alle Amsterdamse Akten. Ruzie, rouw en roddels bij de notaris, 1578-1915 
+(Amsterdam 2022) 130-143. Prakash, Om, ‘European Trading Companies and 
+Merchants of Bengal 1650-1725,’ Indian Economic 
+and Social History Review 1, 3 (1964) 37-63. Price, Richard en Sally Price, Two evenings in 
+Saramaka. (Chicago / Londen 1991)",ponte mark zwarte vrouwen midden zeventiende eeuw maarten hell red amstelodamum amsterdamse akten ruzie rouw roddels notaris amsterdam price richard sally price two evenings saramaka chicago londen,0.5204308735558411,0.4947683071629914,0.4675412504317996,0.5204308735558411,Colonialism,0.02566256639284964,ponte mark zwarte vrouwen midden zeventiende eeuw maarten hell red amstelodamum amsterdamse akten ruzie rouw roddels notaris amsterdam price richard sally price two evenings saramaka chicago londen,0,Colonialism,0.40394577,0.40394577,0.37149656,0.22455767,0.032449216,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.472.txt,f36b9966:00000,10,"— 472 —
+— STAAT EN SLAVERNIJ —
+World History 14, nr. 2 (2003). Vollenhoven, Cornelis van, De Indonesiër en zijn grond 
+(Leiden 1932). Voorhoeve, Jan en Ursy M. Lichtveld (red.), Suriname. Spiegel der vaderlandse kooplieden (Den Haag 1980). Vries, Jan de, The Price of Bread. Regulating the Market in 
+the Dutch Republic (Cambridge 2019). Vyent, Urwin, Gekocht & betaald. Wi bay, wi pay 
+(Amsterdam 2017).",staat slavernij world history nr vollenhoven cornelis indonesiër grond leiden voorhoeve jan ursy lichtveld red suriname spiegel vaderlandse kooplieden den haag vries jan price bread vyent urwin gekocht betaald wi bay wi pay amsterdam,0.4768308174492824,0.4945735859041064,0.345477362119913,0.4945735859041064,Historical Slavery,0.017742768454823976,staat slavernij world history nr vollenhoven cornelis indonesiër grond leiden voorhoeve jan ursy lichtveld red suriname spiegel vaderlandse kooplieden den haag vries jan price bread vyent urwin gekocht betaald wi bay wi pay amsterdam,1,Historical Slavery,0.5026855,0.47263315,0.5026855,0.024681332,0.030052334,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.5.txt,48646f13:00000,7,"Inhoudsopgave
+Het koloniale slavernijverleden en doorwerkingen: inleiding – Rose 
+Mary Allen, Esther Captain, Matthias van Rossum en Urwin Vyent 
+ 
+Deel 1
+Actuele vraagstukken
+ 
+1. De Nederlandse wetenschap en overheid over het 
+slavernijverleden en zijn doorwerkingen – Alex van Stipriaan
+2. Een misdaad tegen de menselijkheid: Nederlandse lokale politici 
+en burgemeesters – Nancy Jouwe
+Methode: Digital Humanities — Margo Groenewoud
+3. Het slavernijverleden in het Nederlandse onderwijs  
+– Tom van der Geugten
+4. Kolonialisme en slavernij in het onderwijs: de Nederlandse 
+Cariben en Indonesië – Luc Alofs, Edu Dumasy, Kenny Meyers en 
+Elviera Sandie
+Interviews: multiperspectiviteit in het publieke slavernijdebat  
+— Myrthe Kraaijenoord en Eva Thielen 
+5. Herdenkingen en doorwerkingen van de slavernij in Nederland  
+– Markus Balkenhol
+De Gouden Koets — Annemarie de Wildt
+6. Een perspectief op herstel en transformative justice – Nicole Immler
+Methode: orale geschiedenis — Rose Mary Allen
+11
+25
+39
+50
+53
+65
+72
+83
+92
+95
+106",inhoudsopgave koloniale slavernijverleden doorwerkingen rose mary allen esther captain matthias rossum urwin vyent actuele vraagstukken nederlandse wetenschap overheid slavernijverleden doorwerkingen alex stipriaan misdaad menselijkheid nederlandse lokale politici burgemeesters nancy jouwe methode digital humanities margo groenewoud slavernijverleden nederlandse onderwijs tom geugten kolonialisme slavernij onderwijs nederlandse cariben indonesië luc alofs edu dumasy kenny meyers elviera sandie interviews multiperspectiviteit publieke slavernijdebat myrthe kraaijenoord eva thielen herdenkingen doorwerkingen slavernij nederland markus balkenhol gouden koets annemarie wildt perspectief herstel transformative justice nicole immler methode orale geschiedenis rose mary allen,0.4722406906267986,0.46309025795225245,0.4048659544401004,0.4722406906267986,Colonialism,0.009150432674546127,inhoudsopgave koloniale slavernijverleden doorwerkingen rose mary allen esther captain matthias rossum urwin vyent actuele vraagstukken nederlandse wetenschap overheid slavernijverleden doorwerkingen alex stipriaan misdaad menselijkheid nederlandse lokale politici burgemeesters nancy jouwe methode digital humanities margo groenewoud slavernijverleden nederlandse onderwijs tom geugten kolonialisme slavernij onderwijs nederlandse cariben indonesië luc alofs edu dumasy kenny meyers elviera sandie interviews multiperspectiviteit publieke slavernijdebat myrthe kraaijenoord eva thielen herdenkingen doorwerkingen slavernij nederland markus balkenhol gouden koets annemarie wildt perspectief herstel transformative justice nicole immler methode orale geschiedenis rose mary allen,0,Colonialism,0.49143323,0.49143323,0.4734037,0.035163075,0.01802954,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.85.txt,ef465085:00001,5,"Op een vergelijkbare manier kwam er ook pas laat, 
+pakweg in de afgelopen tien jaar, meer aandacht voor het slavernijverle­
+den in Indonesië. De eersten die zich daar publiek over uitspraken werden 
+er door de nazaten van slaafgemaakte Afrikanen regelmatig nadrukkelijk 
+op gewezen dat dit volgens hen ‘niet over slavernij’ ging.6
+Kortom, aandacht voor het slavernijverleden is zeker niet onvermijde­
+lijk of eenduidig. Het is het resultaat van een politieke strijd waarbij veel 
+partijen betrokken zijn. De publieke aandacht voor het slavernijverleden 
+moet daarom in die context worden begrepen. ◼◼ ◼◼  De strijd om burgerschap
+Wayne Modest, cultuurwetenschapper en inhoudelijk directeur van 
+het Museum van Wereldculturen, schreef recentelijk dat de groeiende 
+populaireit van slavernijherdenkingen gezien moet worden als onderdeel 
+van een politiek momentum rond de laatste eeuwwisseling, ‘een periode 
+van intensivering van de discussie over het heden en de toekomst van 
+een ­verondersteld multiculturalisme’.7 In de jaren negentig is het",vergelijkbare manier kwam pas laat pakweg afgelopen tien aandacht slavernijverle den indonesië eersten publiek uitspraken werden nazaten slaafgemaakte afrikanen regelmatig nadrukkelijk gewezen volgens hen slavernij ging kortom aandacht slavernijverleden zeker onvermijde lijk eenduidig politieke strijd waarbij partijen betrokken publieke aandacht slavernijverleden daarom context begrepen strijd burgerschap wayne modest cultuurwetenschapper inhoudelijk directeur museum wereldculturen schreef recentelijk groeiende populaireit slavernijherdenkingen gezien politiek momentum rond laatste eeuwwisseling periode intensivering discussie heden toekomst verondersteld multiculturalisme negentig,0.4288894871997371,0.5045362255314748,0.46585851223547536,0.5045362255314748,Historical Slavery,0.03867771329599945,vergelijkbare manier kwam pas laat pakweg afgelopen tien aandacht slavernijverle den indonesië eersten publiek uitspraken werden nazaten slaafgemaakte afrikanen regelmatig nadrukkelijk gewezen volgens hen slavernij ging kortom aandacht slavernijverleden zeker onvermijde lijk eenduidig politieke strijd waarbij partijen betrokken publieke aandacht slavernijverleden daarom context begrepen strijd burgerschap wayne modest cultuurwetenschapper inhoudelijk directeur museum wereldculturen schreef recentelijk groeiende populaireit slavernijherdenkingen gezien politiek momentum rond laatste eeuwwisseling periode intensivering discussie heden toekomst verondersteld multiculturalisme negentig,1,Historical Slavery,0.5119881,0.0064443806,0.5119881,0.48156747,0.030420631,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.98.txt,f252c53a:00000,8,"— 98 —
+— STAAT EN SLAVERNIJ —
+de samenleving. Het Mapping Slavery-project, de Keti Koti-tafels en The 
+Black Archives zijn enkele initiatieven die aantonen hoe groot de behoefte 
+was om het slavernijverleden een prominente plek in de samenleving te 
+geven. Daarnaast investeerden ook steden en gemeenten in kennis, 
+bewustzijn, monumenten en excuses. Ook enkele bedrijven stelden onder­
+zoeken in naar hun slavernijverleden en betuigden hier spijt voor. Het 
+werd duidelijk dat het slavernijverleden in alle facetten van de Nederland­
+se samenleving aanwezig was en al deze initiatieven toonden een bereid­
+heid van Nederlanders om de nauwe banden tussen verleden en heden 
+en de verstrengelingen tussen allerlei partijen zichtbaarder te maken: in 
+plaats van ‘hun’ geschiedenis gingen we in toenemende mate spreken van 
+‘onze’ geschiedenis. Op 1 juli 2020 leek het debat tussen de regering en belangengroepen een 
+wending te nemen. Men was op zoek naar een nieuw narratief van waaruit 
+men kon bouwen aan een ‘gedeeld verleden’, aldus Linda Nooitmeer, 
+Een Keti Koti-tafel in de Schuttersgalerij van het Amsterdam Museum. Keti Koti-tafels worden georganiseerd als gedeeld herdenkingsritueel  
+waarbij herinneren, dialoog en helen centraal staan.",staat slavernij samenleving mapping slavery keti koti tafels black archives enkele initiatieven aantonen groot behoefte slavernijverleden prominente plek samenleving geven daarnaast investeerden steden gemeenten kennis bewustzijn monumenten excuses enkele bedrijven stelden zoeken slavernijverleden betuigden spijt duidelijk slavernijverleden facetten nederland se samenleving aanwezig initiatieven toonden bereid heid nederlanders nauwe banden verleden heden verstrengelingen allerlei partijen zichtbaarder maken plaats geschiedenis gingen toenemende mate spreken onze geschiedenis juli leek debat regering belangengroepen wending nemen zoek nieuw narratief waaruit bouwen gedeeld verleden aldus linda nooitmeer keti koti tafel schuttersgalerij amsterdam museum keti koti tafels georganiseerd gedeeld herdenkingsritueel waarbij herinneren dialoog helen centraal staan,0.4434738948556311,0.483097237540311,0.4000601185225251,0.483097237540311,Historical Slavery,0.039623342684679874,staat slavernij samenleving mapping slavery keti koti tafels black archives enkele initiatieven aantonen groot behoefte slavernijverleden prominente plek samenleving geven daarnaast investeerden steden gemeenten kennis bewustzijn monumenten excuses enkele bedrijven stelden zoeken slavernijverleden betuigden spijt duidelijk slavernijverleden facetten nederland se samenleving aanwezig initiatieven toonden bereid heid nederlanders nauwe banden verleden heden verstrengelingen allerlei partijen zichtbaarder maken plaats geschiedenis gingen toenemende mate spreken onze geschiedenis juli leek debat regering belangengroepen wending nemen zoek nieuw narratief waaruit bouwen gedeeld verleden aldus linda nooitmeer keti koti tafel schuttersgalerij amsterdam museum keti koti tafels georganiseerd gedeeld herdenkingsritueel waarbij herinneren dialoog helen centraal staan,2,Modern Racism & Inequality,0.5106575,0.026949279,0.46239328,0.5106575,0.048264205,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Amsterdam en het slavernijverleden.63.txt,7baa3924:00001,6,"Een aantal van die 
+burgemeesters had zelf belangen in Berbice. Verhalen over de koloniën
+Het was niet zo dat de Amsterdamse 
+bevolking niets wist van wat zich afspeelde 
+in de koloniën. Duizenden gewone 
+Amsterdammers staken jaar na jaar de 
+oceanen over als matrozen. Zij zagen zo 
+dus veel van de wereld. Mensen praatten 
+met elkaar in de kroegen aan de kade, 
+vertelden sterke verhalen, lazen goedkope 
+nieuwsboekjes over veroveringen aan de 
+andere kant van de wereld en konden met 
+hun eigen ogen de exotische producten 
+zien die op de kades opgestapeld lagen. 63
+Een grote 
+opstand in 
+Berbice in 
+1763 werd 
+mede door 
+de inzet van 
+Amsterdamse 
+burgemeesters 
+bloedig 
+onderdrukt.",burgemeesters belangen berbice verhalen koloniën amsterdamse bevolking wist afspeelde koloniën duizenden gewone amsterdammers staken oceanen matrozen zagen wereld mensen praatten elkaar kroegen kade vertelden sterke verhalen lazen goedkope nieuwsboekjes veroveringen kant wereld konden eigen ogen exotische producten zien kades opgestapeld lagen grote opstand berbice mede inzet amsterdamse burgemeesters bloedig onderdrukt,0.5228236991204788,0.49318682754299076,0.43014665267068786,0.5228236991204788,Colonialism,0.02963687157748801,burgemeesters belangen berbice verhalen koloniën amsterdamse bevolking wist afspeelde koloniën duizenden gewone amsterdammers staken oceanen matrozen zagen wereld mensen praatten elkaar kroegen kade vertelden sterke verhalen lazen goedkope nieuwsboekjes veroveringen kant wereld konden eigen ogen exotische producten zien kades opgestapeld lagen grote opstand berbice mede inzet amsterdamse burgemeesters bloedig onderdrukt,1,Historical Slavery,0.4172912,0.3703868,0.4172912,0.21232198,0.046904385,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Amsterdam en het slavernijverleden.91.txt,412e7dfb:00001,3,"91
+Lange tijd 
+werd het  
+koloniale en 
+slavernij- 
+verleden van 
+Nederland 
+weggemoffeld. Herdenking van Keti Koti met twee 
+Surinaamse matrozen, op 1 juli 1948 
+op het Frederiksplein. KERKHOFF EN SCHERER, 1948 | 
+RIJKSMUSEUM",lange tijd koloniale slavernij verleden nederland weggemoffeld herdenking keti koti twee surinaamse matrozen juli frederiksplein kerkhoff scherer rijksmuseum,0.5470474457307922,0.5544430587837638,0.4025687502470323,0.5544430587837638,Historical Slavery,0.007395613052971539,lange tijd koloniale slavernij verleden nederland weggemoffeld herdenking keti koti twee surinaamse matrozen juli frederiksplein kerkhoff scherer rijksmuseum,1,Historical Slavery,0.49780244,0.49447158,0.49780244,0.0077260607,0.0033308566,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.181.txt,c47cff48:00000,6,"‘DE KINDEREN DER HEYDENEN’ 
+181
+Gijsbert Voetius. Christiaan van Geelen jr. c. 1820 (Museum Catharijneconvent)
+Johannes van Hoornbeeck. Anoniem, c. 1654 (Het Utrechts Archief)",kinderen heydenen gijsbert voetius christiaan geelen jr c museum catharijneconvent johannes hoornbeeck anoniem c utrechts archief,0.4277814518502222,0.4264786239496359,0.3162514585985525,0.4277814518502222,Colonialism,0.0013028279005862786,kinderen heydenen gijsbert voetius christiaan geelen jr c museum catharijneconvent johannes hoornbeeck anoniem c utrechts archief,1,Historical Slavery,0.47285113,0.45767617,0.47285113,0.06947262,0.015174955,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.190.txt,18709897:00000,9,"190 
+ANS VELTMAN-VAN DEN BOS
+klimaten. Een afkeer van de slavernĳ ging in het geval van Petronella 
+Moens, zoals bĳ wel meer critici van dat systeem het geval was, dus 
+niet vergezeld van een geloof in absolute gelĳkheid. Haar opvatting 
+legde ze als volgt uit:
+‘Het onderscheid in vermogens vloeit slechts voort uit de meer of 
+mindere oefening en beschaving; alle mensen ontvingen van de enige 
+Vader der natuur de schoonste vatbaarheid voor zelfsvervolmaking.’11
+Moens onderschreef het typische verlichtingsgeloof dat mensen in 
+oorsprong gelĳk waren, maar dat zich door opvoeding en klimaat in 
+de praktĳk verschillen hadden ontwikkeld.12
+Laatste jaren in Utrecht
+Petronella Moens was haar leven lang financieel en fysiek afhankelĳk 
+van haar huisgenoten. Ze woonde een groot deel van haar leven in 
+bĳ haar geliefde zuster Adriana en verhuisde in de loop der jaren met 
+haar gezin mee naar Dordrecht, Utrecht en Den Haag. Na de dood van 
+Adriana in 1818 en de overplaatsing van haar zwager Balthasar Koopman 
+naar Antwerpen in 1821, besloot Petronella Moens zich in Utrecht te 
+vestigen, waar zĳ veel vrienden en kennissen had. Ze voelde zich thuis 
+in het tolerante klimaat van de domstad en woonde er achtereenvolgens 
+op de Oudegracht, het Oude Kerkhof en op de Nieuwegracht, waar een 
+dienstbode en haar ‘schrĳfjuffrouw’ Antje Camphuis haar huisgenoten 
+waren.13
+Erg breed had Moens het als broodschrĳfster overigens niet. In haar 
+jonge jaren werd ze financieel ondersteund door haar familie, maar door 
+de in 1810 door Napoleon opgelegde renteverlaging, die staatsobligaties 
+minder waard maakte, daalde de waarde van Moens’ pandbrieven 
+tot slechts een derde van de oorspronkelĳke waarde. In 1835 richtten 
+haar latere biografen, Warnsinck en Decker Zimmerman, een adres 
+tot de koning om een gratificatie voor hun vriendin te verwerven. Het resulteerde in de toezegging dat Moens jaarlĳks een bĳdrage van 
+tweehonderd gulden uit de nationale schatkist zou krĳgen.14
+Haar uitgebreide correspondentie laat zien dat Petronella Moens 
+een grote en belangrĳke vriendenkring bezat van uitgevers, dominees, 
+schrĳvers en kunstenaars.15 Petronella Moens was het middelpunt van",ans veltman den bos klimaten afkeer slavernĳ ging geval petronella moens bĳ critici systeem geval vergezeld geloof absolute gelĳkheid opvatting legde volgt onderscheid vermogens vloeit slechts voort mindere oefening beschaving mensen ontvingen enige vader natuur schoonste vatbaarheid zelfsvervolmaking moens onderschreef typische verlichtingsgeloof mensen oorsprong gelĳk opvoeding klimaat praktĳk verschillen hadden ontwikkeld laatste utrecht petronella moens leven lang financieel fysiek afhankelĳk huisgenoten woonde groot leven bĳ geliefde zuster adriana verhuisde loop gezin mee dordrecht utrecht den haag dood adriana overplaatsing zwager balthasar koopman antwerpen besloot petronella moens utrecht vestigen waar zĳ vrienden kennissen voelde thuis tolerante klimaat domstad woonde achtereenvolgens oudegracht oude kerkhof nieuwegracht waar dienstbode schrĳfjuffrouw antje camphuis huisgenoten erg breed moens broodschrĳfster overigens jonge financieel ondersteund familie napoleon opgelegde renteverlaging staatsobligaties waard maakte daalde waarde moens pandbrieven slechts derde oorspronkelĳke waarde richtten latere biografen warnsinck decker zimmerman adres koning gratificatie vriendin verwerven resulteerde toezegging moens jaarlĳks bĳdrage tweehonderd gulden nationale schatkist krĳgen uitgebreide correspondentie laat zien petronella moens grote belangrĳke vriendenkring bezat uitgevers dominees schrĳvers kunstenaars petronella moens middelpunt,0.5146325989718032,0.5010483261674181,0.4775934862327159,0.5146325989718032,Colonialism,0.013584272804385122,ans veltman den bos klimaten afkeer slavernĳ ging geval petronella moens bĳ critici systeem geval vergezeld geloof absolute gelĳkheid opvatting legde volgt onderscheid vermogens vloeit slechts voort mindere oefening beschaving mensen ontvingen enige vader natuur schoonste vatbaarheid zelfsvervolmaking moens onderschreef typische verlichtingsgeloof mensen oorsprong gelĳk opvoeding klimaat praktĳk verschillen hadden ontwikkeld laatste utrecht petronella moens leven lang financieel fysiek afhankelĳk huisgenoten woonde groot leven bĳ geliefde zuster adriana verhuisde loop gezin mee dordrecht utrecht den haag dood adriana overplaatsing zwager balthasar koopman antwerpen besloot petronella moens utrecht vestigen waar zĳ vrienden kennissen voelde thuis tolerante klimaat domstad woonde achtereenvolgens oudegracht oude kerkhof nieuwegracht waar dienstbode schrĳfjuffrouw antje camphuis huisgenoten erg breed moens broodschrĳfster overigens jonge financieel ondersteund familie napoleon opgelegde renteverlaging staatsobligaties waard maakte daalde waarde moens pandbrieven slechts derde oorspronkelĳke waarde richtten latere biografen warnsinck decker zimmerman adres koning gratificatie vriendin verwerven resulteerde toezegging moens jaarlĳks bĳdrage tweehonderd gulden nationale schatkist krĳgen uitgebreide correspondentie laat zien petronella moens grote belangrĳke vriendenkring bezat uitgevers dominees schrĳvers kunstenaars petronella moens middelpunt,1,Historical Slavery,0.4627972,0.42940578,0.4627972,0.10779702,0.033391416,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.208.txt,f5f21658:00001,7,"Tollens genoot 
+in de jaren 1830 een reputatie als grootste vaderlandse volksdichter. Hĳ 
+had Wien Neêrlands Bloed geschreven, dat tot volkslied werd verkozen 
+in 1816. Het lied was een reactie op de Franse bezetting van Nederland, 
+die van 1795 tot 1813 duurde. Vooral de zinsnede ‘van vreemde smetten 
+vrĳ’ werd ook toen al sterk bekritiseerd.19 Op woensdag 27 april 1836 
+bracht Beets een bezoek aan Tollens. Beets vermeldde in zĳn dagboek 
+dat het gesprek een aangename indruk op hem maakte.20 Het is vrĳwel 
+onmogelĳk dat Beets de dichtbundel van Tollens, Liedjes van Matthias 
+Claudius (1824), niet in handen heeft gehad. Deze bundel bevat verta-
+lingen van gedichten van Matthias Claudius (1740-1815), die in 1774 in 
+het Duits waren gepubliceerd.21 Eén bĳzonder gedicht kan mogelĳk een 
+abolitionistisch zaadje in het hoofd van de jonge student Beets gepland 
+hebben: ‘De Neger in de Suikerplantaadje’.22
+Beets was bevriend met de Haarlemse uitgever A.C. Kruseman, die 
+een aantal boeken van hem uitgaf.23 Kruseman was in 1853 ook de 
+uitgever van de eerste Nederlandse vertaling van de roman Uncle Tom’s 
+Cabin (1852) van de Amerikaanse Harriet Beecher Stowe.24 De Negerhut 
+was ook in Nederland een doorslaand succes en werd in grote oplagen",tollens genoot reputatie grootste vaderlandse volksdichter hĳ wien neêrlands bloed geschreven volkslied verkozen lied reactie franse bezetting nederland duurde vooral zinsnede vreemde smetten vrĳ sterk bekritiseerd woensdag april bracht beets bezoek tollens beets vermeldde zĳn dagboek gesprek aangename indruk maakte vrĳwel onmogelĳk beets dichtbundel tollens liedjes matthias claudius handen gehad bundel bevat verta lingen gedichten matthias claudius duits gepubliceerd eén bĳzonder gedicht mogelĳk abolitionistisch zaadje hoofd jonge student beets gepland neger suikerplantaadje beets bevriend haarlemse uitgever c kruseman boeken uitgaf kruseman uitgever eerste nederlandse vertaling roman uncle tom cabin amerikaanse harriet beecher stowe negerhut nederland doorslaand succes grote oplagen,0.49850390327731536,0.4965920825500091,0.437278277587506,0.49850390327731536,Colonialism,0.0019118207273062793,tollens genoot reputatie grootste vaderlandse volksdichter hĳ wien neêrlands bloed geschreven volkslied verkozen lied reactie franse bezetting nederland duurde vooral zinsnede vreemde smetten vrĳ sterk bekritiseerd woensdag april bracht beets bezoek tollens beets vermeldde zĳn dagboek gesprek aangename indruk maakte vrĳwel onmogelĳk beets dichtbundel tollens liedjes matthias claudius handen gehad bundel bevat verta lingen gedichten matthias claudius duits gepubliceerd eén bĳzonder gedicht mogelĳk abolitionistisch zaadje hoofd jonge student beets gepland neger suikerplantaadje beets bevriend haarlemse uitgever c kruseman boeken uitgaf kruseman uitgever eerste nederlandse vertaling roman uncle tom cabin amerikaanse harriet beecher stowe negerhut nederland doorslaand succes grote oplagen,2,Modern Racism & Inequality,0.39634418,0.30364823,0.3000076,0.39634418,0.09269595,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.226.txt,3af3454b:00000,10,"226 
+NANCY JOUWE
+kregen een prominente positie van schoolmeesters en predikanten. Pieters grootvader was chirurgĳn, zĳn vader predikant. Pieter doorliep 
+als tiener een tĳd het seminarie in Colombo, waarna hĳ, net als zĳn 
+vader, naar Utrecht kwam om theologie te studeren. Ondaatje woonde 
+er aan de Lange Nieuwstraat 18. Een plaquette op het pand vormt een 
+korte verwĳzing naar zĳn verblĳf. De patriottenbeweging liet in Utrecht voor het eerst van zich horen 
+via een pamflet in 1781 en via het populaire tĳdschrift De post van den 
+Neder-Rhyn, waarna de groep steeds meer tot politieke actie overging. Dit werd getriggerd door het machtsmisbruik van het vroedschapslid 
+Willem Nicolaas Pesters, die al lange tĳd de lakens uitdeelde in Utrecht 
+uit naam van de stadhouder. Een van Pesters bĳnamen was de Stichtse 
+Sinterklaas (maar zĳn eigen achternaam was eigenlĳk al goed genoeg). Vroedschapsleden werden door de stadhouder (en dus Pesters) of door 
+de leden zelf aangewezen. De patriottenbeweging had een concept-
+reglement opgesteld (mede geschreven door Ondaatje) met een nieuwe, 
+meer democratische bestuursinrichting.",nancy jouwe kregen prominente positie schoolmeesters predikanten pieters grootvader chirurgĳn zĳn vader predikant pieter doorliep tiener tĳd seminarie colombo waarna hĳ net zĳn vader utrecht kwam theologie studeren ondaatje woonde lange nieuwstraat plaquette pand vormt korte verwĳzing zĳn verblĳf patriottenbeweging liet utrecht eerst horen via pamflet via populaire tĳdschrift post den neder rhyn waarna steeds politieke actie overging getriggerd machtsmisbruik vroedschapslid willem nicolaas pesters lange tĳd lakens uitdeelde utrecht naam stadhouder pesters bĳnamen stichtse sinterklaas zĳn eigen achternaam eigenlĳk goed genoeg vroedschapsleden werden stadhouder pesters leden aangewezen patriottenbeweging concept reglement opgesteld mede geschreven ondaatje nieuwe democratische bestuursinrichting,0.48478614887751625,0.38575125395671234,0.4352665519801053,0.48478614887751625,Colonialism,0.04951959689741098,nancy jouwe kregen prominente positie schoolmeesters predikanten pieters grootvader chirurgĳn zĳn vader predikant pieter doorliep tiener tĳd seminarie colombo waarna hĳ net zĳn vader utrecht kwam theologie studeren ondaatje woonde lange nieuwstraat plaquette pand vormt korte verwĳzing zĳn verblĳf patriottenbeweging liet utrecht eerst horen via pamflet via populaire tĳdschrift post den neder rhyn waarna steeds politieke actie overging getriggerd machtsmisbruik vroedschapslid willem nicolaas pesters lange tĳd lakens uitdeelde utrecht naam stadhouder pesters bĳnamen stichtse sinterklaas zĳn eigen achternaam eigenlĳk goed genoeg vroedschapsleden werden stadhouder pesters leden aangewezen patriottenbeweging concept reglement opgesteld mede geschreven ondaatje nieuwe democratische bestuursinrichting,0,Colonialism,0.5098994,0.5098994,0.004983584,0.48511708,0.0247823,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.237.txt,e1e8a93e:00000,8,"EEN AANEENRIJGING VAN PERSOONLIJKE ARCHIEVEN 
+237
+8-film, dus leek het hem passend om ze aan mĳ te geven. Ik hield ze 
+tegen het licht en kon niet meteen uitmaken wat er allemaal op stond. Hĳ wist ook niet meer precies wat erop te vinden zou zĳn. Eenmaal 
+terug in Nederland liet ik het inscannen bĳ Onno Petersen – hĳ heeft 
+een hierin gespecialiseerd bedrĳf in Amsterdam – en werd duidelĳk 
+wat voor een schat mĳn oom mĳ had overhandigd. Niet alleen waren 
+het Super 8-films waarin het alledaagse leven van Zwarte mensen in de 
+jaren tachtig in Nederland werd getoond, er zat ook geluid bĳ.5
+In de beelden die Petersen en ik te zien kregen, waren de eerste jaren 
+van mĳn neef en nichtje te zien. We zagen en hoorden verbazing over 
+sneeuw en een trip die mĳn oom met zĳn studie ondernam naar het 
+Middelheim-beeldenpark in Antwerpen. De filmbeelden toonden zĳn 
+atelier op de academie en zĳn kunstwerken, waarover hĳ steevast te 
+horen kreeg dat men het niet begreep. Carnaval en verzet
+Een van de dingen die Rudsel Martinus filmde, was het Antilliaans 
+ Carnaval dat op 6 augustus 1983 voor de tweede en laatste keer werd 
+Rudsel Martinus, de oom van Quinsy Gario, tijdens het Antilliaans Carnaval in Utrecht, 1983 
+(still uit ﬁlm van Rudsel Martinus)",aaneenrijging persoonlijke archieven film leek passend mĳ geven hield licht meteen uitmaken allemaal stond hĳ wist precies erop vinden zĳn eenmaal terug nederland liet inscannen bĳ onno petersen hĳ hierin gespecialiseerd bedrĳf amsterdam duidelĳk schat mĳn oom mĳ overhandigd alleen super films waarin alledaagse leven zwarte mensen tachtig nederland getoond zat geluid bĳ beelden petersen zien kregen eerste mĳn neef nichtje zien zagen hoorden verbazing sneeuw trip mĳn oom zĳn studie ondernam middelheim beeldenpark antwerpen filmbeelden toonden zĳn atelier academie zĳn kunstwerken waarover hĳ steevast horen kreeg begreep carnaval verzet dingen rudsel martinus filmde antilliaans carnaval augustus tweede laatste keer rudsel martinus oom quinsy gario antilliaans carnaval utrecht still ﬁlm rudsel martinus,0.46493698672373546,0.49436738171095956,0.4402125324379039,0.49436738171095956,Historical Slavery,0.029430394987224107,aaneenrijging persoonlijke archieven film leek passend mĳ geven hield licht meteen uitmaken allemaal stond hĳ wist precies erop vinden zĳn eenmaal terug nederland liet inscannen bĳ onno petersen hĳ hierin gespecialiseerd bedrĳf amsterdam duidelĳk schat mĳn oom mĳ overhandigd alleen super films waarin alledaagse leven zwarte mensen tachtig nederland getoond zat geluid bĳ beelden petersen zien kregen eerste mĳn neef nichtje zien zagen hoorden verbazing sneeuw trip mĳn oom zĳn studie ondernam middelheim beeldenpark antwerpen filmbeelden toonden zĳn atelier academie zĳn kunstwerken waarover hĳ steevast horen kreeg begreep carnaval verzet dingen rudsel martinus filmde antilliaans carnaval augustus tweede laatste keer rudsel martinus oom quinsy gario antilliaans carnaval utrecht still ﬁlm rudsel martinus,2,Modern Racism & Inequality,0.48518124,0.041506577,0.47331217,0.48518124,0.011869073,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.281.txt,8be5dd05:00004,5,"3. Gelderblom en Jonker, ‘Mirroring Different Follies’, 125. 4. Ibidem, 126; Abe de Jong, Joost Jonker en Ailsa Röell, ‘De ontwikkeling 
+van de naamloze vennootschap in Nederland tot 1850. Een bedrĳfseco-
+nomisch perspectief’, Maandblad voor Accountacy en Bedrĳfseconomie 
+87 (2013), 217-232, aldaar 225.",gelderblom jonker mirroring different follies ibidem abe jong joost jonker ailsa röell ontwikkeling naamloze vennootschap nederland bedrĳfseco nomisch perspectief maandblad accountacy bedrĳfseconomie aldaar,0.5268868200041061,0.5124114575401841,0.3928873567883043,0.5268868200041061,Colonialism,0.014475362463922004,gelderblom jonker mirroring different follies ibidem abe jong joost jonker ailsa röell ontwikkeling naamloze vennootschap nederland bedrĳfseco nomisch perspectief maandblad accountacy bedrĳfseconomie aldaar,1,Historical Slavery,0.49585527,0.48228776,0.49585527,0.021856982,0.013567507,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.293.txt,78cb59fd:00002,10,"A Discussion of his Position in Dutch Art 
+(Den Haag: Martinus Nĳhoff, 1959), 193-194. 28. C.J. Nagtglas, Utrecht tussen Pruis en Fransoos: uit de papieren van tĳdge-
+noot C.J. Nagtglas, aangevuld door F. Nagtglas, opnieuw uitgegeven met 
+aantekeningen door dr. A. Van Hulzen (Utrecht: Uitgeverĳ Váva, 1975), 
+35. 29. Burger Officiers Boekje, Inhoudende de Naamen der E.",discussion position dutch art den haag martinus nĳhoff c j nagtglas utrecht pruis fransoos papieren tĳdge noot c j nagtglas aangevuld f nagtglas opnieuw uitgegeven aantekeningen dr hulzen utrecht uitgeverĳ váva burger officiers boekje inhoudende naamen e,0.4817143649975668,0.48423442368448655,0.45644388239277733,0.48423442368448655,Historical Slavery,0.002520058686919735,discussion position dutch art den haag martinus nĳhoff c j nagtglas utrecht pruis fransoos papieren tĳdge noot c j nagtglas aangevuld f nagtglas opnieuw uitgegeven aantekeningen dr hulzen utrecht uitgeverĳ váva burger officiers boekje inhoudende naamen e,1,Historical Slavery,0.39433607,0.23405048,0.39433607,0.37161344,0.022722632,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.303.txt,7ab11aaf:00000,10,"NOTEN 
+303
+14. W.H. Warnsinck Bz. en J. Decker Zimmerman, Petronella Moens (Am-
+sterdam: 1843), 110. 15. Het album, in 2009 uitgegeven onder de titel Par Amitié, in bezit van de 
+Koninklĳke Bibliotheek, is online te bekĳken: https://www.kb.nl/the-
+ma/vriendenboeken/alba-amicorum-van-vrouwen/album-amicorum-
+petronella-moens. 16. Ans J. Veltman-van den Bos, Petronella Moens (1762-1843), de vriendin 
+van ’t vaderland (Nĳmegen: Van Tilt, 2000), 476.",noten w h warnsinck bz j decker zimmerman petronella moens sterdam album uitgegeven titel par amitié bezit koninklĳke bibliotheek online bekĳken https www kb nl vriendenboeken alba amicorum vrouwen album amicorum petronella moens ans j veltman den bos petronella moens vriendin vaderland nĳmegen tilt,0.48751804626433365,0.4927288240509663,0.4145208224210076,0.4927288240509663,Historical Slavery,0.005210777786632648,noten w h warnsinck bz j decker zimmerman petronella moens sterdam album uitgegeven titel par amitié bezit koninklĳke bibliotheek online bekĳken https www kb nl vriendenboeken alba amicorum vrouwen album amicorum petronella moens ans j veltman den bos petronella moens vriendin vaderland nĳmegen tilt,2,Modern Racism & Inequality,0.39878488,0.29787117,0.30334395,0.39878488,0.095440924,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.104.txt,ac250246:00001,7,"85 Gerechtshof Den Haag 1 oktober 2019, ECLI:NL:GHDHA:2019:2524, rov. 15.4 en 16. 86 ‘Procès pour les réparations: les associations décidées à actionner tous les leviers juridiques’, Franceinfo 
+(online), 9 november 2020, zie https://la1ere.francetvinfo.fr/guadeloupe/proces-pour-les-reparations-les-
+associations-decidees-a-actionner-tous-les-leviers-juridiques-891064.html; Grégoire Sauvage, ‘How Black Lives 
+Matter put slave reparations back on the agenda’, France24 (online), 18 april 2021. 87 Cour d'appel de Basse-Terre, 18 janvier 2021, 18/007981, zie 
+https://www.legifrance.gouv.fr/juri/id/JURITEXT000043087539?isAdvancedResult=&page=2&pageSize=10&qu
+ery=Loi+n%C2%B0+2001-
+434+du+21+mai+2001+tendant+%C3%A0+la+reconnaissance+de+la+traite+et+de+l%27esclavage+en+tant+que
++crime+contre+l%27humanit%C3%A9&searchField=ALL&searchProximity=&searchType=ALL&tab_selection=all
+&typePagination=DEFAULT. 88 Cour de cassation, civile, Chambre civile 1, 17 avril 2019, 18-13.894, zie 
+https://www.legifrance.gouv.fr/juri/id/JURITEXT000038440329; zie over de totstandkoming ook Croucher en 
+Michel 2014, p. 101. bijlage 4A",gerechtshof den haag oktober ecli nl ghdha rov procès pour les réparations les associations décidées à actionner tous les leviers juridiques franceinfo online november zie https la1ere francetvinfo fr guadeloupe proces pour les reparations les associations decidees actionner tous les leviers juridiques html grégoire sauvage black lives matter put slave reparations back agenda france24 online april cour appel basse terre janvier zie https www legifrance gouv fr juri id juritext000043087539 isadvancedresult page pagesize qu ery loi n c2 b0 du mai tendant c3 a0 la reconnaissance la traite et l 27esclavage tant que crime contre l 27humanit c3 a9 searchfield searchproximity searchtype tab_selection typepagination default cour cassation civile chambre civile avril zie https www legifrance gouv fr juri id juritext000038440329 zie totstandkoming croucher michel p 4a,0.4354300756501876,0.386821268119704,0.39133949981966615,0.4354300756501876,Colonialism,0.04409057583052145,gerechtshof den haag oktober ecli nl ghdha rov procès pour les réparations les associations décidées à actionner tous les leviers juridiques franceinfo online november zie https la1ere francetvinfo fr guadeloupe proces pour les reparations les associations decidees actionner tous les leviers juridiques html grégoire sauvage black lives matter put slave reparations back agenda france24 online april cour appel basse terre janvier zie https www legifrance gouv fr juri id juritext000043087539 isadvancedresult page pagesize qu ery loi n c2 b0 du mai tendant c3 a0 la reconnaissance la traite et l 27esclavage tant que crime contre l 27humanit c3 a9 searchfield searchproximity searchtype tab_selection typepagination default cour cassation civile chambre civile avril zie https www legifrance gouv fr juri id juritext000038440329 zie totstandkoming croucher michel p 4a,0,Colonialism,0.5112924,0.5112924,0.019179646,0.469528,0.04176441,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.146.txt,49db44ac:00001,8,"However, 
+a declaratory non-punitive memory law with a clearly self-inculpatory nature is unlikely to be 
+found disproportionate, should an individual complaint emerge at the ECtHR against the 
+Netherlands. 154 For a rich account of numerous examples on this, see Nikolay Koposov, Memory Laws, Memory Wars: The 
+Politics of the Past in Europe and Russia, Cambridge University Press, 2017; Uladzislau Belavusau & Aleksandra 
+Gliszczyńska-Grabias, Law and Memory: Towards Legal Governance of History, Cambridge University Press, 
+2017. 1-26. George Soroka and Félix Krawatzek, Nationalism, Democracy, and Memory Laws, Journal of 
+Democracy, 30, 2, 2019. 157–71. 155 Regarding the ethics of justice in the context of memory governance, see Christopher Piranio & Edward 
+Kartenian, Memory, Justice and the Court: on the Dimensions of Memory-Justice under the Rome Statute, 
+Cambridge Review of International Affairs, 24, 3, 2011. 425-447; Antoon de Baets, Responsible History, 
+Berghahn, 2008. bijlage 4b",antoon baets responsible history berghahn 4b,0.5443954269887866,0.5521384650132519,0.5379593719164109,0.5521384650132519,Historical Slavery,0.0077430380244652985,antoon baets responsible history berghahn 4b,2,Modern Racism & Inequality,0.4355938,0.17453298,0.38987327,0.4355938,0.045720547,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.154.txt,ddfcfb55:00002,4,"‘Vrije’ 
+slaven. Een sociaal-historische studie over de dualistische slavenemancipatie op Nederlands Sint Maarten, 
+1816-1863. Zutphen, Netherlands: De Walburg Pers. bijlage 4c",vrije slaven sociaal historische studie dualistische slavenemancipatie nederlands sint maarten zutphen netherlands walburg pers 4c,0.5893634395690175,0.6020655384401545,0.555013385406263,0.6020655384401545,Historical Slavery,0.012702098871137046,vrije slaven sociaal historische studie dualistische slavenemancipatie nederlands sint maarten zutphen netherlands walburg pers 4c,2,Modern Racism & Inequality,0.5095187,0.48128107,0.0092002265,0.5095187,0.028237611,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.165.txt,20641f7e:00000,10,"17 
+debet aan het gevoel dat het slavernijverleden wordt weggestopt is de massale opkomst van 
+enkele sterk nationalistische politieke partijen, die er geen woord aan willen vuilmaken, die 
+aandacht voor het koloniale en slavernijverleden van Nederland linkse onderwerpen vinden en 
+uitingen van een in hun ogen verwerpelijk soort weg-met-ons denken.65  
+De vraag is dus hoe die paradox kan worden verklaard tussen enerzijds veel ontwikkelingen 
+en activiteiten en anderzijds het gevoel dat er niets verandert en het slavernijverleden wordt 
+weggestopt. Kennisniveau van het slavernijverleden 
+ 
+Bovenstaande paradox geeft in ieder geval aan –en meerdere onderzoeken bevestigen dat66– 
+dat er een grote kloof is tussen het onderzoek en het grote publiek, dus dat er nog een hele 
+grote slag gemaakt moet worden in de ‘vertaling’ en verspreiding van alle onderzoek naar de 
+rest van de samenleving. Ook is duidelijk dat de inhoud, kwaliteit en kwantiteit van datgene 
+dat op dit gebied wel al gebeurt, zoals in de geschiedenismethoden en de lessen op school, 
+nog enorm kan worden verbeterd. En dat geldt ook voor bijvoorbeeld de pabo’s. In een van de 
+onderzoeken vertelde een pabo docent dat de aandacht voor het slavernijverleden marginaal 
+was, niet meer dan één les. Maar daarbij moet wel worden bedacht dat die pabo-studenten in 
+totaal maar veertien lessen geschiedenis krijgen. Dan kun je wel heel erg weinig en is 
+geschiedenis in zijn totaliteit een bedroevend ondergeschoven kindje. Bij de hbo 
+lerarenopleiding is dat wel wat positiever, maar niet gekwantificeerd. Wel wordt in het meest 
+recente onderzoek (Van der Wel et al 2019) omschreven wat ze daar in ieder geval moeten 
+weten: 
+• Wat is de trans-Atlantische slavenhandel; 
+• Wat is de oorsprong daarvan; 
+• Wat is de omvang ervan; 
+• Wat zijn de gevolgen, onder meer voor de mensen die tot slaaf zijn gemaakt; 
+• De economische context; 
+• De humanitaire gevolgen; 
+• Het protest tegen slavernij; 
+• De afschaffing; 
+ 
+65 Dat beeld is ook niet geheel ten onrechte, want in het recente onderzoek naar steun voor excuses voor het 
+slavernijverleden blijkt dat op de vraag naar de ernst van dat verleden 86 % van de Groen Links-stemmers dit 
+ernstig of heel ernstig vindt en maar 22 % van de PVV stemmers en bij het belang van excuses ligt dat op 70 % 
+en respectievelijk 8 %. (Rapport.",debet gevoel slavernijverleden weggestopt massale opkomst enkele sterk nationalistische politieke partijen woord willen vuilmaken aandacht koloniale slavernijverleden nederland linkse onderwerpen vinden uitingen ogen verwerpelijk soort weg denken paradox verklaard enerzijds ontwikkelingen activiteiten anderzijds gevoel verandert slavernijverleden weggestopt kennisniveau slavernijverleden bovenstaande paradox geeft ieder geval meerdere onderzoeken bevestigen dat66 grote kloof grote publiek hele grote slag gemaakt vertaling verspreiding rest samenleving duidelijk inhoud kwaliteit kwantiteit datgene gebied gebeurt geschiedenismethoden lessen school enorm verbeterd geldt bijvoorbeeld pabo onderzoeken vertelde pabo docent aandacht slavernijverleden marginaal één les daarbij bedacht pabo studenten veertien lessen geschiedenis krijgen kun heel erg geschiedenis totaliteit bedroevend ondergeschoven kindje hbo lerarenopleiding positiever gekwantificeerd meest recente et omschreven ieder geval moeten weten trans atlantische slavenhandel oorsprong daarvan omvang ervan gevolgen mensen slaaf gemaakt economische context humanitaire gevolgen protest slavernij afschaffing beeld geheel ten onrechte recente steun excuses slavernijverleden blijkt ernst verleden groen links stemmers ernstig heel ernstig vindt pvv stemmers belang excuses ligt respectievelijk,0.39448265647808456,0.4349923207756151,0.4989361213753839,0.4989361213753839,Modern Racism & Inequality,0.06394380059976879,debet gevoel slavernijverleden weggestopt massale opkomst enkele sterk nationalistische politieke partijen woord willen vuilmaken aandacht koloniale slavernijverleden nederland linkse onderwerpen vinden uitingen ogen verwerpelijk soort weg denken paradox verklaard enerzijds ontwikkelingen activiteiten anderzijds gevoel verandert slavernijverleden weggestopt kennisniveau slavernijverleden bovenstaande paradox geeft ieder geval meerdere onderzoeken bevestigen dat66 grote kloof grote publiek hele grote slag gemaakt vertaling verspreiding rest samenleving duidelijk inhoud kwaliteit kwantiteit datgene gebied gebeurt geschiedenismethoden lessen school enorm verbeterd geldt bijvoorbeeld pabo onderzoeken vertelde pabo docent aandacht slavernijverleden marginaal één les daarbij bedacht pabo studenten veertien lessen geschiedenis krijgen kun heel erg geschiedenis totaliteit bedroevend ondergeschoven kindje hbo lerarenopleiding positiever gekwantificeerd meest recente et omschreven ieder geval moeten weten trans atlantische slavenhandel oorsprong daarvan omvang ervan gevolgen mensen slaaf gemaakt economische context humanitaire gevolgen protest slavernij afschaffing beeld geheel ten onrechte recente steun excuses slavernijverleden blijkt ernst verleden groen links stemmers ernstig heel ernstig vindt pvv stemmers belang excuses ligt respectievelijk,2,Modern Racism & Inequality,0.5088577,0.012285296,0.47885698,0.5088577,0.030000746,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.166.txt,3c97dd45:00002,4,"In Pedagogy, Culture and Society, 27(1), 39-64, 
+Carla van Boxtel, Maria Grever & Stephan Klein (eds.) (2016) , Sensitive pasts; questioning heritage 
+education(New York/Oxford: Berghahn); Margalith Kleiwegt, 2werelden \ 2werkelijkheden; hoe ga je daar als 
+docent mee om? Rapport i.o.v. het Ministerie van OC&W (2016) 
+[https://www.rijksoverheid.nl/documenten/rapporten/2016/02/01/twee-werelden-twee-werkelijkheden-een-
+verslag-over-gevoelige-maatschappelijke-kwesties-in-de-school] 
+68 [https://www.historischnieuwsblad.nl/slavernij-en-kolonialisme-prominent-in-schoolboeken/].Kritiek op het 
+onderzoek kwam onder meer van de Black Archives [https://www.theblackarchives.nl/blog/slavernij-en-
+kolonialisme-prominent-in-schoolboeken-nee-focus-op-inclusie-en-verder-onderzoek-nodig]. 69 [https://www.historischnieuwsblad.nl/veel-trots-weinig-kennis/] 
+bijlage 4c",pedagogy culture society carla boxtel maria grever stephan klein eds sensitive pasts questioning heritage education new york oxford berghahn margalith kleiwegt 2werelden 2werkelijkheden ga docent mee v ministerie oc w https www rijksoverheid nl documenten rapporten twee werelden twee werkelijkheden verslag gevoelige maatschappelijke kwesties school https www historischnieuwsblad nl slavernij kolonialisme prominent schoolboeken kritiek kwam black archives https www theblackarchives nl blog slavernij kolonialisme prominent schoolboeken nee focus inclusie verder nodig https www historischnieuwsblad nl trots kennis 4c,0.5013892123346427,0.3990904573933482,0.43316003028561784,0.5013892123346427,Colonialism,0.0682291820490249,pedagogy culture society carla boxtel maria grever stephan klein eds sensitive pasts questioning heritage education new york oxford berghahn margalith kleiwegt 2werelden 2werkelijkheden ga docent mee v ministerie oc w https www rijksoverheid nl documenten rapporten twee werelden twee werkelijkheden verslag gevoelige maatschappelijke kwesties school https www historischnieuwsblad nl slavernij kolonialisme prominent schoolboeken kritiek kwam black archives https www theblackarchives nl blog slavernij kolonialisme prominent schoolboeken nee focus inclusie verder nodig https www historischnieuwsblad nl trots kennis 4c,0,Colonialism,0.5012169,0.5012169,0.0030218253,0.49576125,0.005455643,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.196.txt,74434f19:00002,10,"The Making of International Human Rights: The 1960s, 
+Decolonization, and the Reconstruction of Global Values. New York: Cambridge University Press. 4 Ibid. Beide auteurs laten zien dat Latijns-Amerikaanse en Caribische diplomaten en intellectuelen waaronder de 
+Jamaicanen Hugh Shearer en Egerton Richardson duidelijk maken dat activisme samen kan gaan met het investeren 
+in globale multilaterale instituties. bijlage 4f
+Excuses vanuit het perspectief van de liberale orde 
+ 
+Dr. Francio Guadeloupe 
+Koninklijke Instituut voor Taal, Land en Volkenkunde (KITLV) 
+Universiteit van Amsterdam (UvA) 
+ 
+ 
+De hele discussie of de Nederlandse staat excuses zou moeten aanbieden voor de rol dat 
+het koningshuis, politici in Den Haag en hun gouverneurs hebben gespeeld ten tijde van de 
+trans-Atlantische slavenhandel en slavernij in Suriname, Aruba, Bonaire, Curaçao, Sint Maarten, 
+Sint Eustatius en Saba, dient te worden beoordeeld binnen de parameters van de moderne 
+politiek-economische uitrusting van de wereld. In de 21ste eeuw leven we nog steeds in een 
+post-Tweede Wereldoorlog liberale orde van natiestaten en de Verenigde Naties met allerlei 
+transnationale regulerende instituties en internationale wetgeving, zonder wie de wereld zou 
+vervallen tot realpolitik, de macht van de sterkste, oorlog en chaos.1 Dit verhaal van triomf is 
+ook het verhaal van de koude oorlog tussen de VS en de USSR, en de hete oorlogen die 
+daardoor zijn uitgevochten in net gedekoloniseerde landen. Deze landen hebben in vergelijking met de VS, West-Europa en Canada weinig profijt 
+gehad van de liberale orde.2 Desalniettemin is dit wel het speelveld waarin zij hun rechten 
+moeten opeisen.3 Dit is ook hun terrein aangezien zij hebben bijgedragen aan het scheppen van 
+die orde; een onderbelicht verhaal dat langzaam wat meer academisch bekendheid begint te 
+krijgen.4 De liberale orde met haar norm van vrije markt-democratieën gestoeld op politiek 
+ 
+1 Deze zienswijze is prachtig verwoord door Gilford John Ikenberry, een prominente denker in de wereld van 
+internationale betrekkingen: “Compared with past orders--imperial and anarchic systems of various sorts, from the 
+Greek and Chinese worlds of the classical era to the nineteenth-century European imperial system--the liberal order 
+stands alone. Choose your metric. But in terms of wealth creation, the provision of physical security and economic 
+stability, and the promotion of human rights and political protections, no other international order in history comes 
+close.” Ikenberry, G.",new york cambridge university press ibid beide auteurs laten zien latijns amerikaanse caribische diplomaten intellectuelen waaronder jamaicanen hugh shearer egerton richardson duidelijk maken activisme samen gaan investeren globale multilaterale instituties 4f excuses vanuit perspectief liberale orde dr francio guadeloupe koninklijke instituut taal land volkenkunde kitlv universiteit amsterdam uva hele discussie nederlandse staat excuses moeten aanbieden rol koningshuis politici den haag gouverneurs gespeeld ten tijde trans atlantische slavenhandel slavernij suriname aruba bonaire curaçao sint maarten sint eustatius saba dient beoordeeld parameters moderne politiek economische uitrusting wereld 21ste eeuw leven steeds post tweede wereldoorlog liberale orde natiestaten verenigde naties allerlei transnationale regulerende instituties internationale wetgeving wereld vervallen realpolitik macht sterkste oorlog chaos verhaal triomf verhaal koude oorlog vs ussr hete oorlogen daardoor uitgevochten net gedekoloniseerde landen landen vergelijking vs west europa canada profijt gehad liberale orde desalniettemin speelveld waarin rechten moeten opeisen terrein aangezien bijgedragen scheppen orde onderbelicht verhaal langzaam academisch bekendheid begint krijgen liberale orde norm vrije markt democratieën gestoeld politiek zienswijze prachtig verwoord gilford john ikenberry prominente denker wereld internationale betrekkingen compared past orders imperial anarchic systems various sorts greek chinese worlds classical era nineteenth century european imperial system liberal order stands alone choose metric,0.478878797138927,0.3550986722269226,0.5075967068051608,0.5075967068051608,Modern Racism & Inequality,0.028717909666233776,new york cambridge university press ibid beide auteurs laten zien latijns amerikaanse caribische diplomaten intellectuelen waaronder jamaicanen hugh shearer egerton richardson duidelijk maken activisme samen gaan investeren globale multilaterale instituties 4f excuses vanuit perspectief liberale orde dr francio guadeloupe koninklijke instituut taal land volkenkunde kitlv universiteit amsterdam uva hele discussie nederlandse staat excuses moeten aanbieden rol koningshuis politici den haag gouverneurs gespeeld ten tijde trans atlantische slavenhandel slavernij suriname aruba bonaire curaçao sint maarten sint eustatius saba dient beoordeeld parameters moderne politiek economische uitrusting wereld 21ste eeuw leven steeds post tweede wereldoorlog liberale orde natiestaten verenigde naties allerlei transnationale regulerende instituties internationale wetgeving wereld vervallen realpolitik macht sterkste oorlog chaos verhaal triomf verhaal koude oorlog vs ussr hete oorlogen daardoor uitgevochten net gedekoloniseerde landen landen vergelijking vs west europa canada profijt gehad liberale orde desalniettemin speelveld waarin rechten moeten opeisen terrein aangezien bijgedragen scheppen orde onderbelicht verhaal langzaam academisch bekendheid begint krijgen liberale orde norm vrije markt democratieën gestoeld politiek zienswijze prachtig verwoord gilford john ikenberry prominente denker wereld internationale betrekkingen compared past orders imperial anarchic systems various sorts greek chinese worlds classical era nineteenth century european imperial system liberal order stands alone choose metric,0,Colonialism,0.5172584,0.5172584,0.0015845753,0.481157,0.0361014,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.4.txt,cf4f7466:00000,10,"7. Conclusies en aanbevelingen
+39
+7.1	
+Erkenning
+39
+7.2	 Excuses
+40
+7.3	 Herstel
+41
+7.4	 Conclusie met betrekking tot de motie-Nicolaï
+42
+7.5	 Aanbevelingen
+43
+Bijlagen
+47
+1. Opdracht van drs. K.H. Ollongren, minister BZK
+48
+2. Motie-Nicolaï
+52
+3. Verzoek tot eerherstel Tula
+53
+4. Uitgebrachte adviezen van wetenschappelijke deskundigen 
+70
+5. Rapport van de dialogen op Bonaire, Curaçao, Saba, Sint Maarten en Sint Eustatius 
+208
+6. Geraadpleegde belangenorganisaties
+263
+7.",aanbevelingen erkenning excuses herstel betrekking motie nicolaï aanbevelingen opdracht drs k h ollongren minister bzk motie nicolaï verzoek eerherstel tula uitgebrachte adviezen wetenschappelijke deskundigen dialogen bonaire curaçao saba sint maarten sint eustatius geraadpleegde belangenorganisaties,0.5328224056501424,0.48847000494152065,0.48694202990024377,0.5328224056501424,Colonialism,0.04435240070862173,aanbevelingen erkenning excuses herstel betrekking motie nicolaï aanbevelingen opdracht drs k h ollongren minister bzk motie nicolaï verzoek eerherstel tula uitgebrachte adviezen wetenschappelijke deskundigen dialogen bonaire curaçao saba sint maarten sint eustatius geraadpleegde belangenorganisaties,2,Modern Racism & Inequality,0.45241132,0.44515932,0.102429375,0.45241132,0.0072520077,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.5.txt,274ab7e6:00000,10,"5
+1 . Woord vooraf
+‘Not everything that is faced can be changed, 
+but nothing can be changed until it is faced.’
+James Baldwin
+Op 1 juli 2020 werd het Adviescollege Dialooggroep Slavernijverleden ingesteld. Het 
+adviescollege kreeg als taak om binnen het Koninkrijk der Nederlanden een dialoog te 
+organiseren over het slavernijverleden en de doorwerking daarvan in de hedendaagse 
+samenleving. Een dialoog gericht op verbinding en op een bredere erkenning en inbedding 
+van dit gedeelde verleden. Een opdracht als deze is in de huidige tijdgeest niet eenvoudig; een dialoog organiseren die 
+verbindend moet zijn over een gedeeld verleden waarvan de belevingen zo uit elkaar lopen. Een verleden dat nog steeds diepe sporen nalaat in de hedendaagse samenleving. Voor een 
+deel van de bevolking gaat dit verleden over hoogtepunten in de Nederlandse geschiedenis, 
+over voorspoed en welvaart. Maar voor een ander deel van de bevolking gaat het over 
+voorspoed en welvaart die verdiend werden over de rug van hun voorouders. Zij ondervinden 
+daar in hun dagelijks leven nog steeds de gevolgen van. Het slavernijverleden gaat niet alleen over slachtofferschap, maar ook over moed, veerkracht 
+en verzet.",adviescollege kreeg taak koninkrijk nederlanden dialoog organiseren slavernijverleden doorwerking daarvan hedendaagse samenleving dialoog gericht verbinding bredere erkenning inbedding gedeelde verleden opdracht huidige tijdgeest eenvoudig dialoog organiseren verbindend gedeeld verleden waarvan belevingen elkaar lopen verleden steeds diepe sporen nalaat hedendaagse samenleving bevolking gaat verleden hoogtepunten nederlandse geschiedenis voorspoed welvaart ander bevolking gaat voorspoed welvaart verdiend werden rug voorouders ondervinden dagelijks leven steeds gevolgen slavernijverleden gaat alleen slachtofferschap moed veerkracht verzet,0.4357993266881393,0.4755239580141093,0.3566956367709064,0.4755239580141093,Historical Slavery,0.039724631325969983,adviescollege kreeg taak koninkrijk nederlanden dialoog organiseren slavernijverleden doorwerking daarvan hedendaagse samenleving dialoog gericht verbinding bredere erkenning inbedding gedeelde verleden opdracht huidige tijdgeest eenvoudig dialoog organiseren verbindend gedeeld verleden waarvan belevingen elkaar lopen verleden steeds diepe sporen nalaat hedendaagse samenleving bevolking gaat verleden hoogtepunten nederlandse geschiedenis voorspoed welvaart ander bevolking gaat voorspoed welvaart verdiend werden rug voorouders ondervinden dagelijks leven steeds gevolgen slavernijverleden gaat alleen slachtofferschap moed veerkracht verzet,0,Colonialism,0.47021893,0.47021893,0.07757181,0.4522092,0.018009722,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.82.txt,b771a3c9:00000,10,"11 
+Amerikaanse democratie vastgelegd: ‘equal protection of the laws’ – vlak na de Amerikaanse 
+Burgeroorlog met als inzet precies de strijd tegen het gebrek aan die equal protection, in de 
+slavernij in de Zuidelijke staten. Dat kunnen we erkennen, terwijl we tegelijkertijd óók 
+kunnen constateren dat diezelfde ‘framers’ in hun toepassing van datzelfde principe faalden, 
+zoals bij het in standhouden van ‘racial segregation’ op scholen. Aan de principes die de 
+‘framers’ in de constitutie vastlegden, zoals ‘equal protection’ zijn we gebonden (en die 
+kunnen we prijzen); we zitten niet vast aan hun (foutieve) toepassingen van die principes, 
+betoogt Dworkin.37 
+ 
+2.4  
+Mogelijke staatsrechtelijke bezwaren: ministeriële verantwoordelijkheid 
+ 
+Een aanpassing van het kabinetsstandpunt in de richting van excuses voor het 
+slavernijverleden zou echter wellicht nog wel kunnen afstuiten op staatsrechtelijke 
+bezwaren. Het staat de regering uiteraard vrij om – in abstracte zin – excuses aan te bieden 
+voor alle zaken waar zij excuses voor wil aanbieden (zeg, de kap van regenwouden in Brazilië 
+onder het regime van Bolsonaro),38 uiteindelijk gesanctioneerd door het parlement via de 
+vertrouwensregel. Maar de staatsrechtelijke vraag rijst of zij als huidig kabinet op een 
+betekenisvolle manier verantwoordelijkheid voor onrecht uit een (verder) verleden kan 
+nemen – dat wil zeggen: als de formele (late) vertegenwoordiger van de destijds handelende 
+entiteit/staat. Een vereiste voor een volwaardig officieel excuus lijkt te zijn dat ‘the 
+apologiser must have standing to make the apology: (…), in official apologies the apologiser 
+must be the legitimate representative of the entity responsible for the wrongdoing.’39 Of 
+staat de ministeriële verantwoordelijkheid daaraan in de weg? Op basis van de ministeriële verantwoordelijkheid zijn ministers (art. 42 lid 2 Gw) en 
+staatsecretarissen (art. 46 lid 2 Gw) verantwoordelijk voor hun handelen en nalaten in brede 
+zin. Daar vallen bijvoorbeeld ook zaken onder die, buiten enig verwijt aan hun adres om, 
+plaatsvinden op hun ministerie.40 De bewerkte Van der Pot vergelijkt het met de positie van 
+                                                        
+37 Ronald Dworkin, ‘The Moral Reading of the Constitution’, The New York Review of Books, 21 maart 1996.",amerikaanse democratie vastgelegd equal protection laws vlak amerikaanse burgeroorlog inzet precies strijd gebrek equal protection slavernij zuidelijke staten erkennen terwijl tegelijkertijd óók constateren diezelfde framers toepassing datzelfde principe faalden standhouden racial segregation scholen principes framers constitutie vastlegden equal protection gebonden prijzen zitten vast foutieve toepassingen principes betoogt dworkin mogelijke staatsrechtelijke bezwaren ministeriële verantwoordelijkheid aanpassing kabinetsstandpunt richting excuses slavernijverleden echter wellicht afstuiten staatsrechtelijke bezwaren staat regering uiteraard vrij abstracte zin excuses bieden zaken waar excuses aanbieden zeg kap regenwouden brazilië regime bolsonaro uiteindelijk gesanctioneerd parlement via vertrouwensregel staatsrechtelijke rijst huidig kabinet betekenisvolle manier verantwoordelijkheid onrecht verder verleden nemen zeggen formele late vertegenwoordiger destijds handelende entiteit staat basis ministeriële verantwoordelijkheid ministers art lid gw staatsecretarissen art lid gw verantwoordelijk handelen nalaten brede zin vallen bijvoorbeeld zaken enig verwijt adres plaatsvinden ministerie bewerkte pot vergelijkt positie ronald dworkin moral reading constitution new york review books maart,0.45878585351611934,0.39503970032513075,0.48582710780874944,0.48582710780874944,Modern Racism & Inequality,0.0270412542926301,amerikaanse democratie vastgelegd equal protection laws vlak amerikaanse burgeroorlog inzet precies strijd gebrek equal protection slavernij zuidelijke staten erkennen terwijl tegelijkertijd óók constateren diezelfde framers toepassing datzelfde principe faalden standhouden racial segregation scholen principes framers constitutie vastlegden equal protection gebonden prijzen zitten vast foutieve toepassingen principes betoogt dworkin mogelijke staatsrechtelijke bezwaren ministeriële verantwoordelijkheid aanpassing kabinetsstandpunt richting excuses slavernijverleden echter wellicht afstuiten staatsrechtelijke bezwaren staat regering uiteraard vrij abstracte zin excuses bieden zaken waar excuses aanbieden zeg kap regenwouden brazilië regime bolsonaro uiteindelijk gesanctioneerd parlement via vertrouwensregel staatsrechtelijke rijst huidig kabinet betekenisvolle manier verantwoordelijkheid onrecht verder verleden nemen zeggen formele late vertegenwoordiger destijds handelende entiteit staat basis ministeriële verantwoordelijkheid ministers art lid gw staatsecretarissen art lid gw verantwoordelijk handelen nalaten brede zin vallen bijvoorbeeld zaken enig verwijt adres plaatsvinden ministerie bewerkte pot vergelijkt positie ronald dworkin moral reading constitution new york review books maart,0,Colonialism,0.50509346,0.50509346,0.0046870247,0.49021956,0.014873892,very_low
+C:\Users\Home\policy-analysis\Slavery_text\ketenen van het verleden.96.txt,d7d65588:00000,10,"25 
+EU-
+buitenlandchef 
+Borrell 
+na blunder’, 
+Noordhollands 
+Dagblad, 24 
+november 2020. 27 
+november 
+2020 
+Toeslagenaffaire, in 
+algemene zin 
+Rutte, Algemene Zaken 
+(VVD) 
+Eigen 
+handelen 
+Tijdens 
+ondervraging 
+door Commissie-
+Van Dam 
+“Rutte: ‘Een 
+verschrikkelijk 
+ongeluk’, NRC 
+Handelsblad, 27 
+november 2020. 1 
+december 
+2020 
+Eis oude 
+Transgenderwet 
+(1985-2014) fysieke 
+transitie en 
+onomkeerbare 
+sterilisatie voor 
+aanpassing 
+geboortecertificaat  
+Van Engelshoven, 
+Onderwijs, Cultuur en 
+Wetenschap (hier: 
+Emancipatie) (D66); 
+Dekker, 
+Rechtsbescherming 
+(VVD) 
+Voorgange
+r(s) 
+ 
+‘Kabinet biedt 
+excuses aan voor 
+oude 
+Transgenderwet’, 
+Noordhollands 
+Dagblad, 1 
+december 2020. 19 januari 
+2021 
+Informatievoorziening 
+aan Kamer in 
+Toeslagenaffaire (en in 
+het algemeen), in het 
+bijzonder excuus aan 
+Kamerlid Omtzigt 
+Rutte, Algemene Zaken 
+(VVD), demissionair 
+Eigen 
+handelen 
+ 
+‘Rutte maakt ook 
+excuses aan 
+CDA’er Omtzigt 
+om 
+toeslagendossier’, 
+Noordhollands 
+Dagblad, 19 
+januari 2021. 4 februari 
+2021 
+Datalek GGD gegevens 
+geteste personen 
+De Jonge, 
+Volksgezondheid 
+(CDA), demissionair 
+Eigen 
+handelen 
+ 
+‘Deemoedige De 
+Jonge doorstaat 
+debat over 
+datalek’, Het 
+Financiële 
+Dagblad, 4 
+februari 2021. 8 februari 
+2021 
+Misstanden bij 
+‘interlandelijke’ 
+adopties tussen 1967 
+en 1998 
+Dekker, 
+Rechtsbescherming 
+(VVD), demissionair 
+Voorgange
+r(s) 
+ 
+‘Excuses kabinet 
+voor misstanden 
+adoptie’, 8 
+februari 2021. 20 
+februari 
+2021 
+Coronamaatregelen 
+niet in acht genomen 
+bij schaats-moment in 
+verkiezingscampagne 
+Hoekstra, Financiën 
+(CDA), demissionair 
+Eigen 
+handelen 
+Niet 
+meegenomen: 
+erkent fout en dat 
+wordt gelezen als 
+‘excuses’, maar 
+biedt voor zover 
+wij konden 
+achterhalen 
+nergens expliciet 
+‘excuses’ aan. ‘Hoekstra vergat 
+coronaregels bij 
+CDA-
+campagnestuntje 
+op de schaats’, 
+Trouw, 20 
+februari 2021; 
+‘Campagneteam 
+CDA al dagen 
+bezig met uitje 
+Hoekstra: 
+“Insteek was even 
+schaatsen”’, RTL 
+Nieuws (online), 
+19 februari 2021. 29 maart 
+2021 
+Vermelding Omtzigt in 
+notulen 
+formatiegesprekken 
+Ollongren, 
+Binnenlandse Zaken 
+(D66), demissionair 
+Eigen 
+handelen 
+Niet meegnomen: 
+niet gedaan in 
+hoedanigheid als 
+minister. Samen 
+met Jorritsma.",eu buitenlandchef borrell blunder noordhollands dagblad november november toeslagenaffaire algemene zin rutte algemene zaken vvd eigen handelen ondervraging commissie dam rutte verschrikkelijk ongeluk nrc handelsblad november december eis oude transgenderwet fysieke transitie onomkeerbare sterilisatie aanpassing geboortecertificaat engelshoven onderwijs cultuur wetenschap emancipatie d66 dekker rechtsbescherming vvd voorgange r kabinet biedt excuses oude transgenderwet noordhollands dagblad december januari informatievoorziening kamer toeslagenaffaire algemeen bijzonder excuus kamerlid omtzigt rutte algemene zaken vvd demissionair eigen handelen rutte maakt excuses cda omtzigt toeslagendossier noordhollands dagblad januari februari datalek ggd geteste personen jonge volksgezondheid cda demissionair eigen handelen deemoedige jonge doorstaat debat datalek financiële dagblad februari februari misstanden interlandelijke adopties dekker rechtsbescherming vvd demissionair voorgange r excuses kabinet misstanden adoptie februari februari coronamaatregelen acht genomen schaats moment verkiezingscampagne hoekstra financiën cda demissionair eigen handelen meegenomen erkent fout gelezen excuses biedt zover konden achterhalen nergens expliciet excuses hoekstra vergat coronaregels cda campagnestuntje schaats trouw februari campagneteam cda dagen bezig uitje hoekstra insteek even schaatsen rtl nieuws online februari maart vermelding omtzigt notulen formatiegesprekken ollongren binnenlandse zaken d66 demissionair eigen handelen meegnomen gedaan hoedanigheid minister samen jorritsma,0.44462269802611415,0.41426426861547305,0.4025562559756549,0.44462269802611415,Colonialism,0.030358429410641097,eu buitenlandchef borrell blunder noordhollands dagblad november november toeslagenaffaire algemene zin rutte algemene zaken vvd eigen handelen ondervraging commissie dam rutte verschrikkelijk ongeluk nrc handelsblad november december eis oude transgenderwet fysieke transitie onomkeerbare sterilisatie aanpassing geboortecertificaat engelshoven onderwijs cultuur wetenschap emancipatie d66 dekker rechtsbescherming vvd voorgange r kabinet biedt excuses oude transgenderwet noordhollands dagblad december januari informatievoorziening kamer toeslagenaffaire algemeen bijzonder excuus kamerlid omtzigt rutte algemene zaken vvd demissionair eigen handelen rutte maakt excuses cda omtzigt toeslagendossier noordhollands dagblad januari februari datalek ggd geteste personen jonge volksgezondheid cda demissionair eigen handelen deemoedige jonge doorstaat debat datalek financiële dagblad februari februari misstanden interlandelijke adopties dekker rechtsbescherming vvd demissionair voorgange r excuses kabinet misstanden adoptie februari februari coronamaatregelen acht genomen schaats moment verkiezingscampagne hoekstra financiën cda demissionair eigen handelen meegenomen erkent fout gelezen excuses biedt zover konden achterhalen nergens expliciet excuses hoekstra vergat coronaregels cda campagnestuntje schaats trouw februari campagneteam cda dagen bezig uitje hoekstra insteek even schaatsen rtl nieuws online februari maart vermelding omtzigt notulen formatiegesprekken ollongren binnenlandse zaken d66 demissionair eigen handelen meegnomen gedaan hoedanigheid minister samen jorritsma,2,Modern Racism & Inequality,0.39819124,0.37374917,0.22805957,0.39819124,0.024442077,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.126.txt,f8061b06:00001,6,"Terwijl de heren van Bosse en Elout van Soeterwoude kritisch waren over de 
+voorstellen van de regering, ondersteunde en verdedigde de heer Mijer juist bijna alle 
+componenten van het regeringsvoorstel. Tijdens het debat over de afschaffing van de 
+slavernij op 3 juli 1862 werd er gediscussieerd of er nu gesproken moest worden over 
+een schadeloosstelling of een tegemoetkoming. De minister van Koloniën stelde vast dat 
+er sprake diende te zijn van een Ǯtegemoetkomingǯ. Kamerlid Mijer stelde echter een 
+amendement voor omdat hij vond dat Ǯschadeloosstellingǯ een beter begrip was. Van 
+Bosse was niet voor dit amendement omdat formele Ǯschadeloosstellingǯ bettrekking had 
+op eigendom. Elout bekrachtigde dit door te stellen dat er sprake was van: ǲ[  ] opheffing 
+van een onnatuurlijken toestand van verandering van stelsel, maar niet van onteigening",terwijl heren bosse elout soeterwoude kritisch voorstellen regering ondersteunde verdedigde heer mijer juist bijna componenten regeringsvoorstel debat afschaffing slavernij juli gediscussieerd gesproken moest schadeloosstelling tegemoetkoming minister koloniën stelde vast sprake diende ǯtegemoetkomingǯ kamerlid mijer stelde echter amendement vond ǯschadeloosstellingǯ beter begrip bosse amendement formele ǯschadeloosstellingǯ bettrekking eigendom elout bekrachtigde stellen sprake ǳ opheffing onnatuurlijken toestand verandering stelsel onteigening,0.494138165588773,0.4441492782612029,0.46669692180871997,0.494138165588773,Colonialism,0.027441243780053026,terwijl heren bosse elout soeterwoude kritisch voorstellen regering ondersteunde verdedigde heer mijer juist bijna componenten regeringsvoorstel debat afschaffing slavernij juli gediscussieerd gesproken moest schadeloosstelling tegemoetkoming minister koloniën stelde vast sprake diende ǯtegemoetkomingǯ kamerlid mijer stelde echter amendement vond ǯschadeloosstellingǯ beter begrip bosse amendement formele ǯschadeloosstellingǯ bettrekking eigendom elout bekrachtigde stellen sprake ǳ opheffing onnatuurlijken toestand verandering stelsel onteigening,1,Historical Slavery,0.46650898,0.11627385,0.46650898,0.41721722,0.04929176,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.144.txt,a404c999:00000,10,"NINSEE 
+135 
+ 
+ 
+Naar aanleiding van de eerste component (opheffing) werd voor de start van het 
+parlementaire debat een petitie aangeboden ondertekend door J. Wolbers, en 117 
+anderen, als de vertegenwoordiger van de Antislavernij-beweging uit Utrecht, waarin zij 
+uitspraken dat zij ǲȋ…Ȍ wenschen in het belang van godsdienst en menschelijkheid en voor 
+de eer van Nederland, dat de slavernij in de Nederlandsche West-Indische koloniën weldra 
+worde afgeschaft. Zij vereenigen zich volkomen met den inhoud van het adres, door de 
+Nederlandsche Maatschappij ter bevordering van de afschaffing der slavernij onlangs 
+aangeboden.ǳ 
+ 
+De parlementaire debatten namen acht dagen in beslag (2 t/m 10 juli 1862). Het 
+parlement bestond uit 72 leden, alle mannen. Zij vertegenwoordigden districten en 
+organiseerden zichzelf binnen het parlement op zeven ideologische grondslagen en 
+oriëntaties. Desalniettemin was het stemmen niet gebaseerd op ideologische, partij- of 
+groepsaffiliatie, maar op basis van het onderwerp van het debat. Tijdens het debat werden de parlementsleden er continu aan herinnerd dat de 
+regering, als er een meerderheid tegen het voorstel of tegen één van de componenten 
+stemde, zich gedwongen zag om het wetsontwerp in te trekken. Alhoewel sommige 
+parlementsleden dit zagen als een vorm van intimidatie was er consensus in het 
+parlement over één ding, namelijk dat vrijheid kon niet wachten. Niet alleen omdat 
+slavernij een schandelijk systeem was maar ook omdat slavernij een smet, vloek en 
+kanker was voor Nederland en haar eer. Maar bij het formuleren van de voorwaarden 
+voor afschaffing van de slavernij, bleek dat een groot deel van de parlementsleden 
+weliswaar vond dat de slaaf-gemaakten zo snel mogelijk hun vrijheid moesten krijgen, 
+maar niet ten koste van de Ǯslavenǯhouders en ook niet ten koste van het voortbestaan 
+van Suriname als landbouwkolonie.",ninsee aanleiding eerste component opheffing start parlementaire debat petitie aangeboden ondertekend j wolbers anderen vertegenwoordiger antislavernij beweging utrecht waarin uitspraken ǳȋ ȍ wenschen belang godsdienst menschelijkheid eer nederland slavernij nederlandsche west indische koloniën weldra worde afgeschaft vereenigen volkomen den inhoud adres nederlandsche maatschappij ter bevordering afschaffing slavernij onlangs aangeboden ǳ parlementaire debatten namen acht dagen beslag juli parlement bestond leden mannen vertegenwoordigden districten organiseerden zichzelf parlement zeven ideologische grondslagen oriëntaties desalniettemin stemmen gebaseerd ideologische partij groepsaffiliatie basis onderwerp debat debat werden parlementsleden continu herinnerd regering meerderheid voorstel één componenten stemde gedwongen zag wetsontwerp trekken alhoewel sommige parlementsleden zagen vorm intimidatie consensus parlement één ding namelijk vrijheid wachten alleen slavernij schandelijk systeem slavernij smet vloek kanker nederland eer formuleren voorwaarden afschaffing slavernij bleek groot parlementsleden weliswaar vond slaaf gemaakten snel mogelijk vrijheid moesten krijgen ten koste ǯslavenǯhouders ten koste voortbestaan suriname landbouwkolonie,0.5280943032330663,0.49383780543292294,0.5374402502825784,0.5374402502825784,Modern Racism & Inequality,0.009345947049512082,ninsee aanleiding eerste component opheffing start parlementaire debat petitie aangeboden ondertekend j wolbers anderen vertegenwoordiger antislavernij beweging utrecht waarin uitspraken ǳȋ ȍ wenschen belang godsdienst menschelijkheid eer nederland slavernij nederlandsche west indische koloniën weldra worde afgeschaft vereenigen volkomen den inhoud adres nederlandsche maatschappij ter bevordering afschaffing slavernij onlangs aangeboden ǳ parlementaire debatten namen acht dagen beslag juli parlement bestond leden mannen vertegenwoordigden districten organiseerden zichzelf parlement zeven ideologische grondslagen oriëntaties desalniettemin stemmen gebaseerd ideologische partij groepsaffiliatie basis onderwerp debat debat werden parlementsleden continu herinnerd regering meerderheid voorstel één componenten stemde gedwongen zag wetsontwerp trekken alhoewel sommige parlementsleden zagen vorm intimidatie consensus parlement één ding namelijk vrijheid wachten alleen slavernij schandelijk systeem slavernij smet vloek kanker nederland eer formuleren voorwaarden afschaffing slavernij bleek groot parlementsleden weliswaar vond slaaf gemaakten snel mogelijk vrijheid moesten krijgen ten koste ǯslavenǯhouders ten koste voortbestaan suriname landbouwkolonie,2,Modern Racism & Inequality,0.4785471,0.46645033,0.055002518,0.4785471,0.012096763,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.27.txt,3d5cf83f:00001,7,"Ook de tekst van 1814 is relatief sober, met 146 
+artikelen. Die van 1815, ofschoon die vaak wordt gezien als een bescheiden aanpassing, 
+telt echter 234 artikelen. Daarna daalt het aantal weer, van 199 artikelen (plus 7 
+belangrijke additionele bepalingen) in 1848 tot 142 in 1983, waaraan 23 additionele 
+bepalingen zijn toegevoegd.ǳ (Van den Berg en Vis, 2013: 214) 
+ 
+Op basis van deze grondwettelijke ontwikkelingen konden individuen en groepen hun 
+eisen voor emancipatie hardmaken. Ze creëerden ijkpunten voor de manier waarop de 
+Staat vaststelde wat een legitieme eis voor gelijkheid is, voor groepen en voor 
+individuen. Ook was het zo dat ǲ[op basis] van de ervaringen in de Bataafse Republiek, 
+vraagstukken als de godsdienst, de armenzorg, het onderwijs en de waterstaat in de kern 
+werden beschouwd als vraagstukken die de nationale overheid zich geheel of ten dele zou 
+moeten aantrekken, naast uiteraard de inwendige en uitwendige veiligheid, het koloniale 
+beheer en de financiën.ǳ ȋVan den Berg en Vis, ʹͲͳ͵: ʹͲͳȌ 
+ 
+De nieuwe staatsinrichting had gevolgen voor de relatie tussen de Koning, de 
+regering, het parlement en de bevolking als geheel. Bovendien werd in de nieuwe 
+eenheidsstaat het Ministerie van Binnenlandse Zaken de sterkst groeiende besteder. Onder 
+het ministerie vielen immers zo ongeveer alle openbare uitgaven: voor onderwijs,",tekst relatief sober artikelen ofschoon vaak gezien bescheiden aanpassing telt echter artikelen daarna daalt weer artikelen plus belangrijke additionele bepalingen waaraan additionele bepalingen toegevoegd ǳ den berg vis basis grondwettelijke ontwikkelingen konden individuen groepen eisen emancipatie hardmaken creëerden ijkpunten manier waarop staat vaststelde legitieme eis gelijkheid groepen individuen ǳ basis ervaringen bataafse republiek vraagstukken godsdienst armenzorg onderwijs waterstaat kern werden beschouwd vraagstukken nationale overheid geheel ten dele moeten aantrekken uiteraard inwendige uitwendige veiligheid koloniale beheer financiën ǳ ȋvan den berg vis ʹͳͳ ʹͳͳȍ nieuwe staatsinrichting gevolgen relatie koning regering parlement bevolking geheel bovendien nieuwe eenheidsstaat ministerie binnenlandse zaken sterkst groeiende besteder ministerie vielen immers ongeveer openbare uitgaven onderwijs,0.4895927894463057,0.38564270669199807,0.5042431855816224,0.5042431855816224,Modern Racism & Inequality,0.014650396135316712,tekst relatief sober artikelen ofschoon vaak gezien bescheiden aanpassing telt echter artikelen daarna daalt weer artikelen plus belangrijke additionele bepalingen waaraan additionele bepalingen toegevoegd ǳ den berg vis basis grondwettelijke ontwikkelingen konden individuen groepen eisen emancipatie hardmaken creëerden ijkpunten manier waarop staat vaststelde legitieme eis gelijkheid groepen individuen ǳ basis ervaringen bataafse republiek vraagstukken godsdienst armenzorg onderwijs waterstaat kern werden beschouwd vraagstukken nationale overheid geheel ten dele moeten aantrekken uiteraard inwendige uitwendige veiligheid koloniale beheer financiën ǳ ȋvan den berg vis ʹͳͳ ʹͳͳȍ nieuwe staatsinrichting gevolgen relatie koning regering parlement bevolking geheel bovendien nieuwe eenheidsstaat ministerie binnenlandse zaken sterkst groeiende besteder ministerie vielen immers ongeveer openbare uitgaven onderwijs,0,Colonialism,0.52345556,0.52345556,0.0028718142,0.47367263,0.04978293,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.38.txt,9fc157a6:00003,4,"Pahud 
+1856-1858 
+Van der Brugghen 
+P. Mijer 
+1858-1860 
+Rochussen 
+J. J. Rochussen",pahud brugghen p mijer rochussen j j rochussen,0.5396700410847456,0.572578278485014,0.5386671842980687,0.572578278485014,Historical Slavery,0.03290823740026838,pahud brugghen p mijer rochussen j j rochussen,2,Modern Racism & Inequality,0.43731117,0.15177217,0.41091663,0.43731117,0.026394546,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.47.txt,3a8824a4:00000,10,"WAAROM VRIJHEID NIET KON WACHTEN 
+NIMAKO, DELEA & ESAJAS                                                                                                                            38 
+  
+Door deze geschiedenis komt de vraag naar voren wat de essentie van het parlement 
+was in deze specifieke tijdsperiode. Dit wordt echter niet duidelijk uit de constitutionele 
+ontwikkelingen in deze periode. Uit de tabel hieronder kan het volgende worden 
+opgemaakt: ǲ(et aantal leden ging van ͸ͺ in ͳͺͶͻ tot ͹ʹ in ͳͺ͸Ͷ tot tachtig in 1869 en 
+uiteindelijk 100 in 1878. Op dat aantal zou de Tweede Kamer blijven steken, totdat bij 
+de grondwetsherziening van 1887 tot een vast aantal van honderd leden werd beslotenǳ 
+(v/d Berg en Vis; p. 357). Jaar 
+ 
+Populatie (circa) 
+ 
+Parlementaire zetels 
+1849  
+3.060.000 
+  68 
+1864 
+3.240.000 
+  72 
+1869 
+3.870.000 
+  86 
+1878 
+4.500.000 
+100 
+ 
+De parlementaire debatten namen twee weken in beslag; van 2 juli 1862 tot en met 10 
+juli 1862. Het parlement had 72 leden: zij vertegenwoordigden districten en 
+organiseerden zichzelf op zeven ideologische bases binnen het parlement, namelijk:  
+ 
+1) Thorbeckianen (23 zetels) 
+2) Conservatieven (18 zetels) 
+3) Liberalen (16 zetels) 
+4) Conservatief-Liberaal (4 zetels) 
+5) Antirevolutionairen (4 zetels) 
+6) Conservatief-Katholieken (4 zetels) 
+7) Conservatief-Protestanten (3 zetels) 
+ 
+In de twee weken dat het debat duurde, zullen we vaststellen wie wat heeft gezegd over 
+slavernij. Overzicht van de Ideologische Oriëntatie van de Parlementariërs  
+ 
+Ideologische Oriëntatie 
+Aantal 
+ 
+% 
+Thorbeckianen 
+23 
+31.9 
+Conservatieven 
+ 
+18 
+25 
+Liberalen 
+ 
+16 
+22,2 
+Conservatief-Liberaal 
+4 
+5.6 
+Antirevolutionairen  
+4 
+5.6 
+Conservatief-Katholieken 
+4 
+5.6 
+Conservatief-Protestanten 3 
+4.1 
+Totaal  
+72 
+100 
+ 
+Een grote groep parlementariërs deelde Thorbeckeǯs ideeën aan het begin van het debat 
+en werden zodoende aangeduid als Thorbeckianen. Ze waren volgers van de liberale 
+denker en politicus Thorbecke die vooral bekend is vanwege zijn grondwet uit 1848. De 
+ideale Tweede Kamer was volgens Thorbecke een Tweede Kamer die ruimte maakte 
+voor een vergadering waarin de Kamerleden op basis van rationele gedachtewisselingen 
+via Ǯde waarheidǯ kwamen tot de beste wetgeving voor -en van de Nederlanders.",waarom vrijheid wachten nimako delea esajas geschiedenis komt voren essentie parlement specifieke tijdsperiode echter duidelijk constitutionele ontwikkelingen periode hieronder volgende opgemaakt ǳ et leden ging ͺ ͳͺͷͻ ʹ ͳͺ ͷ tachtig uiteindelijk tweede kamer blijven steken totdat grondwetsherziening vast honderd leden beslotenǳ v berg vis p populatie circa parlementaire zetels parlementaire debatten namen twee weken beslag juli juli parlement leden vertegenwoordigden districten organiseerden zichzelf zeven ideologische bases parlement namelijk thorbeckianen zetels conservatieven zetels liberalen zetels conservatief liberaal zetels antirevolutionairen zetels conservatief katholieken zetels conservatief protestanten zetels twee weken debat duurde zullen vaststellen gezegd slavernij ideologische oriëntatie parlementariërs ideologische oriëntatie thorbeckianen conservatieven liberalen conservatief liberaal antirevolutionairen conservatief katholieken conservatief protestanten grote parlementariërs deelde thorbeckeǯs ideeën begin debat werden zodoende aangeduid thorbeckianen volgers liberale denker politicus thorbecke vooral bekend vanwege grondwet ideale tweede kamer volgens thorbecke tweede kamer ruimte maakte vergadering waarin kamerleden basis rationele gedachtewisselingen via ǯde waarheidǯ kwamen beste wetgeving nederlanders,0.47303760446366805,0.31602964989391813,0.447217138422984,0.47303760446366805,Colonialism,0.025820466040684054,waarom vrijheid wachten nimako delea esajas geschiedenis komt voren essentie parlement specifieke tijdsperiode echter duidelijk constitutionele ontwikkelingen periode hieronder volgende opgemaakt ǳ et leden ging ͺ ͳͺͷͻ ʹ ͳͺ ͷ tachtig uiteindelijk tweede kamer blijven steken totdat grondwetsherziening vast honderd leden beslotenǳ v berg vis p populatie circa parlementaire zetels parlementaire debatten namen twee weken beslag juli juli parlement leden vertegenwoordigden districten organiseerden zichzelf zeven ideologische bases parlement namelijk thorbeckianen zetels conservatieven zetels liberalen zetels conservatief liberaal zetels antirevolutionairen zetels conservatief katholieken zetels conservatief protestanten zetels twee weken debat duurde zullen vaststellen gezegd slavernij ideologische oriëntatie parlementariërs ideologische oriëntatie thorbeckianen conservatieven liberalen conservatief liberaal antirevolutionairen conservatief katholieken conservatief protestanten grote parlementariërs deelde thorbeckeǯs ideeën begin debat werden zodoende aangeduid thorbeckianen volgers liberale denker politicus thorbecke vooral bekend vanwege grondwet ideale tweede kamer volgens thorbecke tweede kamer ruimte maakte vergadering waarin kamerleden basis rationele gedachtewisselingen via ǯde waarheidǯ kwamen beste wetgeving nederlanders,0,Colonialism,0.510767,0.510767,0.0023720996,0.48686096,0.023906022,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.7.txt,3e748a7f:00000,10,"NINSEE 
+ 
+iv 
+ 
+Samenvatting 
+ 
+Veel landen in Afrika, Europa, de Amerikaǯs en het Caribisch gebied erkennen in hun 
+geschiedschrijving met betrekking tot de afgelopen 400 jaar, niet alleen het bestaan van 
+de trans-Atlantische Ǯslavenǯhandel, de slavernij en haar erfenis, maar tevens hun rol in 
+deze ongelijke mondiale arbeidsverdeling. Dat geldt ook voor Nederland. Na meer dan drie eeuwen onderdeel uit te hebben 
+gemaakt van het trans-Atlantische slavernijsysteem besloot de Nederlandse staat om op 1 
+juli 1863 de slavernij af te schaffen. Groot-Brittannië had dat al eerder gedaan, namelijk in 
+1833, en in Frankrijk gebeurde dat in 1848. Het besluit van Nederland om de slavernij af te 
+schaffen maakte dus onderdeel uit van een bredere ontwikkeling in Europa. In Nederland vroeg de overheid bepaalde delen van en groepen en personen uit de 
+bevolking om voorstellen te doen voor de manier waarop de Nederlandse slavernij in 
+Suriname en de Antillen kon worden afgeschaft. Dat leidde - in drie verschillende fases - tot 
+voorstellen in de vorm van ontwerpen. In de eerste fase - tussen 1833 en 1842 – waren 
+dat er elf; in de tweede fase - tussen 1848 en 1851 - ook elf en in de derde fase - 1853 tot 
+1856 – waren dat vijf ontwerpen. Dit onderzoeksrapport is het resultaat van een systematische analyse van het 
+parlementair debat in Nederland van 1862 over de afschaffing van de slavernij; het biedt 
+inzicht in het proces, het debat en de besluitvorming in Nederland met betrekking tot die 
+afschaffing. In het rapport worden twee centrale vragen beantwoord die met elkaar zijn 
+verbonden, namelijk de vraag hoe de afschaffing van slavernij werd gepland en 
+ontworpen, en de vraag hoe de afschaffing vervolgens in het parlement werd besproken.",ninsee iv landen afrika europa amerikaǯs caribisch gebied erkennen geschiedschrijving betrekking afgelopen alleen bestaan trans atlantische ǯslavenǯhandel slavernij erfenis tevens rol ongelijke mondiale arbeidsverdeling geldt nederland drie eeuwen gemaakt trans atlantische slavernijsysteem besloot nederlandse staat juli slavernij af schaffen groot brittannië eerder gedaan namelijk frankrijk gebeurde besluit nederland slavernij af schaffen maakte bredere ontwikkeling europa nederland vroeg overheid bepaalde groepen personen bevolking voorstellen manier waarop nederlandse slavernij suriname antillen afgeschaft leidde drie verschillende fases voorstellen vorm ontwerpen eerste fase elf tweede fase elf derde fase vijf ontwerpen onderzoeksrapport systematische analyse parlementair debat nederland afschaffing slavernij biedt inzicht proces debat besluitvorming nederland betrekking afschaffing twee centrale beantwoord elkaar verbonden namelijk afschaffing slavernij gepland ontworpen afschaffing vervolgens parlement besproken,0.5374435542629038,0.5246377143243324,0.4204714315654138,0.5374435542629038,Colonialism,0.012805839938571428,ninsee iv landen afrika europa amerikaǯs caribisch gebied erkennen geschiedschrijving betrekking afgelopen alleen bestaan trans atlantische ǯslavenǯhandel slavernij erfenis tevens rol ongelijke mondiale arbeidsverdeling geldt nederland drie eeuwen gemaakt trans atlantische slavernijsysteem besloot nederlandse staat juli slavernij af schaffen groot brittannië eerder gedaan namelijk frankrijk gebeurde besluit nederland slavernij af schaffen maakte bredere ontwikkeling europa nederland vroeg overheid bepaalde groepen personen bevolking voorstellen manier waarop nederlandse slavernij suriname antillen afgeschaft leidde drie verschillende fases voorstellen vorm ontwerpen eerste fase elf tweede fase elf derde fase vijf ontwerpen onderzoeksrapport systematische analyse parlementair debat nederland afschaffing slavernij biedt inzicht proces debat besluitvorming nederland betrekking afschaffing twee centrale beantwoord elkaar verbonden namelijk afschaffing slavernij gepland ontworpen afschaffing vervolgens parlement besproken,1,Historical Slavery,0.5104472,0.4761652,0.5104472,0.013387587,0.034282,very_low
+C:\Users\Home\policy-analysis\Slavery_text\Voortgangsrapportage+-+Ervaringen+en+lessen+om+discriminatie+in+publieke+dienstverlening+te+voorkomen+en+te+bestrijden.20.txt,4425664f:00000,10,"20
+3.2	Douane
+Maarten Gombert is plaatsvervangend regiodirecteur Douane Schiphol 
+Passagiers en vanuit die rol verantwoordelijk voor de deelname aan 
+de pilot van de staatscommissie. Hij geeft leiding aan alle douaniers 
+die betrokken zijn bij de douane-controles van reizigers op Schiphol. Maarten is betrokken bij opstellen, implementeren en fijnslijpen van 
+het handelingskader ‘Objectief Selecteren’ dat de Douane toepast om 
+discriminatie bij controles te voorkomen. Sharona Dagevos werkt als vaktechnisch coördinator bij de Douane 
+Schiphol Passagiers. Als vaktechnisch coördinator nam ze deel aan het 
+interne projectteam van de Douane dat de doorlichtingsmethodiek in 
+de praktijk bracht. Waarom hebben jullie als Douane Schiphol besloten mee te doen met  
+de pilot van de staatscommissie? Maarten: Als Douane Schiphol Passagiers staan we dagelijks in contact 
+met reizigers op de luchthaven. Onze douaniers zijn daarbij vaak het eerste 
+gezicht van de Nederlandse overheid op het moment dat mensen ons 
+land binnenkomen. Daarbij hoort een professionele en onbevooroordeelde 
+houding: wij moeten altijd kunnen uitleggen aan reizigers op basis van 
+welke objectieve criteria we controleren. In de afgelopen jaren hebben we 
+een eigen methode ontwikkeld voor het objectief selecteren van reizigers.",douane maarten gombert plaatsvervangend regiodirecteur douane schiphol passagiers vanuit rol verantwoordelijk deelname pilot staatscommissie geeft leiding douaniers betrokken douane controles reizigers schiphol maarten betrokken opstellen implementeren fijnslijpen handelingskader objectief selecteren douane toepast discriminatie controles voorkomen sharona dagevos werkt vaktechnisch coördinator douane schiphol passagiers vaktechnisch coördinator nam interne projectteam douane doorlichtingsmethodiek praktijk bracht waarom douane schiphol besloten mee pilot staatscommissie maarten douane schiphol passagiers staan dagelijks contact reizigers luchthaven onze douaniers daarbij vaak eerste gezicht nederlandse overheid moment mensen land binnenkomen daarbij hoort professionele onbevooroordeelde houding moeten uitleggen reizigers basis objectieve criteria controleren afgelopen eigen methode ontwikkeld objectief selecteren reizigers,0.36075054945202967,0.39814586470568547,0.3491402888025471,0.39814586470568547,Historical Slavery,0.0373953152536558,douane maarten gombert plaatsvervangend regiodirecteur douane schiphol passagiers vanuit rol verantwoordelijk deelname pilot staatscommissie geeft leiding douaniers betrokken douane controles reizigers schiphol maarten betrokken opstellen implementeren fijnslijpen handelingskader objectief selecteren douane toepast discriminatie controles voorkomen sharona dagevos werkt vaktechnisch coördinator douane schiphol passagiers vaktechnisch coördinator nam interne projectteam douane doorlichtingsmethodiek praktijk bracht waarom douane schiphol besloten mee pilot staatscommissie maarten douane schiphol passagiers staan dagelijks contact reizigers luchthaven onze douaniers daarbij vaak eerste gezicht nederlandse overheid moment mensen land binnenkomen daarbij hoort professionele onbevooroordeelde houding moeten uitleggen reizigers basis objectieve criteria controleren afgelopen eigen methode ontwikkeld objectief selecteren reizigers,1,Historical Slavery,0.48861405,0.05971713,0.48861405,0.45166883,0.036945224,very_low

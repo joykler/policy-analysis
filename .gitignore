@@ -14,7 +14,9 @@ slavery-bertje-matched_results-2015.*
 \~$*.xlsx
 __pycache__/
 *.pyc
-
+**/*.pdf
+**/*.docx
+**/*.txt
 PDF sources/Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.pdf
 PDF sources/Jouwe e.a. - Slavernij en de stad Utrecht.pdf
 PDF sources/ketenen van het verleden.pdf

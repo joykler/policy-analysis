@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "timestamp": "20251024_152403",
+    "iteration_name": "after_training",
+    "saved_at": "2025-10-24T15:24:03.017714"
+  },
+  "config": {
+    "paths": {
+      "corpus_dir": "C:\\Users\\Home\\policy-analysis\\Slavery_text",
+      "out_dir": "C:\\Users\\Home\\policy-analysis\\dictionairy",
+      "model_dir": "C:\\Users\\Home\\policy-analysis",
+      "dictionary_excel": "C:\\Users\\Home\\policy-analysis\\dutch_slavery_legacy_dictionary.xlsx"
+    },
+    "model_name": "NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers",
+    "topics": {
+      "Historical slavery": [
+        "slavernij",
+        "tot-slaaf-gemaakte",
+        "dwangarbeid",
+        "zweep"
+      ],
+      "Colonialism": [
+        "kolonie",
+        "koloniaal",
+        "voc",
+        "wic",
+        "neokoloniaal",
+        "grondstoffen",
+        "ketenuitbuiting",
+        "belastingparadijs",
+        "handelsbalans",
+        "exploitatie",
+        "economisch",
+        "contractarbeid"
+      ],
+      "Modern racism& inequality": [
+        "racisme",
+        "discriminatie",
+        "microagressie",
+        "etnisch profileren",
+        "ongelijkheid",
+        "segregatie"
+      ]
+    },
+    "vocab": {
+      "min_df": 5,
+      "max_len": 30,
+      "max_vocab": 50000
+    },
+    "expand": {
+      "k_nearest": 50,
+      "topN_per_topic": 300,
+      "min_cosine": 0.55
+    },
+    "scoring": {
+      "use_sif": true,
+      "sif_a": 0.001
+    },
+    "chunking": {
+      "sentences_per_chunk": 10,
+      "min_sentences_to_keep": 3,
+      "drop_likely_english": true,
+      "remove_stopwords": true,
+      "use_stemming": false
+    },
+    "tokenize": {
+      "lower": true,
+      "keep_hyphen": true,
+      "min_len": 2,
+      "max_len": 30,
+      "pattern": "[0-9A-Za-zÀ-ÖØ-öø-ÿ\\-]+"
+    },
+    "output": {
+      "iterative_folder": "Model_iterations",
+      "config_subfolder": "configs",
+      "data_subfolder": "processed_data",
+      "model_subfolder": "bertje_finetuned",
+      "version": "001",
+      "current_vocab_folder": "Model_iterations\\Trained_Slavery_001"
+    },
+    "model_loading": {
+      "use_pretrained": true,
+      "iteration_to_load": "Slavery_005",
+      "model_subfolder": "bertje_finetuned",
+      "include_processed_data": true
+    },
+    "dictionary_loading": {
+      "use_excel": true,
+      "topic_column": "topic",
+      "keyword_column": "keyword",
+      "sheet_name": 0
+    }
+  }
+}
