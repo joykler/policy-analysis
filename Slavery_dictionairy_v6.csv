@@ -1,0 +1,301 @@
+﻿topic,keyword,is_regex,group,weight
+"Colonial Exploitation, Slavery & Economic Inequality",Staatstoezicht,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",arbeid,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",arbeidsdeling,False,,0.16
+"Colonial Exploitation, Slavery & Economic Inequality",bezit,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",boeien,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",dwangarbeid,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",eigendom,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",emancipatie,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",export,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",handel,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",imperialism,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",invest,False,,0.16
+"Colonial Exploitation, Slavery & Economic Inequality",kapital,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",katoen,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",ketting,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",koloniaal,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",kolonie,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",landrof,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",manumissie,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",marteling,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",meester,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",monocultur,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",monopolie,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",olie,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",ongelijk,False,,1
+"Colonial Exploitation, Slavery & Economic Inequality",opbrengst,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",opstand,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",overseer,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",plantag,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",repartitie,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",rijkdom,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",slaafgemaakt,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",slavencode,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",slavernij,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",straffen,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",suiker,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",tabak,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",totslaafgemaakten,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",tuchtiging,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",uitbuit,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",uitbuiting,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",verkoop,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",vlucht,False,,1.5
+"Colonial Exploitation, Slavery & Economic Inequality",voc,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",wereldhandel,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",wic,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality",winst,False,,1.2
+"Colonial Exploitation, Slavery & Economic Inequality",zweep,False,,1.3
+Modern & Everyday Racism,Indentiteit,False,,1.3
+Modern & Everyday Racism,achtergesteld,False,,1.3
+Modern & Everyday Racism,achterstell,False,,1.3
+Modern & Everyday Racism,afrofobie,False,,1.3
+Modern & Everyday Racism,allochtoon,False,,1.3
+Modern & Everyday Racism,antiracisme,False,,1.3
+Modern & Everyday Racism,apartheid,False,,1.3
+Modern & Everyday Racism,autochtoon,False,,1.3
+Modern & Everyday Racism,culturel,False,,1.5
+Modern & Everyday Racism,discriminatie,False,,1.5
+Modern & Everyday Racism,educatie,False,,1.2
+Modern & Everyday Racism,etnisch,False,,1.5
+Modern & Everyday Racism,exclusie,False,,0.26
+Modern & Everyday Racism,inclusie,False,,1.5
+Modern & Everyday Racism,integratie,False,,1.5
+Modern & Everyday Racism,intersectionel,False,,0.26
+Modern & Everyday Racism,meerstemmig,False,,1.3
+Modern & Everyday Racism,microagressie,False,,1.5
+Modern & Everyday Racism,migrant,False,,1.3
+Modern & Everyday Racism,migratie,False,,1.2
+Modern & Everyday Racism,ongelijk,False,,1.2
+Modern & Everyday Racism,ongelijkheid,False,,1.3
+Modern & Everyday Racism,politiegeweld,False,,1.5
+Modern & Everyday Racism,raciale ongelijkheid,False,,1.3
+Modern & Everyday Racism,racism,False,,1.5
+Modern & Everyday Racism,racisme,False,,1.3
+Modern & Everyday Racism,segregatie,False,,1.5
+Modern & Everyday Racism,stereotypen,False,,1.3
+Modern & Everyday Racism,stereotyper,False,,1.5
+Modern & Everyday Racism,structureel,False,,0.26
+Modern & Everyday Racism,systemisch,False,,1.2
+Modern & Everyday Racism,uitsluit,False,,1.5
+Modern & Everyday Racism,vooroordelen,False,,0.26
+Modern & Everyday Racism,white-privilege,False,,1.3
+Modern & Everyday Racism,witheid,False,,1.5
+Modern & Everyday Racism,zwartepiet,False,,1.3
+Reparations and Remembrance,adviescolleg,False,,1.2
+Reparations and Remembrance,archief,False,,1.35
+Reparations and Remembrance,bronn,False,,1.35
+Reparations and Remembrance,claim,False,,1.35
+Reparations and Remembrance,commissie,False,,1.35
+Reparations and Remembrance,compensatie,False,,1.5
+Reparations and Remembrance,curriculum,False,,1.35
+Reparations and Remembrance,dialooggroep,False,,1.35
+Reparations and Remembrance,diaspora,False,,1.35
+Reparations and Remembrance,emancipatie,False,,1
+Reparations and Remembrance,erfgoed,False,,1.2
+Reparations and Remembrance,erken,False,,1.3
+Reparations and Remembrance,excuses,False,,1.35
+Reparations and Remembrance,gedenkboek,False,,1.3
+Reparations and Remembrance,gedenkdag,False,,1.3
+Reparations and Remembrance,geschiedenis,False,,1.35
+Reparations and Remembrance,herdenk,False,,1.3
+Reparations and Remembrance,herinner,False,,1.5
+Reparations and Remembrance,herinneringscultur,False,,1.35
+Reparations and Remembrance,herstelbetal,False,,1.3
+Reparations and Remembrance,herstelrecht,False,,1.3
+Reparations and Remembrance,juridisch,False,,1.5
+Reparations and Remembrance,lesmateriaal,False,,0.26
+Reparations and Remembrance,monument,False,,1.35
+Reparations and Remembrance,museum,False,,1.2
+Reparations and Remembrance,nazat,False,,1.35
+Reparations and Remembrance,onderwijs,False,,1.2
+Reparations and Remembrance,oral,False,,1.35
+Reparations and Remembrance,reparatie,False,,1.5
+Reparations and Remembrance,reparation,False,,1.3
+Reparations and Remembrance,restitutie,False,,1.35
+Reparations and Remembrance,schadevergoed,False,,1.2
+Reparations and Remembrance,slavernijverled,False,,1.35
+Reparations and Remembrance,tentoonstell,False,,1.5
+Reparations and Remembrance,verhal,False,,1.3
+Reparations and Remembrance,wetgev,False,,1.3
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)koloniaal(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.55
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+koloniaal(?!\w)",True,pair,1.55
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+slaafgemaakt(?!\w)",True,pair,1.55
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slaafgemaakt(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.55
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+slavernij(?!\w)",True,pair,1.55
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slavernij(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.55
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+koloniaal(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)koloniaal(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+slaafgemaakt(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slaafgemaakt(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)arbeid(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+arbeid(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+handel(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)handel(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+plantag(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)plantag(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.45
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+suiker(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)suiker(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+slavernij(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slavernij(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+staatstoezicht(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)staatstoezicht(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+meester(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)meester(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+opstand(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)opstand(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+kolonie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)kolonie(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)bezit(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+bezit(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)export(?:\W+\w+){0,11}?\W+handel(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)handel(?:\W+\w+){0,11}?\W+export(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)handel(?:\W+\w+){0,11}?\W+vlucht(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)vlucht(?:\W+\w+){0,11}?\W+handel(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)dwangarbeid(?:\W+\w+){0,11}?\W+voc(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)voc(?:\W+\w+){0,11}?\W+dwangarbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)dwangarbeid(?:\W+\w+){0,11}?\W+koloniaal(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)koloniaal(?:\W+\w+){0,11}?\W+dwangarbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)arbeid(?:\W+\w+){0,11}?\W+monopolie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)monopolie(?:\W+\w+){0,11}?\W+arbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)kolonie(?:\W+\w+){0,11}?\W+slaafgemaakt(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slaafgemaakt(?:\W+\w+){0,11}?\W+kolonie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)arbeid(?:\W+\w+){0,11}?\W+winst(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)winst(?:\W+\w+){0,11}?\W+arbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)bezit(?:\W+\w+){0,11}?\W+handel(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)handel(?:\W+\w+){0,11}?\W+bezit(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)katoen(?:\W+\w+){0,11}?\W+slaafgemaakt(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slaafgemaakt(?:\W+\w+){0,11}?\W+katoen(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)arbeid(?:\W+\w+){0,11}?\W+voc(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)voc(?:\W+\w+){0,11}?\W+arbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)arbeid(?:\W+\w+){0,11}?\W+slaafgemaakt(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slaafgemaakt(?:\W+\w+){0,11}?\W+arbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)plantag(?:\W+\w+){0,11}?\W+winst(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)winst(?:\W+\w+){0,11}?\W+plantag(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)dwangarbeid(?:\W+\w+){0,11}?\W+slaafgemaakt(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)slaafgemaakt(?:\W+\w+){0,11}?\W+dwangarbeid(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)kolonie(?:\W+\w+){0,11}?\W+plantag(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)plantag(?:\W+\w+){0,11}?\W+kolonie(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)dwangarbeid(?:\W+\w+){0,11}?\W+plantag(?!\w)",True,pair,1.35
+"Colonial Exploitation, Slavery & Economic Inequality","(?<!\w)plantag(?:\W+\w+){0,11}?\W+dwangarbeid(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+uitsluit(?!\w)",True,pair,1.55
+Modern & Everyday Racism,"(?<!\w)uitsluit(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.55
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.55
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.55
+Modern & Everyday Racism,"(?<!\w)etnisch(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+etnisch(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)inclusie(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+inclusie(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+segregatie(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)segregatie(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)culturel(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+culturel(?!\w)",True,pair,1.45
+Modern & Everyday Racism,"(?<!\w)ongelijk(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+ongelijk(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+migrant(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)migrant(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)culturel(?:\W+\w+){0,11}?\W+migrant(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)migrant(?:\W+\w+){0,11}?\W+culturel(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+integratie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)integratie(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+uitsluit(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)uitsluit(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)culturel(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+culturel(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+witheid(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)witheid(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)stereotyper(?:\W+\w+){0,11}?\W+uitsluit(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)uitsluit(?:\W+\w+){0,11}?\W+stereotyper(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)culturel(?:\W+\w+){0,11}?\W+inclusie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)inclusie(?:\W+\w+){0,11}?\W+culturel(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)integratie(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+integratie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)migrant(?:\W+\w+){0,11}?\W+uitsluit(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)uitsluit(?:\W+\w+){0,11}?\W+migrant(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)culturel(?:\W+\w+){0,11}?\W+integratie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)integratie(?:\W+\w+){0,11}?\W+culturel(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+uitsluit(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)uitsluit(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+inclusie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)inclusie(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)educatie(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+educatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)migrant(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+migrant(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+etnisch(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)etnisch(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)microagressie(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+microagressie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)culturel(?:\W+\w+){0,11}?\W+etnisch(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)etnisch(?:\W+\w+){0,11}?\W+culturel(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)discriminatie(?:\W+\w+){0,11}?\W+stereotyper(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)stereotyper(?:\W+\w+){0,11}?\W+discriminatie(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)achtergesteld(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+achtergesteld(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+systemisch(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)systemisch(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)achterstell(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+achterstell(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)etnisch(?:\W+\w+){0,11}?\W+racism(?!\w)",True,pair,1.35
+Modern & Everyday Racism,"(?<!\w)racism(?:\W+\w+){0,11}?\W+etnisch(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+slavernijverled(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)slavernijverled(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+geschiedenis(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)geschiedenis(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+schadevergoed(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)schadevergoed(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)archief(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+archief(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)commissie(?:\W+\w+){0,11}?\W+emancipatie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)emancipatie(?:\W+\w+){0,11}?\W+commissie(?!\w)",True,pair,1.55
+Reparations and Remembrance,"(?<!\w)herdenk(?:\W+\w+){0,11}?\W+verhal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)verhal(?:\W+\w+){0,11}?\W+herdenk(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)erfgoed(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+erfgoed(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)erfgoed(?:\W+\w+){0,11}?\W+slavernijverled(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)slavernijverled(?:\W+\w+){0,11}?\W+erfgoed(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)erfgoed(?:\W+\w+){0,11}?\W+museum(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)museum(?:\W+\w+){0,11}?\W+erfgoed(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)museum(?:\W+\w+){0,11}?\W+oral(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)oral(?:\W+\w+){0,11}?\W+museum(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)excuses(?:\W+\w+){0,11}?\W+herstelbetal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herstelbetal(?:\W+\w+){0,11}?\W+excuses(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herdenk(?:\W+\w+){0,11}?\W+reparation(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)reparation(?:\W+\w+){0,11}?\W+herdenk(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)monument(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+monument(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)excuses(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+excuses(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herdenk(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+herdenk(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)erfgoed(?:\W+\w+){0,11}?\W+herdenk(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herdenk(?:\W+\w+){0,11}?\W+erfgoed(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)archief(?:\W+\w+){0,11}?\W+verhal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)verhal(?:\W+\w+){0,11}?\W+archief(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herdenk(?:\W+\w+){0,11}?\W+slavernijverled(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)slavernijverled(?:\W+\w+){0,11}?\W+herdenk(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)curriculum(?:\W+\w+){0,11}?\W+geschiedenis(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)geschiedenis(?:\W+\w+){0,11}?\W+curriculum(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herstelbetal(?:\W+\w+){0,11}?\W+monument(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)monument(?:\W+\w+){0,11}?\W+herstelbetal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)oral(?:\W+\w+){0,11}?\W+verhal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)verhal(?:\W+\w+){0,11}?\W+oral(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herdenk(?:\W+\w+){0,11}?\W+herstelbetal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herstelbetal(?:\W+\w+){0,11}?\W+herdenk(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+verhal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)verhal(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)herstelbetal(?:\W+\w+){0,11}?\W+slavernijverled(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)slavernijverled(?:\W+\w+){0,11}?\W+herstelbetal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)onderwijs(?:\W+\w+){0,11}?\W+slavernijverled(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)slavernijverled(?:\W+\w+){0,11}?\W+onderwijs(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)slavernijverled(?:\W+\w+){0,11}?\W+verhal(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)verhal(?:\W+\w+){0,11}?\W+slavernijverled(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)archief(?:\W+\w+){0,11}?\W+museum(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)museum(?:\W+\w+){0,11}?\W+archief(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)geschiedenis(?:\W+\w+){0,11}?\W+nazat(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)nazat(?:\W+\w+){0,11}?\W+geschiedenis(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)erfgoed(?:\W+\w+){0,11}?\W+geschiedenis(?!\w)",True,pair,1.35
+Reparations and Remembrance,"(?<!\w)geschiedenis(?:\W+\w+){0,11}?\W+erfgoed(?!\w)",True,pair,1.35

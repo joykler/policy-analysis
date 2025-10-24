@@ -1,5 +1,0 @@
-{
-  "model_checkpoint_path": "Corex_topicdata_slavery_v4\\bertje_policy_checkpoints\\checkpoint-147",
-  "BATCH_SIZE": 16,
-  "tsne_perplexity": 30
-}

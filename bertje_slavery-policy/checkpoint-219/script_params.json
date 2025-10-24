@@ -1,5 +1,0 @@
-{
-  "model_name_or_path": "./bertje_slavery-policy/checkpoint-219",
-  "BATCH_SIZE": 16,
-  "tsne_perplexity": 30
-}

@@ -1,0 +1,12 @@
+{
+  "label2id": {
+    "Colonialism": 0,
+    "Historical Slavery": 1,
+    "Modern Racism & Inequality": 2
+  },
+  "id2label": {
+    "0": "Colonialism",
+    "1": "Historical Slavery",
+    "2": "Modern Racism & Inequality"
+  }
+}

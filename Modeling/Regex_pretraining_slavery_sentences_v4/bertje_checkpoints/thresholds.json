@@ -1,0 +1,18 @@
+{
+  "topic_names": [
+    "Reparations and Remembrance",
+    "Modern & Everyday Racism",
+    "Colonial Exploitation, Slavery & Economic Inequality",
+    "Uncategorised"
+  ],
+  "thresholds": [
+    0.95,
+    0.95,
+    0.9,
+    0.35
+  ],
+  "use_unassigned_gate": true,
+  "unassigned_idx": 3,
+  "unassigned_gate_mode": "hard",
+  "unassigned_margin": 0.05
+}

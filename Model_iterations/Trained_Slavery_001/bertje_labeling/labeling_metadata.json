@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-24T16:29:17.863932",
+  "model_used": "Model_iterations\\Trained_Slavery_001\\processed_data\\bertje_finetuned",
+  "total_chunks_labeled": 2841,
+  "confidence_thresholds": {
+    "high": {
+      "confidence": 0.8,
+      "margin": 0.2
+    },
+    "medium": {
+      "confidence": 0.6,
+      "margin": 0.1
+    },
+    "low": {
+      "confidence": 0.4,
+      "margin": 0.05
+    }
+  },
+  "confidence_distribution": {
+    "high": 2385,
+    "medium": 300,
+    "low": 114,
+    "very_low": 42
+  },
+  "label_distribution": {
+    "Modern Racism & Inequality": 1070,
+    "Colonialism": 894,
+    "Historical Slavery": 877
+  },
+  "topics": [
+    "Colonialism",
+    "Historical Slavery",
+    "Modern Racism & Inequality"
+  ],
+  "comparison_with_cosine": {
+    "agreement_count": 2553,
+    "agreement_percentage": 89.86272439281943
+  }
+}

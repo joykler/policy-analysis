@@ -1,7 +1,0 @@
-{
-  "model_checkpoint": "Corex_topicdata_slavery_policyv2\\bertje_policy_checkpoints\\checkpoint-63",
-  "base_folder": "Corex_topicdata_slavery_policyv2",
-  "BATCH_SIZE": 16,
-  "tsne_perplexity": 30,
-  "generated_on": "2025-08-20T17:37:19.977979"
-}

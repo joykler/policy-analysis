@@ -1,0 +1,14 @@
+{
+  "train_loss": 0.3553507625298342,
+  "train_runtime": 253.1933,
+  "train_samples_per_second": 24.752,
+  "eval_accuracy": 0.9540983606557377,
+  "eval_precision": 0.9540751416161252,
+  "eval_recall": 0.9540983606557377,
+  "eval_f1": 0.953551881162341,
+  "eval_loss": 0.1307155340909958,
+  "num_train_examples": 2089,
+  "num_eval_examples": 305,
+  "num_epochs": 3,
+  "dataset_used": "Option 4: High + Low + Unlabeled (Comprehensive)"
+}

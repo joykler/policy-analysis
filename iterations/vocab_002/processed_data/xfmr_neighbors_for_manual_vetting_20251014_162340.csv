@@ -1,0 +1,320 @@
+﻿topic,term,cosine,df
+Historical slavery,slavernij,1.0,935
+Historical slavery,plantage,1.0,145
+Historical slavery,dwangarbeid,1.0,35
+Historical slavery,plantages,0.9373,156
+Historical slavery,slavernijgerelateerde,0.9017,6
+Historical slavery,plantagesector,0.8531,8
+Historical slavery,slavernijverleden,0.8413,312
+Historical slavery,plantagehouder,0.8396,7
+Historical slavery,plantagehouders,0.8344,15
+Historical slavery,slavernijsysteem,0.8334,19
+Historical slavery,dwangarbeiders,0.827,6
+Historical slavery,slavernijdebat,0.8225,6
+Historical slavery,slavernijgeschiedenis,0.8136,33
+Historical slavery,slavernijperiode,0.8135,6
+Historical slavery,planters,0.8038,43
+Historical slavery,planten,0.7997,9
+Historical slavery,slavenarbeid,0.7495,18
+Historical slavery,planter,0.725,7
+Historical slavery,teelt,0.723,7
+Historical slavery,plantagekolonie,0.7197,10
+Historical slavery,slaafgemaakt,0.717,13
+Historical slavery,arbeid,0.7161,111
+Historical slavery,totslaafgemaakten,0.7105,5
+Historical slavery,slaafgemaakte,0.704,144
+Historical slavery,eigendomsslavernij,0.7025,5
+Historical slavery,slavenplantages,0.6845,5
+Historical slavery,plantagekoloniën,0.6833,7
+Historical slavery,plantageslavernij,0.672,5
+Historical slavery,oogst,0.6632,5
+Historical slavery,landbouw,0.6589,24
+Historical slavery,slavenverleden,0.6508,5
+Historical slavery,dwang,0.6496,29
+Historical slavery,wijntuin,0.6394,8
+Historical slavery,arbeidsdwang,0.633,5
+Historical slavery,slaafmakers,0.6329,8
+Historical slavery,koffieplantage,0.6314,11
+Historical slavery,slavenhandel,0.6279,285
+Historical slavery,slaafgemaak,0.6276,30
+Historical slavery,wortels,0.621,9
+Historical slavery,gewassen,0.62,16
+Historical slavery,beschaving,0.6182,19
+Historical slavery,slavernijmuseum,0.6163,18
+Historical slavery,landbouwende,0.6159,6
+Historical slavery,slaaf,0.6106,298
+Historical slavery,aanleg,0.61,10
+Historical slavery,slaven,0.6074,237
+Historical slavery,slavengeld,0.6052,5
+Historical slavery,slavenopstand,0.6043,26
+Historical slavery,suikerplantages,0.6036,12
+Historical slavery,landgoed,0.5986,13
+Historical slavery,regeringen,0.5958,10
+Historical slavery,slaafge,0.5838,24
+Historical slavery,overheersing,0.5818,15
+Historical slavery,verzet,0.5777,92
+Historical slavery,slavenkoloniën,0.5751,6
+Historical slavery,landgoederen,0.5745,7
+Historical slavery,arbeiders,0.5703,61
+Historical slavery,slavenhoudende,0.5699,6
+Historical slavery,arbeiden,0.5689,14
+Historical slavery,bossen,0.5593,5
+Historical slavery,slavenemancipatie,0.5584,9
+Historical slavery,nederzettingen,0.5583,11
+Historical slavery,nederzetting,0.5548,8
+Historical slavery,roofbouw,0.554,7
+Historical slavery,bos,0.5539,11
+Historical slavery,bomen,0.5525,6
+Historical slavery,groei,0.5524,14
+Colonialism,kolonie,1.0,163
+Colonialism,koloniaal,1.0,96
+Colonialism,voc,1.0,277
+Colonialism,wic,1.0,163
+Colonialism,koloniale,0.9781,535
+Colonialism,koloniën,0.8776,311
+Colonialism,postkoloniale,0.8665,20
+Colonialism,kolonien,0.8633,32
+Colonialism,kolonisten,0.8612,34
+Colonialism,postkoloniaal,0.8558,9
+Colonialism,kaapkolonie,0.8093,15
+Colonialism,kolonisatie,0.794,23
+Colonialism,belasting,0.7629,17
+Colonialism,slavenkolonie,0.7626,5
+Colonialism,belastingheffing,0.7543,5
+Colonialism,kolonia,0.7501,9
+Colonialism,kolonialisme,0.7395,170
+Colonialism,kolonisatoren,0.7183,5
+Colonialism,landbouwkolonie,0.7154,12
+Colonialism,kolonisator,0.7128,13
+Colonialism,gekoloniseerden,0.7042,8
+Colonialism,slavenkoloniën,0.6993,6
+Colonialism,belastingdienst,0.696,9
+Colonialism,plantagekolonie,0.6802,10
+Colonialism,grond,0.6719,83
+Colonialism,ketenen,0.6668,13
+Colonialism,uitbuiting,0.6653,23
+Colonialism,belastingen,0.6392,11
+Colonialism,antikoloniale,0.6385,6
+Colonialism,keten,0.6369,12
+Colonialism,gekoloniseerde,0.6337,31
+Colonialism,provinciale,0.6326,34
+Colonialism,landbouw,0.6323,24
+Colonialism,stof,0.6097,12
+Colonialism,gronden,0.6089,24
+Colonialism,coronie,0.5994,6
+Colonialism,provinciaal,0.5953,7
+Colonialism,grondslagen,0.5934,8
+Colonialism,materiaal,0.5874,15
+Colonialism,dekolonisatie,0.5848,18
+Colonialism,nations,0.5771,7
+Colonialism,belast,0.5722,12
+Colonialism,mondelinge,0.5673,8
+Colonialism,natie,0.5652,26
+Colonialism,meerderheid,0.5632,47
+Colonialism,creoolse,0.5567,10
+Colonialism,plantagekoloniën,0.5566,7
+Colonialism,westerse,0.5564,29
+Colonialism,inheemse,0.5563,32
+Colonialism,eeuws,0.5561,9
+Colonialism,kolo,0.5557,23
+Colonialism,volendam,0.5517,6
+Modern racism& inequality,racisme,1.0,448
+Modern racism& inequality,discriminatie,1.0,211
+Modern racism& inequality,ongelijkheid,1.0,44
+Modern racism& inequality,huisvesting,1.0,7
+Modern racism& inequality,arbeidsmarkt,1.0,31
+Modern racism& inequality,segregatie,1.0,12
+Modern racism& inequality,discrimination,0.9832,5
+Modern racism& inequality,discrimineren,0.9333,9
+Modern racism& inequality,racistische,0.9234,54
+Modern racism& inequality,racistisch,0.921,34
+Modern racism& inequality,discriminerend,0.8909,10
+Modern racism& inequality,discriminerende,0.87,6
+Modern racism& inequality,antidiscriminatie,0.869,6
+Modern racism& inequality,gediscrimineerd,0.8524,8
+Modern racism& inequality,antiracisme,0.833,11
+Modern racism& inequality,raciale,0.8328,26
+Modern racism& inequality,racism,0.8113,17
+Modern racism& inequality,verblijf,0.7869,6
+Modern racism& inequality,woningen,0.784,8
+Modern racism& inequality,raciaal,0.7771,9
+Modern racism& inequality,ongelijkheden,0.7718,7
+Modern racism& inequality,wonen,0.7584,43
+Modern racism& inequality,ongelijke,0.7471,26
+Modern racism& inequality,verblijven,0.7447,5
+Modern racism& inequality,arbeids,0.7309,8
+Modern racism& inequality,discriminatietoets,0.7127,52
+Modern racism& inequality,antidiscriminatievoorzieningen,0.7094,7
+Modern racism& inequality,buitenhuizen,0.7092,7
+Modern racism& inequality,agressie,0.7087,12
+Modern racism& inequality,huizen,0.7031,21
+Modern racism& inequality,huishouden,0.69,17
+Modern racism& inequality,etnisch,0.6835,30
+Modern racism& inequality,arbeidskrachten,0.6783,7
+Modern racism& inequality,generaties,0.6639,35
+Modern racism& inequality,gelijkheid,0.6543,26
+Modern racism& inequality,arbeiden,0.647,14
+Modern racism& inequality,compagnie,0.6453,127
+Modern racism& inequality,verzameling,0.6392,8
+Modern racism& inequality,markt,0.6358,21
+Modern racism& inequality,etnische,0.6133,75
+Modern racism& inequality,buitenhuis,0.6123,6
+Modern racism& inequality,menselijkheid,0.6108,47
+Modern racism& inequality,sector,0.6106,27
+Modern racism& inequality,huis,0.6041,81
+Modern racism& inequality,menschelijkheid,0.6026,5
+Modern racism& inequality,georganiseerde,0.5997,6
+Modern racism& inequality,gebouwen,0.5974,13
+Modern racism& inequality,nederzetting,0.5971,8
+Modern racism& inequality,verbieden,0.5958,6
+Modern racism& inequality,meerderheid,0.5945,47
+Modern racism& inequality,arbeider,0.5941,5
+Modern racism& inequality,georganiseerd,0.5928,46
+Modern racism& inequality,fascisme,0.5922,6
+Modern racism& inequality,verbouwen,0.5898,18
+Modern racism& inequality,kolonisatie,0.586,23
+Modern racism& inequality,vertegenwoordiging,0.5855,9
+Modern racism& inequality,culturele,0.5855,165
+Modern racism& inequality,verspreiding,0.5854,6
+Modern racism& inequality,heritage,0.5833,18
+Modern racism& inequality,exploitatie,0.5826,19
+Modern racism& inequality,mogendheid,0.5823,8
+Modern racism& inequality,nationalistische,0.5789,6
+Modern racism& inequality,verspreiden,0.5777,10
+Modern racism& inequality,afschaffing,0.5738,265
+Modern racism& inequality,bouwen,0.5732,33
+Modern racism& inequality,afwezigheid,0.5727,10
+Modern racism& inequality,gemeenschappen,0.5726,66
+Modern racism& inequality,werkgelegenheid,0.5695,13
+Modern racism& inequality,overnamen,0.5694,5
+Modern racism& inequality,woonden,0.5683,43
+Modern racism& inequality,huren,0.5677,6
+Modern racism& inequality,contractarbeiders,0.5671,13
+Modern racism& inequality,werkgroep,0.5666,12
+Modern racism& inequality,thuis,0.5664,27
+Modern racism& inequality,woonde,0.5661,40
+Modern racism& inequality,werkgevers,0.5642,8
+Modern racism& inequality,samenstelling,0.5626,12
+Modern racism& inequality,inwoners,0.5619,54
+Modern racism& inequality,vereenigen,0.5616,13
+Modern racism& inequality,industrie,0.5612,18
+Modern racism& inequality,verdeling,0.5601,6
+Modern racism& inequality,verspreid,0.5576,6
+Modern racism& inequality,koningshuis,0.5572,8
+Modern racism& inequality,bouwde,0.5567,8
+Modern racism& inequality,huishoudens,0.5564,12
+Modern racism& inequality,armoede,0.5558,21
+Modern racism& inequality,opbouwen,0.5555,7
+Modern racism& inequality,arbeiders,0.5555,61
+Modern racism& inequality,overname,0.5551,5
+Modern racism& inequality,omgekeerd,0.5547,7
+Modern racism& inequality,woningmarkt,0.5546,8
+Modern racism& inequality,inventarisatie,0.5538,6
+Modern racism& inequality,oprichting,0.553,58
+Modern racism& inequality,reproduceren,0.5527,5
+Modern racism& inequality,onmacht,0.5522,5
+Modern racism& inequality,billijkheid,0.552,6
+Reparations,herstelbetalingen,1.0,18
+Reparations,schadevergoeding,1.0,24
+Reparations,excuses,1.0,164
+Reparations,excuus,0.9211,35
+Reparations,sorry,0.7798,11
+Reparations,afschaffing,0.7028,265
+Reparations,schade,0.701,32
+Reparations,herstel,0.7003,76
+Reparations,excuseswet,0.6943,6
+Reparations,teruggave,0.6933,5
+Reparations,betalingen,0.6731,5
+Reparations,aansprakelijkheid,0.666,14
+Reparations,reconstructie,0.6657,5
+Reparations,constitutie,0.6583,12
+Reparations,eerherstel,0.6494,7
+Reparations,verschaffen,0.6487,6
+Reparations,vergoeding,0.648,33
+Reparations,vervangen,0.6451,25
+Reparations,herstelmaatregelen,0.6439,6
+Reparations,onttrekken,0.6439,5
+Reparations,omgekeerd,0.6352,7
+Reparations,ontslag,0.6305,17
+Reparations,verwerven,0.6247,8
+Reparations,betaling,0.6238,9
+Reparations,verplaatsing,0.6192,8
+Reparations,afkeer,0.6169,11
+Reparations,afwijzing,0.6142,8
+Reparations,verzetten,0.6137,14
+Reparations,verschuiving,0.6064,5
+Reparations,claim,0.6003,5
+Reparations,expeditie,0.5967,5
+Reparations,onschuldig,0.5947,7
+Reparations,ontvangen,0.5921,29
+Reparations,rechtsherstel,0.5919,6
+Reparations,aflossing,0.5889,6
+Reparations,herstellen,0.5845,14
+Reparations,assimilatie,0.5831,7
+Reparations,reconnaissance,0.5823,6
+Reparations,claims,0.5816,5
+Reparations,uitdragen,0.5813,5
+Reparations,schuldig,0.5813,25
+Reparations,rest,0.5772,19
+Reparations,betalen,0.5769,23
+Reparations,afgevoerd,0.5762,5
+Reparations,expansie,0.5675,27
+Reparations,vernietiging,0.5655,6
+Reparations,uitwerking,0.5648,16
+Reparations,ontnemen,0.5647,5
+Reparations,vergoedingen,0.5641,8
+Reparations,segregatie,0.5631,12
+Reparations,afschaffen,0.5603,10
+Reparations,opleveren,0.5592,14
+Reparations,geregeld,0.5576,36
+Reparations,realiseren,0.5566,12
+Reparations,bezetting,0.554,24
+Reparations,afschaffingen,0.5515,43
+Remembrance,herdenking,1.0,46
+Remembrance,monument,1.0,37
+Remembrance,erfgoed,1.0,28
+Remembrance,museum,1.0,65
+Remembrance,rijksmuseum,0.8711,36
+Remembrance,herdenkingen,0.859,13
+Remembrance,musea,0.8418,38
+Remembrance,monumenten,0.799,16
+Remembrance,historische,0.7806,93
+Remembrance,ksmuseum,0.7804,5
+Remembrance,historisch,0.7787,83
+Remembrance,tropenmuseum,0.7618,11
+Remembrance,herdenkingsdag,0.7446,12
+Remembrance,herdenkingsdagen,0.7108,12
+Remembrance,slavernijmuseum,0.6902,18
+Remembrance,denkbeeld,0.6676,13
+Remembrance,heritage,0.6642,18
+Remembrance,slavernijmonument,0.657,11
+Remembrance,schatten,0.649,6
+Remembrance,beschuldiging,0.6383,14
+Remembrance,gezag,0.6272,48
+Remembrance,beschouwing,0.6271,10
+Remembrance,rede,0.6255,18
+Remembrance,herinnering,0.625,24
+Remembrance,stiltes,0.6227,5
+Remembrance,herdenken,0.619,23
+Remembrance,viering,0.6122,24
+Remembrance,histories,0.6117,8
+Remembrance,historie,0.6078,7
+Remembrance,kasteel,0.6055,8
+Remembrance,fortuin,0.5912,14
+Remembrance,stilte,0.5863,14
+Remembrance,gebouw,0.583,17
+Remembrance,history,0.5804,72
+Remembrance,archives,0.5757,24
+Remembrance,herinneringen,0.5754,7
+Remembrance,erfenis,0.5753,50
+Remembrance,eeuwse,0.5751,40
+Remembrance,heuvel,0.575,7
+Remembrance,bevrijding,0.5749,5
+Remembrance,eeuws,0.5737,9
+Remembrance,trouwen,0.5667,6
+Remembrance,historiografie,0.5605,8
+Remembrance,herhaling,0.5593,10
+Remembrance,verbeelding,0.5573,16
+Remembrance,koningshuis,0.5539,8
+Remembrance,amendement,0.5524,32
+Remembrance,fort,0.5516,26

@@ -1,0 +1,86 @@
+﻿topic,keyword,count
+"Colonial Exploitation, Slavery & Economic Inequality",slavernij,62
+"Colonial Exploitation, Slavery & Economic Inequality",slaafgemaakt,22
+"Colonial Exploitation, Slavery & Economic Inequality",slavenhandel,15
+"Colonial Exploitation, Slavery & Economic Inequality",voc,11
+"Colonial Exploitation, Slavery & Economic Inequality",koloniaal,11
+"Colonial Exploitation, Slavery & Economic Inequality",wic,9
+"Colonial Exploitation, Slavery & Economic Inequality",arbeid,6
+"Colonial Exploitation, Slavery & Economic Inequality",handel,6
+"Colonial Exploitation, Slavery & Economic Inequality",(?<!\w)arbeid(?:\W+\w+){0,5
+"Colonial Exploitation, Slavery & Economic Inequality",11}?\W+emancipatie(?!\w),5
+"Colonial Exploitation, Slavery & Economic Inequality",(?<!\w)slavernij(?:\W+\w+){0,5
+"Colonial Exploitation, Slavery & Economic Inequality",11}?\W+slavernij(?!\w),5
+"Colonial Exploitation, Slavery & Economic Inequality",11}?\W+eigendom(?!\w),5
+"Colonial Exploitation, Slavery & Economic Inequality",emancipatie,4
+"Colonial Exploitation, Slavery & Economic Inequality",eigendom,4
+"Colonial Exploitation, Slavery & Economic Inequality",ongelijk,4
+"Colonial Exploitation, Slavery & Economic Inequality",(?<!\w)ongelijk(?:\W+\w+){0,4
+"Colonial Exploitation, Slavery & Economic Inequality",dwangarbeid,3
+"Colonial Exploitation, Slavery & Economic Inequality",opstand,2
+"Colonial Exploitation, Slavery & Economic Inequality",winst,2
+"Colonial Exploitation, Slavery & Economic Inequality",(?<!\w)eigendom(?:\W+\w+){0,2
+"Colonial Exploitation, Slavery & Economic Inequality",bezit,2
+"Colonial Exploitation, Slavery & Economic Inequality",(?<!\w)koloniaal(?:\W+\w+){0,2
+"Colonial Exploitation, Slavery & Economic Inequality",11}?\W+ongelijk(?!\w),2
+"Colonial Exploitation, Slavery & Economic Inequality",11}?\W+koloniaal(?!\w),2
+"Colonial Exploitation, Slavery & Economic Inequality",meester,2
+"Colonial Exploitation, Slavery & Economic Inequality",verkop,2
+"Colonial Exploitation, Slavery & Economic Inequality",(?<!\w)emancipatie(?:\W+\w+){0,1
+"Colonial Exploitation, Slavery & Economic Inequality",west indisch compagnie,1
+"Colonial Exploitation, Slavery & Economic Inequality",vlucht,1
+Modern & Everyday Racism,culturel,12
+Modern & Everyday Racism,racism,5
+Modern & Everyday Racism,structurel,5
+Modern & Everyday Racism,(?<!\w)structurel(?:\W+\w+){0,4
+Modern & Everyday Racism,ongelijk,4
+Modern & Everyday Racism,11}?\W+culturel(?!\w),4
+Modern & Everyday Racism,etnisch,3
+Modern & Everyday Racism,11}?\W+ongelijk(?!\w),3
+Modern & Everyday Racism,(?<!\w)etnisch(?:\W+\w+){0,2
+Modern & Everyday Racism,beeldvorm,2
+Modern & Everyday Racism,educatie,2
+Modern & Everyday Racism,institutionel racism,2
+Modern & Everyday Racism,(?<!\w)racism(?:\W+\w+){0,1
+Modern & Everyday Racism,11}?\W+etnisch(?!\w),1
+Modern & Everyday Racism,etnisch profiler,1
+Modern & Everyday Racism,toeslagenaffair,1
+Modern & Everyday Racism,meerstemm,1
+Modern & Everyday Racism,(?<!\w)ongelijk(?:\W+\w+){0,1
+Reparations and Remembrance,slavernijverled,45
+Reparations and Remembrance,geschiedenis,28
+Reparations and Remembrance,excuses,22
+Reparations and Remembrance,nazat,8
+Reparations and Remembrance,archief,7
+Reparations and Remembrance,herdenk,6
+Reparations and Remembrance,onderwijs,6
+Reparations and Remembrance,keti koti,6
+Reparations and Remembrance,monument,6
+Reparations and Remembrance,11}?\W+geschiedenis(?!\w),5
+Reparations and Remembrance,oral,5
+Reparations and Remembrance,bronn,5
+Reparations and Remembrance,juridisch,5
+Reparations and Remembrance,erfgoed,5
+Reparations and Remembrance,verhal,5
+Reparations and Remembrance,emancipatie,4
+Reparations and Remembrance,erkenn,4
+Reparations and Remembrance,diaspora,3
+Reparations and Remembrance,(?<!\w)oral(?:\W+\w+){0,3
+Reparations and Remembrance,(?<!\w)bronn(?:\W+\w+){0,3
+Reparations and Remembrance,(?<!\w)geschiedenis(?:\W+\w+){0,3
+Reparations and Remembrance,11}?\W+oral(?!\w),3
+Reparations and Remembrance,tentoonstell,3
+Reparations and Remembrance,11}?\W+excuses(?!\w),3
+Reparations and Remembrance,herstelbetal,2
+Reparations and Remembrance,11}?\W+erfgoed(?!\w),2
+Reparations and Remembrance,(?<!\w)tentoonstell(?:\W+\w+){0,2
+Reparations and Remembrance,museum,2
+Reparations and Remembrance,(?<!\w)emancipatie(?:\W+\w+){0,2
+Reparations and Remembrance,symbolisch datum,2
+Reparations and Remembrance,claim,2
+Reparations and Remembrance,herinner,2
+Reparations and Remembrance,11}?\W+slavernijverled(?!\w),1
+Reparations and Remembrance,(?<!\w)erfgoed(?:\W+\w+){0,1
+Reparations and Remembrance,(?<!\w)slavernijverled(?:\W+\w+){0,1
+Reparations and Remembrance,12}?\W+(herdenking|excuses|erkenning|adviescollege)(?!\w),1
+Reparations and Remembrance,herinneringscultur,1
