@@ -1,0 +1,12 @@
+{
+  "used_cosine_columns": [
+    "cos_Colonialism",
+    "cos_Historical slavery",
+    "cos_Modern racism& inequality"
+  ],
+  "cosine_softmax_tau": 0.5,
+  "other_threshold": 0.4,
+  "other_weight_floor": 0.3,
+  "num_labels": 3,
+  "used_soft_labels": true
+}
