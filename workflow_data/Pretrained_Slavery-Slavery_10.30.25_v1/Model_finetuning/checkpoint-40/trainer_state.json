@@ -1,28 +1,28 @@
 {
-  "best_metric": 0.175854108956602,
-  "best_model_checkpoint": "workflow_data\\Pretrained_Slavery-Slavery_10.30.25_v1\\Model_finetuning\\checkpoint-38",
+  "best_metric": 0.3038752215967406,
+  "best_model_checkpoint": "C:\\Users\\Home\\policy-analysis\\workflow_data\\Pretrained_Slavery-Slavery_10.30.25_v1\\Model_finetuning\\checkpoint-40",
   "epoch": 1.0,
   "eval_steps": 500,
-  "global_step": 38,
+  "global_step": 40,
   "is_hyper_param_search": false,
   "is_local_process_zero": true,
   "is_world_process_zero": true,
   "log_history": [
     {
       "epoch": 1.0,
-      "eval_accuracy": 0.2894736842105263,
-      "eval_f1": 0.175854108956602,
+      "eval_accuracy": 0.3924050632911392,
+      "eval_f1": 0.3038752215967406,
       "eval_loss": NaN,
-      "eval_precision": 0.30240252468695916,
-      "eval_recall": 0.2894736842105263,
-      "eval_runtime": 5.3526,
-      "eval_samples_per_second": 28.397,
-      "eval_steps_per_second": 0.934,
-      "step": 38
+      "eval_precision": 0.3363294920324165,
+      "eval_recall": 0.3924050632911392,
+      "eval_runtime": 1.3044,
+      "eval_samples_per_second": 121.129,
+      "eval_steps_per_second": 3.833,
+      "step": 40
     }
   ],
   "logging_steps": 50,
-  "max_steps": 190,
+  "max_steps": 200,
   "num_input_tokens_seen": 0,
   "num_train_epochs": 5,
   "save_steps": 500,
@@ -38,7 +38,7 @@
       "attributes": {}
     }
   },
-  "total_flos": 147301888562766.0,
+  "total_flos": 150207955705836.0,
   "train_batch_size": 16,
   "trial_name": null,
   "trial_params": null

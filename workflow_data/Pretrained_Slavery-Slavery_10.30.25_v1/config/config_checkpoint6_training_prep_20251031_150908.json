@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "timestamp": "20251031_150908",
+    "checkpoint": "checkpoint6_training_prep",
+    "workflow_folder": "C:\\Users\\Home\\policy-analysis\\workflow_data\\Pretrained_Slavery-Slavery_10.30.25_v1"
+  },
+  "config": {
+    "workflow": {
+      "model_type": "Pretrained_Slavery",
+      "topic": "Slavery",
+      "version": null
+    },
+    "paths": {
+      "corpus_dir": "Slavery_text",
+      "dictionary_excel": "dutch_slavery_legacy_dictionary.xlsx",
+      "workflow_base": "workflow_data",
+      "pretrained_model_path": "workflow_data\\Finetuned_Slavery-policy-Slavery-policy_10.30.25_v1\\Model_finetuning"
+    },
+    "corpus_filter": {
+      "enabled": false,
+      "years": [
+        2022
+      ],
+      "year_range": null,
+      "year_min": null,
+      "year_max": null,
+      "doc_types": [
+        "beleidsnotas",
+        "jaarplannen",
+        "besluiten",
+        "jaarverslagen"
+      ],
+      "filename_patterns": null,
+      "exclude_patterns": null
+    },
+    "model": {
+      "base_model_name": "NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers",
+      "use_pretrained": false
+    },
+    "dictionary": {
+      "use_excel": true,
+      "topic_column": "topic",
+      "keyword_column": "keyword",
+      "sheet_name": 0,
+      "default_topics": {
+        "Historical slavery": [
+          "slavernij",
+          "tot-slaaf-gemaakte",
+          "dwangarbeid",
+          "zweep"
+        ],
+        "Colonialism": [
+          "kolonie",
+          "koloniaal",
+          "voc",
+          "wic",
+          "exploitatie"
+        ],
+        "Modern racism& inequality": [
+          "racisme",
+          "discriminatie",
+          "ongelijkheid"
+        ]
+      }
+    },
+    "chunking": {
+      "sentences_per_chunk": 10,
+      "min_sentences_to_keep": 3,
+      "drop_likely_english": true,
+      "remove_stopwords": true,
+      "use_stemming": false
+    },
+    "tokenize": {
+      "lower": true,
+      "keep_hyphen": true,
+      "min_len": 2,
+      "max_len": 30,
+      "pattern": "[0-9A-Za-zÀ-ÖØ-öø-ÿ\\-]+"
+    },
+    "vocab": {
+      "min_df": 5,
+      "max_vocab": 50000
+    },
+    "expand": {
+      "k_nearest": 50,
+      "topN_per_topic": 300,
+      "min_cosine": 0.55
+    },
+    "scoring": {
+      "use_sif": true,
+      "sif_a": 0.001,
+      "high_confidence_score": 0.5,
+      "high_confidence_margin": 0.05,
+      "low_confidence_score": 0.4,
+      "low_confidence_margin": 0.02
+    },
+    "training": {
+      "num_epochs": 5,
+      "batch_size_train": 16,
+      "batch_size_eval": 32,
+      "learning_rate": 2e-05,
+      "weight_decay": 0.01,
+      "warmup_ratio": 0.1,
+      "dataset_option": "option2"
+    }
+  }
+}

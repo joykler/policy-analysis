@@ -1,13 +1,13 @@
 {
   "train_loss": 0.0,
-  "train_runtime": 550.8827,
-  "eval_accuracy": 0.2894736842105263,
-  "eval_precision": 0.30240252468695916,
-  "eval_recall": 0.2894736842105263,
-  "eval_f1": 0.175854108956602,
+  "train_runtime": 100.4496,
+  "eval_accuracy": 0.3924050632911392,
+  "eval_precision": 0.3363294920324165,
+  "eval_recall": 0.3924050632911392,
+  "eval_f1": 0.3038752215967406,
   "eval_loss": NaN,
-  "num_train_examples": 607,
-  "num_eval_examples": 152,
+  "num_train_examples": 630,
+  "num_eval_examples": 158,
   "num_epochs": 5,
-  "dataset_used": "option2"
+  "dataset_used": "option4"
 }

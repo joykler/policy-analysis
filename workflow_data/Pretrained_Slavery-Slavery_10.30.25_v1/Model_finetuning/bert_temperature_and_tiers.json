@@ -1,8 +1,8 @@
 {
-  "temperature_T": 14.23828125,
+  "temperature_T": 0.625,
   "tier_thresholds": {
-    "HIGH": 0.3398916721343994,
-    "MEDIUM": 0.3387477874755859,
+    "HIGH": 0.4166612058877945,
+    "MEDIUM": 0.39132981896400454,
     "LOW_or_IRRELEVANT": 0.0
   },
   "note": "At inference: softmax(logits / T). If pmax≥HIGH→HIGH, if MEDIUM≤pmax<HIGH→MEDIUM, else LOW/Irrelevant."
