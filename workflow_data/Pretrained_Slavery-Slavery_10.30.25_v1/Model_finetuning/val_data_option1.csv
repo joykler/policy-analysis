@@ -1,0 +1,443 @@
+filename,chunk_id,sentence_count,raw_text,text_for_scoring,cos_Colonialism,cos_Historical slavery,cos_Modern racism& inequality,max_score,primary_topic,score_margin,confidence_level,text,label,label_id,is_pseudo
+Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.468.txt,eb9618c9:00001,10,"Bulten, ‘Classifications at Work. Social Categories and Dutch Bureaucracy 
+in Colonial Sri Lanka,’ Itinerario 45:2 (2021) 
+252–278. ◼ ◼◼  M
+Maarseveen, van, Briefwisseling van Nicolaas 
+Pierson, 309. Pierson aan Van Houten, 30 
+november 1871 (Amsterdam 1993). Maier, Henk, ‘Nederlands-Indië en het Maleis,’ 
+in: Kees Groeneboer, Koloniale taalpolitiek in Oost 
+en West. Nederlands-Indië, Suriname, Nederlandse 
+Antillen en Aruba (Amsterdam 1997) 13-54. Martis, Adi, De geschiedenis van Aruba tot 1816 
+(Volendam 2018). Maskiell, Nicole, Bound by Bondage. Slavery and the 
+Creation of a Northern Gentry (Ithaca / Londen 
+2022). Masters, A., ‘A Thousand Invisible Architects.",bulten classifications work social categories dutch bureaucracy colonial sri lanka itinerario maarseveen briefwisseling nicolaas pierson pierson houten november amsterdam maier henk nederlands indië maleis kees groeneboer koloniale taalpolitiek oost west nederlands indie suriname nederlandse antillen aruba amsterdam martis adi geschiedenis aruba volendam maskiell nicole bound bondage masters thousand invisible architects,0.511664621159605,0.4452934382549258,0.4476381045571067,0.511664621159605,Colonialism,0.0640265166024982,high,"Bulten, ‘Classifications at Work. Social Categories and Dutch Bureaucracy 
+in Colonial Sri Lanka,’ Itinerario 45:2 (2021) 
+252–278. ◼ ◼◼  M
+Maarseveen, van, Briefwisseling van Nicolaas 
+Pierson, 309. Pierson aan Van Houten, 30 
+november 1871 (Amsterdam 1993). Maier, Henk, ‘Nederlands-Indië en het Maleis,’ 
+in: Kees Groeneboer, Koloniale taalpolitiek in Oost 
+en West. Nederlands-Indië, Suriname, Nederlandse 
+Antillen en Aruba (Amsterdam 1997) 13-54. Martis, Adi, De geschiedenis van Aruba tot 1816 
+(Volendam 2018). Maskiell, Nicole, Bound by Bondage. Slavery and the 
+Creation of a Northern Gentry (Ithaca / Londen 
+2022). Masters, A., ‘A Thousand Invisible Architects.",Colonialism,0,False
+Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.96.txt,737a4106:00000,9,"96 
+MATTHIAS VAN ROSSUM
+De stad Utrecht, slavernĳ en koloniaal profĳt
+Hoe kwam deze onbekende Utrechts-Aziatische slavernĳconnectie 
+tot stand? De voc werd in 1602 opgericht als samenvoeging van ver-
+schillende voorlopers uit Amsterdam, Zeeland en kleinere Hollandse 
+handelssteden. Deze Compagnie was al vroeg niet alleen meer een 
+handelsonderneming, maar ontwikkelde zich tot koloniaal bedrĳf dat 
+namens de Republiek oorlog voerde, verdragen sloot en omvangrĳke 
+gebieden bestuurde in de Indische Oceaan en de Indonesische archipel. De voc organiseerde als koloniale overheid de slavenhandel, slavernĳ en 
+grootschalige stelsels van gedwongen arbeid op onder meer Sri Lanka 
+(toen Ceylon genoemd), de Molukken en Java. Naar schatting werden in 
+totaal 660.000 tot 1.135.000 slaafgemaakten naar voc-gebieden vervoerd.2
+Bĳ de vorming van de voc in 1602 werd in Utrecht geen kamer 
+(afdeling) van de voc gevestigd. Wel kregen de Staten van Utrecht 
+vanaf 1614 het recht om een bewindhebber in de kamer Amsterdam 
+van de voc te benoemen, om op deze manier zicht te houden op de 
+grootschalige subsidies van de Staten-Generaal aan de Compagnie. In 
+de Staten van Utrecht waren de steden, kapittels en ridderschap uit 
+de provincie vertegenwoordigd, maar de stad Utrecht had een domi-
+nante rol. Dus werden vooral prominente Utrechters afgevaardigd als 
+Plattegrond van de stad Cochin, India. Johannes Vingboons, 1665 (Nationaal Archief)",matthias rossum stad utrecht slavernĳ koloniaal profĳt kwam onbekende utrechts aziatische slavernĳconnectie stand voc opgericht samenvoeging ver schillende voorlopers amsterdam zeeland kleinere hollandse handelssteden compagnie vroeg alleen handelsonderneming ontwikkelde koloniaal bedrĳf namens republiek oorlog voerde verdragen sloot omvangrĳke gebieden bestuurde indische oceaan indonesische archipel voc organiseerde koloniale overheid slavenhandel slavernĳ grootschalige stelsels gedwongen arbeid sri lanka ceylon genoemd molukken java schatting werden totaal slaafgemaakten voc gebieden vervoerd bĳ vorming voc utrecht kamer afdeling voc gevestigd kregen staten utrecht vanaf recht bewindhebber kamer amsterdam voc benoemen manier zicht houden grootschalige subsidies staten generaal compagnie staten utrecht steden kapittels ridderschap provincie vertegenwoordigd stad utrecht domi nante rol werden vooral prominente utrechters afgevaardigd plattegrond stad cochin india johannes vingboons nationaal archief,0.5271740268957565,0.3795113576234012,0.4189364108331281,0.5271740268957565,Colonialism,0.1082376160626283,high,"96 
+MATTHIAS VAN ROSSUM
+De stad Utrecht, slavernĳ en koloniaal profĳt
+Hoe kwam deze onbekende Utrechts-Aziatische slavernĳconnectie 
+tot stand? De voc werd in 1602 opgericht als samenvoeging van ver-
+schillende voorlopers uit Amsterdam, Zeeland en kleinere Hollandse 
+handelssteden. Deze Compagnie was al vroeg niet alleen meer een 
+handelsonderneming, maar ontwikkelde zich tot koloniaal bedrĳf dat 
+namens de Republiek oorlog voerde, verdragen sloot en omvangrĳke 
+gebieden bestuurde in de Indische Oceaan en de Indonesische archipel. De voc organiseerde als koloniale overheid de slavenhandel, slavernĳ en 
+grootschalige stelsels van gedwongen arbeid op onder meer Sri Lanka 
+(toen Ceylon genoemd), de Molukken en Java. Naar schatting werden in 
+totaal 660.000 tot 1.135.000 slaafgemaakten naar voc-gebieden vervoerd.2
+Bĳ de vorming van de voc in 1602 werd in Utrecht geen kamer 
+(afdeling) van de voc gevestigd. Wel kregen de Staten van Utrecht 
+vanaf 1614 het recht om een bewindhebber in de kamer Amsterdam 
+van de voc te benoemen, om op deze manier zicht te houden op de 
+grootschalige subsidies van de Staten-Generaal aan de Compagnie. In 
+de Staten van Utrecht waren de steden, kapittels en ridderschap uit 
+de provincie vertegenwoordigd, maar de stad Utrecht had een domi-
+nante rol. Dus werden vooral prominente Utrechters afgevaardigd als 
+Plattegrond van de stad Cochin, India. Johannes Vingboons, 1665 (Nationaal Archief)",Colonialism,0,False
+Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.244.txt,49035cfa:00001,6,"Er waren niet veel 
+ambachtslieden in de stad, die bevonden zich eerder op de plantages 
+onder de slaafgemaakten. Daar werkten ze voor de plantage-eigenaar. Met de toename van het aantal vrije kleurlingen nam het aantal ambachts­
+lieden (zoals schoenmakers, bakkers en timmerlieden) toe. De vrijverklaar­
+den boden hun diensten aan stadsbewoners aan of teelden op kleine 
+gronden gewassen om in hun behoefte te voorzien. Huisbedienden en 
+ambachtslieden die geen verplichting hadden tot contractarbeid tijdens 
+het staatstoezicht trokken naar Paramaribo om er te werken, hun diensten 
+aan te bieden of hun waar te verkopen. Paramaribo telde rond de afschaf­
+fing van de slavernij ongeveer 20 000 inwoners, vandaag de dag zijn dat",ambachtslieden stad bevonden eerder plantages slaafgemaakten werkten plantage eigenaar toename aantal vrije kleurlingen nam aantal ambachts lieden schoenmakers bakkers timmerlieden toe vrijverklaar den boden diensten stadsbewoners teelden kleine gronden gewassen behoefte voorzien huisbedienden ambachtslieden verplichting hadden contractarbeid staatstoezicht trokken paramaribo werken diensten bieden waar verkopen paramaribo telde rond afschaf fing slavernij ongeveer inwoners vandaag dag,0.4294318928040094,0.5305407726385295,0.3456926257773093,0.5305407726385295,Historical slavery,0.10110887983452,high,"Er waren niet veel 
+ambachtslieden in de stad, die bevonden zich eerder op de plantages 
+onder de slaafgemaakten. Daar werkten ze voor de plantage-eigenaar. Met de toename van het aantal vrije kleurlingen nam het aantal ambachts­
+lieden (zoals schoenmakers, bakkers en timmerlieden) toe. De vrijverklaar­
+den boden hun diensten aan stadsbewoners aan of teelden op kleine 
+gronden gewassen om in hun behoefte te voorzien. Huisbedienden en 
+ambachtslieden die geen verplichting hadden tot contractarbeid tijdens 
+het staatstoezicht trokken naar Paramaribo om er te werken, hun diensten 
+aan te bieden of hun waar te verkopen. Paramaribo telde rond de afschaf­
+fing van de slavernij ongeveer 20 000 inwoners, vandaag de dag zijn dat",Historical slavery,1,False
+Slavery_text\Amsterdam en het slavernijverleden.37.txt,acd8e796:00000,10,"37
+­plantagehouders. Slaafgemaakten leefden 
+vaak in gezinsverband in eenvoudige hutten 
+op de plantage. Ze probeerden daarbij om 
+hun Afrikaanse geloof en cultuur aan te 
+houden, maar veel ‘eigenaren’ moesten 
+daar niets van hebben. Plantage Vossenburg
+Slaafgemaakten werkten meestal twaalf 
+uur per dag. Dat werk bestond voor 
+mannen uit zware arbeid, zoals het 
+kappen van het regenwoud om het 
+geschikt te maken voor het verbouwen 
+van gewassen, maar ook het verbouwen 
+en verwerken van de gewassen zelf. Sommige slaafgemaakten werden 
+opgeleid tot het uitoefenen van 
+ambachten. Zo werkten er op de 
+plantage Vossenburg in Suriname 
+bijvoorbeeld timmermannen en 
+kuipers. Vrouwen werkten op het land 
+of in de huishouding. Plantage Vossenburg was vanaf 1729 
+tot na 1863 het eigendom van de 
+Arnhemse burgemeestersfamilie 
+Brantsen. Volgens een lijst uit 1852 
+waren er dat jaar 136 slaafgemaakten 
+op de plantage.",plantagehouders slaafgemaakten leefden vaak gezinsverband eenvoudige hutten plantage probeerden daarbij afrikaanse geloof cultuur houden eigenaren moesten plantage vossenburg slaafgemaakten werkten meestal twaalf uur per dag werk bestond mannen zware arbeid kappen regenwoud geschikt maken verbouwen gewassen verbouwen verwerken gewassen sommige slaafgemaakten werden opgeleid uitoefenen ambachten werkten plantage vossenburg suriname bijvoorbeeld timmermannen kuipers vrouwen werkten land huishouding plantage vossenburg vanaf eigendom arnhemse burgemeestersfamilie brantsen volgens lijst slaafgemaakten plantage,0.3763372705639138,0.5883128822054978,0.3403019591546987,0.5883128822054978,Historical slavery,0.2119756116415839,high,"37
+­plantagehouders. Slaafgemaakten leefden 
+vaak in gezinsverband in eenvoudige hutten 
+op de plantage. Ze probeerden daarbij om 
+hun Afrikaanse geloof en cultuur aan te 
+houden, maar veel ‘eigenaren’ moesten 
+daar niets van hebben. Plantage Vossenburg
+Slaafgemaakten werkten meestal twaalf 
+uur per dag. Dat werk bestond voor 
+mannen uit zware arbeid, zoals het 
+kappen van het regenwoud om het 
+geschikt te maken voor het verbouwen 
+van gewassen, maar ook het verbouwen 
+en verwerken van de gewassen zelf. Sommige slaafgemaakten werden 
+opgeleid tot het uitoefenen van 
+ambachten. Zo werkten er op de 
+plantage Vossenburg in Suriname 
+bijvoorbeeld timmermannen en 
+kuipers. Vrouwen werkten op het land 
+of in de huishouding. Plantage Vossenburg was vanaf 1729 
+tot na 1863 het eigendom van de 
+Arnhemse burgemeestersfamilie 
+Brantsen. Volgens een lijst uit 1852 
+waren er dat jaar 136 slaafgemaakten 
+op de plantage.",Historical slavery,1,False
+Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.461.txt,81e3a2e1:00002,10,"Indonesia,’Asian Perspectives. Journal of 
+Archaeology for Asia and the Pacific, 52(2) (2013) 
+213–243; Felicia Fricke et al. ‘Delayed 
+physical development in a first generation 
+enslaved African woman from Pietermaai, 
+Curaçao,’International Journal of 
+Osteoarchaeology, 30(1) (2019) 43–52; Brent 
+Sinclair-Thomson en Sam Challis, ‘Runaway 
+slaves, rock art and resistance in the Cape 
+Colony, South Africa,’Azania. Archaeological 
+Research in Africa, 55(4) (2020) 475–491; Cheryl 
+White, ‘Archaeological investigation of 
+Suriname Maroon ancestral 
+communities,’Caribbean Quarterly, 55(2) 
+(2009) 65–88. 2. Zie onder meer: Julie M. Schablitsky et al., 
+‘Ancient dna analysis of a nineteenth 
+century tobacco pipe from a Maryland slave 
+quarter,’ Journal of Archaeological Science, 105 
+(2019) 11–18. ◼ ◼◼  Belast koloniaal verleden – Anne-Marieke 
+van Schaik
+1. J. Mellegers, ‘Public Finance of Indonesia 
+1817-1940,’ datafiles iisg, copy of revenues.",indonesia asian perspectives archaeological research africa cheryl white archaeological investigation suriname maroon ancestral communities caribbean quarterly zie julie belast koloniaal verleden anne marieke schaik j mellegers public finance indonesia datafiles iisg copy revenues,0.571592813963112,0.4202389028070855,0.4105570633630507,0.571592813963112,Colonialism,0.1513539111560265,high,"Indonesia,’Asian Perspectives. Journal of 
+Archaeology for Asia and the Pacific, 52(2) (2013) 
+213–243; Felicia Fricke et al. ‘Delayed 
+physical development in a first generation 
+enslaved African woman from Pietermaai, 
+Curaçao,’International Journal of 
+Osteoarchaeology, 30(1) (2019) 43–52; Brent 
+Sinclair-Thomson en Sam Challis, ‘Runaway 
+slaves, rock art and resistance in the Cape 
+Colony, South Africa,’Azania. Archaeological 
+Research in Africa, 55(4) (2020) 475–491; Cheryl 
+White, ‘Archaeological investigation of 
+Suriname Maroon ancestral 
+communities,’Caribbean Quarterly, 55(2) 
+(2009) 65–88. 2. Zie onder meer: Julie M. Schablitsky et al., 
+‘Ancient dna analysis of a nineteenth 
+century tobacco pipe from a Maryland slave 
+quarter,’ Journal of Archaeological Science, 105 
+(2019) 11–18. ◼ ◼◼  Belast koloniaal verleden – Anne-Marieke 
+van Schaik
+1. J. Mellegers, ‘Public Finance of Indonesia 
+1817-1940,’ datafiles iisg, copy of revenues.",Colonialism,0,False
+Slavery_text\Racisme bij het Ministerie van Buitenlandse Zaken. Een verkennend onderzoek.106.txt,0721ec9d:00000,10,"RACISME BIJ HET MINISTERIE VAN BUITENLANDSE ZAKEN 
+Een verkennend onderzoek 
+ 
+106 
+ 
+Thijssen, L., M. Coenders en B. Lancee (2019). Etnische discriminatie op de Nederlandse 
+arbeidsmarkt. In: Mens en maatschappij, 94, nr. 2, p. 141-176. Thijssen, L., Coenders, M., & Lancee, B. (2020). Ethnic Discrimination in the Dutch Labor 
+Market: Differences Between Ethnic Minority Groups and the Role of Personal Information 
+About Job Applicants—Evidence from a Field Experiment.",racisme ministerie buitenlandse zaken verkennend onderzoek thijssen l coenders b lancee etnische discriminatie nederlandse arbeidsmarkt mens maatschappij nr p thijssen l coenders lancee b,0.4350782638566415,0.3849058141215203,0.5189896325750777,0.5189896325750777,Modern racism& inequality,0.0839113687184361,high,"RACISME BIJ HET MINISTERIE VAN BUITENLANDSE ZAKEN 
+Een verkennend onderzoek 
+ 
+106 
+ 
+Thijssen, L., M. Coenders en B. Lancee (2019). Etnische discriminatie op de Nederlandse 
+arbeidsmarkt. In: Mens en maatschappij, 94, nr. 2, p. 141-176. Thijssen, L., Coenders, M., & Lancee, B. (2020). Ethnic Discrimination in the Dutch Labor 
+Market: Differences Between Ethnic Minority Groups and the Role of Personal Information 
+About Job Applicants—Evidence from a Field Experiment.",Modern racism& inequality,2,False
+Slavery_text\Amsterdam en het slavernijverleden.38.txt,3d69eb6a:00000,10,"Het leven van 
+slaafgemaakten in Azië 
+Slaafgemaakten in Azië werkten op 
+scheepswerven, in werkplaatsen, op het 
+land, in de mijnen en in pakhuizen. Daar 
+zat zwaar werk bij, zoals bomen hakken, 
+steenhouwen, laden, lossen en sjouwwerk. ‘Eigenaren’ verhuurden ze ook vaak 
+aan anderen en verdienden zo geld aan 
+‘hun’ slaafgemaakten. Ook waren veel 
+slaafgemaakten onderdeel van een 
+huishouden. Sommige vrouwen moesten 
+de heer des huizes vermaken met zang, 
+dans en gedwongen seks. Het bezit van slaafgemaakten gaf hun 
+‘eigenaren’ aanzien. Belangrijke VOC-
+bestuurders bezaten meer slaafgemaakten 
+dan VOC-medewerkers die minder 
+verdienden. Zo hadden zeelieden en 
+soldaten gemiddeld één slaafgemaakte, 
+juniorassistenten hadden er ongeveer 
+drie en in de hogere functies kon dit 
+oplopen tot zelfs honderden. Harde straffen
+Het werk in de mijnen was zwaarder 
+dan het werk in de stad. Ook de straffen 
+waren harder, tot ronduit sadistisch.",leven slaafgemaakten azië slaafgemaakten azië werkten scheepswerven werkplaatsen land mijnen pakhuizen zat zwaar werk bomen hakken steenhouwen laden lossen sjouwwerk eigenaren verhuurden vaak anderen verdienden geld slaafgemaakten slaafgemaakten onderdeel huishouden sommige vrouwen moesten heer des huizes vermaken zang dans gedwongen seks bezit slaafgemaakten gaf eigenaren aanzien belangrijke voc bestuurders bezaten slaafgemaakten voc medewerkers verdienden hadden zeelieden soldaten gemiddeld één slaafgemaakte juniorassistenten hadden ongeveer drie hogere functies oplopen zelfs honderden harde straffen werk mijnen zwaarder werk stad straffen harder ronduit sadistisch,0.3914900245732022,0.5075142563744983,0.3965891648961819,0.5075142563744983,Historical slavery,0.1109250914783163,high,"Het leven van 
+slaafgemaakten in Azië 
+Slaafgemaakten in Azië werkten op 
+scheepswerven, in werkplaatsen, op het 
+land, in de mijnen en in pakhuizen. Daar 
+zat zwaar werk bij, zoals bomen hakken, 
+steenhouwen, laden, lossen en sjouwwerk. ‘Eigenaren’ verhuurden ze ook vaak 
+aan anderen en verdienden zo geld aan 
+‘hun’ slaafgemaakten. Ook waren veel 
+slaafgemaakten onderdeel van een 
+huishouden. Sommige vrouwen moesten 
+de heer des huizes vermaken met zang, 
+dans en gedwongen seks. Het bezit van slaafgemaakten gaf hun 
+‘eigenaren’ aanzien. Belangrijke VOC-
+bestuurders bezaten meer slaafgemaakten 
+dan VOC-medewerkers die minder 
+verdienden. Zo hadden zeelieden en 
+soldaten gemiddeld één slaafgemaakte, 
+juniorassistenten hadden er ongeveer 
+drie en in de hogere functies kon dit 
+oplopen tot zelfs honderden. Harde straffen
+Het werk in de mijnen was zwaarder 
+dan het werk in de stad. Ook de straffen 
+waren harder, tot ronduit sadistisch.",Historical slavery,1,False
+Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.458.txt,babbd85c:00005,10,"Heijmans, ‘From Impropriety 
+to Betrayal. Policing Non-Marital Sex in the 
+Early Modern Dutch Empire,’ Journal of Social 
+History 55:2 (2021) 315-344; D. Lyna en L. Bulten, ‘Classifications at Work. Social 
+Categories and Dutch Bureaucracy in 
+Colonial Sri Lanka,’ Itinerario 45:2 (2021) 252–
+278; N. Wickramasinghe, Slave in a Palanquin. Colonial Servitude and Resistance in Sri Lanka 
+(New York 2020). 7. C.K. Kesler, ‘Willem Usselincx en de 
+oprichting van de Westindische Compagnie,’ 
+De West-Indische Gids 3:1 (1921) 65–78; Wim 
+Klooster, The Dutch Moment.",heijmans impropriety betrayal lyna l bulten classifications work social categories dutch bureaucracy colonial sri lanka itinerario n wickramasinghe slave palanquin colonial servitude resistance sri lanka new york c k kesler willem usselincx oprichting westindische compagnie west indische gids wim klooster dutch moment,0.5556191462617698,0.4702151935385757,0.4435558543906053,0.5556191462617698,Colonialism,0.085403952723194,high,"Heijmans, ‘From Impropriety 
+to Betrayal. Policing Non-Marital Sex in the 
+Early Modern Dutch Empire,’ Journal of Social 
+History 55:2 (2021) 315-344; D. Lyna en L. Bulten, ‘Classifications at Work. Social 
+Categories and Dutch Bureaucracy in 
+Colonial Sri Lanka,’ Itinerario 45:2 (2021) 252–
+278; N. Wickramasinghe, Slave in a Palanquin. Colonial Servitude and Resistance in Sri Lanka 
+(New York 2020). 7. C.K. Kesler, ‘Willem Usselincx en de 
+oprichting van de Westindische Compagnie,’ 
+De West-Indische Gids 3:1 (1921) 65–78; Wim 
+Klooster, The Dutch Moment.",Colonialism,0,False
+Slavery_text\Racisme bij het Ministerie van Buitenlandse Zaken. Een verkennend onderzoek.14.txt,79532f1f:00000,10,"RACISME BIJ HET MINISTERIE VAN BUITENLANDSE ZAKEN 
+Een verkennend onderzoek 
+ 
+14 
+ 
+komende jaren onderzoek doen naar discriminatie en racisme in uiteenlopende sectoren 
+van de samenleving, inclusief de overheid. 1.1 De betekenissen van racisme 
+In met name hoofdstuk 3 werken we de betekenis van racisme aan de hand van de 
+concrete ervaringen van respondenten nader uit. In deze inleiding staan we op 
+hoofdlijnen stil bij de betekenis van racisme. Juridische benadering van racisme 
+Discriminatie op grond van onder meer ras, godsdienst en levensovertuiging is in 
+Nederland verboden, zoals artikel 1 van de Grondwet duidelijk maakt. In juridisch 
+perspectief is ook het Internationaal Verdrag Inzake de uitbanning van alle vormen van 
+rassendiscriminatie relevant. Dit verdrag werd in 1965 aangenomen door de Verenigde 
+Naties. Racisme wordt hierin omschreven als:  
+ 
+“Elke vorm van onderscheid, uitsluiting, beperking of voorkeur op grond van ras, 
+huidskleur, afkomst of nationale of etnische afstamming die ten doel heeft de erkenning, 
+het genot of de uitoefening, op voet van gelijkheid, van de rechten van de mens en de 
+fundamentele vrijheden op politiek, economisch, sociaal of cultureel gebied, of op 
+andere terreinen van het openbare leven, teniet te doen of aan te tasten, dan wel de 
+tenietdoening of aantasting daarvan ten gevolge heeft”. Racisme als een veelkoppig monster  
+Naast een juridische benadering van racisme is er in de sociale wetenschappen veel 
+gepubliceerd over (de betekenis van) racisme. In de wetenschappelijke literatuur is er 
+brede erkenning voor het idee dat racisme een veelkoppig monster is. In navolging van 
+veel andere wetenschappers zien wij racisme dan ook als een breed verschijnsel met 
+uiteenlopende verschijningsvormen.",racisme ministerie buitenlandse zaken verkennend onderzoek komende onderzoek discriminatie racisme uiteenlopende sectoren samenleving inclusief overheid betekenissen racisme name hoofdstuk werken betekenis racisme hand concrete ervaringen respondenten nader staan hoofdlijnen stil betekenis racisme juridische benadering racisme discriminatie grond ras godsdienst levensovertuiging nederland verboden artikel grondwet duidelijk maakt juridisch perspectief internationaal verdrag inzake uitbanning vormen rassendiscriminatie relevant verdrag aangenomen verenigde naties racisme hierin omschreven elke vorm onderscheid uitsluiting beperking voorkeur grond ras huidskleur afkomst nationale etnische afstamming ten doel erkenning genot uitoefening voet gelijkheid rechten mens fundamentele vrijheden politiek economisch sociaal cultureel gebied terreinen openbare leven teniet tasten tenietdoening aantasting daarvan ten gevolge racisme veelkoppig monster juridische benadering racisme sociale wetenschappen gepubliceerd betekenis racisme wetenschappelijke literatuur brede erkenning idee racisme veelkoppig monster navolging wetenschappers zien racisme breed verschijnsel uiteenlopende verschijningsvormen,0.3824808973621612,0.3552081274434863,0.5362242083884918,0.5362242083884918,Modern racism& inequality,0.1537433110263306,high,"RACISME BIJ HET MINISTERIE VAN BUITENLANDSE ZAKEN 
+Een verkennend onderzoek 
+ 
+14 
+ 
+komende jaren onderzoek doen naar discriminatie en racisme in uiteenlopende sectoren 
+van de samenleving, inclusief de overheid. 1.1 De betekenissen van racisme 
+In met name hoofdstuk 3 werken we de betekenis van racisme aan de hand van de 
+concrete ervaringen van respondenten nader uit. In deze inleiding staan we op 
+hoofdlijnen stil bij de betekenis van racisme. Juridische benadering van racisme 
+Discriminatie op grond van onder meer ras, godsdienst en levensovertuiging is in 
+Nederland verboden, zoals artikel 1 van de Grondwet duidelijk maakt. In juridisch 
+perspectief is ook het Internationaal Verdrag Inzake de uitbanning van alle vormen van 
+rassendiscriminatie relevant. Dit verdrag werd in 1965 aangenomen door de Verenigde 
+Naties. Racisme wordt hierin omschreven als:  
+ 
+“Elke vorm van onderscheid, uitsluiting, beperking of voorkeur op grond van ras, 
+huidskleur, afkomst of nationale of etnische afstamming die ten doel heeft de erkenning, 
+het genot of de uitoefening, op voet van gelijkheid, van de rechten van de mens en de 
+fundamentele vrijheden op politiek, economisch, sociaal of cultureel gebied, of op 
+andere terreinen van het openbare leven, teniet te doen of aan te tasten, dan wel de 
+tenietdoening of aantasting daarvan ten gevolge heeft”. Racisme als een veelkoppig monster  
+Naast een juridische benadering van racisme is er in de sociale wetenschappen veel 
+gepubliceerd over (de betekenis van) racisme. In de wetenschappelijke literatuur is er 
+brede erkenning voor het idee dat racisme een veelkoppig monster is. In navolging van 
+veel andere wetenschappers zien wij racisme dan ook als een breed verschijnsel met 
+uiteenlopende verschijningsvormen.",Modern racism& inequality,2,False
+Slavery_text\Allen e.a. - 2023 - Staat en slavernij het Nederlandse koloniale slavernijverleden en zijn doorwerkingen.471.txt,73e3259d:00001,10,"Stipriaan, Alex van, ‘The Long Road to a 
+Monument,’ Facing up to the Past. Perspectives 
+on the Commemoration of Slavery from Africa, the 
+Americas and Europe (Kingston 2001). Stipriaan, Alex et al., Op zoek naar de stilte (2012). Stipriaan, Alex van, ‘Caribisch erfgoed in de 
+Nederlandse Black Atlantic,’ Oso. Tijdschrift voor 
+Surinaamse taalkunde, letterkunde en geschiedenis 
+35 (2016). Stols, E., ‘Um dos primeiros documentos sobre o 
+Engenho dos Schetz em São Vicente,’ Revista de 
+História 37 (1968) 407. Stubenvoll, J. von, History of the Island of Celebes 
+[…], volume 3. A Report Concerning the Slave Trade 
+of Macassar, Drawn Up by a Dutch Committee, 
+Appointed for That Purpose (Calcutta 1817). Subrahmanyam, Sanjay, Political Economy of 
+Commerce Southern India 1500-1650 (Cambridge 
+1990).",stipriaan alex et zoek stilte stipriaan alex caribisch erfgoed nederlandse black atlantic oso tijdschrift surinaamse taalkunde letterkunde geschiedenis stols e um dos primeiros documentos sobre engenho dos schetz em são vicente revista história stubenvoll j subrahmanyam sanjay political economy commerce southern india cambridge,0.5005119446893431,0.4381319902301912,0.4309734933853592,0.5005119446893431,Colonialism,0.0623799544591519,high,"Stipriaan, Alex van, ‘The Long Road to a 
+Monument,’ Facing up to the Past. Perspectives 
+on the Commemoration of Slavery from Africa, the 
+Americas and Europe (Kingston 2001). Stipriaan, Alex et al., Op zoek naar de stilte (2012). Stipriaan, Alex van, ‘Caribisch erfgoed in de 
+Nederlandse Black Atlantic,’ Oso. Tijdschrift voor 
+Surinaamse taalkunde, letterkunde en geschiedenis 
+35 (2016). Stols, E., ‘Um dos primeiros documentos sobre o 
+Engenho dos Schetz em São Vicente,’ Revista de 
+História 37 (1968) 407. Stubenvoll, J. von, History of the Island of Celebes 
+[…], volume 3. A Report Concerning the Slave Trade 
+of Macassar, Drawn Up by a Dutch Committee, 
+Appointed for That Purpose (Calcutta 1817). Subrahmanyam, Sanjay, Political Economy of 
+Commerce Southern India 1500-1650 (Cambridge 
+1990).",Colonialism,0,False
+Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.281.txt,40e7294f:00002,10,"Post-
+colonial Legacies of the Past’, in: Stefan Jonsson en Julia Willén (red.), 
+Austere Histories in European Societies. Social Exclusion and the Contest of 
+Colonial Memories (London: Routledge, 2016), 59-73, aldaar 60-63. De Utrechtse Compagnie
+1. G. van Rĳn, Het groote Tafereel der Dwaasheid en zĳn geschiedenis, voor-
+afgegaan door eenige mededeelingen over de Utrechtsche en Middelburg-
+sche Compagnieën (Amsterdam: Frederik Muller en Co., 1905), iv; Oscar 
+Gelderblom en Joost Jonker, ‘Mirroring Different Follies: The Character 
+of the 1720 Bubble in the Dutch Republic’, in: William N. Goetzmann 
+et al. (red.), The Great Mirror of Folly. Finance, Culture, and the Crash of 
+1720 (New Haven en London: Yale University Press, 2013), 121-139, aldaar 
+131; D.E.A. Faber en R.N.J. Rommes, ‘Op weg naar stabiliteit (1618-1747)’, 
+in: R.E.",post colonial legacies past stefan jonsson julia willén red austere histories european societies utrechtse compagnie g rĳn groote tafereel dwaasheid zĳn geschiedenis afgegaan eenige mededeelingen utrechtsche middelburg sche compagnieën amsterdam frederik muller co iv oscar gelderblom joost jonker mirroring different follies character bubble dutch republic william n goetzmann et red great mirror folly faber r n j rommes weg stabiliteit r e,0.531951025185178,0.4195162684090647,0.4320606628439467,0.531951025185178,Colonialism,0.0998903623412312,high,"Post-
+colonial Legacies of the Past’, in: Stefan Jonsson en Julia Willén (red.), 
+Austere Histories in European Societies. Social Exclusion and the Contest of 
+Colonial Memories (London: Routledge, 2016), 59-73, aldaar 60-63. De Utrechtse Compagnie
+1. G. van Rĳn, Het groote Tafereel der Dwaasheid en zĳn geschiedenis, voor-
+afgegaan door eenige mededeelingen over de Utrechtsche en Middelburg-
+sche Compagnieën (Amsterdam: Frederik Muller en Co., 1905), iv; Oscar 
+Gelderblom en Joost Jonker, ‘Mirroring Different Follies: The Character 
+of the 1720 Bubble in the Dutch Republic’, in: William N. Goetzmann 
+et al. (red.), The Great Mirror of Folly. Finance, Culture, and the Crash of 
+1720 (New Haven en London: Yale University Press, 2013), 121-139, aldaar 
+131; D.E.A. Faber en R.N.J. Rommes, ‘Op weg naar stabiliteit (1618-1747)’, 
+in: R.E.",Colonialism,0,False
+Slavery_text\Nimako et al_2020_Een rapport met betrekking tot het onderzoeksproject over de periode voor de.108.txt,94a6df7a:00001,10,"Hier ziet men een stuk riet, daar een veld koffij, ginds een akker 
+bananen, verder een bed yams enz. Een lid van mijne gemeente, vroeger slaaf, kocht 
+onlangs een paard voor 30 pond sterling. Een ander heeft eene koffij plantage verkregen. Korten tijd geleden opende ik eene inschrijving voor een liefdadig doel. Twee 
+geémancipeerden teekenden ieder voor 20 pond sterling, en er kwamen verscheidene 
+bijdragen van 8 pond. De welvaart neemt toe en men zoekt meer comfort. Dit zou het geval 
+niet zijn wanneer men lui wasǳ.242 
+ 
+De kanttekening moet gemaakt worden dat de motivatie voor het idee om het 
+Christendom tijdens het Staatstoezicht onder de Ǯvrijgemaaktenǯ te verspreiden, dubieus 
+is aangezien zij al gekerstend waren. Hij zei hierover:      
+ 
+ǲOok aan sommige plantage-eigenaren is men veel verschuldigd en door hunne toelating 
+zijn de Roomsch-katholijke geestelijken en de Moravische broeders sedert de laatste jaren 
+onder de slaven werkzaam geweest, vooral ook in die elf jaren nadat de taak der 
+ 
+241 De Nederlandsche Staats-Courant 1861-1862 (bijblad). Tweede Kamer, 78ste zitting – 4 julij 1862, vel. 261, p.",ziet stuk riet veld koffij ginds akker bananen verder bed yams enz lid mijne gemeente vroeger slaaf kocht onlangs paard pond sterling ander eene koffij plantage verkregen korten tijd geleden opende eene inschrijving liefdadig doel twee geémancipeerden teekenden ieder pond sterling kwamen verscheidene bijdragen pond welvaart neemt toe zoekt comfort geval wanneer lui wasǳ kanttekening gemaakt motivatie idee christendom staatstoezicht ǯvrijgemaaktenǯ verspreiden dubieus aangezien gekerstend zei hierover ǳook sommige plantage eigenaren verschuldigd hunne toelating roomsch katholijke geestelijken moravische broeders sedert laatste slaven werkzaam vooral elf nadat taak nederlandsche staats courant bijblad tweede kamer 78ste zitting julij vel p,0.4103147852587958,0.5084417879446158,0.3797516101058885,0.5084417879446158,Historical slavery,0.0981270026858199,high,"Hier ziet men een stuk riet, daar een veld koffij, ginds een akker 
+bananen, verder een bed yams enz. Een lid van mijne gemeente, vroeger slaaf, kocht 
+onlangs een paard voor 30 pond sterling. Een ander heeft eene koffij plantage verkregen. Korten tijd geleden opende ik eene inschrijving voor een liefdadig doel. Twee 
+geémancipeerden teekenden ieder voor 20 pond sterling, en er kwamen verscheidene 
+bijdragen van 8 pond. De welvaart neemt toe en men zoekt meer comfort. Dit zou het geval 
+niet zijn wanneer men lui wasǳ.242 
+ 
+De kanttekening moet gemaakt worden dat de motivatie voor het idee om het 
+Christendom tijdens het Staatstoezicht onder de Ǯvrijgemaaktenǯ te verspreiden, dubieus 
+is aangezien zij al gekerstend waren. Hij zei hierover:      
+ 
+ǲOok aan sommige plantage-eigenaren is men veel verschuldigd en door hunne toelating 
+zijn de Roomsch-katholijke geestelijken en de Moravische broeders sedert de laatste jaren 
+onder de slaven werkzaam geweest, vooral ook in die elf jaren nadat de taak der 
+ 
+241 De Nederlandsche Staats-Courant 1861-1862 (bijblad). Tweede Kamer, 78ste zitting – 4 julij 1862, vel. 261, p.",Historical slavery,1,False
+Slavery_text\Racisme bij het Ministerie van Buitenlandse Zaken. Een verkennend onderzoek.101.txt,69366859:00000,10,"RACISME BIJ HET MINISTERIE VAN BUITENLANDSE ZAKEN 
+Een verkennend onderzoek 
+ 
+101 
+ 
+Bronnen 
+ 
+Andriessen, I., Fernee, H., & Wittebrood, K. (2014). Ervaren discriminatie in Nederland. Den 
+Haag: Sociaal en Cultureel Planbureau. Andriessen, I., van der Ent, B., van der Linden, M., Dekker, M. (2015) Op afkomst afgewezen 
+Onderzoek naar discriminatie op de Haagse arbeidsmarkt. Den Haag: Sociaal en Cultureel 
+Planbureau. Andriessen, I., Hoegen Dijkhof, J., Van der Torre, A., Van den Berg, E., Pulles, I., Iedema, J., 
+en De Voogd-Hamelink, M., (2020) Ervaren discriminatie in Nederland II, Den Haag: Sociaal 
+en Cultureel Planbureau. Ashikali, T. & Fontein, F.",racisme ministerie buitenlandse zaken verkennend onderzoek bronnen andriessen fernee h wittebrood k ervaren discriminatie nederland den haag sociaal cultureel planbureau andriessen ent b linden dekker afkomst afgewezen onderzoek discriminatie haagse arbeidsmarkt den haag sociaal cultureel planbureau andriessen hoegen dijkhof j torre den berg e pulles iedema j voogd hamelink ervaren discriminatie nederland ii den haag sociaal cultureel planbureau ashikali fontein f,0.4212786864033209,0.3890804528188729,0.5083392265894323,0.5083392265894323,Modern racism& inequality,0.0870605401861114,high,"RACISME BIJ HET MINISTERIE VAN BUITENLANDSE ZAKEN 
+Een verkennend onderzoek 
+ 
+101 
+ 
+Bronnen 
+ 
+Andriessen, I., Fernee, H., & Wittebrood, K. (2014). Ervaren discriminatie in Nederland. Den 
+Haag: Sociaal en Cultureel Planbureau. Andriessen, I., van der Ent, B., van der Linden, M., Dekker, M. (2015) Op afkomst afgewezen 
+Onderzoek naar discriminatie op de Haagse arbeidsmarkt. Den Haag: Sociaal en Cultureel 
+Planbureau. Andriessen, I., Hoegen Dijkhof, J., Van der Torre, A., Van den Berg, E., Pulles, I., Iedema, J., 
+en De Voogd-Hamelink, M., (2020) Ervaren discriminatie in Nederland II, Den Haag: Sociaal 
+en Cultureel Planbureau. Ashikali, T. & Fontein, F.",Modern racism& inequality,2,False
+Slavery_text\Jouwe e.a. - Slavernij en de stad Utrecht.306.txt,67a221e6:00001,10,"31. J. Wolbers, Schets van een plan tot aankoop van plantaadjes in Suriname: 
+met het doel om de slaven in vrĳheid te stellen en voor loon als vrĳe werk-
+lieden in hun eigen onderhoud te doen voorzien (Amsterdam: Kirberger, 
+1857). 32. A.N. Paasman, ‘Leven als een vorst. De planter-directeur in de literatuur 
+over Suriname’, Kruispunt 36, 161 (1995), 386-406, aldaar 386. 33. ‘Wĳ zullen in ons boek nog vaak verwĳzen naar dit uitnemende 
+standaardwerk over Suriname, waarvan de objectiviteit en de zin voor 
+recht en waarheid des te meer in het oog vallen, wanneer men bedenkt 
+dat het geschreven is in een tĳd, toen de slavernĳ in Suriname nog niet 
+afgeschaft was.’ Anton de Kom, Wĳ slaven van Suriname (Amsterdam: 
+Contact, 1934), 15. 34.",j wolbers schets plan aankoop plantaadjes suriname doel slaven vrĳheid stellen loon vrĳe werk lieden eigen onderhoud voorzien amsterdam kirberger n paasman leven vorst planter directeur literatuur suriname kruispunt aldaar wĳ zullen boek vaak verwĳzen uitnemende standaardwerk suriname waarvan objectiviteit zin recht waarheid des oog vallen wanneer bedenkt geschreven tĳd slavernĳ suriname afgeschaft anton kom wĳ slaven suriname amsterdam contact,0.3873315918016594,0.5214965106725613,0.3899697647104786,0.5214965106725613,Historical slavery,0.1315267459620827,high,"31. J. Wolbers, Schets van een plan tot aankoop van plantaadjes in Suriname: 
+met het doel om de slaven in vrĳheid te stellen en voor loon als vrĳe werk-
+lieden in hun eigen onderhoud te doen voorzien (Amsterdam: Kirberger, 
+1857). 32. A.N. Paasman, ‘Leven als een vorst. De planter-directeur in de literatuur 
+over Suriname’, Kruispunt 36, 161 (1995), 386-406, aldaar 386. 33. ‘Wĳ zullen in ons boek nog vaak verwĳzen naar dit uitnemende 
+standaardwerk over Suriname, waarvan de objectiviteit en de zin voor 
+recht en waarheid des te meer in het oog vallen, wanneer men bedenkt 
+dat het geschreven is in een tĳd, toen de slavernĳ in Suriname nog niet 
+afgeschaft was.’ Anton de Kom, Wĳ slaven van Suriname (Amsterdam: 
+Contact, 1934), 15. 34.",Historical slavery,1,False
