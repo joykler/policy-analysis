@@ -6,6 +6,16 @@ bertje-Slavery/**/*.*
 **/*.pt
 **/*.zip
 **/*.safetensors
+**/*.bin
+**/*.pth
+**/*.npy
+**/*.npz
+*.backup
+*.backup*
+**/*backup*
+.history/
+nul
+**/nul
 bertje_policy_predictions_with_embeddings_2015.csv
 bertje_policy_predictions_with_embeddings.csv
 bertje_slavery_predictions_with_embeddings.csv
