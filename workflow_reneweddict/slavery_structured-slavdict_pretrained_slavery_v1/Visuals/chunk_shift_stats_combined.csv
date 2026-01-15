@@ -1,0 +1,4 @@
+pair,from_model,to_model,topic,n_chunks,mean_shift,median_shift,max_shift
+pretrained_bertje_to_slavery_trained,pretrained_bertje,slavery_trained,Contemporary_Manifestations,335,5.7292385,5.6835146,12.0959
+pretrained_bertje_to_slavery_trained,pretrained_bertje,slavery_trained,Historical_Slavery_Colonialism,485,6.206399,6.266451,11.705877
+pretrained_bertje_to_slavery_trained,pretrained_bertje,slavery_trained,Structural_Continuity_Neocolonial,179,6.966382,7.177865,12.374875

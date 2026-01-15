@@ -1,0 +1,14 @@
+{
+  "trained": true,
+  "trained_on_corpus": "slavery_structured-slavdict_pretrained_slavery_v1",
+  "training_date": "2026-01-14T00:21:51.565778",
+  "base_model": "NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers",
+  "topics": [
+    "Contemporary_Manifestations",
+    "Historical_Slavery_Colonialism",
+    "Structural_Continuity_Neocolonial"
+  ],
+  "training_steps": 500,
+  "final_loss": 0.37346139550209045,
+  "note": "This encoder has been fine-tuned on topic classification. Use for building domain-adapted vectors."
+}

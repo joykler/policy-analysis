@@ -1,0 +1,47 @@
+{
+  "total_chunks": 2840,
+  "topics": [
+    "Contemporary_Manifestations",
+    "Historical_Slavery_Colonialism",
+    "Structural_Continuity_Neocolonial"
+  ],
+  "confidence_distribution": {
+    "low": 1129,
+    "medium": 741,
+    "very_low": 710,
+    "high": 260
+  },
+  "topic_distribution": {
+    "Historical_Slavery_Colonialism": 1414,
+    "Contemporary_Manifestations": 961,
+    "Structural_Continuity_Neocolonial": 465
+  },
+  "score_statistics": {
+    "mean": 5.3409504890441895,
+    "std": 1.041748285293579,
+    "min": 2.1751668453216553,
+    "max": 8.439509391784668,
+    "median": 5.304193496704102
+  },
+  "margin_statistics": {
+    "mean": 0.9205330610275269,
+    "median": 0.7635922431945801
+  },
+  "cv_statistics": {
+    "mean": 0.13971872225807644,
+    "median": 0.13429602986747108
+  },
+  "thresholds": {
+    "score_p75": 6.095321416854858,
+    "score_p50": 5.304193735122681,
+    "score_p25": 4.550580382347107,
+    "margin_p75": 1.3869603276252747,
+    "margin_p50": 0.7635922431945801,
+    "cv_p75": 0.18751634822800653
+  },
+  "model_info": {
+    "base_model": "NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers",
+    "trained_on": "slavery_structured-slavdict_pretrained_slavery_v1",
+    "num_topics": 3
+  }
+}

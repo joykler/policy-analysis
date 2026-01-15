@@ -1,0 +1,301 @@
+topic,term,cosine,df,weight,category,parent,is_seed,phase1_decision,phase1_reason,phase2_flag,phase2_priority
+Contemporary_Manifestations,racisme,1.0,285,1.0,core,racisme,1,KEEP,,,0
+Contemporary_Manifestations,anti-zwartracisme,1.0,2,1.0,core,anti-zwartracisme,1,KEEP,,,0
+Contemporary_Manifestations,racistische,1.0,61,1.0,core,racistische,1,KEEP,,,0
+Contemporary_Manifestations,racistisch,1.0,27,1.0,core,racistisch,1,KEEP,,,0
+Contemporary_Manifestations,discriminatie,1.0,202,1.0,core,discriminatie,1,KEEP,,,0
+Contemporary_Manifestations,rassendiscriminatie,1.0,5,1.0,core,rassendiscriminatie,1,KEEP,,,0
+Contemporary_Manifestations,etnische discriminatie,1.0,0,1.0,core,etnische discriminatie,1,KEEP,,,0
+Contemporary_Manifestations,uitsluiting,1.0,48,1.0,core,uitsluiting,1,KEEP,,,0
+Contemporary_Manifestations,uitsluitingsmechanismen,1.0,1,1.0,core,uitsluitingsmechanismen,1,KEEP,,,0
+Contemporary_Manifestations,huidskleur,1.0,37,1.0,core,huidskleur,1,KEEP,,,0
+Contemporary_Manifestations,institutioneel racisme,1.0,0,1.0,core,institutioneel racisme,1,KEEP,,,0
+Contemporary_Manifestations,structureel racisme,1.0,0,1.0,core,structureel racisme,1,KEEP,,,0
+Contemporary_Manifestations,systematisch racisme,1.0,0,1.0,core,systematisch racisme,1,KEEP,,,0
+Contemporary_Manifestations,systemisch racisme,1.0,0,1.0,core,systemisch racisme,1,KEEP,,,0
+Contemporary_Manifestations,etnische,1.0,63,0.9,strongly_related,etnische,1,KEEP,,,0
+Contemporary_Manifestations,afro-surinamers,1.0,13,0.9,strongly_related,afro-surinamers,1,KEEP,,,0
+Contemporary_Manifestations,afro-caribische,1.0,3,0.9,strongly_related,afro-caribische,1,KEEP,,,0
+Contemporary_Manifestations,afro-surinaamse,1.0,10,0.9,strongly_related,afro-surinaamse,1,KEEP,,,0
+Contemporary_Manifestations,afro-antillianen,1.0,10,0.9,strongly_related,afro-antillianen,1,KEEP,,,0
+Contemporary_Manifestations,afro-nederlanders,1.0,4,0.9,strongly_related,afro-nederlanders,1,KEEP,,,0
+Contemporary_Manifestations,zwarten,1.0,29,0.9,strongly_related,zwarten,1,KEEP,,,0
+Contemporary_Manifestations,anti-zwart,1.0,17,0.9,strongly_related,anti-zwart,1,KEEP,,,0
+Contemporary_Manifestations,discriminatietoets,1.0,33,0.9,strongly_related,discriminatietoets,1,KEEP,,,0
+Contemporary_Manifestations,stagediscriminatie,1.0,5,0.9,strongly_related,stagediscriminatie,1,KEEP,,,0
+Contemporary_Manifestations,stage-discriminatie,1.0,2,0.9,strongly_related,stage-discriminatie,1,KEEP,,,0
+Contemporary_Manifestations,arbeidsdiscriminatie,1.0,2,0.9,strongly_related,arbeidsdiscriminatie,1,KEEP,,,0
+Contemporary_Manifestations,discriminatiegronden,1.0,4,0.9,strongly_related,discriminatiegronden,1,KEEP,,,0
+Contemporary_Manifestations,vooroordeel,1.0,6,0.9,strongly_related,vooroordeel,1,KEEP,,,0
+Contemporary_Manifestations,stereotypen,1.0,9,0.9,strongly_related,stereotypen,1,KEEP,,,0
+Contemporary_Manifestations,stereotyperingen,1.0,9,0.9,strongly_related,stereotyperingen,1,KEEP,,,0
+Contemporary_Manifestations,stereotyperende,1.0,4,0.9,strongly_related,stereotyperende,1,KEEP,,,0
+Contemporary_Manifestations,racismeprobleem,1.0,3,0.9,strongly_related,racismeprobleem,1,KEEP,,,0
+Contemporary_Manifestations,systematisch,1.0,30,0.9,strongly_related,systematisch,1,KEEP,,,0
+Contemporary_Manifestations,systematische,1.0,23,0.9,strongly_related,systematische,1,KEEP,,,0
+Contemporary_Manifestations,systemisch,1.0,6,0.9,strongly_related,systemisch,1,KEEP,,,0
+Contemporary_Manifestations,systemische,1.0,7,0.9,strongly_related,systemische,1,KEEP,,,0
+Contemporary_Manifestations,institutioneel,1.0,57,0.9,strongly_related,institutioneel,1,KEEP,,,0
+Contemporary_Manifestations,racismevormen,1.0,2,0.7,moderately_related,racismevormen,1,KEEP,,,0
+Contemporary_Manifestations,xenofobie,1.0,2,0.7,moderately_related,xenofobie,1,KEEP,,,0
+Contemporary_Manifestations,intolerantie,1.0,2,0.7,moderately_related,intolerantie,1,KEEP,,,0
+Contemporary_Manifestations,genderdiscriminatie,1.0,1,0.7,moderately_related,genderdiscriminatie,1,KEEP,,,0
+Contemporary_Manifestations,zwangerschapsdiscriminatie,1.0,2,0.7,moderately_related,zwangerschapsdiscriminatie,1,KEEP,,,0
+Contemporary_Manifestations,leeftijdsdiscriminatie,1.0,2,0.7,moderately_related,leeftijdsdiscriminatie,1,KEEP,,,0
+Contemporary_Manifestations,uitsluitingswetten,1.0,1,0.7,moderately_related,uitsluitingswetten,1,KEEP,,,0
+Contemporary_Manifestations,raciaal-etnische,1.0,2,0.7,moderately_related,raciaal-etnische,1,KEEP,,,0
+Contemporary_Manifestations,huidskleuren,1.0,1,0.7,moderately_related,huidskleuren,1,KEEP,,,0
+Contemporary_Manifestations,discriminatiezaken,1.0,3,0.7,moderately_related,discriminatiezaken,1,KEEP,,,0
+Contemporary_Manifestations,discriminatiemelding,1.0,2,0.7,moderately_related,discriminatiemelding,1,KEEP,,,0
+Contemporary_Manifestations,discriminatie-,1.0,6,0.4,context,discriminatie-,1,KEEP,,,0
+Contemporary_Manifestations,stereotyperend,0.9809,2,0.9,strongly_related,stereotyperende,0,KEEP,,,0
+Contemporary_Manifestations,anti-zwarte,0.9664,2,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,stereotypes,0.9651,3,0.9,strongly_related,stereotypen,0,KEEP,,,0
+Contemporary_Manifestations,discriminatiezaak,0.9495,2,0.7,moderately_related,discriminatiezaken,0,KEEP,,,0
+Contemporary_Manifestations,stereotype,0.9455,6,0.9,strongly_related,stereotypen,0,KEEP,,,0
+Contemporary_Manifestations,tolerantie,0.9417,11,0.7,moderately_related,intolerantie,0,KEEP,,,0
+Contemporary_Manifestations,discrimineren,0.9333,8,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,institutionele,0.9259,28,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,anti-racisme,0.9193,3,1.0,core,anti-zwartracisme,0,KEEP,,,0
+Contemporary_Manifestations,afro-caraïbische,0.8929,3,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,discriminerend,0.8909,9,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,anti-racistisch,0.8851,3,1.0,core,anti-zwartracisme,0,KEEP,,,0
+Contemporary_Manifestations,antiracisme,0.8837,6,1.0,core,anti-zwartracisme,0,KEEP,,,0
+Contemporary_Manifestations,antiracisme-,0.8819,2,1.0,core,anti-zwartracisme,0,KEEP,,,0
+Contemporary_Manifestations,stereotypering,0.881,7,0.9,strongly_related,stereotyperingen,0,KEEP,,,0
+Contemporary_Manifestations,discriminatoire,0.8767,4,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,gediscrimineerde,0.875,2,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,antidiscriminatie-,0.8744,2,0.4,context,discriminatie-,0,KEEP,,,0
+Contemporary_Manifestations,discriminerende,0.87,10,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,non-discriminatiegronden,0.8612,3,0.9,strongly_related,discriminatiegronden,0,KEEP,,,0
+Contemporary_Manifestations,constitutionele,0.8607,20,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,gediscrimineerd,0.8524,20,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,systematiek,0.8467,10,0.9,strongly_related,systemische,0,KEEP,,,0
+Contemporary_Manifestations,aansluit,0.8425,14,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,non-discriminatie,0.8404,8,1.0,core,discriminatie,0,KEEP,,,0
+Contemporary_Manifestations,opsluiting,0.8403,2,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,sluiting,0.8396,5,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,nische,0.835,2,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,afsluiting,0.8345,5,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,vooroordelen,0.8325,26,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,discriminatieverboden,0.8313,2,0.4,context,discriminatie-,0,KEEP,,,0
+Contemporary_Manifestations,formeel-systemisch,0.8287,2,0.9,strongly_related,systemisch,0,KEEP,,,0
+Contemporary_Manifestations,niet-zwarte,0.8267,2,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,afsluit,0.8259,2,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,oordeel,0.8147,56,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,insluiting,0.8129,6,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,racism,0.8113,5,1.0,core,racisme,0,KEEP,,,0
+Contemporary_Manifestations,afsluiten,0.799,9,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,uitsluitsel,0.7966,3,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,systems,0.796,2,0.9,strongly_related,systemische,0,KEEP,,,0
+Contemporary_Manifestations,aansluiten,0.7948,20,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,racist,0.7901,2,1.0,core,racistische,0,KEEP,,,0
+Contemporary_Manifestations,antillianen,0.7893,9,0.9,strongly_related,afro-antillianen,0,KEEP,,,0
+Contemporary_Manifestations,surinaamse,0.781,128,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,instituties,0.7795,25,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,sluiten,0.7713,51,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,antidiscriminatievoorzieningen,0.7665,5,0.4,context,discriminatie-,0,KEEP,,,0
+Contemporary_Manifestations,uitsluiten,0.7657,6,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,oordelen,0.765,12,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,non-discriminatiebepalingen,0.7613,2,0.4,context,discriminatie-,0,KEEP,,,0
+Contemporary_Manifestations,zwarte,0.7612,275,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,arbeidsrecht,0.7603,3,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,stereotiep,0.7583,2,0.9,strongly_related,stereotyperende,0,KEEP,,,0
+Contemporary_Manifestations,vlaamse,0.7539,8,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,sluitend,0.7524,5,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,uitreding,0.7513,2,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,antidiscriminatiebeleid,0.7385,2,0.4,context,discriminatie-,0,KEEP,,,0
+Contemporary_Manifestations,system--the,0.7346,2,0.9,strongly_related,systemische,0,KEEP,,,0
+Contemporary_Manifestations,zwart,0.73,82,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,blanke,0.7276,21,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,caribische,0.7259,174,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,antilliaan,0.7242,2,0.9,strongly_related,afro-antillianen,0,KEEP,,,0
+Contemporary_Manifestations,sluit,0.721,24,1.0,core,uitsluiting,0,KEEP,,,0
+Contemporary_Manifestations,veroordelen,0.7205,7,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,afro-amerikaanse,0.7199,6,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,amerikaansche,0.7171,3,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,antilliaanse,0.7164,46,0.9,strongly_related,afro-antillianen,0,KEEP,,,0
+Contemporary_Manifestations,blanken,0.7143,20,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,antidiscriminatiebureaus,0.7096,2,0.4,context,discriminatie-,0,KEEP,,,0
+Contemporary_Manifestations,sluitende,0.709,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,oordeelden,0.7082,2,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,etniciteit,0.707,11,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,psychologisch,0.7059,5,0.9,strongly_related,systematisch,0,KEEP,,,0
+Contemporary_Manifestations,problematisch,0.7054,14,0.9,strongly_related,systematisch,0,KEEP,,,0
+Contemporary_Manifestations,afro-nederlandse,0.7039,3,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,paarse,0.7032,3,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,latijns-amerikaanse,0.7024,2,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,culturele,0.7002,148,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,afhandeling,0.6991,9,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,beoordelen,0.6984,12,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,nationaliteit,0.6982,18,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,grijs,0.6979,7,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,territoriale,0.6976,2,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,arbeidersprotest,0.6974,2,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,thematisch,0.6973,4,0.9,strongly_related,systematisch,0,KEEP,,,0
+Contemporary_Manifestations,intrekken,0.6971,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,aaneenschakeling,0.6952,8,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,afro-,0.6949,9,0.9,strongly_related,afro-surinamers,0,KEEP,,,0
+Contemporary_Manifestations,antiracisme-golf,0.6936,2,1.0,core,anti-zwartracisme,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,uitsluitende,0.693,4,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,typerende,0.6925,2,0.9,strongly_related,stereotyperende,0,KEEP,,,0
+Contemporary_Manifestations,aantrekken,0.6914,13,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,aangrenzende,0.691,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,verstreken,0.6901,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,afrikaanse,0.6893,235,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,afgesloten,0.689,19,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,interculturele,0.688,3,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,arbeidsgeschillenwet,0.6878,2,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,ex-surinamers,0.6877,2,0.9,strongly_related,afro-surinamers,0,KEEP,,,0
+Contemporary_Manifestations,stagepact,0.6874,8,0.9,strongly_related,stagediscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,surinaams,0.6867,5,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,uitreden,0.6856,6,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,arbeidsparticipatie,0.685,4,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,gerechtelijk,0.6848,2,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,nederlands-vlaamse,0.684,2,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,antilliaans,0.6835,8,0.9,strongly_related,afro-antillianen,0,KEEP,,,0
+Contemporary_Manifestations,grijze,0.6832,3,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,surinamers,0.6827,22,0.9,strongly_related,afro-surinamers,0,KEEP,,,0
+Contemporary_Manifestations,uitroeiing,0.6825,3,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,nederlanders,0.6821,279,0.9,strongly_related,afro-nederlanders,0,KEEP,,,0
+Contemporary_Manifestations,veroordeeld,0.6798,30,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,uitstrekt,0.6798,4,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,anti-,0.6796,7,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,afkeer,0.6793,12,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,zwart-wit,0.6792,4,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,paars,0.6785,2,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,afro-curaçaose,0.6782,2,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,amerikaans,0.6777,3,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,voortrekken,0.6773,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,opvatting,0.6771,26,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,veronderstellingen,0.6766,3,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,veroordeelden,0.6766,6,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,uitnodigen,0.6765,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,latijns-amerika,0.6761,10,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,amerikaanse,0.6759,74,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,arbeidsuitbuiting,0.6758,3,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,niet-witte,0.6757,4,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,psychologische,0.6756,11,0.9,strongly_related,systematisch,0,KEEP,,,0
+Contemporary_Manifestations,uitge-,0.6754,8,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,witte,0.6754,195,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,blank,0.675,7,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,aziatisch,0.6736,4,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,arbeidsdwang,0.6733,4,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,landse,0.6732,41,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,voorname,0.6729,8,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,uitmaken,0.6729,20,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,amerikanen,0.6726,14,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,kleur,0.6724,78,0.7,moderately_related,huidskleuren,0,KEEP,,,0
+Contemporary_Manifestations,bloedens,0.6707,2,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,caribisch,0.6697,340,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,uitlatingen,0.6696,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,zuid-nederlanders,0.6695,3,0.9,strongly_related,afro-nederlanders,0,KEEP,,,0
+Contemporary_Manifestations,wit,0.668,58,0.9,strongly_related,zwarten,0,REMOVE,Morphological fragment (len < 4),,0
+Contemporary_Manifestations,uitbannen,0.6677,6,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,noord-afrikaanse,0.6666,7,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,aziatische,0.6662,59,0.9,strongly_related,etnische,0,KEEP,,,0
+Contemporary_Manifestations,opluchting,0.6661,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,voorwaarde,0.6659,49,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,verkenning,0.6655,51,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,aangesloten,0.6653,13,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,antikoloniale,0.6653,7,0.9,strongly_related,afro-antillianen,0,KEEP,,,0
+Contemporary_Manifestations,oost-afrika,0.6649,3,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,aansluitende,0.6642,2,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,nederlanden,0.664,79,0.9,strongly_related,afro-nederlanders,0,KEEP,,,0
+Contemporary_Manifestations,west-afrikaan,0.6633,2,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,uitstek,0.663,13,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,uitbreken,0.6625,15,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,wettelijke,0.6603,48,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,afzet,0.6602,3,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,wetgevend,0.6601,2,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,uitvoe-,0.66,4,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,belgische,0.6599,5,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,uit-,0.6597,31,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,staatsrechtelijke,0.659,12,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,uitging,0.659,4,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,slotwet,0.6589,7,0.7,moderately_related,uitsluitingswetten,0,KEEP,,,0
+Contemporary_Manifestations,zwartheid,0.6588,2,0.9,strongly_related,anti-zwart,0,KEEP,,,0
+Contemporary_Manifestations,onttrekken,0.6584,4,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,uitvoeringstechnisch,0.6567,2,0.9,strongly_related,systemische,0,KEEP,,,0
+Contemporary_Manifestations,blinde,0.6563,16,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,veroordeling,0.6556,7,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,onthulling,0.6555,6,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,uitwerking,0.6553,50,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,uitdragen,0.655,6,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,arbeidsregime,0.6544,2,0.9,strongly_related,arbeidsdiscriminatie,0,KEEP,,,0
+Contemporary_Manifestations,afro-afstam-,0.6541,2,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,nationalistische,0.6538,11,1.0,core,racistische,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,grondwettelijke,0.6537,5,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,uitwisselingen,0.6534,3,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,uitgezet,0.6532,7,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,opgesloten,0.6532,14,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,autoritair,0.6528,2,0.9,strongly_related,institutioneel,0,KEEP,,,0
+Contemporary_Manifestations,noord-afrika,0.6528,4,0.9,strongly_related,afro-surinaamse,0,KEEP,,,0
+Contemporary_Manifestations,nederlands-caribische,0.6527,8,0.9,strongly_related,afro-caribische,0,KEEP,,,0
+Contemporary_Manifestations,donker,0.6526,11,0.9,strongly_related,zwarten,0,KEEP,,,0
+Contemporary_Manifestations,thematische,0.6514,6,0.9,strongly_related,systematisch,0,KEEP,,,0
+Contemporary_Manifestations,uitstel,0.6511,3,1.0,core,uitsluiting,0,KEEP,,Low cosine + high weight - verify semantic relevance,1
+Contemporary_Manifestations,geoordeeld,0.6508,5,0.9,strongly_related,vooroordeel,0,KEEP,,,0
+Contemporary_Manifestations,psychisch,0.6506,2,0.9,strongly_related,systematisch,0,KEEP,,,0
+Contemporary_Manifestations,inlandse,0.6499,2,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsconflict,0.6497,5,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,typerend,0.6495,6,0.9,strongly_related,stereotyperende,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,buitenlanders,0.6493,10,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,zuid-afrikaanse,0.6485,4,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,west-afrikaanse,0.6485,27,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,problematische,0.6479,4,0.9,strongly_related,systematische,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsomstandigheden,0.6478,8,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,aannames,0.6477,10,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsvoorwaarden,0.6459,5,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,buitenlandse,0.6456,87,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,stage-,0.6455,2,0.9,strongly_related,stage-discriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,psychische,0.6454,14,0.9,strongly_related,systematisch,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,veronderstelling,0.6452,14,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,commissariaat,0.6446,2,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,afrika,0.6442,231,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,kleuren,0.6439,5,0.7,moderately_related,huidskleuren,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,witsen,0.6436,3,0.9,strongly_related,zwarten,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,middellandse,0.6435,7,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,cultureel-politieke,0.6433,4,1.0,core,structureel racisme,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,tegenstellingen,0.6429,12,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,nederlands-antilliaanse,0.6425,10,0.9,strongly_related,afro-antillianen,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,zuid-amerikaanse,0.6406,11,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,pragmatisch,0.6398,3,0.9,strongly_related,systematisch,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsmigratie,0.6392,3,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,ontsluiten,0.639,6,1.0,core,uitsluitingsmechanismen,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsmigranten,0.6378,4,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsbemiddeling,0.6371,5,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,nationaal,0.637,127,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,nationalistisch,0.6369,2,0.9,strongly_related,etnische,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,gevoeligheid,0.6365,4,0.7,moderately_related,intolerantie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,west-afrika,0.6359,41,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,intra-aziatische,0.6353,3,0.7,moderately_related,raciaal-etnische,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,midden-afrika,0.6348,3,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,niet-westerse,0.6328,12,0.9,strongly_related,etnische,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsovereenkomsten,0.6326,2,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,anti-vooroordelen,0.6323,2,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,surinaamsche,0.6322,15,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,tolerant,0.6321,4,0.7,moderately_related,intolerantie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,aziaten,0.6315,12,0.9,strongly_related,etnische,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,zwangerschap,0.6299,11,0.7,moderately_related,zwangerschapsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,sociaal-culturele,0.6296,5,1.0,core,structureel racisme,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,nederlanderschap,0.6294,3,0.9,strongly_related,afro-nederlanders,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,afrikaans,0.6292,3,0.9,strongly_related,etnische,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,bloede,0.6287,2,0.9,strongly_related,zwarten,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,rechtvaardige,0.6286,13,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,typeren,0.6284,2,0.9,strongly_related,stereotyperende,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,nederland-,0.6284,3,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,proportioneel,0.6283,3,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,noord-amerikaanse,0.628,13,0.9,strongly_related,afro-surinaamse,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,beoordeling,0.6272,22,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,tegenprestatie,0.6269,2,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,rechtsgeldig,0.6255,2,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,stage,0.6245,6,0.9,strongly_related,stage-discriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,wettelijk,0.6245,45,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,veroordeelde,0.6238,7,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,vooruitzichten,0.6235,2,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,arbeidsongeschiktheid,0.6231,3,0.9,strongly_related,arbeidsdiscriminatie,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,geldelijk,0.623,3,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,grondwetgevende,0.6229,2,0.9,strongly_related,institutioneel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,beargumenteren,0.6227,2,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0
+Contemporary_Manifestations,verwezen,0.6222,30,0.9,strongly_related,vooroordeel,0,REMOVE,Cosine similarity < 0.65,,0

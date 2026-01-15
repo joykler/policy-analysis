@@ -1,0 +1,9 @@
+term,parent,cosine,decision,rationale
+slavernijmusea,slavernijverleden,0.720,KEEP,"Slavery museums - relevant for memorialization/historical education context. Lower to 0.75 related_moderate (actors in historical discourse)"
+sloep,slaaf,0.718,REMOVE,"Sloep (sloop/boat) - orthographic similarity but wrong semantic space. Not related to slavery topic."
+afwijzen,afschaffing,0.718,REMOVE,"Afwijzen (to reject) - orthographic similarity to afschaffing (abolition) but wrong meaning. Generic rejection term."
+opschaling,afschaffing,0.718,REMOVE,"Opschaling (scaling up) - orthographic similarity to afschaffing but completely different meaning. Not slavery-related."
+wic-schepen,wic,0.718,KEEP,"WIC ships - specific to West India Company naval operations. Relevant. Lower to 0.85 related_strong (institutional infrastructure)"
+discriminerende,rassendiscriminatie,0.717,KEEP,"Discriminating (adjective) - directly related to racial discrimination. Lower to 0.85 related_strong (descriptor)"
+verlaging,afschaffing,0.715,REMOVE,"Verlaging (lowering/reduction) - orthographic similarity to afschaffing but different meaning. Too generic."
+wic-kamer,wic,0.714,KEEP,"WIC chamber (regional board) - specific institutional structure of West India Company. Lower to 0.85 related_strong (institutional structure)"

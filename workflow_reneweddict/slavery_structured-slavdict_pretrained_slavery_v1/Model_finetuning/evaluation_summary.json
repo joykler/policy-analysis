@@ -1,0 +1,22 @@
+{
+  "Primary Metrics": {
+    "Pearson Correlation": "0.8596",
+    "Euclidean Distance": "0.9248",
+    "CV Correlation": "0.7686"
+  },
+  "Multi-Label Metrics": {
+    "Pairwise Error": "0.3737",
+    "STD Correlation": "0.8373",
+    "Range Correlation": "0.8306"
+  },
+  "Magnitude Metrics": {
+    "Global MAE": "0.4879",
+    "Global RMSE": "0.6111",
+    "Global R\u00b2": "0.7138"
+  },
+  "Overall": {
+    "Targets Met": "100%",
+    "Primary Topic Accuracy": "0.8257",
+    "Top-2 Overlap": "1.0000"
+  }
+}

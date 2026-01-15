@@ -1,0 +1,3 @@
+model,silhouette,calinski_harabasz,avg_intra_distance,topic_tightness,silhouette_improvement,ch_improvement,distance_reduction
+pretrained_bertje,0.42227033,497.9016673619036,3.483059702779326,"{'Contemporary_Manifestations': 4.3027396, 'Historical_Slavery_Colonialism': 3.4166393, 'Structural_Continuity_Neocolonial': 2.964563}",0.0,0.0,0.0
+slavery_trained,0.31726992,286.602703620936,8.188840342299713,"{'Contemporary_Manifestations': 10.402389, 'Historical_Slavery_Colonialism': 8.2083845, 'Structural_Continuity_Neocolonial': 6.580587}",-24.865686,-42.43789036910041,135.1047940913957

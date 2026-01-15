@@ -1,0 +1,5 @@
+{
+  "trained": false,
+  "model": "NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers",
+  "note": "Original pretrained weights (no topic training)"
+}

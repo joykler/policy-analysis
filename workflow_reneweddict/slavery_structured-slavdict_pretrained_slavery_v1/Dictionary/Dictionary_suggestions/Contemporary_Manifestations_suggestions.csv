@@ -1,0 +1,51 @@
+topic,term,similarity,source,keep
+Contemporary_Manifestations,discriminerend,0.7232163034183676,corpus,True
+Contemporary_Manifestations,discriminerende,0.7106159233070755,corpus,True
+Contemporary_Manifestations,gediscrimineerde,0.70419326975495,corpus,True
+Contemporary_Manifestations,discrimineren,0.6953702400317847,corpus,True
+Contemporary_Manifestations,gediscrimineerd,0.6915790670895595,corpus,True
+Contemporary_Manifestations,institutioneel racisme,0.6855827876146758,seed,True
+Contemporary_Manifestations,afro-amerikaanse,0.6783049036551276,corpus,True
+Contemporary_Manifestations,discriminatie-,0.6770593431724197,seed,True
+Contemporary_Manifestations,raciale,0.6764508835674556,seed,True
+Contemporary_Manifestations,discriminatie,0.6741617035104102,seed,True
+Contemporary_Manifestations,gaans,0.6732916853738421,corpus,True
+Contemporary_Manifestations,etnische discriminatie,0.67270028209679,seed,True
+Contemporary_Manifestations,antiracisme-,0.6688324277019366,corpus,True
+Contemporary_Manifestations,structureel racisme,0.6633737136024864,seed,True
+Contemporary_Manifestations,anti-racistisch,0.6608814662470172,corpus,True
+Contemporary_Manifestations,niet-zwarte,0.6597703161355613,corpus,True
+Contemporary_Manifestations,raciaal,0.6585389366224801,seed,True
+Contemporary_Manifestations,culturele,0.6576503430179312,corpus,True
+Contemporary_Manifestations,koloniaal-raciale,0.6576370980703519,seed,True
+Contemporary_Manifestations,racistisch,0.6537884533236344,seed,True
+Contemporary_Manifestations,anti-racisme,0.653674043720939,corpus,True
+Contemporary_Manifestations,discriminatoire,0.6532647318879585,corpus,True
+Contemporary_Manifestations,aziatische,0.6519687747479767,corpus,True
+Contemporary_Manifestations,antiracisme,0.6517284343292418,corpus,True
+Contemporary_Manifestations,afro-caribische,0.6494401390453821,seed,True
+Contemporary_Manifestations,kwalijke,0.6492548768508176,corpus,True
+Contemporary_Manifestations,aziatisch,0.6489955041235362,corpus,True
+Contemporary_Manifestations,afro-surinaamse,0.6457728232807864,seed,True
+Contemporary_Manifestations,non-discriminatie,0.6434640817813905,corpus,True
+Contemporary_Manifestations,racistische,0.6431980562720931,seed,True
+Contemporary_Manifestations,antidiscriminatie-,0.6431227085178504,corpus,True
+Contemporary_Manifestations,nationalistisch,0.6405680857108527,corpus,True
+Contemporary_Manifestations,afrikaanse,0.639933038000827,corpus,True
+Contemporary_Manifestations,interculturele,0.6382908526277873,corpus,True
+Contemporary_Manifestations,rassendiscriminatie,0.6382368666083649,seed,True
+Contemporary_Manifestations,rechtse,0.6366335991734506,corpus,True
+Contemporary_Manifestations,burgerlijke,0.6353923050156085,corpus,True
+Contemporary_Manifestations,etnische,0.6341390700116893,seed,True
+Contemporary_Manifestations,sociaal-,0.6338602037609007,corpus,True
+Contemporary_Manifestations,afkomstige,0.6332293908142621,corpus,True
+Contemporary_Manifestations,intra-aziatische,0.6329204110564146,corpus,True
+Contemporary_Manifestations,systemisch racisme,0.6327567382936633,seed,True
+Contemporary_Manifestations,raciaal-etnische,0.6313937797850777,seed,True
+Contemporary_Manifestations,gemeenschappelijk,0.6295975583041314,corpus,True
+Contemporary_Manifestations,geïmmigreerde,0.627573701677964,corpus,True
+Contemporary_Manifestations,nationalistische,0.6271551085965309,corpus,True
+Contemporary_Manifestations,landerijen,0.6267234650291336,corpus,True
+Contemporary_Manifestations,nische,0.6266765666036886,corpus,True
+Contemporary_Manifestations,sociaal-culturele,0.6261243263316786,corpus,True
+Contemporary_Manifestations,burgerlijk,0.6253171137034097,corpus,True

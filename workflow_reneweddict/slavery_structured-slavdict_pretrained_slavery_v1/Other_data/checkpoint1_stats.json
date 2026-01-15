@@ -1,0 +1,15 @@
+{
+  "documents_processed": 26,
+  "documents_failed": 0,
+  "pages_kept": 2545,
+  "pages_extracted": 3844,
+  "chunks_total": 2840,
+  "chunk_filters": {
+    "too_few_sentences": 7
+  },
+  "scoring_stats": {
+    "filtered_all_english": 95,
+    "filtered_for_tokens": 99,
+    "result_chunks": 2840
+  }
+}

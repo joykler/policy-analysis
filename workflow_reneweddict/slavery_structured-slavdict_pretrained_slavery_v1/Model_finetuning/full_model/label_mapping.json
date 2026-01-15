@@ -1,0 +1,18 @@
+{
+  "topics": [
+    "Contemporary_Manifestations",
+    "Historical_Slavery_Colonialism",
+    "Structural_Continuity_Neocolonial"
+  ],
+  "num_topics": 3,
+  "topic2idx": {
+    "Contemporary_Manifestations": 0,
+    "Historical_Slavery_Colonialism": 1,
+    "Structural_Continuity_Neocolonial": 2
+  },
+  "idx2topic": {
+    "0": "Contemporary_Manifestations",
+    "1": "Historical_Slavery_Colonialism",
+    "2": "Structural_Continuity_Neocolonial"
+  }
+}

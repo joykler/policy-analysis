@@ -1,0 +1,40 @@
+filename,type,size_kb,created,section
+chunk_3d_Contemporary_Manifestations_pretrained_bertje.html,html,4794.3837890625,2026-01-14 10:54:46.791250,Other
+chunk_3d_Contemporary_Manifestations_slavery_trained.html,html,4792.892578125,2026-01-14 10:54:47.002118,Other
+chunk_3d_Historical_Slavery_Colonialism_pretrained_bertje.html,html,4797.4501953125,2026-01-14 10:54:46.892561,Other
+chunk_3d_Historical_Slavery_Colonialism_slavery_trained.html,html,4795.958984375,2026-01-14 10:54:47.051322,Other
+chunk_3d_Structural_Continuity_Neocolon_pretrained_bertje.html,html,4800.365234375,2026-01-14 10:54:46.952984,Other
+chunk_3d_Structural_Continuity_Neocolon_slavery_trained.html,html,4798.8740234375,2026-01-14 10:54:47.122506,Other
+chunk_3d_multitopic_pretrained_bertje.html,html,5089.16796875,2026-01-14 10:54:46.650188,Other
+chunk_3d_multitopic_slavery_trained.html,html,5087.6767578125,2026-01-14 10:54:46.742224,Other
+chunk_distribution_multimodel_comparison.html,html,4590.2685546875,2026-01-14 10:55:15.813643,Other
+chunk_multitopic_heatmap_pretrained_bertje.html,html,5259.9345703125,2026-01-14 11:01:51.555636,Other
+chunk_multitopic_heatmap_slavery_trained.html,html,5257.3984375,2026-01-14 11:01:51.659461,Other
+chunk_multitopic_overlap_pretrained_bertje.html,html,4711.30078125,2026-01-14 11:01:51.819353,Other
+chunk_multitopic_overlap_slavery_trained.html,html,4707.919921875,2026-01-14 11:01:51.948368,Other
+cluster_metrics_table.csv,csv,0.576171875,2026-01-14 10:42:25.190179,Other
+multilabel_distribution.html,html,4556.8017578125,2026-01-14 11:18:14.778836,Other
+per_topic_tightness.csv,csv,0.244140625,2026-01-14 10:42:25.196012,Other
+score_agreement_heatmap.html,html,4557.33984375,2026-01-14 11:32:53.357085,Other
+score_statistics_by_topic.csv,csv,0.4931640625,2026-01-14 11:17:59.177423,Other
+topic_conditional_influences.csv,csv,0.935546875,2026-01-14 11:01:52.031727,Other
+topic_cooccurrence_matrix.csv,csv,0.2275390625,2026-01-14 11:01:51.972959,Other
+topic_correlation_heatmap.html,html,4557.17578125,2026-01-14 11:01:52.023714,Other
+topic_interaction_effects.html,html,4774.505859375,2026-01-14 11:01:52.161704,Other
+dict_clustering_2d_multimodel.html,html,4601.73828125,2026-01-14 10:40:18.990475,Section 3: Dictionary Fitness
+dict_clustering_3d.html,html,4728.6083984375,2026-01-14 10:41:05.590479,Section 3: Dictionary Fitness
+expansion_quality_pretrained_bertje.html,html,4591.7783203125,2026-01-14 10:36:52.639508,Section 3: Dictionary Fitness
+expansion_quality_slavery_trained.html,html,4591.220703125,2026-01-14 10:36:52.762450,Section 3: Dictionary Fitness
+expansion_quality_stats_combined.csv,csv,0.712890625,2026-01-14 10:36:52.528255,Section 3: Dictionary Fitness
+weight_tier_stats_combined.csv,csv,1.0009765625,2026-01-14 10:33:04.353692,Section 3: Dictionary Fitness
+weight_tier_validation_pretrained_bertje.html,html,4567.3740234375,2026-01-14 10:33:04.440860,Section 3: Dictionary Fitness
+weight_tier_validation_slavery_trained.html,html,4567.5234375,2026-01-14 10:33:04.521834,Section 3: Dictionary Fitness
+cluster_quality_metrics.html,html,4557.947265625,2026-01-14 10:42:25.186872,Section 4: Topic Coherence
+topic_separation_heatmap.html,html,4558.828125,2026-01-14 10:50:55.305802,Section 4: Topic Coherence
+training_metrics.html,html,4556.3525390625,2026-01-14 10:52:50.725892,Section 4: Topic Coherence
+chunk_shift_pretrained_bertje_to_slavery_trained.html,html,4583.6474609375,2026-01-14 10:55:15.890398,Section 5: Chunk Analysis
+chunk_shift_stats_combined.csv,csv,0.470703125,2026-01-14 10:55:15.715997,Section 5: Chunk Analysis
+score_distribution_by_topic.html,html,4650.890625,2026-01-14 11:17:59.172922,Section 5: Chunk Analysis
+cosine_bertje_correlations.csv,csv,0.400390625,2026-01-14 11:32:24.123875,Section 6: Score Distribution
+cosine_bertje_disagreements.csv,csv,586.1826171875,2026-01-14 11:32:53.370610,Section 6: Score Distribution
+cosine_vs_bertje_comparison.html,html,4691.3349609375,2026-01-14 11:32:24.234603,Section 6: Score Distribution

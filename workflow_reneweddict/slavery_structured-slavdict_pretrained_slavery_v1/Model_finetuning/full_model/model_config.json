@@ -1,0 +1,14 @@
+{
+  "model_type": "SBERTMultiOrdinal",
+  "base_model": "NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers",
+  "num_topics": 3,
+  "num_classes": 3,
+  "topics": [
+    "Contemporary_Manifestations",
+    "Historical_Slavery_Colonialism",
+    "Structural_Continuity_Neocolonial"
+  ],
+  "hidden_size": 768,
+  "trained_on": "slavery_structured-slavdict_pretrained_slavery_v1",
+  "training_timestamp": "2026-01-14T00:21:50.566874"
+}

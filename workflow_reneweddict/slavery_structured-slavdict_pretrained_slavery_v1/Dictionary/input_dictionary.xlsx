@@ -1,0 +1,144 @@
+topic,keyword,weight,category,doc_freq,source,rationale
+Historical_Slavery_Colonialism,slavernij,1.0,core,1957,corpus_vocabulary,Most definitive slavery term
+Historical_Slavery_Colonialism,slavernijverleden,1.0,core,473,corpus_vocabulary,Explicit historical slavery framing
+Historical_Slavery_Colonialism,slaven,1.0,core,1506,corpus_vocabulary,Enslaved persons (plural)
+Historical_Slavery_Colonialism,slavenhandel,1.0,core,861,corpus_vocabulary,Slave trade mechanism
+Historical_Slavery_Colonialism,slaafgemaakten,1.0,core,777,corpus_vocabulary,Enslaved persons (decolonial term)
+Historical_Slavery_Colonialism,slaaf,1.0,core,565,corpus_vocabulary,Enslaved person (singular)
+Historical_Slavery_Colonialism,wic,1.0,core,303,corpus_vocabulary,West India Company
+Historical_Slavery_Colonialism,voc,1.0,core,345,corpus_vocabulary,East India Company
+Historical_Slavery_Colonialism,afschaffing,1.0,core,492,corpus_vocabulary,Abolition
+Historical_Slavery_Colonialism,emancipatie,1.0,core,173,corpus_vocabulary,Emancipation 1863
+Historical_Slavery_Colonialism,kolonialisme,1.0,core,155,corpus_vocabulary,Colonial system ideology
+Historical_Slavery_Colonialism,koloniën,1.0,core,381,corpus_vocabulary,Colonies
+Historical_Slavery_Colonialism,plantage-eigenaren,1.0,core,37,corpus_vocabulary,Plantation owners (specific not generic plantages)
+Historical_Slavery_Colonialism,planters,1.0,core,197,corpus_vocabulary,Plantation ownership class
+Historical_Slavery_Colonialism,plantagesysteem,1.0,core,8,corpus_vocabulary,Plantation system
+Historical_Slavery_Colonialism,rassendiscriminatie,1.0,core,5,corpus_vocabulary,Racial discrimination (scientific racism context - elevated from 0.9)
+Historical_Slavery_Colonialism,koloniale,0.9,strongly_related,1162,corpus_vocabulary,Colonial structures/institutions
+Historical_Slavery_Colonialism,kolonie,0.9,strongly_related,280,corpus_vocabulary,Colony (singular)
+Historical_Slavery_Colonialism,kolonisten,0.9,strongly_related,84,corpus_vocabulary,Colonists
+Historical_Slavery_Colonialism,kolonisatie,0.9,strongly_related,30,corpus_vocabulary,Colonization process
+Historical_Slavery_Colonialism,slavenschepen,0.9,strongly_related,171,corpus_vocabulary,Slave ships
+Historical_Slavery_Colonialism,slavenschip,0.9,strongly_related,107,corpus_vocabulary,Slave ship (singular)
+Historical_Slavery_Colonialism,slavenhandelaren,0.9,strongly_related,57,corpus_vocabulary,Slave traders
+Historical_Slavery_Colonialism,slavenhouders,0.9,strongly_related,59,corpus_vocabulary,Slave holders/owners
+Historical_Slavery_Colonialism,slaafgemaakte,0.9,strongly_related,236,corpus_vocabulary,Enslaved person (singular decolonial)
+Historical_Slavery_Colonialism,slavenhalers,0.9,strongly_related,31,corpus_vocabulary,Slave catchers (specific)
+Historical_Slavery_Colonialism,slavenmarkt,0.9,strongly_related,12,corpus_vocabulary,Slave market (specific)
+Historical_Slavery_Colonialism,suikerplantages,0.9,strongly_related,19,corpus_vocabulary,Sugar plantations (compound not generic suiker)
+Historical_Slavery_Colonialism,koffieplantage,0.9,strongly_related,16,corpus_vocabulary,Coffee plantation (compound not generic koffie)
+Historical_Slavery_Colonialism,katoenplantages,0.9,strongly_related,5,corpus_vocabulary,Cotton plantations (specific compound)
+Historical_Slavery_Colonialism,plantageslavernij,0.9,strongly_related,3,corpus_vocabulary,Plantation slavery (compound)
+Historical_Slavery_Colonialism,plantagesamenleving,0.9,strongly_related,4,corpus_vocabulary,Plantation society (compound)
+Historical_Slavery_Colonialism,dwangarbeid,0.9,strongly_related,33,corpus_vocabulary,Forced labor
+Historical_Slavery_Colonialism,raciale,0.9,strongly_related,40,corpus_vocabulary,Racial (adjective - scientific racism)
+Historical_Slavery_Colonialism,raciaal,0.9,strongly_related,7,corpus_vocabulary,Racial (scientific racism context)
+Historical_Slavery_Colonialism,superioriteit,0.9,strongly_related,18,corpus_vocabulary,Superiority (racial superiority ideology)
+Historical_Slavery_Colonialism,inferioriteit,0.9,strongly_related,6,corpus_vocabulary,Inferiority (racial inferiority ideology)
+Historical_Slavery_Colonialism,beschaving,0.9,strongly_related,23,corpus_vocabulary,Civilization (civilizing mission ideology)
+Historical_Slavery_Colonialism,hiërarchie,0.9,strongly_related,17,corpus_vocabulary,Hierarchy (racial hierarchy)
+Historical_Slavery_Colonialism,slavernijgeschiedenis,0.7,moderately_related,32,corpus_vocabulary,Slavery history scholarship
+Historical_Slavery_Colonialism,slavernijsysteem,0.7,moderately_related,28,corpus_vocabulary,Slavery system
+Historical_Slavery_Colonialism,slavenopstand,0.7,moderately_related,30,corpus_vocabulary,Slave rebellion
+Historical_Slavery_Colonialism,slavenverzet,0.7,moderately_related,7,corpus_vocabulary,Slave resistance
+Historical_Slavery_Colonialism,slavenarbeid,0.7,moderately_related,19,corpus_vocabulary,Slave labor
+Historical_Slavery_Colonialism,plantage-economie,0.7,moderately_related,10,corpus_vocabulary,Plantation economy
+Historical_Slavery_Colonialism,plantagekolonie,0.7,moderately_related,8,corpus_vocabulary,Plantation colony
+Historical_Slavery_Colonialism,dekolonisatie,0.7,moderately_related,17,corpus_vocabulary,Decolonization
+Historical_Slavery_Colonialism,rassenverhoudingen,0.7,moderately_related,3,corpus_vocabulary,Race relations (scientific racism context)
+Historical_Slavery_Colonialism,rassentheorieën,0.7,moderately_related,3,corpus_vocabulary,Race theories (scientific racism)
+Historical_Slavery_Colonialism,superioriteitsgevoel,0.7,moderately_related,3,corpus_vocabulary,Superiority feeling (racial superiority)
+Historical_Slavery_Colonialism,superioriteitsdenken,0.7,moderately_related,2,corpus_vocabulary,Superiority thinking (racial ideology)
+Historical_Slavery_Colonialism,rasdenken,0.7,moderately_related,2,corpus_vocabulary,Race thinking (racial categorization)
+Historical_Slavery_Colonialism,koloniaal-raciale,0.7,moderately_related,1,corpus_vocabulary,Colonial-racial (compound ideology)
+Historical_Slavery_Colonialism,geschiedenis,0.3,context,316,corpus_vocabulary,History (generic)
+Structural_Continuity_Neocolonial,doorwerkingen,1.0,core,117,corpus_vocabulary,Continuities (most explicit)
+Structural_Continuity_Neocolonial,doorwerking,1.0,core,102,corpus_vocabulary,Continuity mechanism
+Structural_Continuity_Neocolonial,erfenis,1.0,core,61,corpus_vocabulary,Legacy/inheritance
+Structural_Continuity_Neocolonial,erfenissen,1.0,core,42,corpus_vocabulary,Legacies (plural)
+Structural_Continuity_Neocolonial,slavernijerfenis,1.0,core,1,corpus_vocabulary,Slavery legacy (specific compound)
+Structural_Continuity_Neocolonial,structurele,1.0,core,135,corpus_vocabulary,Structural (adjective)
+Structural_Continuity_Neocolonial,structureel,1.0,core,104,corpus_vocabulary,Structural pattern
+Structural_Continuity_Neocolonial,neokoloniale,1.0,core,2,corpus_vocabulary,Neocolonial patterns
+Structural_Continuity_Neocolonial,postkoloniale,1.0,core,23,corpus_vocabulary,Postcolonial (structural continuity not historical)
+Structural_Continuity_Neocolonial,onderontwikkeling,1.0,core,3,corpus_vocabulary,Underdevelopment
+Structural_Continuity_Neocolonial,voortdurende,0.9,strongly_related,37,corpus_vocabulary,Continuing/ongoing (adjective)
+Structural_Continuity_Neocolonial,voortdurend,0.9,strongly_related,43,corpus_vocabulary,Continually/persistently
+Structural_Continuity_Neocolonial,doorwerken,0.9,strongly_related,10,corpus_vocabulary,Continue to work through (verb)
+Structural_Continuity_Neocolonial,doorwerkt,0.9,strongly_related,3,corpus_vocabulary,Continues to work through
+Structural_Continuity_Neocolonial,hedendaagse,0.9,strongly_related,89,corpus_vocabulary,Contemporary/present-day
+Structural_Continuity_Neocolonial,diepgewortelde,0.9,strongly_related,8,corpus_vocabulary,Deep-rooted patterns
+Structural_Continuity_Neocolonial,chronische,0.9,strongly_related,40,corpus_vocabulary,Chronic conditions
+Structural_Continuity_Neocolonial,marginalisatie,0.9,strongly_related,4,corpus_vocabulary,Marginalization process
+Structural_Continuity_Neocolonial,gemarginaliseerde,0.9,strongly_related,19,corpus_vocabulary,Marginalized (adjective)
+Structural_Continuity_Neocolonial,gemarginaliseerd,0.9,strongly_related,4,corpus_vocabulary,Marginalized
+Structural_Continuity_Neocolonial,uitbuiting,0.9,strongly_related,32,corpus_vocabulary,Exploitation
+Structural_Continuity_Neocolonial,achterstandspositie,0.9,strongly_related,2,corpus_vocabulary,Disadvantage position (compound)
+Structural_Continuity_Neocolonial,extractie,0.9,strongly_related,2,corpus_vocabulary,Extraction economics
+Structural_Continuity_Neocolonial,extractieve,0.9,strongly_related,2,corpus_vocabulary,Extractive (adjective)
+Structural_Continuity_Neocolonial,extractiekapitalisme,0.9,strongly_related,1,corpus_vocabulary,Extraction capitalism (compound)
+Structural_Continuity_Neocolonial,afhankelijkheid,0.9,strongly_related,19,corpus_vocabulary,Dependency
+Structural_Continuity_Neocolonial,afhankelijkheidsrelatie,0.9,strongly_related,3,corpus_vocabulary,Dependency relationship (compound)
+Structural_Continuity_Neocolonial,emigratie,0.9,strongly_related,16,corpus_vocabulary,Emigration (brain drain context)
+Structural_Continuity_Neocolonial,uitstroom,0.9,strongly_related,13,corpus_vocabulary,Outflow (population/skills)
+Structural_Continuity_Neocolonial,verwaarlozing,0.9,strongly_related,3,corpus_vocabulary,Neglect/underfunding
+Structural_Continuity_Neocolonial,ongelijkheid,0.7,moderately_related,57,corpus_vocabulary,Inequality
+Structural_Continuity_Neocolonial,ongelijke,0.7,moderately_related,90,corpus_vocabulary,Unequal
+Structural_Continuity_Neocolonial,ongelijkheden,0.7,moderately_related,10,corpus_vocabulary,Inequalities (plural)
+Structural_Continuity_Neocolonial,kansenongelijkheid,0.7,moderately_related,2,corpus_vocabulary,Inequality of opportunity (compound)
+Structural_Continuity_Neocolonial,inkomensongelijkheid,0.7,moderately_related,2,corpus_vocabulary,Income inequality (compound)
+Structural_Continuity_Neocolonial,armoede,0.7,moderately_related,85,corpus_vocabulary,Poverty
+Structural_Continuity_Neocolonial,armoedeproblematiek,0.7,moderately_related,3,corpus_vocabulary,Poverty problem complex (compound)
+Structural_Continuity_Neocolonial,achterstand,0.7,moderately_related,16,corpus_vocabulary,Disadvantage/lag
+Structural_Continuity_Neocolonial,achterstanden,0.7,moderately_related,23,corpus_vocabulary,Disadvantages (plural)
+Structural_Continuity_Neocolonial,kwetsbaarheid,0.7,moderately_related,6,corpus_vocabulary,Vulnerability
+Contemporary_Manifestations,racisme,1.0,core,905,corpus_vocabulary,Racism
+Contemporary_Manifestations,anti-zwartracisme,1.0,core,2,corpus_vocabulary,Anti-Black racism (compound)
+Contemporary_Manifestations,racistische,1.0,core,70,corpus_vocabulary,Racist (adjective)
+Contemporary_Manifestations,racistisch,1.0,core,31,corpus_vocabulary,Racist/racially
+Contemporary_Manifestations,discriminatie,1.0,core,659,corpus_vocabulary,Discrimination
+Contemporary_Manifestations,rassendiscriminatie,1.0,core,5,corpus_vocabulary,Racial discrimination (compound)
+Contemporary_Manifestations,etnische discriminatie,1.0,core,0,prob_seed_compound,Ethnic discrimination (compound)
+Contemporary_Manifestations,uitsluiting,1.0,core,56,corpus_vocabulary,Exclusion
+Contemporary_Manifestations,uitsluitingsmechanismen,1.0,core,1,corpus_vocabulary,Exclusion mechanisms (compound)
+Contemporary_Manifestations,huidskleur,1.0,core,48,corpus_vocabulary,Skin color (racialization basis)
+Contemporary_Manifestations,institutioneel racisme,1.0,core,0,prob_seed_compound,Institutional racism (systemic compound)
+Contemporary_Manifestations,structureel racisme,1.0,core,0,prob_seed_compound,Structural racism (systemic compound)
+Contemporary_Manifestations,systematisch racisme,1.0,core,0,prob_seed_compound,Systematic racism (systemic compound)
+Contemporary_Manifestations,systemisch racisme,1.0,core,0,prob_seed_compound,Systemic racism (systemic compound)
+Contemporary_Manifestations,etnische,0.9,strongly_related,101,corpus_vocabulary,Ethnic (adjective)
+Contemporary_Manifestations,afro-surinamers,0.9,strongly_related,21,corpus_vocabulary,Afro-Surinamese (specific group)
+Contemporary_Manifestations,afro-caribische,0.9,strongly_related,3,corpus_vocabulary,Afro-Caribbean
+Contemporary_Manifestations,afro-surinaamse,0.9,strongly_related,12,corpus_vocabulary,Afro-Surinamese (adjective)
+Contemporary_Manifestations,afro-antillianen,0.9,strongly_related,16,corpus_vocabulary,Afro-Antilleans
+Contemporary_Manifestations,afro-nederlanders,0.9,strongly_related,5,corpus_vocabulary,Afro-Dutch
+Contemporary_Manifestations,zwarten,0.9,strongly_related,41,corpus_vocabulary,Black people (racialized category)
+Contemporary_Manifestations,anti-zwart,0.9,strongly_related,37,corpus_vocabulary,Anti-Black
+Contemporary_Manifestations,discriminatietoets,0.9,strongly_related,102,corpus_vocabulary,Discrimination test (policy instrument)
+Contemporary_Manifestations,stagediscriminatie,0.9,strongly_related,9,corpus_vocabulary,Internship discrimination (compound)
+Contemporary_Manifestations,stage-discriminatie,0.9,strongly_related,2,corpus_vocabulary,Internship discrimination (hyphenated)
+Contemporary_Manifestations,arbeidsdiscriminatie,0.9,strongly_related,2,corpus_vocabulary,Labor discrimination (compound)
+Contemporary_Manifestations,discriminatiegronden,0.9,strongly_related,4,corpus_vocabulary,Discrimination grounds (compound)
+Contemporary_Manifestations,vooroordeel,0.9,strongly_related,7,corpus_vocabulary,Prejudice
+Contemporary_Manifestations,stereotypen,0.9,strongly_related,9,corpus_vocabulary,Stereotypes
+Contemporary_Manifestations,stereotyperingen,0.9,strongly_related,10,corpus_vocabulary,Stereotyping (noun)
+Contemporary_Manifestations,stereotyperende,0.9,strongly_related,4,corpus_vocabulary,Stereotyping (adjective)
+Contemporary_Manifestations,racismeprobleem,0.9,strongly_related,3,corpus_vocabulary,Racism problem (compound)
+Contemporary_Manifestations,systematisch,0.9,strongly_related,32,corpus_vocabulary,Systematic (systemic patterns)
+Contemporary_Manifestations,systematische,0.9,strongly_related,26,corpus_vocabulary,Systematic (adjective)
+Contemporary_Manifestations,systemisch,0.9,strongly_related,7,corpus_vocabulary,Systemic
+Contemporary_Manifestations,systemische,0.9,strongly_related,7,corpus_vocabulary,Systemic (adjective)
+Contemporary_Manifestations,institutioneel,0.9,strongly_related,95,corpus_vocabulary,Institutional (systemic context)
+Contemporary_Manifestations,racismevormen,0.7,moderately_related,2,corpus_vocabulary,Forms of racism
+Contemporary_Manifestations,xenofobie,0.7,moderately_related,2,corpus_vocabulary,Xenophobia
+Contemporary_Manifestations,intolerantie,0.7,moderately_related,2,corpus_vocabulary,Intolerance
+Contemporary_Manifestations,genderdiscriminatie,0.7,moderately_related,1,corpus_vocabulary,Gender discrimination
+Contemporary_Manifestations,zwangerschapsdiscriminatie,0.7,moderately_related,3,corpus_vocabulary,Pregnancy discrimination
+Contemporary_Manifestations,leeftijdsdiscriminatie,0.7,moderately_related,3,corpus_vocabulary,Age discrimination
+Contemporary_Manifestations,uitsluitingswetten,0.7,moderately_related,1,corpus_vocabulary,Exclusion laws
+Contemporary_Manifestations,raciaal-etnische,0.7,moderately_related,2,corpus_vocabulary,Racial-ethnic (compound)
+Contemporary_Manifestations,huidskleuren,0.7,moderately_related,2,corpus_vocabulary,Skin colors (plural)
+Contemporary_Manifestations,discriminatiezaken,0.7,moderately_related,3,corpus_vocabulary,Discrimination cases
+Contemporary_Manifestations,discriminatiemelding,0.7,moderately_related,2,corpus_vocabulary,Discrimination reporting
+Contemporary_Manifestations,discriminatie-,0.4,context,6,corpus_vocabulary,Discrimination prefix (generic)
